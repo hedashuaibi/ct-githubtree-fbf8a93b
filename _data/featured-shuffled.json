@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Rabrg/artificial-life",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
-  },
-  {
-    "repo": "SigmaTradeLabs/aster-bot",
-    "branch": "main",
+    "repo": "sachaa/openbrowserclaw",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
   },
   {
-    "repo": "3-JonWallis1993/HyperLiquid-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "repo": "ChainSafe/lodestar",
+    "branch": "stable",
+    "language": "TypeScript",
+    "description": "🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem"
   },
   {
-    "repo": "go-micro/go-micro",
-    "branch": "master",
-    "language": "Go",
-    "description": "A Go microservices framework"
-  },
-  {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
-  },
-  {
-    "repo": "postrv/forgemax",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
-  },
-  {
-    "repo": "react-native-camera/react-native-camera",
-    "branch": "master",
-    "language": "Java",
-    "description": "A Camera component for React Native. Also supports barcode scanning!"
-  },
-  {
-    "repo": "GreatScott/enject",
-    "branch": "main",
-    "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "HKUDS/CLI-Anything",
-    "branch": "main",
-    "language": "Python",
-    "description": "CLI-Anything: Making ALL Software Agent-Native"
-  },
-  {
-    "repo": "Sir-Scuzza/gluetun-webui",
+    "repo": "htimesnine/DarkSword-RCE",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "DarkSword webkit exploit captured ITW"
   },
   {
-    "repo": "borkdude/cream",
+    "repo": "jasmine/jasmine",
     "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+    "language": "JavaScript",
+    "description": "Simple JavaScript testing framework for browsers and node.js"
   },
   {
-    "repo": "vllm-project/aibrix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
-  },
-  {
-    "repo": "agentscope-ai/CoPaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
-  },
-  {
-    "repo": "twbs/bootstrap",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-  },
-  {
-    "repo": "Gen-Verse/OpenClaw-RL",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
-  },
-  {
-    "repo": "dev-protocol/polymarket-sports-trading-bot",
+    "repo": "mroboff/vm-curator",
     "branch": "main",
     "language": "Rust",
-    "description": "Polymarket Sports trading bot that bet on sport pool. polymarket sports trading | polymarket sport betting | polymarket sports bot"
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
   },
   {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "repo": "LYL1015/JarvisX-Cowork",
     "branch": "main",
-    "language": "Dart",
+    "language": "Python",
+    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
+  },
+  {
+    "repo": "huggingface/datasets",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
+  },
+  {
+    "repo": "Mrack/TInjector_Symbi",
+    "branch": "master",
+    "language": "C++",
+    "description": "更稳定的劫持Zygote在App启动前注入so"
+  },
+  {
+    "repo": "qinwf/awesome-R",
+    "branch": "master",
+    "language": "R",
+    "description": "A curated list of awesome R packages, frameworks and software."
+  },
+  {
+    "repo": "numpy/numpy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The fundamental package for scientific computing with Python."
+  },
+  {
+    "repo": "unicodeveloper/globalthreatmap",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
+  },
+  {
+    "repo": "jbhuang0604/awesome-computer-vision",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome computer vision resources"
+  },
+  {
+    "repo": "tektoncd/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
+  },
+  {
+    "repo": "microsoft/LlamaSharp",
+    "branch": "main",
+    "language": "Other",
+    "description": ".NET library for Llama model inference."
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An incremental parsing system for programming tools"
+  },
+  {
+    "repo": "supabase/postgres",
+    "branch": "develop",
+    "language": "Nix",
+    "description": "Unmodified Postgres with some useful plugins"
+  },
+  {
+    "repo": "vitejs/vite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next generation frontend tooling. It's fast!"
+  },
+  {
+    "repo": "nickustinov/itsytv-macos",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The missing Apple TV remote app for macOS"
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "spring-projects/spring-boot",
+    "repo": "prettier/prettier",
     "branch": "main",
-    "language": "Java",
-    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
   },
   {
-    "repo": "tanishqkumar/ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
-  },
-  {
-    "repo": "4R7I5T/CL1_LLM_Encoder",
+    "repo": "trumpet-noek/sora2-free-watermark-remover",
     "branch": "main",
     "language": "Python",
-    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
+    "description": "sora2 free watermark remover"
   },
   {
-    "repo": "bitcoin/bitcoin",
-    "branch": "master",
-    "language": "C++",
-    "description": "Bitcoin Core integration/staging tree"
-  },
-  {
-    "repo": "junegunn/fzf",
-    "branch": "master",
-    "language": "Go",
-    "description": ":cherry_blossom: A command-line fuzzy finder"
-  },
-  {
-    "repo": "ray-project/ray",
-    "branch": "master",
-    "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
-  },
-  {
-    "repo": "apache/superset",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    "repo": "liu-ziting/ThinkFlowAI",
+    "branch": "main",
+    "language": "Vue",
+    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
   }
 ]
