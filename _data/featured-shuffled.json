@@ -1,135 +1,45 @@
 [
   {
-    "repo": "sachaa/openbrowserclaw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
-  },
-  {
-    "repo": "ChainSafe/lodestar",
-    "branch": "stable",
-    "language": "TypeScript",
-    "description": "🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem"
-  },
-  {
-    "repo": "htimesnine/DarkSword-RCE",
+    "repo": "Trooped/QuickBars",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
   },
   {
-    "repo": "jasmine/jasmine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
-  },
-  {
-    "repo": "mroboff/vm-curator",
-    "branch": "main",
-    "language": "Rust",
-    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
-  },
-  {
-    "repo": "LYL1015/JarvisX-Cowork",
-    "branch": "main",
-    "language": "Python",
-    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
-  },
-  {
-    "repo": "huggingface/datasets",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
-  },
-  {
-    "repo": "Mrack/TInjector_Symbi",
-    "branch": "master",
-    "language": "C++",
-    "description": "更稳定的劫持Zygote在App启动前注入so"
-  },
-  {
-    "repo": "qinwf/awesome-R",
-    "branch": "master",
-    "language": "R",
-    "description": "A curated list of awesome R packages, frameworks and software."
-  },
-  {
-    "repo": "numpy/numpy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
-  },
-  {
-    "repo": "unicodeveloper/globalthreatmap",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
-  },
-  {
-    "repo": "jbhuang0604/awesome-computer-vision",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome computer vision resources"
-  },
-  {
-    "repo": "tektoncd/cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
-  },
-  {
-    "repo": "bytecodealliance/wasmtime",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
-  },
-  {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "tree-sitter/tree-sitter",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An incremental parsing system for programming tools"
-  },
-  {
-    "repo": "supabase/postgres",
+    "repo": "select2/select2",
     "branch": "develop",
-    "language": "Nix",
-    "description": "Unmodified Postgres with some useful plugins"
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
   },
   {
-    "repo": "vitejs/vite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
-  },
-  {
-    "repo": "nickustinov/itsytv-macos",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
+    "repo": "AriPath/AriMando",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
   },
   {
-    "repo": "prettier/prettier",
+    "repo": "pyinvoke/invoke",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
+    "language": "Python",
+    "description": "Pythonic task management & command execution."
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "beeware/toga",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python native, OS native GUI toolkit."
+  },
+  {
+    "repo": "react-native-camera/react-native-camera",
+    "branch": "master",
+    "language": "Java",
+    "description": "A Camera component for React Native. Also supports barcode scanning!"
   },
   {
     "repo": "trumpet-noek/sora2-free-watermark-remover",
@@ -138,9 +48,99 @@
     "description": "sora2 free watermark remover"
   },
   {
-    "repo": "liu-ziting/ThinkFlowAI",
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "storybookjs/storybook",
+    "branch": "next",
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+  },
+  {
+    "repo": "dagger/dagger",
     "branch": "main",
-    "language": "Vue",
-    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
+    "language": "Go",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+  },
+  {
+    "repo": "fspecii/HeartMuLa-Studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "repo": "plotly/dash",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
+  },
+  {
+    "repo": "stedolan/jq",
+    "branch": "master",
+    "language": "C",
+    "description": "Command-line JSON processor"
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "iCHAIT/awesome-macOS",
+    "branch": "master",
+    "language": "Other",
+    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
+  },
+  {
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplayer at the speed of light"
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "wasmerio/wasmer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+  },
+  {
+    "repo": "npmx-dev/npmx.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "a fast, modern browser for the npm registry"
+  },
+  {
+    "repo": "goreleaser/goreleaser",
+    "branch": "main",
+    "language": "Go",
+    "description": "Release engineering, simplified"
   }
 ]

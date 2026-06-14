@@ -1,8 +1,8 @@
 {
-  "repo": "gsgpkazqyx/zapret-vpn-russia",
+  "repo": "TestSprite/testsprite-cli",
   "branch": "main",
-  "language": "Rust",
-  "description": "Лучший бесплатный VPN для Windows 10/11 на русском языке! Скачать ВПН без регистрации для разблокировки YouTube, Telegram, Instagram в России 2026. Высокая скорость 100+ Мбит/с, простая установка за 30 секунд. Работает с Ростелеком, МТС, Билайн.",
-  "stars": 0,
-  "forks": 0
+  "language": "TypeScript",
+  "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+  "stars": 158,
+  "forks": 6
 }
