@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "Rabrg/artificial-life",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+  },
+  {
+    "repo": "SigmaTradeLabs/aster-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
+  },
+  {
+    "repo": "3-JonWallis1993/HyperLiquid-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "go-micro/go-micro",
+    "branch": "master",
+    "language": "Go",
+    "description": "A Go microservices framework"
+  },
+  {
+    "repo": "smartcmd/MinecraftConsoles",
+    "branch": "main",
+    "language": "C++",
+    "description": "A certain block game"
+  },
+  {
+    "repo": "postrv/forgemax",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
+  },
+  {
+    "repo": "react-native-camera/react-native-camera",
+    "branch": "master",
+    "language": "Java",
+    "description": "A Camera component for React Native. Also supports barcode scanning!"
+  },
+  {
+    "repo": "GreatScott/enject",
+    "branch": "main",
+    "language": "Rust",
+    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "branch": "main",
+    "language": "Python",
+    "description": "CLI-Anything: Making ALL Software Agent-Native"
+  },
+  {
+    "repo": "Sir-Scuzza/gluetun-webui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "borkdude/cream",
+    "branch": "main",
+    "language": "Clojure",
+    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+  },
+  {
+    "repo": "vllm-project/aibrix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "repo": "twbs/bootstrap",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "repo": "Gen-Verse/OpenClaw-RL",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+  },
+  {
+    "repo": "dev-protocol/polymarket-sports-trading-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Sports trading bot that bet on sport pool. polymarket sports trading | polymarket sport betting | polymarket sports bot"
+  },
+  {
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+  },
+  {
+    "repo": "tanishqkumar/ssd",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
+  },
+  {
+    "repo": "4R7I5T/CL1_LLM_Encoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
+  },
+  {
+    "repo": "bitcoin/bitcoin",
+    "branch": "master",
+    "language": "C++",
+    "description": "Bitcoin Core integration/staging tree"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "branch": "master",
+    "language": "Go",
+    "description": ":cherry_blossom: A command-line fuzzy finder"
+  },
+  {
+    "repo": "ray-project/ray",
+    "branch": "master",
+    "language": "Python",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+  },
+  {
+    "repo": "apache/superset",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  }
+]
