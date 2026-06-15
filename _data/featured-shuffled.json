@@ -1,146 +1,146 @@
 [
   {
-    "repo": "facebookresearch/actionmesh",
+    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
     "branch": "main",
-    "language": "Python",
-    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
+    "language": "C#",
+    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
   },
   {
-    "repo": "Keychron/Keychron-Keyboards-Hardware-Design",
+    "repo": "Zouuup/landrun",
     "branch": "main",
-    "language": "Python",
-    "description": "All the industrial design files for Keychron keyboards and mice. Includes CAD models (case, plate, stabilizer, encoder, keycap) for Q, Q Pro, Q HE, K Pro, K Max, K HE, V Max, P HE series and M1–M7 mice. 100+ models. STEP/DXF/PDF formats. This project is source-available. Commercial use is strictly prohibited."
+    "language": "Go",
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
   },
   {
-    "repo": "pyinvoke/invoke",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pythonic task management & command execution."
-  },
-  {
-    "repo": "ionic-team/capacitor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
-  },
-  {
-    "repo": "wagmi-dev/wagmi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive primitives for Ethereum apps"
-  },
-  {
-    "repo": "ipfs/js-ipfs",
+    "repo": "wsargent/docker-cheat-sheet",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "brackets-cont/brackets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
-  },
-  {
-    "repo": "Kanaries/pygwalker",
-    "branch": "main",
-    "language": "Python",
-    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
-  },
-  {
-    "repo": "parcel-bundler/parcel",
-    "branch": "v2",
-    "language": "JavaScript",
-    "description": "The zero configuration build tool for the web. 📦🚀"
-  },
-  {
-    "repo": "psycopg/psycopg",
-    "branch": "master",
-    "language": "Python",
-    "description": "New generation PostgreSQL database adapter for the Python programming language"
-  },
-  {
-    "repo": "langchain-ai/langchainjs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦜🔗 Build context-aware reasoning applications"
-  },
-  {
-    "repo": "goharbor/community",
-    "branch": "main",
     "language": "Other",
-    "description": "Harbor community-related material"
+    "description": "Docker Cheat Sheet"
   },
   {
-    "repo": "polkadot-js/apps",
+    "repo": "Kylsky/chatgpt-team-helper",
+    "branch": "main",
+    "language": "Vue",
+    "description": "一站式Team账号管理"
+  },
+  {
+    "repo": "PowerShell/PowerShell",
+    "branch": "master",
+    "language": "C#",
+    "description": "PowerShell for every system!"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "AMAP-ML/SpatialGenEval",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "xstongxue/best-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "通用高质量 Skills 合集🔥"
+  },
+  {
+    "repo": "miuda-ai/lele",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Bare-Metal Rust Audio AI Framework"
+  },
+  {
+    "repo": "paritytech/polkadot-sdk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The Parity Polkadot Blockchain SDK"
+  },
+  {
+    "repo": "imxv/Pretty-mermaid-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
+  },
+  {
+    "repo": "pypa/pipenv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Development Workflow for Humans."
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "airbnb/lottie-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+  },
+  {
+    "repo": "jkudish/librarium",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
+  },
+  {
+    "repo": "supabase/supabase",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
   },
   {
-    "repo": "kubernetes-sigs/external-dns",
+    "repo": "coollabsio/jean",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run AI agents parallel in isolated workspaces."
+  },
+  {
+    "repo": "Infatoshi/OpenSquirrel",
+    "branch": "main",
+    "language": "Rust",
+    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+  },
+  {
+    "repo": "apache/airflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+  },
+  {
+    "repo": "devicekit/DeviceKit",
+    "branch": "master",
+    "language": "Swift",
+    "description": "DeviceKit is a value-type replacement of UIDevice."
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenTelemetry JavaScript Client"
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "docker/buildx",
     "branch": "master",
     "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
   },
   {
-    "repo": "antirez/tgterm",
+    "repo": "34306/FilzaJailedDS",
     "branch": "main",
-    "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
-  },
-  {
-    "repo": "foru17/clash-master",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
-  },
-  {
-    "repo": "CapeAga/bai-it",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
-  },
-  {
-    "repo": "Snailclimb/JavaGuide",
-    "branch": "main",
-    "language": "Java",
-    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！"
-  },
-  {
-    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual Dexscreener terminal CLI + MCP scanner"
-  },
-  {
-    "repo": "millionco/react-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
-  },
-  {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
-  },
-  {
-    "repo": "TanStack/query",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
-  },
-  {
-    "repo": "hallucinogen/agent-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Kanban board for managing Claude Code agents in tmux"
-  },
-  {
-    "repo": "juanceresa/sift-kg",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
   }
 ]

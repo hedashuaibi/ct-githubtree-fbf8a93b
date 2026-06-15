@@ -1,8 +1,8 @@
 {
-  "repo": "Inproger/ryujinx-emulator",
+  "repo": "apple/truetype-hinting-interpreter-example",
   "branch": "main",
-  "language": "C#",
-  "description": "Ryujinx canary  download Nintendo Switch emulator tomodachi life PC Ryubing  github  firmware prod keys Vulkan shader cache graphics mods cheats 60fps local wireless LDN multiplayer config tools save",
-  "stars": 101,
+  "language": "Swift",
+  "description": "Swift TrueType Interpreter",
+  "stars": 122,
   "forks": 1
 }
