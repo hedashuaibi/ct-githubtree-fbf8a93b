@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apache/beam",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
     "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
   },
   {
-    "repo": "Forsy-AI/forsy-trace-skill",
+    "repo": "nekocode/filetree-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Open skill for capturing AI agent work as structured traces."
+    "description": "A Claude Code plugin that maintains `FILETREE.md`."
   },
   {
-    "repo": "apple/swift-argument-parser",
+    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
     "branch": "main",
-    "language": "Swift",
-    "description": "Straightforward, type-safe argument parsing for Swift"
+    "language": "Dart",
+    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
   },
   {
-    "repo": "linlay/zenmind",
+    "repo": "cathrynlavery/diagram-design",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
+    "language": "HTML",
+    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
   },
   {
-    "repo": "chroma-core/chroma",
+    "repo": "immanuwell/dockerfile-roast",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source search and retrieval database for AI applications."
+    "description": "a dockerfile linter that actually has opinions 🔥"
   },
   {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "repo": "lewislulu/html-ppt-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+  },
+  {
+    "repo": "shanselman/PeekDesktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "repo": "op7418/logo-generator-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "logo-generator-skill"
+  },
+  {
+    "repo": "liyown/marknative",
     "branch": "main",
     "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
+    "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM."
   },
   {
-    "repo": "keepassxreboot/keepassxc",
-    "branch": "develop",
-    "language": "C++",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
-  },
-  {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
-  },
-  {
-    "repo": "cortexproject/cortex",
-    "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
-  },
-  {
-    "repo": "nickustinov/itsypad-macos",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
-  },
-  {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
-  },
-  {
-    "repo": "Lucent-Snow/style-extractor",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "一个能够提取最大化提取网页风格的skill"
-  },
-  {
-    "repo": "Crestdrasnip/Claude-Zeroclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "id-Software/DOOM",
-    "branch": "master",
-    "language": "C++",
-    "description": "DOOM Open Source Release"
-  },
-  {
-    "repo": "eooce/python-ws",
-    "branch": "main",
-    "language": "Python",
-    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
-  },
-  {
-    "repo": "derHaken/SuperAntigravity",
+    "repo": "ccbkkb/MicroWARP",
     "branch": "main",
     "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+    "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker"
   },
   {
-    "repo": "curl/curl",
-    "branch": "master",
-    "language": "C",
-    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
-  },
-  {
-    "repo": "cheeriojs/cheerio",
+    "repo": "HJCheng0602/nanoPD",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+    "language": "Python",
+    "description": "A from-scratch Prefill/Decode disaggregation inference engine for LLMs"
   },
   {
-    "repo": "SuperCmdLabs/SuperCmd",
+    "repo": "meodai/heerich",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "What Apple Intelligence should have been"
-  },
-  {
-    "repo": "Haleclipse/CodexDesktop-Rebuild",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Codex Desktop App - Cross-platform Rebuild"
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
   },
   {
-    "repo": "Y-Peng-Dev/Watchdog",
+    "repo": "kapishdima/remocn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+  },
+  {
+    "repo": "HKUDS/CatchMe",
+    "branch": "main",
+    "language": "Python",
+    "description": "CatchMe: Make Your AI Agents Truly Personal"
+  },
+  {
+    "repo": "Hainrixz/open-carrusel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+  },
+  {
+    "repo": "SteveTheKiller/KillerPDF",
     "branch": "master",
     "language": "C#",
-    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
+    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
   },
   {
-    "repo": "TrendTechVista/polymarket-politics-bot",
+    "repo": "second-state/kitten_tts_rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+  },
+  {
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+  },
+  {
+    "repo": "pretyflaco/meetscribe",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
+  },
+  {
+    "repo": "ultraworkers/claw-code",
+    "branch": "main",
+    "language": "Rust",
+    "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
+  },
+  {
+    "repo": "e10nMa2k/cc-mini",
+    "branch": "main",
+    "language": "Python",
+    "description": "mini version of claude code"
+  },
+  {
+    "repo": "EveryInc/proof-sdk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+  },
+  {
+    "repo": "Kindness-Kismet/One-Player",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "增强的 Android 视频播放器"
   }
 ]
