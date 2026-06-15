@@ -1,8 +1,8 @@
 {
-  "repo": "TestSprite/testsprite-cli",
+  "repo": "2latemc/JustAnotherMusicClient",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-  "stars": 158,
-  "forks": 6
+  "description": "A desktop music client that integrates with YouTube Music for Windows and MacOS. Independent and not affiliated with, endorsed by, or sponsored by YouTube or Google.",
+  "stars": 101,
+  "forks": 8
 }

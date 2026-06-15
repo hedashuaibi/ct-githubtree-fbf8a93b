@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
-  },
-  {
-    "repo": "AriPath/AriMando",
-    "branch": "main",
-    "language": "Python",
-    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
-  },
-  {
-    "repo": "pyinvoke/invoke",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pythonic task management & command execution."
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "beeware/toga",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python native, OS native GUI toolkit."
-  },
-  {
-    "repo": "react-native-camera/react-native-camera",
+    "repo": "apache/beam",
     "branch": "master",
     "language": "Java",
-    "description": "A Camera component for React Native. Also supports barcode scanning!"
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
   },
   {
-    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "repo": "Forsy-AI/forsy-trace-skill",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 free watermark remover"
+    "description": "Open skill for capturing AI agent work as structured traces."
   },
   {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
+    "repo": "apple/swift-argument-parser",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Straightforward, type-safe argument parsing for Swift"
   },
   {
-    "repo": "espressif/arduino-esp32",
-    "branch": "master",
+    "repo": "linlay/zenmind",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "宅在家里的电脑，努力做一个openclaw"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source search and retrieval database for AI applications."
+  },
+  {
+    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个长达 10 小时的 AI 全自动编程实验"
+  },
+  {
+    "repo": "keepassxreboot/keepassxc",
+    "branch": "develop",
     "language": "C++",
-    "description": "Arduino core for the ESP32"
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
   },
   {
-    "repo": "storybookjs/storybook",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
-  },
-  {
-    "repo": "dagger/dagger",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
-  },
-  {
-    "repo": "fspecii/HeartMuLa-Studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
-  },
-  {
-    "repo": "plotly/dash",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
-  },
-  {
-    "repo": "stedolan/jq",
+    "repo": "microsoft/winget-pkgs",
     "branch": "master",
-    "language": "C",
-    "description": "Command-line JSON processor"
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
   },
   {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "iCHAIT/awesome-macOS",
+    "repo": "CyC2018/CS-Notes",
     "branch": "master",
     "language": "Other",
-    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
   },
   {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
-  },
-  {
-    "repo": "clockworklabs/SpacetimeDB",
+    "repo": "cortexproject/cortex",
     "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
   },
   {
-    "repo": "redis/hiredis",
-    "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
+    "repo": "nickustinov/itsypad-macos",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
   },
   {
-    "repo": "wasmerio/wasmer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
   },
   {
-    "repo": "npmx-dev/npmx.dev",
+    "repo": "Lucent-Snow/style-extractor",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "一个能够提取最大化提取网页风格的skill"
+  },
+  {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "a fast, modern browser for the npm registry"
+    "description": ""
   },
   {
-    "repo": "goreleaser/goreleaser",
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+  },
+  {
+    "repo": "id-Software/DOOM",
+    "branch": "master",
+    "language": "C++",
+    "description": "DOOM Open Source Release"
+  },
+  {
+    "repo": "eooce/python-ws",
     "branch": "main",
-    "language": "Go",
-    "description": "Release engineering, simplified"
+    "language": "Python",
+    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+  },
+  {
+    "repo": "curl/curl",
+    "branch": "master",
+    "language": "C",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+  },
+  {
+    "repo": "cheeriojs/cheerio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+  },
+  {
+    "repo": "SuperCmdLabs/SuperCmd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "What Apple Intelligence should have been"
+  },
+  {
+    "repo": "Haleclipse/CodexDesktop-Rebuild",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Codex Desktop App - Cross-platform Rebuild"
+  },
+  {
+    "repo": "Y-Peng-Dev/Watchdog",
+    "branch": "master",
+    "language": "C#",
+    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
+  },
+  {
+    "repo": "TrendTechVista/polymarket-politics-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
   }
 ]
