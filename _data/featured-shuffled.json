@@ -1,146 +1,146 @@
 [
   {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "nekocode/filetree-skill",
+    "repo": "facebookresearch/actionmesh",
     "branch": "main",
     "language": "Python",
-    "description": "A Claude Code plugin that maintains `FILETREE.md`."
+    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
   },
   {
-    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
-  },
-  {
-    "repo": "cathrynlavery/diagram-design",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
-  },
-  {
-    "repo": "immanuwell/dockerfile-roast",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "lewislulu/html-ppt-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
-  },
-  {
-    "repo": "shanselman/PeekDesktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
-  },
-  {
-    "repo": "op7418/logo-generator-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "logo-generator-skill"
-  },
-  {
-    "repo": "liyown/marknative",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM."
-  },
-  {
-    "repo": "ccbkkb/MicroWARP",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker"
-  },
-  {
-    "repo": "HJCheng0602/nanoPD",
+    "repo": "Keychron/Keychron-Keyboards-Hardware-Design",
     "branch": "main",
     "language": "Python",
-    "description": "A from-scratch Prefill/Decode disaggregation inference engine for LLMs"
+    "description": "All the industrial design files for Keychron keyboards and mice. Includes CAD models (case, plate, stabilizer, encoder, keycap) for Q, Q Pro, Q HE, K Pro, K Max, K HE, V Max, P HE series and M1–M7 mice. 100+ models. STEP/DXF/PDF formats. This project is source-available. Commercial use is strictly prohibited."
   },
   {
-    "repo": "meodai/heerich",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
-  },
-  {
-    "repo": "kapishdima/remocn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
-  },
-  {
-    "repo": "HKUDS/CatchMe",
+    "repo": "pyinvoke/invoke",
     "branch": "main",
     "language": "Python",
-    "description": "CatchMe: Make Your AI Agents Truly Personal"
+    "description": "Pythonic task management & command execution."
   },
   {
-    "repo": "Hainrixz/open-carrusel",
+    "repo": "ionic-team/capacitor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
   },
   {
-    "repo": "SteveTheKiller/KillerPDF",
-    "branch": "master",
-    "language": "C#",
-    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
-  },
-  {
-    "repo": "second-state/kitten_tts_rs",
+    "repo": "wagmi-dev/wagmi",
     "branch": "main",
-    "language": "Rust",
-    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+    "language": "TypeScript",
+    "description": "Reactive primitives for Ethereum apps"
   },
   {
-    "repo": "MangoLion/stretchystudio",
+    "repo": "ipfs/js-ipfs",
     "branch": "master",
     "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+    "description": "IPFS implementation in JavaScript"
   },
   {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
   },
   {
-    "repo": "pretyflaco/meetscribe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
-  },
-  {
-    "repo": "ultraworkers/claw-code",
-    "branch": "main",
-    "language": "Rust",
-    "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
-  },
-  {
-    "repo": "e10nMa2k/cc-mini",
+    "repo": "Kanaries/pygwalker",
     "branch": "main",
     "language": "Python",
-    "description": "mini version of claude code"
+    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
   },
   {
-    "repo": "EveryInc/proof-sdk",
+    "repo": "parcel-bundler/parcel",
+    "branch": "v2",
+    "language": "JavaScript",
+    "description": "The zero configuration build tool for the web. 📦🚀"
+  },
+  {
+    "repo": "psycopg/psycopg",
+    "branch": "master",
+    "language": "Python",
+    "description": "New generation PostgreSQL database adapter for the Python programming language"
+  },
+  {
+    "repo": "langchain-ai/langchainjs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+    "description": "🦜🔗 Build context-aware reasoning applications"
   },
   {
-    "repo": "Kindness-Kismet/One-Player",
+    "repo": "goharbor/community",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "增强的 Android 视频播放器"
+    "language": "Other",
+    "description": "Harbor community-related material"
+  },
+  {
+    "repo": "polkadot-js/apps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+  },
+  {
+    "repo": "antirez/tgterm",
+    "branch": "main",
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+  },
+  {
+    "repo": "foru17/clash-master",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+  },
+  {
+    "repo": "CapeAga/bai-it",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
+  },
+  {
+    "repo": "Snailclimb/JavaGuide",
+    "branch": "main",
+    "language": "Java",
+    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！"
+  },
+  {
+    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Visual Dexscreener terminal CLI + MCP scanner"
+  },
+  {
+    "repo": "millionco/react-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "postgres/postgres",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "hallucinogen/agent-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Kanban board for managing Claude Code agents in tmux"
+  },
+  {
+    "repo": "juanceresa/sift-kg",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
   }
 ]
