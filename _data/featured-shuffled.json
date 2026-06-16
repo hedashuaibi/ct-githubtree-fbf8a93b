@@ -1,146 +1,146 @@
 [
   {
-    "repo": "anima-aios/anima",
-    "branch": "main",
-    "language": "Python",
-    "description": "Growth Visible, Cognition Measurable"
-  },
-  {
-    "repo": "lqs/retrotick",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
-  },
-  {
-    "repo": "peteromallet/dataclaw",
+    "repo": "FireRedTeam/FireRed-OCR",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "calebwin/pgclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
+    "repo": "hxu296/tariff",
     "branch": "main",
     "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
+    "description": "The official repository for tariff"
   },
   {
-    "repo": "botiverse/agent-vault",
+    "repo": "angular/angular-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Keep your secrets hidden from AI agents."
+    "description": "CLI tool for Angular"
   },
   {
-    "repo": "planetscale/database-skills",
+    "repo": "sqlfluff/sqlfluff",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+  },
+  {
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "branch": "main",
+    "language": "MDX",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+  },
+  {
+    "repo": "composer/composer",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
+  },
+  {
+    "repo": "marshmallow-code/apispec",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification).."
+  },
+  {
+    "repo": "THUDM/ChatGLM-6B",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+  },
+  {
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
+  },
+  {
+    "repo": "solana-labs/solana-program-library",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A collection of Solana programs maintained by Solana Labs"
+  },
+  {
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTelemetry Collector"
+  },
+  {
+    "repo": "VoltAgent/awesome-design-md",
     "branch": "main",
     "language": "HTML",
-    "description": "Skills for AI agents working with databases"
+    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
   },
   {
-    "repo": "TraderAlice/OpenAlice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
-  },
-  {
-    "repo": "saif0200/notchprompt",
+    "repo": "Axion-Trading-Labs/polymarket-trading-bot",
     "branch": "main",
-    "language": "Swift",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "neosigmaai/auto-harness",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "ythx-101/x-tweet-fetcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
-  },
-  {
-    "repo": "daymonio/daymon",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
-  },
-  {
-    "repo": "andyhuo520/openclaw-assistant-mvp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
-  },
-  {
-    "repo": "ochyai/vibe-local",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free AI coding environment: Ollama + Python"
-  },
-  {
-    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
-  },
-  {
-    "repo": "acedef/SynthAPT",
+    "repo": "NyxTides/ppt-image-first",
     "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
+    "language": "Python",
+    "description": "PPT image-first skill for Codex CLI"
   },
   {
-    "repo": "Chrissotino/swiss-ai-call-agent",
+    "repo": "sadsadsasdasadsadsadsadsa/Crimson-Desert-Optiscaler-Fsr-4",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
+    "language": "C++",
+    "description": "Crimson Desert Optiscaler FSR 4 Full Version 2026 – Advanced Graphics Mod featuring OptiScaler + AMD FSR 4. Significantly increases FPS while improving image sharpness and reducing ghosting in Crimson Desert. Perfect for low-end and high-end PCs. Includes multiple FSR 4 presets. Best performance and upscaling solution for Crimson Desert in 2026!"
   },
   {
-    "repo": "jgarzik/apython",
+    "repo": "allenai/molmoweb",
     "branch": "main",
-    "language": "Assembly",
-    "description": "Accelerated Asm Python"
-  },
-  {
-    "repo": "Polymarket/polymarket-cli",
-    "branch": "main",
-    "language": "Rust",
+    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "mickamy/sql-tap",
+    "repo": "34306/FilzaJailedDS",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+  },
+  {
+    "repo": "immanuwell/dockerfile-roast",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a dockerfile linter that actually has opinions 🔥"
+  },
+  {
+    "repo": "NV404/gova",
     "branch": "main",
     "language": "Go",
-    "description": "Watch SQL traffic in real-time with a TUI"
-  },
-  {
-    "repo": "mo1app/pipemagic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
-  },
-  {
-    "repo": "mathiaschu/meta-ads-analyzer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
-  },
-  {
-    "repo": "Gentleman-Programming/engram",
-    "branch": "main",
-    "language": "Go",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
-  },
-  {
-    "repo": "datavorous/challenges",
-    "branch": "master",
-    "language": "Python",
-    "description": "Various coding challenges from all around the internet"
-  },
-  {
-    "repo": "ysharma3501/LavaSR",
-    "branch": "main",
-    "language": "Python",
-    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+    "description": "declarative GUI framework for Go"
   }
 ]

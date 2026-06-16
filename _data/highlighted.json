@@ -1,8 +1,8 @@
 {
-  "repo": "vinayaklatthe/microsoft-security-skills",
+  "repo": "sgup/ai",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
-  "stars": 104,
-  "forks": 27
+  "description": "Notes and operating profiles for working with AI coding agents.",
+  "stars": 105,
+  "forks": 10
 }
