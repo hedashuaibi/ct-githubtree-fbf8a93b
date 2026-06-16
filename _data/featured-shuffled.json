@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rclone/rclone",
-    "branch": "master",
-    "language": "Go",
-    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
-  },
-  {
-    "repo": "bitwarden/server",
-    "branch": "master",
-    "language": "C#",
-    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
-  },
-  {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Open Source Computer Vision Library"
-  },
-  {
-    "repo": "thananon/9arm-skills",
+    "repo": "OmniSVG/OmniSVG",
     "branch": "main",
-    "language": "Shell",
-    "description": ""
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
   },
   {
-    "repo": "nextcloud/server",
-    "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
+    "repo": "openai/point-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Point cloud diffusion for 3D model synthesis"
   },
   {
-    "repo": "better-auth/better-hub",
+    "repo": "jdevalk/specification.website",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
   },
   {
-    "repo": "alibaba/landmark-tokenized-dit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
-  },
-  {
-    "repo": "grafana/tempo",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend."
-  },
-  {
-    "repo": "pypa/setuptools",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official project repository for the Setuptools build system"
-  },
-  {
-    "repo": "diesel-rs/diesel",
+    "repo": "Automattic/mongoose",
     "branch": "master",
-    "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
-  },
-  {
-    "repo": "alibaba-damo-academy/RynnBrain",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
-  },
-  {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
-    "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
-  },
-  {
-    "repo": "gluon-framework/gluon",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+    "description": "MongoDB object modeling designed to work in an asynchronous environment."
   },
   {
-    "repo": "sveltejs/svelte",
+    "repo": "facebook/react-native",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "web development for the rest of us"
-  },
-  {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
     "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
+    "description": "A framework for building native applications using React"
   },
   {
-    "repo": "curvefi/curve-contract",
-    "branch": "master",
-    "language": "Python",
-    "description": "Vyper contracts used in Curve.fi exchange pools."
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "deep-learning-indaba/GoodPracticesML",
-    "branch": "main",
-    "language": "Other",
-    "description": "A repository of good practices for developing usable ML products in Africa."
-  },
-  {
-    "repo": "alebcay/awesome-shell",
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "gitleaks/gitleaks",
+    "repo": "nats-io/nats-server",
+    "branch": "main",
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build AI Agents, Visually"
+  },
+  {
+    "repo": "pypa/pipenv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Development Workflow for Humans."
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "branch": "main",
+    "language": "Python",
+    "description": "matplotlib: plotting with Python"
+  },
+  {
+    "repo": "tensorflow/datasets",
+    "branch": "master",
+    "language": "Python",
+    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
+  },
+  {
+    "repo": "SortableJS/Sortable",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+  },
+  {
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
     "branch": "master",
     "language": "Go",
-    "description": "Find secrets with Gitleaks 🔑"
+    "description": "Open Source realtime backend in 1 file"
   },
   {
-    "repo": "async-rs/async-std",
+    "repo": "apache/tvm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Machine Learning Compiler Framework"
+  },
+  {
+    "repo": "spf13/cobra",
+    "branch": "main",
+    "language": "Go",
+    "description": "A Commander for modern Go CLI interactions"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+  },
+  {
+    "repo": "solana-labs/solana",
     "branch": "master",
     "language": "Rust",
-    "description": "Async version of the Rust standard library"
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
   },
   {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+    "repo": "strapi/strapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
   },
   {
-    "repo": "microsoft/Web-Dev-For-Beginners",
+    "repo": "cloudwego/hertz",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "jquery/jquery-ui",
     "branch": "main",
     "language": "JavaScript",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+    "description": "The official jQuery user interface library."
   },
   {
-    "repo": "hyperium/hyper",
+    "repo": "massgravel/Microsoft-Activation-Scripts",
     "branch": "master",
-    "language": "Rust",
-    "description": "An HTTP library for Rust"
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "prettier/eslint-plugin-prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ESLint plugin for Prettier formatting"
   }
 ]

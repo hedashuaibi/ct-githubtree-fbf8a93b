@@ -1,8 +1,8 @@
 {
-  "repo": "joelewis012/CSIght",
+  "repo": "majidmanzarpour/threejs-game-skills",
   "branch": "main",
-  "language": "C",
-  "description": "**WiFi CSI radar for Flipper Zero + ESP32**  Detect motion, presence, and proximity through walls using WiFi Channel State Information — no cameras, no IR, no special sensors.",
-  "stars": 121,
-  "forks": 7
+  "language": "Python",
+  "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+  "stars": 164,
+  "forks": 13
 }
