@@ -1,146 +1,146 @@
 [
   {
-    "repo": "FireRedTeam/FireRed-OCR",
+    "repo": "rclone/rclone",
+    "branch": "master",
+    "language": "Go",
+    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+  },
+  {
+    "repo": "bitwarden/server",
+    "branch": "master",
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Open Source Computer Vision Library"
+  },
+  {
+    "repo": "thananon/9arm-skills",
     "branch": "main",
-    "language": "Python",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "hxu296/tariff",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repository for tariff"
-  },
-  {
-    "repo": "angular/angular-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI tool for Angular"
-  },
-  {
-    "repo": "sqlfluff/sqlfluff",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
-  },
-  {
-    "repo": "arendst/Tasmota",
-    "branch": "development",
-    "language": "C",
-    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
-  },
-  {
-    "repo": "dair-ai/Prompt-Engineering-Guide",
-    "branch": "main",
-    "language": "MDX",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-  },
-  {
-    "repo": "composer/composer",
-    "branch": "main",
+    "repo": "nextcloud/server",
+    "branch": "master",
     "language": "PHP",
-    "description": "Dependency Manager for PHP"
+    "description": "☁️ Nextcloud server, a safe home for all your data"
   },
   {
-    "repo": "marshmallow-code/apispec",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification).."
+    "repo": "better-auth/better-hub",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Re-imagining code collaboration for humans and agents"
   },
   {
-    "repo": "THUDM/ChatGLM-6B",
+    "repo": "alibaba/landmark-tokenized-dit",
     "branch": "main",
     "language": "Python",
-    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
   },
   {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "solana-labs/solana-program-library",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A collection of Solana programs maintained by Solana Labs"
-  },
-  {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-collector",
+    "repo": "grafana/tempo",
     "branch": "main",
     "language": "Go",
-    "description": "OpenTelemetry Collector"
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend."
   },
   {
-    "repo": "VoltAgent/awesome-design-md",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
-  },
-  {
-    "repo": "Axion-Trading-Labs/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "neosigmaai/auto-harness",
+    "repo": "pypa/setuptools",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Official project repository for the Setuptools build system"
   },
   {
-    "repo": "NyxTides/ppt-image-first",
+    "repo": "diesel-rs/diesel",
     "branch": "master",
-    "language": "Python",
-    "description": "PPT image-first skill for Codex CLI"
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
   },
   {
-    "repo": "sadsadsasdasadsadsadsadsa/Crimson-Desert-Optiscaler-Fsr-4",
-    "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert Optiscaler FSR 4 Full Version 2026 – Advanced Graphics Mod featuring OptiScaler + AMD FSR 4. Significantly increases FPS while improving image sharpness and reducing ghosting in Crimson Desert. Perfect for low-end and high-end PCs. Includes multiple FSR 4 presets. Best performance and upscaling solution for Crimson Desert in 2026!"
-  },
-  {
-    "repo": "allenai/molmoweb",
+    "repo": "alibaba-damo-academy/RynnBrain",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": ""
+    "description": "RynnBrain: Open Embodied Foundation Models"
   },
   {
-    "repo": "34306/FilzaJailedDS",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
   },
   {
-    "repo": "immanuwell/dockerfile-roast",
+    "repo": "gluon-framework/gluon",
     "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
+    "language": "JavaScript",
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
   },
   {
-    "repo": "NV404/gova",
+    "repo": "sveltejs/svelte",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "web development for the rest of us"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "curvefi/curve-contract",
+    "branch": "master",
+    "language": "Python",
+    "description": "Vyper contracts used in Curve.fi exchange pools."
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "deep-learning-indaba/GoodPracticesML",
+    "branch": "main",
+    "language": "Other",
+    "description": "A repository of good practices for developing usable ML products in Africa."
+  },
+  {
+    "repo": "alebcay/awesome-shell",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "branch": "master",
     "language": "Go",
-    "description": "declarative GUI framework for Go"
+    "description": "Find secrets with Gitleaks 🔑"
+  },
+  {
+    "repo": "async-rs/async-std",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Async version of the Rust standard library"
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+  },
+  {
+    "repo": "hyperium/hyper",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An HTTP library for Rust"
   }
 ]
