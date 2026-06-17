@@ -1,146 +1,146 @@
 [
   {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "jdevalk/specification.website",
+    "repo": "samuelfaj/distill",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
   },
   {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
+    "repo": "TQ-trade/defidollar-core",
+    "branch": "decentralized-stable-index",
     "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
+    "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin."
   },
   {
-    "repo": "facebook/react-native",
+    "repo": "AlexsJones/llmfit",
     "branch": "main",
-    "language": "C++",
-    "description": "A framework for building native applications using React"
+    "language": "Rust",
+    "description": "94 models. 30 providers. One command to find what runs on your hardware."
   },
   {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "nats-io/nats-server",
-    "branch": "main",
-    "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
-  },
-  {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
-  },
-  {
-    "repo": "FlowiseAI/Flowise",
-    "branch": "main",
+    "repo": "element-hq/element-web",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
+    "description": "A glossy Matrix collaboration client for the web."
   },
   {
-    "repo": "pypa/pipenv",
+    "repo": "userland-run/nano",
     "branch": "main",
-    "language": "Python",
-    "description": "Python Development Workflow for Humans."
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "branch": "main",
-    "language": "Python",
-    "description": "matplotlib: plotting with Python"
-  },
-  {
-    "repo": "tensorflow/datasets",
-    "branch": "master",
-    "language": "Python",
-    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
-  },
-  {
-    "repo": "SortableJS/Sortable",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
   },
   {
-    "repo": "pypa/pip",
+    "repo": "adafruit/circuitpython",
+    "branch": "main",
+    "language": "C",
+    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
     "branch": "main",
     "language": "Python",
-    "description": "The Python package installer"
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
   },
   {
-    "repo": "pocketbase/pocketbase",
-    "branch": "master",
-    "language": "Go",
-    "description": "Open Source realtime backend in 1 file"
-  },
-  {
-    "repo": "apache/tvm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Machine Learning Compiler Framework"
-  },
-  {
-    "repo": "spf13/cobra",
-    "branch": "main",
-    "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
-  },
-  {
-    "repo": "oven-sh/bun",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
-  },
-  {
-    "repo": "solana-labs/solana",
+    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
     "branch": "master",
     "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
   },
   {
-    "repo": "strapi/strapi",
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
+  },
+  {
+    "repo": "ahmetb/kubectx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Faster way to switch between clusters and namespaces in kubectl"
+  },
+  {
+    "repo": "spring-projects/spring-framework",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+    "language": "Java",
+    "description": "Spring Framework"
   },
   {
-    "repo": "cloudwego/hertz",
+    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "branch": "main",
+    "language": "Java",
+    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+  },
+  {
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tektoncd/cli",
     "branch": "main",
     "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+    "description": "A CLI for interacting with Tekton!"
   },
   {
-    "repo": "jquery/jquery-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The official jQuery user interface library."
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "repo": "aframevr/aframe",
     "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+    "language": "JavaScript",
+    "description": ":a: Web framework for building virtual reality experiences."
   },
   {
-    "repo": "prettier/eslint-plugin-prettier",
+    "repo": "0xMH/fichero-printer",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
+    "language": "HTML",
+    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "branch": "main",
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "0xsouravm/oxichrome",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+  },
+  {
+    "repo": "Eronred/aso-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
+  },
+  {
+    "repo": "HKUDS/FastCode",
+    "branch": "main",
+    "language": "Python",
+    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+  },
+  {
+    "repo": "writetoaniketparihar-collab/claude-spend",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "itcaat/mtproto-installer",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Ускоритель телеграм =)"
+  },
+  {
+    "repo": "symbolica-ai/arcgentica",
+    "branch": "main",
+    "language": "Python",
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
+  },
+  {
+    "repo": "plotly/dash",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
   }
 ]

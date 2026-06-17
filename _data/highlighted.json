@@ -1,8 +1,8 @@
 {
-  "repo": "majidmanzarpour/threejs-game-skills",
+  "repo": "bitoceango/civideo",
   "branch": "main",
-  "language": "Python",
-  "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-  "stars": 164,
-  "forks": 13
+  "language": "Swift",
+  "description": "家长可控的自建儿童视频流媒体播放器：无广告、无推荐流、封闭内容花园 · Self-hosted, ad-free kids video streaming player with parental controls — Cloudflare Workers + R2 and native SwiftUI (iOS / iPadOS / macOS)",
+  "stars": 108,
+  "forks": 3
 }
