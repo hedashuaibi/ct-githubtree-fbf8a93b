@@ -1,146 +1,146 @@
 [
   {
-    "repo": "samuelfaj/distill",
+    "repo": "steven2358/awesome-generative-ai",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
+  },
+  {
+    "repo": "The-Vibe-Company/claude-code-controller",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
+    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
   },
   {
-    "repo": "TQ-trade/defidollar-core",
-    "branch": "decentralized-stable-index",
-    "language": "JavaScript",
-    "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin."
-  },
-  {
-    "repo": "AlexsJones/llmfit",
+    "repo": "prometheus-operator/prometheus-operator",
     "branch": "main",
+    "language": "Go",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+  },
+  {
+    "repo": "HKUDS/OpenHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenHarness: Open Agent Harness"
+  },
+  {
+    "repo": "mysqljs/mysql",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cloud Native Policy Management"
+  },
+  {
+    "repo": "react-native-camera/react-native-camera",
+    "branch": "master",
+    "language": "Java",
+    "description": "A Camera component for React Native. Also supports barcode scanning!"
+  },
+  {
+    "repo": "google/jax",
+    "branch": "main",
+    "language": "Python",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+  },
+  {
+    "repo": "mastodon/mastodon",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Your self-hosted, globally interconnected microblogging community"
+  },
+  {
+    "repo": "NVlabs/Sana",
+    "branch": "main",
+    "language": "Python",
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+  },
+  {
+    "repo": "invertase/react-native-firebase",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "branch": "master",
+    "language": "C++",
+    "description": "Truly independent web browser"
+  },
+  {
+    "repo": "material-components/material-components-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
+  },
+  {
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
     "language": "Rust",
-    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
   },
   {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
+    "repo": "ninja-build/ninja",
+    "branch": "master",
+    "language": "C++",
+    "description": "a small build system with a focus on speed"
   },
   {
-    "repo": "userland-run/nano",
+    "repo": "LazyVim/LazyVim",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+    "language": "Lua",
+    "description": "Neovim config for the lazy"
   },
   {
-    "repo": "adafruit/circuitpython",
-    "branch": "main",
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
     "language": "C",
-    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+    "description": "Mirror of the LuaJIT git repository"
   },
   {
-    "repo": "agentscope-ai/CoPaw",
+    "repo": "honnibal/claude-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    "description": "Claude skills I'm experimenting with. Please review carefully before use."
   },
   {
-    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
-  },
-  {
-    "repo": "DioxusLabs/dioxus",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
-  },
-  {
-    "repo": "ahmetb/kubectx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Faster way to switch between clusters and namespaces in kubectl"
-  },
-  {
-    "repo": "spring-projects/spring-framework",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Framework"
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-kubernetes",
-    "branch": "main",
-    "language": "Java",
-    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
-  },
-  {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "repo": "cisco-ai-defense/skill-scanner",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Security Scanner for Agent Skills"
   },
   {
-    "repo": "tektoncd/cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
+    "repo": "MariaDB/server",
+    "branch": "11.4",
+    "language": "C++",
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
   },
   {
-    "repo": "aframevr/aframe",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":a: Web framework for building virtual reality experiences."
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
   },
   {
-    "repo": "0xMH/fichero-printer",
+    "repo": "kevinho/clawfeed",
     "branch": "main",
     "language": "HTML",
-    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+    "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
   },
   {
-    "repo": "quarkusio/quarkus",
-    "branch": "main",
-    "language": "Java",
-    "description": "Quarkus: Supersonic Subatomic Java."
-  },
-  {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "Eronred/aso-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
-  },
-  {
-    "repo": "HKUDS/FastCode",
+    "repo": "Myhhub/Stock",
     "branch": "main",
     "language": "Python",
-    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
-  },
-  {
-    "repo": "writetoaniketparihar-collab/claude-spend",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "itcaat/mtproto-installer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Ускоритель телеграм =)"
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
-    "branch": "main",
-    "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
-  },
-  {
-    "repo": "plotly/dash",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
+    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
   }
 ]
