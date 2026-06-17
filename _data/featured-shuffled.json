@@ -1,15 +1,33 @@
 [
   {
-    "repo": "ynsmroztas/AndroHunter",
+    "repo": "appledog-xyz/FormCmsPortal",
     "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "grpc/grpc-go",
+    "repo": "HKUDS/ClawWork",
+    "branch": "main",
+    "language": "Python",
+    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
     "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+  },
+  {
+    "repo": "alecthomas/t",
+    "branch": "master",
+    "language": "Rust",
+    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
   },
   {
     "repo": "Momciloo/fun-with-clip-path",
@@ -18,129 +36,111 @@
     "description": ""
   },
   {
-    "repo": "UnluckyNinja/SBTI-test",
+    "repo": "GreatScott/enveil",
     "branch": "main",
-    "language": "HTML",
-    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
+    "language": "Rust",
+    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
   },
   {
-    "repo": "kubernetes/dashboard",
-    "branch": "master",
-    "language": "Go",
-    "description": "General-purpose web UI for Kubernetes clusters"
-  },
-  {
-    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
-    "branch": "master",
-    "language": "Other",
-    "description": ":link: Some useful websites for programmers."
-  },
-  {
-    "repo": "bbylw/clawdbot-cn",
+    "repo": "sangrokjung/claude-forge",
     "branch": "main",
-    "language": "HTML",
-    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
+    "language": "Shell",
+    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
   },
   {
-    "repo": "PsiACE/skills",
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
     "branch": "main",
-    "language": "HTML",
-    "description": "A small, shared skill library by builders, for builders."
+    "language": "Python",
+    "description": "Using AI for high quality writing"
   },
   {
-    "repo": "paid-tw/skills",
+    "repo": "iad1tya/Net-Bar",
     "branch": "main",
-    "language": "PHP",
-    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
+    "language": "Swift",
+    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
   },
   {
-    "repo": "mo1app/pipemagic",
+    "repo": "better-auth/better-icons",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
+    "description": "Skill and MCP server for searching and retrieving icons"
   },
   {
-    "repo": "SVProgressHUD/SVProgressHUD",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
-  },
-  {
-    "repo": "testcontainers/testcontainers-java",
+    "repo": "doocs/advanced-java",
     "branch": "main",
     "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
   },
   {
-    "repo": "cporter202/video-scraping-apis",
+    "repo": "IAmUnbounded/devctx",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
   },
   {
-    "repo": "XiaomiRobotics/Xiaomi-Robotics-0",
+    "repo": "wader/fq",
+    "branch": "master",
+    "language": "Go",
+    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
+  },
+  {
+    "repo": "lifo-sh/lifo",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence."
+  },
+  {
+    "repo": "kimjune01/cord",
+    "branch": "master",
+    "language": "Python",
+    "description": "A coordination protocol for trees of Claude Code agents"
+  },
+  {
+    "repo": "CleverCloud/mdr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+  },
+  {
+    "repo": "quailyquaily/aqua",
+    "branch": "master",
+    "language": "Go",
+    "description": "Aqua, a cli message tool for AI agents"
+  },
+  {
+    "repo": "vercel-labs/portless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+  },
+  {
+    "repo": "juanceresa/sift-kg",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
+  },
+  {
+    "repo": "innoqiu/newsieai",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "dropwizard/dropwizard",
-    "branch": "master",
-    "language": "Java",
-    "description": "A damn simple library for building production-ready RESTful web services."
-  },
-  {
-    "repo": "godotengine/godot-docs",
-    "branch": "master",
-    "language": "reStructuredText",
-    "description": "Godot Engine official documentation"
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "gitleaks/gitleaks",
-    "branch": "master",
-    "language": "Go",
-    "description": "Find secrets with Gitleaks 🔑"
-  },
-  {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
-    "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
+    "repo": "Prismer-AI/Prismer",
     "branch": "main",
+    "language": "Python",
+    "description": "Open Source OpenAI Prism Alternative"
+  },
+  {
+    "repo": "missing-semester/missing-semester",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Missing Semester of Your CS Education 📚"
+  },
+  {
+    "repo": "wbenny/scfw",
+    "branch": "master",
     "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
-  },
-  {
-    "repo": "nepfaff/scenesmith",
-    "branch": "main",
-    "language": "Python",
-    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
-  },
-  {
-    "repo": "rohunvora/x-research-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
-  },
-  {
-    "repo": "nats-io/nats.go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
-  },
-  {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
+    "description": "A cross-platform C++ framework for building Windows shellcode"
   }
 ]
