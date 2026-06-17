@@ -1,146 +1,146 @@
 [
   {
-    "repo": "steven2358/awesome-generative-ai",
+    "repo": "ynsmroztas/AndroHunter",
     "branch": "main",
-    "language": "Other",
-    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
-  },
-  {
-    "repo": "The-Vibe-Company/claude-code-controller",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
-  },
-  {
-    "repo": "prometheus-operator/prometheus-operator",
-    "branch": "main",
-    "language": "Go",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
-  },
-  {
-    "repo": "HKUDS/OpenHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenHarness: Open Agent Harness"
-  },
-  {
-    "repo": "mysqljs/mysql",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
-  },
-  {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
-    "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
-  },
-  {
-    "repo": "kyverno/kyverno",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cloud Native Policy Management"
-  },
-  {
-    "repo": "react-native-camera/react-native-camera",
-    "branch": "master",
     "language": "Java",
-    "description": "A Camera component for React Native. Also supports barcode scanning!"
+    "description": "AndroHunter"
   },
   {
-    "repo": "google/jax",
-    "branch": "main",
-    "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
-  },
-  {
-    "repo": "mastodon/mastodon",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Your self-hosted, globally interconnected microblogging community"
-  },
-  {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
-  },
-  {
-    "repo": "invertase/react-native-firebase",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "LadybirdBrowser/ladybird",
+    "repo": "grpc/grpc-go",
     "branch": "master",
-    "language": "C++",
-    "description": "Truly independent web browser"
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
   },
   {
-    "repo": "material-components/material-components-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Modular and customizable Material Design UI components for Android"
-  },
-  {
-    "repo": "akitaonrails/FrankSherlock",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
-  },
-  {
-    "repo": "ninja-build/ninja",
-    "branch": "master",
-    "language": "C++",
-    "description": "a small build system with a focus on speed"
-  },
-  {
-    "repo": "LazyVim/LazyVim",
+    "repo": "Momciloo/fun-with-clip-path",
     "branch": "main",
-    "language": "Lua",
-    "description": "Neovim config for the lazy"
+    "language": "CSS",
+    "description": ""
   },
   {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
-  },
-  {
-    "repo": "honnibal/claude-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skills I'm experimenting with. Please review carefully before use."
-  },
-  {
-    "repo": "cisco-ai-defense/skill-scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Scanner for Agent Skills"
-  },
-  {
-    "repo": "MariaDB/server",
-    "branch": "11.4",
-    "language": "C++",
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
-  },
-  {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
-  },
-  {
-    "repo": "kevinho/clawfeed",
+    "repo": "UnluckyNinja/SBTI-test",
     "branch": "main",
     "language": "HTML",
-    "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
+    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
   },
   {
-    "repo": "Myhhub/Stock",
+    "repo": "kubernetes/dashboard",
+    "branch": "master",
+    "language": "Go",
+    "description": "General-purpose web UI for Kubernetes clusters"
+  },
+  {
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
+    "branch": "master",
+    "language": "Other",
+    "description": ":link: Some useful websites for programmers."
+  },
+  {
+    "repo": "bbylw/clawdbot-cn",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
+  },
+  {
+    "repo": "PsiACE/skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A small, shared skill library by builders, for builders."
+  },
+  {
+    "repo": "paid-tw/skills",
+    "branch": "main",
+    "language": "PHP",
+    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
+  },
+  {
+    "repo": "mo1app/pipemagic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
+  },
+  {
+    "repo": "SVProgressHUD/SVProgressHUD",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
+  },
+  {
+    "repo": "testcontainers/testcontainers-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "XiaomiRobotics/Xiaomi-Robotics-0",
     "branch": "main",
     "language": "Python",
-    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
+    "description": ""
+  },
+  {
+    "repo": "dropwizard/dropwizard",
+    "branch": "master",
+    "language": "Java",
+    "description": "A damn simple library for building production-ready RESTful web services."
+  },
+  {
+    "repo": "godotengine/godot-docs",
+    "branch": "master",
+    "language": "reStructuredText",
+    "description": "Godot Engine official documentation"
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "branch": "master",
+    "language": "Go",
+    "description": "Find secrets with Gitleaks 🔑"
+  },
+  {
+    "repo": "AI45Lab/TrinityGuard",
+    "branch": "master",
+    "language": "Python",
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
+  },
+  {
+    "repo": "FreeCAD/FreeCAD",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+  },
+  {
+    "repo": "nepfaff/scenesmith",
+    "branch": "main",
+    "language": "Python",
+    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
+  },
+  {
+    "repo": "rohunvora/x-research-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang client for NATS, the cloud native messaging system."
+  },
+  {
+    "repo": "hantuzun/awesome-clojure",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
   }
 ]

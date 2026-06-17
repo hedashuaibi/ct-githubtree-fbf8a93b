@@ -1,8 +1,8 @@
 {
-  "repo": "bitoceango/civideo",
+  "repo": "shreyashankar/plain-writing-skill",
   "branch": "main",
-  "language": "Swift",
-  "description": "家长可控的自建儿童视频流媒体播放器：无广告、无推荐流、封闭内容花园 · Self-hosted, ad-free kids video streaming player with parental controls — Cloudflare Workers + R2 and native SwiftUI (iOS / iPadOS / macOS)",
-  "stars": 115,
-  "forks": 5
+  "language": "HTML",
+  "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
+  "stars": 140,
+  "forks": 4
 }
