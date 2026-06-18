@@ -1,146 +1,146 @@
 [
   {
-    "repo": "appledog-xyz/FormCmsPortal",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "HKUDS/ClawWork",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-  },
-  {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "jina-ai/jina-grep-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
-  },
-  {
-    "repo": "alecthomas/t",
-    "branch": "master",
-    "language": "Rust",
-    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
-  },
-  {
-    "repo": "Momciloo/fun-with-clip-path",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "GreatScott/enveil",
-    "branch": "main",
-    "language": "Rust",
-    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "sangrokjung/claude-forge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
-  },
-  {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
-  },
-  {
-    "repo": "iad1tya/Net-Bar",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
-  },
-  {
-    "repo": "doocs/advanced-java",
+    "repo": "apache/camel",
     "branch": "main",
     "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
   },
   {
-    "repo": "IAmUnbounded/devctx",
+    "repo": "AssemblyScript/assemblyscript",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "A TypeScript-like language for WebAssembly."
+  },
+  {
+    "repo": "SakanaAI/AI-Scientist-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+  },
+  {
+    "repo": "paperjs/paper.js",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
+  },
+  {
+    "repo": "lewislulu/html-ppt-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+  },
+  {
+    "repo": "adobe/react-spectrum",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
   },
   {
-    "repo": "wader/fq",
-    "branch": "master",
-    "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
+    "repo": "sweetalert2/sweetalert2",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
   },
   {
-    "repo": "lifo-sh/lifo",
+    "repo": "MoonshotAI/Kimi-VL",
+    "branch": "main",
+    "language": "Other",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+  },
+  {
+    "repo": "zulip/zulip",
+    "branch": "main",
+    "language": "Python",
+    "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused."
+  },
+  {
+    "repo": "googleapis/python-storage",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python SDK for GCS (Google Cloud Storage)"
+  },
+  {
+    "repo": "cheeriojs/cheerio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence."
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
   },
   {
-    "repo": "kimjune01/cord",
-    "branch": "master",
-    "language": "Python",
-    "description": "A coordination protocol for trees of Claude Code agents"
-  },
-  {
-    "repo": "CleverCloud/mdr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
-  },
-  {
-    "repo": "quailyquaily/aqua",
-    "branch": "master",
-    "language": "Go",
-    "description": "Aqua, a cli message tool for AI agents"
-  },
-  {
-    "repo": "vercel-labs/portless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
-  },
-  {
-    "repo": "juanceresa/sift-kg",
+    "repo": "pallets/jinja",
     "branch": "main",
     "language": "Python",
-    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
+    "description": "A very fast and expressive template engine."
   },
   {
-    "repo": "innoqiu/newsieai",
+    "repo": "airbnb/lottie-web",
     "branch": "master",
-    "language": "Python",
-    "description": ""
+    "language": "JavaScript",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
   },
   {
-    "repo": "Prismer-AI/Prismer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Source OpenAI Prism Alternative"
-  },
-  {
-    "repo": "missing-semester/missing-semester",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Missing Semester of Your CS Education 📚"
-  },
-  {
-    "repo": "wbenny/scfw",
-    "branch": "master",
+    "repo": "defold/defold",
+    "branch": "dev",
     "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+  },
+  {
+    "repo": "mysql/mysql-server",
+    "branch": "8.0",
+    "language": "C++",
+    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+  },
+  {
+    "repo": "microsoft/fast",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The adaptive interface system for modern web experiences."
+  },
+  {
+    "repo": "WalletConnect/walletconnect-monorepo",
+    "branch": "v2.0",
+    "language": "TypeScript",
+    "description": "WalletConnect Monorepo"
+  },
+  {
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-server",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+  },
+  {
+    "repo": "Automattic/mongoose",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MongoDB object modeling designed to work in an asynchronous environment."
+  },
+  {
+    "repo": "pytube/pytube",
+    "branch": "master",
+    "language": "Python",
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "New Relic Python Agent"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "prettier/eslint-config-prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
   }
 ]

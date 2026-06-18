@@ -1,8 +1,8 @@
 {
-  "repo": "dongshuyan/compass-skills",
-  "branch": "master",
-  "language": "Python",
-  "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-  "stars": 260,
-  "forks": 22
+  "repo": "Rajaniraiyn/jzon-rs",
+  "branch": "main",
+  "language": "Rust",
+  "description": "Zero-copy JSON serialization with compile-time generated typed parsers",
+  "stars": 107,
+  "forks": 3
 }
