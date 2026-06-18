@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
-  },
-  {
-    "repo": "kicad/kicad",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
-  },
-  {
-    "repo": "ConsenSys/teku",
-    "branch": "master",
-    "language": "Java",
-    "description": "🚀 Open-source Ethereum consensus client written in Java"
-  },
-  {
-    "repo": "mongodb/mongo",
-    "branch": "master",
-    "language": "C++",
-    "description": "The MongoDB Database"
-  },
-  {
-    "repo": "signalapp/Signal-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
-  },
-  {
-    "repo": "pmndrs/drei",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🥉 useful helpers for react-three-fiber"
-  },
-  {
-    "repo": "gnekt/My-Brain-Is-Full-Crew",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
-  },
-  {
-    "repo": "934050259/BrowserCluster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
-  },
-  {
-    "repo": "Xuanwo/xurl",
+    "repo": "tanaer/WindowsClear",
     "branch": "main",
     "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
   },
   {
-    "repo": "lapce/lapce",
+    "repo": "riverscn/intro-agentic-ai",
+    "branch": "main",
+    "language": "Vue",
+    "description": "认识 Agentic AI：从神经网络到智能体"
+  },
+  {
+    "repo": "armadasvc/armada",
+    "branch": "master",
+    "language": "Python",
+    "description": "Kubernetes-native framework for bot and scraper orchestration"
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
+  },
+  {
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "embedding-shapes/one-agent-one-browser",
     "branch": "master",
     "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
   },
   {
-    "repo": "paragonie/awesome-appsec",
+    "repo": "udacity/deep-learning",
     "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
+    "language": "Jupyter Notebook",
+    "description": "Repo for the Deep Learning Nanodegree Foundations program."
   },
   {
-    "repo": "DataDog/datadog-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
-  },
-  {
-    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "repo": "yizhiyanhua-ai/skills-updater",
     "branch": "main",
     "language": "Python",
-    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
   },
   {
-    "repo": "metallb/metallb",
+    "repo": "Chrissotino/swiss-ai-call-agent",
     "branch": "main",
-    "language": "Go",
-    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
+    "language": "TypeScript",
+    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
   },
   {
-    "repo": "XyhTender/qq-farm-automation-bot",
+    "repo": "benjitaylor/liveline",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Real-time animated line chart for React."
+  },
+  {
+    "repo": "peteromallet/desloppify",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "web3-storage/web3.storage",
     "branch": "main",
     "language": "JavaScript",
-    "description": "QQ农场全自动脚本"
+    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
   },
   {
-    "repo": "python-attrs/attrs",
+    "repo": "xiaotianfotos/skills",
     "branch": "main",
     "language": "Python",
-    "description": "Python Classes Without Boilerplate"
+    "description": "视频中分享的方法论代码参考"
   },
   {
-    "repo": "gorilla/mux",
-    "branch": "main",
-    "language": "Go",
-    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
-  },
-  {
-    "repo": "abhinavkale-dev/fynt",
+    "repo": "missing-semester/missing-semester",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Self-hostable workflow automation platform"
+    "language": "CSS",
+    "description": "The Missing Semester of Your CS Education 📚"
   },
   {
-    "repo": "fatedier/frp",
-    "branch": "dev",
-    "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-  },
-  {
-    "repo": "kimjune01/cord",
-    "branch": "master",
-    "language": "Python",
-    "description": "A coordination protocol for trees of Claude Code agents"
-  },
-  {
-    "repo": "shenhao-stu/ohmycaptcha",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
-  },
-  {
-    "repo": "nhevers/MoltBrain",
+    "repo": "MeisnerDan/mission-control",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
   },
   {
-    "repo": "krisrice/oracle-db-skills",
+    "repo": "FiloSottile/age",
+    "branch": "main",
+    "language": "Go",
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+  },
+  {
+    "repo": "android-bench/android-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "agarrharr/awesome-cli-apps",
     "branch": "main",
     "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+  },
+  {
+    "repo": "vkehfdl1/slides-grab",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Select context for agents directly from AI-generated HTML slides"
+  },
+  {
+    "repo": "assafelovic/skyll",
+    "branch": "main",
+    "language": "Python",
+    "description": "A tool for AI agents to discover and learn skills autonomously"
+  },
+  {
+    "repo": "pi0/skillman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤹 Manage project skills and lock them in skills.json"
+  },
+  {
+    "repo": "RightNow-AI/autokernel",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "repo": "LeCoupa/awesome-cheatsheets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
   }
 ]
