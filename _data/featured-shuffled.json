@@ -1,146 +1,146 @@
 [
   {
-    "repo": "realm/SwiftLint",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A tool to enforce Swift style and conventions."
+    "repo": "nvm-sh/nvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
   },
   {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+    "repo": "kicad/kicad",
+    "branch": "master",
+    "language": "C++",
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
   },
   {
-    "repo": "BruceLanLan/bruceblue-ghostty-config",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+    "repo": "ConsenSys/teku",
+    "branch": "master",
+    "language": "Java",
+    "description": "🚀 Open-source Ethereum consensus client written in Java"
   },
   {
-    "repo": "harrymunro/nelson",
+    "repo": "mongodb/mongo",
+    "branch": "master",
+    "language": "C++",
+    "description": "The MongoDB Database"
+  },
+  {
+    "repo": "signalapp/Signal-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A private messenger for Windows, macOS, and Linux."
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "pmndrs/drei",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🥉 useful helpers for react-three-fiber"
+  },
+  {
+    "repo": "gnekt/My-Brain-Is-Full-Crew",
     "branch": "main",
     "language": "Shell",
-    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
   },
   {
-    "repo": "PrefectHQ/prefect",
+    "repo": "934050259/BrowserCluster",
     "branch": "main",
     "language": "Python",
-    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
+    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
   },
   {
-    "repo": "microsoft/unilm",
+    "repo": "Xuanwo/xurl",
+    "branch": "main",
+    "language": "Rust",
+    "description": "xURL: Client for AI Agents URLs"
+  },
+  {
+    "repo": "lapce/lapce",
     "branch": "master",
-    "language": "Python",
-    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
   },
   {
-    "repo": "sqlfluff/sqlfluff",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+    "repo": "paragonie/awesome-appsec",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A curated list of resources for learning about application security"
   },
   {
-    "repo": "kubernetes-sigs/kind",
+    "repo": "DataDog/datadog-agent",
     "branch": "main",
     "language": "Go",
-    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+    "description": "Main repository for Datadog Agent"
   },
   {
-    "repo": "supermemoryai/clawdbot-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "stonerl/Thaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Menu bar manager for macOS"
-  },
-  {
-    "repo": "nushell/nushell",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A new type of shell"
-  },
-  {
-    "repo": "fluent/fluentd",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
-  },
-  {
-    "repo": "amlalabs/amla-sandbox",
+    "repo": "Shubhamsaboo/awesome-llm-apps",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
   },
   {
-    "repo": "antfu/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
-  },
-  {
-    "repo": "diesel-rs/diesel",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
-  },
-  {
-    "repo": "memovai/mimiclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
-  },
-  {
-    "repo": "pyca/cryptography",
-    "branch": "main",
-    "language": "Python",
-    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
-  },
-  {
-    "repo": "stepfun-ai/Step-3.5-Flash",
-    "branch": "main",
-    "language": "C++",
-    "description": "Fast, Sharp & Reliable Agentic Intelligence"
-  },
-  {
-    "repo": "heri1845/ai-meme-trading-bot",
+    "repo": "metallb/metallb",
     "branch": "main",
     "language": "Go",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
+    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
   },
   {
-    "repo": "dair-ai/ML-Papers-Explained",
-    "branch": "gh-pages",
-    "language": "Other",
-    "description": "Explanation to key concepts in ML"
-  },
-  {
-    "repo": "dev-protocol/polymarket-copy-bot",
+    "repo": "XyhTender/qq-farm-automation-bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot"
+    "language": "JavaScript",
+    "description": "QQ农场全自动脚本"
   },
   {
-    "repo": "dagster-io/dagster",
+    "repo": "python-attrs/attrs",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Classes Without Boilerplate"
+  },
+  {
+    "repo": "gorilla/mux",
+    "branch": "main",
+    "language": "Go",
+    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
+  },
+  {
+    "repo": "abhinavkale-dev/fynt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Self-hostable workflow automation platform"
+  },
+  {
+    "repo": "fatedier/frp",
+    "branch": "dev",
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  {
+    "repo": "kimjune01/cord",
     "branch": "master",
     "language": "Python",
-    "description": "An orchestration platform for the development, production, and observation of data assets."
+    "description": "A coordination protocol for trees of Claude Code agents"
   },
   {
-    "repo": "zhixianio/clawpal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
-  },
-  {
-    "repo": "mvanhorn/last30days-skill",
+    "repo": "shenhao-stu/ohmycaptcha",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "repo": "nhevers/MoltBrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+  },
+  {
+    "repo": "krisrice/oracle-db-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
   }
 ]

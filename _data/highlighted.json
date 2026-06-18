@@ -1,8 +1,8 @@
 {
-  "repo": "Rajaniraiyn/jzon-rs",
+  "repo": "CuzTeam/hm-rev",
   "branch": "main",
-  "language": "Rust",
-  "description": "Zero-copy JSON serialization with compile-time generated typed parsers",
-  "stars": 108,
-  "forks": 3
+  "language": "Python",
+  "description": "DevECO REV",
+  "stars": 102,
+  "forks": 51
 }
