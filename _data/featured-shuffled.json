@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apache/camel",
+    "repo": "realm/SwiftLint",
     "branch": "main",
-    "language": "Java",
-    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
+    "language": "Swift",
+    "description": "A tool to enforce Swift style and conventions."
   },
   {
-    "repo": "AssemblyScript/assemblyscript",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "A TypeScript-like language for WebAssembly."
-  },
-  {
-    "repo": "SakanaAI/AI-Scientist-v2",
+    "repo": "NVlabs/Sana",
     "branch": "main",
     "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
   },
   {
-    "repo": "paperjs/paper.js",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
-  },
-  {
-    "repo": "lewislulu/html-ppt-skill",
+    "repo": "BruceLanLan/bruceblue-ghostty-config",
     "branch": "main",
-    "language": "HTML",
-    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+    "language": "Makefile",
+    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
   },
   {
-    "repo": "adobe/react-spectrum",
+    "repo": "harrymunro/nelson",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "branch": "main",
+    "language": "Python",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
+  },
+  {
+    "repo": "microsoft/unilm",
+    "branch": "master",
+    "language": "Python",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+  },
+  {
+    "repo": "sqlfluff/sqlfluff",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+  },
+  {
+    "repo": "kubernetes-sigs/kind",
+    "branch": "main",
+    "language": "Go",
+    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+  },
+  {
+    "repo": "supermemoryai/clawdbot-supermemory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
   },
   {
-    "repo": "sweetalert2/sweetalert2",
+    "repo": "stonerl/Thaw",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+    "language": "Swift",
+    "description": "Menu bar manager for macOS"
   },
   {
-    "repo": "MoonshotAI/Kimi-VL",
+    "repo": "nushell/nushell",
     "branch": "main",
+    "language": "Rust",
+    "description": "A new type of shell"
+  },
+  {
+    "repo": "fluent/fluentd",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
+  },
+  {
+    "repo": "amlalabs/amla-sandbox",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "antfu/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Anthony Fu's curated collection of agent skills."
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+  },
+  {
+    "repo": "pyca/cryptography",
+    "branch": "main",
+    "language": "Python",
+    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
+  },
+  {
+    "repo": "stepfun-ai/Step-3.5-Flash",
+    "branch": "main",
+    "language": "C++",
+    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+  },
+  {
+    "repo": "heri1845/ai-meme-trading-bot",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
+  },
+  {
+    "repo": "dair-ai/ML-Papers-Explained",
+    "branch": "gh-pages",
     "language": "Other",
-    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+    "description": "Explanation to key concepts in ML"
   },
   {
-    "repo": "zulip/zulip",
-    "branch": "main",
-    "language": "Python",
-    "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused."
-  },
-  {
-    "repo": "googleapis/python-storage",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python SDK for GCS (Google Cloud Storage)"
-  },
-  {
-    "repo": "cheeriojs/cheerio",
+    "repo": "dev-protocol/polymarket-copy-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+    "description": "Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot"
   },
   {
-    "repo": "pallets/jinja",
-    "branch": "main",
-    "language": "Python",
-    "description": "A very fast and expressive template engine."
-  },
-  {
-    "repo": "airbnb/lottie-web",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
-  },
-  {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
-  },
-  {
-    "repo": "mysql/mysql-server",
-    "branch": "8.0",
-    "language": "C++",
-    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
-  },
-  {
-    "repo": "microsoft/fast",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The adaptive interface system for modern web experiences."
-  },
-  {
-    "repo": "WalletConnect/walletconnect-monorepo",
-    "branch": "v2.0",
-    "language": "TypeScript",
-    "description": "WalletConnect Monorepo"
-  },
-  {
-    "repo": "alpinejs/alpine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
-  },
-  {
-    "repo": "rabbitmq/rabbitmq-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
-  },
-  {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "pytube/pytube",
+    "repo": "dagster-io/dagster",
     "branch": "master",
     "language": "Python",
-    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
+    "description": "An orchestration platform for the development, production, and observation of data assets."
   },
   {
-    "repo": "newrelic/newrelic-python-agent",
+    "repo": "zhixianio/clawpal",
+    "branch": "main",
+    "language": "Rust",
+    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
     "branch": "main",
     "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "huggingface/transformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-  },
-  {
-    "repo": "prettier/eslint-config-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
   }
 ]
