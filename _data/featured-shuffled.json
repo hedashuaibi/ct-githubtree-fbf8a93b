@@ -1,135 +1,9 @@
 [
   {
-    "repo": "sass/libsass",
-    "branch": "master",
-    "language": "C++",
-    "description": "A C/C++ implementation of a Sass compiler"
-  },
-  {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "basionwang-bot/HermesPet",
-    "branch": "main",
-    "language": "Swift",
-    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）"
-  },
-  {
-    "repo": "coredns/coredns",
-    "branch": "master",
-    "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
-  },
-  {
-    "repo": "microsoft/vscode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual Studio Code"
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
-  },
-  {
-    "repo": "google/generative-ai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "This SDK is now deprecated, use the new unified Google GenAI SDK."
-  },
-  {
-    "repo": "PyCQA/flake8",
-    "branch": "main",
-    "language": "Python",
-    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
-  },
-  {
-    "repo": "ClickHouse/ClickHouse",
-    "branch": "master",
-    "language": "C++",
-    "description": "ClickHouse® is a real-time analytics database management system"
-  },
-  {
-    "repo": "Pika-Labs/Pika-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "altair-viz/altair",
-    "branch": "main",
-    "language": "Python",
-    "description": "Declarative visualization library for Python"
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "agents-io/PokeClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
-  },
-  {
-    "repo": "mrphrazer/agentic-malware-analysis",
-    "branch": "main",
-    "language": "YARA",
-    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
-  },
-  {
     "repo": "PolyEdgeLab/Web3-casino-game",
     "branch": "main",
     "language": "TypeScript",
     "description": "This is casino game tool."
-  },
-  {
-    "repo": "op7418/m5-paper-buddy",
-    "branch": "main",
-    "language": "C++",
-    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
-  },
-  {
-    "repo": "mizchi/skills",
-    "branch": "main",
-    "language": "Nix",
-    "description": "Agent skills by mizchi, distributed via APM"
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "adobe/react-spectrum",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
-  },
-  {
-    "repo": "codeaashu/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-  },
-  {
-    "repo": "510myRday/Cursor-Toolbox",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
   },
   {
     "repo": "ionic-team/ionic-framework",
@@ -138,9 +12,135 @@
     "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
   },
   {
-    "repo": "apple/swift",
+    "repo": "ehang-io/nps",
+    "branch": "master",
+    "language": "Go",
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+  },
+  {
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "writetoaniketparihar-collab/claude-spend",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "lauris/awesome-scala",
+    "branch": "master",
+    "language": "Python",
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+  },
+  {
+    "repo": "preactjs/preact",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+  },
+  {
+    "repo": "duckdb/duckdb",
     "branch": "main",
     "language": "C++",
-    "description": "The Swift Programming Language"
+    "description": "DuckDB is an analytical in-process SQL database management system"
+  },
+  {
+    "repo": "sass/libsass",
+    "branch": "master",
+    "language": "C++",
+    "description": "A C/C++ implementation of a Sass compiler"
+  },
+  {
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "rust-analyzer/rust-analyzer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Rust compiler front-end for IDEs"
+  },
+  {
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A private messenger for Android."
+  },
+  {
+    "repo": "emberjs/ember.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+  },
+  {
+    "repo": "assafelovic/skyll",
+    "branch": "main",
+    "language": "Python",
+    "description": "A tool for AI agents to discover and learn skills autonomously"
+  },
+  {
+    "repo": "google/flatbuffers",
+    "branch": "master",
+    "language": "C++",
+    "description": "FlatBuffers: Memory Efficient Serialization Library"
+  },
+  {
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "humiaozuzu/awesome-flask",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Flask resources and plugins"
+  },
+  {
+    "repo": "suborbital/sat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Tiny & fast WebAssembly edge compute server"
+  },
+  {
+    "repo": "grafana/loki",
+    "branch": "main",
+    "language": "Go",
+    "description": "Like Prometheus, but for logs."
+  },
+  {
+    "repo": "thedaviddias/Front-End-Checklist",
+    "branch": "master",
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   }
 ]

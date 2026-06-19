@@ -1,8 +1,8 @@
 {
-  "repo": "hbddevos/PumpFun-Trainer_V1",
+  "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
   "branch": "main",
   "language": "Python",
-  "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
-  "stars": 121,
-  "forks": 0
+  "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games.",
+  "stars": 122,
+  "forks": 5
 }
