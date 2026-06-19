@@ -1,9 +1,27 @@
 [
   {
-    "repo": "tanaer/WindowsClear",
+    "repo": "github/hub",
+    "branch": "master",
+    "language": "Go",
+    "description": "A command-line tool that makes git easier to use with GitHub."
+  },
+  {
+    "repo": "khanhduytran0/coruna",
     "branch": "main",
-    "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+    "language": "JavaScript",
+    "description": "The leaked exploit toolkit for various iOS versions"
+  },
+  {
+    "repo": "jquery/jquery-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
+  },
+  {
+    "repo": "yangdongchao/UniAudio2",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
   },
   {
     "repo": "riverscn/intro-agentic-ai",
@@ -12,135 +30,117 @@
     "description": "认识 Agentic AI：从神经网络到智能体"
   },
   {
-    "repo": "armadasvc/armada",
-    "branch": "master",
-    "language": "Python",
-    "description": "Kubernetes-native framework for bot and scraper orchestration"
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
-    "branch": "master",
-    "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
-  },
-  {
-    "repo": "udacity/deep-learning",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Repo for the Deep Learning Nanodegree Foundations program."
-  },
-  {
-    "repo": "yizhiyanhua-ai/skills-updater",
+    "repo": "cfinke/EpsteIn",
     "branch": "main",
     "language": "Python",
-    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
   },
   {
-    "repo": "Chrissotino/swiss-ai-call-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
+    "repo": "rancher/rancher",
+    "branch": "master",
+    "language": "Go",
+    "description": "Complete container management platform"
   },
   {
-    "repo": "benjitaylor/liveline",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Real-time animated line chart for React."
+    "repo": "MarlinFirmware/Marlin",
+    "branch": "bugfix-2.1.x",
+    "language": "C++",
+    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
   },
   {
-    "repo": "peteromallet/desloppify",
+    "repo": "AMAP-ML/SpatialGenEval",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "web3-storage/web3.storage",
+    "repo": "babel/babel-preset-env",
     "branch": "main",
     "language": "JavaScript",
-    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
+    "description": "PSA: this repo has been moved into babel/babel -->"
   },
   {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
-  },
-  {
-    "repo": "missing-semester/missing-semester",
+    "repo": "falcosecurity/falco",
     "branch": "master",
-    "language": "CSS",
-    "description": "The Missing Semester of Your CS Education 📚"
+    "language": "C++",
+    "description": "Cloud Native Runtime Security"
   },
   {
-    "repo": "MeisnerDan/mission-control",
+    "repo": "go-resty/resty",
+    "branch": "master",
+    "language": "Go",
+    "description": "Simple HTTP, REST, and SSE client library for Go"
+  },
+  {
+    "repo": "vueuse/vueuse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
   },
   {
-    "repo": "FiloSottile/age",
+    "repo": "photonstorm/phaser",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+  },
+  {
+    "repo": "Solido/awesome-flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+  },
+  {
+    "repo": "Kylsky/chatgpt-team-helper",
+    "branch": "main",
+    "language": "Vue",
+    "description": "一站式Team账号管理"
+  },
+  {
+    "repo": "lencx/ChatGPT",
+    "branch": "main",
+    "language": "Rust",
+    "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+  },
+  {
+    "repo": "GrapheneOS/Camera",
+    "branch": "main",
+    "language": "Java",
+    "description": "Modern camera app focused on privacy and security with QR & barcode scanning."
+  },
+  {
+    "repo": "encode/django-rest-framework",
+    "branch": "master",
+    "language": "Python",
+    "description": "Web APIs for Django. 🎸"
+  },
+  {
+    "repo": "encode/uvicorn",
+    "branch": "master",
+    "language": "Python",
+    "description": "An ASGI web server, for Python. 🦄"
+  },
+  {
+    "repo": "airbnb/knowledge-repo",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+  },
+  {
+    "repo": "cilium/cilium",
     "branch": "main",
     "language": "Go",
-    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+    "description": "eBPF-based Networking, Security, and Observability"
   },
   {
-    "repo": "android-bench/android-bench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
-  },
-  {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
-  },
-  {
-    "repo": "agarrharr/awesome-cli-apps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
-  },
-  {
-    "repo": "vkehfdl1/slides-grab",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Select context for agents directly from AI-generated HTML slides"
-  },
-  {
-    "repo": "assafelovic/skyll",
-    "branch": "main",
-    "language": "Python",
-    "description": "A tool for AI agents to discover and learn skills autonomously"
-  },
-  {
-    "repo": "pi0/skillman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
-  },
-  {
-    "repo": "RightNow-AI/autokernel",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
-  },
-  {
-    "repo": "LeCoupa/awesome-cheatsheets",
+    "repo": "massgravel/Microsoft-Activation-Scripts",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "aresyn/codex-control-plane-mcp",
-  "branch": "main",
-  "language": "Python",
-  "description": "Durable MCP control plane for long-running Codex Desktop tasks",
-  "stars": 200,
-  "forks": 2
+  "repo": "KorroAi/drunk-claude",
+  "branch": "master",
+  "language": "TeX",
+  "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT.",
+  "stars": 110,
+  "forks": 8
 }
