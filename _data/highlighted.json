@@ -1,8 +1,8 @@
 {
-  "repo": "LichAmnesia/awesome-ad-video-prompts",
+  "repo": "hbddevos/PumpFun-Trainer_V1",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-  "stars": 130,
-  "forks": 2
+  "language": "Python",
+  "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
+  "stars": 121,
+  "forks": 0
 }
