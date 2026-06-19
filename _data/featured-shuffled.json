@@ -1,146 +1,146 @@
 [
   {
-    "repo": "github/hub",
-    "branch": "master",
-    "language": "Go",
-    "description": "A command-line tool that makes git easier to use with GitHub."
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "jquery/jquery-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The official jQuery user interface library."
-  },
-  {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "riverscn/intro-agentic-ai",
-    "branch": "main",
-    "language": "Vue",
-    "description": "认识 Agentic AI：从神经网络到智能体"
-  },
-  {
-    "repo": "cfinke/EpsteIn",
-    "branch": "main",
-    "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
-  },
-  {
-    "repo": "rancher/rancher",
-    "branch": "master",
-    "language": "Go",
-    "description": "Complete container management platform"
-  },
-  {
-    "repo": "MarlinFirmware/Marlin",
-    "branch": "bugfix-2.1.x",
-    "language": "C++",
-    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
-  },
-  {
-    "repo": "AMAP-ML/SpatialGenEval",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "babel/babel-preset-env",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
-  },
-  {
-    "repo": "falcosecurity/falco",
+    "repo": "LadybirdBrowser/ladybird",
     "branch": "master",
     "language": "C++",
-    "description": "Cloud Native Runtime Security"
+    "description": "Truly independent web browser"
   },
   {
-    "repo": "go-resty/resty",
+    "repo": "operator-framework/operator-sdk",
     "branch": "master",
     "language": "Go",
-    "description": "Simple HTTP, REST, and SSE client library for Go"
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
   },
   {
-    "repo": "vueuse/vueuse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
-  },
-  {
-    "repo": "photonstorm/phaser",
+    "repo": "PyGithub/PyGithub",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+    "language": "Python",
+    "description": "Typed interactions with the GitHub API v3"
   },
   {
-    "repo": "Solido/awesome-flutter",
+    "repo": "zimingttkx/QuantumFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "branch": "main",
+    "language": "Go",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+  },
+  {
+    "repo": "termux/termux-app",
     "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "Kylsky/chatgpt-team-helper",
-    "branch": "main",
-    "language": "Vue",
-    "description": "一站式Team账号管理"
-  },
-  {
-    "repo": "lencx/ChatGPT",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
-  },
-  {
-    "repo": "GrapheneOS/Camera",
-    "branch": "main",
     "language": "Java",
-    "description": "Modern camera app focused on privacy and security with QR & barcode scanning."
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
   },
   {
-    "repo": "encode/django-rest-framework",
+    "repo": "crossplane/crossplane",
     "branch": "master",
-    "language": "Python",
-    "description": "Web APIs for Django. 🎸"
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
   },
   {
-    "repo": "encode/uvicorn",
+    "repo": "rbenv/rbenv",
     "branch": "master",
-    "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
+    "language": "Shell",
+    "description": "Manage your app's Ruby environment"
   },
   {
-    "repo": "airbnb/knowledge-repo",
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "A framework for few-shot evaluation of language models."
+  },
+  {
+    "repo": "sqlalchemy/alembic",
+    "branch": "main",
+    "language": "Python",
+    "description": "A database migrations tool for SQLAlchemy."
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "branch": "main",
+    "language": "Python",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
     "branch": "master",
-    "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
   },
   {
-    "repo": "cilium/cilium",
+    "repo": "dotnet/aspnetcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+  },
+  {
+    "repo": "serenity-bdd/serenity-core",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+  },
+  {
+    "repo": "kubernetes-sigs/kind",
     "branch": "main",
     "language": "Go",
-    "description": "eBPF-based Networking, Security, and Observability"
+    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
   },
   {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "repo": "cloudwego/kitex",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "apache/groovy",
     "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+    "language": "Java",
+    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
   },
   {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+    "repo": "Leaflet/Leaflet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦"
+  },
+  {
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
+  },
+  {
+    "repo": "grpc/grpc-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "gRPC for Web Clients"
+  },
+  {
+    "repo": "gorhill/uBlock",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+  },
+  {
+    "repo": "owncloud/core",
+    "branch": "master",
+    "language": "PHP",
+    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
+  },
+  {
+    "repo": "serverless/serverless",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
+  },
+  {
+    "repo": "ruanyf/weekly",
+    "branch": "master",
+    "language": "Other",
+    "description": "科技爱好者周刊，每周五发布"
   }
 ]

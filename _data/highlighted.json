@@ -1,8 +1,8 @@
 {
-  "repo": "KorroAi/drunk-claude",
-  "branch": "master",
-  "language": "TeX",
-  "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT.",
-  "stars": 110,
-  "forks": 8
+  "repo": "LichAmnesia/awesome-ad-video-prompts",
+  "branch": "main",
+  "language": "JavaScript",
+  "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
+  "stars": 130,
+  "forks": 2
 }
