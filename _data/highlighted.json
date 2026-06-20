@@ -1,8 +1,8 @@
 {
-  "repo": "gakiyukr/Codex_team_auto",
+  "repo": "jangafx/FMAG",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 104,
-  "forks": 51
+  "language": "C",
+  "description": "A single-instruction GPU virtual machine and toolchain",
+  "stars": 110,
+  "forks": 1
 }
