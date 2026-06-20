@@ -1,146 +1,146 @@
 [
   {
-    "repo": "PolyEdgeLab/Web3-casino-game",
+    "repo": "MSNightmare/RoguePlanet",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "This is casino game tool."
+    "language": "C++",
+    "description": "RoguePlanet Windows Defender Vulnerability"
   },
   {
-    "repo": "ionic-team/ionic-framework",
+    "repo": "imxv/Pretty-mermaid-skills",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+    "language": "JavaScript",
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
   },
   {
-    "repo": "ehang-io/nps",
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+  },
+  {
+    "repo": "sorrycc/awesome-javascript",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
+  },
+  {
+    "repo": "ory/oathkeeper",
     "branch": "master",
     "language": "Go",
-    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
   },
   {
-    "repo": "expressjs/express",
+    "repo": "CyC2018/CS-Notes",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
+    "language": "Other",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
   },
   {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "writetoaniketparihar-collab/claude-spend",
+    "repo": "louisho5/picobot",
     "branch": "main",
-    "language": "HTML",
+    "language": "Go",
+    "description": "A lightweight self-hosted bot in a single binary, written in Go."
+  },
+  {
+    "repo": "Momciloo/fun-with-clip-path",
+    "branch": "main",
+    "language": "CSS",
     "description": ""
   },
   {
-    "repo": "lauris/awesome-scala",
-    "branch": "master",
-    "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
-  },
-  {
-    "repo": "redis/hiredis",
-    "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
-  },
-  {
-    "repo": "Zackriya-Solutions/meeting-minutes",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
-  },
-  {
-    "repo": "preactjs/preact",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
-  },
-  {
-    "repo": "duckdb/duckdb",
-    "branch": "main",
-    "language": "C++",
-    "description": "DuckDB is an analytical in-process SQL database management system"
-  },
-  {
-    "repo": "sass/libsass",
-    "branch": "master",
-    "language": "C++",
-    "description": "A C/C++ implementation of a Sass compiler"
-  },
-  {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
-  },
-  {
-    "repo": "rust-analyzer/rust-analyzer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A Rust compiler front-end for IDEs"
-  },
-  {
-    "repo": "signalapp/Signal-Android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "A private messenger for Android."
-  },
-  {
-    "repo": "emberjs/ember.js",
+    "repo": "dev-protocol/polymarket-ai-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
   },
   {
-    "repo": "assafelovic/skyll",
-    "branch": "main",
-    "language": "Python",
-    "description": "A tool for AI agents to discover and learn skills autonomously"
-  },
-  {
-    "repo": "google/flatbuffers",
-    "branch": "master",
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
     "language": "C++",
-    "description": "FlatBuffers: Memory Efficient Serialization Library"
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
   },
   {
-    "repo": "xi-editor/xi-editor",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
-  },
-  {
-    "repo": "mui/material-ui",
+    "repo": "udacity/reactnd-contacts-server",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+    "description": "The backend server for the in-class Contacts project."
   },
   {
-    "repo": "humiaozuzu/awesome-flask",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Flask resources and plugins"
-  },
-  {
-    "repo": "suborbital/sat",
+    "repo": "GHJJ123/brainrotguard",
     "branch": "main",
-    "language": "Go",
-    "description": "Tiny & fast WebAssembly edge compute server"
+    "language": "Python",
+    "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI"
   },
   {
-    "repo": "grafana/loki",
+    "repo": "zeroclaw-labs/zeroclaw",
     "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
+    "language": "Rust",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
   },
   {
-    "repo": "thedaviddias/Front-End-Checklist",
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "repo": "The-Vibe-Company/claude-code-controller",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
+  },
+  {
+    "repo": "lovisdotio/falsprite",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
+  },
+  {
+    "repo": "livehl/aimirror",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+  },
+  {
+    "repo": "nhevers/claude-recall",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for Clawd & Claude Code that learns and recalls your project context automatically"
+  },
+  {
+    "repo": "MichaelCade/90DaysOfDevOps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+  },
+  {
+    "repo": "ConsenSys/teku",
     "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+    "language": "Java",
+    "description": "🚀 Open-source Ethereum consensus client written in Java"
+  },
+  {
+    "repo": "eval-exec/neomacs",
+    "branch": "main",
+    "language": "Emacs Lisp",
+    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
+  },
+  {
+    "repo": "nhost/nhost",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Open Source Firebase Alternative with GraphQL."
+  },
+  {
+    "repo": "lailoo/butcher-wiki",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
+  },
+  {
+    "repo": "PIPIKAI/auto-painter-win",
+    "branch": "main",
+    "language": "Python",
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
   }
 ]

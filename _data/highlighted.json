@@ -1,8 +1,8 @@
 {
-  "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
+  "repo": "0xSero/glm-5.2-sm120",
   "branch": "main",
-  "language": "Python",
-  "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games.",
-  "stars": 122,
+  "language": "Shell",
+  "description": "GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode",
+  "stars": 102,
   "forks": 5
 }
