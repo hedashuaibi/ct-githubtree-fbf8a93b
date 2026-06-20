@@ -1,57 +1,63 @@
 [
   {
-    "repo": "ProjectKumo/KumoApp",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
-  },
-  {
-    "repo": "llmsresearch/paperbanana",
+    "repo": "6551Team/opennews-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
   },
   {
-    "repo": "googleapis/google-cloud-python",
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "0xDbgMan/DrvEye",
     "branch": "main",
     "language": "Python",
-    "description": "Google Cloud Client Library for Python"
+    "description": "Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic Links, and check cert , and Downlaods BYOVD"
   },
   {
-    "repo": "winglang/wing",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡"
-  },
-  {
-    "repo": "facebook/hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
-  },
-  {
-    "repo": "tamagui/tamagui",
+    "repo": "gorhom/react-native-bottom-sheet",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
   },
   {
-    "repo": "lib/pq",
+    "repo": "uber-go/zap",
     "branch": "master",
     "language": "Go",
-    "description": "Go PostgreSQL driver for database/sql"
+    "description": "Blazing fast, structured, leveled logging in Go."
   },
   {
-    "repo": "protocolbuffers/protobuf",
+    "repo": "vercel/hyper",
     "branch": "main",
-    "language": "C++",
-    "description": "Protocol Buffers - Google's data interchange format"
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
   },
   {
-    "repo": "facebookresearch/segment-anything",
+    "repo": "rustdesk/rustdesk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "software-mansion/react-native-screens",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+    "language": "TypeScript",
+    "description": "Native navigation primitives for your React Native app."
+  },
+  {
+    "repo": "wagmi-dev/wagmi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive primitives for Ethereum apps"
   },
   {
     "repo": "Tencent/wepy",
@@ -60,87 +66,81 @@
     "description": "小程序组件化开发框架"
   },
   {
-    "repo": "surrealdb/surrealdb",
-    "branch": "main",
+    "repo": "alacritty/alacritty",
+    "branch": "master",
     "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+    "description": "A cross-platform, OpenGL terminal emulator."
   },
   {
-    "repo": "google/styleguide",
-    "branch": "gh-pages",
-    "language": "HTML",
-    "description": "Style guides for Google-originated open-source projects"
-  },
-  {
-    "repo": "microsoft/Web-Dev-For-Beginners",
+    "repo": "Uniswap/v3-core",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "sindresorhus/awesome-nodejs",
+    "branch": "main",
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
+  },
+  {
+    "repo": "rs/zerolog",
+    "branch": "master",
+    "language": "Go",
+    "description": "Zero Allocation JSON Logger"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+    "description": "IPFS implementation in JavaScript"
   },
   {
-    "repo": "RasaHQ/rasa",
-    "branch": "main",
-    "language": "Python",
-    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
-  },
-  {
-    "repo": "prysmaticlabs/prysm",
+    "repo": "caddyserver/caddy",
     "branch": "master",
     "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
   },
   {
-    "repo": "stanfordnlp/stanza",
+    "repo": "vuejs/vue",
     "branch": "main",
-    "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
   },
   {
-    "repo": "jmoiron/sqlx",
+    "repo": "paritytech/polkadot",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Polkadot Node Implementation"
+  },
+  {
+    "repo": "spf13/viper",
     "branch": "master",
     "language": "Go",
-    "description": "general purpose extensions to golang's database/sql"
+    "description": "Go configuration with fangs"
   },
   {
-    "repo": "sirupsen/logrus",
+    "repo": "kimjune01/cord",
     "branch": "master",
-    "language": "Go",
-    "description": "Structured, pluggable logging for Go."
-  },
-  {
-    "repo": "certbot/certbot",
-    "branch": "main",
     "language": "Python",
-    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
-  },
-  {
-    "repo": "PaddlePaddle/PaddleDetection",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
-  },
-  {
-    "repo": "ReactiveX/RxSwift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
-  },
-  {
-    "repo": "arendst/Tasmota",
-    "branch": "development",
-    "language": "C",
-    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
-  },
-  {
-    "repo": "google/material-design-icons",
-    "branch": "master",
-    "language": "Other",
-    "description": "Material Design icons by Google (Material Symbols)"
-  },
-  {
-    "repo": "bytedance/semi-design",
-    "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
+    "description": "A coordination protocol for trees of Claude Code agents"
   }
 ]

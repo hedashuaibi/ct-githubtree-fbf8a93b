@@ -1,8 +1,8 @@
 {
-  "repo": "Noumena-Network/code",
+  "repo": "gakiyukr/Codex_team_auto",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack",
-  "stars": 112,
-  "forks": 24
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 104,
+  "forks": 51
 }
