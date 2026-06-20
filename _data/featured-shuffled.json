@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MSNightmare/RoguePlanet",
+    "repo": "ProjectKumo/KumoApp",
     "branch": "main",
-    "language": "C++",
-    "description": "RoguePlanet Windows Defender Vulnerability"
+    "language": "Swift",
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
   },
   {
-    "repo": "imxv/Pretty-mermaid-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
-  },
-  {
-    "repo": "CMU-Perceptual-Computing-Lab/openpose",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
-  },
-  {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-  },
-  {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
-  },
-  {
-    "repo": "louisho5/picobot",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight self-hosted bot in a single binary, written in Go."
-  },
-  {
-    "repo": "Momciloo/fun-with-clip-path",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "dev-protocol/polymarket-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
-  },
-  {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
-  },
-  {
-    "repo": "udacity/reactnd-contacts-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The backend server for the in-class Contacts project."
-  },
-  {
-    "repo": "GHJJ123/brainrotguard",
+    "repo": "llmsresearch/paperbanana",
     "branch": "main",
     "language": "Python",
-    "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI"
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
   },
   {
-    "repo": "zeroclaw-labs/zeroclaw",
+    "repo": "googleapis/google-cloud-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "Google Cloud Client Library for Python"
+  },
+  {
+    "repo": "winglang/wing",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡"
+  },
+  {
+    "repo": "facebook/hermes",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript engine optimized for running React Native."
+  },
+  {
+    "repo": "tamagui/tamagui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+  },
+  {
+    "repo": "lib/pq",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go PostgreSQL driver for database/sql"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "branch": "main",
+    "language": "C++",
+    "description": "Protocol Buffers - Google's data interchange format"
+  },
+  {
+    "repo": "facebookresearch/segment-anything",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+  },
+  {
+    "repo": "Tencent/wepy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "小程序组件化开发框架"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
     "branch": "main",
     "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
   },
   {
-    "repo": "Kaleighc793/freqtrade-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+    "repo": "google/styleguide",
+    "branch": "gh-pages",
+    "language": "HTML",
+    "description": "Style guides for Google-originated open-source projects"
   },
   {
-    "repo": "The-Vibe-Company/claude-code-controller",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
-  },
-  {
-    "repo": "lovisdotio/falsprite",
+    "repo": "microsoft/Web-Dev-For-Beginners",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
   },
   {
-    "repo": "livehl/aimirror",
+    "repo": "RasaHQ/rasa",
     "branch": "main",
     "language": "Python",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
   },
   {
-    "repo": "nhevers/claude-recall",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Long-term memory layer for Clawd & Claude Code that learns and recalls your project context automatically"
-  },
-  {
-    "repo": "MichaelCade/90DaysOfDevOps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
-  },
-  {
-    "repo": "ConsenSys/teku",
+    "repo": "prysmaticlabs/prysm",
     "branch": "master",
-    "language": "Java",
-    "description": "🚀 Open-source Ethereum consensus client written in Java"
+    "language": "Go",
+    "description": "Go implementation of Ethereum proof of stake"
   },
   {
-    "repo": "eval-exec/neomacs",
-    "branch": "main",
-    "language": "Emacs Lisp",
-    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
-  },
-  {
-    "repo": "nhost/nhost",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Open Source Firebase Alternative with GraphQL."
-  },
-  {
-    "repo": "lailoo/butcher-wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
-  },
-  {
-    "repo": "PIPIKAI/auto-painter-win",
+    "repo": "stanfordnlp/stanza",
     "branch": "main",
     "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+  },
+  {
+    "repo": "jmoiron/sqlx",
+    "branch": "master",
+    "language": "Go",
+    "description": "general purpose extensions to golang's database/sql"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Structured, pluggable logging for Go."
+  },
+  {
+    "repo": "certbot/certbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+  },
+  {
+    "repo": "PaddlePaddle/PaddleDetection",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
+  },
+  {
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+  },
+  {
+    "repo": "google/material-design-icons",
+    "branch": "master",
+    "language": "Other",
+    "description": "Material Design icons by Google (Material Symbols)"
+  },
+  {
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
   }
 ]

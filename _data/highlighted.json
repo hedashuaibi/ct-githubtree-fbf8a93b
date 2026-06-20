@@ -1,8 +1,8 @@
 {
-  "repo": "0xSero/glm-5.2-sm120",
+  "repo": "Noumena-Network/code",
   "branch": "main",
-  "language": "Shell",
-  "description": "GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode",
-  "stars": 102,
-  "forks": 5
+  "language": "TypeScript",
+  "description": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack",
+  "stars": 112,
+  "forks": 24
 }
