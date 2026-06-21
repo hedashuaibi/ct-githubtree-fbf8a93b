@@ -1,146 +1,146 @@
 [
   {
-    "repo": "FoundZiGu/GuJumpgate",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "delbaoliveira/learn-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "OpenBB-finance/OpenBBTerminal",
-    "branch": "main",
-    "language": "Python",
-    "description": "Financial data platform for analysts, quants and AI agents."
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data validation using Python type hints"
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "accius/openhamclock",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together."
-  },
-  {
-    "repo": "ipfs/js-ipfs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "expo/expo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
-  },
-  {
-    "repo": "microsoft/PowerToys",
-    "branch": "main",
-    "language": "C#",
-    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
-  },
-  {
-    "repo": "sqlalchemy/sqlalchemy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Database Toolkit for Python"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "protocolbuffers/protobuf",
-    "branch": "main",
-    "language": "C++",
-    "description": "Protocol Buffers - Google's data interchange format"
-  },
-  {
-    "repo": "TabbyML/tabby",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
-  },
-  {
-    "repo": "safe-global/safe-contracts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Safe allows secure management of blockchain assets."
-  },
-  {
-    "repo": "prometheus/prometheus",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
-  },
-  {
-    "repo": "curl/curl",
-    "branch": "master",
-    "language": "C",
-    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
-  },
-  {
-    "repo": "google/generative-ai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "This SDK is now deprecated, use the new unified Google GenAI SDK."
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "ripienaar/free-for-dev",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
-  },
-  {
-    "repo": "airbnb/lottie-android",
+    "repo": "material-components/material-components-android",
     "branch": "master",
     "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+    "description": "Modular and customizable Material Design UI components for Android"
   },
   {
-    "repo": "antirez/tgterm",
-    "branch": "main",
-    "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
-  },
-  {
-    "repo": "microsoft/ML-For-Beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
+    "repo": "aio-libs/aiohttp",
+    "branch": "master",
     "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
+  },
+  {
+    "repo": "ChristianJR19/byteview",
+    "branch": "main",
+    "language": "Python",
+    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
+  },
+  {
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
+    "branch": "master",
+    "language": "Other",
+    "description": ":link: Some useful websites for programmers."
+  },
+  {
+    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "branch": "main",
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+  },
+  {
+    "repo": "google/dagger",
+    "branch": "master",
+    "language": "Java",
+    "description": "A fast dependency injector for Android and Java."
+  },
+  {
+    "repo": "roboflow/rf-detr",
+    "branch": "main",
+    "language": "Python",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
+  },
+  {
+    "repo": "sindresorhus/type-fest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A collection of essential TypeScript types"
+  },
+  {
+    "repo": "google-gemini/generative-ai-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
+  },
+  {
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "letmutex/gitas",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Git Account Switch"
+  },
+  {
+    "repo": "solidjs-community/solid-primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+  },
+  {
+    "repo": "ysharma3501/LavaSR",
+    "branch": "main",
+    "language": "Python",
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+  },
+  {
+    "repo": "snoglobe/helios",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "thedaviddias/Front-End-Checklist",
+    "branch": "master",
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "repo": "grpc/grpc-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "gRPC for Web Clients"
+  },
+  {
+    "repo": "apache/maven",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Maven core"
+  },
+  {
+    "repo": "scienceLabwork/Stable-Action",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
+  },
+  {
+    "repo": "vercel/serve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Static file serving and directory listing"
+  },
+  {
+    "repo": "nodejs/node",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+  },
+  {
+    "repo": "calebwin/pgclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+  },
+  {
+    "repo": "IronsideXXVI/Hacker-News",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
   }
 ]
