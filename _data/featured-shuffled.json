@@ -1,146 +1,146 @@
 [
   {
-    "repo": "emdash-cms/emdash",
+    "repo": "LayrKits/Sprite-Pipeline",
+    "branch": "main",
+    "language": "Python",
+    "description": "2D Sprite Sheet Creation Pipeline"
+  },
+  {
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "termux/termux-packages",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A package build system for Termux."
+  },
+  {
+    "repo": "Quick/Nimble",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
+  },
+  {
+    "repo": "johnmai-dev/ANE-LM",
+    "branch": "main",
+    "language": "C++",
+    "description": "LLM inference on Apple Neural Engine (ANE)"
+  },
+  {
+    "repo": "zscole/model-hierarchy-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
+  },
+  {
+    "repo": "kewonit/aeris",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Aeris is a real-time 3D flight radar for the web"
+  },
+  {
+    "repo": "python-pillow/Pillow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Imaging Library (Fork)"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "ktorio/ktor",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+  },
+  {
+    "repo": "6551Team/opennews-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "repo": "vava-nessa/free-coding-models",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "bregman-arie/devops-resources",
-    "branch": "master",
-    "language": "Groovy",
-    "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP"
-  },
-  {
-    "repo": "trevin-creator/autoresearch-mlx",
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
     "branch": "main",
     "language": "Python",
-    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
   },
   {
-    "repo": "kristelTech/make_me_a_meme",
-    "branch": "main",
-    "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
-  },
-  {
-    "repo": "tanaer/WindowsClear",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
-  },
-  {
-    "repo": "iCHAIT/awesome-macOS",
+    "repo": "kamranahmedse/developer-roadmap",
     "branch": "master",
-    "language": "Other",
-    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
-  },
-  {
-    "repo": "fspecii/HeartMuLa-Studio",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
   },
   {
-    "repo": "0Voice/Expert_Readed_Books",
+    "repo": "jina-ai/jina",
+    "branch": "main",
+    "language": "Python",
+    "description": "☁️ Build multimodal AI applications with cloud-native stack"
+  },
+  {
+    "repo": "openai/glide-text2im",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+  },
+  {
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "Kotlin/kotlinx.coroutines",
     "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+    "language": "Kotlin",
+    "description": "Library support for Kotlin coroutines"
   },
   {
-    "repo": "mitjafelicijan/xdgctl",
+    "repo": "mockk/mockk",
     "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
   },
   {
-    "repo": "ory/kratos",
+    "repo": "snarktank/compound-product",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "repo": "StreisandEffect/streisand",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+  },
+  {
+    "repo": "anchore/syft",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems"
+  },
+  {
+    "repo": "docker/cli",
     "branch": "master",
     "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+    "description": "The Docker CLI"
   },
   {
-    "repo": "getsentry/sentry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
-  },
-  {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "clockworklabs/SpacetimeDB",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
-  },
-  {
-    "repo": "sndrec/WebMonkeyBall",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
-  },
-  {
-    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "repo": "openai/point-e",
     "branch": "main",
     "language": "Python",
-    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
-  },
-  {
-    "repo": "Textualize/textual",
-    "branch": "main",
-    "language": "Python",
-    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
-  },
-  {
-    "repo": "puppeteer/puppeteer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JavaScript API for Chrome and Firefox"
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "dashrobotco/robot-components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
-  },
-  {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Apache Hadoop"
-  },
-  {
-    "repo": "QwenLM/Qwen3-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning."
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "description": "Point cloud diffusion for 3D model synthesis"
   }
 ]
