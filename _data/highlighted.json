@@ -1,8 +1,8 @@
 {
-  "repo": "zeropl/2FA",
+  "repo": "Manavarya09/public-apis-live",
   "branch": "main",
-  "language": "HTML",
-  "description": "Easy2FA turns a 2FA secret into its live 6-digit code, entirely in your browser. There's no server, no sign-up, and no database — each \"account\" is just a bookmarkable URL with the secret in its #fragment (which browsers never send over the network).",
-  "stars": 115,
-  "forks": 14
+  "language": "TypeScript",
+  "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
+  "stars": 105,
+  "forks": 8
 }

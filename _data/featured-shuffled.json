@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LayrKits/Sprite-Pipeline",
-    "branch": "main",
-    "language": "Python",
-    "description": "2D Sprite Sheet Creation Pipeline"
-  },
-  {
-    "repo": "pypa/pip",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python package installer"
-  },
-  {
-    "repo": "termux/termux-packages",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A package build system for Termux."
-  },
-  {
-    "repo": "Quick/Nimble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
-  },
-  {
-    "repo": "johnmai-dev/ANE-LM",
-    "branch": "main",
-    "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
-  },
-  {
-    "repo": "zscole/model-hierarchy-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
-  },
-  {
-    "repo": "kewonit/aeris",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Aeris is a real-time 3D flight radar for the web"
-  },
-  {
-    "repo": "python-pillow/Pillow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Imaging Library (Fork)"
-  },
-  {
-    "repo": "firebase/firebase-ios-sdk",
-    "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
-  },
-  {
-    "repo": "ktorio/ktor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
-  },
-  {
-    "repo": "6551Team/opennews-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
+    "repo": "FoundZiGu/GuJumpgate",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "repo": "delbaoliveira/learn-claude-code",
     "branch": "main",
-    "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "kamranahmedse/developer-roadmap",
+    "repo": "OpenBB-finance/OpenBBTerminal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Financial data platform for analysts, quants and AI agents."
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Data validation using Python type hints"
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "jina-ai/jina",
+    "repo": "accius/openhamclock",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together."
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
+  },
+  {
+    "repo": "expo/expo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "branch": "main",
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
+  },
+  {
+    "repo": "sqlalchemy/sqlalchemy",
     "branch": "main",
     "language": "Python",
-    "description": "☁️ Build multimodal AI applications with cloud-native stack"
+    "description": "The Database Toolkit for Python"
   },
   {
-    "repo": "openai/glide-text2im",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "Kotlin/kotlinx.coroutines",
+    "repo": "fastai/fastbook",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "Library support for Kotlin coroutines"
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
   },
   {
-    "repo": "mockk/mockk",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
   },
   {
-    "repo": "snarktank/compound-product",
+    "repo": "protocolbuffers/protobuf",
     "branch": "main",
-    "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+    "language": "C++",
+    "description": "Protocol Buffers - Google's data interchange format"
   },
   {
-    "repo": "StreisandEffect/streisand",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+    "repo": "TabbyML/tabby",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Self-hosted AI coding assistant"
   },
   {
-    "repo": "anchore/syft",
+    "repo": "safe-global/safe-contracts",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Safe allows secure management of blockchain assets."
+  },
+  {
+    "repo": "prometheus/prometheus",
     "branch": "main",
     "language": "Go",
-    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems"
+    "description": "The Prometheus monitoring system and time series database."
   },
   {
-    "repo": "docker/cli",
+    "repo": "curl/curl",
     "branch": "master",
-    "language": "Go",
-    "description": "The Docker CLI"
+    "language": "C",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
   },
   {
-    "repo": "openai/point-e",
+    "repo": "google/generative-ai-python",
     "branch": "main",
     "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
+    "description": "This SDK is now deprecated, use the new unified Google GenAI SDK."
+  },
+  {
+    "repo": "getify/You-Dont-Know-JS",
+    "branch": "master",
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
+  },
+  {
+    "repo": "ripienaar/free-for-dev",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+  },
+  {
+    "repo": "airbnb/lottie-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+  },
+  {
+    "repo": "antirez/tgterm",
+    "branch": "main",
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+  },
+  {
+    "repo": "microsoft/ML-For-Beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
   }
 ]
