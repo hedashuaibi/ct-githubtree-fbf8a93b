@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
+    "repo": "emdash-cms/emdash",
     "branch": "main",
-    "language": "Python",
-    "description": "TradingView Full version unlocker"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "chubbyguan/chubbyskills",
-    "branch": "main",
-    "language": "Python",
-    "description": "chubby 自用知识库实用skill集合 - AI驱动的自动化工作流工具，可以帮助你从各个渠道获取信息，搭建自己的知识库"
+    "repo": "bregman-arie/devops-resources",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP"
   },
   {
-    "repo": "5ec1cff/FuseFixer",
+    "repo": "trevin-creator/autoresearch-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+  },
+  {
+    "repo": "kristelTech/make_me_a_meme",
+    "branch": "main",
+    "language": "Python",
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
+  },
+  {
+    "repo": "tanaer/WindowsClear",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+  },
+  {
+    "repo": "iCHAIT/awesome-macOS",
+    "branch": "master",
+    "language": "Other",
+    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
+  },
+  {
+    "repo": "fspecii/HeartMuLa-Studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "repo": "0Voice/Expert_Readed_Books",
+    "branch": "master",
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+  },
+  {
+    "repo": "mitjafelicijan/xdgctl",
     "branch": "master",
     "language": "C",
-    "description": ""
+    "description": "TUI for managing XDG default applications"
   },
   {
-    "repo": "dsclca12/auto_reg",
-    "branch": "main",
-    "language": "Python",
-    "description": "codex全自动注册机"
+    "repo": "ory/kratos",
+    "branch": "master",
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
   },
   {
-    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
-    "branch": "main",
-    "language": "C++",
-    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
-  },
-  {
-    "repo": "juntoku9/claude_immigration_attorney",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude code environment for laywers"
-  },
-  {
-    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
-  },
-  {
-    "repo": "AKCodez/hackingtool-plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
-  },
-  {
-    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
-  },
-  {
-    "repo": "Janlaywss/hu-chenfeng-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "户晨风Skill"
-  },
-  {
-    "repo": "joewongjc/type4me",
-    "branch": "main",
-    "language": "Swift",
-    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
-  },
-  {
-    "repo": "ankitvgupta/mail-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code for your Inbox"
-  },
-  {
-    "repo": "MrsEWE44/musicDownload",
+    "repo": "getsentry/sentry",
     "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Developer-first error tracking and performance monitoring"
   },
   {
-    "repo": "x1xhlol/better-clawd",
+    "repo": "L1AD/claude-task-viewer",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
+    "language": "HTML",
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
   },
   {
-    "repo": "CookSleep/gpt_image_playground",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
-  },
-  {
-    "repo": "cksac/turboquant-model",
-    "branch": "main",
+    "repo": "home-assistant/core",
+    "branch": "dev",
     "language": "Python",
-    "description": ""
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
   },
   {
-    "repo": "zhangbo2008/claude_code_annotated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claudecode泄露部分的代码解析"
-  },
-  {
-    "repo": "lenxism/dither",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
-  },
-  {
-    "repo": "smallnest/autoresearch",
+    "repo": "clockworklabs/SpacetimeDB",
     "branch": "master",
-    "language": "Shell",
-    "description": "autoresearch for software development"
-  },
-  {
-    "repo": "hkcanan/katmer-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
-  },
-  {
-    "repo": "muxprotocol/kalshi-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily"
-  },
-  {
-    "repo": "ArcaneNibble/awawausb",
-    "branch": "main",
     "language": "Rust",
-    "description": "WebUSB for fopses"
+    "description": "Multiplayer at the speed of light"
   },
   {
-    "repo": "WecomTeam/wecom-cli",
+    "repo": "sndrec/WebMonkeyBall",
     "branch": "main",
-    "language": "Rust",
-    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+    "language": "TypeScript",
+    "description": "Super Monkey Ball on Web Broser."
   },
   {
-    "repo": "NyxTides/ppt-image-first",
-    "branch": "master",
+    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "branch": "main",
     "language": "Python",
-    "description": "PPT image-first skill for Codex CLI"
+    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
+  },
+  {
+    "repo": "Textualize/textual",
+    "branch": "main",
+    "language": "Python",
+    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
+  },
+  {
+    "repo": "puppeteer/puppeteer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JavaScript API for Chrome and Firefox"
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "dashrobotco/robot-components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "CyC2018/CS-Notes",
+    "branch": "master",
+    "language": "Other",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
+  },
+  {
+    "repo": "QwenLM/Qwen3-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning."
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
