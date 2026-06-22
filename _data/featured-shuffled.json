@@ -1,146 +1,146 @@
 [
   {
-    "repo": "0xKarl-dev/claw-codes",
+    "repo": "ZeroAd-06/MAACodex",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "google-research/vision_transformer",
+    "repo": "harrymunro/nelson",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
+  },
+  {
+    "repo": "yearn/yearn-finance",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
+  },
+  {
+    "repo": "microsoft/Data-Science-For-Beginners",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
+    "description": "10 Weeks, 20 Lessons, Data Science for All!"
   },
   {
-    "repo": "wsargent/docker-cheat-sheet",
+    "repo": "mitjafelicijan/xdgctl",
+    "branch": "master",
+    "language": "C",
+    "description": "TUI for managing XDG default applications"
+  },
+  {
+    "repo": "browserable/browserable",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source and self-hostable browser automation library for AI agents"
+  },
+  {
+    "repo": "actions/upload-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload artifacts from your workflow"
+  },
+  {
+    "repo": "delta-io/delta",
+    "branch": "master",
+    "language": "Scala",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+  },
+  {
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
     "branch": "master",
     "language": "Other",
-    "description": "Docker Cheat Sheet"
+    "description": ":link: Some useful websites for programmers."
   },
   {
-    "repo": "shuyu-labs/BigBanana-AI-Director",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
-  },
-  {
-    "repo": "934050259/BrowserCluster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
-  },
-  {
-    "repo": "pypa/setuptools",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official project repository for the Setuptools build system"
-  },
-  {
-    "repo": "pypa/pip",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python package installer"
-  },
-  {
-    "repo": "aframevr/aframe",
+    "repo": "wireshark/wireshark",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ":a: Web framework for building virtual reality experiences."
+    "language": "C",
+    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead."
   },
   {
-    "repo": "dotnet/runtime",
-    "branch": "main",
-    "language": "C#",
-    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
-  },
-  {
-    "repo": "simonw/cia-world-factbook-2020",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
-  },
-  {
-    "repo": "google/googletest",
-    "branch": "main",
-    "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
-  },
-  {
-    "repo": "gradle/gradle",
+    "repo": "ForrestKnight/open-source-cs",
     "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
   },
   {
-    "repo": "timuronlinq/messari-crack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messari crack"
-  },
-  {
-    "repo": "tailwindlabs/headlessui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
-  },
-  {
-    "repo": "ankitects/anki",
-    "branch": "main",
+    "repo": "alecthomas/t",
+    "branch": "master",
     "language": "Rust",
-    "description": "Anki is a smart spaced repetition flashcard program"
+    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
   },
   {
-    "repo": "nocodb/nocodb",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "zai-org/GLM-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "openscad/openscad",
+    "repo": "jaywcjlove/awesome-mac",
     "branch": "master",
-    "language": "C++",
-    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
   },
   {
-    "repo": "Infatoshi/metal-mc-terrain",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
+    "repo": "libressl/portable",
+    "branch": "master",
+    "language": "C",
+    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
   },
   {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
+    "repo": "paragonie/awesome-appsec",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A curated list of resources for learning about application security"
+  },
+  {
+    "repo": "binhnguyennus/awesome-scalability",
+    "branch": "master",
+    "language": "Other",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "repo": "trimstray/the-book-of-secret-knowledge",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
     "language": "Python",
-    "description": "Cloud Storage using Instagram."
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
   },
   {
-    "repo": "serenity-bdd/serenity-core",
+    "repo": "SwiftyJSON/SwiftyJSON",
+    "branch": "master",
+    "language": "Swift",
+    "description": "The better way to deal with JSON data in Swift."
+  },
+  {
+    "repo": "unjs/h3",
     "branch": "main",
-    "language": "HTML",
-    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+    "language": "TypeScript",
+    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
+  },
+  {
+    "repo": "elastic/logstash",
+    "branch": "main",
+    "language": "Java",
+    "description": "Logstash - transport and process your logs, events, or other data"
+  },
+  {
+    "repo": "containerd/containerd",
+    "branch": "main",
+    "language": "Go",
+    "description": "An open and reliable container runtime"
   }
 ]
