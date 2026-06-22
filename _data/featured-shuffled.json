@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ZeroAd-06/MAACodex",
+    "repo": "openwalrus/walrus",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "harrymunro/nelson",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
-  },
-  {
-    "repo": "nullclaw/nullclaw",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
-  },
-  {
-    "repo": "yearn/yearn-finance",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
-  },
-  {
-    "repo": "microsoft/Data-Science-For-Beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "10 Weeks, 20 Lessons, Data Science for All!"
-  },
-  {
-    "repo": "mitjafelicijan/xdgctl",
-    "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
-  },
-  {
-    "repo": "browserable/browserable",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source and self-hostable browser automation library for AI agents"
-  },
-  {
-    "repo": "actions/upload-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
-  },
-  {
-    "repo": "delta-io/delta",
-    "branch": "master",
-    "language": "Scala",
-    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleOCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
-  },
-  {
-    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
-    "branch": "master",
-    "language": "Other",
-    "description": ":link: Some useful websites for programmers."
-  },
-  {
-    "repo": "wireshark/wireshark",
-    "branch": "master",
-    "language": "C",
-    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead."
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "alecthomas/t",
-    "branch": "master",
     "language": "Rust",
-    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
+    "description": "Home of your agents"
   },
   {
-    "repo": "jaywcjlove/awesome-mac",
+    "repo": "Anuken/Mindustry",
     "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+    "language": "Java",
+    "description": "The automation tower defense RTS"
   },
   {
-    "repo": "libressl/portable",
+    "repo": "massgravel/Microsoft-Activation-Scripts",
     "branch": "master",
-    "language": "C",
-    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
   },
   {
-    "repo": "paragonie/awesome-appsec",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
-  },
-  {
-    "repo": "binhnguyennus/awesome-scalability",
-    "branch": "master",
-    "language": "Other",
-    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
-  },
-  {
-    "repo": "trimstray/the-book-of-secret-knowledge",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
-  },
-  {
-    "repo": "karpathy/nanoGPT",
-    "branch": "master",
+    "repo": "yizhiyanhua-ai/skills-updater",
+    "branch": "main",
     "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
   },
   {
-    "repo": "SwiftyJSON/SwiftyJSON",
-    "branch": "master",
-    "language": "Swift",
-    "description": "The better way to deal with JSON data in Swift."
+    "repo": "andralien/Synapse-Exec",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Synapse PC v3.2 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
   },
   {
-    "repo": "unjs/h3",
+    "repo": "grafana/grafana",
     "branch": "main",
     "language": "TypeScript",
-    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
   },
   {
-    "repo": "elastic/logstash",
+    "repo": "mfornos/awesome-microservices",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of Microservice Architecture related principles and technologies."
+  },
+  {
+    "repo": "bowang-lab/EchoJEPA",
+    "branch": "main",
+    "language": "Python",
+    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
+  },
+  {
+    "repo": "h9zdev/WireTapper",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "pydantic/FastUI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build better UIs faster."
+  },
+  {
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "junit-team/junit4",
     "branch": "main",
     "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
   },
   {
-    "repo": "containerd/containerd",
+    "repo": "uhub/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
+  },
+  {
+    "repo": "supermemoryai/openclaw-supermemory",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "Shopify/javy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "JS to WebAssembly toolchain"
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
     "language": "Go",
-    "description": "An open and reliable container runtime"
+    "description": "Lightweight Kubernetes"
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "joshavant/clawbox",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw-ready macOS VMs"
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
+    "branch": "master",
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Set up a modern web app by running one command."
+  },
+  {
+    "repo": "keras-team/keras-cv",
+    "branch": "master",
+    "language": "Python",
+    "description": "Industry-strength Computer Vision workflows with Keras"
+  },
+  {
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
   }
 ]
