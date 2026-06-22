@@ -1,8 +1,8 @@
 {
-  "repo": "zyn26/minimax-m3-desktop-app-free-api",
+  "repo": "ksimback/looper",
   "branch": "main",
-  "language": "Go",
-  "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
-  "stars": 112,
-  "forks": 3
+  "language": "Python",
+  "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
+  "stars": 120,
+  "forks": 11
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "openwalrus/walrus",
+    "repo": "razr001/align-dev",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
+  },
+  {
+    "repo": "WebAssembly/wabt",
+    "branch": "main",
+    "language": "C++",
+    "description": "The WebAssembly Binary Toolkit"
+  },
+  {
+    "repo": "realm/realm-swift",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
     "branch": "main",
     "language": "Rust",
-    "description": "Home of your agents"
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
   },
   {
-    "repo": "Anuken/Mindustry",
-    "branch": "master",
-    "language": "Java",
-    "description": "The automation tower defense RTS"
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
-    "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
-  },
-  {
-    "repo": "yizhiyanhua-ai/skills-updater",
-    "branch": "main",
-    "language": "Python",
-    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
-  },
-  {
-    "repo": "andralien/Synapse-Exec",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Synapse PC v3.2 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
-  },
-  {
-    "repo": "grafana/grafana",
+    "repo": "react-native-async-storage/async-storage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
   },
   {
-    "repo": "mfornos/awesome-microservices",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of Microservice Architecture related principles and technologies."
-  },
-  {
-    "repo": "bowang-lab/EchoJEPA",
+    "repo": "h5bp/html5-boilerplate",
     "branch": "main",
-    "language": "Python",
-    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
+    "language": "JavaScript",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
   },
   {
-    "repo": "h9zdev/WireTapper",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
-  },
-  {
-    "repo": "influxdata/telegraf",
+    "repo": "pocketbase/pocketbase",
     "branch": "master",
     "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+    "description": "Open Source realtime backend in 1 file"
   },
   {
-    "repo": "pydantic/FastUI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build better UIs faster."
-  },
-  {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
-  },
-  {
-    "repo": "junit-team/junit4",
-    "branch": "main",
-    "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "supermemoryai/openclaw-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "Shopify/javy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
-  },
-  {
-    "repo": "quasarframework/quasar",
+    "repo": "4jcraft/4jcraft",
     "branch": "dev",
-    "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+    "language": "C++",
+    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
   },
   {
-    "repo": "k3s-io/k3s",
-    "branch": "master",
-    "language": "Go",
-    "description": "Lightweight Kubernetes"
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "joshavant/clawbox",
+    "repo": "Dokhacgiakhoa/google-antigravity",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw-ready macOS VMs"
+    "description": ""
   },
   {
-    "repo": "kubernetes-sigs/metrics-server",
-    "branch": "master",
-    "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
-  },
-  {
-    "repo": "facebook/create-react-app",
+    "repo": "babel/babel-loader",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Set up a modern web app by running one command."
+    "description": "📦 Babel loader for webpack"
   },
   {
-    "repo": "keras-team/keras-cv",
-    "branch": "master",
+    "repo": "nepfaff/scenesmith",
+    "branch": "main",
     "language": "Python",
-    "description": "Industry-strength Computer Vision workflows with Keras"
+    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
   },
   {
     "repo": "boto/boto3",
     "branch": "develop",
     "language": "Python",
     "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "jkudish/librarium",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "thellimist/clihub",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "NomicFoundation/hardhat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
+  },
+  {
+    "repo": "joshcirre/instruckt-laravel",
+    "branch": "main",
+    "language": "PHP",
+    "description": ""
+  },
+  {
+    "repo": "thepartly/gatehouse",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
+  },
+  {
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "traefik/traefik",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Application Proxy"
+  },
+  {
+    "repo": "cloudflare/pingora",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A library for building fast, reliable and evolvable network services."
+  },
+  {
+    "repo": "PyCQA/flake8",
+    "branch": "main",
+    "language": "Python",
+    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
   }
 ]
