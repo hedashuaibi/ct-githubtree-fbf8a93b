@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wesm/msgvault",
-    "branch": "main",
-    "language": "Go",
-    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
-  },
-  {
-    "repo": "sindresorhus/awesome",
-    "branch": "main",
-    "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
-  },
-  {
-    "repo": "apache/arrow",
-    "branch": "main",
+    "repo": "kicad/kicad",
+    "branch": "master",
     "language": "C++",
-    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
   },
   {
-    "repo": "tensorflow/models",
-    "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
-  },
-  {
-    "repo": "airbnb/javascript",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript Style Guide"
-  },
-  {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "nextcloud/server",
-    "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
-  },
-  {
-    "repo": "pallets/flask",
+    "repo": "iad1tya/Net-Bar",
     "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-kubernetes",
-    "branch": "main",
-    "language": "Java",
-    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
-  },
-  {
-    "repo": "kubernetes/kubernetes",
-    "branch": "master",
-    "language": "Go",
-    "description": "Production-Grade Container Scheduling and Management"
-  },
-  {
-    "repo": "devicekit/DeviceKit",
-    "branch": "master",
     "language": "Swift",
-    "description": "DeviceKit is a value-type replacement of UIDevice."
+    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
   },
   {
-    "repo": "vercel/next.js",
+    "repo": "h5bp/html5-boilerplate",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The React Framework"
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "ReactiveX/RxPY",
-    "branch": "master",
-    "language": "Python",
-    "description": "ReactiveX for Python"
-  },
-  {
-    "repo": "microsoft/vscode",
+    "repo": "Sibyl-Research-Team/sibyl-research-system",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "language": "Python",
+    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
   },
   {
-    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
+    "repo": "shallowdream204/BitDance",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
+    "language": "Python",
+    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
   },
   {
-    "repo": "zsh-users/zsh-autosuggestions",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
-  },
-  {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
-  },
-  {
-    "repo": "JetBrains/kotlin",
-    "branch": "master",
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
     "language": "Kotlin",
-    "description": "The Kotlin Programming Language."
+    "description": "A private messenger for Android."
   },
   {
-    "repo": "milanm/AutoGrad-Engine",
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "openai/glide-text2im",
     "branch": "main",
-    "language": "C#",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+    "language": "Python",
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
   },
   {
-    "repo": "chroma-core/chroma",
+    "repo": "newrelic/newrelic-python-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "New Relic Python Agent"
+  },
+  {
+    "repo": "Pythagora-io/gpt-pilot",
+    "branch": "main",
+    "language": "Python",
+    "description": "The first real AI developer"
+  },
+  {
+    "repo": "opencmit/alphora",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
+  },
+  {
+    "repo": "cloudflare/vinext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "repo": "alibaba/landmark-tokenized-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+  },
+  {
+    "repo": "cisco-ai-defense/skill-scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Scanner for Agent Skills"
+  },
+  {
+    "repo": "sangrokjung/claude-forge",
+    "branch": "main",
+    "language": "Shell",
+    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
+  },
+  {
+    "repo": "iliya-Developer/VortexL2",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "react-hook-form/react-hook-form",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
+  },
+  {
+    "repo": "yangdongchao/UniAudio2",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "branch": "main",
+    "language": "Go",
+    "description": "OCI Image Format"
+  },
+  {
+    "repo": "vibe-music/vibe-music-web",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+  },
+  {
+    "repo": "immich-app/immich",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High performance self-hosted photo and video management solution."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source search and retrieval database for AI applications."
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
   },
   {
-    "repo": "Zehong-Ma/PixelGen",
+    "repo": "Lucent-Snow/style-extractor",
     "branch": "main",
-    "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
-  },
-  {
-    "repo": "ReactiveX/RxAndroid",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava bindings for Android"
-  },
-  {
-    "repo": "github/docs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
+    "language": "JavaScript",
+    "description": "一个能够提取最大化提取网页风格的skill"
   }
 ]
