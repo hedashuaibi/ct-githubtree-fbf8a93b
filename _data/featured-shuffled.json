@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kicad/kicad",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
-  },
-  {
-    "repo": "iad1tya/Net-Bar",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
-  },
-  {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
-  },
-  {
-    "repo": "Sibyl-Research-Team/sibyl-research-system",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
-  },
-  {
-    "repo": "shallowdream204/BitDance",
-    "branch": "main",
-    "language": "Python",
-    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
-  },
-  {
-    "repo": "signalapp/Signal-Android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "A private messenger for Android."
-  },
-  {
-    "repo": "ossu/computer-science",
-    "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
-  },
-  {
-    "repo": "openai/glide-text2im",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "Pythagora-io/gpt-pilot",
-    "branch": "main",
-    "language": "Python",
-    "description": "The first real AI developer"
-  },
-  {
-    "repo": "opencmit/alphora",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
-  },
-  {
-    "repo": "cloudflare/vinext",
+    "repo": "griffinmartin/opencode-claude-auth",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
   },
   {
-    "repo": "alibaba/landmark-tokenized-dit",
+    "repo": "HackingDave/btrpa-scan",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
   },
   {
-    "repo": "cisco-ai-defense/skill-scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Scanner for Agent Skills"
-  },
-  {
-    "repo": "sangrokjung/claude-forge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
-  },
-  {
-    "repo": "iliya-Developer/VortexL2",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "react-hook-form/react-hook-form",
+    "repo": "golang/protobuf",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
-  },
-  {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "opencontainers/image-spec",
-    "branch": "main",
     "language": "Go",
-    "description": "OCI Image Format"
+    "description": "Go support for Google's protocol buffers"
   },
   {
-    "repo": "vibe-music/vibe-music-web",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+    "repo": "mtdvio/every-programmer-should-know",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of (mostly) technical things every software developer should know about"
   },
   {
-    "repo": "immich-app/immich",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "High performance self-hosted photo and video management solution."
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY3D-Bench",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
+    "repo": "Zackriya-Solutions/meeting-minutes",
     "branch": "main",
     "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
   },
   {
-    "repo": "Lucent-Snow/style-extractor",
+    "repo": "fastai/course-v3",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The 3rd edition of course.fast.ai"
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "prompt-toolkit/python-prompt-toolkit",
+    "branch": "master",
+    "language": "Python",
+    "description": "Library for building powerful interactive command line applications in Python"
+  },
+  {
+    "repo": "ngrx/platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive State for Angular"
+  },
+  {
+    "repo": "whatwg/html",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML Standard"
+  },
+  {
+    "repo": "prisma/prisma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+  },
+  {
+    "repo": "openperf/openclaw-cloud",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
+  },
+  {
+    "repo": "CodeSeven/toastr",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple javascript toast notifications"
+  },
+  {
+    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
+  },
+  {
+    "repo": "facebook/create-react-app",
     "branch": "main",
     "language": "JavaScript",
-    "description": "一个能够提取最大化提取网页风格的skill"
+    "description": "Set up a modern web app by running one command."
+  },
+  {
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
+  },
+  {
+    "repo": "hammerjs/hammer.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
+  },
+  {
+    "repo": "ytdl-org/youtube-dl",
+    "branch": "master",
+    "language": "Python",
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
+  },
+  {
+    "repo": "sindresorhus/awesome",
+    "branch": "main",
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "apple/swift-log",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Logging API for Swift"
+  },
+  {
+    "repo": "facebook/fresco",
+    "branch": "main",
+    "language": "Java",
+    "description": "An Android library for managing images and the memory they use."
   }
 ]
