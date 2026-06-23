@@ -1,146 +1,146 @@
 [
   {
-    "repo": "griffinmartin/opencode-claude-auth",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
-  },
-  {
-    "repo": "HackingDave/btrpa-scan",
+    "repo": "Perkins729/OmniXtreme",
     "branch": "main",
     "language": "Python",
-    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
-  },
-  {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "mtdvio/every-programmer-should-know",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of (mostly) technical things every software developer should know about"
-  },
-  {
-    "repo": "Zackriya-Solutions/meeting-minutes",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
-  },
-  {
-    "repo": "fastai/course-v3",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The 3rd edition of course.fast.ai"
-  },
-  {
-    "repo": "dnakov/litter",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "public-apis/public-apis",
+    "repo": "google/flatbuffers",
     "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
-  },
-  {
-    "repo": "prompt-toolkit/python-prompt-toolkit",
-    "branch": "master",
-    "language": "Python",
-    "description": "Library for building powerful interactive command line applications in Python"
-  },
-  {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "whatwg/html",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HTML Standard"
-  },
-  {
-    "repo": "prisma/prisma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
-  },
-  {
-    "repo": "openperf/openclaw-cloud",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
-  },
-  {
-    "repo": "CodeSeven/toastr",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple javascript toast notifications"
-  },
-  {
-    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
-  },
-  {
-    "repo": "facebook/create-react-app",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Set up a modern web app by running one command."
-  },
-  {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
     "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
+    "description": "FlatBuffers: Memory Efficient Serialization Library"
   },
   {
-    "repo": "hammerjs/hammer.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
+    "repo": "rust-unofficial/awesome-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A curated list of Rust code and resources."
   },
   {
-    "repo": "ytdl-org/youtube-dl",
-    "branch": "master",
+    "repo": "millionco/isolet",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Package any component into a self-contained, isolated widget"
+  },
+  {
+    "repo": "pypa/setuptools",
+    "branch": "main",
     "language": "Python",
-    "description": "Command-line program to download videos from YouTube.com and other video sites"
+    "description": "Official project repository for the Setuptools build system"
   },
   {
-    "repo": "sindresorhus/awesome",
+    "repo": "nats-io/nats.go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang client for NATS, the cloud native messaging system."
+  },
+  {
+    "repo": "prettier/eslint-config-prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+  },
+  {
+    "repo": "emscripten-core/emscripten",
+    "branch": "main",
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
+  },
+  {
+    "repo": "owncloud/core",
+    "branch": "master",
+    "language": "PHP",
+    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
+  },
+  {
+    "repo": "cloudcommunity/Free-Certifications",
     "branch": "main",
     "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
+    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
   },
   {
-    "repo": "mui/material-ui",
+    "repo": "microsoft/guidance",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A guidance language for controlling large language models."
+  },
+  {
+    "repo": "gvisor/gvisor",
+    "branch": "master",
+    "language": "Other",
+    "description": "Application Kernel for Containers."
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "Automattic/mongoose",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+    "description": "MongoDB object modeling designed to work in an asynchronous environment."
   },
   {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
   },
   {
-    "repo": "apple/swift-log",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Logging API for Swift"
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
   },
   {
-    "repo": "facebook/fresco",
+    "repo": "opf/openproject",
+    "branch": "dev",
+    "language": "Ruby",
+    "description": "OpenProject is the leading open source project management software."
+  },
+  {
+    "repo": "ryanmcdermott/clean-code-javascript",
     "branch": "main",
-    "language": "Java",
-    "description": "An Android library for managing images and the memory they use."
+    "language": "JavaScript",
+    "description": "Clean Code concepts adapted for JavaScript"
+  },
+  {
+    "repo": "github/gitignore",
+    "branch": "main",
+    "language": "Other",
+    "description": "A collection of useful .gitignore templates"
+  },
+  {
+    "repo": "clap-rs/clap",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A full featured, fast Command Line Argument Parser for Rust"
+  },
+  {
+    "repo": "FreeCAD/FreeCAD",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+  },
+  {
+    "repo": "sequelize/sequelize",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "branch": "main",
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+  },
+  {
+    "repo": "jasmine/jasmine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Simple JavaScript testing framework for browsers and node.js"
   }
 ]
