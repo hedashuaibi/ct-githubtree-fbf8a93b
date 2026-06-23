@@ -1,146 +1,146 @@
 [
   {
-    "repo": "razr001/align-dev",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
+    "repo": "wesm/msgvault",
+    "branch": "main",
+    "language": "Go",
+    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
   },
   {
-    "repo": "WebAssembly/wabt",
+    "repo": "sindresorhus/awesome",
+    "branch": "main",
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "repo": "apache/arrow",
     "branch": "main",
     "language": "C++",
-    "description": "The WebAssembly Binary Toolkit"
+    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
   },
   {
-    "repo": "realm/realm-swift",
+    "repo": "tensorflow/models",
     "branch": "master",
-    "language": "Objective-C",
-    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
   },
   {
-    "repo": "FFmpeg/FFmpeg",
+    "repo": "airbnb/javascript",
     "branch": "master",
-    "language": "C",
-    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
-  },
-  {
-    "repo": "zeroclaw-labs/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
-  },
-  {
-    "repo": "react-native-async-storage/async-storage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An asynchronous, persistent, key-value storage system for React Native."
-  },
-  {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+    "description": "JavaScript Style Guide"
   },
   {
-    "repo": "pocketbase/pocketbase",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "pallets/flask",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "branch": "main",
+    "language": "Java",
+    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+  },
+  {
+    "repo": "kubernetes/kubernetes",
     "branch": "master",
     "language": "Go",
-    "description": "Open Source realtime backend in 1 file"
+    "description": "Production-Grade Container Scheduling and Management"
   },
   {
-    "repo": "4jcraft/4jcraft",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
+    "repo": "devicekit/DeviceKit",
+    "branch": "master",
+    "language": "Swift",
+    "description": "DeviceKit is a value-type replacement of UIDevice."
   },
   {
-    "repo": "Dokhacgiakhoa/google-antigravity",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "babel/babel-loader",
+    "repo": "vercel/next.js",
     "branch": "main",
     "language": "JavaScript",
-    "description": "📦 Babel loader for webpack"
+    "description": "The React Framework"
   },
   {
-    "repo": "nepfaff/scenesmith",
-    "branch": "main",
-    "language": "Python",
-    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
-  },
-  {
-    "repo": "boto/boto3",
+    "repo": "freqtrade/freqtrade",
     "branch": "develop",
     "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
+    "description": "Free, open source crypto trading bot"
   },
   {
-    "repo": "jkudish/librarium",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
-  },
-  {
-    "repo": "dnakov/litter",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "thellimist/clihub",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "NomicFoundation/hardhat",
+    "repo": "ReactiveX/RxPY",
     "branch": "master",
+    "language": "Python",
+    "description": "ReactiveX for Python"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
+    "description": "Visual Studio Code"
   },
   {
-    "repo": "joshcirre/instruckt-laravel",
+    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
     "branch": "main",
-    "language": "PHP",
-    "description": ""
+    "language": "TypeScript",
+    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
   },
   {
-    "repo": "thepartly/gatehouse",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish-like autosuggestions for zsh"
   },
   {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "JetBrains/kotlin",
+    "branch": "master",
     "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+    "description": "The Kotlin Programming Language."
   },
   {
-    "repo": "traefik/traefik",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Application Proxy"
+    "repo": "milanm/AutoGrad-Engine",
+    "branch": "main",
+    "language": "C#",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
   },
   {
-    "repo": "cloudflare/pingora",
+    "repo": "chroma-core/chroma",
     "branch": "main",
     "language": "Rust",
-    "description": "A library for building fast, reliable and evolvable network services."
+    "description": "Open-source search and retrieval database for AI applications."
   },
   {
-    "repo": "PyCQA/flake8",
+    "repo": "Zehong-Ma/PixelGen",
     "branch": "main",
     "language": "Python",
-    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
   },
   {
-    "repo": "google/or-tools",
-    "branch": "stable",
-    "language": "C++",
-    "description": "Google's Operations Research tools:"
+    "repo": "ReactiveX/RxAndroid",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava bindings for Android"
+  },
+  {
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
   }
 ]

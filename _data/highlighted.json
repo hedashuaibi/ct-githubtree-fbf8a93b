@@ -1,8 +1,8 @@
 {
-  "repo": "ksimback/looper",
+  "repo": "huang-sir1/radiology-skills",
   "branch": "main",
   "language": "Python",
-  "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
-  "stars": 120,
-  "forks": 11
+  "description": "A featured project on GitHubTree.",
+  "stars": 109,
+  "forks": 3
 }
