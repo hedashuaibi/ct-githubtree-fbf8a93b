@@ -1,8 +1,8 @@
 {
-  "repo": "FieldofStrawberries/claude-code-fable-5-free-app",
+  "repo": "egorpavlov0/Flash-USDT-Sender",
   "branch": "main",
-  "language": "C#",
-  "description": "claude fable 5 free api ai chatbot anthropic model chat online web api github download desktop client  access premium account login trial alternative prompt generative text ui version beta assistant",
-  "stars": 107,
-  "forks": 1
+  "language": "Python",
+  "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
+  "stars": 0,
+  "forks": 0
 }

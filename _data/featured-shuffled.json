@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "zennomi/truyendrive",
+    "repo": "browser-use/bux",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Biến Google Drive thành Web Truyện"
+    "language": "Python",
+    "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
   },
   {
-    "repo": "gleam-lang/gleam",
+    "repo": "lukilabs/beautiful-mermaid-swift",
     "branch": "main",
-    "language": "Rust",
-    "description": "⭐️ A friendly language for building type-safe, scalable systems!"
+    "language": "Swift",
+    "description": "Native Mermaid diagram renderer for Swift"
   },
   {
-    "repo": "r3nzsec/irflow-timeline",
+    "repo": "bbylw/clawdbot-cn",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection."
+    "language": "HTML",
+    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
   },
   {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+    "repo": "NCSC-NL/spring4shell",
+    "branch": "main",
+    "language": "Other",
+    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
   },
   {
-    "repo": "Developer-Y/cs-video-courses",
+    "repo": "hantuzun/awesome-clojure",
     "branch": "master",
     "language": "Other",
-    "description": "List of Computer Science courses with video lectures."
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
   },
   {
-    "repo": "op7418/Claude-to-IM-skill",
+    "repo": "jdrhyne/agent-skills",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
+    "language": "HTML",
+    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
   },
   {
-    "repo": "miaoxworld/ClawdBotInstaller",
+    "repo": "randallscott25-star/epstein-forensic-finance",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+  },
+  {
+    "repo": "shanselman/cert-inspector",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
     "branch": "main",
     "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
   },
   {
-    "repo": "duoan/TorchCode",
+    "repo": "edgedb/edgedb",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+    "language": "Python",
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
   },
   {
-    "repo": "vibe-music/vibe-music-web",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
-  },
-  {
-    "repo": "sharbelxyz/x-bookmarks",
+    "repo": "meltano/meltano",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
   },
   {
-    "repo": "mirarr-app/network-checker",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "170-carry/codex-tools",
-    "branch": "main",
-    "language": "Rust",
-    "description": "快捷切换codex 账号以及监控codex用量的工具"
-  },
-  {
-    "repo": "antirez/tgterm",
-    "branch": "main",
+    "repo": "mitjafelicijan/xdgctl",
+    "branch": "master",
     "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+    "description": "TUI for managing XDG default applications"
   },
   {
-    "repo": "LeoChen-CoreMind/VMPacker",
-    "branch": "master",
-    "language": "Go",
-    "description": "ARM64 ELF Virtual Machine Protection System"
-  },
-  {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
-  },
-  {
-    "repo": "MooseGoose0701/skill-compose",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
-  },
-  {
-    "repo": "milanm/AutoGrad-Engine",
+    "repo": "erikdarlingdata/PerformanceMonitor",
     "branch": "main",
     "language": "C#",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
   },
   {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
-  },
-  {
-    "repo": "Alex-Gilbert/unredact",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "appsail/Gemini-in-Chrome",
-    "branch": "master",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "xywml/PaperGrid",
+    "repo": "Conway-Research/automaton",
     "branch": "main",
     "language": "TypeScript",
-    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
+    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
+  },
+  {
+    "repo": "GuDaStudio/commands",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": ""
+  },
+  {
+    "repo": "mysqljs/mysql",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+  },
+  {
+    "repo": "inspatio/worldfm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
+    "branch": "master",
+    "language": "Other",
+    "description": ":link: Some useful websites for programmers."
+  },
+  {
+    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于向听算法的AR眼镜端麻将助手"
+  },
+  {
+    "repo": "securo-finance/securo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
+  },
+  {
+    "repo": "heri1845/Polymarket-trading-tool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot. polymarket copy trading bot"
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
+  },
+  {
+    "repo": "steipete/discrawl",
+    "branch": "main",
+    "language": "Go",
+    "description": "cli for discord with sqlite backend"
+  },
+  {
+    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
   }
 ]
