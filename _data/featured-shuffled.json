@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Perkins729/OmniXtreme",
+    "repo": "hexiecs/talk-normal",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop."
+  },
+  {
+    "repo": "tamnd/kage",
+    "branch": "main",
+    "language": "Go",
+    "description": "Shadow any website for offline viewing, with the JavaScript stripped out"
+  },
+  {
+    "repo": "lenxism/dither",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
+  },
+  {
+    "repo": "atomicmemory/llm-wiki-compiler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
+  },
+  {
+    "repo": "ayush-that/jiang-clips",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
+  },
+  {
+    "repo": "huggingface/hf-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+  },
+  {
+    "repo": "imj01y/trace-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "高性能 ARM64 执行 trace 可视化分析工具"
+  },
+  {
+    "repo": "0xSteph/pentest-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "apkclaw-team/ApkClaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "oaker-io/wewrite",
+    "branch": "main",
+    "language": "Python",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "repo": "nox-project/nox-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
+  },
+  {
+    "repo": "Gustavo1900/bevy-atmosphere",
+    "branch": "master",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "hubeiqiao/apple-bento-grid",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
+  },
+  {
+    "repo": "RhysSullivan/nextjs-mobile-app-template",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "shobhit99/claude-watch",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Control your claude code from your apple watch"
+  },
+  {
+    "repo": "DevTechJr/turboquant-gpu",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "google/flatbuffers",
-    "branch": "master",
-    "language": "C++",
-    "description": "FlatBuffers: Memory Efficient Serialization Library"
-  },
-  {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "millionco/isolet",
+    "repo": "emdash-cms/emdash",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Package any component into a self-contained, isolated widget"
+    "description": ""
   },
   {
-    "repo": "pypa/setuptools",
+    "repo": "CrewSX/polymarket-esports-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "Official project repository for the Setuptools build system"
+    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
   },
   {
-    "repo": "nats-io/nats.go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
-  },
-  {
-    "repo": "prettier/eslint-config-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
-  },
-  {
-    "repo": "emscripten-core/emscripten",
-    "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "owncloud/core",
-    "branch": "master",
-    "language": "PHP",
-    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
-  },
-  {
-    "repo": "cloudcommunity/Free-Certifications",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
-  },
-  {
-    "repo": "microsoft/guidance",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A guidance language for controlling large language models."
-  },
-  {
-    "repo": "gvisor/gvisor",
-    "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
-  },
-  {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
-  },
-  {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
-  },
-  {
-    "repo": "lodash/lodash",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
-  },
-  {
-    "repo": "opf/openproject",
-    "branch": "dev",
-    "language": "Ruby",
-    "description": "OpenProject is the leading open source project management software."
-  },
-  {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "github/gitignore",
-    "branch": "main",
-    "language": "Other",
-    "description": "A collection of useful .gitignore templates"
-  },
-  {
-    "repo": "clap-rs/clap",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
-  },
-  {
-    "repo": "sequelize/sequelize",
+    "repo": "amadeusprotocol/polymarket-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+    "description": ""
   },
   {
-    "repo": "microsoft/onnxruntime",
+    "repo": "Housetan218/claude-code-haha",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude-code-hahahhhhhhhhhhhhh"
+  },
+  {
+    "repo": "win4r/free-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+  },
+  {
+    "repo": "gelo1231/Pokemon-Pokopia-For-PC",
     "branch": "main",
     "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
-  },
-  {
-    "repo": "jasmine/jasmine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
+    "description": "Pokemon Pokopia PC download fan game RPG Maker Essentials Pokedex battles trainers gym leaders shiny hunting mega evolution regional forms breeding evolution items legendaries starter pokemon custom sprites native port controller support save editor fullscreen widescreen windowed mode textures sprites maps quests NPC dialogs inventory box s"
   }
 ]
