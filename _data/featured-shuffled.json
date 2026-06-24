@@ -1,146 +1,146 @@
 [
   {
-    "repo": "udacity/reactnd-contacts-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The backend server for the in-class Contacts project."
-  },
-  {
-    "repo": "goehou/tabbit-toy",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
-  },
-  {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "encode/uvicorn",
-    "branch": "master",
-    "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
-  },
-  {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "trycua/launchpad",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "grp06/openclaw-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "EveryInc/proof-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "nomic-ai/gpt4all",
-    "branch": "main",
-    "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
-  },
-  {
-    "repo": "open-policy-agent/gatekeeper",
+    "repo": "kubernetes-sigs/external-dns",
     "branch": "master",
     "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
   },
   {
-    "repo": "Thearas/wechat-db-decrypt-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
-  },
-  {
-    "repo": "cloudflare/vinext",
+    "repo": "zennomi/truyendrive",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+    "description": "Biến Google Drive thành Web Truyện"
   },
   {
-    "repo": "ansible/ansible",
-    "branch": "devel",
-    "language": "Python",
-    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com."
-  },
-  {
-    "repo": "johnmai-dev/ANE-LM",
+    "repo": "gleam-lang/gleam",
     "branch": "main",
-    "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
+    "language": "Rust",
+    "description": "⭐️ A friendly language for building type-safe, scalable systems!"
   },
   {
-    "repo": "cs50victor/claude-code-teams-mcp",
+    "repo": "r3nzsec/irflow-timeline",
     "branch": "main",
-    "language": "Python",
-    "description": "use claude code's agent teams orchestraction with any harness"
+    "language": "JavaScript",
+    "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection."
   },
   {
-    "repo": "op7418/CodePilot",
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "Developer-Y/cs-video-courses",
+    "branch": "master",
+    "language": "Other",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "repo": "op7418/Claude-to-IM-skill",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
   },
   {
-    "repo": "THUDM/CodeGeeX",
+    "repo": "miaoxworld/ClawdBotInstaller",
     "branch": "main",
-    "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
   },
   {
-    "repo": "shanselman/cert-inspector",
+    "repo": "duoan/TorchCode",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
   },
   {
-    "repo": "ford26321works003/sora2API",
-    "branch": "main",
-    "language": "Python",
-    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
-  },
-  {
-    "repo": "comeonzhj/AutoContents",
+    "repo": "vibe-music/vibe-music-web",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
   },
   {
-    "repo": "promptpirate-x/discord-id-bypass-tool",
+    "repo": "sharbelxyz/x-bookmarks",
     "branch": "main",
-    "language": "HTML",
-    "description": "A verified tool that works on any potato computer that will let you bypass discord verification"
+    "language": "Python",
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
   },
   {
-    "repo": "PanJiaChen/vue-element-admin",
+    "repo": "mirarr-app/network-checker",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "170-carry/codex-tools",
+    "branch": "main",
+    "language": "Rust",
+    "description": "快捷切换codex 账号以及监控codex用量的工具"
+  },
+  {
+    "repo": "antirez/tgterm",
+    "branch": "main",
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+  },
+  {
+    "repo": "LeoChen-CoreMind/VMPacker",
     "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+    "language": "Go",
+    "description": "ARM64 ELF Virtual Machine Protection System"
   },
   {
-    "repo": "LCEMP/LCEMP",
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
     "branch": "main",
-    "language": "C++",
-    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+  },
+  {
+    "repo": "MooseGoose0701/skill-compose",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+  },
+  {
+    "repo": "milanm/AutoGrad-Engine",
+    "branch": "main",
+    "language": "C#",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+  },
+  {
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+  },
+  {
+    "repo": "Alex-Gilbert/unredact",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "khanhduytran0/coruna",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The leaked exploit toolkit for various iOS versions"
+  },
+  {
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "appsail/Gemini-in-Chrome",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "xywml/PaperGrid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
   }
 ]
