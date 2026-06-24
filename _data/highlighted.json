@@ -1,8 +1,8 @@
 {
-  "repo": "QuantML-Research/wq-alpha-research",
-  "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 116,
-  "forks": 43
+  "repo": "iart-ai/motion-skills",
+  "branch": "master",
+  "language": "HTML",
+  "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+  "stars": 119,
+  "forks": 7
 }
