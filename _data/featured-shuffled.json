@@ -1,146 +1,146 @@
 [
   {
-    "repo": "fluentlc/claude-code-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications."
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-Math",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "4jcraft/4jcraft",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
-  },
-  {
-    "repo": "antfu/ghfs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
-  },
-  {
-    "repo": "celery/celery",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
-  },
-  {
-    "repo": "ford26321works003/sora2API",
-    "branch": "main",
-    "language": "Python",
-    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
-  },
-  {
-    "repo": "software-mansion/react-native-screens",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native navigation primitives for your React Native app."
-  },
-  {
-    "repo": "gsd-build/gsd-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
-  },
-  {
-    "repo": "mantinedev/mantine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A fully featured React components library"
-  },
-  {
-    "repo": "ynsmroztas/AndroHunter",
-    "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
-  },
-  {
     "repo": "wasmerio/wasmer",
     "branch": "master",
     "language": "Rust",
     "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
   },
   {
-    "repo": "styled-components/styled-components",
+    "repo": "said-ohamouddou/LIDARLearn",
+    "branch": "main",
+    "language": "Python",
+    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "jgraph/drawio",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "branch": "main",
+    "language": "Go",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+  },
+  {
+    "repo": "keras-team/keras-nlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrained model hub for Keras 3."
+  },
+  {
+    "repo": "tensorflow/tensorboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TensorFlow's Visualization Toolkit"
+  },
+  {
+    "repo": "TanStack/table",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
+    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
   },
   {
-    "repo": "weaviate/weaviate",
+    "repo": "apache/tvm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Machine Learning Compiler Framework"
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "branch": "master",
+    "language": "Python",
+    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
+    "branch": "main",
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+  },
+  {
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A light weight Python library for the Spotify Web API"
+  },
+  {
+    "repo": "melonjs/melonJS",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "branch": "main",
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+  },
+  {
+    "repo": "webpack/webpack",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+  },
+  {
+    "repo": "Stability-AI/stablediffusion",
+    "branch": "main",
+    "language": "Other",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
+  },
+  {
+    "repo": "ReactiveX/RxPY",
+    "branch": "master",
+    "language": "Python",
+    "description": "ReactiveX for Python"
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "web development for the rest of us"
+  },
+  {
+    "repo": "microsoft/STL",
+    "branch": "main",
+    "language": "C++",
+    "description": "MSVC's implementation of the C++ Standard Library."
+  },
+  {
+    "repo": "fyne-io/fyne",
     "branch": "master",
     "language": "Go",
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+    "description": "Cross platform GUI toolkit in Go inspired by Material Design"
   },
   {
-    "repo": "v0id4real/Void-Tools",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ywnd1144/Gopay_plus_automatic",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "cherepavel/VPN-Detector",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Android app for detecting VPN usage and network tunneling signals."
-  },
-  {
-    "repo": "Jiawei-Yang/FD-Loss",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "metauto-ai/NeuralComputer",
-    "branch": "main",
-    "language": "Python",
-    "description": "🖥 Neural Computers' Data Engine"
-  },
-  {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "inspatio/worldfm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "pypa/pipenv",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Development Workflow for Humans."
-  },
-  {
-    "repo": "testing-library/react-testing-library",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
-  },
-  {
-    "repo": "ConardLi/garden-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
-  },
-  {
-    "repo": "duoan/TorchCode",
+    "repo": "rust-lang/rust",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+    "language": "Rust",
+    "description": "Empowering everyone to build reliable and efficient software."
+  },
+  {
+    "repo": "openfaas/faas",
+    "branch": "master",
+    "language": "Go",
+    "description": "OpenFaaS - Serverless Functions Made Simple"
+  },
+  {
+    "repo": "animate-css/animate.css",
+    "branch": "main",
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
   }
 ]
