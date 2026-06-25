@@ -1,146 +1,146 @@
 [
   {
-    "repo": "skycryptsite/SkyCrypt",
+    "repo": "SGmetro/Lossless-Scaling-Latest-Github-PC-3",
     "branch": "main",
-    "language": "Svelte",
-    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
+    "language": "C#",
+    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
   },
   {
-    "repo": "johannesjo/parallel-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
-  },
-  {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
+    "repo": "nj19257/FastSkills",
     "branch": "main",
     "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
   },
   {
-    "repo": "cli/cli",
-    "branch": "trunk",
-    "language": "Go",
-    "description": "GitHub’s official command line tool"
-  },
-  {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "llmsresearch/paperbanana",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
-  },
-  {
-    "repo": "OpenMOSS/MOSS-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
-  },
-  {
-    "repo": "abi/screenshot-to-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
-  },
-  {
-    "repo": "Yaolinwang/AITD",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Trading Agent for Everyone"
-  },
-  {
-    "repo": "Barath19/Boxer3D",
-    "branch": "main",
-    "language": "Swift",
-    "description": "AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting"
-  },
-  {
-    "repo": "geoffreymcgill/react-native-collapsible",
+    "repo": "microsoft/winget-pkgs",
     "branch": "master",
-    "language": "Other",
-    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
   },
   {
-    "repo": "aeromomo/claw-compactor",
+    "repo": "alibaba-damo-academy/RynnBrain",
     "branch": "main",
-    "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
   },
   {
-    "repo": "esaradev/icarus-daedalus",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
-  },
-  {
-    "repo": "vansh-nagar/ascii-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
-  },
-  {
-    "repo": "OpenMOSS/MOVA",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
-  },
-  {
-    "repo": "jzOcb/writing-style-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
-  },
-  {
-    "repo": "LocoreMind/LocoTrainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "MS-SWIFT domain expert agent for codebase analysis and report generation"
-  },
-  {
-    "repo": "willchen96/mike",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OSS AI Legal Platform"
-  },
-  {
-    "repo": "jasonkneen/agent-simulator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An iOS simulator in a browser you can inspect"
-  },
-  {
-    "repo": "oneclaw/oneclaw",
-    "branch": "main",
+    "repo": "ramda/ramda",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "OneClaw"
+    "description": ":ram: Practical functional Javascript"
   },
   {
-    "repo": "wy51ai/moltbotCNAPP",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
+    "repo": "moment/moment",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Parse, validate, manipulate, and display dates in javascript."
   },
   {
-    "repo": "kyegomez/OpenMythos",
-    "branch": "main",
-    "language": "Python",
-    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
   },
   {
-    "repo": "sliverp/qqbot",
+    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "branch": "main",
     "language": "TypeScript",
-    "description": "qqbot"
+    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
   },
   {
-    "repo": "immanuwell/dockerfile-roast",
+    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+  },
+  {
+    "repo": "square/okhttp",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+  },
+  {
+    "repo": "istio/istio",
+    "branch": "master",
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
+  },
+  {
+    "repo": "sharkdp/bat",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cat(1) clone with wings."
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "branch": "main",
+    "language": "C++",
+    "description": "A library for efficient similarity search and clustering of dense vectors."
+  },
+  {
+    "repo": "zed-industries/zed",
     "branch": "main",
     "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+  },
+  {
+    "repo": "sstklen/trump-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
+  },
+  {
+    "repo": "zaproxy/zaproxy",
+    "branch": "main",
+    "language": "Java",
+    "description": "The ZAP by Checkmarx Core project"
+  },
+  {
+    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3.5-9B ToolHub-v1.0.0"
+  },
+  {
+    "repo": "ant-design/ant-design",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
   }
 ]

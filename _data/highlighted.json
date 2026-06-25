@@ -1,8 +1,8 @@
 {
-  "repo": "win4r/codebase-memory-mcp-pro",
+  "repo": "umacloud/umadev",
   "branch": "main",
-  "language": "C",
-  "description": "Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server.",
-  "stars": 117,
-  "forks": 19
+  "language": "Rust",
+  "description": "A project-director agent that drives your Claude Code / Codex / OpenCode to plan, build, review, govern & ship software like a real dev team — runnable code + a delivery proof. Brings no model of its own.项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,像真实开发团队那样规划、编码、评审、治理、交付,交还可运行代码。",
+  "stars": 122,
+  "forks": 45
 }
