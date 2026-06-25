@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wasmerio/wasmer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+    "repo": "skycryptsite/SkyCrypt",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
   },
   {
-    "repo": "said-ohamouddou/LIDARLearn",
+    "repo": "johannesjo/parallel-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+  },
+  {
+    "repo": "reinesana/Doomscroll-Skyrim-Edition",
     "branch": "main",
     "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
+    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
   },
   {
-    "repo": "ggerganov/llama.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "LLM inference in C/C++"
-  },
-  {
-    "repo": "jgraph/drawio",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
-  },
-  {
-    "repo": "danielmiessler/fabric",
-    "branch": "main",
+    "repo": "cli/cli",
+    "branch": "trunk",
     "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    "description": "GitHub’s official command line tool"
   },
   {
-    "repo": "keras-team/keras-nlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
-  },
-  {
-    "repo": "tensorflow/tensorboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TensorFlow's Visualization Toolkit"
-  },
-  {
-    "repo": "TanStack/table",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
-  },
-  {
-    "repo": "apache/tvm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Machine Learning Compiler Framework"
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "branch": "master",
-    "language": "Python",
-    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
-  },
-  {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "spotipy-dev/spotipy",
-    "branch": "master",
-    "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
-  },
-  {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
     "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
+    "description": "The iconic SVG, font, and CSS toolkit"
   },
   {
-    "repo": "quarkusio/quarkus",
+    "repo": "llmsresearch/paperbanana",
     "branch": "main",
-    "language": "Java",
-    "description": "Quarkus: Supersonic Subatomic Java."
+    "language": "Python",
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
   },
   {
-    "repo": "meilisearch/meilisearch",
+    "repo": "OpenMOSS/MOSS-TTS",
     "branch": "main",
-    "language": "Rust",
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+    "language": "Python",
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
   },
   {
-    "repo": "webpack/webpack",
+    "repo": "abi/screenshot-to-code",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+    "language": "Python",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
   },
   {
-    "repo": "Stability-AI/stablediffusion",
+    "repo": "Yaolinwang/AITD",
     "branch": "main",
+    "language": "Python",
+    "description": "AI Trading Agent for Everyone"
+  },
+  {
+    "repo": "Barath19/Boxer3D",
+    "branch": "main",
+    "language": "Swift",
+    "description": "AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting"
+  },
+  {
+    "repo": "geoffreymcgill/react-native-collapsible",
+    "branch": "master",
     "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
+    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
   },
   {
-    "repo": "ReactiveX/RxPY",
-    "branch": "master",
+    "repo": "aeromomo/claw-compactor",
+    "branch": "main",
     "language": "Python",
-    "description": "ReactiveX for Python"
+    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
   },
   {
-    "repo": "sveltejs/svelte",
+    "repo": "esaradev/icarus-daedalus",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
+  },
+  {
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+  },
+  {
+    "repo": "OpenMOSS/MOVA",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
+  },
+  {
+    "repo": "jzOcb/writing-style-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
+  },
+  {
+    "repo": "LocoreMind/LocoTrainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "MS-SWIFT domain expert agent for codebase analysis and report generation"
+  },
+  {
+    "repo": "willchen96/mike",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OSS AI Legal Platform"
+  },
+  {
+    "repo": "jasonkneen/agent-simulator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An iOS simulator in a browser you can inspect"
+  },
+  {
+    "repo": "oneclaw/oneclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "web development for the rest of us"
+    "description": "OneClaw"
   },
   {
-    "repo": "microsoft/STL",
+    "repo": "wy51ai/moltbotCNAPP",
     "branch": "main",
-    "language": "C++",
-    "description": "MSVC's implementation of the C++ Standard Library."
-  },
-  {
-    "repo": "fyne-io/fyne",
-    "branch": "master",
     "language": "Go",
-    "description": "Cross platform GUI toolkit in Go inspired by Material Design"
+    "description": ""
   },
   {
-    "repo": "rust-lang/rust",
-    "branch": "master",
+    "repo": "kyegomez/OpenMythos",
+    "branch": "main",
+    "language": "Python",
+    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+  },
+  {
+    "repo": "sliverp/qqbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "qqbot"
+  },
+  {
+    "repo": "immanuwell/dockerfile-roast",
+    "branch": "main",
     "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
-  },
-  {
-    "repo": "openfaas/faas",
-    "branch": "master",
-    "language": "Go",
-    "description": "OpenFaaS - Serverless Functions Made Simple"
-  },
-  {
-    "repo": "animate-css/animate.css",
-    "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+    "description": "a dockerfile linter that actually has opinions 🔥"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "JayWebtech/autoshorts",
+  "repo": "win4r/codebase-memory-mcp-pro",
   "branch": "main",
-  "language": "Rust",
-  "description": "A featured project on GitHubTree.",
-  "stars": 123,
-  "forks": 23
+  "language": "C",
+  "description": "Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server.",
+  "stars": 117,
+  "forks": 19
 }
