@@ -1,99 +1,117 @@
 [
   {
-    "repo": "browser-use/bux",
+    "repo": "fluentlc/claude-code-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications."
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-Math",
     "branch": "main",
     "language": "Python",
-    "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
   },
   {
-    "repo": "lukilabs/beautiful-mermaid-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native Mermaid diagram renderer for Swift"
+    "repo": "4jcraft/4jcraft",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
   },
   {
-    "repo": "bbylw/clawdbot-cn",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
-  },
-  {
-    "repo": "NCSC-NL/spring4shell",
-    "branch": "main",
-    "language": "Other",
-    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
-  },
-  {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
-  },
-  {
-    "repo": "jdrhyne/agent-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
-  },
-  {
-    "repo": "shanselman/cert-inspector",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "derHaken/SuperAntigravity",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
-  },
-  {
-    "repo": "edgedb/edgedb",
-    "branch": "master",
-    "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
-  },
-  {
-    "repo": "meltano/meltano",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
-  },
-  {
-    "repo": "mitjafelicijan/xdgctl",
-    "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
-  },
-  {
-    "repo": "erikdarlingdata/PerformanceMonitor",
-    "branch": "main",
-    "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
-  },
-  {
-    "repo": "Conway-Research/automaton",
+    "repo": "antfu/ghfs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
+    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
   },
   {
-    "repo": "GuDaStudio/commands",
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "ford26321works003/sora2API",
     "branch": "main",
-    "language": "PowerShell",
+    "language": "Python",
+    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
+  },
+  {
+    "repo": "software-mansion/react-native-screens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Native navigation primitives for your React Native app."
+  },
+  {
+    "repo": "gsd-build/gsd-2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "mantinedev/mantine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A fully featured React components library"
+  },
+  {
+    "repo": "ynsmroztas/AndroHunter",
+    "branch": "main",
+    "language": "Java",
+    "description": "AndroHunter"
+  },
+  {
+    "repo": "wasmerio/wasmer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+  },
+  {
+    "repo": "styled-components/styled-components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+  },
+  {
+    "repo": "v0id4real/Void-Tools",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "mysqljs/mysql",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+    "repo": "ywnd1144/Gopay_plus_automatic",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "cherepavel/VPN-Detector",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Android app for detecting VPN usage and network tunneling signals."
+  },
+  {
+    "repo": "Jiawei-Yang/FD-Loss",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "metauto-ai/NeuralComputer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🖥 Neural Computers' Data Engine"
+  },
+  {
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
   },
   {
     "repo": "inspatio/worldfm",
@@ -102,45 +120,27 @@
     "description": ""
   },
   {
-    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
-    "branch": "master",
-    "language": "Other",
-    "description": ":link: Some useful websites for programmers."
-  },
-  {
-    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
+    "repo": "pypa/pipenv",
     "branch": "main",
     "language": "Python",
-    "description": "一个基于向听算法的AR眼镜端麻将助手"
+    "description": "Python Development Workflow for Humans."
   },
   {
-    "repo": "securo-finance/securo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
-  },
-  {
-    "repo": "heri1845/Polymarket-trading-tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot. polymarket copy trading bot"
-  },
-  {
-    "repo": "ncvgl/slawk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
-  },
-  {
-    "repo": "steipete/discrawl",
-    "branch": "main",
-    "language": "Go",
-    "description": "cli for discord with sqlite backend"
-  },
-  {
-    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "repo": "testing-library/react-testing-library",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
+  },
+  {
+    "repo": "ConardLi/garden-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+  },
+  {
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
   }
 ]
