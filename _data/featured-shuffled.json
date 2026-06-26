@@ -1,146 +1,146 @@
 [
   {
-    "repo": "boto/boto3",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
+    "repo": "dev-protocol/polymarket-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket copytrading bot || polymarket copy trading bot || polymarket copy bot ||"
   },
   {
-    "repo": "stanfordnlp/stanza",
+    "repo": "MhmRdd/google-rkp-sw",
     "branch": "main",
     "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+    "description": ""
   },
   {
-    "repo": "ReactiveX/RxPY",
-    "branch": "master",
-    "language": "Python",
-    "description": "ReactiveX for Python"
-  },
-  {
-    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
-  },
-  {
-    "repo": "XiaomiMiMo/MiMo-Code",
+    "repo": "anthropics/cwc-workshops",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "localstack/localstack",
-    "branch": "master",
-    "language": "Python",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
-  },
-  {
-    "repo": "KXJ-WQL/PortalWebsiteSystem",
-    "branch": "master",
-    "language": "Java",
-    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
-  },
-  {
-    "repo": "facebook/hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
-  },
-  {
-    "repo": "rust-lang/mdBook",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
-  },
-  {
-    "repo": "tldraw/tldraw",
+    "repo": "xiaochong/hi-kid",
     "branch": "main",
     "language": "TypeScript",
-    "description": "very good whiteboard infinite canvas SDK"
+    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
   },
   {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
+    "repo": "hkcanan/katmer-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
+  },
+  {
+    "repo": "avalontm/openpos",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sistema de punto de venta (POS) basado en terminal (TUI) de código abierto. Construido con Bun, Ink (React para terminal), Zustand y Drizzle ORM."
+  },
+  {
+    "repo": "infraform/polymarket-copytrading-bot-sports",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
+  },
+  {
+    "repo": "0Chencc/clawgod",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
+  },
+  {
+    "repo": "said-ohamouddou/LIDARLearn",
+    "branch": "main",
+    "language": "Python",
+    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
+  },
+  {
+    "repo": "ultraworkers/claw-code-parity",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "repo": "GainSec/AutoProber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+  },
+  {
+    "repo": "ListerOvO1211/LazyEnv",
+    "branch": "main",
     "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
-  },
-  {
-    "repo": "3-JonWallis1993/HyperLiquid-Claw",
-    "branch": "main",
-    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "facebook/create-react-app",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Set up a modern web app by running one command."
-  },
-  {
-    "repo": "EveryInc/proof-sdk",
+    "repo": "RevylAI/app-explorer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
   },
   {
-    "repo": "requests/requests",
+    "repo": "inspatio/inspatio-world",
     "branch": "main",
     "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
+    "description": ""
   },
   {
-    "repo": "kelseyhightower/kubernetes-the-hard-way",
-    "branch": "master",
-    "language": "Other",
-    "description": "Bootstrap Kubernetes the hard way. No scripts."
-  },
-  {
-    "repo": "ensdomains/ens-contracts",
+    "repo": "lucasastorian/llmwiki",
     "branch": "master",
     "language": "TypeScript",
-    "description": "The core contracts of the ENS protocol"
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
   },
   {
-    "repo": "shenhao-stu/ohmycaptcha",
+    "repo": "brendanhogan/loophole",
     "branch": "main",
     "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+    "description": ""
   },
   {
-    "repo": "ory/kratos",
+    "repo": "areofyl/fetch",
+    "branch": "main",
+    "language": "C",
+    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+  },
+  {
+    "repo": "eggricesoy/filmkit",
     "branch": "master",
-    "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
-  },
-  {
-    "repo": "preactjs/preact",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
-  },
-  {
-    "repo": "EA1FUO/AntennaSim",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
+    "description": "Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!"
   },
   {
-    "repo": "lodash/lodash",
+    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+    "language": "TypeScript",
+    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
   },
   {
-    "repo": "airbytehq/airbyte",
+    "repo": "wangziqi06/724-office",
     "branch": "master",
     "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+    "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
   },
   {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
+    "repo": "zubair-trabzada/ai-legal-claude",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community"
+  },
+  {
+    "repo": "Nightmare-Eclipse/UnDefend",
+    "branch": "main",
+    "language": "C++",
+    "description": "Repository hosting windows defender DOS tool"
+  },
+  {
+    "repo": "i12bp8/TagTinker",
+    "branch": "main",
+    "language": "C",
+    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
+  },
+  {
+    "repo": "dsclca12/auto_reg",
+    "branch": "main",
+    "language": "Python",
+    "description": "codex全自动注册机"
   }
 ]
