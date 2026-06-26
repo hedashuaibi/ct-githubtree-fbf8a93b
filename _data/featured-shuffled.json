@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Justineo/working-with-ai",
+    "repo": "ObesidianQuant/polymarket-trade-engine",
     "branch": "main",
-    "language": "HTML",
-    "description": "Working with AI - presentation slides"
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
   },
   {
-    "repo": "Tencent/wepy",
+    "repo": "qdrant/qdrant",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "小程序组件化开发框架"
+    "language": "Rust",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
   },
   {
-    "repo": "validatorjs/validator.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "String validation"
-  },
-  {
-    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
+    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
     "branch": "main",
+    "language": "Shell",
+    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+  },
+  {
+    "repo": "rq/rq",
+    "branch": "master",
     "language": "Python",
-    "description": "Visual Dexscreener terminal CLI + MCP scanner"
+    "description": "Simple job queues for Python"
   },
   {
-    "repo": "openai/openai-cookbook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
-  },
-  {
-    "repo": "PowerShell/PowerShell",
+    "repo": "devicekit/DeviceKit",
     "branch": "master",
-    "language": "C#",
-    "description": "PowerShell for every system!"
+    "language": "Swift",
+    "description": "DeviceKit is a value-type replacement of UIDevice."
   },
   {
-    "repo": "thellimist/clihub",
+    "repo": "0Voice/Expert_Readed_Books",
+    "branch": "master",
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+  },
+  {
+    "repo": "bumptech/glide",
+    "branch": "master",
+    "language": "Java",
+    "description": "An image loading and caching library for Android focused on smooth scrolling"
+  },
+  {
+    "repo": "hehehai/voxt",
     "branch": "main",
-    "language": "Go",
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+  },
+  {
+    "repo": "mqudsi/monospace-ocr",
+    "branch": "master",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
+    "repo": "nextcloud/android",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "📱 Nextcloud Android app"
   },
   {
-    "repo": "doctrine/orm",
-    "branch": "3.2.x",
-    "language": "PHP",
-    "description": "Doctrine Object Relational Mapper (ORM)"
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
-  },
-  {
-    "repo": "OpenBMB/MiniCPM-o",
+    "repo": "pyca/cryptography",
     "branch": "main",
     "language": "Python",
-    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
+    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
   },
   {
-    "repo": "TraderAlice/OpenAlice",
+    "repo": "mui/mui-x",
     "branch": "master",
     "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
+    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
   },
   {
-    "repo": "cloudflare/vinext",
+    "repo": "plotly/plotly.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash"
+  },
+  {
+    "repo": "liuxiaopai-ai/raphael-publish",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
   },
   {
-    "repo": "erikdarlingdata/PerformanceMonitor",
+    "repo": "crshdn/mission-control",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
+  },
+  {
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
+  },
+  {
+    "repo": "Y-Peng-Dev/Watchdog",
+    "branch": "master",
     "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
+    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
   },
   {
-    "repo": "runesleo/x-reader",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
-  },
-  {
-    "repo": "linuxhsj/openclaw-zero-token",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "免token使用openclaw  Use openclaw without a token"
-  },
-  {
-    "repo": "onnx/onnx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open standard for machine learning interoperability"
-  },
-  {
-    "repo": "mathiaschu/meta-ads-analyzer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
-  },
-  {
-    "repo": "statsmodels/statsmodels",
-    "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
-  },
-  {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
-  },
-  {
-    "repo": "AUTOMATIC1111/stable-diffusion-webui",
-    "branch": "master",
-    "language": "Python",
-    "description": "Stable Diffusion web UI"
-  },
-  {
-    "repo": "ethereum/go-ethereum",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go implementation of the Ethereum protocol"
-  },
-  {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "DaveMoudy/SalesforceDocGen",
+    "repo": "AnInsomniacy/motrix-next",
     "branch": "main",
     "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
+    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
+  },
+  {
+    "repo": "openperf/brief",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Service Agreement"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+  },
+  {
+    "repo": "alibaba/landmark-tokenized-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+  },
+  {
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "mirarr-app/network-checker",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
   }
 ]

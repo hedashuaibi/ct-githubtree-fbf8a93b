@@ -1,8 +1,8 @@
 {
-  "repo": "Iwanian/Iwana-Proxy",
+  "repo": "lemma-work/lemma-platform",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "for telegram",
-  "stars": 103,
-  "forks": 1
+  "language": "Python",
+  "description": "The open-source workspace where humans and AI agents work as one team.",
+  "stars": 119,
+  "forks": 28
 }
