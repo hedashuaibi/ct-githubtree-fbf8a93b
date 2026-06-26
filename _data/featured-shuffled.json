@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ObesidianQuant/polymarket-trade-engine",
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "stanfordnlp/stanza",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
+    "language": "Python",
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
   },
   {
-    "repo": "qdrant/qdrant",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
-  },
-  {
-    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
-    "branch": "main",
-    "language": "Shell",
-    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
-  },
-  {
-    "repo": "rq/rq",
+    "repo": "ReactiveX/RxPY",
     "branch": "master",
     "language": "Python",
-    "description": "Simple job queues for Python"
+    "description": "ReactiveX for Python"
   },
   {
-    "repo": "devicekit/DeviceKit",
+    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
+    "branch": "main",
+    "language": "Python",
+    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
+  },
+  {
+    "repo": "XiaomiMiMo/MiMo-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "localstack/localstack",
     "branch": "master",
-    "language": "Swift",
-    "description": "DeviceKit is a value-type replacement of UIDevice."
+    "language": "Python",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
   },
   {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
-  },
-  {
-    "repo": "bumptech/glide",
+    "repo": "KXJ-WQL/PortalWebsiteSystem",
     "branch": "master",
     "language": "Java",
-    "description": "An image loading and caching library for Android focused on smooth scrolling"
+    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
   },
   {
-    "repo": "hehehai/voxt",
-    "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
-  },
-  {
-    "repo": "mqudsi/monospace-ocr",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "nextcloud/android",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "📱 Nextcloud Android app"
-  },
-  {
-    "repo": "pyca/cryptography",
-    "branch": "main",
-    "language": "Python",
-    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
-  },
-  {
-    "repo": "mui/mui-x",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
-  },
-  {
-    "repo": "plotly/plotly.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash"
-  },
-  {
-    "repo": "liuxiaopai-ai/raphael-publish",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
-  },
-  {
-    "repo": "crshdn/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
-  },
-  {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "Y-Peng-Dev/Watchdog",
-    "branch": "master",
-    "language": "C#",
-    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
-  },
-  {
-    "repo": "AnInsomniacy/motrix-next",
+    "repo": "facebook/hermes",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
+    "description": "A JavaScript engine optimized for running React Native."
   },
   {
-    "repo": "openperf/brief",
+    "repo": "rust-lang/mdBook",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
+  },
+  {
+    "repo": "tldraw/tldraw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI Agent Service Agreement"
+    "description": "very good whiteboard infinite canvas SDK"
   },
   {
-    "repo": "surrealdb/surrealdb",
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
+  },
+  {
+    "repo": "3-JonWallis1993/HyperLiquid-Claw",
     "branch": "main",
     "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+    "description": ""
   },
   {
-    "repo": "alibaba/landmark-tokenized-dit",
+    "repo": "facebook/create-react-app",
     "branch": "main",
-    "language": "Python",
-    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+    "language": "JavaScript",
+    "description": "Set up a modern web app by running one command."
   },
   {
-    "repo": "cli/cli",
-    "branch": "trunk",
-    "language": "Go",
-    "description": "GitHub’s official command line tool"
-  },
-  {
-    "repo": "TanStack/query",
+    "repo": "EveryInc/proof-sdk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
   },
   {
-    "repo": "mirarr-app/network-checker",
+    "repo": "requests/requests",
     "branch": "main",
-    "language": "Dart",
-    "description": ""
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "kelseyhightower/kubernetes-the-hard-way",
+    "branch": "master",
+    "language": "Other",
+    "description": "Bootstrap Kubernetes the hard way. No scripts."
+  },
+  {
+    "repo": "ensdomains/ens-contracts",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The core contracts of the ENS protocol"
+  },
+  {
+    "repo": "shenhao-stu/ohmycaptcha",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "repo": "ory/kratos",
+    "branch": "master",
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+  },
+  {
+    "repo": "preactjs/preact",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+  },
+  {
+    "repo": "EA1FUO/AntennaSim",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
+  },
+  {
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "compound-finance/compound-protocol",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Compound On-Chain Protocol"
   }
 ]
