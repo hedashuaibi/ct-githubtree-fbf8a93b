@@ -1,8 +1,8 @@
 {
-  "repo": "umacloud/umadev",
+  "repo": "Iwanian/Iwana-Proxy",
   "branch": "main",
-  "language": "Rust",
-  "description": "A project-director agent that drives your Claude Code / Codex / OpenCode to plan, build, review, govern & ship software like a real dev team — runnable code + a delivery proof. Brings no model of its own.项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,像真实开发团队那样规划、编码、评审、治理、交付,交还可运行代码。",
-  "stars": 122,
-  "forks": 45
+  "language": "Kotlin",
+  "description": "for telegram",
+  "stars": 103,
+  "forks": 1
 }

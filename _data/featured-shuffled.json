@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SGmetro/Lossless-Scaling-Latest-Github-PC-3",
+    "repo": "Justineo/working-with-ai",
     "branch": "main",
-    "language": "C#",
-    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
+    "language": "HTML",
+    "description": "Working with AI - presentation slides"
   },
   {
-    "repo": "nj19257/FastSkills",
+    "repo": "Tencent/wepy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "小程序组件化开发框架"
+  },
+  {
+    "repo": "validatorjs/validator.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "String validation"
+  },
+  {
+    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
     "branch": "main",
     "language": "Python",
-    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
+    "description": "Visual Dexscreener terminal CLI + MCP scanner"
   },
   {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
-  },
-  {
-    "repo": "alibaba-damo-academy/RynnBrain",
+    "repo": "openai/openai-cookbook",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
+    "description": "Examples and guides for using the OpenAI API"
   },
   {
-    "repo": "ramda/ramda",
+    "repo": "PowerShell/PowerShell",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
+    "language": "C#",
+    "description": "PowerShell for every system!"
   },
   {
-    "repo": "moment/moment",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Parse, validate, manipulate, and display dates in javascript."
-  },
-  {
-    "repo": "lodash/lodash",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
-  },
-  {
-    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "repo": "thellimist/clihub",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
-  },
-  {
-    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
-  },
-  {
-    "repo": "square/okhttp",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "spring-projects/spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
-  },
-  {
-    "repo": "istio/istio",
-    "branch": "master",
     "language": "Go",
-    "description": "Connect, secure, control, and observe services."
+    "description": ""
   },
   {
-    "repo": "openobserve/openobserve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
-  },
-  {
-    "repo": "sharkdp/bat",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cat(1) clone with wings."
-  },
-  {
-    "repo": "facebookresearch/faiss",
+    "repo": "smartcmd/MinecraftConsoles",
     "branch": "main",
     "language": "C++",
-    "description": "A library for efficient similarity search and clustering of dense vectors."
+    "description": "A certain block game"
   },
   {
-    "repo": "zed-industries/zed",
+    "repo": "doctrine/orm",
+    "branch": "3.2.x",
+    "language": "PHP",
+    "description": "Doctrine Object Relational Mapper (ORM)"
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
     "branch": "main",
     "language": "Rust",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
   },
   {
-    "repo": "sstklen/trump-code",
+    "repo": "OpenBMB/MiniCPM-o",
     "branch": "main",
     "language": "Python",
-    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
   },
   {
-    "repo": "zaproxy/zaproxy",
-    "branch": "main",
-    "language": "Java",
-    "description": "The ZAP by Checkmarx Core project"
-  },
-  {
-    "repo": "chixi4/Qwen3.5-9B-ToolHub",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3.5-9B ToolHub-v1.0.0"
-  },
-  {
-    "repo": "ant-design/ant-design",
+    "repo": "TraderAlice/OpenAlice",
     "branch": "master",
     "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
+    "description": "File-driven AI trading agent engine for crypto and securities markets"
   },
   {
-    "repo": "gradio-app/gradio",
+    "repo": "cloudflare/vinext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "repo": "erikdarlingdata/PerformanceMonitor",
+    "branch": "main",
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
+  },
+  {
+    "repo": "runesleo/x-reader",
     "branch": "main",
     "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
   },
   {
-    "repo": "karpathy/nanoGPT",
+    "repo": "linuxhsj/openclaw-zero-token",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "免token使用openclaw  Use openclaw without a token"
+  },
+  {
+    "repo": "onnx/onnx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open standard for machine learning interoperability"
+  },
+  {
+    "repo": "mathiaschu/meta-ads-analyzer",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "branch": "main",
+    "language": "Python",
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
+  },
+  {
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using AI for high quality writing"
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
     "branch": "master",
     "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+    "description": "Stable Diffusion web UI"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of the Ethereum protocol"
+  },
+  {
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "DaveMoudy/SalesforceDocGen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
   }
 ]
