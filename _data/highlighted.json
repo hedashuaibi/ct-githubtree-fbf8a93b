@@ -1,8 +1,8 @@
 {
-  "repo": "FossPrime/Steam-Controller-Auto-Charge",
-  "branch": "master",
-  "language": "JavaScript",
-  "description": "Slam the controller into the magnetic puck until it charges",
-  "stars": 163,
-  "forks": 4
+  "repo": "entropykit/entropia",
+  "branch": "main",
+  "language": "C",
+  "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.",
+  "stars": 113,
+  "forks": 9
 }
