@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dev-protocol/polymarket-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket copytrading bot || polymarket copy trading bot || polymarket copy bot ||"
-  },
-  {
-    "repo": "MhmRdd/google-rkp-sw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "anthropics/cwc-workshops",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "xiaochong/hi-kid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
-  },
-  {
-    "repo": "hkcanan/katmer-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
-  },
-  {
-    "repo": "avalontm/openpos",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sistema de punto de venta (POS) basado en terminal (TUI) de código abierto. Construido con Bun, Ink (React para terminal), Zustand y Drizzle ORM."
-  },
-  {
-    "repo": "infraform/polymarket-copytrading-bot-sports",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
-  },
-  {
-    "repo": "0Chencc/clawgod",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
-  },
-  {
-    "repo": "said-ohamouddou/LIDARLearn",
-    "branch": "main",
-    "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
-  },
-  {
-    "repo": "ultraworkers/claw-code-parity",
+    "repo": "tuchg/Lucarne",
     "branch": "main",
     "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+    "description": "Stop babysitting local AI agents. 0-Intrusion mobile control via Telegram/WeChat.   No hooks, no skills, no MCP. Just sync, approve, and resume your Codex,Pi, or Claude sessions anywhere."
   },
   {
-    "repo": "GainSec/AutoProber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
-  },
-  {
-    "repo": "ListerOvO1211/LazyEnv",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "RevylAI/app-explorer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
-  },
-  {
-    "repo": "inspatio/inspatio-world",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lucasastorian/llmwiki",
+    "repo": "reduxjs/redux-toolkit",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
   },
   {
-    "repo": "brendanhogan/loophole",
+    "repo": "distribution/distribution",
+    "branch": "main",
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content"
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Set up a modern web app by running one command."
+  },
+  {
+    "repo": "academic/awesome-datascience",
+    "branch": "master",
+    "language": "Other",
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "repo": "ansible/awx",
+    "branch": "devel",
+    "language": "Python",
+    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
+  },
+  {
+    "repo": "tikv/tikv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+  },
+  {
+    "repo": "saltstack/salt",
+    "branch": "master",
+    "language": "Python",
+    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
+  },
+  {
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript."
+  },
+  {
+    "repo": "apple/swift-argument-parser",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Straightforward, type-safe argument parsing for Swift"
+  },
+  {
+    "repo": "0x0funky/agent-sprite-forge",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Agent Skill for generating 2D sprite sheets, transparent PNG frames, and animated GIFs from prompts."
   },
   {
-    "repo": "areofyl/fetch",
+    "repo": "QLHazyCoder/codex-oauth-automation-extension",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
+  },
+  {
+    "repo": "hacktivist123/agent-session-resume",
     "branch": "main",
-    "language": "C",
-    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+    "language": "Python",
+    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode."
   },
   {
-    "repo": "eggricesoy/filmkit",
+    "repo": "PyCQA/bandit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bandit is a tool designed to find common security issues in Python code."
+  },
+  {
+    "repo": "reduxjs/redux-thunk",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!"
+    "description": "Thunk middleware for Redux"
   },
   {
-    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
+    "repo": "getredash/redash",
+    "branch": "master",
+    "language": "Python",
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+  },
+  {
+    "repo": "endless-sky-team/ai-trading-agent",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
+    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals"
   },
   {
-    "repo": "wangziqi06/724-office",
+    "repo": "extism/extism",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
+  },
+  {
+    "repo": "umijs/umi",
     "branch": "master",
-    "language": "Python",
-    "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
+    "language": "TypeScript",
+    "description": "A framework in react community ✨"
   },
   {
-    "repo": "zubair-trabzada/ai-legal-claude",
+    "repo": "jasmine/jasmine",
     "branch": "main",
-    "language": "Python",
-    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community"
+    "language": "JavaScript",
+    "description": "Simple JavaScript testing framework for browsers and node.js"
   },
   {
-    "repo": "Nightmare-Eclipse/UnDefend",
-    "branch": "main",
-    "language": "C++",
-    "description": "Repository hosting windows defender DOS tool"
+    "repo": "ethereumjs/ethereumjs-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
   },
   {
-    "repo": "i12bp8/TagTinker",
-    "branch": "main",
-    "language": "C",
-    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
   },
   {
-    "repo": "dsclca12/auto_reg",
+    "repo": "ankitvgupta/mail-app",
     "branch": "main",
-    "language": "Python",
-    "description": "codex全自动注册机"
+    "language": "TypeScript",
+    "description": "Claude Code for your Inbox"
   }
 ]

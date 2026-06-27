@@ -1,8 +1,8 @@
 {
-  "repo": "humation-labs/humation",
+  "repo": "FishCodeTech/muteki",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
-  "stars": 132,
-  "forks": 7
+  "language": "Python",
+  "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm",
+  "stars": 109,
+  "forks": 15
 }
