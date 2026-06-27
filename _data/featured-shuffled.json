@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tuchg/Lucarne",
+    "repo": "rbrown101010/rilable",
     "branch": "main",
-    "language": "Rust",
-    "description": "Stop babysitting local AI agents. 0-Intrusion mobile control via Telegram/WeChat.   No hooks, no skills, no MCP. Just sync, approve, and resume your Codex,Pi, or Claude sessions anywhere."
-  },
-  {
-    "repo": "reduxjs/redux-toolkit",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
+    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
   },
   {
-    "repo": "distribution/distribution",
+    "repo": "danielmiessler/fabric",
     "branch": "main",
     "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
   },
   {
-    "repo": "facebook/create-react-app",
+    "repo": "brianc/node-postgres",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "PostgreSQL client for node.js."
+  },
+  {
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "test-time-training/discover",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "blacksiders/SkillPointer",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "garrytan/gstack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  },
+  {
+    "repo": "Darkkal44/sddm-themes",
+    "branch": "main",
+    "language": "QML",
+    "description": "A simple collection of all the sddm-themes I've made :D"
+  },
+  {
+    "repo": "r3nzsec/irflow-timeline",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Set up a modern web app by running one command."
+    "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection."
   },
   {
-    "repo": "academic/awesome-datascience",
+    "repo": "bc-dunia/qwen3-TTS-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+  },
+  {
+    "repo": "curvefi/curve-contract",
+    "branch": "master",
+    "language": "Python",
+    "description": "Vyper contracts used in Curve.fi exchange pools."
+  },
+  {
+    "repo": "Chrissotino/swiss-ai-call-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
+  },
+  {
+    "repo": "Solido/awesome-flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+  },
+  {
+    "repo": "klawsh/klaw.sh",
+    "branch": "main",
+    "language": "Go",
+    "description": "kubectl for AI Agents"
+  },
+  {
+    "repo": "wasabeef/awesome-android-ui",
     "branch": "master",
     "language": "Other",
-    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
+    "description": "A curated list of awesome Android UI/UX libraries"
   },
   {
-    "repo": "ansible/awx",
-    "branch": "devel",
-    "language": "Python",
-    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
-  },
-  {
-    "repo": "tikv/tikv",
+    "repo": "redis/hiredis",
     "branch": "master",
-    "language": "Rust",
-    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
   },
   {
-    "repo": "saltstack/salt",
-    "branch": "master",
-    "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
-  },
-  {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
-  },
-  {
-    "repo": "denoland/deno",
+    "repo": "solidjs-community/solid-primitives",
     "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
+    "language": "TypeScript",
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
   },
   {
-    "repo": "apple/swift-argument-parser",
+    "repo": "planetscale/database-skills",
     "branch": "main",
-    "language": "Swift",
-    "description": "Straightforward, type-safe argument parsing for Swift"
+    "language": "HTML",
+    "description": "Skills for AI agents working with databases"
   },
   {
-    "repo": "0x0funky/agent-sprite-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent Skill for generating 2D sprite sheets, transparent PNG frames, and animated GIFs from prompts."
-  },
-  {
-    "repo": "QLHazyCoder/codex-oauth-automation-extension",
+    "repo": "poteto/hiring-without-whiteboards",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
+    "description": "⭐️  Companies that don't have a broken hiring process"
   },
   {
-    "repo": "hacktivist123/agent-session-resume",
+    "repo": "skills/introduction-to-github",
     "branch": "main",
-    "language": "Python",
-    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode."
-  },
-  {
-    "repo": "PyCQA/bandit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bandit is a tool designed to find common security issues in Python code."
-  },
-  {
-    "repo": "reduxjs/redux-thunk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Thunk middleware for Redux"
-  },
-  {
-    "repo": "getredash/redash",
-    "branch": "master",
-    "language": "Python",
-    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
-  },
-  {
-    "repo": "endless-sky-team/ai-trading-agent",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals"
-  },
-  {
-    "repo": "extism/extism",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
-  },
-  {
-    "repo": "umijs/umi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A framework in react community ✨"
-  },
-  {
-    "repo": "jasmine/jasmine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
-  },
-  {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
     "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+    "description": "Get started using GitHub in less than an hour."
   },
   {
-    "repo": "ankitvgupta/mail-app",
+    "repo": "mit-pdos/xv6-public",
+    "branch": "master",
+    "language": "C",
+    "description": "xv6 OS"
+  },
+  {
+    "repo": "cloudflare/moltworker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code for your Inbox"
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
   }
 ]

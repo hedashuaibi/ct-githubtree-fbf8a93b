@@ -1,8 +1,8 @@
 {
-  "repo": "FishCodeTech/muteki",
-  "branch": "main",
-  "language": "Python",
-  "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm",
-  "stars": 109,
-  "forks": 15
+  "repo": "FossPrime/Steam-Controller-Auto-Charge",
+  "branch": "master",
+  "language": "JavaScript",
+  "description": "Slam the controller into the magnetic puck until it charges",
+  "stars": 163,
+  "forks": 4
 }
