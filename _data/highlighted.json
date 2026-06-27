@@ -1,8 +1,8 @@
 {
-  "repo": "entropykit/entropia",
+  "repo": "staturnzz/amethyst",
   "branch": "main",
   "language": "C",
-  "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.",
-  "stars": 113,
-  "forks": 9
+  "description": "iOS 12/13 jailbreak for all devices",
+  "stars": 120,
+  "forks": 6
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xevrion-v2/agent-playground",
+    "repo": "yuzhworkhard-wq/image-to-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
+  },
+  {
+    "repo": "evilsocket/audit",
+    "branch": "main",
+    "language": "Python",
+    "description": "An 8-stage vulnerability-discovery agent."
+  },
+  {
+    "repo": "xzf-thu/Mega-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
+  },
+  {
+    "repo": "OpenSquilla/opensquilla",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
+  },
+  {
+    "repo": "tolibear/goal-maker",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Supercharge Codex Goals"
+  },
+  {
+    "repo": "davidondrej/jailbreak-autoresearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "We shall set the models free."
+  },
+  {
+    "repo": "vincelele/ai-fomo-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests."
+  },
+  {
+    "repo": "nextui-org/nextui",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
   },
   {
-    "repo": "manyougz/velotype",
+    "repo": "youssofal/MTPLX",
     "branch": "main",
-    "language": "Rust",
-    "description": "Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡"
+    "language": "Python",
+    "description": "Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-native, OpenAI API/Anthropic-compatible serving, no external drafter."
   },
   {
-    "repo": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "repo": "Lissy93/awesome-privacy",
     "branch": "main",
-    "language": "C#",
-    "description": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer"
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
   },
   {
-    "repo": "Harshit-pruthi/sklauncher-minecraft",
+    "repo": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
     "branch": "main",
     "language": "C++",
-    "description": "Download SkLauncher Download: Modern Minecraft launcher. Offline mode, premium login, custom skins setup, cape manager, profile creator. Supports Fabric, Forge, Quilt, NeoForge, OptiFine, Iris shaders. Java 21 path, memory allocation, modpack manager, game directory, auto-update, fluent UI themes, portable."
+    "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing"
   },
   {
-    "repo": "VILA-Lab/FigMirror",
+    "repo": "TrueGunsmithFence/Hentaihunter",
     "branch": "main",
     "language": "Python",
-    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
+    "description": "Hentaihunter - How to steal your Doujinshi easily"
   },
   {
-    "repo": "0xSero/codex-shim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
-  },
-  {
-    "repo": "olivier-ls/php-fts",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A self-contained full-text search engine in pure PHP. No extensions, no dependencies."
-  },
-  {
-    "repo": "mrh000mrh/MRH-G2Ray-2",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "sachmalan/kalshi-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot"
-  },
-  {
-    "repo": "mikesheehan54/Claude-Code-Design-AI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant."
-  },
-  {
-    "repo": "Nick-Baumann/Gobby",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GRRRBLEHHH!"
-  },
-  {
-    "repo": "nooncheetahstart/Kahoot-tools-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
-  },
-  {
-    "repo": "japp-fi/polymarket-mcp-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2"
-  },
-  {
-    "repo": "smithersai/claude-p",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session."
-  },
-  {
-    "repo": "nexu-io/html-anything",
-    "branch": "main",
-    "language": "HTML",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
-  },
-  {
-    "repo": "LSPosed/DirtySepolicy",
+    "repo": "gorhom/react-native-bottom-sheet",
     "branch": "master",
-    "language": "Java",
+    "language": "TypeScript",
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+  },
+  {
+    "repo": "BuluBulugege/Free-BAI",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "sno-ai/llmix",
+    "repo": "google-gemini/generative-ai-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
+  },
+  {
+    "repo": "edmicho/mm-probe-kit",
     "branch": "main",
     "language": "Python",
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA presets, and add cache, retries, circuit breakers, key rotation, singleflight, and Python/TypeScript/Rust parity."
+    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
   },
   {
-    "repo": "yui540/comimi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source comic reader library for JS/TS"
-  },
-  {
-    "repo": "v9ai/ai-engineer-roadmap",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Callous-0923/agent-study",
-    "branch": "main",
-    "language": "HTML",
-    "description": "28章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。"
-  },
-  {
-    "repo": "TwoSevenOneT/EDRChoker",
+    "repo": "sqlite/sqlite",
     "branch": "master",
+    "language": "C",
+    "description": "Official Git mirror of the SQLite source tree"
+  },
+  {
+    "repo": "tqdm/tqdm",
+    "branch": "master",
+    "language": "Python",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
+  },
+  {
+    "repo": "XBuilderLAB/cheat-on-content",
+    "branch": "main",
+    "language": "Python",
+    "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month."
+  },
+  {
+    "repo": "dask/dask",
+    "branch": "main",
+    "language": "Python",
+    "description": "Parallel computing with task scheduling"
+  },
+  {
+    "repo": "microsoft/wslg",
+    "branch": "main",
+    "language": "C++",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "branch": "main",
     "language": "C#",
-    "description": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server."
+    "description": "Security related proof of concepts"
   },
   {
-    "repo": "thisishowen-spec/eatlah",
+    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. 五分钟上线点餐系统"
-  },
-  {
-    "repo": "DannyMac180/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI agent skills created by me: Dan McAteer"
-  },
-  {
-    "repo": "trynullsec/nullsec-s1",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security-native LLM system for AI-generated application security."
+    "language": "C++",
+    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
   }
 ]
