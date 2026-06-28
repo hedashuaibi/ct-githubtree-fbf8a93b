@@ -1,146 +1,146 @@
 [
   {
-    "repo": "openai/sora-prompt-engineering-guide",
-    "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
-  },
-  {
-    "repo": "entropykit/entropia",
-    "branch": "main",
-    "language": "C",
-    "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files."
-  },
-  {
-    "repo": "clockworklabs/SpacetimeDB",
+    "repo": "alebcay/awesome-shell",
     "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "repo": "ksimback/looper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
+  },
+  {
+    "repo": "thepartly/gatehouse",
+    "branch": "main",
     "language": "Rust",
-    "description": "Multiplayer at the speed of light"
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
   },
   {
-    "repo": "beeware/briefcase",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tools to support converting a Python project into a standalone native application."
-  },
-  {
-    "repo": "moment/moment",
+    "repo": "element-hq/element-web",
     "branch": "develop",
-    "language": "JavaScript",
-    "description": "Parse, validate, manipulate, and display dates in javascript."
+    "language": "TypeScript",
+    "description": "A glossy Matrix collaboration client for the web."
   },
   {
-    "repo": "golang/go",
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "argoproj/argo-rollouts",
     "branch": "master",
     "language": "Go",
-    "description": "The Go programming language"
+    "description": "Progressive Delivery for Kubernetes"
   },
   {
-    "repo": "google/guava",
+    "repo": "SudoPlz/spicetify-cli",
     "branch": "master",
-    "language": "Java",
-    "description": "Google core libraries for Java"
-  },
-  {
-    "repo": "sindresorhus/awesome",
-    "branch": "main",
     "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
+    "description": "Command-line tool to customize Spotify client."
   },
   {
-    "repo": "keepassxreboot/keepassxc",
-    "branch": "develop",
+    "repo": "derailed/k9s",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+  },
+  {
+    "repo": "tldraw/tldraw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "very good whiteboard infinite canvas SDK"
+  },
+  {
+    "repo": "ryanmcdermott/clean-code-javascript",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Clean Code concepts adapted for JavaScript"
+  },
+  {
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "tensorflow/serving",
+    "branch": "master",
     "language": "C++",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+    "description": "A flexible, high-performance serving system for machine learning models"
   },
   {
-    "repo": "apple/swift-algorithms",
+    "repo": "jupyter/notebook",
     "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
+    "language": "Jupyter Notebook",
+    "description": "Jupyter Interactive Notebook"
   },
   {
-    "repo": "mdp/linkedin-extension-fingerprinting",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
-  },
-  {
-    "repo": "pydantic/FastUI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build better UIs faster."
-  },
-  {
-    "repo": "leonardomso/33-js-concepts",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📜 33 JavaScript concepts every developer should know."
-  },
-  {
-    "repo": "mrdoob/three-quake",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A port of Quake (1996) to Three.js."
-  },
-  {
-    "repo": "tensorflow/tensorboard",
+    "repo": "material-components/material-components-web",
     "branch": "master",
     "language": "TypeScript",
-    "description": "TensorFlow's Visualization Toolkit"
+    "description": "Modular and customizable Material Design UI components for the web"
   },
   {
-    "repo": "jquery-validation/jquery-validation",
+    "repo": "rvm/rvm",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "jQuery Validation Plugin library sources"
-  },
-  {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "SamNet-dev/conduit-manager",
-    "branch": "main",
     "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+    "description": "Ruby enVironment Manager (RVM)"
   },
   {
-    "repo": "amneziawg-mikrotik/awg-proxy",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "JuliaLang/julia",
+    "repo": "filecoin-project/lotus",
     "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
+    "language": "Go",
+    "description": "Reference implementation of the Filecoin protocol, written in Go"
   },
   {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "repo": "keephq/keep",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "The open-source AIOps and alert management platform"
   },
   {
-    "repo": "TrendTechVista/polymarket-politics-bot",
+    "repo": "krahets/hello-algo",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+    "language": "Java",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+  },
+  {
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
+  },
+  {
+    "repo": "scalessec/Toast-Swift",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A Swift extension that adds toast notifications to the UIView object class."
+  },
+  {
+    "repo": "microsoft/DeepSpeed",
+    "branch": "master",
+    "language": "Python",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
   }
 ]
