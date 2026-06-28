@@ -1,8 +1,8 @@
 {
-  "repo": "staturnzz/amethyst",
+  "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
   "branch": "main",
-  "language": "C",
-  "description": "iOS 12/13 jailbreak for all devices",
-  "stars": 120,
-  "forks": 6
+  "language": "Python",
+  "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。",
+  "stars": 103,
+  "forks": 13
 }
