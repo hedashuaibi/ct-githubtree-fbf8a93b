@@ -1,8 +1,8 @@
 {
-  "repo": "carbonengine/trinity",
+  "repo": "afonsojramos/react-native-super-calendar",
   "branch": "main",
-  "language": "C++",
-  "description": "Rendering engine for the Carbon Game Engine",
-  "stars": 104,
-  "forks": 15
+  "language": "TypeScript",
+  "description": "Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web.",
+  "stars": 103,
+  "forks": 0
 }
