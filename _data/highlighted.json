@@ -1,8 +1,8 @@
 {
-  "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
+  "repo": "carbonengine/trinity",
   "branch": "main",
-  "language": "Python",
-  "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。",
+  "language": "C++",
+  "description": "Rendering engine for the Carbon Game Engine",
   "stars": 104,
-  "forks": 14
+  "forks": 15
 }

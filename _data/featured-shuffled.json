@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alebcay/awesome-shell",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
-  },
-  {
-    "repo": "ksimback/looper",
+    "repo": "chefkannofriend-source/mbbb-baker-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
   },
   {
-    "repo": "thepartly/gatehouse",
+    "repo": "finvfamily/finshare",
     "branch": "main",
-    "language": "Rust",
-    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
+    "language": "Python",
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
   },
   {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
-  },
-  {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "argoproj/argo-rollouts",
-    "branch": "master",
-    "language": "Go",
-    "description": "Progressive Delivery for Kubernetes"
-  },
-  {
-    "repo": "SudoPlz/spicetify-cli",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command-line tool to customize Spotify client."
-  },
-  {
-    "repo": "derailed/k9s",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
-  },
-  {
-    "repo": "tldraw/tldraw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "very good whiteboard infinite canvas SDK"
-  },
-  {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "repo": "HubSpot/messenger",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
+    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
   },
   {
-    "repo": "tensorflow/serving",
+    "repo": "excalidraw/excalidraw",
     "branch": "master",
-    "language": "C++",
-    "description": "A flexible, high-performance serving system for machine learning models"
+    "language": "TypeScript",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
   },
   {
-    "repo": "jupyter/notebook",
+    "repo": "avelino/awesome-go",
+    "branch": "main",
+    "language": "Go",
+    "description": "A curated list of awesome Go frameworks, libraries and software"
+  },
+  {
+    "repo": "leonardomso/33-js-concepts",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "tamagui/tamagui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+  },
+  {
+    "repo": "pypa/pipenv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Development Workflow for Humans."
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "branch": "master",
+    "language": "Go",
+    "description": "Workflow Engine for Kubernetes"
+  },
+  {
+    "repo": "zoontek/react-native-bootsplash",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
+  },
+  {
+    "repo": "microsoft/guidance",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
+    "description": "A guidance language for controlling large language models."
   },
   {
-    "repo": "material-components/material-components-web",
+    "repo": "Supervisor/supervisor",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
+    "language": "Python",
+    "description": "Supervisor process control system for Unix (supervisord)"
   },
   {
-    "repo": "rvm/rvm",
+    "repo": "nvm-sh/nvm",
     "branch": "master",
     "language": "Shell",
-    "description": "Ruby enVironment Manager (RVM)"
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
   },
   {
-    "repo": "filecoin-project/lotus",
+    "repo": "mpv-player/mpv",
     "branch": "master",
-    "language": "Go",
-    "description": "Reference implementation of the Filecoin protocol, written in Go"
+    "language": "C",
+    "description": "🎥 Command line media player"
   },
   {
-    "repo": "keephq/keep",
+    "repo": "pyca/cryptography",
     "branch": "main",
     "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
+    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
   },
   {
-    "repo": "krahets/hello-algo",
-    "branch": "main",
-    "language": "Java",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+    "repo": "amplication/amplication",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
   },
   {
-    "repo": "boto/boto",
+    "repo": "element-hq/element-android",
     "branch": "develop",
-    "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
   },
   {
-    "repo": "vmware-tanzu/velero",
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "Henrygd/Beszel",
     "branch": "main",
     "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
   },
   {
-    "repo": "tendermint/tendermint",
+    "repo": "webpack/webpack",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "bufbuild/buf",
     "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "The best way of working with Protocol Buffers."
   },
   {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
   },
   {
-    "repo": "scalessec/Toast-Swift",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A Swift extension that adds toast notifications to the UIView object class."
-  },
-  {
-    "repo": "microsoft/DeepSpeed",
-    "branch": "master",
-    "language": "Python",
-    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+    "repo": "immerjs/immer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Create the next immutable state by mutating the current one"
   }
 ]
