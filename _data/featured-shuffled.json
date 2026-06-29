@@ -1,111 +1,57 @@
 [
   {
-    "repo": "gofsnotify/fsnotify",
+    "repo": "ronaldo-avalos/Maya",
     "branch": "main",
-    "language": "Go",
-    "description": "Cross-platform file system notifications for Go."
-  },
-  {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "earendil-works/gondolin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "jingkaihe/matchlock",
-    "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
-  },
-  {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
-  },
-  {
-    "repo": "skernelx/tavily-key-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto batch register Tavily API Keys with pluggable email backends"
-  },
-  {
-    "repo": "Rivflyyy/HappyTorch",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
-  },
-  {
-    "repo": "primefaces/primeng",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Most Complete Angular UI Component Library"
-  },
-  {
-    "repo": "jina-ai/jina-grep-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
-  },
-  {
-    "repo": "umijs/umi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A framework in react community ✨"
-  },
-  {
-    "repo": "delta-io/delta",
-    "branch": "master",
-    "language": "Scala",
-    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
-  },
-  {
-    "repo": "vuetifyjs/vuetify",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
-  },
-  {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "deepmind/mujoco",
-    "branch": "main",
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-  },
-  {
-    "repo": "element-hq/element-ios",
-    "branch": "develop",
     "language": "Swift",
-    "description": "A glossy Matrix collaboration client for iOS"
+    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
   },
   {
-    "repo": "ckckck/UltimateSearchSkill",
+    "repo": "localstack/localstack",
+    "branch": "master",
+    "language": "Python",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
+  },
+  {
+    "repo": "adafruit/circuitpython",
     "branch": "main",
-    "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+    "language": "C",
+    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
   },
   {
-    "repo": "prompt-security/clawsec",
+    "repo": "deltatrader01/Polymarket-Kalshi-Trading-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket-Kalshi arbitrage trading bot that exploits price inefficiencies between Kalshi and Polymarket. Kalshi Trading bot Polymarket trading bot Kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
+  },
+  {
+    "repo": "Quick/Quick",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The Swift (and Objective-C) testing framework."
+  },
+  {
+    "repo": "cilium/cilium",
+    "branch": "main",
+    "language": "Go",
+    "description": "eBPF-based Networking, Security, and Observability"
+  },
+  {
+    "repo": "rails/rails",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Ruby on Rails"
+  },
+  {
+    "repo": "TermiX-official/cryptoclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+    "description": ""
+  },
+  {
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
   },
   {
     "repo": "bitwarden/clients",
@@ -114,33 +60,87 @@
     "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
   },
   {
-    "repo": "phpmyadmin/phpmyadmin",
+    "repo": "depthsecurity/RelayKing-Depth",
     "branch": "master",
-    "language": "PHP",
-    "description": "A web interface for MySQL and MariaDB"
+    "language": "Python",
+    "description": "Dominate the domain. Relay to royalty."
   },
   {
-    "repo": "zaproxy/zaproxy",
+    "repo": "samuelfaj/distill",
     "branch": "main",
-    "language": "Java",
-    "description": "The ZAP by Checkmarx Core project"
-  },
-  {
-    "repo": "react-native-maps/react-native-maps",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "React Native Mapview component for iOS + Android"
+    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
   },
   {
-    "repo": "suborbital/sat",
+    "repo": "uluckyXH/OpenMOSS",
     "branch": "main",
+    "language": "Python",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "branch": "master",
     "language": "Go",
-    "description": "Tiny & fast WebAssembly edge compute server"
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+  },
+  {
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+  },
+  {
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "zer0condition/Ophion",
+    "branch": "master",
+    "language": "C",
+    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+  },
+  {
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
+    "language": "JavaScript",
+    "description": "The iconic SVG, font, and CSS toolkit"
+  },
+  {
+    "repo": "YougLin-dev/Aha-Loop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
   },
   {
     "repo": "public-apis/public-apis",
     "branch": "master",
     "language": "Python",
     "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "operator-framework/operator-sdk",
+    "branch": "master",
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+  },
+  {
+    "repo": "ant-design/ant-design",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "sliverp/qqbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "qqbot"
   }
 ]
