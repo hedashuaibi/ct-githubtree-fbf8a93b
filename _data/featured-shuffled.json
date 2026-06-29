@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ronaldo-avalos/Maya",
+    "repo": "Jiangzy520/DreamleStockRadar",
     "branch": "main",
-    "language": "Swift",
-    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
+    "language": "Python",
+    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
   },
   {
-    "repo": "localstack/localstack",
+    "repo": "OpenDCAI/OpenPrism",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
+  },
+  {
+    "repo": "kysely-org/kysely",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A type-safe TypeScript SQL query builder"
+  },
+  {
+    "repo": "Astraltenprosper/uncensored-ai-image-video-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI tool for generating uncensored images and videos (18+)"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "branch": "master",
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+  },
+  {
+    "repo": "stedolan/jq",
+    "branch": "master",
+    "language": "C",
+    "description": "Command-line JSON processor"
+  },
+  {
+    "repo": "solidjs-community/solid-primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+  },
+  {
+    "repo": "TriangleMagistrate/DeepSeek-Claw",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "fffaraz/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "repo": "Olshansk/interview",
+    "branch": "master",
+    "language": "Other",
+    "description": "Everything you need to prepare for your technical interview"
+  },
+  {
+    "repo": "Pylons/pyramid",
     "branch": "master",
     "language": "Python",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
+    "description": "Pyramid - A Python web framework"
   },
   {
-    "repo": "adafruit/circuitpython",
+    "repo": "josephmisiti/awesome-machine-learning",
+    "branch": "master",
+    "language": "Python",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+  },
+  {
+    "repo": "anthropics/financial-services-plugins",
     "branch": "main",
-    "language": "C",
-    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "deltatrader01/Polymarket-Kalshi-Trading-Bot",
+    "repo": "6551Team/opentwitter-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+  },
+  {
+    "repo": "emacs-mirror/emacs",
+    "branch": "master",
+    "language": "Emacs Lisp",
+    "description": "Mirror of GNU Emacs"
+  },
+  {
+    "repo": "Xuanwo/xurl",
     "branch": "main",
     "language": "Rust",
-    "description": "Polymarket-Kalshi arbitrage trading bot that exploits price inefficiencies between Kalshi and Polymarket. Kalshi Trading bot Polymarket trading bot Kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
+    "description": "xURL: Client for AI Agents URLs"
   },
   {
-    "repo": "Quick/Quick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The Swift (and Objective-C) testing framework."
-  },
-  {
-    "repo": "cilium/cilium",
-    "branch": "main",
-    "language": "Go",
-    "description": "eBPF-based Networking, Security, and Observability"
-  },
-  {
-    "repo": "rails/rails",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Ruby on Rails"
-  },
-  {
-    "repo": "TermiX-official/cryptoclaw",
+    "repo": "kitlangton/tailcode",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "pyenv/pyenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
-  },
-  {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "depthsecurity/RelayKing-Depth",
-    "branch": "master",
-    "language": "Python",
-    "description": "Dominate the domain. Relay to royalty."
-  },
-  {
-    "repo": "samuelfaj/distill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
-  },
-  {
-    "repo": "uluckyXH/OpenMOSS",
+    "repo": "Panniantong/Agent-Reach",
     "branch": "main",
     "language": "Python",
-    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+    "description": ""
   },
   {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
-    "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
-  },
-  {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
-  },
-  {
-    "repo": "gradle/gradle",
-    "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
-  },
-  {
-    "repo": "zer0condition/Ophion",
-    "branch": "master",
-    "language": "C",
-    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
-  },
-  {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "YougLin-dev/Aha-Loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
-  },
-  {
-    "repo": "public-apis/public-apis",
+    "repo": "LearnPrompt/ai-news-radar",
     "branch": "master",
     "language": "Python",
-    "description": "A collective list of free APIs"
+    "description": ""
   },
   {
-    "repo": "operator-framework/operator-sdk",
-    "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-  },
-  {
-    "repo": "ant-design/ant-design",
+    "repo": "balancer/balancer-v2-monorepo",
     "branch": "master",
     "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
+    "description": "Balancer V2 Monorepo"
   },
   {
-    "repo": "vmware-tanzu/velero",
-    "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+    "repo": "kdn251/interviews",
+    "branch": "master",
+    "language": "Java",
+    "description": "Everything you need to know to get the job."
   },
   {
-    "repo": "sliverp/qqbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "qqbot"
+    "repo": "CSSEGISandData/COVID-19",
+    "branch": "master",
+    "language": "Other",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
   }
 ]
