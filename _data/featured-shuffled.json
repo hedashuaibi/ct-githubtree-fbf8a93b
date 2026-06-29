@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Jiangzy520/DreamleStockRadar",
-    "branch": "main",
-    "language": "Python",
-    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
-  },
-  {
-    "repo": "OpenDCAI/OpenPrism",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
-  },
-  {
-    "repo": "kysely-org/kysely",
+    "repo": "compound-finance/compound-protocol",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A type-safe TypeScript SQL query builder"
+    "description": "The Compound On-Chain Protocol"
   },
   {
-    "repo": "Astraltenprosper/uncensored-ai-image-video-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI tool for generating uncensored images and videos (18+)"
-  },
-  {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "CMU-Perceptual-Computing-Lab/openpose",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
-  },
-  {
-    "repo": "stedolan/jq",
-    "branch": "master",
-    "language": "C",
-    "description": "Command-line JSON processor"
-  },
-  {
-    "repo": "solidjs-community/solid-primitives",
+    "repo": "arnabchoudhury404/hydra-launcher",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error"
   },
   {
-    "repo": "TriangleMagistrate/DeepSeek-Claw",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "fffaraz/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
-  },
-  {
-    "repo": "Olshansk/interview",
-    "branch": "master",
-    "language": "Other",
-    "description": "Everything you need to prepare for your technical interview"
-  },
-  {
-    "repo": "Pylons/pyramid",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pyramid - A Python web framework"
-  },
-  {
-    "repo": "josephmisiti/awesome-machine-learning",
-    "branch": "master",
-    "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
-  },
-  {
-    "repo": "anthropics/financial-services-plugins",
+    "repo": "PatrikFehrenbach/h1-brain",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
   },
   {
-    "repo": "6551Team/opentwitter-mcp",
+    "repo": "bitwarden/server",
+    "branch": "master",
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
+  },
+  {
+    "repo": "embedding-shapes/one-agent-one-browser",
+    "branch": "master",
+    "language": "Rust",
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
+  },
+  {
+    "repo": "op7418/Video-Wrapper-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
   },
   {
-    "repo": "emacs-mirror/emacs",
-    "branch": "master",
-    "language": "Emacs Lisp",
-    "description": "Mirror of GNU Emacs"
+    "repo": "opentofu/opentofu",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
   },
   {
-    "repo": "Xuanwo/xurl",
+    "repo": "RightNow-AI/openfang",
     "branch": "main",
     "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
+    "description": "Open-source Agent Operating System"
   },
   {
-    "repo": "kitlangton/tailcode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Panniantong/Agent-Reach",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "LearnPrompt/ai-news-radar",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "balancer/balancer-v2-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
-  },
-  {
-    "repo": "kdn251/interviews",
+    "repo": "arduino/Arduino",
     "branch": "master",
     "language": "Java",
-    "description": "Everything you need to know to get the job."
+    "description": "Arduino IDE 1.x"
   },
   {
-    "repo": "CSSEGISandData/COVID-19",
-    "branch": "master",
-    "language": "Other",
-    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+    "repo": "Quick/Nimble",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
   },
   {
-    "repo": "jlevy/the-art-of-command-line",
+    "repo": "leonardomso/33-js-concepts",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "signalapp/Signal-iOS",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A private messenger for iOS."
+  },
+  {
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "frederikemmer/MediaLyze",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-hosted media library analysis for large video collections"
+  },
+  {
+    "repo": "BruceLanLan/bruceblue-ghostty-config",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+  },
+  {
+    "repo": "alebcay/awesome-shell",
     "branch": "master",
     "language": "Other",
-    "description": "Master the command line, in one page"
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "repo": "vanna-ai/vanna",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
+  },
+  {
+    "repo": "vercel/geist-font",
+    "branch": "main",
+    "language": "Python",
+    "description": "Geist is a typeface developed by Vercel."
+  },
+  {
+    "repo": "deepmind/alphafold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
+  },
+  {
+    "repo": "securo-finance/securo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "branch": "master",
+    "language": "Go",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "HubSpot/messenger",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
   }
 ]
