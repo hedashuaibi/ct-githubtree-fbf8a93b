@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bottlerocket-os/bottlerocket",
-    "branch": "develop",
-    "language": "Rust",
-    "description": "An operating system designed for hosting containers"
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "jina-ai/jina",
-    "branch": "main",
-    "language": "Python",
-    "description": "☁️ Build multimodal AI applications with cloud-native stack"
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
-  },
-  {
-    "repo": "blader/taskmaster",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
-  },
-  {
-    "repo": "openperf/brief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Service Agreement"
-  },
-  {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "grafana/grafana",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
-  },
-  {
-    "repo": "square/okhttp",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "zscole/model-hierarchy-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
-  },
-  {
-    "repo": "Gentleman-Programming/engram",
+    "repo": "gofsnotify/fsnotify",
     "branch": "main",
     "language": "Go",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
+    "description": "Cross-platform file system notifications for Go."
   },
   {
-    "repo": "matthart1983/syswatch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
-  },
-  {
-    "repo": "mongodb/mongo",
-    "branch": "master",
-    "language": "C++",
-    "description": "The MongoDB Database"
-  },
-  {
-    "repo": "roboflow/rf-detr",
-    "branch": "main",
-    "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
-  },
-  {
-    "repo": "rq/rq",
-    "branch": "master",
-    "language": "Python",
-    "description": "Simple job queues for Python"
-  },
-  {
-    "repo": "aikorea/awesome-rl",
-    "branch": "master",
-    "language": "Other",
-    "description": "Reinforcement learning resources curated"
-  },
-  {
-    "repo": "babel/babel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
-  },
-  {
-    "repo": "OpenMOSS/MOVA",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
-  },
-  {
-    "repo": "yizhiyanhua-ai/skills-updater",
-    "branch": "main",
-    "language": "Python",
-    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
-  },
-  {
-    "repo": "ramda/ramda",
+    "repo": "calesthio/Crucix",
     "branch": "master",
     "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
   },
   {
-    "repo": "mermaid-js/mermaid",
+    "repo": "earendil-works/gondolin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
+  },
+  {
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "jingkaihe/matchlock",
+    "branch": "main",
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+  },
+  {
+    "repo": "grpc/grpc-java",
+    "branch": "master",
+    "language": "Java",
+    "description": "The Java gRPC implementation. HTTP/2 based RPC"
+  },
+  {
+    "repo": "skernelx/tavily-key-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto batch register Tavily API Keys with pluggable email backends"
+  },
+  {
+    "repo": "Rivflyyy/HappyTorch",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+  },
+  {
+    "repo": "primefaces/primeng",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Most Complete Angular UI Component Library"
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+  },
+  {
+    "repo": "umijs/umi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A framework in react community ✨"
+  },
+  {
+    "repo": "delta-io/delta",
+    "branch": "master",
+    "language": "Scala",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
+  },
+  {
+    "repo": "vuetifyjs/vuetify",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🐉 Vue Component Framework"
+  },
+  {
+    "repo": "MetaMask/metamask-extension",
     "branch": "develop",
     "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "deepmind/mujoco",
+    "branch": "main",
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+  },
+  {
+    "repo": "element-hq/element-ios",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A glossy Matrix collaboration client for iOS"
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+  },
+  {
+    "repo": "prompt-security/clawsec",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+  },
+  {
+    "repo": "bitwarden/clients",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
+  },
+  {
+    "repo": "zaproxy/zaproxy",
+    "branch": "main",
+    "language": "Java",
+    "description": "The ZAP by Checkmarx Core project"
+  },
+  {
+    "repo": "react-native-maps/react-native-maps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
+    "repo": "suborbital/sat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Tiny & fast WebAssembly edge compute server"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
   }
 ]
