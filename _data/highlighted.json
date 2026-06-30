@@ -1,8 +1,8 @@
 {
-  "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Mega",
+  "repo": "lycorp-jp/sim-use",
   "branch": "main",
-  "language": "Python",
-  "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.",
-  "stars": 193,
-  "forks": 0
+  "language": "Swift",
+  "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+  "stars": 219,
+  "forks": 8
 }

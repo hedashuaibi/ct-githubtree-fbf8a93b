@@ -1,57 +1,39 @@
 [
   {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
-  },
-  {
-    "repo": "arnabchoudhury404/hydra-launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error"
-  },
-  {
-    "repo": "PatrikFehrenbach/h1-brain",
+    "repo": "NousResearch/hermes-agent-self-evolution",
     "branch": "main",
     "language": "Python",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
   },
   {
-    "repo": "bitwarden/server",
-    "branch": "master",
-    "language": "C#",
-    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
-    "branch": "master",
-    "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
-  },
-  {
-    "repo": "op7418/Video-Wrapper-Skills",
+    "repo": "valkor-ai/loom",
     "branch": "main",
-    "language": "Python",
-    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
+    "language": "TypeScript",
+    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
   },
   {
-    "repo": "opentofu/opentofu",
+    "repo": "thellimist/clihub",
     "branch": "main",
     "language": "Go",
-    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
+    "description": ""
   },
   {
-    "repo": "RightNow-AI/openfang",
+    "repo": "pi-hole/pi-hole",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A black hole for Internet advertisements"
+  },
+  {
+    "repo": "istio/istio.io",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Source for the istio.io site"
+  },
+  {
+    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source Agent Operating System"
-  },
-  {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
+    "description": ""
   },
   {
     "repo": "Quick/Nimble",
@@ -60,70 +42,22 @@
     "description": "A Matcher Framework for Swift and Objective-C"
   },
   {
-    "repo": "leonardomso/33-js-concepts",
-    "branch": "master",
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "📜 33 JavaScript concepts every developer should know."
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
   },
   {
-    "repo": "signalapp/Signal-iOS",
+    "repo": "goharbor/community",
     "branch": "main",
-    "language": "Swift",
-    "description": "A private messenger for iOS."
-  },
-  {
-    "repo": "pypa/pip",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python package installer"
-  },
-  {
-    "repo": "frederikemmer/MediaLyze",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-hosted media library analysis for large video collections"
-  },
-  {
-    "repo": "BruceLanLan/bruceblue-ghostty-config",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
-  },
-  {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
-  },
-  {
-    "repo": "alebcay/awesome-shell",
-    "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+    "description": "Harbor community-related material"
   },
   {
-    "repo": "vanna-ai/vanna",
+    "repo": "paradigmxyz/evmbench",
     "branch": "main",
-    "language": "Python",
-    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
-  },
-  {
-    "repo": "vercel/geist-font",
-    "branch": "main",
-    "language": "Python",
-    "description": "Geist is a typeface developed by Vercel."
-  },
-  {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "securo-finance/securo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
+    "language": "TypeScript",
+    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
   },
   {
     "repo": "grpc-ecosystem/grpc-gateway",
@@ -132,15 +66,81 @@
     "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
   },
   {
-    "repo": "lukilabs/beautiful-mermaid",
+    "repo": "Jane-xiaoer/x-fetcher",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "HubSpot/messenger",
+    "repo": "linkerd/linkerd2",
+    "branch": "main",
+    "language": "Go",
+    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+  },
+  {
+    "repo": "googleapis/google-api-python-client",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐍 The official Python client library for Google's discovery based APIs."
+  },
+  {
+    "repo": "nvm-sh/nvm",
     "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+  },
+  {
+    "repo": "MistKailorg/Polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+  },
+  {
+    "repo": "jitsi/jitsi-meet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+  },
+  {
+    "repo": "ColeMurray/background-agents",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "swc-project/swc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "repo": "yeuxuan/openclaw-docs",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
+    "description": "openclaw 剖析、拆解、教程在线文档"
+  },
+  {
+    "repo": "twbs/bootstrap",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "branch": "main",
+    "language": "Go",
+    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
   }
 ]
