@@ -1,8 +1,8 @@
 {
-  "repo": "lycorp-jp/sim-use",
+  "repo": "offchainthoughts/Amber",
   "branch": "main",
-  "language": "Swift",
-  "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-  "stars": 219,
-  "forks": 8
+  "language": "Python",
+  "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+  "stars": 320,
+  "forks": 184
 }

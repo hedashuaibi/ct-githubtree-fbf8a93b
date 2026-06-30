@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NousResearch/hermes-agent-self-evolution",
+    "repo": "kernullist/PseudoForge",
     "branch": "main",
     "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
   },
   {
-    "repo": "valkor-ai/loom",
+    "repo": "nooncheetahstart/Kahoot-tools-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
+  },
+  {
+    "repo": "moresamwilson/running-heatmap",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Generate heatmaps from your Strava export - frequency, pace, heart rate and gradient."
+  },
+  {
+    "repo": "jdevalk/specification.website",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
   },
   {
-    "repo": "thellimist/clihub",
+    "repo": "vincelele/ai-fomo-skills",
     "branch": "main",
-    "language": "Go",
-    "description": ""
+    "language": "Python",
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests."
   },
   {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
-  },
-  {
-    "repo": "istio/istio.io",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
-  },
-  {
-    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
   },
   {
-    "repo": "Quick/Nimble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
-  },
-  {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "repo": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
+    "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots."
   },
   {
-    "repo": "goharbor/community",
-    "branch": "main",
-    "language": "Other",
-    "description": "Harbor community-related material"
-  },
-  {
-    "repo": "paradigmxyz/evmbench",
+    "repo": "williamcachamwri/zalo-tg",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
+    "description": ""
   },
   {
-    "repo": "grpc-ecosystem/grpc-gateway",
-    "branch": "master",
-    "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
-  },
-  {
-    "repo": "Jane-xiaoer/x-fetcher",
+    "repo": "GordenSun/mathVideoMaker",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "linkerd/linkerd2",
-    "branch": "main",
-    "language": "Go",
-    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
-  },
-  {
-    "repo": "googleapis/google-api-python-client",
+    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
     "branch": "main",
     "language": "Python",
-    "description": "🐍 The official Python client library for Google's discovery based APIs."
+    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
   },
   {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+    "repo": "JuneYaooo/nihaixia-tcm",
+    "branch": "main",
+    "language": "Python",
+    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
   },
   {
-    "repo": "MistKailorg/Polymarket-trading-bot",
+    "repo": "Rhythmplocutter/printer-offline-fix",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "repo": "cclank/cell-architecture-studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
+    "description": "Interactive 3D cell architecture gallery built with React and Three.js"
   },
   {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
+    "repo": "cslol-manager/ltk-manager",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ltk manager league of legends lol custom skins mod manager github download free cslol manager cslol manager runeforge  divine skins  not working successor modpkg fantome runeforge overlay patcher windows 11 setup guide tutorial error fix latest version 2026"
+  },
+  {
+    "repo": "mrgummy007/Yoshi-pc",
+    "branch": "main",
+    "language": "C#",
+    "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
+  },
+  {
+    "repo": "chojs23/concord",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A feature rich terminal client for Discord"
+  },
+  {
+    "repo": "m00grin/ph-intercept",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
+  },
+  {
+    "repo": "thananon/9arm-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "PentesterFlow/agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agentic offensive-security in your terminal"
+  },
+  {
+    "repo": "duonghieu7104/Star-Fox-64-Remake-PC-Port",
+    "branch": "main",
     "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+    "description": "Star Fox 64 Remake PC download Fox McCloud Arwing Landmaster Falco Peppy Slippy Lylat System Corneria Andross Star Wolf Team 4K Widescreen Native Port Controller Support HD Textures Medals Expert Mode Barrel Roll All-Range Mode Venom Sector Z Solar Macbeth Aquas 60FPS."
   },
   {
-    "repo": "jitsi/jitsi-meet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-  },
-  {
-    "repo": "ColeMurray/background-agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
-  },
-  {
-    "repo": "microsoft/autogen",
+    "repo": "ClaudioDrews/memory-os",
     "branch": "main",
     "language": "Python",
-    "description": "A programming framework for agentic AI"
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
   },
   {
-    "repo": "swc-project/swc",
+    "repo": "OpenYSMDev/OpenYSM",
     "branch": "main",
-    "language": "Rust",
-    "description": "Rust-based platform for the Web"
+    "language": "Java",
+    "description": "A mod that modifies the vanilla player model"
   },
   {
-    "repo": "yeuxuan/openclaw-docs",
+    "repo": "anthropics/cwc-workshops",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "openclaw 剖析、拆解、教程在线文档"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "twbs/bootstrap",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-  },
-  {
-    "repo": "aquasecurity/kube-bench",
-    "branch": "main",
-    "language": "Go",
-    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
+    "repo": "chencore/autoresearch-crypto",
+    "branch": "dev-2.0",
+    "language": "Python",
+    "description": "autoresearch-crypto"
   }
 ]
