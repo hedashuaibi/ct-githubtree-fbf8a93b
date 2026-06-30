@@ -1,8 +1,8 @@
 {
-  "repo": "blknoiz0632/CandyDrop",
+  "repo": "Jia-Ethan/codex-keysmith",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-  "stars": 359,
-  "forks": 3
+  "language": "Python",
+  "description": "Codex CLI instruction-file installer for local configuration",
+  "stars": 294,
+  "forks": 58
 }

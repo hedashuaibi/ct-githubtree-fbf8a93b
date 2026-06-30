@@ -1,146 +1,146 @@
 [
   {
-    "repo": "virattt/ai-hedge-fund",
+    "repo": "incursi0n/GodPotatoBOF",
     "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
+    "language": "C",
+    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
   },
   {
-    "repo": "RyensX/OpenCodex",
+    "repo": "eooce/transfer-api",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
-  },
-  {
-    "repo": "therealaleph/MasterHttpRelayVPN-RUST",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
-  },
-  {
-    "repo": "santifer/career-ops",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
-  },
-  {
-    "repo": "cursor/cookbook",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "liranringel/ddtree",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "MangoLion/stretchystudio",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
   },
   {
-    "repo": "Zfinix/another",
+    "repo": "sablin39/tilelang-cuda-skills",
     "branch": "main",
-    "language": "Rust",
-    "description": "A desktop app for mirroring and controlling Android devices over USB. Built with Tauri, React, and Rust."
+    "language": "Python",
+    "description": "Skills for writing tilelang and debugging with CUDA toolkits."
   },
   {
-    "repo": "0Chencc/clawgod",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
-  },
-  {
-    "repo": "Garume/Manifold",
-    "branch": "main",
-    "language": "C#",
-    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
-  },
-  {
-    "repo": "liuup/claude-code-analysis",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The analysis of Claude Code"
-  },
-  {
-    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "repo": "haidang1810/md2html",
     "branch": "main",
     "language": "HTML",
-    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
+    "description": "Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language."
   },
   {
-    "repo": "kessler/gemma-gem",
+    "repo": "Evokoa/pgGraph",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source graph database superpowers for your existing Postgres data."
+  },
+  {
+    "repo": "stephenlthorn/auto-identity-remove",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule"
+  },
+  {
+    "repo": "trading-2028/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading"
+  },
+  {
+    "repo": "dtnewman/burn-baby-burn",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Be the most productive engineer on your team 🚀🚀🚀"
+  },
+  {
+    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
+    "branch": "main",
+    "language": "C#",
+    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
+  },
+  {
+    "repo": "0xdeadbeefnetwork/ssh-keysign-pwn",
+    "branch": "main",
+    "language": "C",
+    "description": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels."
+  },
+  {
+    "repo": "windowsMarketLab/polymarket-arbitrage-bot-v2",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
+    "description": "polymarket arbitrage bot V2 to interact with CLOB V2 polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
   },
   {
-    "repo": "humiaozuzu/awesome-flask",
+    "repo": "amrdoh/ClockMaster",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Flask resources and plugins"
+    "language": "Kotlin",
+    "description": "Material Expressive clock app for android 🕛⏰"
   },
   {
-    "repo": "ankitvgupta/mail-app",
+    "repo": "joeseesun/qiaomu-artist-style",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code for your Inbox"
-  },
-  {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "saif0200/notchprompt",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "0xKarl-dev/claw-codes",
+    "repo": "pydantic/httpx2",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+    "language": "Python",
+    "description": "A next generation HTTP client for Python. 🦋"
   },
   {
-    "repo": "k2-fsa/OmniVoice",
+    "repo": "WUBING2023/PaperSpine",
+    "branch": "main",
+    "language": "Python",
+    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
+  },
+  {
+    "repo": "paradigmxyz/centaur",
+    "branch": "main",
+    "language": "Python",
+    "description": "Multiplayer, self-hosted, secure agents."
+  },
+  {
+    "repo": "steeliron550-ui/search-bibtex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
+  },
+  {
+    "repo": "Voxybuns/at-icons",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Open source icons for custom Godot nodes"
+  },
+  {
+    "repo": "nexu-io/html-anything",
+    "branch": "main",
+    "language": "HTML",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
+  },
+  {
+    "repo": "RadianceToadAmend/cs2-overlay-utility",
+    "branch": "main",
+    "language": "C++",
+    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes."
+  },
+  {
+    "repo": "garnix-io/garnix-ci",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "CI and hosting for nix-based, flakified github repos"
+  },
+  {
+    "repo": "cdanielc293/Jenny-Mod-All-Versions",
+    "branch": "main",
+    "language": "C#",
+    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable."
+  },
+  {
+    "repo": "virgo777/buddyme",
     "branch": "master",
     "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+    "description": "Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system."
   },
   {
-    "repo": "zuckermanai/zuckerman",
+    "repo": "oyunhacktr/Windows-Xbox-Mode",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
-  },
-  {
-    "repo": "second-state/kitten_tts_rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
-  },
-  {
-    "repo": "ayush-that/jiang-clips",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
-  },
-  {
-    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于向听算法的AR眼镜端麻将助手"
+    "language": "C++",
+    "description": "windows 11 xbox mode pc gaming controller handheld console xbox series x s dev mode interface controller vivetool setup guide game pass performance optimization fix 2026**"
   }
 ]
