@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kernullist/PseudoForge",
+    "repo": "virattt/ai-hedge-fund",
     "branch": "main",
     "language": "Python",
-    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
+    "description": "An AI Hedge Fund Team"
   },
   {
-    "repo": "nooncheetahstart/Kahoot-tools-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
-  },
-  {
-    "repo": "moresamwilson/running-heatmap",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Generate heatmaps from your Strava export - frequency, pace, heart rate and gradient."
-  },
-  {
-    "repo": "jdevalk/specification.website",
+    "repo": "RyensX/OpenCodex",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
   },
   {
-    "repo": "vincelele/ai-fomo-skills",
+    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
     "branch": "main",
     "language": "Python",
-    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests."
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
   },
   {
-    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
-  },
-  {
-    "repo": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots."
-  },
-  {
-    "repo": "williamcachamwri/zalo-tg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "GordenSun/mathVideoMaker",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
-  },
-  {
-    "repo": "JuneYaooo/nihaixia-tcm",
-    "branch": "main",
-    "language": "Python",
-    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
-  },
-  {
-    "repo": "Rhythmplocutter/printer-offline-fix",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
-  },
-  {
-    "repo": "cclank/cell-architecture-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Interactive 3D cell architecture gallery built with React and Three.js"
-  },
-  {
-    "repo": "cslol-manager/ltk-manager",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ltk manager league of legends lol custom skins mod manager github download free cslol manager cslol manager runeforge  divine skins  not working successor modpkg fantome runeforge overlay patcher windows 11 setup guide tutorial error fix latest version 2026"
-  },
-  {
-    "repo": "mrgummy007/Yoshi-pc",
-    "branch": "main",
-    "language": "C#",
-    "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
-  },
-  {
-    "repo": "chojs23/concord",
+    "repo": "therealaleph/MasterHttpRelayVPN-RUST",
     "branch": "main",
     "language": "Rust",
-    "description": "A feature rich terminal client for Discord"
+    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
   },
   {
-    "repo": "m00grin/ph-intercept",
+    "repo": "santifer/career-ops",
     "branch": "main",
+    "language": "Go",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+  },
+  {
+    "repo": "cursor/cookbook",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "liranringel/ddtree",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
   },
   {
-    "repo": "thananon/9arm-skills",
+    "repo": "Zfinix/another",
     "branch": "main",
-    "language": "Shell",
+    "language": "Rust",
+    "description": "A desktop app for mirroring and controlling Android devices over USB. Built with Tauri, React, and Rust."
+  },
+  {
+    "repo": "0Chencc/clawgod",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
+  },
+  {
+    "repo": "Garume/Manifold",
+    "branch": "main",
+    "language": "C#",
+    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
+  },
+  {
+    "repo": "liuup/claude-code-analysis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The analysis of Claude Code"
+  },
+  {
+    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
+  },
+  {
+    "repo": "kessler/gemma-gem",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
+  },
+  {
+    "repo": "humiaozuzu/awesome-flask",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Flask resources and plugins"
+  },
+  {
+    "repo": "ankitvgupta/mail-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code for your Inbox"
+  },
+  {
+    "repo": "Trooped/QuickBars",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
+  },
+  {
+    "repo": "saif0200/notchprompt",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "PentesterFlow/agent",
+    "repo": "0xKarl-dev/claw-codes",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Agentic offensive-security in your terminal"
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
   },
   {
-    "repo": "duonghieu7104/Star-Fox-64-Remake-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Star Fox 64 Remake PC download Fox McCloud Arwing Landmaster Falco Peppy Slippy Lylat System Corneria Andross Star Wolf Team 4K Widescreen Native Port Controller Support HD Textures Medals Expert Mode Barrel Roll All-Range Mode Venom Sector Z Solar Macbeth Aquas 60FPS."
-  },
-  {
-    "repo": "ClaudioDrews/memory-os",
-    "branch": "main",
+    "repo": "k2-fsa/OmniVoice",
+    "branch": "master",
     "language": "Python",
-    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
   },
   {
-    "repo": "OpenYSMDev/OpenYSM",
-    "branch": "main",
-    "language": "Java",
-    "description": "A mod that modifies the vanilla player model"
-  },
-  {
-    "repo": "anthropics/cwc-workshops",
+    "repo": "zuckermanai/zuckerman",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
   },
   {
-    "repo": "chencore/autoresearch-crypto",
-    "branch": "dev-2.0",
+    "repo": "second-state/kitten_tts_rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+  },
+  {
+    "repo": "ayush-that/jiang-clips",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
+  },
+  {
+    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
+    "branch": "main",
     "language": "Python",
-    "description": "autoresearch-crypto"
+    "description": "一个基于向听算法的AR眼镜端麻将助手"
   }
 ]
