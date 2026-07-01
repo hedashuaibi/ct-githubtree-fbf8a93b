@@ -1,146 +1,146 @@
 [
   {
-    "repo": "incursi0n/GodPotatoBOF",
-    "branch": "main",
-    "language": "C",
-    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
-  },
-  {
-    "repo": "eooce/transfer-api",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
-  },
-  {
-    "repo": "sablin39/tilelang-cuda-skills",
+    "repo": "connectfarm1/accumulation-radar",
     "branch": "main",
     "language": "Python",
-    "description": "Skills for writing tilelang and debugging with CUDA toolkits."
+    "description": "🏦 Accumulation Radar — Auto-detect market maker accumulation + OI anomaly + 3-strategy scoring for crypto futures. Pure Python, zero AI cost."
   },
   {
-    "repo": "haidang1810/md2html",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language."
-  },
-  {
-    "repo": "Evokoa/pgGraph",
+    "repo": "firecracker-microvm/firecracker",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source graph database superpowers for your existing Postgres data."
+    "description": "Secure and fast microVMs for serverless computing."
   },
   {
-    "repo": "stephenlthorn/auto-identity-remove",
+    "repo": "CleverCloud/mdr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "paramiko/paramiko",
+    "branch": "main",
+    "language": "Python",
+    "description": "The leading native Python SSHv2 protocol library."
+  },
+  {
+    "repo": "detekt/detekt",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Static code analysis for Kotlin"
+  },
+  {
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "GitHub Action to alert on security patches before the CVE drops."
+  },
+  {
+    "repo": "ReactiveX/RxPY",
+    "branch": "master",
+    "language": "Python",
+    "description": "ReactiveX for Python"
+  },
+  {
+    "repo": "chef/chef",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
+  },
+  {
+    "repo": "jgraph/drawio",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
+  },
+  {
+    "repo": "binhnguyennus/awesome-scalability",
+    "branch": "master",
+    "language": "Other",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+  },
+  {
+    "repo": "docker/docker-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
+  },
+  {
+    "repo": "shallowdream204/BitDance",
+    "branch": "main",
+    "language": "Python",
+    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
+  },
+  {
+    "repo": "sass/sass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sass makes CSS fun!"
+  },
+  {
+    "repo": "gluon-framework/gluon",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule"
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
   },
   {
-    "repo": "trading-2028/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading"
-  },
-  {
-    "repo": "dtnewman/burn-baby-burn",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Be the most productive engineer on your team 🚀🚀🚀"
-  },
-  {
-    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
-    "branch": "main",
-    "language": "C#",
-    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
-  },
-  {
-    "repo": "0xdeadbeefnetwork/ssh-keysign-pwn",
-    "branch": "main",
-    "language": "C",
-    "description": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels."
-  },
-  {
-    "repo": "windowsMarketLab/polymarket-arbitrage-bot-v2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot V2 to interact with CLOB V2 polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "amrdoh/ClockMaster",
+    "repo": "material-components/material-components-android",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "Material Expressive clock app for android 🕛⏰"
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
   },
   {
-    "repo": "joeseesun/qiaomu-artist-style",
-    "branch": "main",
-    "language": "TypeScript",
+    "repo": "JoshKale/jobs",
+    "branch": "master",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "pydantic/httpx2",
-    "branch": "main",
-    "language": "Python",
-    "description": "A next generation HTTP client for Python. 🦋"
+    "repo": "element-hq/element-ios",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A glossy Matrix collaboration client for iOS"
   },
   {
-    "repo": "WUBING2023/PaperSpine",
+    "repo": "hashicorp/vagrant",
     "branch": "main",
-    "language": "Python",
-    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
   },
   {
-    "repo": "paradigmxyz/centaur",
-    "branch": "main",
-    "language": "Python",
-    "description": "Multiplayer, self-hosted, secure agents."
-  },
-  {
-    "repo": "steeliron550-ui/search-bibtex",
+    "repo": "cosmiciron/vmprint",
     "branch": "main",
     "language": "TypeScript",
-    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
   },
   {
-    "repo": "Voxybuns/at-icons",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Open source icons for custom Godot nodes"
+    "repo": "fluent/fluentd",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
   },
   {
-    "repo": "nexu-io/html-anything",
-    "branch": "main",
-    "language": "HTML",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
+    "repo": "pytorch/serve",
+    "branch": "master",
+    "language": "Java",
+    "description": "Serve, optimize and scale PyTorch models in production"
   },
   {
-    "repo": "RadianceToadAmend/cs2-overlay-utility",
-    "branch": "main",
-    "language": "C++",
-    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes."
-  },
-  {
-    "repo": "garnix-io/garnix-ci",
-    "branch": "main",
-    "language": "Haskell",
-    "description": "CI and hosting for nix-based, flakified github repos"
-  },
-  {
-    "repo": "cdanielc293/Jenny-Mod-All-Versions",
-    "branch": "main",
-    "language": "C#",
-    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable."
-  },
-  {
-    "repo": "virgo777/buddyme",
+    "repo": "AI45Lab/TrinityGuard",
     "branch": "master",
     "language": "Python",
-    "description": "Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system."
-  },
-  {
-    "repo": "oyunhacktr/Windows-Xbox-Mode",
-    "branch": "main",
-    "language": "C++",
-    "description": "windows 11 xbox mode pc gaming controller handheld console xbox series x s dev mode interface controller vivetool setup guide game pass performance optimization fix 2026**"
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
   }
 ]
