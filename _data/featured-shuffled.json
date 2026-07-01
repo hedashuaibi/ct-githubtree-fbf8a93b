@@ -1,93 +1,15 @@
 [
   {
-    "repo": "async-rs/async-std",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Async version of the Rust standard library"
-  },
-  {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
-    "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
-  },
-  {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
-    "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
-  },
-  {
-    "repo": "vercel-labs/portless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
-  },
-  {
-    "repo": "elastic/logstash",
-    "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
-  },
-  {
-    "repo": "cisco-ai-defense/skill-scanner",
+    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta",
     "branch": "main",
     "language": "Python",
-    "description": "Security Scanner for Agent Skills"
+    "description": "Boost your Pet Simulator 99 progress with the Peta trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
   },
   {
-    "repo": "anl331/goey-toast",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
-  },
-  {
-    "repo": "DioxusLabs/dioxus",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
-  },
-  {
-    "repo": "reduxjs/redux",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
-  },
-  {
-    "repo": "pshycodr/airctl",
+    "repo": "certbot/certbot",
     "branch": "main",
     "language": "Python",
-    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
-  },
-  {
-    "repo": "godotengine/godot-proposals",
-    "branch": "master",
-    "language": "Other",
-    "description": "Godot Improvement Proposals (GIPs)"
-  },
-  {
-    "repo": "datavorous/sameshi",
-    "branch": "master",
-    "language": "C",
-    "description": "a ~1200 Elo chess engine that fits within 2KB"
-  },
-  {
-    "repo": "vapor/vapor",
-    "branch": "main",
-    "language": "Swift",
-    "description": "💧 A server-side Swift HTTP web framework."
-  },
-  {
-    "repo": "JStumpp/awesome-android",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android packages and resources."
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
   },
   {
     "repo": "data-science-on-aws/data-science-on-aws",
@@ -96,51 +18,129 @@
     "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
   },
   {
-    "repo": "petergpt/bullshit-benchmark",
+    "repo": "rails/rails",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Ruby",
+    "description": "Ruby on Rails"
   },
   {
-    "repo": "memovai/mimiclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
-  },
-  {
-    "repo": "PeonPing/peon-ping",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
-  },
-  {
-    "repo": "hashicorp/packer",
+    "repo": "hashicorp/consul",
     "branch": "main",
     "language": "Go",
-    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
   },
   {
-    "repo": "actions/checkout",
+    "repo": "reduxjs/redux",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A JS library for predictable global state management"
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Action for checking out a repo"
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
   },
   {
-    "repo": "wesm/agentsview",
+    "repo": "EthanLipnik/Loom",
     "branch": "main",
-    "language": "Go",
-    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
+    "language": "Swift",
+    "description": "Easy peer to peer networking for Apple devices"
   },
   {
-    "repo": "tonyqinatcmu/SlideBot-AI",
-    "branch": "main",
+    "repo": "yarnpkg/yarn",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
   },
   {
-    "repo": "roboflow/rf-detr",
+    "repo": "AlexsJones/llmfit",
+    "branch": "main",
+    "language": "Rust",
+    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of the Ethereum protocol"
+  },
+  {
+    "repo": "go-delve/delve",
+    "branch": "master",
+    "language": "Go",
+    "description": "Delve is a debugger for the Go programming language."
+  },
+  {
+    "repo": "nuxt/nuxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Full-Stack Vue Framework."
+  },
+  {
+    "repo": "numpy/numpy",
     "branch": "main",
     "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
+    "description": "The fundamental package for scientific computing with Python."
+  },
+  {
+    "repo": "ninja-build/ninja",
+    "branch": "master",
+    "language": "C++",
+    "description": "a small build system with a focus on speed"
+  },
+  {
+    "repo": "nocodb/nocodb",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+  },
+  {
+    "repo": "garrytan/gstack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+  },
+  {
+    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+  },
+  {
+    "repo": "emacs-mirror/emacs",
+    "branch": "master",
+    "language": "Emacs Lisp",
+    "description": "Mirror of GNU Emacs"
+  },
+  {
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native Mermaid diagram renderer for Swift"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-V3",
+    "branch": "main",
+    "language": "Python",
+    "description": "Vision-language models from DeepSeek research."
+  },
+  {
+    "repo": "ultralytics/yolov5",
+    "branch": "master",
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
   }
 ]
