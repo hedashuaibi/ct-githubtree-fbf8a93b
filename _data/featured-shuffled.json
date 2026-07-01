@@ -1,146 +1,146 @@
 [
   {
-    "repo": "connectfarm1/accumulation-radar",
-    "branch": "main",
-    "language": "Python",
-    "description": "🏦 Accumulation Radar — Auto-detect market maker accumulation + OI anomaly + 3-strategy scoring for crypto futures. Pure Python, zero AI cost."
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "CleverCloud/mdr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
-  },
-  {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-  },
-  {
-    "repo": "paramiko/paramiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
-  },
-  {
-    "repo": "detekt/detekt",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Static code analysis for Kotlin"
-  },
-  {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "repo": "anl331/goey-toast",
     "branch": "main",
     "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
+    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
   },
   {
-    "repo": "ReactiveX/RxPY",
+    "repo": "zacdcook/openclaw-billing-proxy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
+  },
+  {
+    "repo": "spf13/viper",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go configuration with fangs"
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
+  },
+  {
+    "repo": "strapi/strapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+  },
+  {
+    "repo": "grafana/loki",
+    "branch": "main",
+    "language": "Go",
+    "description": "Like Prometheus, but for logs."
+  },
+  {
+    "repo": "google/sentencepiece",
+    "branch": "master",
+    "language": "C++",
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+  },
+  {
+    "repo": "PaddlePaddle/PaddleSpeech",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
+  },
+  {
+    "repo": "istio/istio",
+    "branch": "master",
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
+  },
+  {
+    "repo": "tqdm/tqdm",
     "branch": "master",
     "language": "Python",
-    "description": "ReactiveX for Python"
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
   },
   {
-    "repo": "chef/chef",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
-  },
-  {
-    "repo": "jgraph/drawio",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
-  },
-  {
-    "repo": "binhnguyennus/awesome-scalability",
+    "repo": "fastlane/supply",
     "branch": "master",
     "language": "Other",
-    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
   },
   {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
-    "branch": "main",
+    "repo": "tensorflow/datasets",
+    "branch": "master",
     "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
   },
   {
-    "repo": "docker/docker-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python library for the Docker Engine API"
+    "repo": "ziglang/zig",
+    "branch": "master",
+    "language": "Zig",
+    "description": "Moved to Codeberg"
   },
   {
-    "repo": "shallowdream204/BitDance",
-    "branch": "main",
-    "language": "Python",
-    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
+    "repo": "laravel/laravel",
+    "branch": "11.x",
+    "language": "Blade",
+    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
   },
   {
-    "repo": "sass/sass",
+    "repo": "antfu/ghfs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Sass makes CSS fun!"
+    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
   },
   {
-    "repo": "gluon-framework/gluon",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
-  },
-  {
-    "repo": "material-components/material-components-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Modular and customizable Material Design UI components for Android"
-  },
-  {
-    "repo": "JoshKale/jobs",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "element-hq/element-ios",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A glossy Matrix collaboration client for iOS"
-  },
-  {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "cosmiciron/vmprint",
+    "repo": "vercel/serve",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
+    "description": "Static file serving and directory listing"
   },
   {
-    "repo": "fluent/fluentd",
+    "repo": "balancer/balancer-v2-monorepo",
     "branch": "master",
-    "language": "Ruby",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
+    "language": "TypeScript",
+    "description": "Balancer V2 Monorepo"
+  },
+  {
+    "repo": "rustwasm/wasm-pack",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+  },
+  {
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "repo": "PowerShell/vscode-powershell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "branch": "master",
+    "language": "Python",
+    "description": "All Algorithms implemented in Python"
+  },
+  {
+    "repo": "poteto/brainmaxxing",
+    "branch": "main",
+    "language": "Python",
+    "description": "stupid simple persistent memory and skill improvement"
   },
   {
     "repo": "pytorch/serve",
     "branch": "master",
     "language": "Java",
     "description": "Serve, optimize and scale PyTorch models in production"
-  },
-  {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
-    "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
   }
 ]
