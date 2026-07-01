@@ -1,146 +1,146 @@
 [
   {
+    "repo": "async-rs/async-std",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Async version of the Rust standard library"
+  },
+  {
+    "repo": "0Voice/Expert_Readed_Books",
+    "branch": "master",
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+  },
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "branch": "master",
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "AI45Lab/TrinityGuard",
+    "branch": "master",
+    "language": "Python",
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
+  },
+  {
+    "repo": "vercel-labs/portless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+  },
+  {
+    "repo": "elastic/logstash",
+    "branch": "main",
+    "language": "Java",
+    "description": "Logstash - transport and process your logs, events, or other data"
+  },
+  {
+    "repo": "cisco-ai-defense/skill-scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Scanner for Agent Skills"
+  },
+  {
     "repo": "anl331/goey-toast",
     "branch": "main",
     "language": "TypeScript",
     "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
   },
   {
-    "repo": "zacdcook/openclaw-billing-proxy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
-  },
-  {
-    "repo": "spf13/viper",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go configuration with fangs"
-  },
-  {
-    "repo": "google/or-tools",
-    "branch": "stable",
-    "language": "C++",
-    "description": "Google's Operations Research tools:"
-  },
-  {
-    "repo": "strapi/strapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
-  },
-  {
-    "repo": "grafana/loki",
-    "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
-  },
-  {
-    "repo": "google/sentencepiece",
-    "branch": "master",
-    "language": "C++",
-    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
-  },
-  {
-    "repo": "spring-projects/spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
-  },
-  {
-    "repo": "PaddlePaddle/PaddleSpeech",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
-  },
-  {
-    "repo": "istio/istio",
-    "branch": "master",
-    "language": "Go",
-    "description": "Connect, secure, control, and observe services."
-  },
-  {
-    "repo": "tqdm/tqdm",
-    "branch": "master",
-    "language": "Python",
-    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
-  },
-  {
-    "repo": "fastlane/supply",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
-  },
-  {
-    "repo": "tensorflow/datasets",
-    "branch": "master",
-    "language": "Python",
-    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
-  },
-  {
-    "repo": "ziglang/zig",
-    "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
-  },
-  {
-    "repo": "laravel/laravel",
-    "branch": "11.x",
-    "language": "Blade",
-    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
-  },
-  {
-    "repo": "antfu/ghfs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
-  },
-  {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
-  },
-  {
-    "repo": "balancer/balancer-v2-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
-  },
-  {
-    "repo": "rustwasm/wasm-pack",
+    "repo": "DioxusLabs/dioxus",
     "branch": "master",
     "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+    "description": "Fullstack app framework for web, desktop, and mobile."
   },
   {
-    "repo": "Michaelliv/pi-generative-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
-  },
-  {
-    "repo": "TheAlgorithms/Python",
+    "repo": "reduxjs/redux",
     "branch": "master",
-    "language": "Python",
-    "description": "All Algorithms implemented in Python"
+    "language": "TypeScript",
+    "description": "A JS library for predictable global state management"
   },
   {
-    "repo": "poteto/brainmaxxing",
+    "repo": "pshycodr/airctl",
     "branch": "main",
     "language": "Python",
-    "description": "stupid simple persistent memory and skill improvement"
+    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
   },
   {
-    "repo": "pytorch/serve",
+    "repo": "godotengine/godot-proposals",
     "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
+    "language": "Other",
+    "description": "Godot Improvement Proposals (GIPs)"
+  },
+  {
+    "repo": "datavorous/sameshi",
+    "branch": "master",
+    "language": "C",
+    "description": "a ~1200 Elo chess engine that fits within 2KB"
+  },
+  {
+    "repo": "vapor/vapor",
+    "branch": "main",
+    "language": "Swift",
+    "description": "💧 A server-side Swift HTTP web framework."
+  },
+  {
+    "repo": "JStumpp/awesome-android",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Android packages and resources."
+  },
+  {
+    "repo": "data-science-on-aws/data-science-on-aws",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
+  },
+  {
+    "repo": "petergpt/bullshit-benchmark",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+  },
+  {
+    "repo": "PeonPing/peon-ping",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
+  },
+  {
+    "repo": "hashicorp/packer",
+    "branch": "main",
+    "language": "Go",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+  },
+  {
+    "repo": "actions/checkout",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Action for checking out a repo"
+  },
+  {
+    "repo": "wesm/agentsview",
+    "branch": "main",
+    "language": "Go",
+    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
+  },
+  {
+    "repo": "tonyqinatcmu/SlideBot-AI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
+  },
+  {
+    "repo": "roboflow/rf-detr",
+    "branch": "main",
+    "language": "Python",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
   }
 ]

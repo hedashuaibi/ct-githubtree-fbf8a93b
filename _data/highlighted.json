@@ -1,8 +1,8 @@
 {
-  "repo": "AndeFriday/Fall_Guys_Auto-Flip",
+  "repo": "RoushanKhalid/File_Encryption_Tool",
   "branch": "main",
   "language": "Python",
-  "description": "Auto-flip, speed boost, and crown farm for Fall Guys. Automatically flip after falling, move faster, earn crowns, and ignore collisions. Win every round.",
-  "stars": 217,
+  "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data.",
+  "stars": 216,
   "forks": 0
 }
