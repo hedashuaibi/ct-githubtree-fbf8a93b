@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nirholas/claude-code",
+    "repo": "helm/helm-www",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "language": "MDX",
+    "description": "The Helm website for docs, blog and project info."
   },
   {
-    "repo": "espressif/esp-claw",
-    "branch": "master",
-    "language": "C",
-    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
-  },
-  {
-    "repo": "garrytan/gbrain",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Garry's Opinionated OpenClaw Brain"
-  },
-  {
-    "repo": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades."
-  },
-  {
-    "repo": "Timeverse/My-TW-Coverage",
-    "branch": "master",
-    "language": "Python",
-    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
-  },
-  {
-    "repo": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
+    "repo": "microsoft/onnxruntime",
     "branch": "main",
     "language": "C++",
-    "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing"
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
   },
   {
-    "repo": "ericboy0224/learn-docker-and-k8s",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
-  },
-  {
-    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
-    "branch": "main",
+    "repo": "boto/boto3",
+    "branch": "develop",
     "language": "Python",
-    "description": ""
+    "description": "Boto3, an AWS SDK for Python"
   },
   {
-    "repo": "OpenMOSS/MOSS-Audio",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
-  },
-  {
-    "repo": "jxnxts/mcp-brasil",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP Server para 27 APIs públicas brasileiras"
-  },
-  {
-    "repo": "JuliusBrussee/cavemem",
+    "repo": "darkrishabh/agent-skills-eval",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default."
+    "description": "A test runner for agentskills.io-style AI agent skills"
   },
   {
-    "repo": "b3-fun/b3os",
+    "repo": "openhome-dev/abilities",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Open-source abilities for OpenHome agents."
+  },
+  {
+    "repo": "jazzband/pip-tools",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "B3OS is your automation platform for cross-chain workflows. Build automated strategies, schedule transactions, and execute complex on-chain operations."
+    "language": "Python",
+    "description": "A set of tools to keep your pinned Python dependencies fresh."
   },
   {
-    "repo": "foyzulkarim/claude-lens",
+    "repo": "dotnet/maui",
+    "branch": "main",
+    "language": "C#",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+  },
+  {
+    "repo": "stretchr/testify",
+    "branch": "master",
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+  },
+  {
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "PsiACE/skills",
     "branch": "main",
     "language": "HTML",
+    "description": "A small, shared skill library by builders, for builders."
+  },
+  {
+    "repo": "fastlane/supply",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+  },
+  {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "NateBJones-Projects/OB1",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
+  },
+  {
+    "repo": "kimjune01/cord",
+    "branch": "master",
+    "language": "Python",
+    "description": "A coordination protocol for trees of Claude Code agents"
+  },
+  {
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "repo": "godagoo/claude-telegram-relay",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+  },
+  {
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A light weight Python library for the Spotify Web API"
+  },
+  {
+    "repo": "Anuken/Mindustry",
+    "branch": "master",
+    "language": "Java",
+    "description": "The automation tower defense RTS"
+  },
+  {
+    "repo": "yazinsai/quran-validator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
+  },
+  {
+    "repo": "open-pencil/open-pencil",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AI-native design editor. Open-source Figma alternative."
+  },
+  {
+    "repo": "lerna/lerna",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+  },
+  {
+    "repo": "blacksiders/SkillPointer",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "joewongjc/type4me",
+    "repo": "letmutex/gitas",
     "branch": "main",
-    "language": "Swift",
-    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
-  },
-  {
-    "repo": "FlowTrader-Labs/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "Nightmare-Eclipse/RedSun",
-    "branch": "main",
-    "language": "C++",
-    "description": "The Red Sun vulnerability repository"
-  },
-  {
-    "repo": "DenisSergeevitch/repo-task-proof-loop",
-    "branch": "main",
-    "language": "Python",
-    "description": "Spec driven skill with subagents spawning"
-  },
-  {
-    "repo": "ps5-linux/ps5-linux-loader",
-    "branch": "main",
-    "language": "C",
-    "description": "Linux payload implementing the HV exploit and a custom bootloader"
-  },
-  {
-    "repo": "Octoberfest7/SilentHarvest_BOF",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique"
-  },
-  {
-    "repo": "hoquanghai/Auto-Create-Video",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "walter-grace/mac-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
-  },
-  {
-    "repo": "HKUDS-AI/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
-  },
-  {
-    "repo": "Maoleio/CPA-Codex-Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
-  },
-  {
-    "repo": "theja0473/automotive-claude-code-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automotive software engineering is one of the most complex and regulated domains in the world. Engineers juggle **ISO 26262 functional safety**, **AUTOSAR architectures**, **MISRA compliance**, **cybersecurity standards**, and **real-time embedded constraints** -- all while shipping on aggressive timelines."
+    "language": "Rust",
+    "description": "Git Account Switch"
   }
 ]
