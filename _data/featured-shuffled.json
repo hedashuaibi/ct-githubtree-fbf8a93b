@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta",
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "THUDM/ChatGLM-6B",
     "branch": "main",
     "language": "Python",
-    "description": "Boost your Pet Simulator 99 progress with the Peta trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
   },
   {
-    "repo": "certbot/certbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
-  },
-  {
-    "repo": "data-science-on-aws/data-science-on-aws",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
-  },
-  {
-    "repo": "rails/rails",
+    "repo": "hashicorp/vagrant",
     "branch": "main",
     "language": "Ruby",
-    "description": "Ruby on Rails"
+    "description": "Vagrant is a tool for building and distributing development environments."
   },
   {
-    "repo": "hashicorp/consul",
+    "repo": "goharbor/harbor",
     "branch": "main",
     "language": "Go",
-    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
   },
   {
-    "repo": "reduxjs/redux",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
+    "repo": "chartist/chartist",
+    "branch": "develop",
+    "language": "Ruby",
+    "description": "Final Project @ Makers Academy"
   },
   {
-    "repo": "BigBodyCobain/Shadowbroker",
+    "repo": "emotion-js/emotion",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
-  },
-  {
-    "repo": "EthanLipnik/Loom",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
-  },
-  {
-    "repo": "yarnpkg/yarn",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
   },
   {
-    "repo": "AlexsJones/llmfit",
+    "repo": "quarkusio/quarkus",
+    "branch": "main",
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
     "branch": "main",
     "language": "Rust",
-    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
   },
   {
-    "repo": "ethereum/go-ethereum",
+    "repo": "localstack/localstack",
     "branch": "master",
-    "language": "Go",
-    "description": "Go implementation of the Ethereum protocol"
-  },
-  {
-    "repo": "go-delve/delve",
-    "branch": "master",
-    "language": "Go",
-    "description": "Delve is a debugger for the Go programming language."
-  },
-  {
-    "repo": "nuxt/nuxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
-  },
-  {
-    "repo": "numpy/numpy",
-    "branch": "main",
     "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
   },
   {
-    "repo": "ninja-build/ninja",
-    "branch": "master",
-    "language": "C++",
-    "description": "a small build system with a focus on speed"
+    "repo": "dotnet/maui",
+    "branch": "main",
+    "language": "C#",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
   },
   {
-    "repo": "nocodb/nocodb",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+    "repo": "hossein8360/cdn-ip-finder",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CDN IP finder for ShirOKhorshid domain fronting"
   },
   {
-    "repo": "garrytan/gstack",
+    "repo": "muxprotocol/solana-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
+    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
   },
   {
-    "repo": "deepset-ai/haystack",
-    "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
-  },
-  {
-    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
-  },
-  {
-    "repo": "emacs-mirror/emacs",
-    "branch": "master",
-    "language": "Emacs Lisp",
-    "description": "Mirror of GNU Emacs"
-  },
-  {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid-swift",
+    "repo": "jaywcjlove/PermissionFlow",
     "branch": "main",
     "language": "Swift",
-    "description": "Native Mermaid diagram renderer for Swift"
+    "description": "A macOS library for guiding users through permission setup with System Settings deeplinks and drag-to-authorize support."
   },
   {
-    "repo": "deepseek-ai/DeepSeek-V3",
+    "repo": "simchowitzlabpublic/nano-world-model",
     "branch": "main",
     "language": "Python",
-    "description": "Vision-language models from DeepSeek research."
+    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science."
   },
   {
-    "repo": "ultralytics/yolov5",
+    "repo": "zhuyansen/wx-favorites-report",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+  },
+  {
+    "repo": "pvpoxx/PrismLauncherCrackedEly",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
+  },
+  {
+    "repo": "bergside/design-md-chrome",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
+  },
+  {
+    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
+  },
+  {
+    "repo": "activetheory/activeframe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
+  },
+  {
+    "repo": "SteveTheKiller/KillerPDF",
+    "branch": "master",
+    "language": "C#",
+    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+  },
+  {
+    "repo": "jingyaogong/minimind-o",
     "branch": "master",
     "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+  },
+  {
+    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
+    "branch": "main",
+    "language": "ShaderLab",
+    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
   }
 ]
