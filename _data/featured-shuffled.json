@@ -1,146 +1,146 @@
 [
   {
-    "repo": "helm/helm-www",
+    "repo": "apple/swift-nio",
     "branch": "main",
-    "language": "MDX",
-    "description": "The Helm website for docs, blog and project info."
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
   },
   {
-    "repo": "microsoft/onnxruntime",
-    "branch": "main",
-    "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
-  },
-  {
-    "repo": "boto/boto3",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
-  },
-  {
-    "repo": "darkrishabh/agent-skills-eval",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A test runner for agentskills.io-style AI agent skills"
-  },
-  {
-    "repo": "openhome-dev/abilities",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Open-source abilities for OpenHome agents."
-  },
-  {
-    "repo": "jazzband/pip-tools",
+    "repo": "PIPIKAI/auto-painter-win",
     "branch": "main",
     "language": "Python",
-    "description": "A set of tools to keep your pinned Python dependencies fresh."
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
   },
   {
-    "repo": "dotnet/maui",
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "agentic-in/elephant-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Personal-Model First Self Evolving AI Agent 🐘"
+  },
+  {
+    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
     "branch": "main",
     "language": "C#",
-    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
   },
   {
-    "repo": "stretchr/testify",
-    "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark remover"
-  },
-  {
-    "repo": "PsiACE/skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A small, shared skill library by builders, for builders."
-  },
-  {
-    "repo": "fastlane/supply",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
-  },
-  {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "NateBJones-Projects/OB1",
+    "repo": "PlaceNL2026/best-of-algorithmic-trading",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
+    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
   },
   {
-    "repo": "kimjune01/cord",
-    "branch": "master",
-    "language": "Python",
-    "description": "A coordination protocol for trees of Claude Code agents"
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
-  },
-  {
-    "repo": "spotipy-dev/spotipy",
-    "branch": "master",
-    "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
-  },
-  {
-    "repo": "Anuken/Mindustry",
-    "branch": "master",
-    "language": "Java",
-    "description": "The automation tower defense RTS"
-  },
-  {
-    "repo": "yazinsai/quran-validator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
-  },
-  {
-    "repo": "open-pencil/open-pencil",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
-  },
-  {
-    "repo": "lerna/lerna",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
-  },
-  {
-    "repo": "blacksiders/SkillPointer",
+    "repo": "machinefi/trio-retina",
     "branch": "main",
     "language": "Python",
+    "description": "Model-agnostic state layer for world models — turn any detector (YOLO · VLM · DINO) into one standard, queryable stream of events + latent state. numpy-only, runs on CPU at the edge."
+  },
+  {
+    "repo": "coder/boo",
+    "branch": "main",
+    "language": "Zig",
+    "description": "A GNU screen style terminal multiplexer built on libghostty."
+  },
+  {
+    "repo": "Happy-Chen-CH/Educational_RAG_System",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中"
+  },
+  {
+    "repo": "RoushanKhalid/File_Encryption_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
+  },
+  {
+    "repo": "863401402/she-love-me",
+    "branch": "main",
+    "language": "Python",
+    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
+  },
+  {
+    "repo": "r3xmax/PhantomCtx",
+    "branch": "main",
+    "language": "C",
+    "description": "Activation Context Hijacking Evasion Tool"
+  },
+  {
+    "repo": "apple/truetype-hinting-interpreter-example",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Swift TrueType Interpreter"
+  },
+  {
+    "repo": "wechat-miniprogram/ai-mode-demo",
+    "branch": "master",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "letmutex/gitas",
+    "repo": "briliwar0/glm-5.2-free-desktop-app",
     "branch": "main",
-    "language": "Rust",
-    "description": "Git Account Switch"
+    "language": "C#",
+    "description": "glm 5.2 free z.ai  llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup installation windows macos linux"
+  },
+  {
+    "repo": "halfof8/patterngen-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "vinayaklatthe/microsoft-security-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot"
+  },
+  {
+    "repo": "mohi-devhub/antivibe",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
+  },
+  {
+    "repo": "joeseesun/qiaomu-app-review-insights",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks."
+  },
+  {
+    "repo": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "branch": "main",
+    "language": "C++",
+    "description": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
+  },
+  {
+    "repo": "darialebedev8/Crypto-Clipper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cross-platform cryptocurrency clipboard utility with multi-chain address detection and validation for BTC, ETH, SOL, TRX, LTC, and DOGE. Supports regex-based matching, EIP-55, Base58, SegWit, and Taproot formats, activity logging, custom rules, clipboard history, and Windows, Linux, and macOS compatibility for wallet address management."
+  },
+  {
+    "repo": "Zafer-Liu/Agent_Manager",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。"
+  },
+  {
+    "repo": "hero8152/Infinite-Canvas",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Supports comfyui/API calls/modelscope calls"
+  },
+  {
+    "repo": "vercel-labs/mdxg",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Spec for markdown presentation and interaction"
   }
 ]
