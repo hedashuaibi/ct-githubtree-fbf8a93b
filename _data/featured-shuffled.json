@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LukeRenton/explore-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "THUDM/ChatGLM-6B",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
-  },
-  {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "goharbor/harbor",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
-  },
-  {
-    "repo": "chartist/chartist",
-    "branch": "develop",
-    "language": "Ruby",
-    "description": "Final Project @ Makers Academy"
-  },
-  {
-    "repo": "emotion-js/emotion",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
-  },
-  {
-    "repo": "quarkusio/quarkus",
-    "branch": "main",
-    "language": "Java",
-    "description": "Quarkus: Supersonic Subatomic Java."
-  },
-  {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-  },
-  {
-    "repo": "meilisearch/meilisearch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
-  },
-  {
-    "repo": "localstack/localstack",
-    "branch": "master",
-    "language": "Python",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
-  },
-  {
-    "repo": "dotnet/maui",
-    "branch": "main",
-    "language": "C#",
-    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
-  },
-  {
-    "repo": "hossein8360/cdn-ip-finder",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CDN IP finder for ShirOKhorshid domain fronting"
-  },
-  {
-    "repo": "muxprotocol/solana-trading-bot",
+    "repo": "nirholas/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   {
-    "repo": "jaywcjlove/PermissionFlow",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS library for guiding users through permission setup with System Settings deeplinks and drag-to-authorize support."
+    "repo": "espressif/esp-claw",
+    "branch": "master",
+    "language": "C",
+    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
   },
   {
-    "repo": "simchowitzlabpublic/nano-world-model",
+    "repo": "garrytan/gbrain",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Garry's Opinionated OpenClaw Brain"
+  },
+  {
+    "repo": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
     "branch": "main",
     "language": "Python",
-    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science."
+    "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades."
   },
   {
-    "repo": "zhuyansen/wx-favorites-report",
-    "branch": "main",
+    "repo": "Timeverse/My-TW-Coverage",
+    "branch": "master",
     "language": "Python",
-    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
   },
   {
-    "repo": "pvpoxx/PrismLauncherCrackedEly",
+    "repo": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
     "branch": "main",
     "language": "C++",
-    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
+    "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing"
   },
   {
-    "repo": "bergside/design-md-chrome",
+    "repo": "ericboy0224/learn-docker-and-k8s",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+    "language": "Shell",
+    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
   },
   {
-    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
     "branch": "main",
-    "language": "HTML",
-    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
+    "repo": "OpenMOSS/MOSS-Audio",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
+  },
+  {
+    "repo": "jxnxts/mcp-brasil",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP Server para 27 APIs públicas brasileiras"
+  },
+  {
+    "repo": "JuliusBrussee/cavemem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default."
   },
   {
-    "repo": "activetheory/activeframe",
+    "repo": "b3-fun/b3os",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
+    "language": "TypeScript",
+    "description": "B3OS is your automation platform for cross-chain workflows. Build automated strategies, schedule transactions, and execute complex on-chain operations."
   },
   {
-    "repo": "SteveTheKiller/KillerPDF",
-    "branch": "master",
-    "language": "C#",
-    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+    "repo": "foyzulkarim/claude-lens",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "jingyaogong/minimind-o",
-    "branch": "master",
+    "repo": "joewongjc/type4me",
+    "branch": "main",
+    "language": "Swift",
+    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
+  },
+  {
+    "repo": "FlowTrader-Labs/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "Nightmare-Eclipse/RedSun",
+    "branch": "main",
+    "language": "C++",
+    "description": "The Red Sun vulnerability repository"
+  },
+  {
+    "repo": "DenisSergeevitch/repo-task-proof-loop",
+    "branch": "main",
     "language": "Python",
-    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+    "description": "Spec driven skill with subagents spawning"
   },
   {
-    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
+    "repo": "ps5-linux/ps5-linux-loader",
     "branch": "main",
-    "language": "ShaderLab",
-    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
+    "language": "C",
+    "description": "Linux payload implementing the HV exploit and a custom bootloader"
+  },
+  {
+    "repo": "Octoberfest7/SilentHarvest_BOF",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique"
+  },
+  {
+    "repo": "hoquanghai/Auto-Create-Video",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "walter-grace/mac-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
+  },
+  {
+    "repo": "HKUDS-AI/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
+  },
+  {
+    "repo": "Maoleio/CPA-Codex-Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
+  },
+  {
+    "repo": "theja0473/automotive-claude-code-agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automotive software engineering is one of the most complex and regulated domains in the world. Engineers juggle **ISO 26262 functional safety**, **AUTOSAR architectures**, **MISRA compliance**, **cybersecurity standards**, and **real-time embedded constraints** -- all while shipping on aggressive timelines."
   }
 ]
