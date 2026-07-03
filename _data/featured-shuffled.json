@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apple/swift-nio",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+    "repo": "raspberrypi/documentation",
+    "branch": "master",
+    "language": "Python",
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
   },
   {
-    "repo": "PIPIKAI/auto-painter-win",
+    "repo": "GordenSun/mathVideoMaker",
     "branch": "main",
     "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+    "description": ""
   },
   {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
+    "repo": "cloudflare/quiche",
+    "branch": "master",
     "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
   },
   {
-    "repo": "agentic-in/elephant-agent",
+    "repo": "apache/httpcomponents-client",
+    "branch": "master",
+    "language": "Java",
+    "description": "Mirror of Apache HttpClient"
+  },
+  {
+    "repo": "mastodon/mastodon",
     "branch": "main",
+    "language": "Ruby",
+    "description": "Your self-hosted, globally interconnected microblogging community"
+  },
+  {
+    "repo": "locustio/locust",
+    "branch": "master",
     "language": "Python",
-    "description": "Personal-Model First Self Evolving AI Agent 🐘"
+    "description": "Write scalable load tests in plain Python 🚗💨"
   },
   {
-    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
+    "repo": "kubeedge/kubeedge",
+    "branch": "master",
+    "language": "Go",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+  },
+  {
+    "repo": "curl/curl",
+    "branch": "master",
+    "language": "C",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+  },
+  {
+    "repo": "fspecii/ace-step-ui",
     "branch": "main",
-    "language": "C#",
-    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
   },
   {
-    "repo": "PlaceNL2026/best-of-algorithmic-trading",
+    "repo": "ChownYourLife/paqet-tunnel",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "repo": "openperf/openclaw-cloud",
     "branch": "main",
     "language": "TypeScript",
-    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
   },
   {
-    "repo": "machinefi/trio-retina",
+    "repo": "microsoft/playwright",
     "branch": "main",
-    "language": "Python",
-    "description": "Model-agnostic state layer for world models — turn any detector (YOLO · VLM · DINO) into one standard, queryable stream of events + latent state. numpy-only, runs on CPU at the edge."
+    "language": "TypeScript",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
   },
   {
-    "repo": "coder/boo",
-    "branch": "main",
-    "language": "Zig",
-    "description": "A GNU screen style terminal multiplexer built on libghostty."
-  },
-  {
-    "repo": "Happy-Chen-CH/Educational_RAG_System",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中"
-  },
-  {
-    "repo": "RoushanKhalid/File_Encryption_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
-  },
-  {
-    "repo": "863401402/she-love-me",
-    "branch": "main",
-    "language": "Python",
-    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
-  },
-  {
-    "repo": "r3xmax/PhantomCtx",
-    "branch": "main",
-    "language": "C",
-    "description": "Activation Context Hijacking Evasion Tool"
-  },
-  {
-    "repo": "apple/truetype-hinting-interpreter-example",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Swift TrueType Interpreter"
-  },
-  {
-    "repo": "wechat-miniprogram/ai-mode-demo",
+    "repo": "webpack/webpack-dev-server",
     "branch": "master",
     "language": "JavaScript",
-    "description": ""
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
   },
   {
-    "repo": "briliwar0/glm-5.2-free-desktop-app",
-    "branch": "main",
-    "language": "C#",
-    "description": "glm 5.2 free z.ai  llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup installation windows macos linux"
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
+    "branch": "master",
+    "language": "Python",
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
   },
   {
-    "repo": "halfof8/patterngen-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "repo": "golangci/golangci-lint",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast linters runner for Go"
   },
   {
-    "repo": "vinayaklatthe/microsoft-security-skills",
+    "repo": "mksglu/claude-context-mode",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot"
+    "description": "Stop losing context to large outputs."
   },
   {
-    "repo": "mohi-devhub/antivibe",
+    "repo": "tw93/Kaku",
     "branch": "main",
-    "language": "Shell",
-    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
+    "language": "Rust",
+    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
   },
   {
-    "repo": "joeseesun/qiaomu-app-review-insights",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks."
-  },
-  {
-    "repo": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
-    "branch": "main",
-    "language": "C++",
-    "description": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
-  },
-  {
-    "repo": "darialebedev8/Crypto-Clipper",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cross-platform cryptocurrency clipboard utility with multi-chain address detection and validation for BTC, ETH, SOL, TRX, LTC, and DOGE. Supports regex-based matching, EIP-55, Base58, SegWit, and Taproot formats, activity logging, custom rules, clipboard history, and Windows, Linux, and macOS compatibility for wallet address management."
-  },
-  {
-    "repo": "Zafer-Liu/Agent_Manager",
+    "repo": "wagmi-dev/wagmi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。"
+    "description": "Reactive primitives for Ethereum apps"
   },
   {
-    "repo": "hero8152/Infinite-Canvas",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Supports comfyui/API calls/modelscope calls"
+    "repo": "minio/minio",
+    "branch": "master",
+    "language": "Go",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
   },
   {
-    "repo": "vercel-labs/mdxg",
+    "repo": "primefaces/primevue",
+    "branch": "master",
+    "language": "Vue",
+    "description": "Next Generation Vue UI Component Library"
+  },
+  {
+    "repo": "ufira-ai/Vibma",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Spec for markdown presentation and interaction"
+    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
+  },
+  {
+    "repo": "bwya77/vscode-dark-islands",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "VSCode theme based off the new Jetbrains islands theme"
+  },
+  {
+    "repo": "Uniswap/v2-core",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
   }
 ]
