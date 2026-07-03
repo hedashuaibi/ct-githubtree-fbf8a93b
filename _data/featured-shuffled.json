@@ -1,146 +1,146 @@
 [
   {
-    "repo": "florianmattana/sass-king",
+    "repo": "google/zx",
     "branch": "main",
-    "language": "Cuda",
-    "description": "Reverse engineering NVIDIA SASS  instruction dictionary, kernel audits and pattern recognition across GPU architectures."
-  },
-  {
-    "repo": "UnrealXu/UnrealEngine5-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "danielmiessler/fabric",
-    "branch": "main",
-    "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
-  },
-  {
-    "repo": "neovim/neovim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
-  },
-  {
-    "repo": "brackets-cont/brackets",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+    "description": "A tool for writing better scripts"
   },
   {
-    "repo": "sqlfluff/sqlfluff",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
-  },
-  {
-    "repo": "rust-lang/rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
-  },
-  {
-    "repo": "dapr/dapr",
-    "branch": "master",
-    "language": "Go",
-    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
-  },
-  {
-    "repo": "storybookjs/testing-react",
+    "repo": "DEV-OCR/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+    "description": "polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket  bot,"
   },
   {
-    "repo": "open-telemetry/opentelemetry-collector",
+    "repo": "ygwyg/agent-experience",
     "branch": "main",
-    "language": "Go",
-    "description": "OpenTelemetry Collector"
+    "language": "JavaScript",
+    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
   },
   {
-    "repo": "pytorch/serve",
+    "repo": "Alamofire/Alamofire",
     "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
+    "language": "Swift",
+    "description": "Elegant HTTP Networking in Swift"
   },
   {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "knative/eventing",
+    "repo": "h5bp/html5-boilerplate",
     "branch": "main",
-    "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
+    "language": "JavaScript",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
   },
   {
-    "repo": "cube-js/cube",
+    "repo": "BruceLanLan/bruceblue-ghostty-config",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+  },
+  {
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "rzru/nightingale",
     "branch": "master",
     "language": "Rust",
-    "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
+    "description": "Machine learning powered Karaoke app (with scores!)"
   },
   {
-    "repo": "Quick/Quick",
+    "repo": "kubernetes-sigs/kustomize",
+    "branch": "master",
+    "language": "Go",
+    "description": "Customization of kubernetes YAML configurations"
+  },
+  {
+    "repo": "garrytan/gstack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
+  },
+  {
+    "repo": "jackwener/boss-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
+  },
+  {
+    "repo": "ethers-io/ethers.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Complete Ethereum library and wallet implementation in JavaScript."
+  },
+  {
+    "repo": "sgInnora/alipay-deeplink-research",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
+  },
+  {
+    "repo": "ethanjyx/OpenBrand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
+  },
+  {
+    "repo": "actix/actix-web",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+  },
+  {
+    "repo": "heri1845/Polymarket-trading-tool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot. polymarket copy trading bot"
+  },
+  {
+    "repo": "TeleHuman/humanoid_skateboarding",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-backup",
+    "branch": "main",
+    "language": "Shell",
+    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Self-hosted AI coding assistant"
+  },
+  {
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
+  },
+  {
+    "repo": "r1cA18/screen-commentator",
     "branch": "main",
     "language": "Swift",
-    "description": "The Swift (and Objective-C) testing framework."
+    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
   },
   {
-    "repo": "jwasham/coding-interview-university",
-    "branch": "main",
-    "language": "Other",
-    "description": "A complete computer science study plan to become a software engineer."
-  },
-  {
-    "repo": "pyinstaller/pyinstaller",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Freeze (package) Python programs into stand-alone executables"
-  },
-  {
-    "repo": "plotly/dash",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "uuidjs/uuid",
+    "repo": "apollographql/apollo-server",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
   },
   {
-    "repo": "facebookresearch/audiocraft",
+    "repo": "zornade/visura-api",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+    "language": "Python",
+    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
   },
   {
-    "repo": "getredash/redash",
+    "repo": "Uniswap/v2-core",
     "branch": "master",
-    "language": "Python",
-    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
-  },
-  {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
-  },
-  {
-    "repo": "cloudflare/pingora",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A library for building fast, reliable and evolvable network services."
+    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
   }
 ]
