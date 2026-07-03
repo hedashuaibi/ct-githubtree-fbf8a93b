@@ -1,146 +1,146 @@
 [
   {
-    "repo": "raspberrypi/documentation",
-    "branch": "master",
-    "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
+    "repo": "duriantaco/fyn",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows."
   },
   {
-    "repo": "GordenSun/mathVideoMaker",
+    "repo": "crshdn/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
+  },
+  {
+    "repo": "ForLoopCodes/contextplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "repo": "fffaraz/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "repo": "Dokhacgiakhoa/google-antigravity",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "cloudflare/quiche",
+    "repo": "markets/awesome-ruby",
     "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    "language": "Other",
+    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
   },
   {
-    "repo": "apache/httpcomponents-client",
-    "branch": "master",
-    "language": "Java",
-    "description": "Mirror of Apache HttpClient"
-  },
-  {
-    "repo": "mastodon/mastodon",
+    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
     "branch": "main",
-    "language": "Ruby",
-    "description": "Your self-hosted, globally interconnected microblogging community"
-  },
-  {
-    "repo": "locustio/locust",
-    "branch": "master",
     "language": "Python",
-    "description": "Write scalable load tests in plain Python 🚗💨"
+    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
   },
   {
-    "repo": "kubeedge/kubeedge",
+    "repo": "bluewave-labs/dodopulse",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs"
+  },
+  {
+    "repo": "gsd-build/gsd-2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "miaoxworld/OpenClawInstaller",
+    "branch": "main",
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
+  },
+  {
+    "repo": "ziadoz/awesome-php",
     "branch": "master",
-    "language": "Go",
-    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   },
   {
-    "repo": "curl/curl",
+    "repo": "traderwillhu/market_dashboard",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "slowmist/openclaw-security-practice-guide",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
+  },
+  {
+    "repo": "Galaxy-Dawn/claude-scholar",
+    "branch": "main",
+    "language": "TeX",
+    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-WU",
+    "branch": "main",
+    "language": "Python",
+    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
+  },
+  {
+    "repo": "whisperbit-labs/zemzeme-android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
+  },
+  {
+    "repo": "Developer-Y/cs-video-courses",
+    "branch": "master",
+    "language": "Other",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "repo": "stedolan/jq",
     "branch": "master",
     "language": "C",
-    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+    "description": "Command-line JSON processor"
   },
   {
-    "repo": "fspecii/ace-step-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "ChownYourLife/paqet-tunnel",
+    "repo": "iJackUA/awesome-vagrant",
     "branch": "master",
-    "language": "Shell",
+    "language": "Other",
+    "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things."
+  },
+  {
+    "repo": "dazzyddos/PrivHound",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
+  },
+  {
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "nektos/act",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
-  },
-  {
-    "repo": "openperf/openclaw-cloud",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
-  },
-  {
-    "repo": "microsoft/playwright",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
-  },
-  {
-    "repo": "webpack/webpack-dev-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
-  },
-  {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
-    "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
-  },
-  {
-    "repo": "golangci/golangci-lint",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast linters runner for Go"
-  },
-  {
-    "repo": "mksglu/claude-context-mode",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
-  },
-  {
-    "repo": "tw93/Kaku",
+    "repo": "mroboff/vm-curator",
     "branch": "main",
     "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
   },
   {
-    "repo": "wagmi-dev/wagmi",
+    "repo": "cft0808/edict",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive primitives for Ethereum apps"
+    "language": "HTML",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
   },
   {
-    "repo": "minio/minio",
+    "repo": "minix3/minix",
     "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
-  },
-  {
-    "repo": "primefaces/primevue",
-    "branch": "master",
-    "language": "Vue",
-    "description": "Next Generation Vue UI Component Library"
-  },
-  {
-    "repo": "ufira-ai/Vibma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
-  },
-  {
-    "repo": "bwya77/vscode-dark-islands",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "VSCode theme based off the new Jetbrains islands theme"
-  },
-  {
-    "repo": "Uniswap/v2-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
+    "language": "Other",
+    "description": "Redirection to the real github page only."
   }
 ]

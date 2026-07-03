@@ -1,8 +1,8 @@
 {
-  "repo": "anisharul2006/Invoice_Generator",
+  "repo": "Hassanjan49/File_Association_Manager",
   "branch": "main",
   "language": "Python",
-  "description": "Create professional invoices, quotes, and receipts. Add your logo, client details, and items. Save and send PDF invoices instantly.",
+  "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations.",
   "stars": 252,
   "forks": 0
 }
