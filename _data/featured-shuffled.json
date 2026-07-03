@@ -1,146 +1,146 @@
 [
   {
-    "repo": "duriantaco/fyn",
+    "repo": "florianmattana/sass-king",
     "branch": "main",
-    "language": "Rust",
-    "description": "Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows."
+    "language": "Cuda",
+    "description": "Reverse engineering NVIDIA SASS  instruction dictionary, kernel audits and pattern recognition across GPU architectures."
   },
   {
-    "repo": "crshdn/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
-  },
-  {
-    "repo": "ForLoopCodes/contextplus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
-  },
-  {
-    "repo": "fffaraz/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
-  },
-  {
-    "repo": "Dokhacgiakhoa/google-antigravity",
+    "repo": "UnrealXu/UnrealEngine5-Skills",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "markets/awesome-ruby",
-    "branch": "master",
-    "language": "Other",
-    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
+    "repo": "danielmiessler/fabric",
+    "branch": "main",
+    "language": "Go",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
   },
   {
-    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
+    "repo": "neovim/neovim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
+  },
+  {
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+  },
+  {
+    "repo": "sqlfluff/sqlfluff",
     "branch": "main",
     "language": "Python",
-    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
+    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
   },
   {
-    "repo": "bluewave-labs/dodopulse",
+    "repo": "rust-lang/rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Empowering everyone to build reliable and efficient software."
+  },
+  {
+    "repo": "dapr/dapr",
+    "branch": "master",
+    "language": "Go",
+    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+  },
+  {
+    "repo": "storybookjs/testing-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTelemetry Collector"
+  },
+  {
+    "repo": "pytorch/serve",
+    "branch": "master",
+    "language": "Java",
+    "description": "Serve, optimize and scale PyTorch models in production"
+  },
+  {
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "repo": "knative/eventing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Event-driven application platform for Kubernetes"
+  },
+  {
+    "repo": "cube-js/cube",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
+  },
+  {
+    "repo": "Quick/Quick",
     "branch": "main",
     "language": "Swift",
-    "description": "A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs"
+    "description": "The Swift (and Objective-C) testing framework."
   },
   {
-    "repo": "gsd-build/gsd-2",
+    "repo": "jwasham/coding-interview-university",
+    "branch": "main",
+    "language": "Other",
+    "description": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "repo": "pyinstaller/pyinstaller",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Freeze (package) Python programs into stand-alone executables"
+  },
+  {
+    "repo": "plotly/dash",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "uuidjs/uuid",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
   },
   {
-    "repo": "miaoxworld/OpenClawInstaller",
+    "repo": "facebookresearch/audiocraft",
     "branch": "main",
-    "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "language": "Jupyter Notebook",
+    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
   },
   {
-    "repo": "ziadoz/awesome-php",
+    "repo": "getredash/redash",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "traderwillhu/market_dashboard",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "slowmist/openclaw-security-practice-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
-  },
-  {
-    "repo": "Galaxy-Dawn/claude-scholar",
-    "branch": "main",
-    "language": "TeX",
-    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-WU",
-    "branch": "main",
     "language": "Python",
-    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
   },
   {
-    "repo": "whisperbit-labs/zemzeme-android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
+    "repo": "mermaid-js/mermaid",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
   },
   {
-    "repo": "Developer-Y/cs-video-courses",
-    "branch": "master",
-    "language": "Other",
-    "description": "List of Computer Science courses with video lectures."
-  },
-  {
-    "repo": "stedolan/jq",
-    "branch": "master",
-    "language": "C",
-    "description": "Command-line JSON processor"
-  },
-  {
-    "repo": "iJackUA/awesome-vagrant",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things."
-  },
-  {
-    "repo": "dazzyddos/PrivHound",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
-  },
-  {
-    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "mroboff/vm-curator",
+    "repo": "cloudflare/pingora",
     "branch": "main",
     "language": "Rust",
-    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
-  },
-  {
-    "repo": "cft0808/edict",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
-  },
-  {
-    "repo": "minix3/minix",
-    "branch": "master",
-    "language": "Other",
-    "description": "Redirection to the real github page only."
+    "description": "A library for building fast, reliable and evolvable network services."
   }
 ]
