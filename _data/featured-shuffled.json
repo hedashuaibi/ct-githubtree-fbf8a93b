@@ -1,146 +1,146 @@
 [
   {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "agents-io/PokeClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
-  },
-  {
-    "repo": "toridawson1907244/XVapeV4-Client-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "⭐️ Minecraft Vape V4 2026 Latest Download Updated Version Client | Vape Minecraft Client Release New Build Patch Update Installer | Setup File Edition V4 2026 Newest Latest Download | Vape V4 Minecraft Update Installer Setup File Edition | Client V4 2026 Release New Build Patch Update New ⭐️"
-  },
-  {
-    "repo": "DanOps-1/Gpt-Agreement-Payment",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
-  },
-  {
-    "repo": "UnluckyNinja/SBTI-test",
-    "branch": "main",
-    "language": "HTML",
-    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
-  },
-  {
-    "repo": "haigechanlun/chanlun_auto_trading",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
-  },
-  {
-    "repo": "golbin/agent-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Reusable agent skills for Codex and compatible tools"
-  },
-  {
-    "repo": "tanbiralam/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
-  },
-  {
-    "repo": "timhartmann7/omnyssh",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
-  },
-  {
-    "repo": "0Chencc/clawgod",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "cksac/turboquant-model",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "andthattoo/structured-cot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Structured Chain-of-Thought"
-  },
-  {
-    "repo": "ZeroAd-06/MAACodex",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "seulee26/mckinsey-pptx",
-    "branch": "main",
-    "language": "Python",
-    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
-  },
-  {
-    "repo": "alaeelhariri/iut-db-final-project",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "chabba1234/Claude-Design-By-Anthropic",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Free Claude Desktop - Designed by Anthropic is a beautiful and free desktop application for Claude AI. Enjoy fast chatting, advanced coding, writing assistance, and a modern elegant interface optimized for Windows users."
-  },
-  {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
-  },
-  {
-    "repo": "saltpi/Aria.X",
-    "branch": "main",
-    "language": "C++",
-    "description": "AriaX: The Ultimate Download Manager for Apple Users"
-  },
-  {
-    "repo": "millionco/debug-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Debugging skill for AI agents"
-  },
-  {
-    "repo": "santifer/career-ops",
+    "repo": "tastyeffectco/sandboxd",
     "branch": "main",
     "language": "Go",
-    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
   },
   {
-    "repo": "leigest519/OpenGame",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenGame: Open Agentic Coding for Games"
+    "repo": "SnapKit/SnapKit",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A Swift Autolayout DSL for iOS & OS X"
   },
   {
-    "repo": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
-    "branch": "main",
-    "language": "C",
-    "description": "Copy Fail 2: Electric Boogaloo"
-  },
-  {
-    "repo": "NyxFoundation/speca",
+    "repo": "Vacutagin/GameEnhancementSuite",
     "branch": "main",
     "language": "Python",
-    "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
+    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+  },
+  {
+    "repo": "helenigtxu/TradingView-Claw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "Cranot/agi-in-md",
+    "branch": "master",
+    "language": "Python",
+    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+  },
+  {
+    "repo": "theforeveriris/simulated-12306-view",
+    "branch": "main",
+    "language": "HTML",
+    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Open Source Computer Vision Library"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "branch": "master",
+    "language": "Go",
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+  },
+  {
+    "repo": "openai/whisper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+  },
+  {
+    "repo": "googleworkspace/cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+  },
+  {
+    "repo": "eooce/python-ws",
+    "branch": "main",
+    "language": "Python",
+    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
+  },
+  {
+    "repo": "Homebrew/brew",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
+  },
+  {
+    "repo": "AssemblyScript/assemblyscript",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "A TypeScript-like language for WebAssembly."
+  },
+  {
+    "repo": "jackwener/wechat-article-to-markdown",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
+  },
+  {
+    "repo": "joeseesun/word-root-workshop",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词"
+  },
+  {
+    "repo": "godotengine/godot-proposals",
+    "branch": "master",
+    "language": "Other",
+    "description": "Godot Improvement Proposals (GIPs)"
+  },
+  {
+    "repo": "maile456/qq-farm-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "branch": "master",
+    "language": "Python",
+    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
+  },
+  {
+    "repo": "firebase/firebase-android-sdk",
+    "branch": "master",
+    "language": "Java",
+    "description": "Firebase Android SDK"
   }
 ]
