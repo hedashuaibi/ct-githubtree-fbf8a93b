@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hashicorp/nomad",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
-  },
-  {
-    "repo": "RastProxy88/Zephyr-Executor-Free-Roblox-Executor-PC-No-Key-Required-2026",
-    "branch": "main",
-    "language": "Lua",
-    "description": "Free undetected Roblox script executor with instant injection, full UNC support, and no key system. Clean UI, built-in script hub, regular updates."
-  },
-  {
-    "repo": "ant-design/ant-design-pro",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
-  },
-  {
-    "repo": "invertase/react-native-firebase",
+    "repo": "formik/formik",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+    "description": "Build forms in React, without the tears 😭"
   },
   {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "test-time-training/ttt-video-dit",
+    "repo": "agents-io/PokeClaw",
     "branch": "main",
-    "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+    "language": "Kotlin",
+    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
   },
   {
-    "repo": "colinhacks/zod",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TypeScript-first schema validation with static type inference"
-  },
-  {
-    "repo": "dagger/dagger",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
-  },
-  {
-    "repo": "openai/shap-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
-  },
-  {
-    "repo": "raspberrypi/firmware",
-    "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
-  },
-  {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
-  },
-  {
-    "repo": "nteract/nteract",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📘 The interactive computing suite for you!  ✨"
-  },
-  {
-    "repo": "payloadcms/payload",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
-  },
-  {
-    "repo": "gcc-mirror/gcc",
-    "branch": "master",
-    "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
-  },
-  {
-    "repo": "dgreenheck/webgpu-claude-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Claude skill for developing WebGPU applications with Three.js"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
+    "repo": "toridawson1907244/XVapeV4-Client-2026",
     "branch": "main",
     "language": "C++",
-    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
+    "description": "⭐️ Minecraft Vape V4 2026 Latest Download Updated Version Client | Vape Minecraft Client Release New Build Patch Update Installer | Setup File Edition V4 2026 Newest Latest Download | Vape V4 Minecraft Update Installer Setup File Edition | Client V4 2026 Release New Build Patch Update New ⭐️"
   },
   {
-    "repo": "ula7i921011/React2Shell-Scanner",
+    "repo": "DanOps-1/Gpt-Agreement-Payment",
     "branch": "main",
     "language": "Python",
-    "description": "React2Shell Scanner"
+    "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
   },
   {
-    "repo": "guardrailsio/awesome-python-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "Awesome Python Security resources 🕶🐍🔐"
+    "repo": "UnluckyNinja/SBTI-test",
+    "branch": "main",
+    "language": "HTML",
+    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
   },
   {
-    "repo": "wader/fq",
-    "branch": "master",
-    "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
+    "repo": "haigechanlun/chanlun_auto_trading",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
   },
   {
-    "repo": "Conway-Research/automaton",
+    "repo": "golbin/agent-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Reusable agent skills for Codex and compatible tools"
+  },
+  {
+    "repo": "tanbiralam/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
   },
   {
-    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
+    "repo": "timhartmann7/omnyssh",
     "branch": "main",
     "language": "Rust",
-    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
+    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
   },
   {
-    "repo": "Xuanwo/xurl",
+    "repo": "0Chencc/clawgod",
     "branch": "main",
-    "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
+    "language": "PowerShell",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
   },
   {
-    "repo": "doctrine/orm",
-    "branch": "3.2.x",
-    "language": "PHP",
-    "description": "Doctrine Object Relational Mapper (ORM)"
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+  },
+  {
+    "repo": "cksac/turboquant-model",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "andthattoo/structured-cot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Structured Chain-of-Thought"
+  },
+  {
+    "repo": "ZeroAd-06/MAACodex",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "seulee26/mckinsey-pptx",
+    "branch": "main",
+    "language": "Python",
+    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "chabba1234/Claude-Design-By-Anthropic",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Free Claude Desktop - Designed by Anthropic is a beautiful and free desktop application for Claude AI. Enjoy fast chatting, advanced coding, writing assistance, and a modern elegant interface optimized for Windows users."
+  },
+  {
+    "repo": "DoomVoss/BASpark",
+    "branch": "main",
+    "language": "C#",
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+  },
+  {
+    "repo": "saltpi/Aria.X",
+    "branch": "main",
+    "language": "C++",
+    "description": "AriaX: The Ultimate Download Manager for Apple Users"
+  },
+  {
+    "repo": "millionco/debug-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Debugging skill for AI agents"
+  },
+  {
+    "repo": "santifer/career-ops",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+  },
+  {
+    "repo": "leigest519/OpenGame",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenGame: Open Agentic Coding for Games"
+  },
+  {
+    "repo": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
+    "branch": "main",
+    "language": "C",
+    "description": "Copy Fail 2: Electric Boogaloo"
+  },
+  {
+    "repo": "NyxFoundation/speca",
+    "branch": "main",
+    "language": "Python",
+    "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
   }
 ]
