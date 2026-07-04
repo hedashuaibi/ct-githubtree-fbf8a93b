@@ -1,146 +1,146 @@
 [
   {
-    "repo": "google/zx",
+    "repo": "hashicorp/nomad",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A tool for writing better scripts"
+    "language": "Go",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
   },
   {
-    "repo": "DEV-OCR/polymarket-arbitrage-trading-bot",
+    "repo": "RastProxy88/Zephyr-Executor-Free-Roblox-Executor-PC-No-Key-Required-2026",
+    "branch": "main",
+    "language": "Lua",
+    "description": "Free undetected Roblox script executor with instant injection, full UNC support, and no key system. Clean UI, built-in script hub, regular updates."
+  },
+  {
+    "repo": "ant-design/ant-design-pro",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
+  },
+  {
+    "repo": "invertase/react-native-firebase",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket  bot,"
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
   },
   {
-    "repo": "ygwyg/agent-experience",
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "test-time-training/ttt-video-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+  },
+  {
+    "repo": "colinhacks/zod",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "repo": "dagger/dagger",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+  },
+  {
+    "repo": "openai/shap-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate 3D objects conditioned on text or images"
+  },
+  {
+    "repo": "raspberrypi/firmware",
+    "branch": "master",
+    "language": "Other",
+    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+  },
+  {
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+  },
+  {
+    "repo": "nteract/nteract",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📘 The interactive computing suite for you!  ✨"
+  },
+  {
+    "repo": "payloadcms/payload",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
+  },
+  {
+    "repo": "dgreenheck/webgpu-claude-skill",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
+    "description": "A Claude skill for developing WebGPU applications with Three.js"
   },
   {
-    "repo": "Alamofire/Alamofire",
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
     "branch": "master",
-    "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
-  },
-  {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+    "description": "A React-Native datetime-picker for Android and iOS"
   },
   {
-    "repo": "BruceLanLan/bruceblue-ghostty-config",
+    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
     "branch": "main",
-    "language": "Makefile",
-    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+    "language": "C++",
+    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
   },
   {
-    "repo": "openai/triton",
+    "repo": "ula7i921011/React2Shell-Scanner",
     "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
+    "language": "Python",
+    "description": "React2Shell Scanner"
   },
   {
-    "repo": "rzru/nightingale",
+    "repo": "guardrailsio/awesome-python-security",
     "branch": "master",
-    "language": "Rust",
-    "description": "Machine learning powered Karaoke app (with scores!)"
+    "language": "Other",
+    "description": "Awesome Python Security resources 🕶🐍🔐"
   },
   {
-    "repo": "kubernetes-sigs/kustomize",
+    "repo": "wader/fq",
     "branch": "master",
     "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
+    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
   },
   {
-    "repo": "garrytan/gstack",
+    "repo": "Conway-Research/automaton",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
+    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
   },
   {
-    "repo": "jackwener/boss-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
-  },
-  {
-    "repo": "ethers-io/ethers.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Complete Ethereum library and wallet implementation in JavaScript."
-  },
-  {
-    "repo": "sgInnora/alipay-deeplink-research",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
-  },
-  {
-    "repo": "ethanjyx/OpenBrand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
-  },
-  {
-    "repo": "actix/actix-web",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
-  },
-  {
-    "repo": "heri1845/Polymarket-trading-tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot. polymarket copy trading bot"
-  },
-  {
-    "repo": "TeleHuman/humanoid_skateboarding",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
-  },
-  {
-    "repo": "LeoYeAI/openclaw-backup",
-    "branch": "main",
-    "language": "Shell",
-    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "TabbyML/tabby",
+    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
     "branch": "main",
     "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
+    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
   },
   {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "repo": "Xuanwo/xurl",
     "branch": "main",
     "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
+    "description": "xURL: Client for AI Agents URLs"
   },
   {
-    "repo": "r1cA18/screen-commentator",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
-  },
-  {
-    "repo": "apollographql/apollo-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
-  },
-  {
-    "repo": "zornade/visura-api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
-  },
-  {
-    "repo": "Uniswap/v2-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
+    "repo": "doctrine/orm",
+    "branch": "3.2.x",
+    "language": "PHP",
+    "description": "Doctrine Object Relational Mapper (ORM)"
   }
 ]
