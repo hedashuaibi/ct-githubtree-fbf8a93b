@@ -1,51 +1,9 @@
 [
   {
-    "repo": "tensorflow/hub",
+    "repo": "AITabby/opencodex",
     "branch": "master",
-    "language": "Python",
-    "description": "A library for transfer learning by reusing parts of TensorFlow models."
-  },
-  {
-    "repo": "stonerl/Thaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Menu bar manager for macOS"
-  },
-  {
-    "repo": "mockito/mockito",
-    "branch": "main",
-    "language": "Java",
-    "description": "Most popular Mocking framework for unit tests written in Java"
-  },
-  {
-    "repo": "CalyxOS/calyxos",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
-  },
-  {
-    "repo": "GoogleContainerTools/jib",
-    "branch": "master",
-    "language": "Java",
-    "description": "🏗 Build container images for your Java applications."
-  },
-  {
-    "repo": "encode/starlette",
-    "branch": "master",
-    "language": "Python",
-    "description": "The little ASGI framework that shines. 🌟"
-  },
-  {
-    "repo": "graphql/dataloader",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
-  },
-  {
-    "repo": "dzhng/skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
   },
   {
     "repo": "PowerShell/vscode-powershell",
@@ -54,40 +12,82 @@
     "description": "Provides PowerShell language and debugging support for Visual Studio Code"
   },
   {
-    "repo": "DaveMoudy/SalesforceDocGen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "ktorio/ktor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
+    "repo": "zubair-trabzada/ai-marketing-claude",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark remover"
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
   },
   {
-    "repo": "MeisnerDan/mission-control",
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "glommer/cachebro",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
   },
   {
-    "repo": "kubernetes-sigs/kustomize",
-    "branch": "master",
-    "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
-  },
-  {
-    "repo": "paid-tw/skills",
+    "repo": "antfu/skills-npm",
     "branch": "main",
-    "language": "PHP",
-    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "marshallrichards/ClawPhone",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tweaks for running OpenClaw on a Android smartphone"
+  },
+  {
+    "repo": "onevcat/Kingfisher",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
+  },
+  {
+    "repo": "mroboff/vm-curator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
+  },
+  {
+    "repo": "jina-ai/jina",
+    "branch": "main",
+    "language": "Python",
+    "description": "☁️ Build multimodal AI applications with cloud-native stack"
+  },
+  {
+    "repo": "facebookresearch/xformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hackable and optimized Transformers building blocks, supporting a composable construction."
+  },
+  {
+    "repo": "Kylsky/chatgpt-team-helper",
+    "branch": "main",
+    "language": "Vue",
+    "description": "一站式Team账号管理"
+  },
+  {
+    "repo": "Aircoookie/WLED",
+    "branch": "main",
+    "language": "C++",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+  },
+  {
+    "repo": "nickustinov/itsytv-macos",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The missing Apple TV remote app for macOS"
+  },
+  {
+    "repo": "microsoft/ML-For-Beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
   },
   {
     "repo": "grpc/grpc-java",
@@ -96,51 +96,51 @@
     "description": "The Java gRPC implementation. HTTP/2 based RPC"
   },
   {
-    "repo": "blendi-remade/sprite-sheet-creator",
+    "repo": "zai-org/GLM-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
+  },
+  {
+    "repo": "terausss/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "webpack-contrib/style-loader",
     "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "olucasandrade/youjustneedpostgres",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "unicodeveloper/globalthreatmap",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
-  },
-  {
-    "repo": "Leaflet/Leaflet",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦"
+    "description": "Style Loader"
   },
   {
-    "repo": "superturtlee/gbl_root_canoe",
-    "branch": "main",
-    "language": "C",
-    "description": "凭什么ROOT就不给用指纹支付？？？"
-  },
-  {
-    "repo": "GHJJ123/brainrotguard",
-    "branch": "main",
-    "language": "Python",
-    "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI"
-  },
-  {
-    "repo": "binhanchen25-arch/agent_plus",
+    "repo": "pytest-dev/pytest-cov",
     "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Coverage plugin for pytest."
+  },
+  {
+    "repo": "mosaicml/llm-foundry",
+    "branch": "main",
+    "language": "Python",
+    "description": "LLM training code for Databricks foundation models"
+  },
+  {
+    "repo": "vitest-dev/vitest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next generation testing framework powered by Vite."
+  },
+  {
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "30-seconds/30-seconds-of-code",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Coding articles to level up your development skills"
   }
 ]

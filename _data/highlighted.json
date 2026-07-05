@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Python",
   "description": "OKF-powered knowledge context for Claude Code — injects your project's knowledge base at every session",
-  "stars": 109,
-  "forks": 13
+  "stars": 110,
+  "forks": 14
 }
