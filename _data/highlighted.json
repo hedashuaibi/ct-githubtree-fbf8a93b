@@ -1,8 +1,8 @@
 {
-  "repo": "texel-org/windfoil",
+  "repo": "guhcostan/claude-mega-brain",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-  "stars": 121,
-  "forks": 1
+  "language": "Python",
+  "description": "OKF-powered knowledge context for Claude Code — injects your project's knowledge base at every session",
+  "stars": 109,
+  "forks": 13
 }
