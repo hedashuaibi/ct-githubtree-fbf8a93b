@@ -1,8 +1,8 @@
 {
-  "repo": "srinivasand2022/nhentai-harvester",
+  "repo": "Chozzc/Lujie-Careerkit",
   "branch": "main",
-  "language": "HTML",
-  "description": "Best NHentai Downloader Tool 2026 – Fast Manga & Doujin Saver",
-  "stars": 151,
-  "forks": 0
+  "language": "TypeScript",
+  "description": "An AI-powered career workspace from resume editing to offer acceptance, covering resume editing, JD matching, application tracking, mock interviews, and interview review.",
+  "stars": 119,
+  "forks": 5
 }
