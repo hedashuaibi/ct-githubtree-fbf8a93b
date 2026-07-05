@@ -1,8 +1,8 @@
 {
-  "repo": "Chozzc/Lujie-Careerkit",
+  "repo": "texel-org/windfoil",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "An AI-powered career workspace from resume editing to offer acceptance, covering resume editing, JD matching, application tracking, mock interviews, and interview review.",
-  "stars": 119,
-  "forks": 5
+  "language": "JavaScript",
+  "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+  "stars": 121,
+  "forks": 1
 }

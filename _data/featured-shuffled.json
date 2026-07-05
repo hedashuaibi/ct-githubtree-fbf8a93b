@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sireeshs14/Discord-Nitro-Sniper-Automation-Framework",
+    "repo": "open-telemetry/opentelemetry-python",
     "branch": "main",
-    "language": "HTML",
-    "description": "Ultimate Discord Giveaway Auto-Enter & Nitro Sniper Tool 2026"
+    "language": "Python",
+    "description": "OpenTelemetry Python API and SDK"
   },
   {
-    "repo": "fabro-sh/fabro",
-    "branch": "main",
-    "language": "Rust",
-    "description": "⚒️ The open source dark software factory for expert engineers."
+    "repo": "wasabeef/awesome-android-ui",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Android UI/UX libraries"
   },
   {
-    "repo": "vkehfdl1/slides-grab",
+    "repo": "shareAI-lab/claw0",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Select context for agents directly from AI-generated HTML slides"
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
   },
   {
-    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
+    "repo": "miantiao-me/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent"
   },
   {
-    "repo": "epiral/agent-clip",
+    "repo": "GuDaStudio/commands",
     "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+    "language": "PowerShell",
+    "description": ""
   },
   {
-    "repo": "outsourc-e/hermes-workspace",
+    "repo": "wenqingyu/ralphy-openspec",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon."
+    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
   },
   {
-    "repo": "byJoey/openclawctl",
+    "repo": "op7418/Video-Wrapper-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
+  },
+  {
+    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
+  },
+  {
+    "repo": "cloudflare/moltworker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
+  },
+  {
+    "repo": "vueuse/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent Skills for VueUse"
+  },
+  {
+    "repo": "FranckyB/Voice-Clone-Studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+  },
+  {
+    "repo": "mco-org/mco",
+    "branch": "main",
+    "language": "Python",
+    "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell."
+  },
+  {
+    "repo": "autoclaw-cc/xiaohongshu-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "xiaohongshu-skills"
+  },
+  {
+    "repo": "bytedance/Bernini",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+  },
+  {
+    "repo": "Zaneham/BarraCUDA",
+    "branch": "master",
+    "language": "C",
+    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+  },
+  {
+    "repo": "shenhao-stu/openclaw-agents",
     "branch": "main",
     "language": "Shell",
-    "description": ""
+    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
   },
   {
-    "repo": "wsargent/docker-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "Docker Cheat Sheet"
-  },
-  {
-    "repo": "friendlymatthew/gabagool",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Snapshotable WebAssembly interpreter from scratch"
-  },
-  {
-    "repo": "facebookresearch/actionmesh",
-    "branch": "main",
-    "language": "Python",
-    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
-  },
-  {
-    "repo": "techwithtim/Flask-Web-App-Tutorial",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Code for the note storing flask web app made during a YouTube video."
-  },
-  {
-    "repo": "coleam00/excalidraw-diagram-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
-  },
-  {
-    "repo": "op7418/Youtube-clipper-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "bregman-arie/devops-exercises",
-    "branch": "master",
-    "language": "Python",
-    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
-  },
-  {
-    "repo": "vercel-labs/webreel",
+    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
+    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
   },
   {
-    "repo": "ylytdeng/wechat-decrypt",
+    "repo": "PIPIKAI/auto-painter-win",
     "branch": "main",
     "language": "Python",
-    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
   },
   {
-    "repo": "humiaozuzu/awesome-flask",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Flask resources and plugins"
-  },
-  {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
-  },
-  {
-    "repo": "stepfun-ai/Step-3.5-Flash",
+    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
     "branch": "main",
-    "language": "C++",
-    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "lukehinds/nono",
+    "repo": "glommer/codemogger",
     "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
+    "language": "TypeScript",
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
   },
   {
-    "repo": "flamestro/deff",
+    "repo": "L42ARO/Mercury-Transforming-Drone",
     "branch": "main",
-    "language": "Rust",
-    "description": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
+    "language": "Python",
+    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
   },
   {
-    "repo": "Resinat/Resin",
-    "branch": "master",
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "praetorian-inc/augustus",
+    "branch": "main",
     "language": "Go",
-    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
+    "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary"
   },
   {
-    "repo": "TheOdinProject/css-exercises",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A repository for practicing CSS concepts."
-  },
-  {
-    "repo": "hehehai/voxt",
-    "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+    "repo": "MapleShaw/yt-dlp-downloader-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
   }
 ]
