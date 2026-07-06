@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AITabby/opencodex",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
-  },
-  {
-    "repo": "zubair-trabzada/ai-marketing-claude",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "glommer/cachebro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
-  },
-  {
-    "repo": "antfu/skills-npm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Install agent skills from npm"
-  },
-  {
-    "repo": "marshallrichards/ClawPhone",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tweaks for running OpenClaw on a Android smartphone"
-  },
-  {
-    "repo": "onevcat/Kingfisher",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
-  },
-  {
-    "repo": "mroboff/vm-curator",
-    "branch": "main",
-    "language": "Rust",
-    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
-  },
-  {
-    "repo": "jina-ai/jina",
-    "branch": "main",
-    "language": "Python",
-    "description": "☁️ Build multimodal AI applications with cloud-native stack"
-  },
-  {
-    "repo": "facebookresearch/xformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hackable and optimized Transformers building blocks, supporting a composable construction."
-  },
-  {
-    "repo": "Kylsky/chatgpt-team-helper",
-    "branch": "main",
-    "language": "Vue",
-    "description": "一站式Team账号管理"
-  },
-  {
-    "repo": "Aircoookie/WLED",
+    "repo": "dannyhsueh2/Forza-Horizon-6-Premium",
     "branch": "main",
     "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+    "description": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J50, Mazda Furai. Expansion 1, Expansion 2, I, , pre-load PC Steam, Game Pass Ultimate."
   },
   {
-    "repo": "nickustinov/itsytv-macos",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
-  },
-  {
-    "repo": "microsoft/ML-For-Beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
-  },
-  {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
-  },
-  {
-    "repo": "zai-org/GLM-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
-  },
-  {
-    "repo": "terausss/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "webpack-contrib/style-loader",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Style Loader"
-  },
-  {
-    "repo": "pytest-dev/pytest-cov",
+    "repo": "tensorflow/agents",
     "branch": "master",
     "language": "Python",
-    "description": "Coverage plugin for pytest."
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
   },
   {
-    "repo": "mosaicml/llm-foundry",
-    "branch": "main",
-    "language": "Python",
-    "description": "LLM training code for Databricks foundation models"
-  },
-  {
-    "repo": "vitest-dev/vitest",
+    "repo": "strapi/strapi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Next generation testing framework powered by Vite."
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
   },
   {
-    "repo": "openai/triton",
+    "repo": "Mathews-Tom/no-magic",
     "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
+    "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
   },
   {
-    "repo": "30-seconds/30-seconds-of-code",
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "fluent/fluentd",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
+  },
+  {
+    "repo": "webpack-contrib/terser-webpack-plugin",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Coding articles to level up your development skills"
+    "description": "Terser Plugin"
+  },
+  {
+    "repo": "crshdn/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
+  },
+  {
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+  },
+  {
+    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "pynecone-io/pynecone",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "ruffle-rs/ruffle",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Flash Player emulator written in Rust"
+  },
+  {
+    "repo": "vueuse/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent Skills for VueUse"
+  },
+  {
+    "repo": "six2dez/burp-ai-agent",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+  },
+  {
+    "repo": "langchain-ai/langchainjs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦜🔗 Build context-aware reasoning applications"
+  },
+  {
+    "repo": "Danm72/home-assistant-automation-suggestions",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
+  },
+  {
+    "repo": "matrix-org/synapse",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Synapse: Matrix homeserver written in Python/Twisted."
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
+    "language": "Rust",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+  },
+  {
+    "repo": "envoyproxy/envoy",
+    "branch": "main",
+    "language": "C++",
+    "description": "Cloud-native high-performance edge/middle/service proxy"
+  },
+  {
+    "repo": "apollographql/graphql-subscriptions",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
+  },
+  {
+    "repo": "data-science-on-aws/data-science-on-aws",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
+  },
+  {
+    "repo": "acedef/SynthAPT",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Generate malware with AI"
+  },
+  {
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   }
 ]

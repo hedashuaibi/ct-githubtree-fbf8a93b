@@ -1,8 +1,8 @@
 {
-  "repo": "guhcostan/claude-mega-brain",
+  "repo": "xsser/codex-jailbreak-guide",
   "branch": "main",
   "language": "Python",
-  "description": "OKF-powered knowledge context for Claude Code — injects your project's knowledge base at every session",
-  "stars": 110,
-  "forks": 14
+  "description": "Codex CLI jailbreak guide — customizing system prompt via model_instructions_file config",
+  "stars": 117,
+  "forks": 22
 }
