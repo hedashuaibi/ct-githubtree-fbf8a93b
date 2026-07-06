@@ -1,146 +1,146 @@
 [
   {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "PentHertz/grimoire",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offensive knowledge, offline. One search box for every playbook."
-  },
-  {
-    "repo": "susanudgzf/Aave-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "bwya77/vscode-dark-islands",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "VSCode theme based off the new Jetbrains islands theme"
-  },
-  {
-    "repo": "jina-ai/jina",
-    "branch": "main",
-    "language": "Python",
-    "description": "☁️ Build multimodal AI applications with cloud-native stack"
-  },
-  {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "originalankur/GenerateAgents.md",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
-  },
-  {
-    "repo": "termux/termux-app",
+    "repo": "aave/aave-v3-core",
     "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+    "language": "TypeScript",
+    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
   },
   {
-    "repo": "Danm72/home-assistant-automation-suggestions",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
-  },
-  {
-    "repo": "data-science-on-aws/data-science-on-aws",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
-  },
-  {
-    "repo": "nginx/nginx",
-    "branch": "master",
-    "language": "C",
-    "description": "The official NGINX Open Source repository."
-  },
-  {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
-  },
-  {
-    "repo": "simonw/cia-world-factbook-2020",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
-  },
-  {
-    "repo": "HackingDave/nightwire",
-    "branch": "main",
-    "language": "Python",
-    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
-  },
-  {
-    "repo": "apollographql/apollo-server",
+    "repo": "x1xhlol/better-clawd",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
   },
   {
-    "repo": "AAAAAAAJ/slides",
+    "repo": "EthanLipnik/Loom",
     "branch": "main",
-    "language": "Python",
-    "description": "slides generates prompts for various expression styles"
+    "language": "Swift",
+    "description": "Easy peer to peer networking for Apple devices"
   },
   {
-    "repo": "bc-dunia/qwen3-TTS-studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
-  },
-  {
-    "repo": "tanviet12/chat-quality-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "antirez/qwen-asr",
-    "branch": "main",
-    "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
-  },
-  {
-    "repo": "pretyflaco/meetscribe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
-  },
-  {
-    "repo": "Zyora-Dev/zse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Zyora Server Inference Engine for LLM ."
-  },
-  {
-    "repo": "xodn348/han",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A compiled programming language with Korean keywords, written in Rust"
-  },
-  {
-    "repo": "facebookresearch/dino",
-    "branch": "main",
-    "language": "Python",
-    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
-  },
-  {
-    "repo": "DaveMoudy/SalesforceDocGen",
+    "repo": "browserable/browserable",
     "branch": "main",
     "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
+    "description": "Open source and self-hostable browser automation library for AI agents"
+  },
+  {
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deepfakes Software For All"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+  },
+  {
+    "repo": "goharbor/community",
+    "branch": "main",
+    "language": "Other",
+    "description": "Harbor community-related material"
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
+  },
+  {
+    "repo": "tensorflow/agents",
+    "branch": "master",
+    "language": "Python",
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+  },
+  {
+    "repo": "sindresorhus/awesome",
+    "branch": "main",
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "branch": "master",
+    "language": "C",
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
+  },
+  {
+    "repo": "ford26321works003/sora2API",
+    "branch": "main",
+    "language": "Python",
+    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
+  },
+  {
+    "repo": "stedolan/jq",
+    "branch": "master",
+    "language": "C",
+    "description": "Command-line JSON processor"
+  },
+  {
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "postgres/postgres",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+  },
+  {
+    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Visual Dexscreener terminal CLI + MCP scanner"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "op7418/Claude-to-IM",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
+  },
+  {
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "mattermost/mattermost-server",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
+  },
+  {
+    "repo": "jshachm/chronoh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+  },
+  {
+    "repo": "mage-ai/mage-ai",
+    "branch": "master",
+    "language": "Python",
+    "description": "🧙 Build, run, and manage data pipelines for integrating and transforming data."
   }
 ]
