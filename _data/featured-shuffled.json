@@ -1,63 +1,21 @@
 [
   {
-    "repo": "ComposioHQ/secure-openclaw",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
+    "repo": "newrelic/newrelic-java-agent",
+    "branch": "main",
+    "language": "Java",
+    "description": "The New Relic Java agent"
   },
   {
-    "repo": "panyiwei-home/Freedeck",
+    "repo": "PentHertz/grimoire",
     "branch": "main",
     "language": "Python",
-    "description": "学习版游戏一站式平台"
+    "description": "Offensive knowledge, offline. One search box for every playbook."
   },
   {
-    "repo": "better-auth/better-hub",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
-  },
-  {
-    "repo": "freestylefly/openclaw-wechat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
-  },
-  {
-    "repo": "NOBB2333/ClipCascade_go",
-    "branch": "main",
-    "language": "Go",
-    "description": "ClipCascade go语言重制版"
-  },
-  {
-    "repo": "The-Vibe-Company/companion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
-  },
-  {
-    "repo": "gsd-build/gsd-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
-  },
-  {
-    "repo": "chekusu/shipkey",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "vignesh07/babyshark",
+    "repo": "susanudgzf/Aave-Claw",
     "branch": "main",
     "language": "Rust",
-    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
-  },
-  {
-    "repo": "arpitg1304/robotics-agent-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
+    "description": ""
   },
   {
     "repo": "bwya77/vscode-dark-islands",
@@ -66,81 +24,123 @@
     "description": "VSCode theme based off the new Jetbrains islands theme"
   },
   {
-    "repo": "Trade-of-Economics-in-Warsaw/market-sniping-trading-bot",
+    "repo": "jina-ai/jina",
+    "branch": "main",
+    "language": "Python",
+    "description": "☁️ Build multimodal AI applications with cloud-native stack"
+  },
+  {
+    "repo": "cilium/hubble",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "originalankur/GenerateAgents.md",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+  },
+  {
+    "repo": "termux/termux-app",
+    "branch": "master",
+    "language": "Java",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+  },
+  {
+    "repo": "Danm72/home-assistant-automation-suggestions",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
+  },
+  {
+    "repo": "data-science-on-aws/data-science-on-aws",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
+  },
+  {
+    "repo": "nginx/nginx",
+    "branch": "master",
+    "language": "C",
+    "description": "The official NGINX Open Source repository."
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "simonw/cia-world-factbook-2020",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
+  },
+  {
+    "repo": "HackingDave/nightwire",
+    "branch": "main",
+    "language": "Python",
+    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
+  },
+  {
+    "repo": "apollographql/apollo-server",
     "branch": "main",
     "language": "TypeScript",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+  },
+  {
+    "repo": "AAAAAAAJ/slides",
+    "branch": "main",
+    "language": "Python",
+    "description": "slides generates prompts for various expression styles"
+  },
+  {
+    "repo": "bc-dunia/qwen3-TTS-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+  },
+  {
+    "repo": "tanviet12/chat-quality-agent",
+    "branch": "main",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "lbjlaq/Antigravity-Tools-LS",
+    "repo": "antirez/qwen-asr",
     "branch": "main",
-    "language": "Rust",
-    "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE."
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
   },
   {
-    "repo": "RightNow-AI/openfang",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Agent Operating System"
-  },
-  {
-    "repo": "shanselman/winget-tui",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
-  },
-  {
-    "repo": "badaramoni/wave-field-llm",
+    "repo": "pretyflaco/meetscribe",
     "branch": "main",
     "language": "Python",
-    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
+    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
   },
   {
-    "repo": "nguyenduchoai/bizclaw",
-    "branch": "master",
-    "language": "Rust",
-    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
-  },
-  {
-    "repo": "antfu/ghfs",
+    "repo": "Zyora-Dev/zse",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
-  },
-  {
-    "repo": "calebwin/pgclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
-  },
-  {
-    "repo": "vsouza/awesome-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
-  },
-  {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
     "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
+    "description": "Zyora Server Inference Engine for LLM ."
   },
   {
-    "repo": "altstackHQ/altstack-data",
+    "repo": "xodn348/han",
     "branch": "main",
-    "language": "Shell",
-    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
+    "language": "Rust",
+    "description": "A compiled programming language with Korean keywords, written in Rust"
   },
   {
-    "repo": "signalapp/Signal-Desktop",
+    "repo": "facebookresearch/dino",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
+    "language": "Python",
+    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
   },
   {
-    "repo": "plausible/analytics",
-    "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+    "repo": "DaveMoudy/SalesforceDocGen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
   }
 ]
