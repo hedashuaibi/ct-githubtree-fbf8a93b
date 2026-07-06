@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dannyhsueh2/Forza-Horizon-6-Premium",
-    "branch": "main",
-    "language": "C++",
-    "description": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J50, Mazda Furai. Expansion 1, Expansion 2, I, , pre-load PC Steam, Game Pass Ultimate."
-  },
-  {
-    "repo": "tensorflow/agents",
+    "repo": "ComposioHQ/secure-openclaw",
     "branch": "master",
-    "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+    "language": "JavaScript",
+    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
   },
   {
-    "repo": "strapi/strapi",
+    "repo": "panyiwei-home/Freedeck",
+    "branch": "main",
+    "language": "Python",
+    "description": "学习版游戏一站式平台"
+  },
+  {
+    "repo": "better-auth/better-hub",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+    "description": "Re-imagining code collaboration for humans and agents"
   },
   {
-    "repo": "Mathews-Tom/no-magic",
+    "repo": "freestylefly/openclaw-wechat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "NOBB2333/ClipCascade_go",
+    "branch": "main",
+    "language": "Go",
+    "description": "ClipCascade go语言重制版"
+  },
+  {
+    "repo": "The-Vibe-Company/companion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
+  },
+  {
+    "repo": "gsd-build/gsd-2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "chekusu/shipkey",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "vignesh07/babyshark",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+  },
+  {
+    "repo": "arpitg1304/robotics-agent-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
+    "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
   },
   {
-    "repo": "LeoYeAI/openclaw-guardian",
+    "repo": "bwya77/vscode-dark-islands",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "VSCode theme based off the new Jetbrains islands theme"
+  },
+  {
+    "repo": "Trade-of-Economics-in-Warsaw/market-sniping-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "lbjlaq/Antigravity-Tools-LS",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE."
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
+  },
+  {
+    "repo": "shanselman/winget-tui",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
+  },
+  {
+    "repo": "badaramoni/wave-field-llm",
+    "branch": "main",
+    "language": "Python",
+    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
+  },
+  {
+    "repo": "nguyenduchoai/bizclaw",
+    "branch": "master",
+    "language": "Rust",
+    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
+  },
+  {
+    "repo": "antfu/ghfs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
+  },
+  {
+    "repo": "calebwin/pgclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+  },
+  {
+    "repo": "vsouza/awesome-ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
+  },
+  {
+    "repo": "dateutil/dateutil",
+    "branch": "master",
+    "language": "Python",
+    "description": "Useful extensions to the standard Python datetime features"
+  },
+  {
+    "repo": "altstackHQ/altstack-data",
     "branch": "main",
     "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
   },
   {
-    "repo": "fluent/fluentd",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
-  },
-  {
-    "repo": "webpack-contrib/terser-webpack-plugin",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Terser Plugin"
-  },
-  {
-    "repo": "crshdn/mission-control",
+    "repo": "signalapp/Signal-Desktop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
+    "description": "A private messenger for Windows, macOS, and Linux."
   },
   {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "standard/standard",
+    "repo": "plausible/analytics",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
-  },
-  {
-    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "pynecone-io/pynecone",
-    "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "ruffle-rs/ruffle",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A Flash Player emulator written in Rust"
-  },
-  {
-    "repo": "vueuse/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
-  },
-  {
-    "repo": "six2dez/burp-ai-agent",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
-  },
-  {
-    "repo": "langchain-ai/langchainjs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦜🔗 Build context-aware reasoning applications"
-  },
-  {
-    "repo": "Danm72/home-assistant-automation-suggestions",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
-  },
-  {
-    "repo": "matrix-org/synapse",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Synapse: Matrix homeserver written in Python/Twisted."
-  },
-  {
-    "repo": "tauri-apps/tauri",
-    "branch": "dev",
-    "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
-  },
-  {
-    "repo": "envoyproxy/envoy",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cloud-native high-performance edge/middle/service proxy"
-  },
-  {
-    "repo": "apollographql/graphql-subscriptions",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
-  },
-  {
-    "repo": "data-science-on-aws/data-science-on-aws",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
-  },
-  {
-    "repo": "acedef/SynthAPT",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
   }
 ]
