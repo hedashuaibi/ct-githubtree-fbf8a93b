@@ -1,8 +1,8 @@
 {
-  "repo": "kernelstub/Nox",
+  "repo": "anthropics/jacobian-lens",
   "branch": "main",
-  "language": "Go",
-  "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-  "stars": 113,
-  "forks": 8
+  "language": "Python",
+  "description": " Companion code for the global workspace interpretability paper",
+  "stars": 290,
+  "forks": 49
 }

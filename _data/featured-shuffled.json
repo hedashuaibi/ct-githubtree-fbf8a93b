@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vinta/awesome-python",
+    "repo": "gar212/VoidStrap-Roblox",
+    "branch": "main",
+    "language": "C++",
+    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
+  },
+  {
+    "repo": "czl9707/build-your-own-openclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "A step-by-step guide to build your own AI agent."
+  },
+  {
+    "repo": "kimjune01/cord",
     "branch": "master",
     "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+    "description": "A coordination protocol for trees of Claude Code agents"
   },
   {
-    "repo": "Brenonunesx/agent-pilot",
+    "repo": "apache/camel",
     "branch": "main",
-    "language": "HTML",
-    "description": "AI Agent Toolkit 2026: Smart Device Control for iOS & Android"
+    "language": "Java",
+    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
   },
   {
-    "repo": "typst/typst",
+    "repo": "Mathews-Tom/no-magic",
     "branch": "main",
-    "language": "Rust",
-    "description": "A markup-based typesetting system that is powerful and easy to learn."
+    "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
   },
   {
-    "repo": "vuetifyjs/vuetify",
+    "repo": "MoonshotAI/Kimi-VL",
+    "branch": "main",
+    "language": "Other",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+  },
+  {
+    "repo": "bc-dunia/qwen3-TTS-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+  },
+  {
+    "repo": "better-auth/better-icons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "kyutai-labs/hibiki-zero",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
   },
   {
-    "repo": "huggingface/tokenizers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
-  },
-  {
-    "repo": "newrelic/newrelic-java-agent",
+    "repo": "GrapheneOS/Camera",
     "branch": "main",
     "language": "Java",
-    "description": "The New Relic Java agent"
+    "description": "Modern camera app focused on privacy and security with QR & barcode scanning."
   },
   {
-    "repo": "spring-projects/spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
-  },
-  {
-    "repo": "raspberrypi/documentation",
+    "repo": "aikhe/wrapped.nvim",
     "branch": "master",
+    "language": "Lua",
+    "description": "View your Neovim configuration insights, history, and heatmaps."
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+  },
+  {
+    "repo": "obsidianmd/obsidian-releases",
+    "branch": "master",
+    "language": "Other",
+    "description": "Community plugins list, theme list, and releases of Obsidian."
+  },
+  {
+    "repo": "YunjueTech/Yunjue-Agent",
+    "branch": "main",
     "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
+    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
   },
   {
-    "repo": "linkerd/linkerd2",
+    "repo": "apache/kafka",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Mirror of Apache Kafka"
+  },
+  {
+    "repo": "kicad/kicad",
+    "branch": "master",
+    "language": "C++",
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+  },
+  {
+    "repo": "behzadea12/Paqet-Tunnel-Manager",
     "branch": "main",
-    "language": "Go",
-    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+    "language": "Shell",
+    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
   },
   {
-    "repo": "ramda/ramda",
+    "repo": "balancer/balancer-v2-monorepo",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Balancer V2 Monorepo"
+  },
+  {
+    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+  },
+  {
+    "repo": "stylelint/stylelint",
+    "branch": "main",
     "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
   },
   {
-    "repo": "starship/starship",
-    "branch": "master",
-    "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+    "repo": "MemeCalculate/moyin-creator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support"
   },
   {
     "repo": "Automattic/mongoose",
     "branch": "master",
     "language": "JavaScript",
     "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "microsoft/fluentui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
-  },
-  {
-    "repo": "rvm/rvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Ruby enVironment Manager (RVM)"
-  },
-  {
-    "repo": "square/retrofit",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
-  },
-  {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "branch": "main",
-    "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "google/or-tools",
-    "branch": "stable",
-    "language": "C++",
-    "description": "Google's Operations Research tools:"
-  },
-  {
-    "repo": "moby/moby",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "JakeWharton/butterknife",
-    "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
-  },
-  {
-    "repo": "roboflow/rf-detr",
-    "branch": "main",
-    "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
   }
 ]
