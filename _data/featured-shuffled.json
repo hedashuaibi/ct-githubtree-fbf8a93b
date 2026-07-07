@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gar212/VoidStrap-Roblox",
-    "branch": "main",
-    "language": "C++",
-    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
+    "repo": "kubeedge/kubeedge",
+    "branch": "master",
+    "language": "Go",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
   },
   {
-    "repo": "czl9707/build-your-own-openclaw",
+    "repo": "rivet-dev/sandbox-agent",
     "branch": "main",
-    "language": "Python",
-    "description": "A step-by-step guide to build your own AI agent."
+    "language": "Rust",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
   },
   {
-    "repo": "kimjune01/cord",
+    "repo": "OWASP/Amass",
+    "branch": "master",
+    "language": "Go",
+    "description": "In-depth attack surface mapping and asset discovery"
+  },
+  {
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
+  },
+  {
+    "repo": "ogham/exa",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "branch": "master",
+    "language": "Go",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+  },
+  {
+    "repo": "getredash/redash",
     "branch": "master",
     "language": "Python",
-    "description": "A coordination protocol for trees of Claude Code agents"
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
   },
   {
-    "repo": "apache/camel",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
+    "repo": "graphprotocol/graph-node",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
   },
   {
-    "repo": "Mathews-Tom/no-magic",
-    "branch": "main",
+    "repo": "moby/buildkit",
+    "branch": "master",
+    "language": "Go",
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+  },
+  {
+    "repo": "mwaskom/seaborn",
+    "branch": "master",
     "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
+    "description": "Statistical data visualization in Python"
   },
   {
-    "repo": "MoonshotAI/Kimi-VL",
-    "branch": "main",
-    "language": "Other",
-    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
-  },
-  {
-    "repo": "bc-dunia/qwen3-TTS-studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
+    "repo": "backstage/backstage",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
+    "description": "Backstage is an open framework for building developer portals"
   },
   {
-    "repo": "nextcloud/server",
-    "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
-  },
-  {
-    "repo": "kyutai-labs/hibiki-zero",
-    "branch": "main",
-    "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
-  },
-  {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "GrapheneOS/Camera",
-    "branch": "main",
-    "language": "Java",
-    "description": "Modern camera app focused on privacy and security with QR & barcode scanning."
-  },
-  {
-    "repo": "aikhe/wrapped.nvim",
-    "branch": "master",
-    "language": "Lua",
-    "description": "View your Neovim configuration insights, history, and heatmaps."
-  },
-  {
-    "repo": "memovai/mimiclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
-  },
-  {
-    "repo": "obsidianmd/obsidian-releases",
+    "repo": "binhnguyennus/awesome-scalability",
     "branch": "master",
     "language": "Other",
-    "description": "Community plugins list, theme list, and releases of Obsidian."
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
   },
   {
-    "repo": "YunjueTech/Yunjue-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
-  },
-  {
-    "repo": "apache/kafka",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Mirror of Apache Kafka"
-  },
-  {
-    "repo": "kicad/kicad",
+    "repo": "seaweedfs/seaweedfs",
     "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+    "language": "Go",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
   },
   {
-    "repo": "behzadea12/Paqet-Tunnel-Manager",
+    "repo": "ForrestKnight/open-source-cs",
+    "branch": "master",
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
+  },
+  {
+    "repo": "detekt/detekt",
     "branch": "main",
+    "language": "Kotlin",
+    "description": "Static code analysis for Kotlin"
+  },
+  {
+    "repo": "xtclovver/RKNHardering",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
     "language": "Shell",
-    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
+    "description": "Papers from the computer science community to read and discuss."
   },
   {
-    "repo": "balancer/balancer-v2-monorepo",
+    "repo": "microsoft/LightGBM",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
   },
   {
-    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "repo": "microsoft/onnxruntime",
+    "branch": "main",
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+  },
+  {
+    "repo": "numpy/numpy",
     "branch": "main",
     "language": "Python",
-    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+    "description": "The fundamental package for scientific computing with Python."
   },
   {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
-  },
-  {
-    "repo": "MemeCalculate/moyin-creator",
-    "branch": "main",
+    "repo": "storybookjs/storybook",
+    "branch": "next",
     "language": "TypeScript",
-    "description": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support"
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
   },
   {
-    "repo": "Automattic/mongoose",
+    "repo": "grpc/grpc-web",
     "branch": "master",
     "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
+    "description": "gRPC for Web Clients"
+  },
+  {
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "ant-design/ant-design",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
   }
 ]

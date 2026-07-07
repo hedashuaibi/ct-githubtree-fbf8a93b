@@ -1,8 +1,8 @@
 {
-  "repo": "anthropics/jacobian-lens",
+  "repo": "mana-am/matrix-swift",
   "branch": "main",
-  "language": "Python",
-  "description": " Companion code for the global workspace interpretability paper",
-  "stars": 290,
-  "forks": 49
+  "language": "Swift",
+  "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix.",
+  "stars": 103,
+  "forks": 4
 }
