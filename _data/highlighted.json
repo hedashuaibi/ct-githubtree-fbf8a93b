@@ -1,8 +1,8 @@
 {
-  "repo": "mana-am/matrix-swift",
+  "repo": "NUber-dev/YTubic",
   "branch": "main",
-  "language": "Swift",
-  "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix.",
-  "stars": 103,
-  "forks": 4
+  "language": "TypeScript",
+  "description": "Fast, responsive YouTube Music desktop client for Windows — Tauri 2 + React",
+  "stars": 127,
+  "forks": 6
 }

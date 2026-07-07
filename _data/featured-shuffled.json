@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kubeedge/kubeedge",
-    "branch": "master",
-    "language": "Go",
-    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
-  },
-  {
-    "repo": "rivet-dev/sandbox-agent",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
-  },
-  {
-    "repo": "OWASP/Amass",
-    "branch": "master",
-    "language": "Go",
-    "description": "In-depth attack surface mapping and asset discovery"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "ogham/exa",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
-  },
-  {
-    "repo": "FiloSottile/mkcert",
-    "branch": "master",
-    "language": "Go",
-    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
-  },
-  {
-    "repo": "getredash/redash",
-    "branch": "master",
-    "language": "Python",
-    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
-  },
-  {
-    "repo": "graphprotocol/graph-node",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
-  },
-  {
-    "repo": "moby/buildkit",
-    "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
-  },
-  {
-    "repo": "mwaskom/seaborn",
-    "branch": "master",
-    "language": "Python",
-    "description": "Statistical data visualization in Python"
-  },
-  {
-    "repo": "backstage/backstage",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
-  },
-  {
-    "repo": "binhnguyennus/awesome-scalability",
-    "branch": "master",
-    "language": "Other",
-    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
-  },
-  {
-    "repo": "seaweedfs/seaweedfs",
-    "branch": "master",
-    "language": "Go",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "detekt/detekt",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Static code analysis for Kotlin"
-  },
-  {
-    "repo": "xtclovver/RKNHardering",
+    "repo": "owenlejeune/ArrMatey",
     "branch": "main",
     "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
+    "repo": "Ansub/wiki-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
+  },
+  {
+    "repo": "browser-use/video-use",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "incursi0n/GodPotatoBOF",
+    "branch": "main",
+    "language": "C",
+    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
+  },
+  {
+    "repo": "dsd2077/CyberVerse",
+    "branch": "main",
+    "language": "Python",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
+  },
+  {
+    "repo": "nexu-io/html-anything",
+    "branch": "main",
+    "language": "HTML",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
+  },
+  {
+    "repo": "zengxiao-he/triton-llm-kernel-lab",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "baydarerhan/Sora-2-App-No-Watermark",
+    "branch": "main",
+    "language": "HTML",
+    "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool."
+  },
+  {
+    "repo": "exomi29zikzak/Valo-Vision-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
+  },
+  {
+    "repo": "Ganso/refugiOS",
+    "branch": "main",
     "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
+    "description": ""
   },
   {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
-    "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
-  },
-  {
-    "repo": "microsoft/onnxruntime",
+    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
     "branch": "main",
     "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
   },
   {
-    "repo": "numpy/numpy",
+    "repo": "manojmidhul92-art/Umbrella-HWID",
     "branch": "main",
-    "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
+    "language": "C++",
+    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
   },
   {
-    "repo": "storybookjs/storybook",
-    "branch": "next",
+    "repo": "Multichain-Bot-Lab/polymarket-copy-trading-bot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+    "description": ""
   },
   {
-    "repo": "grpc/grpc-web",
-    "branch": "master",
+    "repo": "Rhythmplocutter/printer-offline-fix",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "repo": "snoozinjs/Delta-exec",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
+  },
+  {
+    "repo": "Neighbor-Z/SwiftMTP",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A modern MTP device management tool for macOS."
+  },
+  {
+    "repo": "xaspx/hermes-control-interface",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "gRPC for Web Clients"
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
   },
   {
-    "repo": "tensorflow/models",
+    "repo": "chatgptprojects/clear-code",
+    "branch": "main",
+    "language": "Shell",
+    "description": "See your claude code logs in clear details in your dashboard"
+  },
+  {
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "branch": "main",
+    "language": "Python",
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+  },
+  {
+    "repo": "tvytlx/ai-agent-deep-dive",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Agent 源码深度研究报告"
+  },
+  {
+    "repo": "SageClub/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
+  },
+  {
+    "repo": "Kappaemme-git/codex-complexity-optimizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
+  },
+  {
+    "repo": "cv-cat/TaoBaoApis",
     "branch": "master",
     "language": "Python",
-    "description": "Models and examples built with TensorFlow"
+    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
   },
   {
-    "repo": "ant-design/ant-design",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
+    "repo": "WUBING2023/PaperSpine",
+    "branch": "main",
+    "language": "Python",
+    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
   }
 ]
