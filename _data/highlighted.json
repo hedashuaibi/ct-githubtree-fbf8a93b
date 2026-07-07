@@ -1,8 +1,8 @@
 {
-  "repo": "synthetic-sciences/openscience",
+  "repo": "kernelstub/Nox",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "The open-source AI workbench for scientific research",
-  "stars": 707,
-  "forks": 91
+  "language": "Go",
+  "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+  "stars": 113,
+  "forks": 8
 }
