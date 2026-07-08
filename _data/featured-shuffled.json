@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yargs/yargs",
+    "repo": "AIchovy/vibe-observer",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "yargs the modern, pirate-themed successor to optimist."
+    "language": "Rust",
+    "description": "Claude Code Tracer & Observer"
   },
   {
-    "repo": "atomicmemory/llm-wiki-compiler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
-  },
-  {
-    "repo": "argoproj/argo-cd",
-    "branch": "master",
-    "language": "Go",
-    "description": "Declarative Continuous Deployment for Kubernetes"
-  },
-  {
-    "repo": "Dokhacgiakhoa/google-antigravity",
+    "repo": "yizhiyanhua-ai/skills-updater",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
   },
   {
-    "repo": "vllm-project/aibrix",
+    "repo": "pallets/flask",
     "branch": "main",
-    "language": "Go",
-    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
   },
   {
-    "repo": "github/super-linter",
+    "repo": "kata-containers/kata-containers",
     "branch": "main",
-    "language": "Shell",
-    "description": "Combination of multiple linters to install as a GitHub Action"
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
   },
   {
-    "repo": "Gustavo1900/bevy-atmosphere",
+    "repo": "ramda/ramda",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":ram: Practical functional Javascript"
+  },
+  {
+    "repo": "golang-standards/project-layout",
+    "branch": "master",
+    "language": "Makefile",
+    "description": "Standard Go Project Layout"
+  },
+  {
+    "repo": "apache/airflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+  },
+  {
+    "repo": "pytest-dev/pytest",
+    "branch": "main",
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript."
+  },
+  {
+    "repo": "paritytech/substrate",
     "branch": "master",
     "language": "Rust",
-    "description": ""
+    "description": "Substrate: The platform for blockchain innovators"
   },
   {
-    "repo": "tensorflow/agents",
+    "repo": "langchain-ai/langchain",
     "branch": "master",
     "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+    "description": "🦜🔗 The platform for reliable agents."
   },
   {
-    "repo": "alpinejs/alpine",
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "branch": "master",
+    "language": "Python",
+    "description": "Stable Diffusion web UI"
+  },
+  {
+    "repo": "iterative/dvc",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦉 Data Versioning and ML Experiments"
+  },
+  {
+    "repo": "stainlu/hermes-labyrinth",
     "branch": "main",
     "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
-  },
-  {
-    "repo": "cnlimiter/codex-register",
-    "branch": "master",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "MuhammadHananAsghar/wormhole",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
-  },
-  {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "buildpacks/pack",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
-  },
-  {
-    "repo": "remotion-dev/remotion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
-  },
-  {
-    "repo": "apache/mxnet",
-    "branch": "master",
-    "language": "C++",
-    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
-  },
-  {
-    "repo": "reduxjs/redux-toolkit",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
-  },
-  {
-    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "repo": "gradio-app/gradio",
     "branch": "main",
     "language": "Python",
-    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
   },
   {
-    "repo": "obsidianmd/obsidian-releases",
-    "branch": "master",
+    "repo": "goreleaser/goreleaser",
+    "branch": "main",
+    "language": "Go",
+    "description": "Release engineering, simplified"
+  },
+  {
+    "repo": "codetrybe/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
+  },
+  {
+    "repo": "iam567/LifeManga",
+    "branch": "main",
+    "language": "Swift",
+    "description": "ios swift swiftui openai gpt-image manga ai-art"
+  },
+  {
+    "repo": "chekusu/wanman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
+  },
+  {
+    "repo": "Stability-AI/stablediffusion",
+    "branch": "main",
     "language": "Other",
-    "description": "Community plugins list, theme list, and releases of Obsidian."
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
   },
   {
-    "repo": "direkturcrypto/polymarket-terminal",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Copy, Scalping & Sniper for polymarket"
-  },
-  {
-    "repo": "rook/rook",
+    "repo": "go-pg/pg",
     "branch": "master",
     "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
   },
   {
-    "repo": "apache/iceberg",
+    "repo": "EvolutionAPI/evo-nexus",
     "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
+    "language": "TypeScript",
+    "description": "The open source operating system for AI-powered businesses — built on Claude Code"
   },
   {
-    "repo": "maile456/qq-farm-bot",
+    "repo": "FlowTrader-Labs/polymarket-trading-bot",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
-  },
-  {
-    "repo": "LemoLev/tg-ws-proxy-ANDROID",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
-  },
-  {
-    "repo": "serenity-bdd/serenity-core",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
   }
 ]

@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Python",
   "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
-  "stars": 113,
+  "stars": 116,
   "forks": 18
 }
