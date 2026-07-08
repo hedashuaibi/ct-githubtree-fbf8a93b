@@ -1,8 +1,8 @@
 {
-  "repo": "OmarH-creator/Autonomous-Forge",
+  "repo": "oxbshw/watch-skill",
   "branch": "main",
   "language": "Python",
-  "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-  "stars": 153,
-  "forks": 5
+  "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
+  "stars": 113,
+  "forks": 18
 }
