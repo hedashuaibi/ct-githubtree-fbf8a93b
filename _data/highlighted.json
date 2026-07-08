@@ -1,8 +1,8 @@
 {
-  "repo": "NUber-dev/YTubic",
+  "repo": "shaohua-pan/StarWAM",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Fast, responsive YouTube Music desktop client for Windows — Tauri 2 + React",
-  "stars": 127,
-  "forks": 6
+  "language": "Python",
+  "description": "A Generalizable Codebase for World-Action Models",
+  "stars": 125,
+  "forks": 5
 }

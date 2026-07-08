@@ -1,146 +1,146 @@
 [
   {
-    "repo": "owenlejeune/ArrMatey",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "Ansub/wiki-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
-  },
-  {
-    "repo": "browser-use/video-use",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "incursi0n/GodPotatoBOF",
-    "branch": "main",
-    "language": "C",
-    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
-  },
-  {
-    "repo": "dsd2077/CyberVerse",
-    "branch": "main",
-    "language": "Python",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
-  },
-  {
-    "repo": "nexu-io/html-anything",
-    "branch": "main",
-    "language": "HTML",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
-  },
-  {
-    "repo": "zengxiao-he/triton-llm-kernel-lab",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "baydarerhan/Sora-2-App-No-Watermark",
-    "branch": "main",
-    "language": "HTML",
-    "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool."
-  },
-  {
-    "repo": "exomi29zikzak/Valo-Vision-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
-  },
-  {
-    "repo": "Ganso/refugiOS",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
-  },
-  {
-    "repo": "manojmidhul92-art/Umbrella-HWID",
-    "branch": "main",
-    "language": "C++",
-    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
-  },
-  {
-    "repo": "Multichain-Bot-Lab/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Rhythmplocutter/printer-offline-fix",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
-  },
-  {
-    "repo": "snoozinjs/Delta-exec",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
-  },
-  {
-    "repo": "Neighbor-Z/SwiftMTP",
+    "repo": "darrylmorley/whatcable",
     "branch": "main",
     "language": "Swift",
-    "description": "A modern MTP device management tool for macOS."
+    "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
   },
   {
-    "repo": "xaspx/hermes-control-interface",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
-  },
-  {
-    "repo": "chatgptprojects/clear-code",
-    "branch": "main",
-    "language": "Shell",
-    "description": "See your claude code logs in clear details in your dashboard"
-  },
-  {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "repo": "numpy/numpy",
     "branch": "main",
     "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+    "description": "The fundamental package for scientific computing with Python."
   },
   {
-    "repo": "tvytlx/ai-agent-deep-dive",
+    "repo": "livehl/aimirror",
     "branch": "main",
     "language": "Python",
-    "description": "AI Agent 源码深度研究报告"
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
   },
   {
-    "repo": "SageClub/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
-  },
-  {
-    "repo": "Kappaemme-git/codex-complexity-optimizer",
+    "repo": "THUDM/ChatGLM-6B",
     "branch": "main",
     "language": "Python",
-    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
   },
   {
-    "repo": "cv-cat/TaoBaoApis",
+    "repo": "huggingface/accelerate",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
+  },
+  {
+    "repo": "tensorflow/models",
     "branch": "master",
     "language": "Python",
-    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
+    "description": "Models and examples built with TensorFlow"
   },
   {
-    "repo": "WUBING2023/PaperSpine",
+    "repo": "opencontainers/runc",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
+  },
+  {
+    "repo": "microsoft/guidance",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A guidance language for controlling large language models."
+  },
+  {
+    "repo": "sympy/sympy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A computer algebra system written in pure Python"
+  },
+  {
+    "repo": "fastlane/supply",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+  },
+  {
+    "repo": "nedbat/coveragepy",
+    "branch": "master",
+    "language": "Python",
+    "description": "The code coverage tool for Python"
+  },
+  {
+    "repo": "actions/checkout",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Action for checking out a repo"
+  },
+  {
+    "repo": "Shopify/react-native-skia",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High-performance React Native Graphics using Skia"
+  },
+  {
+    "repo": "pandas-profiling/pandas-profiling",
+    "branch": "develop",
+    "language": "Python",
+    "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames."
+  },
+  {
+    "repo": "dair-ai/ML-Papers-Explained",
+    "branch": "gh-pages",
+    "language": "Other",
+    "description": "Explanation to key concepts in ML"
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "branch": "master",
+    "language": "Python",
+    "description": "The interactive graphing library for Python :sparkles:"
+  },
+  {
+    "repo": "pandas-dev/pandas",
     "branch": "main",
     "language": "Python",
-    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+  },
+  {
+    "repo": "beeware/toga",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python native, OS native GUI toolkit."
+  },
+  {
+    "repo": "golang/tools",
+    "branch": "master",
+    "language": "Go",
+    "description": "[mirror] Go Tools"
+  },
+  {
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "GoogleCloudPlatform/golang-samples",
+    "branch": "main",
+    "language": "Go",
+    "description": "Sample apps and code written for Google Cloud in the Go programming language."
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
   }
 ]
