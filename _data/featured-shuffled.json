@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AIchovy/vibe-observer",
+    "repo": "microsoft/PowerToys",
     "branch": "main",
-    "language": "Rust",
-    "description": "Claude Code Tracer & Observer"
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
   },
   {
-    "repo": "yizhiyanhua-ai/skills-updater",
+    "repo": "makermate/clarvis-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Clarvis - 3D Printing Made Easy"
+  },
+  {
+    "repo": "midudev/alg0.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
     "branch": "main",
     "language": "Python",
-    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
+    "description": "Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
   },
   {
-    "repo": "pallets/flask",
+    "repo": "xsawyerx/curl-doom",
     "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "ramda/ramda",
-    "branch": "master",
     "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
+    "description": "DOOM, played over cURL"
   },
   {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
-  },
-  {
-    "repo": "apache/airflow",
+    "repo": "hoquanghai/Auto-Create-Video",
     "branch": "main",
-    "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
-  },
-  {
-    "repo": "pytest-dev/pytest",
-    "branch": "main",
-    "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
-  },
-  {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "paritytech/substrate",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
-  },
-  {
-    "repo": "langchain-ai/langchain",
-    "branch": "master",
-    "language": "Python",
-    "description": "🦜🔗 The platform for reliable agents."
-  },
-  {
-    "repo": "AUTOMATIC1111/stable-diffusion-webui",
-    "branch": "master",
-    "language": "Python",
-    "description": "Stable Diffusion web UI"
-  },
-  {
-    "repo": "iterative/dvc",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦉 Data Versioning and ML Experiments"
-  },
-  {
-    "repo": "stainlu/hermes-labyrinth",
-    "branch": "main",
-    "language": "HTML",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "gradio-app/gradio",
+    "repo": "pion/handoff",
+    "branch": "main",
+    "language": "Go",
+    "description": "Start WebRTC in the browser—run it somewhere else"
+  },
+  {
+    "repo": "LearnPrompt/cc-harness-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
   },
   {
-    "repo": "goreleaser/goreleaser",
+    "repo": "432539/plus_gopay_gptp-plus",
     "branch": "main",
-    "language": "Go",
-    "description": "Release engineering, simplified"
+    "language": "JavaScript",
+    "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355"
   },
   {
-    "repo": "codetrybe/polymarket-trading-bot",
+    "repo": "tgies/klattsch",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "language": "JavaScript",
+    "description": "primitive parallel-formant speech synth in the browser"
   },
   {
-    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
+    "repo": "Anetedith12807/Ethereum-MEV-Bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
+    "language": "Python",
+    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
   },
   {
-    "repo": "iam567/LifeManga",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ios swift swiftui openai gpt-image manga ai-art"
-  },
-  {
-    "repo": "chekusu/wanman",
+    "repo": "filiksyos/gitreverse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
+    "description": "Reverse engineer any repo into it's original prompt"
   },
   {
-    "repo": "Stability-AI/stablediffusion",
+    "repo": "teamchong/turboquant-wasm",
     "branch": "main",
-    "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
+    "language": "Zig",
+    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
   },
   {
-    "repo": "go-pg/pg",
+    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Demo of tools of capabilities of Tony Stark."
+  },
+  {
+    "repo": "Nightmare-Eclipse/BlueHammer",
+    "branch": "main",
+    "language": "C",
+    "description": "Repository hosting the bluehammer vulnerability"
+  },
+  {
+    "repo": "alejandrobalderas/claude-code-from-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps"
+  },
+  {
+    "repo": "0x0funky/agent-sprite-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent Skill for generating 2D sprite sheets, transparent PNG frames, and animated GIFs from prompts."
+  },
+  {
+    "repo": "kzhrknt/awesome-design-md-jp",
+    "branch": "main",
+    "language": "HTML",
+    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+  },
+  {
+    "repo": "XiaomiMiMo/MiMo-V2.5-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+  },
+  {
+    "repo": "0xSteph/pentest-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+  },
+  {
+    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
+  },
+  {
+    "repo": "NullLatency/FlowDriver",
     "branch": "master",
     "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
+    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
   },
   {
-    "repo": "EvolutionAPI/evo-nexus",
+    "repo": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The open source operating system for AI-powered businesses — built on Claude Code"
-  },
-  {
-    "repo": "FlowTrader-Labs/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+    "language": "C++",
+    "description": "Legend Zelda Twilight Princess PC Download April 2026 High Performance 4K 60FPS Enhancement Suite Midna Shadow Shaders Texture Pack Ultra Wide Support High Refresh Rate Emulation Fix Gaming Utility Stable Build Free Project Preservation Tutorial Guide"
   }
 ]
