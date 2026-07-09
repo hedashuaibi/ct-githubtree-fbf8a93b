@@ -1,8 +1,8 @@
 {
-  "repo": "colebemis/notion-workers",
+  "repo": "PitShipwrightGraph/MecchaPhantom",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "My Notion Workers",
-  "stars": 104,
-  "forks": 4
+  "language": "Python",
+  "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!",
+  "stars": 143,
+  "forks": 75
 }

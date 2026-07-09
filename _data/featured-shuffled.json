@@ -1,146 +1,146 @@
 [
   {
-    "repo": "go-resty/resty",
+    "repo": "rust-lang/mdBook",
     "branch": "master",
-    "language": "Go",
-    "description": "Simple HTTP, REST, and SSE client library for Go"
+    "language": "Rust",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
   },
   {
-    "repo": "dotcl/dotcl",
-    "branch": "master",
-    "language": "C#",
+    "repo": "nashsu/llm_wiki",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "extism/extism",
+    "repo": "lauris/awesome-scala",
+    "branch": "master",
+    "language": "Python",
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
+  },
+  {
+    "repo": "moltlaunch/cashclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+  },
+  {
+    "repo": "OpusDelta/opusdelta",
+    "branch": "main",
+    "language": "Python",
+    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
+  },
+  {
+    "repo": "zornade/visura-api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "eval-exec/neomacs",
+    "branch": "main",
+    "language": "Emacs Lisp",
+    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
+  },
+  {
+    "repo": "hkcanan/katmer-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
+  },
+  {
+    "repo": "vercel-labs/emulate",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local API emulation for CI and no-network sandboxes"
+  },
+  {
+    "repo": "TabbyML/tabby",
     "branch": "main",
     "language": "Rust",
-    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
+    "description": "Self-hosted AI coding assistant"
   },
   {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "LocoreMind/LocoTrainer",
+    "repo": "google-deepmind/graphcast",
     "branch": "main",
     "language": "Python",
-    "description": "MS-SWIFT domain expert agent for codebase analysis and report generation"
+    "description": "Deep learning weather model from Google DeepMind."
   },
   {
-    "repo": "NateBJones-Projects/OB1",
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+  },
+  {
+    "repo": "tnm/zclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
+  },
+  {
+    "repo": "ColeMurray/background-agents",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
+    "description": "An open-source background agent coding system"
   },
   {
-    "repo": "shanselman/MaximizeToVirtualDesktop",
-    "branch": "master",
-    "language": "C#",
-    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
-  },
-  {
-    "repo": "CopilotKit/OpenGenerativeUI",
+    "repo": "deepmind/mujoco",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-Source Generative UI Framework"
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
   },
   {
-    "repo": "invertase/react-native-firebase",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "soimy/openclaw-channel-dingtalk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
-  },
-  {
-    "repo": "vibe-music/vibe-music-web",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
-  },
-  {
-    "repo": "optuna/optuna",
-    "branch": "master",
-    "language": "Python",
-    "description": "A hyperparameter optimization framework"
-  },
-  {
-    "repo": "onecli/onecli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source credential vault, give your AI agents access to services without exposing keys."
-  },
-  {
-    "repo": "vsouza/awesome-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
-  },
-  {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "Nuzair46/Monarch",
     "branch": "main",
     "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "Detach, restore, and switch monitor layouts without touching cables."
   },
   {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+    "repo": "lopespm/zig-minimal-kernel-x86",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Minimal x86 Kernel - built in Zig"
   },
   {
-    "repo": "Zyora-Dev/zse",
+    "repo": "bokeh/bokeh",
+    "branch": "branch-3.4",
+    "language": "TypeScript",
+    "description": "Interactive Data Visualization in the browser, from  Python"
+  },
+  {
+    "repo": "opencmit/alphora",
     "branch": "main",
     "language": "Python",
-    "description": "Zyora Server Inference Engine for LLM ."
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
   },
   {
-    "repo": "Doriandarko/webmcp-starter",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
+    "repo": "material-components/material-components-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
   },
   {
-    "repo": "tanviet12/chat-quality-agent",
+    "repo": "DatanoiseTV/tinyice",
     "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
   },
   {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "karpathy/jobs",
+    "repo": "auth0/node-jsonwebtoken",
     "branch": "master",
-    "language": "HTML",
-    "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually."
+    "language": "JavaScript",
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
   },
   {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
-  },
-  {
-    "repo": "Soul-AILab/SoulX-Singer",
+    "repo": "postrv/forgemax",
     "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
-  },
-  {
-    "repo": "TheCSir/TerminalStart",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
+    "language": "Rust",
+    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
   }
 ]
