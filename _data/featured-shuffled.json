@@ -1,146 +1,146 @@
 [
   {
-    "repo": "microsoft/PowerToys",
-    "branch": "main",
-    "language": "C#",
-    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
-  },
-  {
-    "repo": "makermate/clarvis-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Clarvis - 3D Printing Made Easy"
-  },
-  {
-    "repo": "midudev/alg0.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+    "repo": "omarabdelazez11/Valorant_TriggerBot_Elite",
     "branch": "main",
     "language": "Python",
-    "description": "Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+    "description": "AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass."
   },
   {
-    "repo": "xsawyerx/curl-doom",
+    "repo": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DOOM, played over cURL"
+    "language": "Python",
+    "description": "Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included."
   },
   {
-    "repo": "hoquanghai/Auto-Create-Video",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "pion/handoff",
+    "repo": "programmersd21/flow",
     "branch": "main",
     "language": "Go",
-    "description": "Start WebRTC in the browser—run it somewhere else"
+    "description": "🌊 see your network breathe"
   },
   {
-    "repo": "LearnPrompt/cc-harness-skills",
+    "repo": "theartistscut1-uig/Metro_Last_Light_Unlimited_Ammo___Filters",
     "branch": "main",
     "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
+    "description": "Unlimited ammo, filters, and health for Metro Last Light. Never run out of oxygen, infinite military-grade rounds, and god mode."
   },
   {
-    "repo": "432539/plus_gopay_gptp-plus",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355"
-  },
-  {
-    "repo": "tgies/klattsch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "primitive parallel-formant speech synth in the browser"
-  },
-  {
-    "repo": "Anetedith12807/Ethereum-MEV-Bot",
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "filiksyos/gitreverse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reverse engineer any repo into it's original prompt"
-  },
-  {
-    "repo": "teamchong/turboquant-wasm",
-    "branch": "main",
-    "language": "Zig",
-    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
-  },
-  {
-    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
+    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Demo of tools of capabilities of Tony Stark."
+    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
   },
   {
-    "repo": "Nightmare-Eclipse/BlueHammer",
-    "branch": "main",
-    "language": "C",
-    "description": "Repository hosting the bluehammer vulnerability"
-  },
-  {
-    "repo": "alejandrobalderas/claude-code-from-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps"
-  },
-  {
-    "repo": "0x0funky/agent-sprite-forge",
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
     "branch": "main",
     "language": "Python",
-    "description": "Agent Skill for generating 2D sprite sheets, transparent PNG frames, and animated GIFs from prompts."
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
   },
   {
-    "repo": "kzhrknt/awesome-design-md-jp",
-    "branch": "main",
-    "language": "HTML",
-    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
-  },
-  {
-    "repo": "XiaomiMiMo/MiMo-V2.5-ASR",
+    "repo": "JustJorr/Adopt_Me__-_Pet_Auto-Farm___Trade_Bot",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Premium trainer for Adopt Me!, the legendary pet simulation game with over 43 billion visits[reference:8]. Automate pet raising, auto-hatch eggs, and use the trade bot to get legendary pets. Become the ultimate pet collector."
   },
   {
-    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
-  },
-  {
-    "repo": "0xSteph/pentest-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
-  },
-  {
-    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
-  },
-  {
-    "repo": "NullLatency/FlowDriver",
-    "branch": "master",
-    "language": "Go",
-    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
-  },
-  {
-    "repo": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
+    "repo": "cote-tony/walletgen",
     "branch": "main",
     "language": "C++",
-    "description": "Legend Zelda Twilight Princess PC Download April 2026 High Performance 4K 60FPS Enhancement Suite Midna Shadow Shaders Texture Pack Ultra Wide Support High Refresh Rate Emulation Fix Gaming Utility Stable Build Free Project Preservation Tutorial Guide"
+    "description": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator."
+  },
+  {
+    "repo": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass."
+  },
+  {
+    "repo": "maria-rcks/dinorip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free & Open Source Texture Ripper"
+  },
+  {
+    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "DatanoiseTV/ember-hackernews",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies."
+  },
+  {
+    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
+  },
+  {
+    "repo": "cclank/lanshu-animated-architecture-diagram",
+    "branch": "main",
+    "language": "Python",
+    "description": "Premium hand-drawn animated architecture diagram Codex skill"
+  },
+  {
+    "repo": "sylliest/GIF_Creator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Create animated GIFs from videos or images. Add text, resize, control speed, and optimize file size."
+  },
+  {
+    "repo": "tiago1982santos-design/Hotkey_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Create global hotkeys to launch applications, open files, or perform custom actions. Improve productivity by reducing mouse clicks."
+  },
+  {
+    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
+  },
+  {
+    "repo": "baidu/Unlimited-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+  },
+  {
+    "repo": "lycorp-jp/sim-use",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices."
+  },
+  {
+    "repo": "PMTraderAdam/pm-adam-trader",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Mega auto farm trainer for Pet Simulator 99 – automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
+  },
+  {
+    "repo": "okturro/asr-rescore-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Benchmark for LLM-based ASR n-best rescoring (ngram, neural-LM, MLM-PLL, LLM-prompt strategies)."
+  },
+  {
+    "repo": "0xSero/codex-shim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
   }
 ]
