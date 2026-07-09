@@ -1,146 +1,146 @@
 [
   {
-    "repo": "omarabdelazez11/Valorant_TriggerBot_Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass."
-  },
-  {
-    "repo": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included."
-  },
-  {
-    "repo": "programmersd21/flow",
-    "branch": "main",
+    "repo": "go-resty/resty",
+    "branch": "master",
     "language": "Go",
-    "description": "🌊 see your network breathe"
+    "description": "Simple HTTP, REST, and SSE client library for Go"
   },
   {
-    "repo": "theartistscut1-uig/Metro_Last_Light_Unlimited_Ammo___Filters",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited ammo, filters, and health for Metro Last Light. Never run out of oxygen, infinite military-grade rounds, and god mode."
-  },
-  {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
-  },
-  {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
-  },
-  {
-    "repo": "JustJorr/Adopt_Me__-_Pet_Auto-Farm___Trade_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Premium trainer for Adopt Me!, the legendary pet simulation game with over 43 billion visits[reference:8]. Automate pet raising, auto-hatch eggs, and use the trade bot to get legendary pets. Become the ultimate pet collector."
-  },
-  {
-    "repo": "cote-tony/walletgen",
-    "branch": "main",
-    "language": "C++",
-    "description": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator."
-  },
-  {
-    "repo": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass."
-  },
-  {
-    "repo": "maria-rcks/dinorip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free & Open Source Texture Ripper"
-  },
-  {
-    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "DatanoiseTV/ember-hackernews",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies."
-  },
-  {
-    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
-  },
-  {
-    "repo": "cclank/lanshu-animated-architecture-diagram",
-    "branch": "main",
-    "language": "Python",
-    "description": "Premium hand-drawn animated architecture diagram Codex skill"
-  },
-  {
-    "repo": "sylliest/GIF_Creator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create animated GIFs from videos or images. Add text, resize, control speed, and optimize file size."
-  },
-  {
-    "repo": "tiago1982santos-design/Hotkey_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create global hotkeys to launch applications, open files, or perform custom actions. Improve productivity by reducing mouse clicks."
-  },
-  {
-    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
-  },
-  {
-    "repo": "baidu/Unlimited-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
-  },
-  {
-    "repo": "lycorp-jp/sim-use",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices."
-  },
-  {
-    "repo": "PMTraderAdam/pm-adam-trader",
-    "branch": "main",
-    "language": "TypeScript",
+    "repo": "dotcl/dotcl",
+    "branch": "master",
+    "language": "C#",
     "description": ""
   },
   {
-    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega",
+    "repo": "extism/extism",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Mega auto farm trainer for Pet Simulator 99 – automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
+    "language": "Rust",
+    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
   },
   {
-    "repo": "okturro/asr-rescore-bench",
+    "repo": "lens-protocol/lens-protocol",
     "branch": "main",
-    "language": "Python",
-    "description": "Benchmark for LLM-based ASR n-best rescoring (ngram, neural-LM, MLM-PLL, LLM-prompt strategies)."
+    "language": "Solidity",
+    "description": "The Lens Protocol"
   },
   {
-    "repo": "0xSero/codex-shim",
+    "repo": "LocoreMind/LocoTrainer",
     "branch": "main",
     "language": "Python",
-    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
+    "description": "MS-SWIFT domain expert agent for codebase analysis and report generation"
+  },
+  {
+    "repo": "NateBJones-Projects/OB1",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
+  },
+  {
+    "repo": "shanselman/MaximizeToVirtualDesktop",
+    "branch": "master",
+    "language": "C#",
+    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
+  },
+  {
+    "repo": "CopilotKit/OpenGenerativeUI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-Source Generative UI Framework"
+  },
+  {
+    "repo": "invertase/react-native-firebase",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+  },
+  {
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "vibe-music/vibe-music-web",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+  },
+  {
+    "repo": "optuna/optuna",
+    "branch": "master",
+    "language": "Python",
+    "description": "A hyperparameter optimization framework"
+  },
+  {
+    "repo": "onecli/onecli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source credential vault, give your AI agents access to services without exposing keys."
+  },
+  {
+    "repo": "vsouza/awesome-ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+  },
+  {
+    "repo": "Zyora-Dev/zse",
+    "branch": "main",
+    "language": "Python",
+    "description": "Zyora Server Inference Engine for LLM ."
+  },
+  {
+    "repo": "Doriandarko/webmcp-starter",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
+  },
+  {
+    "repo": "tanviet12/chat-quality-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "ngrx/platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive State for Angular"
+  },
+  {
+    "repo": "karpathy/jobs",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually."
+  },
+  {
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A Vue3.x UI components lib for TDesign."
+  },
+  {
+    "repo": "Soul-AILab/SoulX-Singer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+  },
+  {
+    "repo": "TheCSir/TerminalStart",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chromium Extension for Tech Bros"
   }
 ]
