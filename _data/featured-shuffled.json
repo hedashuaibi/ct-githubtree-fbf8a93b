@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kunchenguid/dotfiles",
+    "repo": "hoaibaone/OP-Auto-Clicker",
     "branch": "main",
-    "language": "Nix",
-    "description": "Kun's dotfiles for agentic engineering"
+    "language": "C#",
+    "description": "OP Auto Clicker download automatic mouse clicker automation utility gaming Roblox Minecraft Cookie Clicker fast clicking intervals hotkeys macro mouse button record playback free open source portable PC mobile script trigger settings single double triple."
   },
   {
-    "repo": "ryfineZ/codex-session-patcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
-  },
-  {
-    "repo": "airbnb/javascript",
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript Style Guide"
+    "language": "TypeScript",
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
   },
   {
-    "repo": "godotengine/godot-proposals",
+    "repo": "golang/protobuf",
     "branch": "master",
-    "language": "Other",
-    "description": "Godot Improvement Proposals (GIPs)"
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
   },
   {
-    "repo": "mverschu/adwsdomaindump",
+    "repo": "DenisSergeevitch/repo-task-proof-loop",
     "branch": "main",
     "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
+    "description": "Spec driven skill with subagents spawning"
   },
   {
-    "repo": "alibaba/FunASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
   },
   {
-    "repo": "GreenSheep01201/claw-empire",
+    "repo": "vercel-labs/webreel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+    "description": "Record scripted browser demos as video"
   },
   {
-    "repo": "ForLoopCodes/contextplus",
+    "repo": "bleuropa/loomkin",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
   },
   {
-    "repo": "xyzeva/k-id-age-verifier",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "atom/atom",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":atom: The hackable text editor"
-  },
-  {
-    "repo": "scalessec/Toast-Swift",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A Swift extension that adds toast notifications to the UIView object class."
-  },
-  {
-    "repo": "6551Team/opentwitter-mcp",
+    "repo": "chixi4/Qwen3.5-9B-ToolHub",
     "branch": "main",
     "language": "Python",
-    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+    "description": "Qwen3.5-9B ToolHub-v1.0.0"
   },
   {
-    "repo": "lapce/lapce",
-    "branch": "master",
+    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
+    "branch": "main",
     "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
   },
   {
-    "repo": "molefrog/skills",
+    "repo": "Follow-Gabagool22/5min-btc-polymarket-trading-bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+    "language": "Rust",
+    "description": "5min btc polymarket trading bot that is polymarket trading bot that trade in 5 btc market polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
+    "repo": "nv-tlabs/kimodo",
     "branch": "main",
     "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
-  },
-  {
-    "repo": "Sir-Scuzza/gluetun-webui",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "PyGithub/PyGithub",
+    "repo": "SVProgressHUD/SVProgressHUD",
     "branch": "master",
-    "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
+    "language": "Objective-C",
+    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
   },
   {
-    "repo": "MooseGoose0701/skill-compose",
+    "repo": "GoogleContainerTools/jib",
+    "branch": "master",
+    "language": "Java",
+    "description": "🏗 Build container images for your Java applications."
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "branch": "master",
+    "language": "C++",
+    "description": "Truly independent web browser"
+  },
+  {
+    "repo": "harrymunro/nelson",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+  },
+  {
+    "repo": "gpasquero/voog",
     "branch": "main",
     "language": "Python",
-    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
   },
   {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
-  },
-  {
-    "repo": "prometheus/node_exporter",
+    "repo": "rook/rook",
     "branch": "master",
     "language": "Go",
-    "description": "Exporter for machine metrics"
+    "description": "Storage Orchestration for Kubernetes"
   },
   {
-    "repo": "mickamy/sql-tap",
-    "branch": "main",
-    "language": "Go",
-    "description": "Watch SQL traffic in real-time with a TUI"
-  },
-  {
-    "repo": "microsoft/fluentui",
+    "repo": "firebase/firebase-android-sdk",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
+    "language": "Java",
+    "description": "Firebase Android SDK"
   },
   {
-    "repo": "fastai/course-v3",
+    "repo": "marktext/marktext",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The 3rd edition of course.fast.ai"
+    "language": "JavaScript",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
   },
   {
-    "repo": "suborbital/sat",
-    "branch": "main",
+    "repo": "go-micro/go-micro",
+    "branch": "master",
     "language": "Go",
-    "description": "Tiny & fast WebAssembly edge compute server"
+    "description": "A Go microservices framework"
+  },
+  {
+    "repo": "stargazerwh/RAG-Lighter",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "mathiaschu/meta-ads-analyzer",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
+  },
+  {
+    "repo": "HackingDave/nightwire",
+    "branch": "main",
+    "language": "Python",
+    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
+  },
+  {
+    "repo": "realm/SwiftLint",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tool to enforce Swift style and conventions."
   }
 ]

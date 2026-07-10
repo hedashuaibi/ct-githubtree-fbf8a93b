@@ -1,8 +1,8 @@
 {
-  "repo": "HaradaKashiwa/ternssh",
+  "repo": "ai-twinkle/rlhf-book-zh-tw",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A web-based SSH solution that can be deployed on Cloudflare Workers.",
-  "stars": 119,
-  "forks": 22
+  "language": "HTML",
+  "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs",
+  "stars": 130,
+  "forks": 27
 }
