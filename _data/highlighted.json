@@ -1,8 +1,8 @@
 {
-  "repo": "SirBlondieDK/HADocs",
+  "repo": "ai-twinkle/rlhf-book-zh-tw",
   "branch": "main",
   "language": "HTML",
-  "description": "HADocs automatically documents, analyzes, and visualizes your Home Assistant installation. Generate comprehensive documentation, calculate a meaningful Health Score, discover configuration issues, detect unused entities, and gain deep insights into your smart home architecture.",
-  "stars": 104,
-  "forks": 5
+  "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs",
+  "stars": 119,
+  "forks": 24
 }

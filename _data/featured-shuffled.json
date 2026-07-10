@@ -1,146 +1,146 @@
 [
   {
-    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
+    "repo": "Neighbor-Z/SwiftMTP",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A modern MTP device management tool for macOS."
+  },
+  {
+    "repo": "viplismism/rlm-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
+    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
   },
   {
-    "repo": "DLYuanGod/MegaTrain",
+    "repo": "lerna/lerna",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
   },
   {
-    "repo": "open-telemetry/opentelemetry-collector",
+    "repo": "docker/compose",
     "branch": "main",
     "language": "Go",
-    "description": "OpenTelemetry Collector"
+    "description": "Define and run multi-container applications with Docker"
   },
   {
-    "repo": "pretyflaco/meetscribe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
-  },
-  {
-    "repo": "ynsmroztas/AndroHunter",
-    "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
-  },
-  {
-    "repo": "edgedb/edgedb",
+    "repo": "ipfs/js-ipfs",
     "branch": "master",
-    "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
   },
   {
-    "repo": "libuv/libuv",
-    "branch": "v1.x",
-    "language": "C",
-    "description": "Cross-platform asynchronous I/O"
+    "repo": "jackc/pgx",
+    "branch": "master",
+    "language": "Go",
+    "description": "PostgreSQL driver and toolkit for Go"
   },
   {
-    "repo": "facebook/folly",
+    "repo": "gin-gonic/gin",
+    "branch": "master",
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+  },
+  {
+    "repo": "pmndrs/drei",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🥉 useful helpers for react-three-fiber"
+  },
+  {
+    "repo": "ethers-io/ethers.js",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Complete Ethereum library and wallet implementation in JavaScript."
+  },
+  {
+    "repo": "pytorch/xla",
+    "branch": "master",
     "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
+    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
   },
   {
-    "repo": "libp2p/go-libp2p",
+    "repo": "NVIDIA/cuda-samples",
     "branch": "master",
+    "language": "C",
+    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
+  },
+  {
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
     "language": "Go",
-    "description": "libp2p implementation in Go"
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
   },
   {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "apache/tvm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Machine Learning Compiler Framework"
-  },
-  {
-    "repo": "H-EmbodVis/VEGA-3D",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
-  },
-  {
-    "repo": "gvisor/gvisor",
+    "repo": "ossu/computer-science",
     "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
   },
   {
-    "repo": "sorrycc/awesome-javascript",
+    "repo": "Solido/awesome-flutter",
     "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
   },
   {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "uber-go/zap",
+    "repo": "rest-assured/rest-assured",
     "branch": "master",
-    "language": "Go",
-    "description": "Blazing fast, structured, leveled logging in Go."
+    "language": "Java",
+    "description": "Java DSL for easy testing of REST services"
   },
   {
-    "repo": "guardrailsio/awesome-python-security",
+    "repo": "gorhill/uBlock",
     "branch": "master",
-    "language": "Other",
-    "description": "Awesome Python Security resources 🕶🐍🔐"
+    "language": "JavaScript",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
   },
   {
-    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
+    "repo": "flame-engine/flame",
     "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
+    "language": "Dart",
+    "description": "A Flutter based game engine."
   },
   {
-    "repo": "joeseesun/markdown-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+    "repo": "tj/n",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node version management"
   },
   {
-    "repo": "knowsuchagency/mcp2cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
-  },
-  {
-    "repo": "nagisanzenin/skyclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
-  },
-  {
-    "repo": "ansible/awx",
-    "branch": "devel",
-    "language": "Python",
-    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
-  },
-  {
-    "repo": "lcoutodemos/clui-cc",
-    "branch": "main",
+    "repo": "apache/superset",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Clui CC — Command Line User Interface for Claude Code"
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
   },
   {
-    "repo": "second-state/kitten_tts_rs",
+    "repo": "kubevirt/kubevirt",
     "branch": "main",
-    "language": "Rust",
-    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+    "language": "Go",
+    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
+  },
+  {
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+  },
+  {
+    "repo": "web3/web3.js",
+    "branch": "1.x",
+    "language": "TypeScript",
+    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "branch": "main",
+    "language": "Go",
+    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
   }
 ]
