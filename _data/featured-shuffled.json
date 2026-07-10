@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Neighbor-Z/SwiftMTP",
+    "repo": "kunchenguid/dotfiles",
     "branch": "main",
+    "language": "Nix",
+    "description": "Kun's dotfiles for agentic engineering"
+  },
+  {
+    "repo": "ryfineZ/codex-session-patcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+  },
+  {
+    "repo": "airbnb/javascript",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript Style Guide"
+  },
+  {
+    "repo": "godotengine/godot-proposals",
+    "branch": "master",
+    "language": "Other",
+    "description": "Godot Improvement Proposals (GIPs)"
+  },
+  {
+    "repo": "mverschu/adwsdomaindump",
+    "branch": "main",
+    "language": "Python",
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
+  },
+  {
+    "repo": "alibaba/FunASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+  },
+  {
+    "repo": "GreenSheep01201/claw-empire",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+  },
+  {
+    "repo": "ForLoopCodes/contextplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+  },
+  {
+    "repo": "atom/atom",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":atom: The hackable text editor"
+  },
+  {
+    "repo": "scalessec/Toast-Swift",
+    "branch": "master",
     "language": "Swift",
-    "description": "A modern MTP device management tool for macOS."
+    "description": "A Swift extension that adds toast notifications to the UIView object class."
   },
   {
-    "repo": "viplismism/rlm-cli",
+    "repo": "6551Team/opentwitter-mcp",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+    "language": "Python",
+    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
   },
   {
-    "repo": "lerna/lerna",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "ipfs/js-ipfs",
+    "repo": "lapce/lapce",
     "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "molefrog/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+  },
+  {
+    "repo": "apple/python-apple-fm-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "Sir-Scuzza/gluetun-webui",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
+    "description": ""
   },
   {
-    "repo": "jackc/pgx",
-    "branch": "master",
-    "language": "Go",
-    "description": "PostgreSQL driver and toolkit for Go"
-  },
-  {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
-    "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
-  },
-  {
-    "repo": "pmndrs/drei",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🥉 useful helpers for react-three-fiber"
-  },
-  {
-    "repo": "ethers-io/ethers.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Complete Ethereum library and wallet implementation in JavaScript."
-  },
-  {
-    "repo": "pytorch/xla",
-    "branch": "master",
-    "language": "C++",
-    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
-  },
-  {
-    "repo": "NVIDIA/cuda-samples",
-    "branch": "master",
-    "language": "C",
-    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
-  },
-  {
-    "repo": "tensorflow/models",
+    "repo": "PyGithub/PyGithub",
     "branch": "master",
     "language": "Python",
-    "description": "Models and examples built with TensorFlow"
+    "description": "Typed interactions with the GitHub API v3"
   },
   {
-    "repo": "tendermint/tendermint",
+    "repo": "MooseGoose0701/skill-compose",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+  },
+  {
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "GitHub Action to alert on security patches before the CVE drops."
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "branch": "master",
+    "language": "Go",
+    "description": "Exporter for machine metrics"
+  },
+  {
+    "repo": "mickamy/sql-tap",
     "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "Watch SQL traffic in real-time with a TUI"
   },
   {
-    "repo": "ossu/computer-science",
-    "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
-  },
-  {
-    "repo": "Solido/awesome-flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "rest-assured/rest-assured",
-    "branch": "master",
-    "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
-  },
-  {
-    "repo": "gorhill/uBlock",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
-  },
-  {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "tj/n",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node version management"
-  },
-  {
-    "repo": "apache/superset",
+    "repo": "microsoft/fluentui",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
   },
   {
-    "repo": "kubevirt/kubevirt",
+    "repo": "fastai/course-v3",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The 3rd edition of course.fast.ai"
+  },
+  {
+    "repo": "suborbital/sat",
     "branch": "main",
     "language": "Go",
-    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
-  },
-  {
-    "repo": "cypress-io/cypress",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
-  },
-  {
-    "repo": "web3/web3.js",
-    "branch": "1.x",
-    "language": "TypeScript",
-    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
-  },
-  {
-    "repo": "cosmos/cosmos-sdk",
-    "branch": "main",
-    "language": "Go",
-    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
+    "description": "Tiny & fast WebAssembly edge compute server"
   }
 ]
