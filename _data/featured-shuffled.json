@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
+    "repo": "rabeelaimony/Archive_Password_Recovery",
+    "branch": "main",
+    "language": "Python",
+    "description": "Recover forgotten passwords for ZIP, RAR, 7Z archives using brute-force, dictionary, or mask attacks. Useful for accessing old files."
   },
   {
-    "repo": "Archive228/loopkit",
+    "repo": "delbaoliveira/learn-claude-code",
     "branch": "main",
     "language": "JavaScript",
-    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI)."
+    "description": ""
   },
   {
-    "repo": "PyGithub/PyGithub",
+    "repo": "google-research/bert",
     "branch": "master",
     "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
+    "description": "TensorFlow code and pre-trained models for BERT"
   },
   {
-    "repo": "facebookresearch/fairseq",
-    "branch": "main",
-    "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
-  },
-  {
-    "repo": "launchbadge/sqlx",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
-  },
-  {
-    "repo": "iterative/dvc",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦉 Data Versioning and ML Experiments"
-  },
-  {
-    "repo": "getsentry/sentry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
-  },
-  {
-    "repo": "pocketbase/pocketbase",
-    "branch": "master",
-    "language": "Go",
-    "description": "Open Source realtime backend in 1 file"
-  },
-  {
-    "repo": "TanStack/query",
+    "repo": "safe-global/safe-contracts",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+    "description": "Safe allows secure management of blockchain assets."
   },
   {
-    "repo": "Dataherald/dataherald",
-    "branch": "main",
-    "language": "Python",
-    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
-  },
-  {
-    "repo": "openobserve/openobserve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
-  },
-  {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "NCSC-NL/spring4shell",
+    "repo": "torproject/tor",
     "branch": "main",
     "language": "Other",
-    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
   },
   {
-    "repo": "kubernetes/ingress-nginx",
-    "branch": "main",
-    "language": "Go",
-    "description": "Ingress NGINX Controller for Kubernetes"
-  },
-  {
-    "repo": "react-native-async-storage/async-storage",
+    "repo": "signalapp/Signal-Desktop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An asynchronous, persistent, key-value storage system for React Native."
+    "description": "A private messenger for Windows, macOS, and Linux."
   },
   {
-    "repo": "nextui-org/nextui",
+    "repo": "react-native-picker/picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Picker is a cross-platform UI component for selecting an item from a list of options."
+  },
+  {
+    "repo": "angular/angular-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+    "description": "CLI tool for Angular"
   },
   {
-    "repo": "realm/realm-swift",
+    "repo": "androidx/media",
+    "branch": "main",
+    "language": "Java",
+    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
+  },
+  {
+    "repo": "pedronauck/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "My personal favorite skills"
+  },
+  {
+    "repo": "reduxjs/reselect",
     "branch": "master",
-    "language": "Objective-C",
-    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
+    "language": "TypeScript",
+    "description": "Selector library for Redux"
   },
   {
-    "repo": "kyverno/kyverno",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cloud Native Policy Management"
-  },
-  {
-    "repo": "paritytech/polkadot-sdk",
+    "repo": "ForrestKnight/open-source-cs",
     "branch": "master",
-    "language": "Rust",
-    "description": "The Parity Polkadot Blockchain SDK"
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
   },
   {
-    "repo": "open-policy-agent/opa",
+    "repo": "unicodeveloper/globalthreatmap",
     "branch": "main",
-    "language": "Go",
-    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
+    "language": "TypeScript",
+    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
   },
   {
-    "repo": "MichaelCade/90DaysOfDevOps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
-  },
-  {
-    "repo": "prettier/eslint-config-prettier",
+    "repo": "DeveloperExotic/LegacyCrossPlay",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
   },
   {
-    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "repo": "aave/aave-v2",
+    "branch": "master",
+    "language": "Other",
+    "description": "Aave Protocol V2"
+  },
+  {
+    "repo": "remotion-dev/remotion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎥      Make videos programmatically with React"
+  },
+  {
+    "repo": "tensorflow/probability",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+  },
+  {
+    "repo": "libtv-labs/libtv-skills",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "TheCaspianAI/Caspian",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
+  },
+  {
+    "repo": "confluentinc/kafka-rest",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent REST Proxy for Kafka"
+  },
+  {
+    "repo": "gorhom/react-native-bottom-sheet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+  },
+  {
+    "repo": "symbolica-ai/arcgentica",
+    "branch": "main",
+    "language": "Python",
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
+  },
+  {
+    "repo": "xgen-universe/Capybara",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "branch": "master",
+    "language": "C++",
+    "description": "ClickHouse® is a real-time analytics database management system"
   }
 ]
