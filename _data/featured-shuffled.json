@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hpennington/agentswift",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "meodai/heerich",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
-  },
-  {
-    "repo": "prusa3d/PrusaSlicer",
-    "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
-  },
-  {
-    "repo": "DegenSugarBoo/OpenBook",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape."
-  },
-  {
-    "repo": "software-mansion/react-native-screens",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native navigation primitives for your React Native app."
-  },
-  {
-    "repo": "electron/electron",
-    "branch": "main",
-    "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
-  },
-  {
-    "repo": "axios/axios",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
-  },
-  {
-    "repo": "adafruit/circuitpython",
-    "branch": "main",
-    "language": "C",
-    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
-  },
-  {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
-  },
-  {
-    "repo": "firebase/firebase-ios-sdk",
-    "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
-  },
-  {
-    "repo": "appbrewery/Flutter-Course-Resources",
-    "branch": "master",
-    "language": "Other",
-    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
-  },
-  {
-    "repo": "blacksiders/SkillPointer",
+    "repo": "dsd2077/CyberVerse",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
   },
   {
-    "repo": "whisperbit-labs/zemzeme-android",
+    "repo": "CyrilPeng/FlowScroll",
     "branch": "main",
+    "language": "Python",
+    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
+  },
+  {
+    "repo": "zoontek/react-native-permissions",
+    "branch": "master",
+    "language": "Objective-C++",
+    "description": "An unified permissions API for React Native on iOS, Android and Windows."
+  },
+  {
+    "repo": "emacs-mirror/emacs",
+    "branch": "master",
+    "language": "Emacs Lisp",
+    "description": "Mirror of GNU Emacs"
+  },
+  {
+    "repo": "mochajs/mocha",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+  },
+  {
+    "repo": "BuilderIO/qwik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Instant-loading web apps, without effort"
+  },
+  {
+    "repo": "GoogleContainerTools/kaniko",
+    "branch": "main",
+    "language": "Go",
+    "description": "Build Container Images In Kubernetes"
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "adobe/react-spectrum",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+  },
+  {
+    "repo": "rustwasm/wasm-pack",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+  },
+  {
+    "repo": "starkware-libs/cairo",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "branch": "master",
+    "language": "Go",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+  },
+  {
+    "repo": "tensorflow/tfx",
+    "branch": "master",
+    "language": "Python",
+    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
+  },
+  {
+    "repo": "godotengine/godot",
+    "branch": "master",
+    "language": "C++",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+  },
+  {
+    "repo": "pytorch/ignite",
+    "branch": "master",
+    "language": "Python",
+    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+  },
+  {
+    "repo": "certbot/certbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+  },
+  {
+    "repo": "tensorflow/hub",
+    "branch": "master",
+    "language": "Python",
+    "description": "A library for transfer learning by reusing parts of TensorFlow models."
+  },
+  {
+    "repo": "primefaces/primereact",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Most Complete React UI Component Library"
+  },
+  {
+    "repo": "element-hq/element-android",
+    "branch": "develop",
     "language": "Kotlin",
-    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
+    "description": "A Matrix collaboration client for Android."
   },
   {
-    "repo": "viplismism/rlm-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
-  },
-  {
-    "repo": "spring-projects/spring-data-jpa",
-    "branch": "main",
-    "language": "Java",
-    "description": "Simplifies the development of creating a JPA-based data access layer."
-  },
-  {
-    "repo": "NoizAI/skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
-  },
-  {
-    "repo": "googleworkspace/cli",
-    "branch": "main",
+    "repo": "starship/starship",
+    "branch": "master",
     "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
   },
   {
-    "repo": "freeCodeCamp/freeCodeCamp",
+    "repo": "privacyguides/privacyguides.org",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    "language": "Markdown",
+    "description": "Protect your data against global mass surveillance programs."
   },
   {
-    "repo": "edwardsanchez/MotionEyes",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "bufbuild/buf",
-    "branch": "main",
-    "language": "Go",
-    "description": "The best way of working with Protocol Buffers."
-  },
-  {
-    "repo": "aaronjmars/MiroShark",
-    "branch": "main",
+    "repo": "encode/django-rest-framework",
+    "branch": "master",
     "language": "Python",
-    "description": "Universal Swarm Intelligence Engine"
-  },
-  {
-    "repo": "tanishqkumar/ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
-  },
-  {
-    "repo": "hashicorp/vault",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
-  },
-  {
-    "repo": "traderwillhu/market_dashboard",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "description": "Web APIs for Django. 🎸"
   }
 ]

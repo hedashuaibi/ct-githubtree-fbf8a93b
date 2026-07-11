@@ -1,8 +1,8 @@
 {
-  "repo": "SilentFleetKK/ai-market-pulse",
+  "repo": "thatmagicalcat/txm",
   "branch": "main",
-  "language": "Python",
-  "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-  "stars": 123,
-  "forks": 22
+  "language": "Rust",
+  "description": "Terminal Math rendering engine",
+  "stars": 224,
+  "forks": 13
 }
