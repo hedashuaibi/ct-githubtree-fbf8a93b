@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rabeelaimony/Archive_Password_Recovery",
+    "repo": "hpennington/agentswift",
     "branch": "main",
-    "language": "Python",
-    "description": "Recover forgotten passwords for ZIP, RAR, 7Z archives using brute-force, dictionary, or mask attacks. Useful for accessing old files."
-  },
-  {
-    "repo": "delbaoliveira/learn-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "google-research/bert",
-    "branch": "master",
-    "language": "Python",
-    "description": "TensorFlow code and pre-trained models for BERT"
-  },
-  {
-    "repo": "safe-global/safe-contracts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Safe allows secure management of blockchain assets."
-  },
-  {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
-  },
-  {
-    "repo": "signalapp/Signal-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
-  },
-  {
-    "repo": "react-native-picker/picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Picker is a cross-platform UI component for selecting an item from a list of options."
-  },
-  {
-    "repo": "angular/angular-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI tool for Angular"
-  },
-  {
-    "repo": "androidx/media",
-    "branch": "main",
-    "language": "Java",
-    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
-  },
-  {
-    "repo": "pedronauck/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "My personal favorite skills"
-  },
-  {
-    "repo": "reduxjs/reselect",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Selector library for Redux"
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "unicodeveloper/globalthreatmap",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
-  },
-  {
-    "repo": "DeveloperExotic/LegacyCrossPlay",
+    "repo": "meodai/heerich",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
   },
   {
-    "repo": "aave/aave-v2",
-    "branch": "master",
-    "language": "Other",
-    "description": "Aave Protocol V2"
-  },
-  {
-    "repo": "remotion-dev/remotion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
-  },
-  {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "libtv-labs/libtv-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "TheCaspianAI/Caspian",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
-  },
-  {
-    "repo": "confluentinc/kafka-rest",
-    "branch": "master",
-    "language": "Java",
-    "description": "Confluent REST Proxy for Kafka"
-  },
-  {
-    "repo": "gorhom/react-native-bottom-sheet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
-    "branch": "main",
-    "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
-  },
-  {
-    "repo": "xgen-universe/Capybara",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ClickHouse/ClickHouse",
+    "repo": "prusa3d/PrusaSlicer",
     "branch": "master",
     "language": "C++",
-    "description": "ClickHouse® is a real-time analytics database management system"
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+  },
+  {
+    "repo": "DegenSugarBoo/OpenBook",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape."
+  },
+  {
+    "repo": "software-mansion/react-native-screens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Native navigation primitives for your React Native app."
+  },
+  {
+    "repo": "electron/electron",
+    "branch": "main",
+    "language": "C++",
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+  },
+  {
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
+  },
+  {
+    "repo": "adafruit/circuitpython",
+    "branch": "main",
+    "language": "C",
+    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+  },
+  {
+    "repo": "smartcmd/MinecraftConsoles",
+    "branch": "main",
+    "language": "C++",
+    "description": "A certain block game"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "appbrewery/Flutter-Course-Resources",
+    "branch": "master",
+    "language": "Other",
+    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
+  },
+  {
+    "repo": "blacksiders/SkillPointer",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "whisperbit-labs/zemzeme-android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
+  },
+  {
+    "repo": "viplismism/rlm-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+  },
+  {
+    "repo": "spring-projects/spring-data-jpa",
+    "branch": "main",
+    "language": "Java",
+    "description": "Simplifies the development of creating a JPA-based data access layer."
+  },
+  {
+    "repo": "NoizAI/skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+  },
+  {
+    "repo": "googleworkspace/cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "edwardsanchez/MotionEyes",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "bufbuild/buf",
+    "branch": "main",
+    "language": "Go",
+    "description": "The best way of working with Protocol Buffers."
+  },
+  {
+    "repo": "aaronjmars/MiroShark",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal Swarm Intelligence Engine"
+  },
+  {
+    "repo": "tanishqkumar/ssd",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
+  },
+  {
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "traderwillhu/market_dashboard",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
   }
 ]

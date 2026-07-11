@@ -1,8 +1,8 @@
 {
-  "repo": "osama-fawad/Pekingman",
+  "repo": "SilentFleetKK/ai-market-pulse",
   "branch": "main",
-  "language": "HTML",
-  "description": "A featured project on GitHubTree.",
-  "stars": 160,
-  "forks": 3
+  "language": "Python",
+  "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+  "stars": 123,
+  "forks": 22
 }
