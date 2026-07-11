@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hoaibaone/OP-Auto-Clicker",
-    "branch": "main",
-    "language": "C#",
-    "description": "OP Auto Clicker download automatic mouse clicker automation utility gaming Roblox Minecraft Cookie Clicker fast clicking intervals hotkeys macro mouse button record playback free open source portable PC mobile script trigger settings single double triple."
-  },
-  {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "DenisSergeevitch/repo-task-proof-loop",
-    "branch": "main",
-    "language": "Python",
-    "description": "Spec driven skill with subagents spawning"
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
+    "repo": "pi-hole/pi-hole",
     "branch": "master",
     "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+    "description": "A black hole for Internet advertisements"
   },
   {
-    "repo": "vercel-labs/webreel",
+    "repo": "Archive228/loopkit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI)."
+  },
+  {
+    "repo": "PyGithub/PyGithub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Typed interactions with the GitHub API v3"
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "branch": "main",
+    "language": "Python",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+  },
+  {
+    "repo": "launchbadge/sqlx",
+    "branch": "main",
+    "language": "Rust",
+    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
+  },
+  {
+    "repo": "iterative/dvc",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦉 Data Versioning and ML Experiments"
+  },
+  {
+    "repo": "getsentry/sentry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Developer-first error tracking and performance monitoring"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "branch": "master",
+    "language": "Go",
+    "description": "Open Source realtime backend in 1 file"
+  },
+  {
+    "repo": "TanStack/query",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
   },
   {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "repo": "Dataherald/dataherald",
     "branch": "main",
     "language": "Python",
-    "description": "Qwen3.5-9B ToolHub-v1.0.0"
+    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
   },
   {
-    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
+    "repo": "openobserve/openobserve",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+  },
+  {
+    "repo": "solana-labs/solana",
+    "branch": "master",
     "language": "Rust",
-    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
   },
   {
-    "repo": "Follow-Gabagool22/5min-btc-polymarket-trading-bot",
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
+  },
+  {
+    "repo": "NCSC-NL/spring4shell",
     "branch": "main",
-    "language": "Rust",
-    "description": "5min btc polymarket trading bot that is polymarket trading bot that trade in 5 btc market polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "language": "Other",
+    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
   },
   {
-    "repo": "nv-tlabs/kimodo",
+    "repo": "kubernetes/ingress-nginx",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Go",
+    "description": "Ingress NGINX Controller for Kubernetes"
   },
   {
-    "repo": "SVProgressHUD/SVProgressHUD",
+    "repo": "react-native-async-storage/async-storage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
+  },
+  {
+    "repo": "nextui-org/nextui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+  },
+  {
+    "repo": "realm/realm-swift",
     "branch": "master",
     "language": "Objective-C",
-    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
   },
   {
-    "repo": "GoogleContainerTools/jib",
+    "repo": "kyverno/kyverno",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cloud Native Policy Management"
+  },
+  {
+    "repo": "paritytech/polkadot-sdk",
     "branch": "master",
-    "language": "Java",
-    "description": "🏗 Build container images for your Java applications."
+    "language": "Rust",
+    "description": "The Parity Polkadot Blockchain SDK"
   },
   {
-    "repo": "LadybirdBrowser/ladybird",
-    "branch": "master",
-    "language": "C++",
-    "description": "Truly independent web browser"
+    "repo": "open-policy-agent/opa",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
   },
   {
-    "repo": "harrymunro/nelson",
+    "repo": "MichaelCade/90DaysOfDevOps",
     "branch": "main",
     "language": "Shell",
-    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
   },
   {
-    "repo": "gpasquero/voog",
+    "repo": "prettier/eslint-config-prettier",
     "branch": "main",
-    "language": "Python",
-    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
-  },
-  {
-    "repo": "rook/rook",
-    "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
-  },
-  {
-    "repo": "firebase/firebase-android-sdk",
-    "branch": "master",
-    "language": "Java",
-    "description": "Firebase Android SDK"
-  },
-  {
-    "repo": "marktext/marktext",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
   },
   {
-    "repo": "go-micro/go-micro",
-    "branch": "master",
-    "language": "Go",
-    "description": "A Go microservices framework"
-  },
-  {
-    "repo": "stargazerwh/RAG-Lighter",
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
     "branch": "main",
     "language": "Python",
     "description": ""
-  },
-  {
-    "repo": "mathiaschu/meta-ads-analyzer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
-  },
-  {
-    "repo": "HackingDave/nightwire",
-    "branch": "main",
-    "language": "Python",
-    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
-  },
-  {
-    "repo": "realm/SwiftLint",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A tool to enforce Swift style and conventions."
   }
 ]
