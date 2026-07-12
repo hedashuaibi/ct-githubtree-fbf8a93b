@@ -1,75 +1,57 @@
 [
   {
-    "repo": "dsd2077/CyberVerse",
+    "repo": "apache/kafka",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Mirror of Apache Kafka"
+  },
+  {
+    "repo": "Jamonygr/certified-terraform-associate-azure-edition",
     "branch": "main",
-    "language": "Python",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
+    "language": "HCL",
+    "description": "Azure-focused Terraform Associate study course with 40 lessons, labs, wikis, diagrams, validation scripts, and safety guidance."
   },
   {
-    "repo": "CyrilPeng/FlowScroll",
+    "repo": "esp-rs/esp-idf-hal",
     "branch": "main",
-    "language": "Python",
-    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
+    "language": "Rust",
+    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
   },
   {
-    "repo": "zoontek/react-native-permissions",
-    "branch": "master",
-    "language": "Objective-C++",
-    "description": "An unified permissions API for React Native on iOS, Android and Windows."
-  },
-  {
-    "repo": "emacs-mirror/emacs",
-    "branch": "master",
-    "language": "Emacs Lisp",
-    "description": "Mirror of GNU Emacs"
-  },
-  {
-    "repo": "mochajs/mocha",
+    "repo": "melonjs/melonJS",
     "branch": "master",
     "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
+    "description": "a fresh, modern & lightweight HTML5 game engine"
   },
   {
-    "repo": "software-mansion/react-native-gesture-handler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Declarative API exposing platform native touch and gesture system to React Native."
-  },
-  {
-    "repo": "BuilderIO/qwik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Instant-loading web apps, without effort"
-  },
-  {
-    "repo": "GoogleContainerTools/kaniko",
+    "repo": "grafana/mimir",
     "branch": "main",
     "language": "Go",
-    "description": "Build Container Images In Kubernetes"
+    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
   },
   {
-    "repo": "open-policy-agent/gatekeeper",
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "grpc/grpc-go",
     "branch": "master",
     "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
   },
   {
-    "repo": "adobe/react-spectrum",
+    "repo": "uuidjs/uuid",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
   },
   {
-    "repo": "rustwasm/wasm-pack",
+    "repo": "rest-assured/rest-assured",
     "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
-  },
-  {
-    "repo": "starkware-libs/cairo",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+    "language": "Java",
+    "description": "Java DSL for easy testing of REST services"
   },
   {
     "repo": "TanStack/query",
@@ -78,69 +60,87 @@
     "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
   },
   {
-    "repo": "go-gorm/gorm",
+    "repo": "pinterest/ktlint",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "An anti-bikeshedding Kotlin linter with built-in formatter"
+  },
+  {
+    "repo": "lib/pq",
     "branch": "master",
     "language": "Go",
-    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+    "description": "Go PostgreSQL driver for database/sql"
   },
   {
-    "repo": "tensorflow/tfx",
+    "repo": "bitwarden/server",
     "branch": "master",
-    "language": "Python",
-    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
   },
   {
-    "repo": "godotengine/godot",
+    "repo": "sequelize/sequelize",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "branch": "master",
+    "language": "Go",
+    "description": "Workflow Engine for Kubernetes"
+  },
+  {
+    "repo": "google/jax",
+    "branch": "main",
+    "language": "Python",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "google/sentencepiece",
     "branch": "master",
     "language": "C++",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
   },
   {
-    "repo": "pytorch/ignite",
+    "repo": "firebase/firebase-android-sdk",
+    "branch": "master",
+    "language": "Java",
+    "description": "Firebase Android SDK"
+  },
+  {
+    "repo": "microsoft/DeepSpeed",
     "branch": "master",
     "language": "Python",
-    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
   },
   {
-    "repo": "certbot/certbot",
+    "repo": "junit-team/junit4",
     "branch": "main",
-    "language": "Python",
-    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
   },
   {
-    "repo": "tensorflow/hub",
+    "repo": "godotengine/godot-docs",
     "branch": "master",
-    "language": "Python",
-    "description": "A library for transfer learning by reusing parts of TensorFlow models."
+    "language": "reStructuredText",
+    "description": "Godot Engine official documentation"
   },
   {
-    "repo": "primefaces/primereact",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Most Complete React UI Component Library"
-  },
-  {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
-    "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
-  },
-  {
-    "repo": "starship/starship",
-    "branch": "master",
-    "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
-  },
-  {
-    "repo": "privacyguides/privacyguides.org",
+    "repo": "nextui-org/nextui",
     "branch": "main",
-    "language": "Markdown",
-    "description": "Protect your data against global mass surveillance programs."
+    "language": "TypeScript",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
   },
   {
-    "repo": "encode/django-rest-framework",
+    "repo": "supabase/supabase",
     "branch": "master",
-    "language": "Python",
-    "description": "Web APIs for Django. 🎸"
+    "language": "TypeScript",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
   }
 ]
