@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apache/kafka",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Mirror of Apache Kafka"
-  },
-  {
-    "repo": "Jamonygr/certified-terraform-associate-azure-edition",
+    "repo": "eli-labz/Cognitive-Core-Skills",
     "branch": "main",
-    "language": "HCL",
-    "description": "Azure-focused Terraform Associate study course with 40 lessons, labs, wikis, diagrams, validation scripts, and safety guidance."
+    "language": "Python",
+    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
   },
   {
-    "repo": "esp-rs/esp-idf-hal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
-  },
-  {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
-  },
-  {
-    "repo": "grafana/mimir",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
-  },
-  {
-    "repo": "gradle/gradle",
-    "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
-  },
-  {
-    "repo": "grpc/grpc-go",
+    "repo": "libp2p/go-libp2p",
     "branch": "master",
     "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+    "description": "libp2p implementation in Go"
   },
   {
-    "repo": "uuidjs/uuid",
+    "repo": "coollabsio/jean",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
+    "description": "Run AI agents parallel in isolated workspaces."
   },
   {
-    "repo": "rest-assured/rest-assured",
-    "branch": "master",
-    "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
-  },
-  {
-    "repo": "TanStack/query",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
-  },
-  {
-    "repo": "pinterest/ktlint",
+    "repo": "Kotlin/kotlinx.serialization",
     "branch": "master",
     "language": "Kotlin",
-    "description": "An anti-bikeshedding Kotlin linter with built-in formatter"
+    "description": "Kotlin multiplatform / multi-format serialization"
   },
   {
-    "repo": "lib/pq",
+    "repo": "PowerShell/vscode-powershell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+  },
+  {
+    "repo": "reduxjs/redux",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A JS library for predictable global state management"
+  },
+  {
+    "repo": "openai/openai-cookbook",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Examples and guides for using the OpenAI API"
+  },
+  {
+    "repo": "square/picasso",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A powerful image downloading and caching library for Android"
+  },
+  {
+    "repo": "google/googletest",
+    "branch": "main",
+    "language": "C++",
+    "description": "GoogleTest - Google Testing and Mocking Framework"
+  },
+  {
+    "repo": "tailwindlabs/heroicons",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  },
+  {
+    "repo": "prettier/prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
+  },
+  {
+    "repo": "stretchr/testify",
     "branch": "master",
     "language": "Go",
-    "description": "Go PostgreSQL driver for database/sql"
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
   },
   {
-    "repo": "bitwarden/server",
+    "repo": "angular/components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Component infrastructure and Material Design components for Angular"
+  },
+  {
+    "repo": "shadowsocks/shadowsocks-windows",
     "branch": "master",
     "language": "C#",
-    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
+    "description": "A C# port of shadowsocks"
   },
   {
-    "repo": "sequelize/sequelize",
+    "repo": "Shopify/react-native-skia",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+    "description": "High-performance React Native Graphics using Skia"
   },
   {
-    "repo": "argoproj/argo-workflows",
+    "repo": "microsoft/fluentui",
     "branch": "master",
-    "language": "Go",
-    "description": "Workflow Engine for Kubernetes"
+    "language": "TypeScript",
+    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
   },
   {
-    "repo": "google/jax",
-    "branch": "main",
-    "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+    "repo": "curl/curl",
+    "branch": "master",
+    "language": "C",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
   },
   {
-    "repo": "pytorch/pytorch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    "repo": "moment/moment",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Parse, validate, manipulate, and display dates in javascript."
   },
   {
-    "repo": "google/sentencepiece",
+    "repo": "react-native-video/react-native-video",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A <Video /> component for react-native"
+  },
+  {
+    "repo": "microsoft/fast",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The adaptive interface system for modern web experiences."
+  },
+  {
+    "repo": "google/flatbuffers",
     "branch": "master",
     "language": "C++",
-    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
+    "description": "FlatBuffers: Memory Efficient Serialization Library"
   },
   {
-    "repo": "firebase/firebase-android-sdk",
+    "repo": "plotly/plotly.js",
     "branch": "master",
-    "language": "Java",
-    "description": "Firebase Android SDK"
+    "language": "JavaScript",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash"
   },
   {
-    "repo": "microsoft/DeepSpeed",
+    "repo": "gin-gonic/gin",
     "branch": "master",
-    "language": "Python",
-    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
   },
   {
-    "repo": "junit-team/junit4",
+    "repo": "nats-io/nats-server",
     "branch": "main",
-    "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
-  },
-  {
-    "repo": "godotengine/godot-docs",
-    "branch": "master",
-    "language": "reStructuredText",
-    "description": "Godot Engine official documentation"
-  },
-  {
-    "repo": "nextui-org/nextui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
-  },
-  {
-    "repo": "supabase/supabase",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
   }
 ]
