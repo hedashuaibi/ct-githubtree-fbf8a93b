@@ -1,146 +1,146 @@
 [
   {
-    "repo": "eli-labz/Cognitive-Core-Skills",
+    "repo": "CyC2018/CS-Notes",
+    "branch": "master",
+    "language": "Other",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "repo": "apollographql/graphql-subscriptions",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
+  },
+  {
+    "repo": "bwya77/vscode-dark-islands",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "VSCode theme based off the new Jetbrains islands theme"
+  },
+  {
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+  },
+  {
+    "repo": "getify/You-Dont-Know-JS",
+    "branch": "master",
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
+  },
+  {
+    "repo": "hiragram/agent-workspace",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "drwetter/testssl.sh",
+    "branch": "3.2",
+    "language": "Shell",
+    "description": "Testing TLS/SSL encryption anywhere on any port"
+  },
+  {
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
+    "language": "C++",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+  },
+  {
+    "repo": "iliya-Developer/VortexL2",
     "branch": "main",
     "language": "Python",
-    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
+    "description": ""
   },
   {
-    "repo": "libp2p/go-libp2p",
-    "branch": "master",
-    "language": "Go",
-    "description": "libp2p implementation in Go"
+    "repo": "ansible/awx",
+    "branch": "devel",
+    "language": "Python",
+    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
   },
   {
-    "repo": "coollabsio/jean",
+    "repo": "signalapp/Signal-iOS",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Run AI agents parallel in isolated workspaces."
+    "language": "Swift",
+    "description": "A private messenger for iOS."
   },
   {
-    "repo": "Kotlin/kotlinx.serialization",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Kotlin multiplatform / multi-format serialization"
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
+    "repo": "doocs/advanced-java",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
   },
   {
-    "repo": "reduxjs/redux",
+    "repo": "sbilly/awesome-security",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
+    "language": "Other",
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
   },
   {
-    "repo": "openai/openai-cookbook",
+    "repo": "zeroclaw-labs/zeroclaw",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
+    "language": "Rust",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
   },
   {
-    "repo": "square/picasso",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
-  },
-  {
-    "repo": "google/googletest",
-    "branch": "main",
-    "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
-  },
-  {
-    "repo": "tailwindlabs/heroicons",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
-  },
-  {
-    "repo": "prettier/prettier",
+    "repo": "fcompc4/ecommerce-kushi",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
+    "description": "E-commerce roupa"
   },
   {
-    "repo": "stretchr/testify",
-    "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
-  },
-  {
-    "repo": "angular/components",
+    "repo": "cita-777/metapi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Component infrastructure and Material Design components for Angular"
+    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
   },
   {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
   },
   {
-    "repo": "Shopify/react-native-skia",
+    "repo": "ncvgl/slawk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "High-performance React Native Graphics using Skia"
+    "description": "A 14 day experiment to clone Slack with Claude Code"
   },
   {
-    "repo": "microsoft/fluentui",
+    "repo": "karatelabs/karate",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
+    "language": "Java",
+    "description": "Test Automation Made Simple"
   },
   {
-    "repo": "curl/curl",
+    "repo": "binhnguyennus/awesome-scalability",
     "branch": "master",
-    "language": "C",
-    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+    "language": "Other",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
   },
   {
-    "repo": "moment/moment",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Parse, validate, manipulate, and display dates in javascript."
+    "repo": "apple/swift-log",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Logging API for Swift"
   },
   {
-    "repo": "react-native-video/react-native-video",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A <Video /> component for react-native"
-  },
-  {
-    "repo": "microsoft/fast",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The adaptive interface system for modern web experiences."
-  },
-  {
-    "repo": "google/flatbuffers",
-    "branch": "master",
-    "language": "C++",
-    "description": "FlatBuffers: Memory Efficient Serialization Library"
-  },
-  {
-    "repo": "plotly/plotly.js",
+    "repo": "koodo-reader/koodo-reader",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash"
+    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web"
   },
   {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
-    "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
-  },
-  {
-    "repo": "nats-io/nats-server",
+    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
     "branch": "main",
-    "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+    "language": "Python",
+    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
   }
 ]
