@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
   },
   {
-    "repo": "apollographql/graphql-subscriptions",
+    "repo": "muxprotocol/solana-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
+    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
   },
   {
-    "repo": "bwya77/vscode-dark-islands",
+    "repo": "saif0200/notchprompt",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "VSCode theme based off the new Jetbrains islands theme"
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "xi-editor/xi-editor",
+    "repo": "luccast/crabwalk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+  },
+  {
+    "repo": "kevinho/clawfeed",
+    "branch": "main",
+    "language": "HTML",
+    "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
+  },
+  {
+    "repo": "opencmit/alphora",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
+  },
+  {
+    "repo": "planetscale/database-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Skills for AI agents working with databases"
+  },
+  {
+    "repo": "SafeBreach-Labs/CVE-2026-24061",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exploitation of CVE-2026-24061"
+  },
+  {
+    "repo": "disler/pi-vs-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Comparison between open source PI agent and closed source Claude Code agent"
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
+  },
+  {
+    "repo": "zhixianio/clawpal",
+    "branch": "main",
+    "language": "Rust",
+    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
+  },
+  {
+    "repo": "lance0/xfr",
     "branch": "master",
     "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
+    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
   },
   {
-    "repo": "akitaonrails/FrankSherlock",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "hiragram/agent-workspace",
+    "repo": "reinesana/Doomscroll-Skyrim-Edition",
     "branch": "main",
+    "language": "Python",
+    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+  },
+  {
+    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "linkedin/school-of-sre",
+    "branch": "main",
+    "language": "HTML",
+    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
+  },
+  {
+    "repo": "quailyquaily/aqua",
+    "branch": "master",
     "language": "Go",
-    "description": ""
+    "description": "Aqua, a cli message tool for AI agents"
   },
   {
-    "repo": "drwetter/testssl.sh",
-    "branch": "3.2",
+    "repo": "Kulaxyz/token-diet",
+    "branch": "main",
     "language": "Shell",
-    "description": "Testing TLS/SSL encryption anywhere on any port"
+    "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness."
   },
   {
-    "repo": "prusa3d/PrusaSlicer",
-    "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
-  },
-  {
-    "repo": "iliya-Developer/VortexL2",
+    "repo": "LichAmnesia/lich-skills",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "ansible/awx",
-    "branch": "devel",
-    "language": "Python",
-    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
-  },
-  {
-    "repo": "signalapp/Signal-iOS",
+    "repo": "kimlawtech/korean-privacy-terms",
     "branch": "main",
-    "language": "Swift",
-    "description": "A private messenger for iOS."
+    "language": "Go Template",
+    "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영."
   },
   {
-    "repo": "doocs/advanced-java",
+    "repo": "tnm/zclaw",
     "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+    "language": "C",
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "zeroclaw-labs/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
-  },
-  {
-    "repo": "fcompc4/ecommerce-kushi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "E-commerce roupa"
-  },
-  {
-    "repo": "cita-777/metapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "ncvgl/slawk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
-  },
-  {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "binhnguyennus/awesome-scalability",
-    "branch": "master",
-    "language": "Other",
-    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
-  },
-  {
-    "repo": "apple/swift-log",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Logging API for Swift"
-  },
-  {
-    "repo": "koodo-reader/koodo-reader",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web"
-  },
-  {
-    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "repo": "joeynyc/hermes-hudui",
     "branch": "main",
     "language": "Python",
-    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+    "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
+  },
+  {
+    "repo": "golbin/hop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "academic/awesome-datascience",
+    "branch": "master",
+    "language": "Other",
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "repo": "originalankur/GenerateAgents.md",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
   }
 ]
