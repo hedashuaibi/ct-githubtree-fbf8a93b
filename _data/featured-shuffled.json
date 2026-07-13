@@ -1,146 +1,146 @@
 [
   {
-    "repo": "amirmushichge/tribeV2_ViralAnalyser",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "iad1tya/EchoTube",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
-  },
-  {
-    "repo": "alchaincyf/fanbox",
+    "repo": "MunGell/awesome-for-beginners",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ""
+    "language": "Other",
+    "description": "A list of awesome beginners-friendly projects."
   },
   {
-    "repo": "mrT4ntr4/NtWarden",
+    "repo": "goharbor/community",
+    "branch": "main",
+    "language": "Other",
+    "description": "Harbor community-related material"
+  },
+  {
+    "repo": "gogs/gogs",
+    "branch": "main",
+    "language": "Go",
+    "description": "Gogs is a painless self-hosted Git service"
+  },
+  {
+    "repo": "rest-assured/rest-assured",
     "branch": "master",
-    "language": "C++",
-    "description": "Windows Analysis and Research Toolkit"
+    "language": "Java",
+    "description": "Java DSL for easy testing of REST services"
   },
   {
-    "repo": "garinasset/leak-check",
+    "repo": "SakanaAI/AI-Scientist-v2",
     "branch": "main",
     "language": "Python",
-    "description": "个人信息 “泄漏” 检测接口"
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
   },
   {
-    "repo": "elkimek/honcho-self-hosted",
+    "repo": "samvallad33/vestige",
     "branch": "main",
-    "language": "Shell",
-    "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes"
+    "language": "Rust",
+    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
   },
   {
-    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+    "repo": "pointfreeco/swift-snapshot-testing",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
+    "language": "Swift",
+    "description": "📸 Delightful Swift snapshot testing."
   },
   {
-    "repo": "LilanOvO/Auto-Resubmit",
+    "repo": "adafruit/circuitpython",
     "branch": "main",
-    "language": "Python",
-    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
+    "language": "C",
+    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
   },
   {
-    "repo": "koffuxu/ai-influence-digest",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "TristanH/wikiwise",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "alefinvest/polymarket-copy-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
-  },
-  {
-    "repo": "superpilot69/vida-open-archive",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
-  },
-  {
-    "repo": "tiangolo/library-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Library Agent Skills"
-  },
-  {
-    "repo": "NanoFlow-io/engram",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
-  },
-  {
-    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
-  },
-  {
-    "repo": "worldwonderer/oh-story-claudecode",
-    "branch": "main",
-    "language": "Shell",
-    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
-  },
-  {
-    "repo": "earthtojake/text-to-cad",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "An open source harness for generating CAD models"
-  },
-  {
-    "repo": "skibidiskib/ai-codex",
+    "repo": "buckle42/claude-code-remote",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+    "language": "Python",
+    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
   },
   {
-    "repo": "huey1in/WindsurfX",
+    "repo": "abi/screenshot-to-code",
     "branch": "main",
     "language": "Python",
-    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
   },
   {
-    "repo": "basketikun/chatgpt2api",
+    "repo": "SVProgressHUD/SVProgressHUD",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
+  },
+  {
+    "repo": "pshycodr/airctl",
+    "branch": "main",
+    "language": "Python",
+    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
+  },
+  {
+    "repo": "oaker-io/wewrite",
+    "branch": "main",
+    "language": "Python",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+  },
+  {
+    "repo": "libuv/libuv",
+    "branch": "v1.x",
+    "language": "C",
+    "description": "Cross-platform asynchronous I/O"
+  },
+  {
+    "repo": "antfu/skills",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Anthony Fu's curated collection of agent skills."
+  },
+  {
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "branch": "main",
+    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "fancyai-official/skills",
+    "repo": "op7418/Video-Wrapper-Skills",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
   },
   {
-    "repo": "zigabratun/Umbrella-HWID-Tool",
+    "repo": "terausss/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "nicepkg/ctxport",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
   },
   {
-    "repo": "DenAB-NVS/submarine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic."
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
   },
   {
-    "repo": "freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop",
+    "repo": "Quick/Quick",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Free ChatGPT 5.5 OpenAI Unlimited is a professional AI suite for advanced reasoning and automation. It features expanded context windows, multimodal support, and high-speed execution. Designed for power users, it ensures seamless AI integration and performance for complex 2026 workflows. Codex"
+    "language": "Swift",
+    "description": "The Swift (and Objective-C) testing framework."
+  },
+  {
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "repo": "Dharyen/ryujinx-emu",
+    "branch": "main",
+    "language": "C#",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
   }
 ]
