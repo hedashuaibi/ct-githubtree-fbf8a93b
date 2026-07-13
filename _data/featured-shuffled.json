@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "muxprotocol/solana-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
-  },
-  {
-    "repo": "saif0200/notchprompt",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "luccast/crabwalk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
-  },
-  {
-    "repo": "kevinho/clawfeed",
-    "branch": "main",
-    "language": "HTML",
-    "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
-  },
-  {
-    "repo": "opencmit/alphora",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
-  },
-  {
-    "repo": "planetscale/database-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Skills for AI agents working with databases"
-  },
-  {
-    "repo": "SafeBreach-Labs/CVE-2026-24061",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exploitation of CVE-2026-24061"
-  },
-  {
-    "repo": "disler/pi-vs-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Comparison between open source PI agent and closed source Claude Code agent"
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "About Crash game - frontend"
-  },
-  {
-    "repo": "zhixianio/clawpal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
-  },
-  {
-    "repo": "lance0/xfr",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
-  },
-  {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
-  },
-  {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "repo": "amirmushichge/tribeV2_ViralAnalyser",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "linkedin/school-of-sre",
+    "repo": "iad1tya/EchoTube",
     "branch": "main",
-    "language": "HTML",
-    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
+    "language": "Kotlin",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
   },
   {
-    "repo": "quailyquaily/aqua",
+    "repo": "alchaincyf/fanbox",
     "branch": "master",
-    "language": "Go",
-    "description": "Aqua, a cli message tool for AI agents"
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "Kulaxyz/token-diet",
+    "repo": "mrT4ntr4/NtWarden",
+    "branch": "master",
+    "language": "C++",
+    "description": "Windows Analysis and Research Toolkit"
+  },
+  {
+    "repo": "garinasset/leak-check",
+    "branch": "main",
+    "language": "Python",
+    "description": "个人信息 “泄漏” 检测接口"
+  },
+  {
+    "repo": "elkimek/honcho-self-hosted",
     "branch": "main",
     "language": "Shell",
-    "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness."
+    "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes"
   },
   {
-    "repo": "LichAmnesia/lich-skills",
+    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
+  },
+  {
+    "repo": "LilanOvO/Auto-Resubmit",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
+  },
+  {
+    "repo": "koffuxu/ai-influence-digest",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "kimlawtech/korean-privacy-terms",
+    "repo": "TristanH/wikiwise",
     "branch": "main",
-    "language": "Go Template",
-    "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영."
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "tnm/zclaw",
+    "repo": "alefinvest/polymarket-copy-bot",
     "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
   },
   {
-    "repo": "joeynyc/hermes-hudui",
+    "repo": "superpilot69/vida-open-archive",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
+  },
+  {
+    "repo": "tiangolo/library-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
+    "description": "Library Agent Skills"
   },
   {
-    "repo": "golbin/hop",
+    "repo": "NanoFlow-io/engram",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
+  },
+  {
+    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
+  },
+  {
+    "repo": "worldwonderer/oh-story-claudecode",
+    "branch": "main",
+    "language": "Shell",
+    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An open source harness for generating CAD models"
+  },
+  {
+    "repo": "skibidiskib/ai-codex",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+  },
+  {
+    "repo": "huey1in/WindsurfX",
+    "branch": "main",
+    "language": "Python",
+    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
+  },
+  {
+    "repo": "basketikun/chatgpt2api",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "academic/awesome-datascience",
-    "branch": "master",
-    "language": "Other",
-    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
-  },
-  {
-    "repo": "originalankur/GenerateAgents.md",
+    "repo": "fancyai-official/skills",
     "branch": "main",
     "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+    "description": ""
+  },
+  {
+    "repo": "zigabratun/Umbrella-HWID-Tool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
+  },
+  {
+    "repo": "DenAB-NVS/submarine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic."
+  },
+  {
+    "repo": "freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free ChatGPT 5.5 OpenAI Unlimited is a professional AI suite for advanced reasoning and automation. It features expanded context windows, multimodal support, and high-speed execution. Designed for power users, it ensures seamless AI integration and performance for complex 2026 workflows. Codex"
   }
 ]
