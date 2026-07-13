@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Python",
   "description": "Instruction-based, identity-preserving image editing for Krea 2 in ComfyUI — nodes + workflows for the Krea 2 Identity Edit LoRA",
-  "stars": 136,
+  "stars": 138,
   "forks": 6
 }

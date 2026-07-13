@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tahzeeb031/harmonize-ffmpeg-pipeline",
+    "repo": "alpinejs/alpine",
     "branch": "main",
     "language": "HTML",
-    "description": "Self-Hosted 24/7 Media Hub with AI Playlist Curation & Smart Transcoding 2026"
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
   },
   {
-    "repo": "shenhao-stu/openclaw-agents",
+    "repo": "Salomondiei08/oh-my-hermes",
     "branch": "main",
     "language": "Shell",
-    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
+    "description": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent"
   },
   {
-    "repo": "test-time-training/discover",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "NateBJones-Projects/OB1",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
-  },
-  {
-    "repo": "teorth/optimizationproblems",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of optimization problems in mathematics"
-  },
-  {
-    "repo": "luccast/crabwalk",
+    "repo": "webpack-contrib/style-loader",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+    "language": "JavaScript",
+    "description": "Style Loader"
   },
   {
-    "repo": "ula7i921011/React2Shell-Scanner",
+    "repo": "pandas-dev/pandas",
     "branch": "main",
     "language": "Python",
-    "description": "React2Shell Scanner"
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
   },
   {
-    "repo": "holysheep123/holysheep-cli",
+    "repo": "Textualize/textual",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+    "language": "Python",
+    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
   },
   {
-    "repo": "sb-ocr/cmdeck",
+    "repo": "influxdata/telegraf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "certbot/certbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+  },
+  {
+    "repo": "mroboff/vm-curator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
+  },
+  {
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
+    "language": "C++",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+  },
+  {
+    "repo": "sequelize/sequelize",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+  },
+  {
+    "repo": "onfable/onfable",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "bestpracticaI/kalshi-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
+  },
+  {
+    "repo": "foyzulkarim/claude-lens",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "wolffcatskyy/crowdsec-blocklist-import",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+    "repo": "matrix-org/matrix-js-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix Client-Server SDK for JavaScript"
   },
   {
-    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "repo": "laramint/laravel-brain",
     "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+    "language": "PHP",
+    "description": "Visualize your Laravel request lifecycle as an interactive graph"
   },
   {
-    "repo": "1sdv/TripStar",
+    "repo": "PandoraReads/apex-dashboard",
     "branch": "main",
-    "language": "Vue",
-    "description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。"
+    "language": "CSS",
+    "description": "Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your projects — and make it look incredible doing it."
   },
   {
-    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "repo": "GoogleCloudPlatform/golang-samples",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+    "language": "Go",
+    "description": "Sample apps and code written for Google Cloud in the Go programming language."
   },
   {
-    "repo": "jackwener/xhs-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
-  },
-  {
-    "repo": "FugerQingliu/SlayTheSpire2AutoDrawing",
+    "repo": "zarazhangrui/beautiful-html-templates",
     "branch": "main",
     "language": "HTML",
-    "description": "可以用来在杀戮尖塔2里面自动绘画的小工具！"
+    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically."
   },
   {
-    "repo": "Justi1980/Dawn-Validator-BOT",
+    "repo": "BruceLanLan/bruceblue-ghostty-config",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+  },
+  {
+    "repo": "nv-tlabs/PiD",
     "branch": "main",
     "language": "Python",
-    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
+    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
   },
   {
-    "repo": "Mathews-Tom/no-magic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
-  },
-  {
-    "repo": "DangJin/pdf2video",
+    "repo": "earendil-works/gondolin",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Transform PDF documents into engaging video presentations with smooth animations."
+    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
   },
   {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
-  },
-  {
-    "repo": "wuji-labs/nopua",
+    "repo": "zengwenliang416/ppt-agent",
     "branch": "main",
-    "language": "Python",
-    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "SuperCmdLabs/SuperCmd",
+    "repo": "RightNow-AI/openfang",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "What Apple Intelligence should have been"
-  },
-  {
-    "repo": "liorwn/claudetop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
-  },
-  {
-    "repo": "IAmUnbounded/devctx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
-  },
-  {
-    "repo": "agenticnotetaking/arscontexta",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
   }
 ]
