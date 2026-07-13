@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MunGell/awesome-for-beginners",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
-  },
-  {
-    "repo": "goharbor/community",
+    "repo": "tahzeeb031/harmonize-ffmpeg-pipeline",
     "branch": "main",
-    "language": "Other",
-    "description": "Harbor community-related material"
+    "language": "HTML",
+    "description": "Self-Hosted 24/7 Media Hub with AI Playlist Curation & Smart Transcoding 2026"
   },
   {
-    "repo": "gogs/gogs",
+    "repo": "shenhao-stu/openclaw-agents",
     "branch": "main",
-    "language": "Go",
-    "description": "Gogs is a painless self-hosted Git service"
+    "language": "Shell",
+    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
   },
   {
-    "repo": "rest-assured/rest-assured",
-    "branch": "master",
-    "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
-  },
-  {
-    "repo": "SakanaAI/AI-Scientist-v2",
+    "repo": "test-time-training/discover",
     "branch": "main",
     "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
-  },
-  {
-    "repo": "samvallad33/vestige",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
-  },
-  {
-    "repo": "pointfreeco/swift-snapshot-testing",
-    "branch": "main",
-    "language": "Swift",
-    "description": "📸 Delightful Swift snapshot testing."
-  },
-  {
-    "repo": "adafruit/circuitpython",
-    "branch": "main",
-    "language": "C",
-    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
-  },
-  {
-    "repo": "buckle42/claude-code-remote",
-    "branch": "master",
-    "language": "Python",
-    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
-  },
-  {
-    "repo": "abi/screenshot-to-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
-  },
-  {
-    "repo": "SVProgressHUD/SVProgressHUD",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
-  },
-  {
-    "repo": "pshycodr/airctl",
-    "branch": "main",
-    "language": "Python",
-    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
-  },
-  {
-    "repo": "oaker-io/wewrite",
-    "branch": "main",
-    "language": "Python",
-    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
-  },
-  {
-    "repo": "grpc/grpc-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
-  },
-  {
-    "repo": "libuv/libuv",
-    "branch": "v1.x",
-    "language": "C",
-    "description": "Cross-platform asynchronous I/O"
-  },
-  {
-    "repo": "antfu/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
-  },
-  {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
-    "branch": "main",
-    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "op7418/Video-Wrapper-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
-  },
-  {
-    "repo": "terausss/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "nicepkg/ctxport",
+    "repo": "NateBJones-Projects/OB1",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
   },
   {
-    "repo": "jlevy/the-art-of-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Master the command line, in one page"
-  },
-  {
-    "repo": "Quick/Quick",
+    "repo": "teorth/optimizationproblems",
     "branch": "main",
-    "language": "Swift",
-    "description": "The Swift (and Objective-C) testing framework."
+    "language": "HTML",
+    "description": "A collection of optimization problems in mathematics"
   },
   {
-    "repo": "Junyi42/LoGeR",
+    "repo": "luccast/crabwalk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+  },
+  {
+    "repo": "ula7i921011/React2Shell-Scanner",
     "branch": "main",
     "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+    "description": "React2Shell Scanner"
   },
   {
-    "repo": "Dharyen/ryujinx-emu",
+    "repo": "holysheep123/holysheep-cli",
     "branch": "main",
-    "language": "C#",
-    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+    "language": "JavaScript",
+    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+  },
+  {
+    "repo": "sb-ocr/cmdeck",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+  },
+  {
+    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+  },
+  {
+    "repo": "1sdv/TripStar",
+    "branch": "main",
+    "language": "Vue",
+    "description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。"
+  },
+  {
+    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+  },
+  {
+    "repo": "jackwener/xhs-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
+  },
+  {
+    "repo": "FugerQingliu/SlayTheSpire2AutoDrawing",
+    "branch": "main",
+    "language": "HTML",
+    "description": "可以用来在杀戮尖塔2里面自动绘画的小工具！"
+  },
+  {
+    "repo": "Justi1980/Dawn-Validator-BOT",
+    "branch": "main",
+    "language": "Python",
+    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
+  },
+  {
+    "repo": "Mathews-Tom/no-magic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
+  },
+  {
+    "repo": "DangJin/pdf2video",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Transform PDF documents into engaging video presentations with smooth animations."
+  },
+  {
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
+  },
+  {
+    "repo": "wuji-labs/nopua",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
+  },
+  {
+    "repo": "SuperCmdLabs/SuperCmd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "What Apple Intelligence should have been"
+  },
+  {
+    "repo": "liorwn/claudetop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+  },
+  {
+    "repo": "IAmUnbounded/devctx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+  },
+  {
+    "repo": "agenticnotetaking/arscontexta",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
   }
 ]
