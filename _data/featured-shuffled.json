@@ -1,146 +1,146 @@
 [
   {
-    "repo": "libp2p/go-libp2p",
+    "repo": "mitjafelicijan/xdgctl",
     "branch": "master",
-    "language": "Go",
-    "description": "libp2p implementation in Go"
+    "language": "C",
+    "description": "TUI for managing XDG default applications"
   },
   {
-    "repo": "Poulomijana/Genshin_Impact_Auto-Farm___Primogem_Collector",
+    "repo": "vanna-ai/vanna",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-farm, auto-quest, and primogem collector for Genshin Impact. Farm mobs, chests, and complete daily commissions automatically."
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
   },
   {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
+    "repo": "sliverp/qqbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "qqbot"
+  },
+  {
+    "repo": "ingegroeneveld0620/fps-tweaks-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
+  },
+  {
+    "repo": "maderix/ANE",
+    "branch": "main",
     "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
   },
   {
-    "repo": "akullpp/awesome-java",
+    "repo": "fspecii/ace-step-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+  },
+  {
+    "repo": "andyhuo520/openclaw-assistant-mvp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
+  },
+  {
+    "repo": "inputsh/awesome-linux",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
   },
   {
-    "repo": "michelleoincx/Bunkr-Downloader-Python",
+    "repo": "mpv-player/mpv",
+    "branch": "master",
+    "language": "C",
+    "description": "🎥 Command line media player"
+  },
+  {
+    "repo": "go-micro/go-micro",
+    "branch": "master",
+    "language": "Go",
+    "description": "A Go microservices framework"
+  },
+  {
+    "repo": "dotnet/efcore",
     "branch": "main",
-    "language": "HTML",
+    "language": "C#",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+  },
+  {
+    "repo": "vava-nessa/free-coding-models",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "firecracker-microvm/firecracker",
+    "repo": "spring-guides/gs-spring-boot",
     "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
+    "language": "Java",
+    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
   },
   {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
+    "repo": "crossplane/crossplane",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
   },
   {
-    "repo": "apache/flink",
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "jdrhyne/agent-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
+  },
+  {
+    "repo": "934050259/BrowserCluster",
+    "branch": "main",
+    "language": "Python",
+    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
+  },
+  {
+    "repo": "grpc/grpc-java",
     "branch": "master",
     "language": "Java",
-    "description": "Apache Flink"
+    "description": "The Java gRPC implementation. HTTP/2 based RPC"
   },
   {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
-    "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
-  },
-  {
-    "repo": "jesseduffield/lazydocker",
-    "branch": "master",
-    "language": "Go",
-    "description": "The lazier way to manage everything docker"
-  },
-  {
-    "repo": "Zehong-Ma/PixelGen",
+    "repo": "terausss/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
   },
   {
-    "repo": "snarktank/antfarm",
+    "repo": "lobehub/lobe-chat",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build your agent team in OpenClaw with one command."
+    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
   },
   {
-    "repo": "miuda-ai/lele",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Bare-Metal Rust Audio AI Framework"
-  },
-  {
-    "repo": "wandb/wandb",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
-  },
-  {
-    "repo": "SafeBreach-Labs/CVE-2026-24061",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exploitation of CVE-2026-24061"
-  },
-  {
-    "repo": "actions/virtual-environments",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "rust-analyzer/rust-analyzer",
+    "repo": "marktext/marktext",
     "branch": "master",
-    "language": "Rust",
-    "description": "A Rust compiler front-end for IDEs"
+    "language": "JavaScript",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
   },
   {
-    "repo": "diesel-rs/diesel",
+    "repo": "requirejs/requirejs",
     "branch": "master",
-    "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
+    "language": "JavaScript",
+    "description": "A file and module loader for JavaScript"
   },
   {
-    "repo": "wsargent/docker-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "Docker Cheat Sheet"
-  },
-  {
-    "repo": "lynaghk/vibe",
+    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
     "branch": "main",
-    "language": "Rust",
-    "description": "Easy Linux virtual machine on MacOS to sandbox LLM agents."
+    "language": "HTML",
+    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
   },
   {
-    "repo": "spf13/cobra",
+    "repo": "DatanoiseTV/tinyice",
     "branch": "main",
     "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
-  },
-  {
-    "repo": "kelseyhightower/kubernetes-the-hard-way",
-    "branch": "master",
-    "language": "Other",
-    "description": "Bootstrap Kubernetes the hard way. No scripts."
-  },
-  {
-    "repo": "uber-go/fx",
-    "branch": "master",
-    "language": "Go",
-    "description": "A dependency injection based application framework for Go."
-  },
-  {
-    "repo": "junaid-mahmood/nlsh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn natural language to terminal commands"
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
   }
 ]

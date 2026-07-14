@@ -1,8 +1,8 @@
 {
-  "repo": "x-spy/CVE-2026-43499-popsicle",
+  "repo": "thecodacus/understory",
   "branch": "main",
-  "language": "C",
-  "description": "CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k",
-  "stars": 122,
-  "forks": 39
+  "language": "TypeScript",
+  "description": "understory — memory that grows. Self-wiring, plain-markdown memory for AI agents (MCP + local models + a living graph).",
+  "stars": 118,
+  "forks": 18
 }
