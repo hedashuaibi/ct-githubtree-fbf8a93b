@@ -1,8 +1,8 @@
 {
-  "repo": "thecodacus/understory",
+  "repo": "m-novotny/memguard-rs",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "understory — memory that grows. Self-wiring, plain-markdown memory for AI agents (MCP + local models + a living graph).",
-  "stars": 118,
-  "forks": 18
+  "language": "Rust",
+  "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
+  "stars": 130,
+  "forks": 2
 }

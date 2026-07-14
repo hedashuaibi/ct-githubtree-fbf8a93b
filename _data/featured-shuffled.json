@@ -1,93 +1,129 @@
 [
   {
-    "repo": "mitjafelicijan/xdgctl",
-    "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
-  },
-  {
-    "repo": "vanna-ai/vanna",
+    "repo": "tachikomared/character-animation-creator-skill",
     "branch": "main",
     "language": "Python",
-    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
+    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
   },
   {
-    "repo": "sliverp/qqbot",
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
     "branch": "main",
     "language": "TypeScript",
-    "description": "qqbot"
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
   },
   {
-    "repo": "ingegroeneveld0620/fps-tweaks-26",
+    "repo": "nuxt/nuxt",
     "branch": "main",
-    "language": "C++",
-    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
+    "language": "TypeScript",
+    "description": "The Full-Stack Vue Framework."
   },
   {
-    "repo": "maderix/ANE",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
-  },
-  {
-    "repo": "fspecii/ace-step-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "andyhuo520/openclaw-assistant-mvp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
-  },
-  {
-    "repo": "inputsh/awesome-linux",
+    "repo": "tailwindcss/tailwindcss",
     "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "mpv-player/mpv",
-    "branch": "master",
-    "language": "C",
-    "description": "🎥 Command line media player"
+    "repo": "xullexer/PYDNS-Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
   },
   {
-    "repo": "go-micro/go-micro",
-    "branch": "master",
+    "repo": "aaronjmars/MiroShark",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal Swarm Intelligence Engine"
+  },
+  {
+    "repo": "hiragram/agent-workspace",
+    "branch": "main",
     "language": "Go",
-    "description": "A Go microservices framework"
-  },
-  {
-    "repo": "dotnet/efcore",
-    "branch": "main",
-    "language": "C#",
-    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "spring-guides/gs-spring-boot",
+    "repo": "miaoxworld/ClawdBotInstaller",
     "branch": "main",
-    "language": "Java",
-    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
   },
   {
-    "repo": "crossplane/crossplane",
+    "repo": "996icu/996.ICU",
     "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Control Plane"
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
   },
   {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "repo": "schibsted/videofy_minimal",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
+  },
+  {
+    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3.5-9B ToolHub-v1.0.0"
+  },
+  {
+    "repo": "lijigang/ljg-skill-explain-words",
+    "branch": "master",
+    "language": "HTML",
+    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
+  },
+  {
+    "repo": "photonstorm/phaser",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+  },
+  {
+    "repo": "cfinke/EpsteIn",
+    "branch": "main",
+    "language": "Python",
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
+  },
+  {
+    "repo": "rust-embedded/discovery",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Discover the world of microcontrollers through Rust!"
+  },
+  {
+    "repo": "deborahikssv/Antigravity-claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "explosion/spaCy",
+    "branch": "master",
+    "language": "Python",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+  },
+  {
+    "repo": "cloudflare/moltworker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
+  },
+  {
+    "repo": "dask/dask",
+    "branch": "main",
+    "language": "Python",
+    "description": "Parallel computing with task scheduling"
   },
   {
     "repo": "jdrhyne/agent-skills",
@@ -96,51 +132,15 @@
     "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
   },
   {
-    "repo": "934050259/BrowserCluster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
-  },
-  {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
-  },
-  {
-    "repo": "terausss/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "lobehub/lobe-chat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
-  },
-  {
-    "repo": "marktext/marktext",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
-  },
-  {
-    "repo": "requirejs/requirejs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
-  },
-  {
-    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "repo": "TheGreatGildo/nerv-ui",
     "branch": "main",
     "language": "HTML",
-    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
   },
   {
-    "repo": "DatanoiseTV/tinyice",
+    "repo": "WtxwNs/RepoCheck",
     "branch": "main",
-    "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+    "language": "Python",
+    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
   }
 ]
