@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alpinejs/alpine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+    "repo": "doctrine/orm",
+    "branch": "3.2.x",
+    "language": "PHP",
+    "description": "Doctrine Object Relational Mapper (ORM)"
   },
   {
-    "repo": "Salomondiei08/oh-my-hermes",
+    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
+  },
+  {
+    "repo": "math-ai-org/mathcode",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathCode: A Frontier Mathematical Coding Agent"
+  },
+  {
+    "repo": "Ch1rpy2613/Mirrai",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "testerlingcodo/gemini-antigravity-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free"
+  },
+  {
+    "repo": "Spade-sec/First",
+    "branch": "main",
+    "language": "Python",
+    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
+  },
+  {
+    "repo": "jd-opensource/JoyAI-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
+  },
+  {
+    "repo": "DEEIX-AI/DEEIX-Chat",
+    "branch": "dev",
+    "language": "Go",
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
+  },
+  {
+    "repo": "mohi-devhub/antivibe",
     "branch": "main",
     "language": "Shell",
-    "description": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent"
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
   },
   {
-    "repo": "webpack-contrib/style-loader",
-    "branch": "master",
+    "repo": "duggasco/bc250-40cu-unlock",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+  },
+  {
+    "repo": "HermannBjorgvin/Clawdmeter",
+    "branch": "main",
+    "language": "C",
+    "description": "ESP32 desk dashboard that shows Claude Code usage"
+  },
+  {
+    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
+  },
+  {
+    "repo": "openclaw/clawsweeper",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Style Loader"
+    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
   },
   {
-    "repo": "pandas-dev/pandas",
+    "repo": "zhaoyue4810/pianke",
     "branch": "main",
     "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "Textualize/textual",
-    "branch": "main",
-    "language": "Python",
-    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
-  },
-  {
-    "repo": "influxdata/telegraf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
-  },
-  {
-    "repo": "nextcloud/ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
-  },
-  {
-    "repo": "certbot/certbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
-  },
-  {
-    "repo": "mroboff/vm-curator",
-    "branch": "main",
-    "language": "Rust",
-    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
-  },
-  {
-    "repo": "prusa3d/PrusaSlicer",
-    "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
-  },
-  {
-    "repo": "sequelize/sequelize",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
-  },
-  {
-    "repo": "onfable/onfable",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "bestpracticaI/kalshi-ai-trading-bot",
+    "repo": "ahalpha/Snowbreak-AnitAmend",
+    "branch": "master",
+    "language": "Lua",
+    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
+  },
+  {
+    "repo": "codeany-ai/open-agent-sdk-typescript",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
+    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
   },
   {
-    "repo": "foyzulkarim/claude-lens",
+    "repo": "ghostwright/phantom",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "matrix-org/matrix-js-sdk",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": "Matrix Client-Server SDK for JavaScript"
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
   },
   {
-    "repo": "laramint/laravel-brain",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Visualize your Laravel request lifecycle as an interactive graph"
-  },
-  {
-    "repo": "PandoraReads/apex-dashboard",
-    "branch": "main",
-    "language": "CSS",
-    "description": "Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your projects — and make it look incredible doing it."
-  },
-  {
-    "repo": "GoogleCloudPlatform/golang-samples",
-    "branch": "main",
-    "language": "Go",
-    "description": "Sample apps and code written for Google Cloud in the Go programming language."
-  },
-  {
-    "repo": "zarazhangrui/beautiful-html-templates",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically."
-  },
-  {
-    "repo": "BruceLanLan/bruceblue-ghostty-config",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
-  },
-  {
-    "repo": "nv-tlabs/PiD",
+    "repo": "TrueGunsmithFence/Hentaihunter",
     "branch": "main",
     "language": "Python",
-    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
+    "description": "Hentaihunter - How to steal your Doujinshi easily"
   },
   {
-    "repo": "earendil-works/gondolin",
+    "repo": "chefkannofriend-source/lcb-baker-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+  },
+  {
+    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
+    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
   },
   {
-    "repo": "zengwenliang416/ppt-agent",
+    "repo": "setube/stackprism",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "TypeScript",
+    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。"
   },
   {
-    "repo": "RightNow-AI/openfang",
+    "repo": "vercel-labs/mdxg",
     "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Agent Operating System"
+    "language": "TypeScript",
+    "description": "Spec for markdown presentation and interaction"
+  },
+  {
+    "repo": "Margele/OpenZen",
+    "branch": "master",
+    "language": "Java",
+    "description": "打得过Zen"
+  },
+  {
+    "repo": "ChristianJR19/GoblinOS",
+    "branch": "main",
+    "language": "Python",
+    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
   }
 ]

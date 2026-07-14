@@ -1,8 +1,8 @@
 {
-  "repo": "lbouaraba/comfyui-krea2edit",
+  "repo": "m-novotny/memguard-rs",
   "branch": "main",
-  "language": "Python",
-  "description": "Instruction-based, identity-preserving image editing for Krea 2 in ComfyUI — nodes + workflows for the Krea 2 Identity Edit LoRA",
-  "stars": 138,
-  "forks": 6
+  "language": "Rust",
+  "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
+  "stars": 122,
+  "forks": 2
 }
