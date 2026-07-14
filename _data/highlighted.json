@@ -1,8 +1,8 @@
 {
-  "repo": "m-novotny/memguard-rs",
+  "repo": "x-spy/CVE-2026-43499-popsicle",
   "branch": "main",
-  "language": "Rust",
-  "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
+  "language": "C",
+  "description": "CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k",
   "stars": 122,
-  "forks": 2
+  "forks": 39
 }

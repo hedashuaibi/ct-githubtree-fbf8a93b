@@ -1,146 +1,146 @@
 [
   {
-    "repo": "doctrine/orm",
-    "branch": "3.2.x",
-    "language": "PHP",
-    "description": "Doctrine Object Relational Mapper (ORM)"
-  },
-  {
-    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
-  },
-  {
-    "repo": "math-ai-org/mathcode",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathCode: A Frontier Mathematical Coding Agent"
-  },
-  {
-    "repo": "Ch1rpy2613/Mirrai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "testerlingcodo/gemini-antigravity-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free"
-  },
-  {
-    "repo": "Spade-sec/First",
-    "branch": "main",
-    "language": "Python",
-    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
-  },
-  {
-    "repo": "DEEIX-AI/DEEIX-Chat",
-    "branch": "dev",
-    "language": "Go",
-    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
-  },
-  {
-    "repo": "mohi-devhub/antivibe",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
-  },
-  {
-    "repo": "duggasco/bc250-40cu-unlock",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
-  },
-  {
-    "repo": "HermannBjorgvin/Clawdmeter",
-    "branch": "main",
-    "language": "C",
-    "description": "ESP32 desk dashboard that shows Claude Code usage"
-  },
-  {
-    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
-  },
-  {
-    "repo": "openclaw/clawsweeper",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
-  },
-  {
-    "repo": "zhaoyue4810/pianke",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ahalpha/Snowbreak-AnitAmend",
+    "repo": "libp2p/go-libp2p",
     "branch": "master",
-    "language": "Lua",
-    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
+    "language": "Go",
+    "description": "libp2p implementation in Go"
   },
   {
-    "repo": "codeany-ai/open-agent-sdk-typescript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
-  },
-  {
-    "repo": "ghostwright/phantom",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
-  },
-  {
-    "repo": "TrueGunsmithFence/Hentaihunter",
+    "repo": "Poulomijana/Genshin_Impact_Auto-Farm___Primogem_Collector",
     "branch": "main",
     "language": "Python",
-    "description": "Hentaihunter - How to steal your Doujinshi easily"
+    "description": "Auto-farm, auto-quest, and primogem collector for Genshin Impact. Farm mobs, chests, and complete daily commissions automatically."
   },
   {
-    "repo": "chefkannofriend-source/lcb-baker-agent",
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+  },
+  {
+    "repo": "akullpp/awesome-java",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "repo": "michelleoincx/Bunkr-Downloader-Python",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
+    "repo": "firecracker-microvm/firecracker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
   },
   {
-    "repo": "setube/stackprism",
+    "repo": "linlay/zenmind",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。"
+    "language": "PowerShell",
+    "description": "宅在家里的电脑，努力做一个openclaw"
   },
   {
-    "repo": "vercel-labs/mdxg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Spec for markdown presentation and interaction"
-  },
-  {
-    "repo": "Margele/OpenZen",
+    "repo": "apache/flink",
     "branch": "master",
     "language": "Java",
-    "description": "打得过Zen"
+    "description": "Apache Flink"
   },
   {
-    "repo": "ChristianJR19/GoblinOS",
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "branch": "master",
+    "language": "Go",
+    "description": "The lazier way to manage everything docker"
+  },
+  {
+    "repo": "Zehong-Ma/PixelGen",
     "branch": "main",
     "language": "Python",
-    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+  },
+  {
+    "repo": "snarktank/antfarm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build your agent team in OpenClaw with one command."
+  },
+  {
+    "repo": "miuda-ai/lele",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Bare-Metal Rust Audio AI Framework"
+  },
+  {
+    "repo": "wandb/wandb",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+  },
+  {
+    "repo": "SafeBreach-Labs/CVE-2026-24061",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exploitation of CVE-2026-24061"
+  },
+  {
+    "repo": "actions/virtual-environments",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "rust-analyzer/rust-analyzer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Rust compiler front-end for IDEs"
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "wsargent/docker-cheat-sheet",
+    "branch": "master",
+    "language": "Other",
+    "description": "Docker Cheat Sheet"
+  },
+  {
+    "repo": "lynaghk/vibe",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Easy Linux virtual machine on MacOS to sandbox LLM agents."
+  },
+  {
+    "repo": "spf13/cobra",
+    "branch": "main",
+    "language": "Go",
+    "description": "A Commander for modern Go CLI interactions"
+  },
+  {
+    "repo": "kelseyhightower/kubernetes-the-hard-way",
+    "branch": "master",
+    "language": "Other",
+    "description": "Bootstrap Kubernetes the hard way. No scripts."
+  },
+  {
+    "repo": "uber-go/fx",
+    "branch": "master",
+    "language": "Go",
+    "description": "A dependency injection based application framework for Go."
+  },
+  {
+    "repo": "junaid-mahmood/nlsh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn natural language to terminal commands"
   }
 ]
