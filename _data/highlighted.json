@@ -1,8 +1,8 @@
 {
-  "repo": "m-novotny/memguard-rs",
-  "branch": "main",
-  "language": "Rust",
-  "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
-  "stars": 130,
-  "forks": 2
+  "repo": "kigner/audio.cpp-webui",
+  "branch": "release-0.2",
+  "language": "C++",
+  "description": "audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency.",
+  "stars": 122,
+  "forks": 32
 }

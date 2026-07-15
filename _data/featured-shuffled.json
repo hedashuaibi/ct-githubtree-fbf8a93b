@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tachikomared/character-animation-creator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
-  },
-  {
-    "repo": "bytedance/semi-design",
-    "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "nuxt/nuxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
+    "repo": "f/textream",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
+    "language": "Swift",
+    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
   },
   {
-    "repo": "xullexer/PYDNS-Scanner",
+    "repo": "SuperJJ007/CSswitch",
     "branch": "main",
-    "language": "Python",
-    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
+    "language": "Rust",
+    "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。"
   },
   {
-    "repo": "aaronjmars/MiroShark",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal Swarm Intelligence Engine"
-  },
-  {
-    "repo": "hiragram/agent-workspace",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "miaoxworld/ClawdBotInstaller",
+    "repo": "harrymunro/nelson",
     "branch": "main",
     "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
   },
   {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "schibsted/videofy_minimal",
+    "repo": "eddyson-B/AI-Pumpfun-Copy-Trading-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "A simulation and execution script for tracking top wallet trades on PumpFun and analyzing profit opportunities with AI modeling."
   },
   {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "repo": "vasilytrofimchuk/domainsearcher-app",
     "branch": "main",
-    "language": "Python",
-    "description": "Qwen3.5-9B ToolHub-v1.0.0"
-  },
-  {
-    "repo": "lijigang/ljg-skill-explain-words",
-    "branch": "master",
-    "language": "HTML",
-    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
-  },
-  {
-    "repo": "photonstorm/phaser",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
   },
   {
-    "repo": "cfinke/EpsteIn",
+    "repo": "livehl/aimirror",
     "branch": "main",
     "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
   },
   {
-    "repo": "rust-embedded/discovery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
-  },
-  {
-    "repo": "deborahikssv/Antigravity-claw",
+    "repo": "thu-ml/Causal-Forcing",
     "branch": "main",
-    "language": "Rust",
+    "language": "Python",
+    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
+  },
+  {
+    "repo": "johnBuffer/StableIndexVector",
+    "branch": "main",
+    "language": "C++",
     "description": ""
   },
   {
-    "repo": "explosion/spaCy",
-    "branch": "master",
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "branch": "main",
     "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
   },
   {
-    "repo": "cloudflare/moltworker",
+    "repo": "liorwn/claudetop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+  },
+  {
+    "repo": "Fox-Fig/phoenix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+  },
+  {
+    "repo": "BlockRunAI/ClawRouter",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
+    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
   },
   {
-    "repo": "dask/dask",
+    "repo": "m1heng/claude-plugin-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "midudev/alg0.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
+  },
+  {
+    "repo": "andreisss/KslDump",
     "branch": "main",
     "language": "Python",
-    "description": "Parallel computing with task scheduling"
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
   },
   {
-    "repo": "jdrhyne/agent-skills",
+    "repo": "vaneenige/monochrome-ui",
     "branch": "main",
-    "language": "HTML",
-    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
+    "language": "TypeScript",
+    "description": "Accessible UI component library. Best performance out of the box. HTML first, React supported."
   },
   {
-    "repo": "TheGreatGildo/nerv-ui",
+    "repo": "alibaba-damo-academy/RynnBrain",
     "branch": "main",
-    "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
   },
   {
-    "repo": "WtxwNs/RepoCheck",
+    "repo": "jlia0/tinyclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+  },
+  {
+    "repo": "NoizAI/skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+  },
+  {
+    "repo": "mo1app/pipemagic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
+  },
+  {
+    "repo": "libtv-labs/libtv-skills",
     "branch": "main",
     "language": "Python",
-    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
+    "description": ""
+  },
+  {
+    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+  },
+  {
+    "repo": "ClawdisAI/ClawdisAI",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
+  },
+  {
+    "repo": "lxf746/any-auto-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
