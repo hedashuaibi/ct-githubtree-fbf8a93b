@@ -1,8 +1,8 @@
 {
-  "repo": "kigner/audio.cpp-webui",
-  "branch": "release-0.2",
-  "language": "C++",
-  "description": "audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency.",
+  "repo": "ucsandman/marketing-studio",
+  "branch": "main",
+  "language": "JavaScript",
+  "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
   "stars": 122,
-  "forks": 32
+  "forks": 18
 }

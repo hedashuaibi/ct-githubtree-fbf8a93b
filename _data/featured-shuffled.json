@@ -1,146 +1,146 @@
 [
   {
-    "repo": "f/textream",
+    "repo": "lenucksi/aur-malware-check",
     "branch": "master",
-    "language": "Swift",
-    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+    "language": "Shell",
+    "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists."
   },
   {
-    "repo": "SuperJJ007/CSswitch",
+    "repo": "kdeldycke/awesome-falsehood",
+    "branch": "master",
+    "language": "Other",
+    "description": "😱 Falsehoods Programmers Believe in"
+  },
+  {
+    "repo": "rust-lang/rustlings",
     "branch": "main",
     "language": "Rust",
-    "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。"
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   },
   {
-    "repo": "harrymunro/nelson",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+    "repo": "TheAlgorithms/Rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "All Algorithms implemented in Rust"
   },
   {
-    "repo": "eddyson-B/AI-Pumpfun-Copy-Trading-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A simulation and execution script for tracking top wallet trades on PumpFun and analyzing profit opportunities with AI modeling."
+    "repo": "openai/gym",
+    "branch": "master",
+    "language": "Python",
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
   },
   {
-    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "repo": "SnapKit/SnapKit",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A Swift Autolayout DSL for iOS & OS X"
+  },
+  {
+    "repo": "apache/flink",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Flink"
+  },
+  {
+    "repo": "uhub/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
+  },
+  {
+    "repo": "Anuken/Mindustry",
+    "branch": "master",
+    "language": "Java",
+    "description": "The automation tower defense RTS"
+  },
+  {
+    "repo": "kerlos/pordee",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
   },
   {
-    "repo": "livehl/aimirror",
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "browser-use/video-use",
     "branch": "main",
     "language": "Python",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
-  },
-  {
-    "repo": "thu-ml/Causal-Forcing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
-  },
-  {
-    "repo": "johnBuffer/StableIndexVector",
-    "branch": "main",
-    "language": "C++",
     "description": ""
   },
   {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "repo": "LilanOvO/Auto-Resubmit",
     "branch": "main",
     "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
   },
   {
-    "repo": "liorwn/claudetop",
+    "repo": "mduongvandinh/llm-wiki",
     "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+    "language": "HTML",
+    "description": "Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy."
   },
   {
-    "repo": "Fox-Fig/phoenix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
-  },
-  {
-    "repo": "BlockRunAI/ClawRouter",
+    "repo": "frankykevin/polymarket-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
+    "description": "polymarket trading bot, that mirrors a target polymarket trader's activity and places similar orders from your account, polymarket copytrading bot, polymarket trading bot"
   },
   {
-    "repo": "m1heng/claude-plugin-weixin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "midudev/alg0.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
-  },
-  {
-    "repo": "andreisss/KslDump",
-    "branch": "main",
-    "language": "Python",
-    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
-  },
-  {
-    "repo": "vaneenige/monochrome-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Accessible UI component library. Best performance out of the box. HTML first, React supported."
-  },
-  {
-    "repo": "alibaba-damo-academy/RynnBrain",
+    "repo": "google-research/vision_transformer",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
+    "description": "Vision Transformer in JAX."
   },
   {
-    "repo": "jlia0/tinyclaw",
+    "repo": "DARKHOLEUM/VoidStrap-For-Roblox",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+    "language": "C#",
+    "description": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization."
   },
   {
-    "repo": "NoizAI/skills",
+    "repo": "deepseek-ai/DeepSeek-Math",
     "branch": "main",
-    "language": "Shell",
-    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+    "language": "Python",
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
   },
   {
-    "repo": "mo1app/pipemagic",
+    "repo": "remotion-dev/html-in-canvas",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
-  },
-  {
-    "repo": "libtv-labs/libtv-skills",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+    "repo": "react-hook-form/react-hook-form",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
   },
   {
-    "repo": "ClawdisAI/ClawdisAI",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
-  },
-  {
-    "repo": "lxf746/any-auto-register",
+    "repo": "Sortesylvia25678/Polymarket-Arbitrage-Bot",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Automated arbitrage and copy-trading bot for Polymarket prediction markets with real-time odds monitoring, Kelly criterion sizing, and comprehensive P&L tracking"
+  },
+  {
+    "repo": "pion/handoff",
+    "branch": "main",
+    "language": "Go",
+    "description": "Start WebRTC in the browser—run it somewhere else"
+  },
+  {
+    "repo": "alebcay/awesome-shell",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "repo": "webpack-contrib/css-loader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "CSS Loader"
   }
 ]
