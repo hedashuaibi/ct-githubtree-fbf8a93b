@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lenucksi/aur-malware-check",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists."
-  },
-  {
-    "repo": "kdeldycke/awesome-falsehood",
-    "branch": "master",
-    "language": "Other",
-    "description": "😱 Falsehoods Programmers Believe in"
-  },
-  {
-    "repo": "rust-lang/rustlings",
-    "branch": "main",
-    "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
-  },
-  {
-    "repo": "TheAlgorithms/Rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "All Algorithms implemented in Rust"
-  },
-  {
-    "repo": "openai/gym",
+    "repo": "localstack/localstack",
     "branch": "master",
     "language": "Python",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
   },
   {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
-  },
-  {
-    "repo": "apache/flink",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Flink"
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "Anuken/Mindustry",
-    "branch": "master",
-    "language": "Java",
-    "description": "The automation tower defense RTS"
-  },
-  {
-    "repo": "kerlos/pordee",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
-  },
-  {
-    "repo": "qazbnm456/awesome-web-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
-  },
-  {
-    "repo": "browser-use/video-use",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "LilanOvO/Auto-Resubmit",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
-  },
-  {
-    "repo": "mduongvandinh/llm-wiki",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy."
-  },
-  {
-    "repo": "frankykevin/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, that mirrors a target polymarket trader's activity and places similar orders from your account, polymarket copytrading bot, polymarket trading bot"
-  },
-  {
-    "repo": "google-research/vision_transformer",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
-  },
-  {
-    "repo": "DARKHOLEUM/VoidStrap-For-Roblox",
+    "repo": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
     "branch": "main",
     "language": "C#",
-    "description": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization."
+    "description": "dsx steam dualsensex download free ps5 dualsens controller pc adaptive triggers haptic feedback ds4windows emulation windows 11 fix 2026"
   },
   {
-    "repo": "deepseek-ai/DeepSeek-Math",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "remotion-dev/html-in-canvas",
+    "repo": "qaml-ai/pi-worker",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "react-hook-form/react-hook-form",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
-  },
-  {
-    "repo": "Sortesylvia25678/Polymarket-Arbitrage-Bot",
+    "repo": "Galaxy-Dawn/claude-scholar",
     "branch": "main",
-    "language": "Python",
-    "description": "Automated arbitrage and copy-trading bot for Polymarket prediction markets with real-time odds monitoring, Kelly criterion sizing, and comprehensive P&L tracking"
+    "language": "TeX",
+    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
   },
   {
-    "repo": "pion/handoff",
+    "repo": "NikkeTryHard/zerogravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "OpenAI, Anthropic, and Gemini-compatible proxy"
+  },
+  {
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "repo": "wesm/msgvault",
     "branch": "main",
     "language": "Go",
-    "description": "Start WebRTC in the browser—run it somewhere else"
+    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
   },
   {
-    "repo": "alebcay/awesome-shell",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+    "repo": "BytePioneer-AI/moltbot-china",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
   },
   {
-    "repo": "webpack-contrib/css-loader",
+    "repo": "thellimist/clihub",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "repo": "Resinat/Resin",
+    "branch": "master",
+    "language": "Go",
+    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
+  },
+  {
+    "repo": "binhanchen25-arch/agent_plus",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "hiragram/claude-docker",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "Syngnat/GoNavi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
+  },
+  {
+    "repo": "AlexAnys/feishu-openclaw",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "CSS Loader"
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+  },
+  {
+    "repo": "stargazerwh/RAG-Lighter",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "nguyenduchoai/bizclaw",
+    "branch": "master",
+    "language": "Rust",
+    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
+  },
+  {
+    "repo": "devanshulakhani/val",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "v1ewp0rt/BAREBLOOD",
+    "branch": "main",
+    "language": "QML",
+    "description": "Gothic maximalist linux theme for KDE plasma 6.5"
+  },
+  {
+    "repo": "smartcmd/MinecraftConsoles",
+    "branch": "main",
+    "language": "C++",
+    "description": "A certain block game"
+  },
+  {
+    "repo": "johannesjo/parallel-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+  },
+  {
+    "repo": "Zaneham/BarraCUDA",
+    "branch": "master",
+    "language": "C",
+    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+  },
+  {
+    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+  },
+  {
+    "repo": "MooseGoose0701/skill-compose",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
   }
 ]
