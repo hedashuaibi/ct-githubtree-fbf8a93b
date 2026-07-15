@@ -1,146 +1,146 @@
 [
   {
-    "repo": "localstack/localstack",
-    "branch": "master",
-    "language": "Python",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
-  },
-  {
-    "repo": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
+    "repo": "Voxybuns/at-icons",
     "branch": "main",
-    "language": "C#",
-    "description": "dsx steam dualsensex download free ps5 dualsens controller pc adaptive triggers haptic feedback ds4windows emulation windows 11 fix 2026"
-  },
-  {
-    "repo": "qaml-ai/pi-worker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Galaxy-Dawn/claude-scholar",
-    "branch": "main",
-    "language": "TeX",
-    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
-  },
-  {
-    "repo": "NikkeTryHard/zerogravity",
-    "branch": "main",
-    "language": "Shell",
-    "description": "OpenAI, Anthropic, and Gemini-compatible proxy"
-  },
-  {
-    "repo": "rebane2001/x86CSS",
-    "branch": "mane",
     "language": "HTML",
-    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+    "description": "Open source icons for custom Godot nodes"
   },
   {
-    "repo": "wesm/msgvault",
-    "branch": "main",
-    "language": "Go",
-    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
-  },
-  {
-    "repo": "BytePioneer-AI/moltbot-china",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
-  },
-  {
-    "repo": "thellimist/clihub",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "sachaa/openbrowserclaw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
-  },
-  {
-    "repo": "Resinat/Resin",
-    "branch": "master",
-    "language": "Go",
-    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
-  },
-  {
-    "repo": "binhanchen25-arch/agent_plus",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "hiragram/claude-docker",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "Syngnat/GoNavi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
+    "repo": "Lucent-Snow/style-extractor",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+    "description": "一个能够提取最大化提取网页风格的skill"
   },
   {
-    "repo": "stargazerwh/RAG-Lighter",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "nguyenduchoai/bizclaw",
+    "repo": "ipfs/js-ipfs",
     "branch": "master",
-    "language": "Rust",
-    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
   },
   {
-    "repo": "devanshulakhani/val",
-    "branch": "main",
+    "repo": "wagoodman/dive",
+    "branch": "master",
+    "language": "Go",
+    "description": "A tool for exploring each layer in a docker image"
+  },
+  {
+    "repo": "boostorg/boost",
+    "branch": "master",
     "language": "HTML",
-    "description": ""
+    "description": "Super-project for modularized Boost"
   },
   {
-    "repo": "v1ewp0rt/BAREBLOOD",
-    "branch": "main",
-    "language": "QML",
-    "description": "Gothic maximalist linux theme for KDE plasma 6.5"
+    "repo": "prometheus/node_exporter",
+    "branch": "master",
+    "language": "Go",
+    "description": "Exporter for machine metrics"
   },
   {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
-  },
-  {
-    "repo": "johannesjo/parallel-code",
+    "repo": "microsoft/TypeScript",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
   },
   {
-    "repo": "Zaneham/BarraCUDA",
+    "repo": "openai/spinningup",
     "branch": "master",
-    "language": "C",
-    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+    "language": "Python",
+    "description": "An educational resource to help anyone learn deep reinforcement learning."
   },
   {
-    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+    "repo": "kysely-org/kysely",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A type-safe TypeScript SQL query builder"
   },
   {
-    "repo": "MooseGoose0701/skill-compose",
+    "repo": "scikit-learn/scikit-learn",
     "branch": "main",
     "language": "Python",
-    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+    "description": "scikit-learn: machine learning in Python"
+  },
+  {
+    "repo": "Tencent/tdesign-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
+  },
+  {
+    "repo": "wagmi-dev/viem",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript Interface for Ethereum"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+  },
+  {
+    "repo": "tldev/posturr",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+  },
+  {
+    "repo": "gulpjs/gulp",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A toolkit to automate & enhance your workflow"
+  },
+  {
+    "repo": "mysql/mysql-server",
+    "branch": "8.0",
+    "language": "C++",
+    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+  },
+  {
+    "repo": "signalapp/Signal-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A private messenger for Windows, macOS, and Linux."
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+  },
+  {
+    "repo": "ajeetdsouza/zoxide",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A smarter cd command. Supports all major shells."
+  },
+  {
+    "repo": "rustwasm/wasm-pack",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+  },
+  {
+    "repo": "Azure/azure-sdk-for-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python."
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+  },
+  {
+    "repo": "jae-jae/fetcher-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MCP server for fetch web page content using Playwright headless browser."
+  },
+  {
+    "repo": "rq/rq",
+    "branch": "master",
+    "language": "Python",
+    "description": "Simple job queues for Python"
   }
 ]
