@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lauraevz6y70/gnark-crypto",
+    "repo": "TheTom/turboquant_plus",
     "branch": "main",
     "language": "Python",
-    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
-  },
-  {
-    "repo": "Dev-MohamedGad/Fisch_-_Auto-Fish___Instant_Catch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-fish and instant catch for Fisch, the addictive fishing simulator with 130K+ concurrent players[reference:33]. Catch every fish instantly, get unlimited bait, and complete your collection."
-  },
-  {
-    "repo": "k3s-io/k3s",
-    "branch": "master",
-    "language": "Go",
-    "description": "Lightweight Kubernetes"
-  },
-  {
-    "repo": "arturoabreuhd/pinescript-ai",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "simonw/rodney",
+    "repo": "gordonmurray/firnflow",
     "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for interacting with the web"
+    "language": "Rust",
+    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
   },
   {
-    "repo": "shareAI-lab/claw0",
-    "branch": "main",
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
     "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
   },
   {
-    "repo": "npmx-dev/npmx.dev",
+    "repo": "op7418/Claude-to-IM",
     "branch": "main",
     "language": "TypeScript",
-    "description": "a fast, modern browser for the npm registry"
+    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
   },
   {
-    "repo": "select2/select2",
+    "repo": "dazzyddos/PrivHound",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
+  },
+  {
+    "repo": "vuejs/awesome-vue",
+    "branch": "master",
+    "language": "Other",
+    "description": "🎉 A curated list of awesome things related to Vue.js"
+  },
+  {
+    "repo": "ManimCommunity/manim",
+    "branch": "main",
+    "language": "Python",
+    "description": "A community-maintained Python framework for creating mathematical animations."
+  },
+  {
+    "repo": "kamranahmedse/claude-statusline",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Minimal Claude Code statusline setup I personally use"
+  },
+  {
+    "repo": "rohunvora/x-research-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A light weight Python library for the Spotify Web API"
+  },
+  {
+    "repo": "tektoncd/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
+  },
+  {
+    "repo": "derailed/k9s",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "chartist/chartist",
     "branch": "develop",
-    "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+    "language": "Ruby",
+    "description": "Final Project @ Makers Academy"
   },
   {
-    "repo": "dair-ai/Prompt-Engineering-Guide",
-    "branch": "main",
-    "language": "MDX",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-  },
-  {
-    "repo": "fish-shell/fish-shell",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The user-friendly command line shell."
-  },
-  {
-    "repo": "postrv/forgemax",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
-  },
-  {
-    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
+    "repo": "bigcode-project/starcoder",
     "branch": "main",
     "language": "Python",
-    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
+    "description": "Home of StarCoder: fine-tuning & inference!"
   },
   {
-    "repo": "trycua/launchpad",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "preactjs/preact",
+    "repo": "mrdoob/three-quake",
     "branch": "main",
     "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+    "description": "A port of Quake (1996) to Three.js."
   },
   {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "chekusu/shipkey",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "marktext/marktext",
+    "repo": "mochajs/mocha",
     "branch": "master",
     "language": "JavaScript",
-    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
   },
   {
-    "repo": "panyiwei-home/Freedeck",
-    "branch": "main",
-    "language": "Python",
-    "description": "学习版游戏一站式平台"
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "mqudsi/monospace-ocr",
+    "repo": "photonstorm/phaser",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+  },
+  {
+    "repo": "RightNow-AI/picolm",
+    "branch": "main",
+    "language": "C",
+    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
+  },
+  {
+    "repo": "test-time-training/discover",
+    "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "pshycodr/airctl",
+    "repo": "go-gitea/gitea",
     "branch": "main",
-    "language": "Python",
-    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
-  },
-  {
-    "repo": "stretchr/testify",
-    "branch": "master",
     "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
   },
   {
-    "repo": "LeoYeAI/openclaw-master-skills",
+    "repo": "louisho5/picobot",
     "branch": "main",
-    "language": "Python",
-    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
+    "language": "Go",
+    "description": "A lightweight self-hosted bot in a single binary, written in Go."
   },
   {
-    "repo": "3-JonWallis1993/HyperLiquid-Claw",
-    "branch": "main",
+    "repo": "solana-labs/solana-program-library",
+    "branch": "master",
     "language": "Rust",
-    "description": ""
+    "description": "A collection of Solana programs maintained by Solana Labs"
   }
 ]

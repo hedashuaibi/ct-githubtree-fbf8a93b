@@ -1,8 +1,8 @@
 {
-  "repo": "loop-js/loop.js",
-  "branch": "master",
-  "language": "TypeScript",
-  "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
-  "stars": 115,
-  "forks": 0
+  "repo": "Paresh-Maheshwari/morphe-ai",
+  "branch": "main",
+  "language": "Shell",
+  "description": "Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
+  "stars": 112,
+  "forks": 13
 }
