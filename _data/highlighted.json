@@ -1,8 +1,8 @@
 {
-  "repo": "defender-remove/disable-windows-defender",
+  "repo": "rit3zh/expo-morphing-menu",
   "branch": "main",
   "language": "TypeScript",
-  "description": "windows defender disabler microsoft defender remover antivirus permanent disable turn off real time protection registry editor group policy toggle scripts defender control dcontrol defender remover tool utility open source windows 11 windows 10 desktop tool security configuration setup guide tutorial troubleshooting download link admin rights",
-  "stars": 0,
-  "forks": 0
+  "description": "🗂️ A morphing, keyboard-aware composer + picker menu.",
+  "stars": 103,
+  "forks": 10
 }
