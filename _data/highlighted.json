@@ -1,8 +1,8 @@
 {
-  "repo": "Paresh-Maheshwari/morphe-ai",
+  "repo": "JimLiu/baocut",
   "branch": "main",
   "language": "Shell",
-  "description": "Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
-  "stars": 112,
-  "forks": 13
+  "description": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents",
+  "stars": 128,
+  "forks": 10
 }
