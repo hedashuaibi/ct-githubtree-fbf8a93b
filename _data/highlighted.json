@@ -1,8 +1,8 @@
 {
-  "repo": "rit3zh/expo-morphing-menu",
-  "branch": "main",
+  "repo": "loop-js/loop.js",
+  "branch": "master",
   "language": "TypeScript",
-  "description": "🗂️ A morphing, keyboard-aware composer + picker menu.",
-  "stars": 103,
-  "forks": 10
+  "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+  "stars": 115,
+  "forks": 0
 }
