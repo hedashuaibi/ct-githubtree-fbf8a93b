@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chubbyguan/chubbyskills",
+    "repo": "zhaoyue4810/pianke",
     "branch": "main",
     "language": "Python",
-    "description": "chubby 自用知识库实用skill集合 - AI驱动的自动化工作流工具，可以帮助你从各个渠道获取信息，搭建自己的知识库"
+    "description": ""
   },
   {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "square/picasso",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
-  },
-  {
-    "repo": "vercel/ai-chatbot-svelte",
+    "repo": "vapor/vapor",
     "branch": "main",
-    "language": "Svelte",
-    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
+    "language": "Swift",
+    "description": "💧 A server-side Swift HTTP web framework."
   },
   {
-    "repo": "Rabrg/artificial-life",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
-  },
-  {
-    "repo": "tox-dev/tox",
-    "branch": "main",
-    "language": "Python",
-    "description": "Command line driven CI frontend and development task automation tool."
-  },
-  {
-    "repo": "btahir/react-kino",
+    "repo": "emberjs/ember.js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
   },
   {
-    "repo": "coleam00/excalidraw-diagram-skill",
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+  },
+  {
+    "repo": "microsoft/fast",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The adaptive interface system for modern web experiences."
+  },
+  {
+    "repo": "uuidjs/uuid",
     "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+    "language": "TypeScript",
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
   },
   {
-    "repo": "nedbat/coveragepy",
-    "branch": "master",
-    "language": "Python",
-    "description": "The code coverage tool for Python"
-  },
-  {
-    "repo": "fastlane/fastlane",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps"
-  },
-  {
-    "repo": "jquery/jquery",
+    "repo": "fjb040911/ai-rules",
     "branch": "main",
     "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
+    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
   },
   {
-    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
+    "repo": "jingkaihe/matchlock",
     "branch": "main",
-    "language": "Rust",
-    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
   },
   {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
-  },
-  {
-    "repo": "Kaleighc793/freqtrade-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
-  },
-  {
-    "repo": "PanJiaChen/vue-element-admin",
+    "repo": "wasmerio/wasmer",
     "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
   },
   {
-    "repo": "storybookjs/storybook",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
-  },
-  {
-    "repo": "ynsmroztas/AndroHunter",
-    "branch": "main",
+    "repo": "apache/maven",
+    "branch": "master",
     "language": "Java",
-    "description": "AndroHunter"
+    "description": "Apache Maven core"
   },
   {
-    "repo": "Junyi42/LoGeR",
+    "repo": "THU-MAIC/OpenMAIC",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "tektoncd/pipeline",
+    "branch": "main",
+    "language": "Go",
+    "description": "A cloud-native Pipeline resource."
+  },
+  {
+    "repo": "jgarzik/apython",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Accelerated Asm Python"
+  },
+  {
+    "repo": "Tencent/tdesign-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
+  },
+  {
+    "repo": "Runnin4ik/dpi-detector",
     "branch": "main",
     "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
   },
   {
-    "repo": "penso/arbor",
+    "repo": "Quorinex/Kiro-Go",
     "branch": "main",
-    "language": "Rust",
-    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
+    "language": "Go",
+    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
   },
   {
-    "repo": "Cranot/agi-in-md",
+    "repo": "open-policy-agent/opa",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
+  },
+  {
+    "repo": "xullexer/PYDNS-Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
+  },
+  {
+    "repo": "raspberrypi/documentation",
     "branch": "master",
     "language": "Python",
-    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
   },
   {
-    "repo": "celery/celery",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
-  },
-  {
-    "repo": "jwasham/coding-interview-university",
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
     "branch": "main",
-    "language": "Other",
-    "description": "A complete computer science study plan to become a software engineer."
+    "language": "Python",
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
   },
   {
-    "repo": "veggiemonk/awesome-docker",
+    "repo": "microsoft/guidance",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A guidance language for controlling large language models."
+  },
+  {
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
     "branch": "master",
-    "language": "Other",
-    "description": ":whale: A curated list of Docker resources and projects"
+    "language": "Go",
+    "description": "Network-wide ads & trackers blocking DNS server"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "branch": "master",
+    "language": "C",
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
   }
 ]
