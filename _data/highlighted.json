@@ -1,8 +1,8 @@
 {
-  "repo": "agentic-commerce-lab/pawl",
+  "repo": "theswerd/brainless",
   "branch": "main",
-  "language": "Python",
-  "description": "Registry-as-ground-truth verification & autonomous research framework for agent-driven development.",
-  "stars": 122,
-  "forks": 0
+  "language": "TypeScript",
+  "description": "Claude Code, Codex, and Grok interfaces as shadcn components",
+  "stars": 114,
+  "forks": 2
 }

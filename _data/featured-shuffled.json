@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wojtczyk/trust",
+    "repo": "chubbyguan/chubbyskills",
+    "branch": "main",
+    "language": "Python",
+    "description": "chubby 自用知识库实用skill集合 - AI驱动的自动化工作流工具，可以帮助你从各个渠道获取信息，搭建自己的知识库"
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
+  },
+  {
+    "repo": "square/picasso",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A powerful image downloading and caching library for Android"
+  },
+  {
+    "repo": "vercel/ai-chatbot-svelte",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
+  },
+  {
+    "repo": "Rabrg/artificial-life",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+  },
+  {
+    "repo": "tox-dev/tox",
+    "branch": "main",
+    "language": "Python",
+    "description": "Command line driven CI frontend and development task automation tool."
+  },
+  {
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "nedbat/coveragepy",
+    "branch": "master",
+    "language": "Python",
+    "description": "The code coverage tool for Python"
+  },
+  {
+    "repo": "fastlane/fastlane",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps"
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
     "branch": "main",
     "language": "Rust",
-    "description": "TRUST – Coding Rust like it's 1989"
+    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
   },
   {
-    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "repo": "pallets/flask",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
   },
   {
-    "repo": "kdn251/interviews",
+    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
+  },
+  {
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "repo": "PanJiaChen/vue-element-admin",
     "branch": "master",
-    "language": "Java",
-    "description": "Everything you need to know to get the job."
+    "language": "Vue",
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
   },
   {
-    "repo": "fastify/fastify",
+    "repo": "storybookjs/storybook",
+    "branch": "next",
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+  },
+  {
+    "repo": "ynsmroztas/AndroHunter",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
+    "language": "Java",
+    "description": "AndroHunter"
   },
   {
-    "repo": "github/gitignore",
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "repo": "penso/arbor",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
+  },
+  {
+    "repo": "Cranot/agi-in-md",
+    "branch": "master",
+    "language": "Python",
+    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+  },
+  {
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "jwasham/coding-interview-university",
     "branch": "main",
     "language": "Other",
-    "description": "A collection of useful .gitignore templates"
+    "description": "A complete computer science study plan to become a software engineer."
   },
   {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "babel/babel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
-  },
-  {
-    "repo": "twbs/bootstrap",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-  },
-  {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
+    "repo": "veggiemonk/awesome-docker",
     "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "gothinkster/realworld",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
-  },
-  {
-    "repo": "socketio/socket.io",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
-  },
-  {
-    "repo": "helix-editor/helix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A post-modern modal text editor."
-  },
-  {
-    "repo": "tensorflow/hub",
-    "branch": "master",
-    "language": "Python",
-    "description": "A library for transfer learning by reusing parts of TensorFlow models."
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "pmndrs/drei",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🥉 useful helpers for react-three-fiber"
-  },
-  {
-    "repo": "statsmodels/statsmodels",
-    "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
-  },
-  {
-    "repo": "khoj-ai/khoj",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
-  },
-  {
-    "repo": "altair-viz/altair",
-    "branch": "main",
-    "language": "Python",
-    "description": "Declarative visualization library for Python"
-  },
-  {
-    "repo": "uuidjs/uuid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
-  },
-  {
-    "repo": "jupyter/notebook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "pnpm/pnpm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fast, disk space efficient package manager"
-  },
-  {
-    "repo": "rust-lang/rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
+    "language": "Other",
+    "description": ":whale: A curated list of Docker resources and projects"
   }
 ]
