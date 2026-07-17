@@ -1,8 +1,8 @@
 {
-  "repo": "JimLiu/baocut",
+  "repo": "andyhuo520/MacCheck",
   "branch": "main",
-  "language": "Shell",
-  "description": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents",
-  "stars": 128,
-  "forks": 10
+  "language": "Swift",
+  "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具",
+  "stars": 129,
+  "forks": 15
 }
