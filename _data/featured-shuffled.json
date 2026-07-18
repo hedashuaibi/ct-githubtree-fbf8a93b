@@ -1,129 +1,75 @@
 [
   {
-    "repo": "bytedance/Lance",
+    "repo": "TrueGunsmithFence/Hentaihunter",
     "branch": "main",
     "language": "Python",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+    "description": "Hentaihunter - How to steal your Doujinshi easily"
   },
   {
-    "repo": "olucasandrade/youjustneedpostgres",
+    "repo": "sgInnora/alipay-deeplink-research",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
+  },
+  {
+    "repo": "h5bp/html5-boilerplate",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+  },
+  {
+    "repo": "ultralytics/yolov5",
+    "branch": "master",
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "molefrog/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+  },
+  {
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "repo": "kitlangton/tailcode",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "JudoChinX/rangarr",
+    "repo": "J2TEAM/vibe.j2team.org",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
+  },
+  {
+    "repo": "guidelabs/steerling",
     "branch": "main",
     "language": "Python",
-    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+    "description": "Interpretable Causal Diffusion Language Models"
   },
   {
-    "repo": "RightNow-AI/openfang",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Agent Operating System"
-  },
-  {
-    "repo": "MINT-SJTU/RoboClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "RoboClaw is an Embodied AI Assistant."
-  },
-  {
-    "repo": "kaima2022/ABCard",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "apple/swift-protobuf",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
-  },
-  {
-    "repo": "tendermint/tendermint",
+    "repo": "openilink/openilink-hub",
     "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs"
   },
   {
-    "repo": "jayminwest/overstory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
-  },
-  {
-    "repo": "viplismism/rlm-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
-  },
-  {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "PowerShell/PowerShell",
-    "branch": "master",
-    "language": "C#",
-    "description": "PowerShell for every system!"
-  },
-  {
-    "repo": "rust-lang/rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
-  },
-  {
-    "repo": "win4r/memory-lancedb-pro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
-  },
-  {
-    "repo": "AlexsJones/llmfit",
-    "branch": "main",
-    "language": "Rust",
-    "description": "94 models. 30 providers. One command to find what runs on your hardware."
-  },
-  {
-    "repo": "gpasquero/voog",
-    "branch": "main",
-    "language": "Python",
-    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "matteyeux/coruna",
-    "branch": "main",
-    "language": "Python",
-    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
-  },
-  {
-    "repo": "spring-projects/spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
-  },
-  {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
+    "repo": "select2/select2",
+    "branch": "develop",
     "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "numpy/numpy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
   },
   {
     "repo": "pytorch/pytorch",
@@ -132,15 +78,69 @@
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
   },
   {
-    "repo": "mayfer/electrobun-macos-native-blur",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Enable background blur like a native app in Electrobun"
-  },
-  {
-    "repo": "NVIDIA/NemoClaw",
+    "repo": "iamlukethedev/Claw3D",
     "branch": "main",
     "language": "TypeScript",
-    "description": "NVIDIA plugin for secure installation of OpenClaw"
+    "description": "Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications."
+  },
+  {
+    "repo": "jgarzik/apython",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Accelerated Asm Python"
+  },
+  {
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+  },
+  {
+    "repo": "storybookjs/storybook",
+    "branch": "next",
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+  },
+  {
+    "repo": "jsdom/jsdom",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript implementation of various web standards, for use with Node.js"
+  },
+  {
+    "repo": "vava-nessa/free-coding-models",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+  },
+  {
+    "repo": "uber-go/zap",
+    "branch": "master",
+    "language": "Go",
+    "description": "Blazing fast, structured, leveled logging in Go."
+  },
+  {
+    "repo": "boostorg/boost",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Super-project for modularized Boost"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+  },
+  {
+    "repo": "makermate/clarvis-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Clarvis - 3D Printing Made Easy"
   }
 ]
