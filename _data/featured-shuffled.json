@@ -1,93 +1,51 @@
 [
   {
-    "repo": "mitsuhiko/pi-llamacpp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An experimental pi extension that runs and manages qwen with llama.cpp"
+    "repo": "josephmisiti/awesome-machine-learning",
+    "branch": "master",
+    "language": "Python",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
   },
   {
-    "repo": "Sayhi-bzb/AIEden",
+    "repo": "lingbol088-spec/reverse-flow-skill",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "an LLM-native world and civilization"
+    "language": "Python",
+    "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。"
   },
   {
-    "repo": "kerlos/pordee",
+    "repo": "sanketagarwal/hyperliquid-trading-agent",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "OpenMOSS/MOSS-Audio",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
+  },
+  {
+    "repo": "vakovalskii/codedash",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
+    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
   },
   {
-    "repo": "andraiming/speech-tokenizer-arena",
-    "branch": "main",
-    "language": "Python",
-    "description": "A side-by-side benchmarking playground for discrete speech tokenizers (EnCodec, HuBERT-units, SpeechTokenizer, etc.)."
-  },
-  {
-    "repo": "JuliusBrussee/caveman",
-    "branch": "main",
-    "language": "Python",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman"
-  },
-  {
-    "repo": "Paidax01/math-curve-loaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
-  },
-  {
-    "repo": "zzzhhh1/Sing-Flare-Auto",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
-  },
-  {
-    "repo": "snoozinjs/Delta-exec",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
-  },
-  {
-    "repo": "compozy/compozy",
-    "branch": "main",
-    "language": "Go",
-    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
-  },
-  {
-    "repo": "PrathamLearnsToCode/paper2code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skill to turn any arxiv paper into a working implementation"
-  },
-  {
-    "repo": "pvpoxx/PrismLauncherCrackedEly",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
-  },
-  {
-    "repo": "LocoreMind/locoagent",
+    "repo": "cursor/cookbook",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI-powered social media agent with real browser automation"
+    "description": ""
   },
   {
-    "repo": "freestylefly/wechat-cli",
+    "repo": "rodrigojpgamer2022/JourneyMap-Minecraft-Modpack",
+    "branch": "main",
+    "language": "Java",
+    "description": "Journeymap Minecraft Modpack download minimap waypoints fullscreen map cartography Forge Fabric world map mobs tracking caves biomes teleport markers."
+  },
+  {
+    "repo": "Anetedith12807/Ethereum-MEV-Bot",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
-  },
-  {
-    "repo": "Aevella/polaris-local-first",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local-first AI workspace for structured context, collaborators, and portable backups."
-  },
-  {
-    "repo": "StrucksTech/Zelda-TP-Native-Port",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
+    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
   },
   {
     "repo": "jmerelnyc/Photo-agents",
@@ -96,51 +54,93 @@
     "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer."
   },
   {
-    "repo": "DLYuanGod/MegaTrain",
+    "repo": "study8677/awesome-architecture",
+    "branch": "main",
+    "language": "Vue",
+    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。"
+  },
+  {
+    "repo": "mattmireles/gemma-tuner-multimodal",
     "branch": "main",
     "language": "Python",
+    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "repo": "avacocloud/netlify-XHHTP",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "ksimback/hermes-ecosystem",
+    "repo": "taylorarndt/perspective-cuts",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A text-based language for writing Apple Shortcuts. Experimental."
+  },
+  {
+    "repo": "sachmalan/kalshi-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot"
+  },
+  {
+    "repo": "raiyanyahya/how-to-train-your-gpt",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+  },
+  {
+    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
+  },
+  {
+    "repo": "sleepinginsummer/agent-browser-cli",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障"
+  },
+  {
+    "repo": "rit3zh/expo-motion-tabs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡️ Smooth motion tabs for Expo Router"
+  },
+  {
+    "repo": "blairxu13/persona3-website",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "MagicCube/helixent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Helixent is a small library for building ReAct-style agent loops based on the Bun stack."
+  },
+  {
+    "repo": "hero8152/Infinite-Canvas",
     "branch": "main",
     "language": "HTML",
-    "description": "Comprehensive ecosystem map for Hermes Agent by Nous Research — 80+ tools, skills, plugins, and integrations"
+    "description": "Supports comfyui/API calls/modelscope calls"
   },
   {
-    "repo": "facebookresearch/vggt-omega",
+    "repo": "imbue-ai/bouncer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Heal your social media feeds"
+  },
+  {
+    "repo": "Janlaywss/hu-chenfeng-skill",
     "branch": "main",
     "language": "Python",
-    "description": "[CVPR 2026 Oral] VGGT Omega"
+    "description": "户晨风Skill"
   },
   {
-    "repo": "DuskMosquito/Lossless-Scaling-Desktop-2026",
+    "repo": "V-IOLE-T/hotmail-register-extension",
     "branch": "main",
-    "language": "C",
-    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
-  },
-  {
-    "repo": "sablin39/tilelang-cuda-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skills for writing tilelang and debugging with CUDA toolkits."
-  },
-  {
-    "repo": "evanklem/evanflow",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-Embodied",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "DylanDavis1/DSCourier",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
+    "language": "JavaScript",
+    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
   }
 ]

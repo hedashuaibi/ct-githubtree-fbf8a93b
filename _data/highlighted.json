@@ -1,8 +1,8 @@
 {
-  "repo": "CyberSunil/LLMVault",
+  "repo": "v-modal/vmodal_sdk_flutter",
   "branch": "main",
-  "language": "Python",
-  "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-  "stars": 172,
-  "forks": 40
+  "language": "Dart",
+  "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+  "stars": 153,
+  "forks": 1
 }
