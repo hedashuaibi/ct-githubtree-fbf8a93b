@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zhaoyue4810/pianke",
+    "repo": "bytedance/Lance",
+    "branch": "main",
+    "language": "Python",
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+  },
+  {
+    "repo": "olucasandrade/youjustneedpostgres",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "JudoChinX/rangarr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
+  },
+  {
+    "repo": "MINT-SJTU/RoboClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "RoboClaw is an Embodied AI Assistant."
+  },
+  {
+    "repo": "kaima2022/ABCard",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "vapor/vapor",
+    "repo": "apple/swift-protobuf",
     "branch": "main",
     "language": "Swift",
-    "description": "💧 A server-side Swift HTTP web framework."
+    "description": "Plugin and runtime library for using protobuf with Swift"
   },
   {
-    "repo": "emberjs/ember.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
-  },
-  {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "microsoft/fast",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The adaptive interface system for modern web experiences."
-  },
-  {
-    "repo": "uuidjs/uuid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
-  },
-  {
-    "repo": "fjb040911/ai-rules",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
-  },
-  {
-    "repo": "jingkaihe/matchlock",
+    "repo": "tendermint/tendermint",
     "branch": "main",
     "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
   },
   {
-    "repo": "wasmerio/wasmer",
+    "repo": "jayminwest/overstory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+  },
+  {
+    "repo": "viplismism/rlm-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+  },
+  {
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+  },
+  {
+    "repo": "PowerShell/PowerShell",
+    "branch": "master",
+    "language": "C#",
+    "description": "PowerShell for every system!"
+  },
+  {
+    "repo": "rust-lang/rust",
     "branch": "master",
     "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+    "description": "Empowering everyone to build reliable and efficient software."
   },
   {
-    "repo": "apache/maven",
-    "branch": "master",
+    "repo": "win4r/memory-lancedb-pro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+  },
+  {
+    "repo": "AlexsJones/llmfit",
+    "branch": "main",
+    "language": "Rust",
+    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+  },
+  {
+    "repo": "gpasquero/voog",
+    "branch": "main",
+    "language": "Python",
+    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "matteyeux/coruna",
+    "branch": "main",
+    "language": "Python",
+    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "branch": "main",
     "language": "Java",
-    "description": "Apache Maven core"
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
   },
   {
-    "repo": "THU-MAIC/OpenMAIC",
+    "repo": "calesthio/Crucix",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "numpy/numpy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The fundamental package for scientific computing with Python."
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "mayfer/electrobun-macos-native-blur",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Enable background blur like a native app in Electrobun"
+  },
+  {
+    "repo": "NVIDIA/NemoClaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-  },
-  {
-    "repo": "tektoncd/pipeline",
-    "branch": "main",
-    "language": "Go",
-    "description": "A cloud-native Pipeline resource."
-  },
-  {
-    "repo": "jgarzik/apython",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Accelerated Asm Python"
-  },
-  {
-    "repo": "Tencent/tdesign-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "Runnin4ik/dpi-detector",
-    "branch": "main",
-    "language": "Python",
-    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
-  },
-  {
-    "repo": "Quorinex/Kiro-Go",
-    "branch": "main",
-    "language": "Go",
-    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
-  },
-  {
-    "repo": "open-policy-agent/opa",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
-  },
-  {
-    "repo": "xullexer/PYDNS-Scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
-  },
-  {
-    "repo": "raspberrypi/documentation",
-    "branch": "master",
-    "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
-  },
-  {
-    "repo": "whyzhow/PersonalStyleAI-Framework-",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
-  },
-  {
-    "repo": "microsoft/guidance",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A guidance language for controlling large language models."
-  },
-  {
-    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "AdguardTeam/AdGuardHome",
-    "branch": "master",
-    "language": "Go",
-    "description": "Network-wide ads & trackers blocking DNS server"
-  },
-  {
-    "repo": "espressif/esp-idf",
-    "branch": "master",
-    "language": "C",
-    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
+    "description": "NVIDIA plugin for secure installation of OpenClaw"
   }
 ]
