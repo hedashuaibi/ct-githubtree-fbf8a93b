@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Anetedith12807/Ethereum-MEV-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
-  },
-  {
-    "repo": "gunawan1996/world-forge-ai",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories"
-  },
-  {
-    "repo": "stormzhang/token-tracker",
+    "repo": "ziglang/zig",
     "branch": "master",
+    "language": "Zig",
+    "description": "Moved to Codeberg"
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
     "language": "Python",
-    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
+    "description": "Security Governance for Agentic AI"
   },
   {
-    "repo": "Axion-Trading-Labs/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "RevylAI/app-explorer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
-  },
-  {
-    "repo": "skibidiskib/ai-codex",
+    "repo": "airbnb/lottie-android",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
   },
   {
-    "repo": "5ec1cff/FuseFixer",
-    "branch": "master",
-    "language": "C",
-    "description": ""
-  },
-  {
-    "repo": "AdeleZhu/teacher-skill",
+    "repo": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
     "branch": "main",
-    "language": "Python",
-    "description": "蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。"
+    "language": "C++",
+    "description": "Legend Zelda Twilight Princess PC Download April 2026 High Performance 4K 60FPS Enhancement Suite Midna Shadow Shaders Texture Pack Ultra Wide Support High Refresh Rate Emulation Fix Gaming Utility Stable Build Free Project Preservation Tutorial Guide"
   },
   {
-    "repo": "AlgoInfraTech/polymarket-sports-betting-bot",
+    "repo": "CN-Syndra/ClawLink",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket sports copy trading bot: polymarket sports trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copytrading bot"
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
   },
   {
-    "repo": "Alchemz/solana-pumpfun-token-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler"
-  },
-  {
-    "repo": "nesaminua/claude-code-lsp-enforcement-kit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens"
-  },
-  {
-    "repo": "Tencent-Hunyuan/Hy-MT2",
+    "repo": "tanishqkumar/ssd",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
   },
   {
-    "repo": "nickvasilescu/hermes-desktop-os1",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts"
-  },
-  {
-    "repo": "AIchovy/vibe-observer",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Claude Code Tracer & Observer"
-  },
-  {
-    "repo": "andrewjiang/palantir-for-family-trips",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A Palantir-ish dashboard for family trip planning."
-  },
-  {
-    "repo": "kitft/natural_language_autoencoders",
+    "repo": "PKU-YuanGroup/Helios",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Helios: Real Real-Time Long Video Generation Model"
   },
   {
-    "repo": "thongthaibm/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
-  },
-  {
-    "repo": "ultrmgns/claude-private",
-    "branch": "master",
-    "language": "Python",
-    "description": "Claude Code without any telemetry - the perfect cli to combo with CCR"
-  },
-  {
-    "repo": "chrisnch/reADHD",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "为 ADHD 人群设计的 Obsidian 视觉强调阅读插件，支持中文智能分词（jieba-wasm）。基于 Boninall 的 Obsidian-Better-Reading-Mode 改进。"
-  },
-  {
-    "repo": "OpenImagingLab/AnyRecon",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "TheGreatAzizi/AzuDL-GC2GD",
-    "branch": "main",
-    "language": "Python",
-    "description": "A powerful Google Colab downloader that saves torrents, YouTube videos, playlists, audio, and direct links straight to Google Drive."
-  },
-  {
-    "repo": "StartupHakk/OpenMonoAgent.ai",
-    "branch": "main",
-    "language": "C#",
-    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
-  },
-  {
-    "repo": "zennomi/truyendrive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Biến Google Drive thành Web Truyện"
-  },
-  {
-    "repo": "steipete/wacrawl",
+    "repo": "epiral/agent-clip",
     "branch": "main",
     "language": "Go",
-    "description": "🧾 WhatsApp archaeology with encrypted receipts"
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
+  },
+  {
+    "repo": "postgres/postgres",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+  },
+  {
+    "repo": "react-navigation/react-navigation",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Routing and navigation for React Native and Web apps"
+  },
+  {
+    "repo": "upper-up/meta-lobbying-and-other-findings",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "pengchengneo/Claude-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "可运行的Claude Code源码"
+  },
+  {
+    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "repo": "styled-components/styled-components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+  },
+  {
+    "repo": "adamveld12/ghost",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Git is the coding agent"
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+  },
+  {
+    "repo": "actions/upload-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload artifacts from your workflow"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
+  },
+  {
+    "repo": "parcel-bundler/parcel",
+    "branch": "v2",
+    "language": "JavaScript",
+    "description": "The zero configuration build tool for the web. 📦🚀"
+  },
+  {
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
   }
 ]

@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Python",
   "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-  "stars": 297,
-  "forks": 63
+  "stars": 321,
+  "forks": 70
 }
