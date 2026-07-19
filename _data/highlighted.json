@@ -1,8 +1,8 @@
 {
-  "repo": "Icex0/wp2shell-poc",
+  "repo": "Dgeloe4-yb/market-pilot",
   "branch": "main",
-  "language": "Python",
-  "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-  "stars": 230,
-  "forks": 53
+  "language": "JavaScript",
+  "description": "Evidence-grounded market research prototype with traceable AI workflows.",
+  "stars": 101,
+  "forks": 1
 }
