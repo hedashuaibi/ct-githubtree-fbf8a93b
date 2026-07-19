@@ -1,8 +1,8 @@
 {
-  "repo": "v-modal/vmodal_sdk_flutter",
+  "repo": "Icex0/wp2shell-poc",
   "branch": "main",
-  "language": "Dart",
-  "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-  "stars": 153,
-  "forks": 1
+  "language": "Python",
+  "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+  "stars": 230,
+  "forks": 53
 }

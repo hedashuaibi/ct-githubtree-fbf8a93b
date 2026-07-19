@@ -1,146 +1,146 @@
 [
   {
-    "repo": "josephmisiti/awesome-machine-learning",
+    "repo": "zilliztech/memsearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+  },
+  {
+    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3.5-9B ToolHub-v1.0.0"
+  },
+  {
+    "repo": "makermate/clarvis-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Clarvis - 3D Printing Made Easy"
+  },
+  {
+    "repo": "id-Software/DOOM",
     "branch": "master",
-    "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+    "language": "C++",
+    "description": "DOOM Open Source Release"
   },
   {
-    "repo": "lingbol088-spec/reverse-flow-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。"
-  },
-  {
-    "repo": "sanketagarwal/hyperliquid-trading-agent",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "OpenMOSS/MOSS-Audio",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
-  },
-  {
-    "repo": "vakovalskii/codedash",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
-  },
-  {
-    "repo": "cursor/cookbook",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "rodrigojpgamer2022/JourneyMap-Minecraft-Modpack",
-    "branch": "main",
-    "language": "Java",
-    "description": "Journeymap Minecraft Modpack download minimap waypoints fullscreen map cartography Forge Fabric world map mobs tracking caves biomes teleport markers."
-  },
-  {
-    "repo": "Anetedith12807/Ethereum-MEV-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
-  },
-  {
-    "repo": "jmerelnyc/Photo-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer."
-  },
-  {
-    "repo": "study8677/awesome-architecture",
-    "branch": "main",
-    "language": "Vue",
-    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。"
-  },
-  {
-    "repo": "mattmireles/gemma-tuner-multimodal",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
-  },
-  {
-    "repo": "avacocloud/netlify-XHHTP",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "taylorarndt/perspective-cuts",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A text-based language for writing Apple Shortcuts. Experimental."
-  },
-  {
-    "repo": "sachmalan/kalshi-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot"
-  },
-  {
-    "repo": "raiyanyahya/how-to-train-your-gpt",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
-  },
-  {
-    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
-  },
-  {
-    "repo": "sleepinginsummer/agent-browser-cli",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障"
-  },
-  {
-    "repo": "rit3zh/expo-motion-tabs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Smooth motion tabs for Expo Router"
-  },
-  {
-    "repo": "blairxu13/persona3-website",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "MagicCube/helixent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Helixent is a small library for building ReAct-style agent loops based on the Bun stack."
-  },
-  {
-    "repo": "hero8152/Infinite-Canvas",
+    "repo": "randallscott25-star/epstein-forensic-finance",
     "branch": "main",
     "language": "HTML",
-    "description": "Supports comfyui/API calls/modelscope calls"
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
   },
   {
-    "repo": "imbue-ai/bouncer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Heal your social media feeds"
-  },
-  {
-    "repo": "Janlaywss/hu-chenfeng-skill",
+    "repo": "FireRedTeam/FireRed-Image-Edit",
     "branch": "main",
     "language": "Python",
-    "description": "户晨风Skill"
+    "description": ""
   },
   {
-    "repo": "V-IOLE-T/hotmail-register-extension",
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
+  },
+  {
+    "repo": "pytest-dev/pytest",
+    "branch": "main",
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "react-native-maps/react-native-maps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
+    "repo": "skernelx/tavily-key-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto batch register Tavily API Keys with pluggable email backends"
+  },
+  {
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+  },
+  {
+    "repo": "Jane-xiaoer/x-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "GalaxyGeneralRobotics/LATENT",
+    "branch": "master",
+    "language": "Python",
+    "description": "Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"
+  },
+  {
+    "repo": "tox-dev/tox",
+    "branch": "main",
+    "language": "Python",
+    "description": "Command line driven CI frontend and development task automation tool."
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
+  },
+  {
+    "repo": "FinPyromancerLog/xcode-claw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+    "description": ""
+  },
+  {
+    "repo": "react-hook-form/react-hook-form",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
+  },
+  {
+    "repo": "run-bigpig/jcp",
+    "branch": "master",
+    "language": "Go",
+    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+  },
+  {
+    "repo": "disler/pi-vs-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Comparison between open source PI agent and closed source Claude Code agent"
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark deleter windows macos"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-backup",
+    "branch": "main",
+    "language": "Shell",
+    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
   }
 ]
