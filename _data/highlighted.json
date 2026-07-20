@@ -1,8 +1,8 @@
 {
-  "repo": "JiXiner/flinkAgentMonitoring",
+  "repo": "joeseesun/qiaomu-cut-skill",
   "branch": "main",
-  "language": "Python",
-  "description": "构建Flink Agent智能体 协助你Flink编程",
-  "stars": 120,
-  "forks": 3
+  "language": "JavaScript",
+  "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+  "stars": 164,
+  "forks": 24
 }
