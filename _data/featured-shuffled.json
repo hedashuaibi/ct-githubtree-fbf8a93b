@@ -1,146 +1,146 @@
 [
   {
-    "repo": "simonw/rodney",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for interacting with the web"
-  },
-  {
-    "repo": "roboflow/rf-detr",
-    "branch": "main",
-    "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
-  },
-  {
-    "repo": "solidjs-community/solid-primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
-  },
-  {
-    "repo": "testing-library/react-testing-library",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
-  },
-  {
-    "repo": "slackhq/nebula",
-    "branch": "master",
-    "language": "Go",
-    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
-  },
-  {
-    "repo": "ml-explore/mlx",
-    "branch": "main",
-    "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
-  },
-  {
-    "repo": "cri-o/cri-o",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
-  },
-  {
-    "repo": "restic/restic",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
-  },
-  {
-    "repo": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
-  },
-  {
-    "repo": "millionco/claude-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Diagnose your Claude Code sessions"
-  },
-  {
-    "repo": "OStudi/short-video-generator-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
-  },
-  {
-    "repo": "Jafta-September/Diablo-IV-Lord-of-Hatred-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Diablo IV Lord of Hatred PC Download April 28 2026 Release Date Warlock Class Build Guide Season of Slaughter Be The Butcher Overwatch 2 Collab Skins Diablo 4 Expansion Early Access US Release Warlock Shadowform Eviscerate Hex Skill Tree Tower Mode Tile Sets Fix Diablo 4 4K 144FPS Windows 11 24H2 Optimization Battle.net Login Error Fix Free"
-  },
-  {
-    "repo": "seulee26/mckinsey-pptx",
-    "branch": "main",
-    "language": "Python",
-    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
-  },
-  {
-    "repo": "Morgensonne/EditDeck",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "awizemann/harness",
+    "repo": "yetone/voice-input-dist",
     "branch": "main",
     "language": "Swift",
-    "description": "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6."
+    "description": ""
   },
   {
-    "repo": "ChristianJR19/p-peg",
+    "repo": "yeuxuan/openclaw-docs",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "openclaw 剖析、拆解、教程在线文档"
+  },
+  {
+    "repo": "jackwener/wechat-article-to-markdown",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
+  },
+  {
+    "repo": "TheAlgorithms/Rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "All Algorithms implemented in Rust"
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "wh1te4ever/super-tart-vphone-writeup",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "Xuanwo/xurl",
+    "branch": "main",
+    "language": "Rust",
+    "description": "xURL: Client for AI Agents URLs"
+  },
+  {
+    "repo": "direkturcrypto/polymarket-terminal",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Copy, Scalping & Sniper for polymarket"
+  },
+  {
+    "repo": "raspberrypi/firmware",
+    "branch": "master",
+    "language": "Other",
+    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+  },
+  {
+    "repo": "itcaat/mtproto-installer",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Ускоритель телеграм =)"
+  },
+  {
+    "repo": "react-native-webview/react-native-webview",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Cross-Platform WebView"
+  },
+  {
+    "repo": "sindresorhus/awesome-nodejs",
+    "branch": "main",
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
+  },
+  {
+    "repo": "vim/vim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "The official Vim repository"
+  },
+  {
+    "repo": "Lakr233/vphone-cli",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
   },
   {
-    "repo": "JustLikeCheese/LGBT-Prompt",
-    "branch": "main",
-    "language": "HTML",
-    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
-  },
-  {
-    "repo": "Spade-sec/First",
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
     "branch": "main",
     "language": "Python",
-    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
   },
   {
-    "repo": "tonbo-io/ursula",
+    "repo": "ysharma3501/LavaSR",
+    "branch": "main",
+    "language": "Python",
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+  },
+  {
+    "repo": "GreatScott/enject",
     "branch": "main",
     "language": "Rust",
-    "description": "Distributed event stream server over HTTP, backed by S3."
+    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
   },
   {
-    "repo": "6537445/jenny-mod-minecraft-",
+    "repo": "writetoaniketparihar-collab/claude-spend",
     "branch": "main",
-    "language": "Java",
-    "description": "jenny mod minecraft mod de jenny download video curseforge 1.21 forge fabric tlauncher java edition bedrock mcpe virtual girlfriend addon skins gameplay setup guide latest version 26.1.2 windows 11 free update config tutorial"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
+    "repo": "peteromallet/dataclaw",
     "branch": "main",
     "language": "Python",
-    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
+    "description": ""
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
+  },
+  {
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A light weight Python library for the Spotify Web API"
+  },
+  {
+    "repo": "react-native-video/react-native-video",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A <Video /> component for react-native"
   }
 ]

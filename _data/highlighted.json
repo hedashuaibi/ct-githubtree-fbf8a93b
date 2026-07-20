@@ -1,8 +1,8 @@
 {
-  "repo": "timethrough/xiaohei-Chrome",
+  "repo": "Gheat1/tuistore",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "谷歌多开",
-  "stars": 113,
-  "forks": 29
+  "language": "Python",
+  "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
+  "stars": 184,
+  "forks": 10
 }
