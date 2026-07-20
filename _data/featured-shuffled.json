@@ -1,146 +1,146 @@
 [
   {
-    "repo": "PrathamLearnsToCode/paper2code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skill to turn any arxiv paper into a working implementation"
-  },
-  {
-    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark deleter windows macos"
-  },
-  {
-    "repo": "nginx/nginx",
-    "branch": "master",
-    "language": "C",
-    "description": "The official NGINX Open Source repository."
-  },
-  {
-    "repo": "nextlevelbuilder/goclaw",
+    "repo": "simonw/rodney",
     "branch": "main",
     "language": "Go",
-    "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels."
+    "description": "CLI tool for interacting with the web"
   },
   {
-    "repo": "BradGroux/veritas-kanban",
+    "repo": "roboflow/rf-detr",
+    "branch": "main",
+    "language": "Python",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
+  },
+  {
+    "repo": "solidjs-community/solid-primitives",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
   },
   {
-    "repo": "remotion-dev/remotion",
+    "repo": "testing-library/react-testing-library",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
+    "language": "JavaScript",
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
   },
   {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "repo": "slackhq/nebula",
+    "branch": "master",
+    "language": "Go",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+  },
+  {
+    "repo": "ml-explore/mlx",
     "branch": "main",
     "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+    "description": "MLX: An array framework for Apple silicon"
   },
   {
-    "repo": "solidjs/solid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
-  },
-  {
-    "repo": "lqs/retrotick",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
-  },
-  {
-    "repo": "pgvector/pgvector",
-    "branch": "master",
-    "language": "C",
-    "description": "Open-source vector similarity search for Postgres"
-  },
-  {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
-  },
-  {
-    "repo": "NOBB2333/ClipCascade_go",
+    "repo": "cri-o/cri-o",
     "branch": "main",
     "language": "Go",
-    "description": "ClipCascade go语言重制版"
+    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
   },
   {
-    "repo": "JakeWharton/butterknife",
+    "repo": "restic/restic",
     "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
-  },
-  {
-    "repo": "Gen-Verse/OpenClaw-RL",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
-  },
-  {
-    "repo": "fabricjs/fabric.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
-  },
-  {
-    "repo": "tendermint/tendermint",
-    "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "Fast, secure, efficient backup program"
   },
   {
-    "repo": "raspberrypi/linux",
-    "branch": "rpi-6.6.y",
-    "language": "C",
-    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
-  },
-  {
-    "repo": "godotengine/godot-proposals",
-    "branch": "master",
-    "language": "Other",
-    "description": "Godot Improvement Proposals (GIPs)"
-  },
-  {
-    "repo": "shanselman/MaximizeToVirtualDesktop",
-    "branch": "master",
-    "language": "C#",
-    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
-  },
-  {
-    "repo": "logseq/logseq",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
-  },
-  {
-    "repo": "cita-777/metapi",
+    "repo": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
-  },
-  {
-    "repo": "KXJ-WQL/PortalWebsiteSystem",
-    "branch": "master",
-    "language": "Java",
-    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
-  },
-  {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "pytube/pytube",
-    "branch": "master",
+    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
+  },
+  {
+    "repo": "millionco/claude-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Diagnose your Claude Code sessions"
+  },
+  {
+    "repo": "OStudi/short-video-generator-AI",
+    "branch": "main",
     "language": "Python",
-    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
+  },
+  {
+    "repo": "Jafta-September/Diablo-IV-Lord-of-Hatred-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Diablo IV Lord of Hatred PC Download April 28 2026 Release Date Warlock Class Build Guide Season of Slaughter Be The Butcher Overwatch 2 Collab Skins Diablo 4 Expansion Early Access US Release Warlock Shadowform Eviscerate Hex Skill Tree Tower Mode Tile Sets Fix Diablo 4 4K 144FPS Windows 11 24H2 Optimization Battle.net Login Error Fix Free"
+  },
+  {
+    "repo": "seulee26/mckinsey-pptx",
+    "branch": "main",
+    "language": "Python",
+    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+  },
+  {
+    "repo": "Morgensonne/EditDeck",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "awizemann/harness",
+    "branch": "main",
+    "language": "Swift",
+    "description": "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6."
+  },
+  {
+    "repo": "ChristianJR19/p-peg",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+  },
+  {
+    "repo": "JustLikeCheese/LGBT-Prompt",
+    "branch": "main",
+    "language": "HTML",
+    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
+  },
+  {
+    "repo": "Spade-sec/First",
+    "branch": "main",
+    "language": "Python",
+    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
+  },
+  {
+    "repo": "tonbo-io/ursula",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Distributed event stream server over HTTP, backed by S3."
+  },
+  {
+    "repo": "6537445/jenny-mod-minecraft-",
+    "branch": "main",
+    "language": "Java",
+    "description": "jenny mod minecraft mod de jenny download video curseforge 1.21 forge fabric tlauncher java edition bedrock mcpe virtual girlfriend addon skins gameplay setup guide latest version 26.1.2 windows 11 free update config tutorial"
+  },
+  {
+    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
   }
 ]
