@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ziglang/zig",
-    "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
-  },
-  {
-    "repo": "cisco-ai-defense/defenseclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Governance for Agentic AI"
-  },
-  {
-    "repo": "airbnb/lottie-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
-  },
-  {
-    "repo": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Legend Zelda Twilight Princess PC Download April 2026 High Performance 4K 60FPS Enhancement Suite Midna Shadow Shaders Texture Pack Ultra Wide Support High Refresh Rate Emulation Fix Gaming Utility Stable Build Free Project Preservation Tutorial Guide"
-  },
-  {
-    "repo": "CN-Syndra/ClawLink",
+    "repo": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
+    "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment"
   },
   {
-    "repo": "tanishqkumar/ssd",
+    "repo": "akihitohyh/chatgpt-register-sub2api",
     "branch": "main",
     "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
-  },
-  {
-    "repo": "PKU-YuanGroup/Helios",
-    "branch": "main",
-    "language": "Python",
-    "description": "Helios: Real Real-Time Long Video Generation Model"
-  },
-  {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "asdf-vm/asdf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
-  },
-  {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
-  },
-  {
-    "repo": "react-navigation/react-navigation",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Routing and navigation for React Native and Web apps"
-  },
-  {
-    "repo": "upper-up/meta-lobbying-and-other-findings",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "pengchengneo/Claude-Code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "可运行的Claude Code源码"
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
-  },
-  {
-    "repo": "styled-components/styled-components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
-  },
-  {
-    "repo": "software-mansion/react-native-gesture-handler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Declarative API exposing platform native touch and gesture system to React Native."
-  },
-  {
-    "repo": "adamveld12/ghost",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Git is the coding agent"
-  },
-  {
-    "repo": "beita6969/ScienceClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
-  },
-  {
-    "repo": "actions/upload-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
-  },
-  {
-    "repo": "rohitg00/ai-engineering-from-scratch",
+    "repo": "Niranjan266/Euro_Truck_Simulator_2_Money___Speed_Hack",
     "branch": "main",
     "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
+    "description": "Unlimited money, speed hack, and no damage for ETS2. Max money, go faster, and never damage your truck. Become a trucking tycoon."
   },
   {
-    "repo": "bytedance/semi-design",
+    "repo": "Mbovu222/League_of_Legends_Skillshot_Dodger",
     "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
+    "language": "Python",
+    "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes."
   },
   {
-    "repo": "parcel-bundler/parcel",
-    "branch": "v2",
+    "repo": "ajayprabhuraj/institutional-orderflow-mt5",
+    "branch": "main",
+    "language": "HTML",
+    "description": "2026 SMC Trading Toolkit: Real-Time Order Blocks & Fair Value Gaps for MT5"
+  },
+  {
+    "repo": "Tonnyspiel/Easy_Backup_Scheduler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles."
+  },
+  {
+    "repo": "wikidjon/ai-openclaw-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp"
+  },
+  {
+    "repo": "angieruiz17/claude-fintech-skills",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "The zero configuration build tool for the web. 📦🚀"
+    "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production"
   },
   {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+    "repo": "eli-labz/Cognitive-Core-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
+  },
+  {
+    "repo": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | |"
+  },
+  {
+    "repo": "x4gKing/PasarGuard",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "ronak-create/FableCut",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI"
+  },
+  {
+    "repo": "mocasus/Auto-FreeCF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes"
+  },
+  {
+    "repo": "OmarH-creator/Autonomous-Forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself."
+  },
+  {
+    "repo": "change-42-yhmm/quota-float",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A plug-in for easy viewing of credit limits"
+  },
+  {
+    "repo": "Saideens-Libraries/All-In-One-Runtime-Installer-V2",
+    "branch": "main",
+    "language": "Batchfile",
+    "description": "This installer uses official Microsoft runtime packages and automates the installation process in one click."
+  },
+  {
+    "repo": "Ahtasham-ul-haq/Hades_II_Trainer_X",
+    "branch": "main",
+    "language": "Python",
+    "description": "God mode, unlimited resources, and one-hit kill for Hades II. Take zero damage, infinite health and mana, one-shot all enemies. Escape the Underworld effortlessly."
+  },
+  {
+    "repo": "Holiday-Robot/FlashSAC",
+    "branch": "main",
+    "language": "Python",
+    "description": "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control"
+  },
+  {
+    "repo": "codeany-ai/codeany",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open-source AI-powered terminal agent. Built in Go."
+  },
+  {
+    "repo": "dodo-reach/hermes-desktop",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
+  },
+  {
+    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
+  },
+  {
+    "repo": "djfksjd/ir-search",
+    "branch": "main",
+    "language": "Python",
+    "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)"
+  },
+  {
+    "repo": "smallnest/autoresearch",
+    "branch": "master",
+    "language": "Shell",
+    "description": "autoresearch for software development"
+  },
+  {
+    "repo": "Szili1994/create-aeronautics-minecraft-mod",
+    "branch": "main",
+    "language": "Java",
+    "description": "aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash**"
   }
 ]

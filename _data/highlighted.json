@@ -1,8 +1,8 @@
 {
-  "repo": "Icex0/wp2shell-poc",
+  "repo": "JiXiner/flinkAgentMonitoring",
   "branch": "main",
   "language": "Python",
-  "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-  "stars": 321,
-  "forks": 70
+  "description": "构建Flink Agent智能体 协助你Flink编程",
+  "stars": 120,
+  "forks": 3
 }
