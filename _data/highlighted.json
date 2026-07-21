@@ -1,8 +1,8 @@
 {
-  "repo": "Finderchangchang/codex-autoskin",
-  "branch": "master",
-  "language": "JavaScript",
-  "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
-  "stars": 101,
-  "forks": 18
+  "repo": "MatheuZSecurity/Furtex",
+  "branch": "main",
+  "language": "C",
+  "description": "Post-exploitation and evasion research toolkit for Linux.",
+  "stars": 116,
+  "forks": 15
 }
