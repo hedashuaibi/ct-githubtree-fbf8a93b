@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support."
-  },
-  {
-    "repo": "longhorn/longhorn",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Cloud-Native distributed storage built on and for Kubernetes"
-  },
-  {
-    "repo": "total-typescript/ts-reset",
+    "repo": "Ch1rpy2613/Mirrai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
-  },
-  {
-    "repo": "trinodb/trino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
-  },
-  {
-    "repo": "unicodeveloper/globalthreatmap",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
-  },
-  {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "vllm-project/aibrix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
-  },
-  {
-    "repo": "encode/httpx",
-    "branch": "master",
-    "language": "Python",
-    "description": "A next generation HTTP client for Python. 🦋"
-  },
-  {
-    "repo": "cockroachdb/cockroach",
-    "branch": "master",
-    "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
-  },
-  {
-    "repo": "TheOdinProject/css-exercises",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A repository for practicing CSS concepts."
-  },
-  {
-    "repo": "wagoodman/dive",
-    "branch": "master",
-    "language": "Go",
-    "description": "A tool for exploring each layer in a docker image"
-  },
-  {
-    "repo": "OpenBMB/MiniCPM-o",
-    "branch": "main",
-    "language": "Python",
-    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
-  },
-  {
-    "repo": "RightNow-AI/autokernel",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
-  },
-  {
-    "repo": "pallets/jinja",
-    "branch": "main",
-    "language": "Python",
-    "description": "A very fast and expressive template engine."
-  },
-  {
-    "repo": "Gentleman-Programming/engram",
-    "branch": "main",
-    "language": "Go",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
-  },
-  {
-    "repo": "edwardsanchez/MotionEyes",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "AssemblyScript/assemblyscript",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "A TypeScript-like language for WebAssembly."
+    "repo": "requirejs/requirejs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A file and module loader for JavaScript"
   },
   {
-    "repo": "tophant-ai/ClawVault",
+    "repo": "est-labs/polymarket-arbitrage-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+  },
+  {
+    "repo": "mimurchison/claude-chief-of-staff",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
+  },
+  {
+    "repo": "HKUDS/nanobot",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
   },
   {
-    "repo": "Tencent/tdesign-react",
+    "repo": "dwzhu-pku/PaperBanana",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+  },
+  {
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "actions/cache",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
+    "description": "Cache dependencies and build outputs in GitHub Actions"
   },
   {
-    "repo": "marilyn4120shaz3/KiteAI",
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "date-fns/date-fns",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⏳ Modern JavaScript date utility library ⌛️"
+  },
+  {
+    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "branch": "main",
+    "language": "Go",
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "miaoxworld/OpenClawInstaller",
+    "branch": "main",
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
+  },
+  {
+    "repo": "Gen-Verse/OpenClaw-RL",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "animate-css/animate.css",
+    "branch": "main",
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "AMAP-ML/MathForge",
     "branch": "main",
     "language": "Python",
-    "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX swaps, daily quiz completion, cross-chain bridging, proxy rotation, and configurable task scheduling"
+    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
   },
   {
-    "repo": "distribution/distribution",
+    "repo": "microsoft/terminal",
     "branch": "main",
-    "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
+    "language": "C++",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
   },
   {
-    "repo": "Olshansk/interview",
-    "branch": "master",
-    "language": "Other",
-    "description": "Everything you need to prepare for your technical interview"
-  },
-  {
-    "repo": "EvolutionAPI/evolution-go",
+    "repo": "sebastianvkl/pizero-openclaw",
     "branch": "main",
-    "language": "Go",
-    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
+    "repo": "graphql/graphql-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A reference implementation of GraphQL for JavaScript"
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
   }
 ]
