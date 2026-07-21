@@ -1,8 +1,8 @@
 {
-  "repo": "Licoy/StrokeMouse",
-  "branch": "main",
-  "language": "Swift",
-  "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-  "stars": 104,
-  "forks": 5
+  "repo": "gakonst/nanocodex",
+  "branch": "master",
+  "language": "Rust",
+  "description": "Blazing-fast, minimal, library-first reimplementation of Codex",
+  "stars": 156,
+  "forks": 11
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Ch1rpy2613/Mirrai",
+    "repo": "AgentSeal/codeburn",
     "branch": "main",
     "language": "TypeScript",
+    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+  },
+  {
+    "repo": "rustwasm/wasm-pack",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+  },
+  {
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "requirejs/requirejs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
-  },
-  {
-    "repo": "est-labs/polymarket-arbitrage-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
-  },
-  {
-    "repo": "memovai/mimiclaw",
+    "repo": "dazzyddos/lsawhisper-bof",
     "branch": "main",
     "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+    "description": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory."
   },
   {
-    "repo": "mimurchison/claude-chief-of-staff",
+    "repo": "depreciating/DoodleCloud",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloud Storage using Instagram."
+  },
+  {
+    "repo": "davegoldblatt/total-recall",
     "branch": "main",
     "language": "Shell",
-    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
+    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
   },
   {
-    "repo": "HKUDS/nanobot",
-    "branch": "main",
-    "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
-  },
-  {
-    "repo": "dwzhu-pku/PaperBanana",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "actions/cache",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cache dependencies and build outputs in GitHub Actions"
-  },
-  {
-    "repo": "ggerganov/llama.cpp",
+    "repo": "microsoft/fluentui",
     "branch": "master",
-    "language": "C++",
-    "description": "LLM inference in C/C++"
-  },
-  {
-    "repo": "date-fns/date-fns",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "⏳ Modern JavaScript date utility library ⌛️"
+    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
   },
   {
-    "repo": "Enriquefft/openclaw-kapso-whatsapp",
-    "branch": "main",
-    "language": "Go",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deepfakes Software For All"
   },
   {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "miaoxworld/OpenClawInstaller",
+    "repo": "itcaat/mtproto-installer",
     "branch": "main",
     "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "description": "Ускоритель телеграм =)"
   },
   {
-    "repo": "Gen-Verse/OpenClaw-RL",
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "sigp/lighthouse",
+    "branch": "stable",
+    "language": "Rust",
+    "description": "Ethereum consensus client in Rust"
+  },
+  {
+    "repo": "gothinkster/realworld",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
   },
   {
-    "repo": "tendermint/tendermint",
+    "repo": "pydantic/pydantic",
     "branch": "main",
+    "language": "Python",
+    "description": "Data validation using Python type hints"
+  },
+  {
+    "repo": "go-chi/chi",
+    "branch": "master",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "lightweight, idiomatic and composable router for building Go HTTP services"
   },
   {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
   },
   {
-    "repo": "animate-css/animate.css",
-    "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "AMAP-ML/MathForge",
-    "branch": "main",
+    "repo": "home-assistant/core",
+    "branch": "dev",
     "language": "Python",
-    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
   },
   {
-    "repo": "microsoft/terminal",
+    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "branch": "main",
-    "language": "C++",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
+    "language": "TypeScript",
+    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
   },
   {
-    "repo": "sebastianvkl/pizero-openclaw",
+    "repo": "tompftampffern/polyseed-monero",
     "branch": "main",
-    "language": "Python",
+    "language": "C",
+    "description": "Polyseed Monero"
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "branch": "branch-3.4",
+    "language": "TypeScript",
+    "description": "Interactive Data Visualization in the browser, from  Python"
+  },
+  {
+    "repo": "geoffreymcgill/react-native-collapsible",
+    "branch": "master",
+    "language": "Other",
+    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
+  },
+  {
+    "repo": "solidjs/solid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+  },
+  {
+    "repo": "rebornix/Agmente",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "graphql/graphql-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
-  },
-  {
-    "repo": "jina-ai/jina-grep-cli",
+    "repo": "SawyerHood/gitclaw",
     "branch": "main",
     "language": "Python",
-    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+    "description": "OpenClaw but it runs entirely on github actions"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "branch": "main",
+    "language": "Rust",
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   }
 ]
