@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yetone/voice-input-dist",
+    "repo": "systemd/systemd",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "C",
+    "description": "The systemd System and Service Manager"
   },
   {
-    "repo": "yeuxuan/openclaw-docs",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "openclaw 剖析、拆解、教程在线文档"
-  },
-  {
-    "repo": "jackwener/wechat-article-to-markdown",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
-  },
-  {
-    "repo": "TheAlgorithms/Rust",
+    "repo": "longhorn/longhorn",
     "branch": "master",
-    "language": "Rust",
-    "description": "All Algorithms implemented in Rust"
+    "language": "Shell",
+    "description": "Cloud-Native distributed storage built on and for Kubernetes"
   },
   {
-    "repo": "reflex-dev/reflex",
+    "repo": "angel10x/Crash-Frontend",
     "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "wh1te4ever/super-tart-vphone-writeup",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
+    "description": "About Crash game - frontend"
   },
   {
-    "repo": "Xuanwo/xurl",
+    "repo": "open-telemetry/opentelemetry-js",
     "branch": "main",
-    "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
+    "language": "TypeScript",
+    "description": "OpenTelemetry JavaScript Client"
   },
   {
-    "repo": "direkturcrypto/polymarket-terminal",
+    "repo": "linkerd/linkerd2",
+    "branch": "main",
+    "language": "Go",
+    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+  },
+  {
+    "repo": "rancher/rancher",
+    "branch": "master",
+    "language": "Go",
+    "description": "Complete container management platform"
+  },
+  {
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+  },
+  {
+    "repo": "gogs/gogs",
+    "branch": "main",
+    "language": "Go",
+    "description": "Gogs is a painless self-hosted Git service"
+  },
+  {
+    "repo": "openscad/openscad",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+  },
+  {
+    "repo": "axios/axios",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Copy, Scalping & Sniper for polymarket"
+    "description": "Promise based HTTP client for the browser and node.js"
   },
   {
-    "repo": "raspberrypi/firmware",
+    "repo": "facebookresearch/faiss",
+    "branch": "main",
+    "language": "C++",
+    "description": "A library for efficient similarity search and clustering of dense vectors."
+  },
+  {
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+  },
+  {
+    "repo": "pointfreeco/swift-composable-architecture",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+  },
+  {
+    "repo": "confluentinc/schema-registry",
     "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+    "language": "Java",
+    "description": "Confluent Schema Registry for Kafka"
   },
   {
-    "repo": "itcaat/mtproto-installer",
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "github/super-linter",
     "branch": "main",
     "language": "Shell",
-    "description": "Ускоритель телеграм =)"
+    "description": "Combination of multiple linters to install as a GitHub Action"
   },
   {
-    "repo": "react-native-webview/react-native-webview",
+    "repo": "TheAlgorithms/Python",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Cross-Platform WebView"
+    "language": "Python",
+    "description": "All Algorithms implemented in Python"
   },
   {
-    "repo": "sindresorhus/awesome-nodejs",
-    "branch": "main",
-    "language": "Other",
-    "description": ":zap: Delightful Node.js packages and resources"
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
   },
   {
-    "repo": "vim/vim",
+    "repo": "termux/termux-packages",
     "branch": "master",
-    "language": "Vim Script",
-    "description": "The official Vim repository"
+    "language": "Shell",
+    "description": "A package build system for Termux."
   },
   {
-    "repo": "Lakr233/vphone-cli",
+    "repo": "tj/n",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node version management"
+  },
+  {
+    "repo": "huggingface/trl",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Train transformer language models with reinforcement learning."
   },
   {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "whyzhow/PersonalStyleAI-Framework-",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
-  },
-  {
-    "repo": "ysharma3501/LavaSR",
-    "branch": "main",
-    "language": "Python",
-    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
-  },
-  {
-    "repo": "GreatScott/enject",
+    "repo": "meilisearch/meilisearch",
     "branch": "main",
     "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
   },
   {
-    "repo": "writetoaniketparihar-collab/claude-spend",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "peteromallet/dataclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "bytecodealliance/wasmtime",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
-  },
-  {
-    "repo": "spotipy-dev/spotipy",
+    "repo": "LightTable/LightTable",
     "branch": "master",
-    "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
-  },
-  {
-    "repo": "react-native-video/react-native-video",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A <Video /> component for react-native"
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
   }
 ]

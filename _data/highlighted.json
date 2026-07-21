@@ -1,8 +1,8 @@
 {
-  "repo": "Gheat1/tuistore",
-  "branch": "main",
-  "language": "Python",
-  "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
-  "stars": 184,
-  "forks": 10
+  "repo": "Finderchangchang/codex-autoskin",
+  "branch": "master",
+  "language": "JavaScript",
+  "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+  "stars": 101,
+  "forks": 18
 }
