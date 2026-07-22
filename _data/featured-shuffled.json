@@ -1,146 +1,146 @@
 [
   {
-    "repo": "thongthaibm/Lossless-Scaling-LSFG",
+    "repo": "deep-learning-indaba/GoodPracticesML",
     "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
+    "language": "Other",
+    "description": "A repository of good practices for developing usable ML products in Africa."
   },
   {
-    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "maderix/ANE",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
-  },
-  {
-    "repo": "yizhiyanhua-ai/skills-updater",
+    "repo": "pengchujin/jzsub",
     "branch": "main",
     "language": "Python",
-    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
+    "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
   },
   {
-    "repo": "okooo5km/Skills4U",
+    "repo": "newrelic/newrelic-java-agent",
     "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
+    "language": "Java",
+    "description": "The New Relic Java agent"
   },
   {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "repo": "apache/pulsar",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Pulsar - distributed pub-sub messaging system"
   },
   {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+    "repo": "JetBrains/kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "The Kotlin Programming Language."
   },
   {
-    "repo": "Minecraft-Community-Edition/client",
+    "repo": "microsoft/STL",
     "branch": "main",
     "language": "C++",
-    "description": "Whispers LCE Client"
+    "description": "MSVC's implementation of the C++ Standard Library."
   },
   {
-    "repo": "hiragram/claude-docker",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "InfinityLoop1308/PipePipe-X",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Modern designed PipePipe"
-  },
-  {
-    "repo": "wolffcatskyy/crowdsec-blocklist-import",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
-  },
-  {
-    "repo": "m1heng/clawdbot-feishu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "jdrhyne/agent-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
-  },
-  {
-    "repo": "karanb192/claude-code-hooks",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
-  },
-  {
-    "repo": "phai-lab/InstantSplatPP",
+    "repo": "openai/openai-python",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "The official Python library for the OpenAI API"
   },
   {
-    "repo": "snoglobe/helios",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "epiral/bb-sites",
+    "repo": "mrdoob/three-quake",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
+    "description": "A port of Quake (1996) to Three.js."
   },
   {
-    "repo": "btseytlin/hr-breaker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Optimize resume for jobs, now with AI"
-  },
-  {
-    "repo": "YougLin-dev/Aha-Loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
-  },
-  {
-    "repo": "hengfengliya/imgood",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "AlexsJones/llmfit",
-    "branch": "main",
-    "language": "Rust",
-    "description": "94 models. 30 providers. One command to find what runs on your hardware."
-  },
-  {
-    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
-  },
-  {
-    "repo": "zer0condition/Ophion",
+    "repo": "git/git",
     "branch": "master",
     "language": "C",
-    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
   },
   {
-    "repo": "rohitg00/pro-workflow",
+    "repo": "composer/composer",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "branch": "main",
+    "language": "Shell",
+    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
+  },
+  {
+    "repo": "Robbyant/lingbot-world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advancing Open-source World Models"
+  },
+  {
+    "repo": "shanselman/cert-inspector",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
+  },
+  {
+    "repo": "Homebrew/brew",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
+  },
+  {
+    "repo": "rohitg00/awesome-claude-code-toolkit",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+  },
+  {
+    "repo": "ytdl-org/youtube-dl",
+    "branch": "master",
+    "language": "Python",
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
+  },
+  {
+    "repo": "fabriciotrinndade/ats-resume-generator-html",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
+  },
+  {
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A Vue3.x UI components lib for TDesign."
+  },
+  {
+    "repo": "HsMirage/CliproxyAccountCleaner",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
+  },
+  {
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "certbot/certbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+  },
+  {
+    "repo": "postgres/postgres",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
   }
 ]
