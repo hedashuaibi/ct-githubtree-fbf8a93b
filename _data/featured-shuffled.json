@@ -1,21 +1,111 @@
 [
   {
-    "repo": "AgentSeal/codeburn",
+    "repo": "plannotator/effective-html",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+    "language": "HTML",
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of."
   },
   {
-    "repo": "rustwasm/wasm-pack",
-    "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
-  },
-  {
-    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "repo": "aiming-lab/AutoResearchClaw",
     "branch": "main",
     "language": "Python",
+    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Scalable datastore for metrics, events, and real-time analytics"
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "binhanchen25-arch/agent_plus",
+    "branch": "master",
+    "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "llmsresearch/paperbanana",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+  },
+  {
+    "repo": "planetscale/database-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Skills for AI agents working with databases"
+  },
+  {
+    "repo": "termux/termux-packages",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A package build system for Termux."
+  },
+  {
+    "repo": "anthropics/claudes-c-compiler",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+  },
+  {
+    "repo": "apple/swift-nio",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+  },
+  {
+    "repo": "hakimel/reveal.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The HTML Presentation Framework"
+  },
+  {
+    "repo": "bron1e/fnos-rce-chain",
+    "branch": "main",
+    "language": "Python",
+    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "shuaiplus/NodeWarden",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Minimal Bitwarden-compatible server on Cloudflare Workers for personal use"
+  },
+  {
+    "repo": "Quorinex/Kiro-Go",
+    "branch": "main",
+    "language": "Go",
+    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
+  },
+  {
+    "repo": "SVProgressHUD/SVProgressHUD",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
   },
   {
     "repo": "dazzyddos/lsawhisper-bof",
@@ -24,123 +114,33 @@
     "description": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory."
   },
   {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "davegoldblatt/total-recall",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
-  },
-  {
-    "repo": "microsoft/fluentui",
+    "repo": "websockets/ws",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
   },
   {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "itcaat/mtproto-installer",
+    "repo": "tendermint/tendermint",
     "branch": "main",
-    "language": "Shell",
-    "description": "Ускоритель телеграм =)"
-  },
-  {
-    "repo": "django/django",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
-  },
-  {
-    "repo": "sigp/lighthouse",
-    "branch": "stable",
-    "language": "Rust",
-    "description": "Ethereum consensus client in Rust"
-  },
-  {
-    "repo": "gothinkster/realworld",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data validation using Python type hints"
-  },
-  {
-    "repo": "go-chi/chi",
-    "branch": "master",
     "language": "Go",
-    "description": "lightweight, idiomatic and composable router for building Go HTTP services"
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
   },
   {
-    "repo": "nektos/act",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
-  },
-  {
-    "repo": "tompftampffern/polyseed-monero",
-    "branch": "main",
-    "language": "C",
-    "description": "Polyseed Monero"
-  },
-  {
-    "repo": "bokeh/bokeh",
-    "branch": "branch-3.4",
-    "language": "TypeScript",
-    "description": "Interactive Data Visualization in the browser, from  Python"
-  },
-  {
-    "repo": "geoffreymcgill/react-native-collapsible",
-    "branch": "master",
-    "language": "Other",
-    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
-  },
-  {
-    "repo": "solidjs/solid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
-  },
-  {
-    "repo": "rebornix/Agmente",
+    "repo": "r1cA18/screen-commentator",
     "branch": "main",
     "language": "Swift",
-    "description": ""
+    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
   },
   {
-    "repo": "SawyerHood/gitclaw",
+    "repo": "ktorio/ktor",
     "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
   },
   {
-    "repo": "rust-lang/rustlings",
+    "repo": "elastic/elasticsearch",
     "branch": "main",
-    "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
+    "language": "Java",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
   }
 ]
