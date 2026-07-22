@@ -1,146 +1,146 @@
 [
   {
-    "repo": "deep-learning-indaba/GoodPracticesML",
-    "branch": "main",
-    "language": "Other",
-    "description": "A repository of good practices for developing usable ML products in Africa."
-  },
-  {
-    "repo": "pengchujin/jzsub",
+    "repo": "zju3dv/Scal3R",
     "branch": "main",
     "language": "Python",
-    "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
+    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
   },
   {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "apache/pulsar",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Pulsar - distributed pub-sub messaging system"
-  },
-  {
-    "repo": "JetBrains/kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "The Kotlin Programming Language."
-  },
-  {
-    "repo": "microsoft/STL",
-    "branch": "main",
-    "language": "C++",
-    "description": "MSVC's implementation of the C++ Standard Library."
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "mrdoob/three-quake",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A port of Quake (1996) to Three.js."
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "composer/composer",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Dependency Manager for PHP"
-  },
-  {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "repo": "davegoldblatt/total-recall",
     "branch": "main",
     "language": "Shell",
-    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
+    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
   },
   {
-    "repo": "Robbyant/lingbot-world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advancing Open-source World Models"
-  },
-  {
-    "repo": "shanselman/cert-inspector",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "rohitg00/awesome-claude-code-toolkit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
-  },
-  {
-    "repo": "ytdl-org/youtube-dl",
-    "branch": "master",
-    "language": "Python",
-    "description": "Command-line program to download videos from YouTube.com and other video sites"
-  },
-  {
-    "repo": "fabriciotrinndade/ats-resume-generator-html",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
-  },
-  {
-    "repo": "vercel-labs/visual-json",
+    "repo": "supermemoryai/clawdbot-supermemory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
   },
   {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
   },
   {
-    "repo": "HsMirage/CliproxyAccountCleaner",
+    "repo": "panyiwei-home/Freedeck",
     "branch": "main",
     "language": "Python",
-    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
+    "description": "学习版游戏一站式平台"
   },
   {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "repo": "liu-ziting/ThinkFlowAI",
     "branch": "main",
-    "language": "Jupyter Notebook",
+    "language": "Vue",
+    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
+  },
+  {
+    "repo": "HugoRCD/evlog",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
+  },
+  {
+    "repo": "Robbyant/lingbot-vla",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Pragmatic VLA Foundation Model"
+  },
+  {
+    "repo": "The-Vibe-Company/claude-code-controller",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
+  },
+  {
+    "repo": "postrv/forgemax",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
+  },
+  {
+    "repo": "afumu/openlink",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+  },
+  {
+    "repo": "MapleShaw/yt-dlp-downloader-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
+  },
+  {
+    "repo": "wh1te4ever/super-tart-vphone-writeup",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "certbot/certbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+    "repo": "shanselman/MaximizeToVirtualDesktop",
+    "branch": "master",
+    "language": "C#",
+    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
   },
   {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+    "repo": "NVIDIA/NemoClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NVIDIA plugin for secure installation of OpenClaw"
+  },
+  {
+    "repo": "shipany-ai/open-agent-sdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  {
+    "repo": "joeseesun/knowledge-site-creator",
+    "branch": "main",
+    "language": "Shell",
+    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
+  },
+  {
+    "repo": "m1heng/claude-plugin-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "grapeot/context-infrastructure",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reference implementation: a context infrastructure system for pulling LLM out of consensus"
+  },
+  {
+    "repo": "nj19257/FastSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
+  },
+  {
+    "repo": "thellimist/clihub",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "matteyeux/coruna",
+    "branch": "main",
+    "language": "Python",
+    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
+  },
+  {
+    "repo": "oneclaw/oneclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OneClaw"
+  },
+  {
+    "repo": "llmsresearch/paperbanana",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
   }
 ]
