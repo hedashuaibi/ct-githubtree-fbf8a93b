@@ -1,146 +1,146 @@
 [
   {
-    "repo": "x4gKing/Marzban-Panel",
+    "repo": "arcsin1/oh-my-ppt",
     "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Local-first AI PPT generator for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck."
   },
   {
-    "repo": "rancher/k3d",
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "jingkaihe/matchlock",
     "branch": "main",
     "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
   },
   {
-    "repo": "PaddlePaddle/PaddleSpeech",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
-  },
-  {
-    "repo": "mikeyobrien/rho",
+    "repo": "tnm/zclaw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
-  },
-  {
-    "repo": "nullclaw/nullclaw",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
-  },
-  {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
-  },
-  {
-    "repo": "PinchToDebug/EverythingQuickSearch",
-    "branch": "master",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "zer0condition/Ophion",
-    "branch": "master",
     "language": "C",
-    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "delbaoliveira/learn-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "mirarr-app/network-checker",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "javaevolved/javaevolved.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
-  },
-  {
-    "repo": "schibsted/videofy_minimal",
+    "repo": "vigorX777/ai-daily-digest",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
   },
   {
-    "repo": "gradenGnostic/LegacyLauncher",
+    "repo": "pengchengneo/Claude-Code",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A custom launcher for Minecraft LCE."
+    "language": "TypeScript",
+    "description": "可运行的Claude Code源码"
   },
   {
-    "repo": "helenigtxu/TradingView-Claw",
+    "repo": "ford26321works003/sora2API",
+    "branch": "main",
+    "language": "Python",
+    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
+  },
+  {
+    "repo": "TrendTechVista/polymarket-politics-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+  },
+  {
+    "repo": "kossisoroyce/timber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "repo": "jnMetaCode/superpowers-zh",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）"
+  },
+  {
+    "repo": "FireRedTeam/FireRed-OCR",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Nuzair46/Monarch",
+    "repo": "RevylAI/greenlight",
     "branch": "main",
-    "language": "Rust",
-    "description": "Detach, restore, and switch monitor layouts without touching cables."
+    "language": "Go",
+    "description": "Pre-submission compliance scanner for the Apple App Store"
   },
   {
-    "repo": "sachaa/openbrowserclaw",
+    "repo": "paperclipai/paperclip",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+    "description": "Open-source orchestration for zero-human companies"
   },
   {
-    "repo": "Guid-Lab/kdecrypt",
+    "repo": "johnmai-dev/ANE-LM",
     "branch": "main",
     "language": "C++",
-    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
+    "description": "LLM inference on Apple Neural Engine (ANE)"
   },
   {
-    "repo": "OpenMOSS/MOSS-TTS",
+    "repo": "Darkkal44/sddm-themes",
+    "branch": "main",
+    "language": "QML",
+    "description": "A simple collection of all the sddm-themes I've made :D"
+  },
+  {
+    "repo": "mosaxiv/clawlet",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight Personal AI Assistant"
+  },
+  {
+    "repo": "komunite/kalfa",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+  },
+  {
+    "repo": "fspecii/ace-step-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+  },
+  {
+    "repo": "walter-grace/mac-code",
     "branch": "main",
     "language": "Python",
-    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
   },
   {
-    "repo": "deborahikssv/Antigravity-claw",
+    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
     "branch": "main",
-    "language": "Rust",
+    "language": "Python",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
+  },
+  {
+    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "branch": "main",
+    "language": "C",
+    "description": "Unlocking qualcomm bootloader via gbl exploit."
+  },
+  {
+    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "lifedever/TaskTick",
+    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
     "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
+    "language": "Shell",
+    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
   },
   {
-    "repo": "HKUDS/OpenSpace",
+    "repo": "H-EmbodVis/VEGA-3D",
     "branch": "main",
     "language": "Python",
-    "description": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving -- Community: https://open-space.cloud/"
-  },
-  {
-    "repo": "Minecraft-Community-Edition/client",
-    "branch": "main",
-    "language": "C++",
-    "description": "Whispers LCE Client"
-  },
-  {
-    "repo": "stonerl/Thaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Menu bar manager for macOS"
-  },
-  {
-    "repo": "SethGammon/Citadel",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
   }
 ]
