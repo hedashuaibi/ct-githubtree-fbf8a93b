@@ -1,146 +1,146 @@
 [
   {
-    "repo": "seulee26/mckinsey-pptx",
+    "repo": "x4gKing/Marzban-Panel",
     "branch": "main",
-    "language": "Python",
-    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+    "language": "Dockerfile",
+    "description": ""
   },
   {
-    "repo": "Railly/agentfiles",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Discover, organize, and edit AI coding agent skills across Claude Code, Cursor, Codex, Windsurf, and more, from inside Obsidian."
-  },
-  {
-    "repo": "lodash/lodash",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
-  },
-  {
-    "repo": "expo/expo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
-  },
-  {
-    "repo": "goharbor/harbor",
+    "repo": "rancher/k3d",
     "branch": "main",
     "language": "Go",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+    "description": "Little helper to run CNCF's k3s in Docker"
   },
   {
-    "repo": "getsentry/sentry",
-    "branch": "master",
+    "repo": "PaddlePaddle/PaddleSpeech",
+    "branch": "develop",
     "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
+    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
   },
   {
-    "repo": "nats-io/nats-server",
+    "repo": "mikeyobrien/rho",
     "branch": "main",
-    "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+    "language": "TypeScript",
+    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
   },
   {
-    "repo": "fluent/fluent-bit",
+    "repo": "nullclaw/nullclaw",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
+  },
+  {
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "PinchToDebug/EverythingQuickSearch",
+    "branch": "master",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "zer0condition/Ophion",
     "branch": "master",
     "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
   },
   {
-    "repo": "airbnb/lottie-web",
-    "branch": "master",
+    "repo": "delbaoliveira/learn-claude-code",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+    "description": ""
   },
   {
-    "repo": "grafana/grafana",
+    "repo": "mirarr-app/network-checker",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "javaevolved/javaevolved.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Java Evolved. Your Code Can Evolve Too!"
+  },
+  {
+    "repo": "schibsted/videofy_minimal",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+    "description": ""
   },
   {
-    "repo": "deepseek-ai/deepseek-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "yargs/yargs",
+    "repo": "gradenGnostic/LegacyLauncher",
     "branch": "main",
     "language": "JavaScript",
-    "description": "yargs the modern, pirate-themed successor to optimist."
+    "description": "A custom launcher for Minecraft LCE."
   },
   {
-    "repo": "grpc/grpc",
+    "repo": "helenigtxu/TradingView-Claw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Nuzair46/Monarch",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Detach, restore, and switch monitor layouts without touching cables."
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "repo": "Guid-Lab/kdecrypt",
+    "branch": "main",
     "language": "C++",
-    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
   },
   {
-    "repo": "microsoft/semantic-kernel",
-    "branch": "main",
-    "language": "C#",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
-  },
-  {
-    "repo": "pallets/jinja",
+    "repo": "OpenMOSS/MOSS-TTS",
     "branch": "main",
     "language": "Python",
-    "description": "A very fast and expressive template engine."
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
   },
   {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "software-mansion/react-native-gesture-handler",
+    "repo": "deborahikssv/Antigravity-claw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "graphql/dataloader",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
-  },
-  {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
-  },
-  {
-    "repo": "node-fetch/node-fetch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A light-weight module that brings the Fetch API to Node.js"
-  },
-  {
-    "repo": "tldev/posturr",
+    "repo": "lifedever/TaskTick",
     "branch": "main",
     "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
   },
   {
-    "repo": "spotipy-dev/spotipy",
-    "branch": "master",
-    "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
-  },
-  {
-    "repo": "systemd/systemd",
+    "repo": "HKUDS/OpenSpace",
     "branch": "main",
-    "language": "C",
-    "description": "The systemd System and Service Manager"
+    "language": "Python",
+    "description": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving -- Community: https://open-space.cloud/"
+  },
+  {
+    "repo": "Minecraft-Community-Edition/client",
+    "branch": "main",
+    "language": "C++",
+    "description": "Whispers LCE Client"
+  },
+  {
+    "repo": "stonerl/Thaw",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Menu bar manager for macOS"
+  },
+  {
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
   }
 ]

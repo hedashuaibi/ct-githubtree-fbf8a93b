@@ -1,8 +1,8 @@
 {
-  "repo": "sequilade/tokentab",
+  "repo": "shlgd/SuperDictate",
   "branch": "main",
-  "language": "Python",
-  "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-  "stars": 111,
-  "forks": 16
+  "language": "Swift",
+  "description": "Fast, private, local dictation for Apple Silicon Macs.",
+  "stars": 101,
+  "forks": 12
 }
