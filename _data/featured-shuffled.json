@@ -1,146 +1,146 @@
 [
   {
-    "repo": "arcsin1/oh-my-ppt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local-first AI PPT generator for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck."
-  },
-  {
-    "repo": "jimuzhe/tiez-clipboard",
+    "repo": "thedaviddias/Front-End-Checklist",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   },
   {
-    "repo": "jingkaihe/matchlock",
-    "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
-  },
-  {
-    "repo": "tnm/zclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
-  },
-  {
-    "repo": "vigorX777/ai-daily-digest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
-  },
-  {
-    "repo": "pengchengneo/Claude-Code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "可运行的Claude Code源码"
-  },
-  {
-    "repo": "ford26321works003/sora2API",
-    "branch": "main",
-    "language": "Python",
-    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-politics-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
-  },
-  {
-    "repo": "kossisoroyce/timber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
-  },
-  {
-    "repo": "jnMetaCode/superpowers-zh",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）"
-  },
-  {
-    "repo": "FireRedTeam/FireRed-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "RevylAI/greenlight",
-    "branch": "main",
-    "language": "Go",
-    "description": "Pre-submission compliance scanner for the Apple App Store"
-  },
-  {
-    "repo": "paperclipai/paperclip",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Open-source orchestration for zero-human companies"
-  },
-  {
-    "repo": "johnmai-dev/ANE-LM",
-    "branch": "main",
-    "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
-  },
-  {
-    "repo": "Darkkal44/sddm-themes",
-    "branch": "main",
-    "language": "QML",
-    "description": "A simple collection of all the sddm-themes I've made :D"
-  },
-  {
-    "repo": "mosaxiv/clawlet",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant"
-  },
-  {
-    "repo": "komunite/kalfa",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
-  },
-  {
-    "repo": "fspecii/ace-step-ui",
+    "repo": "playPlumtown/Plumtown",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+    "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser."
   },
   {
-    "repo": "walter-grace/mac-code",
+    "repo": "istio/istio.io",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Source for the istio.io site"
+  },
+  {
+    "repo": "foru17/clash-master",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+  },
+  {
+    "repo": "TryGhost/Ghost",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your personal AI assistant that remembers everything across Telegram, Slack, WhatsApp, and Signal"
+  },
+  {
+    "repo": "aframevr/aframe",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":a: Web framework for building virtual reality experiences."
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
+  },
+  {
+    "repo": "gavrielc/nanoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
+  },
+  {
+    "repo": "ryanmcdermott/clean-code-javascript",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Clean Code concepts adapted for JavaScript"
+  },
+  {
+    "repo": "NVlabs/Sana",
     "branch": "main",
     "language": "Python",
-    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
   },
   {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "repo": "quailyquaily/aqua",
+    "branch": "master",
+    "language": "Go",
+    "description": "Aqua, a cli message tool for AI agents"
+  },
+  {
+    "repo": "jquery-validation/jquery-validation",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "jQuery Validation Plugin library sources"
+  },
+  {
+    "repo": "mverschu/adwsdomaindump",
     "branch": "main",
     "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
   },
   {
-    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "repo": "planetscale/database-skills",
     "branch": "main",
-    "language": "C",
-    "description": "Unlocking qualcomm bootloader via gbl exploit."
+    "language": "HTML",
+    "description": "Skills for AI agents working with databases"
   },
   {
-    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
+    "repo": "ramsey/uuid",
+    "branch": "4.7",
+    "language": "PHP",
+    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
+  },
+  {
+    "repo": "gogs/gogs",
+    "branch": "main",
+    "language": "Go",
+    "description": "Gogs is a painless self-hosted Git service"
+  },
+  {
+    "repo": "quilljs/quill",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+  },
+  {
+    "repo": "ShinMegamiBoson/OpenPlanter",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+    "repo": "grp06/openclaw-studio",
     "branch": "main",
-    "language": "Shell",
-    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "H-EmbodVis/VEGA-3D",
-    "branch": "main",
+    "repo": "boto/boto",
+    "branch": "develop",
     "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+  },
+  {
+    "repo": "iad1tya/Net-Bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
+  },
+  {
+    "repo": "rebane2001/xikipedia",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "Wikipedia as a social media feed"
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   }
 ]
