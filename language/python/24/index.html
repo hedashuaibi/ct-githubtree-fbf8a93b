@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://www.googletagmanager.com; connect-src 'self' https://api.github.com https://raw.githubusercontent.com https://analytics.google.com https://*.google-analytics.com https://*.google.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com; img-src 'self' data: https://github.com https://img.shields.io https://*.google-analytics.com https://*.google.com https://*.google.co.in;">
+
+    <title>Best Python Repositories Directory - Page 24 | GitHubTree</title>
+    <meta name="description" content="Browse the ultimate collection of best Python repositories - Page 24. Explore directory structures and files instantly without cloning.">
+    <meta name="keywords" content="github, tree, visualizer, explorer, directory, structure, viewer, online">
+    <meta name="author" content="Ghazi Khan">
+
+    <!-- OPEN GRAPH / FACEBOOK -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://githubtree.mgks.dev/language/python/24/">
+    <meta property="og:title" content="Best Python Repositories Directory - Page 24 | GitHubTree">
+    <meta property="og:description" content="Browse the ultimate collection of best Python repositories - Page 24. Explore directory structures and files instantly without cloning.">
+    <meta property="og:image" content="https://githubtree.mgks.dev/images/gh-tree-preview.webp">
+
+    <!-- TWITTER -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://githubtree.mgks.dev/language/python/24/">
+    <meta property="twitter:title" content="Best Python Repositories Directory - Page 24 | GitHubTree">
+    <meta property="twitter:description" content="Browse the ultimate collection of best Python repositories - Page 24. Explore directory structures and files instantly without cloning.">
+    <meta property="twitter:image" content="https://githubtree.mgks.dev/images/gh-tree-preview.webp">
+
+    <!-- FAVICONS -->
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    
+    <!-- STYLES -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+
+    <!-- GOOGLE ANALYTICS -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FDS1LH69VW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-FDS1LH69VW');
+    </script>
+  <script type="module" crossorigin src="/assets/index-CwoFeDk-.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-x5ZfAYbv.css">
+<link rel="canonical" href="https://githubtree.mgks.dev/language/python/24/">
+    <link rel="prev" href="https://githubtree.mgks.dev/language/python/23/">
+    <link rel="next" href="https://githubtree.mgks.dev/language/python/25/">
+</head>
+<body>
+    <div class="app-container">
+        
+        <header>
+            <div class="brand">
+                <a href="https://githubtree.mgks.dev">
+                    <i class="fa-brands fa-github-alt"></i> &nbsp;<span>GitHubTree</span>
+                </a>
+                <button id="appStarBtn" class="app-star-btn" title="Star GitHubTree on GitHub">
+                    <i class="far fa-star"></i> <span id="appStarText">Star</span>
+                </button>
+            </div>
+            <div class="header-actions">
+                <button id="privateRepoBtn" class="text-btn" title="Access Private Repos">
+                    <i class="fas fa-lock"></i> Private Access
+                </button>
+                <button id="themeToggle" class="icon-btn" aria-label="Toggle Theme">
+                    <i class="fas fa-sun sun-icon"></i>
+                    <i class="fas fa-moon moon-icon"></i>
+                </button>
+            </div>
+        </header>
+
+        <div id="tokenSection" class="token-panel" style="display: none;">
+            <div class="token-inner">
+                <i class="fas fa-key"></i>
+                <input type="password" id="ghToken" placeholder="Paste GitHub Personal Access Token (PAT)">
+                <button id="saveTokenBtn">Save</button>
+                <button id="clearTokenBtn" style="display:none;">Clear</button>
+            </div>
+            <p class="token-warning">
+                <i class="fas fa-exclamation-triangle"></i> Token is saved to your browser's <b>LocalStorage</b>. Do not use on public computers.
+            </p>
+        </div>
+
+        <div class="search-section">
+            <div class="input-group main-input">
+                <span class="prefix">github.com/</span>
+                <input type="text" id="repoInput" placeholder="username/repo" autocomplete="off">
+            </div>
+            <div class="input-group branch-input">
+                <span class="prefix">branch:</span>
+                <input type="text" id="branchInput" placeholder="main" autocomplete="off">
+            </div>
+            <button id="fetchBtn" class="primary-btn">
+                <i class="fas fa-search"></i> Fetch
+            </button>
+        </div>
+
+        <div id="statusMsg" style="display: none;"></div>
+
+        <div id="repoDetailsCard" class="repo-details-card" style="display: none;">
+            <div class="repo-meta-header">
+                <div class="repo-meta-badges">
+                    <a class="meta-badge" id="repoGithubLink" href="#" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a>
+                    <a class="meta-badge" id="repoLanguage" style="text-decoration: none;"><i class="fas fa-circle"></i> JS</a>
+                    <span class="meta-badge" id="repoStars"><i class="far fa-star"></i> 0 stars</span>
+                    <span class="meta-badge" id="repoForks"><i class="fas fa-code-branch"></i> 0 forks</span>
+                    <span class="meta-badge" id="repoSize"><i class="fas fa-database"></i> 0 KB</span>
+                    <span class="meta-badge" id="repoBranches"><i class="fas fa-code-fork"></i> 1 branch</span>
+                    <span class="meta-badge" id="repoContributors"><i class="fas fa-users"></i> 1 contributor</span>
+                </div>
+            </div>
+            <p id="repoMetaDesc" class="repo-meta-desc">Repository description goes here.</p>
+            
+            <div class="repo-actions-container">
+                <!-- Column 1: Embed Badge -->
+                <div class="repo-action-block">
+                    <span class="action-label"><i class="fas fa-certificate"></i> Embed Badge</span>
+                    <div class="embed-input-wrapper">
+                        <img id="repoMetaBadgePreview" src="" alt="Badge Preview" class="embed-badge-img">
+                        <input type="text" id="repoMetaBadgeInput" readonly class="embed-input" title="Click to copy embed code">
+                        <button id="btnCopyRepoMetaBadge" class="embed-copy-btn" title="Copy Badge Markdown">
+                            <i class="far fa-copy"></i>
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Column 2: Feature Request (only shown when not indexed) -->
+                <div class="repo-action-block" id="repoIndexCol" style="display: none;">
+                    <span class="action-label"><i class="fas fa-plus-circle"></i> Add to Directory</span>
+                    <a id="repoIndexBtn" href="#" target="_blank" class="feature-action-btn">
+                        <i class="fas fa-plus"></i> Feature Repo
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        
+
+        <div class="language-listing">
+                    <h1>Python Repositories</h1>
+                    <div class="featured-grid">
+                <a href="/repo/MehmetDemirkok/PC_Benchmark_Tool/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">MehmetDemirkok/PC_Benchmark_Tool</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Test CPU, GPU, RAM, and storage performance. Benchmark processor, graphics, memory, and disk speed. Get detailed reports to compare your PC.</p>
+                </a>
+                <a href="/repo/fortis001/Star_Wars_Jedi__Survivor_Unlimited_Force/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">fortis001/Star_Wars_Jedi__Survivor_Unlimited_Force</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited Force, health, and skill points for Jedi: Survivor. God mode, infinite lightsaber combos, and all abilities.</p>
+                </a>
+                <a href="/repo/XFaltixX/Rust_Raid_Assistant/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">XFaltixX/Rust_Raid_Assistant</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Automated raiding tool with door unlocker and trap detection for Rust. Find and raid bases automatically, open locked doors, and spot traps and turrets. Perfect for solo and group raids.</p>
+                </a>
+                <a href="/repo/Serryudy/Genshin_Impact_Auto-Farm___Primogems/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Serryudy/Genshin_Impact_Auto-Farm___Primogems</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-farm, auto-quest, and primogem collector for Genshin Impact. Farm mobs, chests, and complete daily commissions.</p>
+                </a>
+                <a href="/repo/anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades.</p>
+                </a>
+                <a href="/repo/Amr-Yasser-7/Video_Downloader___Converter/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Amr-Yasser-7/Video_Downloader___Converter</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Download videos from YouTube, Vimeo, and convert formats. Download videos, change video format, batch download, and extract audio. Save any video.</p>
+                </a>
+                <a href="/repo/meuttamsharma/RAM_Cleaner___Optimizer/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">meuttamsharma/RAM_Cleaner___Optimizer</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage.</p>
+                </a>
+                <a href="/repo/AdilMir1433/Overwatch_2_Aim_Trainer/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">AdilMir1433/Overwatch_2_Aim_Trainer</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Aimbot, wallhack, and ability cooldown tracker for Overwatch 2. Lock-on aiming for all heroes, see through walls, and track enemy ultimates. Works in all game modes.</p>
+                </a>
+                <a href="/repo/pranjal-29-verma/Task_Scheduler_Auto/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">pranjal-29-verma/Task_Scheduler_Auto</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Schedule tasks like shutdown, run programs, or remind. Schedule shutdown, launch apps, show popup reminders, and repeat tasks daily/weekly. Automate your PC.</p>
+                </a>
+                <a href="/repo/moye-tech/WhatsApp_Bulk_Sender/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">moye-tech/WhatsApp_Bulk_Sender</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Send bulk messages to contacts and groups automatically. Message all contacts, send to groups, send images/videos, and schedule messages. Best for business.</p>
+                </a>
+                <a href="/repo/AndeFriday/Fall_Guys_Auto-Flip/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">AndeFriday/Fall_Guys_Auto-Flip</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-flip, speed boost, and crown farm for Fall Guys. Automatically flip after falling, move faster, earn crowns, and ignore collisions. Win every round.</p>
+                </a>
+                <a href="/repo/contact-daniel-me/FileZilla_FTP_Automation/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">contact-daniel-me/FileZilla_FTP_Automation</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-sync local and remote directories via FTP/SFTP. Sync folders, upload at set times, backup remote files, and manage transfer queue. Automate file transfers.</p>
+                </a>
+                <a href="/repo/TCLTVrepairing/MacOS_Cleaner_Tool/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">TCLTVrepairing/MacOS_Cleaner_Tool</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Clean cache, remove duplicate files, and speed up Mac. Remove cache, find duplicates, remove apps fully, and free memory. Keep your Mac running smooth.</p>
+                </a>
+                <a href="/repo/fajarakpdev/Driver_Updater/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">fajarakpdev/Driver_Updater</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Update outdated drivers for better performance and stability. Automatically scan and download latest drivers for all hardware.</p>
+                </a>
+                <a href="/repo/Asosa809/File_Recovery_Tool/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Asosa809/File_Recovery_Tool</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use.</p>
+                </a>
+                <a href="/repo/RoushanKhalid/File_Encryption_Tool/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">RoushanKhalid/File_Encryption_Tool</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data.</p>
+                </a>
+                <a href="/repo/priyanshu14077/Horizon_Zero_Dawn_Unlimited_Resources/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">priyanshu14077/Horizon_Zero_Dawn_Unlimited_Resources</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited health, ammo, resources, and all skills for Horizon Zero Dawn. God mode, infinite crafting, and stealth. Dominate the machines.</p>
+                </a>
+                <a href="/repo/gachure1/Fallout_4_Unlimited_Resources___God_Mode/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">gachure1/Fallout_4_Unlimited_Resources___God_Mode</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks.</p>
+                </a>
+                <a href="/repo/aquace/CVE-2026-41940-PoC/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">aquace/CVE-2026-41940-PoC</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">CVE-2026-41940 authentication bypass vulnerability proof-of-concept</p>
+                </a>
+                <a href="/repo/Leron-X/leronx/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Leron-X/leronx</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">LeronX — AI Image & Video Generation Platform</p>
+                </a>
+                <a href="/repo/rjsdl56/All_Star_Tower_Defense_-_Auto-Place___Auto-Farm/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">rjsdl56/All_Star_Tower_Defense_-_Auto-Place___Auto-Farm</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-place and auto-farm for All Star Tower Defense, the anime tower defense game with 7.8 billion visits[reference:26]. Automatically place and upgrade towers, farm gems, and beat every wave.</p>
+                </a>
+                <a href="/repo/Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-survive and ESP trainer for 99 Nights in the Forest, the biggest horror breakout of 2026 with 400K+ concurrent players[reference:12]. Survive the forest with auto-heal, monster ESP, and unlimited resources.</p>
+                </a>
+                <a href="/repo/JustJorr/Adopt_Me__-_Pet_Auto-Farm___Trade_Bot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">JustJorr/Adopt_Me__-_Pet_Auto-Farm___Trade_Bot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Premium trainer for Adopt Me!, the legendary pet simulation game with over 43 billion visits[reference:8]. Automate pet raising, auto-hatch eggs, and use the trade bot to get legendary pets. Become the ultimate pet collector.</p>
+                </a>
+                <a href="/repo/CaptainCodex/Among_Us_Ghost_Mode/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">CaptainCodex/Among_Us_Ghost_Mode</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">See all roles, tasks, and chat logs in Among Us. Ghost vision, task tracker, role reveal, and chat logger. Host or client.</p>
+                </a>
+                <a href="/repo/JokiTsien/App_Store_Play_Store_Review_Bot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">JokiTsien/App_Store_Play_Store_Review_Bot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility.</p>
+                </a>
+                <a href="/repo/rabeelaimony/Archive_Password_Recovery/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">rabeelaimony/Archive_Password_Recovery</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Recover forgotten passwords for ZIP, RAR, 7Z archives using brute-force, dictionary, or mask attacks. Useful for accessing old files.</p>
+                </a>
+                <a href="/repo/Narankhuu1/Audio_Normalizer/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Narankhuu1/Audio_Normalizer</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Normalize audio volume across multiple files to the same level. Reduce loudness variation for albums or playlists.</p>
+                </a>
+                <a href="/repo/subairnifras/Audio_Equalizer__System-wide_/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">subairnifras/Audio_Equalizer__System-wide_</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">System-wide audio equalizer with presets for music, movies, gaming, and custom bands. Enhance your sound experience.</p>
+                </a>
+                <a href="/repo/Vibhav11Krishna/Application_Uninstaller_Pro/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Vibhav11Krishna/Application_Uninstaller_Pro</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Uninstall applications completely, including leftover files and registry entries. Remove stubborn software.</p>
+                </a>
+                <a href="/repo/Kr3n3r/ARC_Raiders_ESP___Aimbot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Kr3n3r/ARC_Raiders_ESP___Aimbot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.</p>
+                </a>
+                <a href="/repo/Unknow-human/Anime_Defenders_-_Auto-Place___Auto-Farm/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Unknow-human/Anime_Defenders_-_Auto-Place___Auto-Farm</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-place and auto-farm for Anime Defenders, the anime tower defense game[reference:49]. Place defenders, farm gems, and beat every wave.</p>
+                </a>
+                <a href="/repo/Zlatkoo25/Apex_Legends_Movement_Macro___Aim_Assist/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Zlatkoo25/Apex_Legends_Movement_Macro___Aim_Assist</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Tap-strafe, superglide, and aim assist macros for Apex Legends. Perfect movement and soft aim lock. Configurable and undetected.</p>
+                </a>
+                <a href="/repo/Neshke/BedWars_-_Auto-Farm___Aimbot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Neshke/BedWars_-_Auto-Farm___Aimbot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-farm and aimbot for BedWars, the competitive PvP game with 11.3 billion visits[reference:20]. Automatically break beds, farm resources, and eliminate enemies with perfect aim.</p>
+                </a>
+                <a href="/repo/montez27albert-collab/Arsenal_-_Aimbot___ESP/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">montez27albert-collab/Arsenal_-_Aimbot___ESP</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Aimbot and ESP for Arsenal, the fast-paced FPS with 6.2 billion visits[reference:28]. Dominate every match with perfect aim, wallhacks, and no recoil.</p>
+                </a>
+                <a href="/repo/itsbalihere/Barry_s_Prison_Run_-_Auto-Escape___ESP/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">itsbalihere/Barry_s_Prison_Run_-_Auto-Escape___ESP</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-escape and ESP for Barry's Prison Run, the prison escape game[reference:42]. Escape prison, avoid guards, and survive every round.</p>
+                </a>
+                <a href="/repo/waruna834/API_Client___Tester/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">waruna834/API_Client___Tester</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Complete API testing tool for REST, GraphQL, and WebSocket. Send requests, inspect responses, and save collections. Similar to Postman but lightweight.</p>
+                </a>
+                <a href="/repo/OsamaBinShah1/Baldur_s_Gate_3_Cheat_Collection/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">OsamaBinShah1/Baldur_s_Gate_3_Cheat_Collection</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited gold, all spells, dice roll manipulator, and infinite health for BG3. Always roll a 20, max level, and party never dies.</p>
+                </a>
+                <a href="/repo/mdrayhanbhuiyan/Battlefield_6_Trainer___ESP/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">mdrayhanbhuiyan/Battlefield_6_Trainer___ESP</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">ESP, aimbot, and no recoil for Battlefield 6. See enemies through walls, auto-aim, and dominate large-scale battles. Works in all modes.</p>
+                </a>
+                <a href="/repo/buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-farm and money hack for Berry Avenue RP, the popular roleplay game. Farm money, unlock all houses and vehicles, and dominate the social experience.</p>
+                </a>
+                <a href="/repo/wrgrt/Bee_Swarm_Simulator_-_Auto-Farm___Honey_Hack/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">wrgrt/Bee_Swarm_Simulator_-_Auto-Farm___Honey_Hack</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-farm and honey hack for Bee Swarm Simulator, the bee collecting game. Farm pollen, make honey, and unlock all bees automatically.</p>
+                </a>
+                <a href="/repo/fadilr8/Bluesky_Auto-Reply___Like_Bot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">fadilr8/Bluesky_Auto-Reply___Like_Bot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users.</p>
+                </a>
+                <a href="/repo/Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round.</p>
+                </a>
+                <a href="/repo/Jabrail-Atakishiyev/Bluesky_Auto-Poster___Follow_Bot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Jabrail-Atakishiyev/Bluesky_Auto-Poster___Follow_Bot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Automate posts and follows on Bluesky (AT Protocol). Schedule skeets, follow users, and engage with the decentralized social network.</p>
+                </a>
+                <a href="/repo/ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Ultimate trainer for Brookhaven RP, the most visited Roblox game with over 83 billion visits[reference:6][reference:7]. Automate money farming, unlock all houses and vehicles, and get unlimited in-game currency. Dominate the social roleplay experience.</p>
+                </a>
+                <a href="/repo/smileyprathu/Color_Picker/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">smileyprathu/Color_Picker</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers.</p>
+                </a>
+                <a href="/repo/mariusboiti/Clipboard_Sync/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">mariusboiti/Clipboard_Sync</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Sync clipboard content across multiple devices (PC, Android, iOS) via cloud. Share text, images, and files instantly.</p>
+                </a>
+                <a href="/repo/ammansharrma/Cyberpunk_2077_Night_City_Enhancer/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">ammansharrma/Cyberpunk_2077_Night_City_Enhancer</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited eddies, all cyberware, vehicle spawner, and god mode for Cyberpunk 2077. Max money, unlock all implants, spawn any car, and become immortal.</p>
+                </a>
+                <a href="/repo/diegogaraicoa/Discord_Welcome___Role_Bot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">diegogaraicoa/Discord_Welcome___Role_Bot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Automatically welcome new members with custom messages and assign roles based on rules or reactions. Streamline server management.</p>
+                </a>
+                <a href="/repo/Soundar586/Dead_by_Daylight_Bloodpoint_Farmer/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Soundar586/Dead_by_Daylight_Bloodpoint_Farmer</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">AFK bloodpoint farm, wallhack, and skillcheck bot for DBD. Earn BP while AFK, see survivors/killer through walls, and auto-great skillchecks.</p>
+                </a>
+                <a href="/repo/johndev-robo/Color_Picker_with_Palette_Builder/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">johndev-robo/Color_Picker_with_Palette_Builder</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects.</p>
+                </a>
+                <a href="/repo/Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah.</p>
+                </a>
+                <a href="/repo/bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">The ultimate auto-farm and raid script for Blox Fruits, the anime-inspired action RPG with 62+ billion visits[reference:9]. Inspired by One Piece, this trainer offers deep progression, auto-farming, and boss hunting.</p>
+                </a>
+                <a href="/repo/Leonard-Anike/Catalog_Avatar_Creator_-_Unlimited_Robux___Items/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Leonard-Anike/Catalog_Avatar_Creator_-_Unlimited_Robux___Items</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited Robux and items for Catalog Avatar Creator, the avatar customization game with 7 billion visits[reference:27]. Unlock all clothing, accessories, and create the perfect avatar.</p>
+                </a>
+                <a href="/repo/ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included.</p>
+                </a>
+                <a href="/repo/youssefusa2004/Build_A_Boat_For_Treasure_-_Auto-Build___Speed_Hack/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">youssefusa2004/Build_A_Boat_For_Treasure_-_Auto-Build___Speed_Hack</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-build and speed hack for Build A Boat For Treasure, the building and racing game with 4.9 billion visits[reference:31]. Build the perfect boat, get unlimited blocks, and reach the treasure.</p>
+                </a>
+                <a href="/repo/rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight.</p>
+                </a>
+                <a href="/repo/jeunenomade16-sudo/Dead_Rails_-_Auto-Survive___ESP/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">jeunenomade16-sudo/Dead_Rails_-_Auto-Survive___ESP</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Auto-survive and ESP for Dead Rails, the trending horror game[reference:34]. See all threats through walls, auto-heal, and survive the rails.</p>
+                </a>
+                <a href="/repo/Nusrath-Amana/Bulk_File_Downloader/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">Nusrath-Amana/Bulk_File_Downloader</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Download multiple files from URLs in batch. Support for resume, parallel downloads, and file renaming.</p>
+                </a>
+                <a href="/repo/itz-rynx/Disk_Space_Visualizer/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">itz-rynx/Disk_Space_Visualizer</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Visualize disk space usage with interactive charts and maps. Quickly identify space hogs.</p>
+                </a>
+                <a href="/repo/rogerdeveloper2009/Certificate_Manager/main/" class="mini-repo-card" style="text-decoration: none;">
+                    <div class="mrc-header">
+                        <span class="mrc-title">rogerdeveloper2009/Certificate_Manager</span>
+                        <span class="mrc-lang">Python <i class="fas fa-circle mrc-lang-dot lang-python"></i></span>
+                    </div>
+                    <p class="mrc-desc">Manage digital certificates: view, export, import, and delete. Monitor certificate expiration and generate self-signed certificates for development.</p>
+                </a></div>
+                    
+                    <div class="pagination-container">
+                        <a href="/language/python/23/" class="pagination-btn ">← Previous</a>
+                        <span class="pagination-info">Page 24 of 28</span>
+                        <a href="/language/python/25/" class="pagination-btn ">Next →</a>
+                    </div>
+                    <div class="back-link-container">
+                        <a href="/" class="repo-tag">← Back to Search</a>
+                    </div>
+                 </div>
+
+        <div id="treeWrapper" class="tree-wrapper" style="display: none;">
+            <div class="toolbar">
+                <div class="tools-left">
+                    <div class="search-box-inline">
+                        <i class="fas fa-filter"></i>
+                        <input type="text" id="treeSearch" placeholder="Filter files..." autocomplete="off">
+                    </div>
+
+                    <div class="dropdown" id="sortDropdownContainer">
+                        <button class="tool-btn" id="sortBtn">
+                            <i class="fas fa-sort-amount-down"></i> <span id="sortBtnLabel" class="btn-text">Sort</span>
+                        </button>
+                        <div class="dropdown-content" id="sortDropdown">
+                            <a href="#" data-sort="folder-az">Folders (A-Z)</a>
+                            <a href="#" data-sort="folder-za">Folders (Z-A)</a>
+                            <a href="#" data-sort="alpha-az">Name (A-Z)</a>
+                            <a href="#" data-sort="alpha-za">Name (Z-A)</a>
+                        </div>
+                    </div>
+
+                    <div class="dropdown" id="styleDropdownContainer">
+                        <button class="tool-btn" id="styleBtn">
+                            <i class="fas fa-code-branch"></i> <span id="styleBtnLabel" class="btn-text">Style</span>
+                        </button>
+                        <div class="dropdown-content" id="styleDropdown">
+                            <a href="#" data-style="classic">Classic (└──)</a>
+                            <a href="#" data-style="slashed">Slashed (/src)</a>
+                            <a href="#" data-style="plus">ASCII (+--)</a>
+                            <a href="#" data-style="minimal">Minimal (Indent)</a>
+                            <a href="#" data-style="bulleted">Bulleted (•)</a>
+                        </div>
+                    </div>
+
+                    <button id="treeToggleBtn" title="Compact/Expand All" class="tool-btn responsive-btn">
+                        <i class="fas fa-compress-alt"></i> <span class="btn-text">Compact</span>
+                    </button>
+                    <button id="shareBtn" class="tool-btn responsive-btn">
+                        <i class="fas fa-share-alt"></i> <span class="btn-text">Share</span>
+                    </button>
+                </div>
+
+                <div class="tools-right">
+                    <button id="copyAllBtn" class="tool-btn action-btn always-visible">
+                        <i class="far fa-copy"></i> <span class="btn-text">Copy Tree</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="terminal-window">
+                <div id="lineNumbers" class="line-col"></div>
+                <div id="treeContent" class="code-col"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="1.0166668891906738 2.9749999046325684 21.966665267944336 20.024999618530273"><path d="M7 3c-1.535 0-3.078.5-4.25 1.7-2.343 2.4-2.279 6.1 0 8.5L12 23l9.25-9.8c2.279-2.4 2.343-6.1 0-8.5-2.343-2.3-6.157-2.3-8.5 0l-.75.8-.75-.8C10.078 3.5 8.536 3 7 3" fill="#e74c3c"></path></svg> <b>{ <a href="https://mgks.dev">@mgks</a> / <a href="https://github.com/mgks/githubtree">star:GitHubTree</a> }</b></div>
+
+    <div id="shareOverlay" class="overlay">
+        <div class="overlay-content">
+            <h3>Share View</h3>
+            <div class="share-box">
+                <input type="text" id="shareInput" readonly>
+                <button id="copyShareBtn" title="Copy Link"><i class="far fa-copy"></i></button>
+            </div>
+            
+            <div class="share-badge-section">
+                <h4>Embed Structure Badge</h4>
+                <div class="badge-row">
+                    <div class="badge-item">
+                        <div class="badge-preview-container">
+                            <span>Markdown:</span>
+                            <img id="badgeMarkdownPreview" src="" alt="Badge Preview">
+                        </div>
+                        <div class="badge-code-box">
+                            <input type="text" id="badgeMarkdownInput" readonly>
+                            <button id="btnCopyBadgeMarkdown">Copy</button>
+                        </div>
+                    </div>
+                    <div class="badge-item">
+                        <div class="badge-preview-container">
+                            <span>HTML:</span>
+                            <img id="badgeHtmlPreview" src="" alt="Badge Preview">
+                        </div>
+                        <div class="badge-code-box">
+                            <input type="text" id="badgeHtmlInput" readonly>
+                            <button id="btnCopyBadgeHtml">Copy</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button id="closeOverlay" class="close-btn">&times;</button>
+        </div>
+    </div>
+
+    <!-- Sleek File Actions & Preview Overlay -->
+    <div id="previewOverlay" class="overlay">
+        <div class="overlay-content preview-content">
+            <h3 id="previewTitle">File Details</h3>
+            
+            <div class="file-details-grid">
+                <div class="detail-item"><strong>Path:</strong> &nbsp;<span id="detailPath"></span></div>
+                <div class="detail-item"><strong>Size:</strong> &nbsp;<span id="detailSize"></span></div>
+                <div class="detail-item"><strong>Permissions (Mode):</strong> &nbsp;<span id="detailMode"></span></div>
+                <div class="detail-item"><strong>Git Blob SHA:</strong> &nbsp;<span id="detailSha" class="sha-text"></span></div>
+                <div class="detail-item" style="grid-column: span 2;"><strong>Last Updated:</strong> &nbsp;<span id="detailLastUpdated">Loading commit info...</span></div>
+            </div>
+
+            <div class="file-actions">
+                <a id="btnOpenGitHub" href="#" target="_blank" class="tool-btn action-btn"><i class="fa-brands fa-github"></i> Open on GitHub</a>
+                <button id="btnCopyPath" class="tool-btn"><i class="far fa-copy"></i> Copy Path</button>
+                <button id="btnTogglePreview" class="tool-btn"><i class="far fa-eye"></i> Show Content</button>
+            </div>
+
+            <div id="filePreviewContainer" class="file-preview-container" style="display: none;">
+                <div class="preview-header">
+                    <span id="previewFileLabel"></span>
+                    <button id="btnCopyPreviewContent" title="Copy Content"><i class="far fa-copy"></i> Copy</button>
+                </div>
+                <pre id="previewBody"><code></code></pre>
+            </div>
+
+            <button id="closePreview" class="close-btn">&times;</button>
+        </div>
+    </div>
+
+</body>
+</html>
