@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+  },
+  {
+    "repo": "Weebapp003/tradingview-mcp",
     "branch": "main",
     "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+    "description": "tradingview mcp which connect claude code via chrome devtools protocol"
   },
   {
-    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
-  },
-  {
-    "repo": "cita-777/metapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
+    "repo": "minix3/minix",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+    "language": "Other",
+    "description": "Redirection to the real github page only."
   },
   {
-    "repo": "FireRedTeam/FireRed-Image-Edit",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Infatoshi/metal-mc-terrain",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
-  },
-  {
-    "repo": "hzm0321/real-time-fund",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基金实时估值查看"
-  },
-  {
-    "repo": "millionco/react-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
-  },
-  {
-    "repo": "postrv/forgemax",
-    "branch": "main",
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
     "language": "Rust",
-    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
   },
   {
-    "repo": "ysharma3501/LavaSR",
-    "branch": "main",
+    "repo": "scrapy/scrapy",
+    "branch": "master",
     "language": "Python",
-    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
   },
   {
-    "repo": "nickustinov/itsytv-macos",
+    "repo": "vercel/ai-chatbot-svelte",
     "branch": "main",
-    "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
+    "language": "Svelte",
+    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
   },
   {
-    "repo": "nikopueringer/CorridorKey",
+    "repo": "dair-ai/ML-Papers-Explained",
+    "branch": "gh-pages",
+    "language": "Other",
+    "description": "Explanation to key concepts in ML"
+  },
+  {
+    "repo": "github/gitignore",
     "branch": "main",
+    "language": "Other",
+    "description": "A collection of useful .gitignore templates"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
     "language": "Python",
-    "description": "Perfect Green Screen Keys"
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
   },
   {
-    "repo": "calebwin/pgclaw",
-    "branch": "main",
+    "repo": "aframevr/aframe",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":a: Web framework for building virtual reality experiences."
+  },
+  {
+    "repo": "lsd-rs/lsd",
+    "branch": "master",
     "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+    "description": "The next gen ls command"
   },
   {
-    "repo": "DaveMoudy/SalesforceDocGen",
+    "repo": "prettier/eslint-plugin-prettier",
     "branch": "main",
     "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
+    "description": "ESLint plugin for Prettier formatting"
   },
   {
-    "repo": "homielab/giapha-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
+    "repo": "rust-lang/rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Empowering everyone to build reliable and efficient software."
   },
   {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-    "branch": "main",
+    "repo": "keras-team/keras-cv",
+    "branch": "master",
     "language": "Python",
-    "description": "sora2 watermark cleaner pro"
+    "description": "Industry-strength Computer Vision workflows with Keras"
   },
   {
-    "repo": "nj19257/FastSkills",
+    "repo": "dotnet/maui",
     "branch": "main",
-    "language": "Python",
-    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
+    "language": "C#",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
   },
   {
-    "repo": "aligfellow/xyzrender",
+    "repo": "pi-hole/pi-hole",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A black hole for Internet advertisements"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+  },
+  {
+    "repo": "Aircoookie/WLED",
     "branch": "main",
-    "language": "Python",
-    "description": "Publication-quality molecular graphics from the command line."
+    "language": "C++",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
   },
   {
-    "repo": "h9zdev/WireTapper",
+    "repo": "newrelic/newrelic-java-agent",
     "branch": "main",
-    "language": "HTML",
-    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
+    "language": "Java",
+    "description": "The New Relic Java agent"
   },
   {
-    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
-  },
-  {
-    "repo": "antirez/voxtral.c",
-    "branch": "main",
-    "language": "C",
-    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
-  },
-  {
-    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "repo": "avelino/awesome-go",
     "branch": "main",
     "language": "Go",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+    "description": "A curated list of awesome Go frameworks, libraries and software"
   },
   {
-    "repo": "earendil-works/gondolin",
+    "repo": "Pythagora-io/gpt-pilot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
+    "language": "Python",
+    "description": "The first real AI developer"
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
   }
 ]

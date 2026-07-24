@@ -1,8 +1,8 @@
 {
-  "repo": "cactus-compute/cactus-hybrid",
+  "repo": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
   "branch": "main",
-  "language": "Shell",
-  "description": "On-device models that know when they're wrong: every answer carries a confidence score for cloud handoff.",
-  "stars": 158,
-  "forks": 3
+  "language": "Python",
+  "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly.",
+  "stars": 64,
+  "forks": 17
 }
