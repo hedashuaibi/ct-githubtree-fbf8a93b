@@ -1,146 +1,146 @@
 [
   {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "Weebapp003/tradingview-mcp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "tradingview mcp which connect claude code via chrome devtools protocol"
-  },
-  {
-    "repo": "minix3/minix",
-    "branch": "master",
-    "language": "Other",
-    "description": "Redirection to the real github page only."
-  },
-  {
-    "repo": "tauri-apps/tauri",
-    "branch": "dev",
-    "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
-  },
-  {
-    "repo": "scrapy/scrapy",
-    "branch": "master",
-    "language": "Python",
-    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
-  },
-  {
-    "repo": "vercel/ai-chatbot-svelte",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
-  },
-  {
-    "repo": "dair-ai/ML-Papers-Explained",
-    "branch": "gh-pages",
-    "language": "Other",
-    "description": "Explanation to key concepts in ML"
-  },
-  {
-    "repo": "github/gitignore",
-    "branch": "main",
-    "language": "Other",
-    "description": "A collection of useful .gitignore templates"
-  },
-  {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "aframevr/aframe",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":a: Web framework for building virtual reality experiences."
-  },
-  {
-    "repo": "lsd-rs/lsd",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The next gen ls command"
-  },
-  {
-    "repo": "prettier/eslint-plugin-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
-  },
-  {
-    "repo": "rust-lang/rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
-  },
-  {
-    "repo": "keras-team/keras-cv",
-    "branch": "master",
-    "language": "Python",
-    "description": "Industry-strength Computer Vision workflows with Keras"
-  },
-  {
-    "repo": "dotnet/maui",
-    "branch": "main",
-    "language": "C#",
-    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
-  },
-  {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
-  },
-  {
-    "repo": "qdrant/qdrant",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
-  },
-  {
-    "repo": "Aircoookie/WLED",
-    "branch": "main",
-    "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
-  },
-  {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "avelino/awesome-go",
+    "repo": "hashicorp/packer",
     "branch": "main",
     "language": "Go",
-    "description": "A curated list of awesome Go frameworks, libraries and software"
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
   },
   {
-    "repo": "Pythagora-io/gpt-pilot",
+    "repo": "Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
     "branch": "main",
     "language": "Python",
-    "description": "The first real AI developer"
+    "description": "Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round."
   },
   {
-    "repo": "nextcloud/server",
+    "repo": "opf/openproject",
+    "branch": "dev",
+    "language": "Ruby",
+    "description": "OpenProject is the leading open source project management software."
+  },
+  {
+    "repo": "ByteByteGoHq/system-design-101",
+    "branch": "main",
+    "language": "Other",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+  },
+  {
+    "repo": "ericboy0224/learn-docker-and-k8s",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
+  },
+  {
+    "repo": "LightTable/LightTable",
     "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
   },
   {
-    "repo": "arendst/Tasmota",
-    "branch": "development",
-    "language": "C",
-    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+    "repo": "wh1te4ever/super-tart-vphone-writeup",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "tensorflow/tensorflow",
+    "repo": "bahdotsh/mdterm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A terminal-based Markdown browser."
+  },
+  {
+    "repo": "grimmory-tools/grimmory",
+    "branch": "main",
+    "language": "Java",
+    "description": "Grimmory is the successor of booklore."
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Focus on prompting and generating"
+  },
+  {
+    "repo": "BuilderIO/qwik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Instant-loading web apps, without effort"
+  },
+  {
+    "repo": "shuyicc/MathLens",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
+  },
+  {
+    "repo": "filecoin-project/lotus",
     "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
+    "language": "Go",
+    "description": "Reference implementation of the Filecoin protocol, written in Go"
+  },
+  {
+    "repo": "Lightning-AI/lightning",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
+  },
+  {
+    "repo": "jarodise/XQuery",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "sentrux/sentrux",
+    "branch": "main",
+    "language": "Rust",
+    "description": "See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust."
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "openai/privacy-filter",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI Privacy Filter"
+  },
+  {
+    "repo": "tuchg/Lucarne",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Stop babysitting local AI agents. 0-Intrusion mobile control via Telegram/WeChat.   No hooks, no skills, no MCP. Just sync, approve, and resume your Codex,Pi, or Claude sessions anywhere."
+  },
+  {
+    "repo": "mirarr-app/network-checker",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "onesuper/tui-use",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "tui-use lets agents interact with programs that expect a human at the keyboard — REPLs, debuggers, TUI apps, and anything else bash can't reach."
+  },
+  {
+    "repo": "ysharma3501/LuxTTS",
+    "branch": "master",
+    "language": "Python",
+    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
+  },
+  {
+    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   }
 ]
