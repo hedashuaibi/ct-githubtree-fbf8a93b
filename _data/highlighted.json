@@ -1,8 +1,8 @@
 {
-  "repo": "cactus-compute/cactus-hybrid",
-  "branch": "main",
-  "language": "Shell",
-  "description": "On-device models that know when they're wrong: every answer carries a confidence score for cloud handoff.",
-  "stars": 171,
-  "forks": 3
+  "repo": "steelbrain/metal2vulkan",
+  "branch": "master",
+  "language": "Rust",
+  "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+  "stars": 140,
+  "forks": 4
 }

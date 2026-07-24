@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hashicorp/packer",
-    "branch": "main",
-    "language": "Go",
-    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
-  },
-  {
-    "repo": "Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+    "repo": "humanrouter/ddtree-mlx",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round."
+    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support."
   },
   {
-    "repo": "opf/openproject",
-    "branch": "dev",
-    "language": "Ruby",
-    "description": "OpenProject is the leading open source project management software."
-  },
-  {
-    "repo": "ByteByteGoHq/system-design-101",
-    "branch": "main",
-    "language": "Other",
-    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
-  },
-  {
-    "repo": "ericboy0224/learn-docker-and-k8s",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
-  },
-  {
-    "repo": "LightTable/LightTable",
+    "repo": "grpc/grpc-web",
     "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
+    "language": "JavaScript",
+    "description": "gRPC for Web Clients"
   },
   {
-    "repo": "wh1te4ever/super-tart-vphone-writeup",
+    "repo": "yologdev/yoyo-evolve",
     "branch": "main",
-    "language": "Swift",
+    "language": "Rust",
+    "description": "A coding agent that evolves itself. One commit per day."
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "branch": "main",
+    "language": "Go",
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+  },
+  {
+    "repo": "balancer/balancer-v2-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Balancer V2 Monorepo"
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "libtv-labs/libtv-skills",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "bahdotsh/mdterm",
+    "repo": "SamNet-dev/conduit-manager",
     "branch": "main",
-    "language": "Rust",
-    "description": "A terminal-based Markdown browser."
+    "language": "Shell",
+    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
   },
   {
-    "repo": "grimmory-tools/grimmory",
+    "repo": "needle-tools/md-browse",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Markdown Browser – See the web like an AI does"
+  },
+  {
+    "repo": "homebridge/homebridge",
+    "branch": "latest",
+    "language": "TypeScript",
+    "description": "HomeKit support for the impatient."
+  },
+  {
+    "repo": "spinnaker/spinnaker",
+    "branch": "master",
     "language": "Java",
-    "description": "Grimmory is the successor of booklore."
+    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
   },
   {
-    "repo": "lllyasviel/Fooocus",
+    "repo": "puppetlabs/puppet",
     "branch": "main",
-    "language": "Python",
-    "description": "Focus on prompting and generating"
+    "language": "Ruby",
+    "description": "Server automation framework and application"
   },
   {
-    "repo": "BuilderIO/qwik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Instant-loading web apps, without effort"
-  },
-  {
-    "repo": "shuyicc/MathLens",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
-  },
-  {
-    "repo": "filecoin-project/lotus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Reference implementation of the Filecoin protocol, written in Go"
-  },
-  {
-    "repo": "Lightning-AI/lightning",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
-  },
-  {
-    "repo": "jarodise/XQuery",
+    "repo": "ethereumjs/ethereumjs-monorepo",
     "branch": "master",
     "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
+  },
+  {
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "branch": "main",
+    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "sentrux/sentrux",
+    "repo": "ktorio/ktor",
     "branch": "main",
-    "language": "Rust",
-    "description": "See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust."
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
   },
   {
-    "repo": "yohey-w/multi-agent-shogun",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "openai/privacy-filter",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenAI Privacy Filter"
-  },
-  {
-    "repo": "tuchg/Lucarne",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Stop babysitting local AI agents. 0-Intrusion mobile control via Telegram/WeChat.   No hooks, no skills, no MCP. Just sync, approve, and resume your Codex,Pi, or Claude sessions anywhere."
-  },
-  {
-    "repo": "mirarr-app/network-checker",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "onesuper/tui-use",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "tui-use lets agents interact with programs that expect a human at the keyboard — REPLs, debuggers, TUI apps, and anything else bash can't reach."
-  },
-  {
-    "repo": "ysharma3501/LuxTTS",
-    "branch": "master",
-    "language": "Python",
-    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
-  },
-  {
-    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
-  },
-  {
-    "repo": "mgks/GitHubTree",
+    "repo": "gradenGnostic/LegacyLauncher",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "description": "A custom launcher for Minecraft LCE."
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "branch": "master",
+    "language": "Python",
+    "description": "🦜🔗 The platform for reliable agents."
+  },
+  {
+    "repo": "avihaymenahem/velo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open source desktop email client for Gmail"
+  },
+  {
+    "repo": "optuna/optuna",
+    "branch": "master",
+    "language": "Python",
+    "description": "A hyperparameter optimization framework"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open-source orchestration for zero-human companies"
+  },
+  {
+    "repo": "JakeWharton/butterknife",
+    "branch": "master",
+    "language": "Java",
+    "description": "Bind Android views and callbacks to fields and methods."
   }
 ]
