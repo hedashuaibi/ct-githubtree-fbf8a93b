@@ -1,8 +1,8 @@
 {
-  "repo": "shlgd/SuperDictate",
+  "repo": "cactus-compute/cactus-hybrid",
   "branch": "main",
-  "language": "Swift",
-  "description": "Fast, private, local dictation for Apple Silicon Macs.",
-  "stars": 108,
-  "forks": 12
+  "language": "Shell",
+  "description": "On-device models that know when they're wrong: every answer carries a confidence score for cloud handoff.",
+  "stars": 158,
+  "forks": 3
 }

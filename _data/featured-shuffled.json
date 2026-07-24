@@ -1,146 +1,146 @@
 [
   {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "playPlumtown/Plumtown",
+    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser."
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
   },
   {
-    "repo": "istio/istio.io",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
+    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
   },
   {
-    "repo": "foru17/clash-master",
+    "repo": "cita-777/metapi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
   },
   {
-    "repo": "TryGhost/Ghost",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
-  },
-  {
-    "repo": "letta-ai/lettabot",
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Your personal AI assistant that remembers everything across Telegram, Slack, WhatsApp, and Signal"
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
   },
   {
-    "repo": "aframevr/aframe",
+    "repo": "godagoo/claude-telegram-relay",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ":a: Web framework for building virtual reality experiences."
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
   },
   {
-    "repo": "RightNow-AI/openfang",
+    "repo": "FireRedTeam/FireRed-Image-Edit",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Infatoshi/metal-mc-terrain",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
+  },
+  {
+    "repo": "hzm0321/real-time-fund",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基金实时估值查看"
+  },
+  {
+    "repo": "millionco/react-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "postrv/forgemax",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source Agent Operating System"
+    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
   },
   {
-    "repo": "gavrielc/nanoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
-  },
-  {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "NVlabs/Sana",
+    "repo": "ysharma3501/LavaSR",
     "branch": "main",
     "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
   },
   {
-    "repo": "quailyquaily/aqua",
-    "branch": "master",
-    "language": "Go",
-    "description": "Aqua, a cli message tool for AI agents"
-  },
-  {
-    "repo": "jquery-validation/jquery-validation",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "jQuery Validation Plugin library sources"
-  },
-  {
-    "repo": "mverschu/adwsdomaindump",
-    "branch": "main",
-    "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
-  },
-  {
-    "repo": "planetscale/database-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Skills for AI agents working with databases"
-  },
-  {
-    "repo": "ramsey/uuid",
-    "branch": "4.7",
-    "language": "PHP",
-    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
-  },
-  {
-    "repo": "gogs/gogs",
-    "branch": "main",
-    "language": "Go",
-    "description": "Gogs is a painless self-hosted Git service"
-  },
-  {
-    "repo": "quilljs/quill",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
-  },
-  {
-    "repo": "ShinMegamiBoson/OpenPlanter",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "grp06/openclaw-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "boto/boto",
-    "branch": "develop",
-    "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
-  },
-  {
-    "repo": "iad1tya/Net-Bar",
+    "repo": "nickustinov/itsytv-macos",
     "branch": "main",
     "language": "Swift",
-    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
+    "description": "The missing Apple TV remote app for macOS"
   },
   {
-    "repo": "rebane2001/xikipedia",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "Wikipedia as a social media feed"
+    "repo": "nikopueringer/CorridorKey",
+    "branch": "main",
+    "language": "Python",
+    "description": "Perfect Green Screen Keys"
   },
   {
-    "repo": "appwrite/appwrite",
+    "repo": "calebwin/pgclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+  },
+  {
+    "repo": "DaveMoudy/SalesforceDocGen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
+  },
+  {
+    "repo": "homielab/giapha-os",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark cleaner pro"
+  },
+  {
+    "repo": "nj19257/FastSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
+  },
+  {
+    "repo": "aligfellow/xyzrender",
+    "branch": "main",
+    "language": "Python",
+    "description": "Publication-quality molecular graphics from the command line."
+  },
+  {
+    "repo": "h9zdev/WireTapper",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
+  },
+  {
+    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
+  },
+  {
+    "repo": "antirez/voxtral.c",
+    "branch": "main",
+    "language": "C",
+    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
+  },
+  {
+    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "branch": "main",
+    "language": "Go",
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+  },
+  {
+    "repo": "earendil-works/gondolin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
   }
 ]
