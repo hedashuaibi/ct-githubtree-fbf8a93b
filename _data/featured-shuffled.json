@@ -1,146 +1,146 @@
 [
   {
-    "repo": "humanrouter/ddtree-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support."
-  },
-  {
-    "repo": "grpc/grpc-web",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "gRPC for Web Clients"
-  },
-  {
-    "repo": "yologdev/yoyo-evolve",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A coding agent that evolves itself. One commit per day."
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-  },
-  {
-    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "repo": "TryHarder-L/NiniMenu",
     "branch": "main",
     "language": "Go",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+    "description": "一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别今天吃什么的纠结。"
   },
   {
-    "repo": "balancer/balancer-v2-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
-  },
-  {
-    "repo": "Koenkk/zigbee2mqtt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
-  },
-  {
-    "repo": "libtv-labs/libtv-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SamNet-dev/conduit-manager",
+    "repo": "justlovemaki/OpenClaw-Docker-CN-IM",
     "branch": "main",
     "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
   },
   {
-    "repo": "needle-tools/md-browse",
+    "repo": "chakra-ui/chakra-ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Markdown Browser – See the web like an AI does"
+    "description": "Chakra UI is a component system for building SaaS products with speed ⚡️"
   },
   {
-    "repo": "homebridge/homebridge",
-    "branch": "latest",
+    "repo": "Uniswap/interface",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "HomeKit support for the impatient."
+    "description": "🦄 Open source interfaces for the Uniswap protocol"
   },
   {
-    "repo": "spinnaker/spinnaker",
+    "repo": "paritytech/substrate",
     "branch": "master",
-    "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
-  },
-  {
-    "repo": "puppetlabs/puppet",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Server automation framework and application"
-  },
-  {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "ktorio/ktor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
-  },
-  {
-    "repo": "gradenGnostic/LegacyLauncher",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A custom launcher for Minecraft LCE."
-  },
-  {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
     "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "Substrate: The platform for blockchain innovators"
   },
   {
-    "repo": "huggingface/tokenizers",
-    "branch": "main",
+    "repo": "paritytech/polkadot",
+    "branch": "master",
     "language": "Rust",
-    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
+    "description": "Polkadot Node Implementation"
   },
   {
-    "repo": "langchain-ai/langchain",
-    "branch": "master",
-    "language": "Python",
-    "description": "🦜🔗 The platform for reliable agents."
-  },
-  {
-    "repo": "avihaymenahem/velo",
+    "repo": "tailwindlabs/headlessui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
   },
   {
-    "repo": "optuna/optuna",
+    "repo": "shadcn-ui/ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+  },
+  {
+    "repo": "nextui-org/nextui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "branch": "main",
+    "language": "Go",
+    "description": "OCI Image Format"
+  },
+  {
+    "repo": "OpenZeppelin/openzeppelin-contracts",
     "branch": "master",
-    "language": "Python",
-    "description": "A hyperparameter optimization framework"
+    "language": "Solidity",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
   },
   {
-    "repo": "paperclipai/paperclip",
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Open-source orchestration for zero-human companies"
+    "description": "Essential UI blocks for building mobile web apps."
   },
   {
-    "repo": "JakeWharton/butterknife",
+    "repo": "ant-design/ant-design-pro",
     "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
+    "language": "TypeScript",
+    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
+  },
+  {
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+  },
+  {
+    "repo": "libp2p/go-libp2p",
+    "branch": "master",
+    "language": "Go",
+    "description": "libp2p implementation in Go"
+  },
+  {
+    "repo": "TheOdinProject/css-exercises",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A repository for practicing CSS concepts."
+  },
+  {
+    "repo": "walter-grace/mac-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
+  },
+  {
+    "repo": "runesleo/x-reader",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+  },
+  {
+    "repo": "autoclaw-cc/xiaohongshu-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "xiaohongshu-skills"
+  },
+  {
+    "repo": "cfinke/EpsteIn",
+    "branch": "main",
+    "language": "Python",
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "branch": "master",
+    "language": "Go",
+    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
+  },
+  {
+    "repo": "run-bigpig/jcp",
+    "branch": "master",
+    "language": "Go",
+    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
   }
 ]

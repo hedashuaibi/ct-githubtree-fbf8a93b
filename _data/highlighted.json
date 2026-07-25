@@ -1,8 +1,8 @@
 {
-  "repo": "steelbrain/metal2vulkan",
-  "branch": "master",
-  "language": "Rust",
-  "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-  "stars": 140,
-  "forks": 4
+  "repo": "ailinone/collective-intelligence",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+  "stars": 114,
+  "forks": 5
 }
