@@ -1,146 +1,146 @@
 [
   {
-    "repo": "amanayayatu-tech/Alaya",
+    "repo": "tnm/zclaw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "flow everything"
+    "language": "C",
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "ibelick/webclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fast web client for OpenClaw"
-  },
-  {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "raspberrypi/documentation",
-    "branch": "master",
-    "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
-  },
-  {
-    "repo": "hamelsmu/claude-review-loop",
+    "repo": "hiragram/claude-docker",
     "branch": "main",
     "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
-  },
-  {
-    "repo": "robinebers/openusage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
-  },
-  {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "grpc-ecosystem/grpc-gateway",
-    "branch": "master",
-    "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleDetection",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
-  },
-  {
-    "repo": "timuronlinq/messari-crack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messari crack"
-  },
-  {
-    "repo": "gemini-cli-extensions/ralph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
-  },
-  {
-    "repo": "codeaashu/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-  },
-  {
-    "repo": "michelleoincx/Bunkr-Downloader-Python",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "facebookresearch/segment-anything",
+    "repo": "itssosunny/im-not-strange-ai",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "binhanchen25-arch/agent_plus",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "theforeveriris/simulated-12306-view",
+    "branch": "main",
+    "language": "HTML",
+    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
+  },
+  {
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+    "description": ""
   },
   {
-    "repo": "comeonzhj/AutoContents",
+    "repo": "bcurts/agentchattr",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+    "language": "Python",
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
   },
   {
-    "repo": "jnsahaj/gazectl",
+    "repo": "s2-streamstore/claude-batch-toolkit",
     "branch": "main",
-    "language": "Swift",
-    "description": "Head tracking display focus switcher for macOS"
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
   },
   {
-    "repo": "google-gemini/generative-ai-swift",
+    "repo": "MiniMax-AI/skills",
     "branch": "main",
-    "language": "Swift",
-    "description": "This SDK is now deprecated, use the unified Firebase SDK."
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native Mermaid diagram renderer for Swift"
-  },
-  {
-    "repo": "spring-guides/gs-spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
-  },
-  {
-    "repo": "mosaxiv/clawlet",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant"
-  },
-  {
-    "repo": "helm/helm",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Kubernetes Package Manager"
-  },
-  {
-    "repo": "adn8naiagent/F1ReplayTiming",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
-  },
-  {
-    "repo": "corespeed-io/wechatbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
+    "language": "Python",
+    "description": ""
   },
   {
     "repo": "glommer/codemogger",
     "branch": "main",
     "language": "TypeScript",
     "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
+  },
+  {
+    "repo": "vercel-labs/emulate",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local API emulation for CI and no-network sandboxes"
+  },
+  {
+    "repo": "DatanoiseTV/tinyice",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+  },
+  {
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+  },
+  {
+    "repo": "HKUDS/CatchMe",
+    "branch": "main",
+    "language": "Python",
+    "description": "CatchMe: Make Your AI Agents Truly Personal"
+  },
+  {
+    "repo": "innoqiu/newsieai",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "HackingDave/nightwire",
+    "branch": "main",
+    "language": "Python",
+    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
+  },
+  {
+    "repo": "Rangizingo/cc-cache-fix",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
+  },
+  {
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
+  },
+  {
+    "repo": "Sir-Scuzza/gluetun-webui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "Intrect-io/OpenSwarm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenSwarm, CLI Code Agent Orchstrator"
+  },
+  {
+    "repo": "InternLM/WildClawBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
   }
 ]
