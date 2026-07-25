@@ -1,146 +1,146 @@
 [
   {
-    "repo": "TryHarder-L/NiniMenu",
+    "repo": "amanayayatu-tech/Alaya",
     "branch": "main",
-    "language": "Go",
-    "description": "一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别今天吃什么的纠结。"
+    "language": "TypeScript",
+    "description": "flow everything"
   },
   {
-    "repo": "justlovemaki/OpenClaw-Docker-CN-IM",
+    "repo": "ibelick/webclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fast web client for OpenClaw"
+  },
+  {
+    "repo": "yangdongchao/UniAudio2",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
+  },
+  {
+    "repo": "raspberrypi/documentation",
+    "branch": "master",
+    "language": "Python",
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
+  },
+  {
+    "repo": "hamelsmu/claude-review-loop",
     "branch": "main",
     "language": "Shell",
-    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
+    "description": "Claude Code plugin: automated code review loop with Codex"
   },
   {
-    "repo": "chakra-ui/chakra-ui",
+    "repo": "robinebers/openusage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Chakra UI is a component system for building SaaS products with speed ⚡️"
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
   },
   {
-    "repo": "Uniswap/interface",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 Open source interfaces for the Uniswap protocol"
-  },
-  {
-    "repo": "paritytech/substrate",
+    "repo": "websockets/ws",
     "branch": "master",
-    "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
   },
   {
-    "repo": "paritytech/polkadot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polkadot Node Implementation"
-  },
-  {
-    "repo": "tailwindlabs/headlessui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
-  },
-  {
-    "repo": "shadcn-ui/ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
-  },
-  {
-    "repo": "radix-ui/primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
-  },
-  {
-    "repo": "nextui-org/nextui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
-  },
-  {
-    "repo": "opencontainers/image-spec",
-    "branch": "main",
-    "language": "Go",
-    "description": "OCI Image Format"
-  },
-  {
-    "repo": "OpenZeppelin/openzeppelin-contracts",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
-  },
-  {
-    "repo": "tendermint/tendermint",
-    "branch": "main",
-    "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
-  },
-  {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "ant-design/ant-design-pro",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "libp2p/go-libp2p",
+    "repo": "grpc-ecosystem/grpc-gateway",
     "branch": "master",
     "language": "Go",
-    "description": "libp2p implementation in Go"
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
   },
   {
-    "repo": "TheOdinProject/css-exercises",
+    "repo": "PaddlePaddle/PaddleDetection",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
+  },
+  {
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "gemini-cli-extensions/ralph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Gemini CLI extension for Ralph loops"
+  },
+  {
+    "repo": "codeaashu/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  },
+  {
+    "repo": "michelleoincx/Bunkr-Downloader-Python",
     "branch": "main",
     "language": "HTML",
-    "description": "A repository for practicing CSS concepts."
+    "description": ""
   },
   {
-    "repo": "walter-grace/mac-code",
+    "repo": "facebookresearch/segment-anything",
     "branch": "main",
-    "language": "Python",
-    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
+    "language": "Jupyter Notebook",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
   },
   {
-    "repo": "runesleo/x-reader",
+    "repo": "comeonzhj/AutoContents",
     "branch": "main",
-    "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+    "language": "JavaScript",
+    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
   },
   {
-    "repo": "autoclaw-cc/xiaohongshu-skills",
+    "repo": "jnsahaj/gazectl",
     "branch": "main",
-    "language": "Python",
-    "description": "xiaohongshu-skills"
+    "language": "Swift",
+    "description": "Head tracking display focus switcher for macOS"
   },
   {
-    "repo": "cfinke/EpsteIn",
+    "repo": "google-gemini/generative-ai-swift",
     "branch": "main",
-    "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
+    "language": "Swift",
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
   },
   {
-    "repo": "pulumi/pulumi",
-    "branch": "master",
+    "repo": "lukilabs/beautiful-mermaid-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native Mermaid diagram renderer for Swift"
+  },
+  {
+    "repo": "spring-guides/gs-spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
+  },
+  {
+    "repo": "mosaxiv/clawlet",
+    "branch": "main",
     "language": "Go",
-    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
+    "description": "Lightweight Personal AI Assistant"
   },
   {
-    "repo": "run-bigpig/jcp",
-    "branch": "master",
+    "repo": "helm/helm",
+    "branch": "main",
     "language": "Go",
-    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+    "description": "The Kubernetes Package Manager"
+  },
+  {
+    "repo": "adn8naiagent/F1ReplayTiming",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
+  },
+  {
+    "repo": "corespeed-io/wechatbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
+  },
+  {
+    "repo": "glommer/codemogger",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
   }
 ]
