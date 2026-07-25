@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tnm/zclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
-  },
-  {
-    "repo": "hiragram/claude-docker",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "itssosunny/im-not-strange-ai",
+    "repo": "amirmushichge/tribeV2_ViralAnalyser",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "binhanchen25-arch/agent_plus",
+    "repo": "microsoft/winget-pkgs",
+    "branch": "master",
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
+  },
+  {
+    "repo": "tqdm/tqdm",
     "branch": "master",
     "language": "Python",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
+  },
+  {
+    "repo": "THUDM/ChatGLM-6B",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+  },
+  {
+    "repo": "thangchung/awesome-dotnet-core",
+    "branch": "master",
+    "language": "C#",
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+  },
+  {
+    "repo": "webpack-contrib/terser-webpack-plugin",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Terser Plugin"
+  },
+  {
+    "repo": "total-typescript/ts-reset",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
+  },
+  {
+    "repo": "atom/atom",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":atom: The hackable text editor"
+  },
+  {
+    "repo": "rollup/rollup",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Next-generation ES module bundler"
+  },
+  {
+    "repo": "docker/buildx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
+  },
+  {
+    "repo": "steven2358/awesome-generative-ai",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
+  },
+  {
+    "repo": "encode/httpx",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next generation HTTP client for Python. 🦋"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Scalable datastore for metrics, events, and real-time analytics"
+  },
+  {
+    "repo": "cncf/toc",
+    "branch": "main",
+    "language": "Go",
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+  },
+  {
+    "repo": "google-research/bert",
+    "branch": "master",
+    "language": "Python",
+    "description": "TensorFlow code and pre-trained models for BERT"
+  },
+  {
+    "repo": "tj/n",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node version management"
+  },
+  {
+    "repo": "vuejs/awesome-vue",
+    "branch": "master",
+    "language": "Other",
+    "description": "🎉 A curated list of awesome things related to Vue.js"
+  },
+  {
+    "repo": "id-Software/DOOM",
+    "branch": "master",
+    "language": "C++",
+    "description": "DOOM Open Source Release"
+  },
+  {
+    "repo": "godagoo/claude-telegram-relay",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+  },
+  {
+    "repo": "nsqio/nsq",
+    "branch": "master",
+    "language": "Go",
+    "description": "A realtime distributed messaging platform"
+  },
+  {
+    "repo": "wh1te4ever/super-tart-vphone-writeup",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "theforeveriris/simulated-12306-view",
-    "branch": "main",
-    "language": "HTML",
-    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
-  },
-  {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "repo": "CompVis/latent-diffusion",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": ""
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
   },
   {
-    "repo": "bcurts/agentchattr",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
-  },
-  {
-    "repo": "s2-streamstore/claude-batch-toolkit",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
-  },
-  {
-    "repo": "MiniMax-AI/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "glommer/codemogger",
+    "repo": "vercel/hyper",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "vercel-labs/emulate",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local API emulation for CI and no-network sandboxes"
-  },
-  {
-    "repo": "DatanoiseTV/tinyice",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
-  },
-  {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "HKUDS/CatchMe",
-    "branch": "main",
-    "language": "Python",
-    "description": "CatchMe: Make Your AI Agents Truly Personal"
-  },
-  {
-    "repo": "innoqiu/newsieai",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "HackingDave/nightwire",
-    "branch": "main",
-    "language": "Python",
-    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
-  },
-  {
-    "repo": "Rangizingo/cc-cache-fix",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "okooo5km/Skills4U",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
-  },
-  {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
-  },
-  {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
-  },
-  {
-    "repo": "Sir-Scuzza/gluetun-webui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "Intrect-io/OpenSwarm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenSwarm, CLI Code Agent Orchstrator"
-  },
-  {
-    "repo": "InternLM/WildClawBench",
-    "branch": "main",
-    "language": "Python",
-    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
+    "description": "A terminal built on web technologies"
   }
 ]
