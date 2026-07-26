@@ -1,93 +1,111 @@
 [
   {
-    "repo": "amplifthq/opentag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
-  },
-  {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "electron/electron",
+    "repo": "arcships/light-ocr",
     "branch": "main",
     "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+    "description": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter"
   },
   {
-    "repo": "prysmaticlabs/prysm",
-    "branch": "master",
+    "repo": "lukeed/comptime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
+  },
+  {
+    "repo": "sartoopjj/vpn-over-github",
+    "branch": "main",
     "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
+    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
   },
   {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
+    "repo": "Ansub/wiki-os",
     "branch": "main",
     "language": "TypeScript",
-    "description": "JupyterLab computational environment."
+    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
   },
   {
-    "repo": "pytorch/xla",
-    "branch": "master",
-    "language": "C++",
-    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
+    "repo": "Saganaki22/ComfyUI-OmniVoice-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voice cloning, voice design, and multi-speaker dialogue"
   },
   {
-    "repo": "surrealdb/surrealdb",
+    "repo": "junjiezhou1122/GptCrate",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "R6410418/Jackrong-llm-finetuning-guide",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "pcruz1905/hls-restream-proxy",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Lightweight HLS restream proxy for Jellyfin/Emby/Plex — injects headers, rewrites playlists, auto-refreshes tokens"
+  },
+  {
+    "repo": "T-Lab-CUHKSZ/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+  },
+  {
+    "repo": "afar1/fieldtheory-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
+  },
+  {
+    "repo": "sdyckjq-lab/llm-wiki-skill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
+  },
+  {
+    "repo": "galpha-ai/trading-intent",
     "branch": "main",
     "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+    "description": ""
   },
   {
-    "repo": "apache/beam",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "pro-tech-killers/coinbase-trading-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "coinbase trading bot coinbase api advanced trade trading bot crypto trading bot automated trading coinbase trading bot typescript algorithmic trading ema atr coinbase bot crypto trading bot coinbase trading bot paper trading spot coinbase trading bot risk sizing zod nodejs coinbase trading bot fintech quant coinbase trading bot open source"
-  },
-  {
-    "repo": "perkfly/ex-skill",
+    "repo": "elastic/supply-chain-monitor",
     "branch": "main",
     "language": "Python",
-    "description": "前女友 skill"
+    "description": ""
   },
   {
-    "repo": "ConardLi/garden-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
-  },
-  {
-    "repo": "apache/superset",
+    "repo": "skibidiskib/ai-codex",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
   },
   {
-    "repo": "mattpocock/dictionary-of-ai-coding",
+    "repo": "fikrikarim/parlor",
+    "branch": "main",
+    "language": "HTML",
+    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
+  },
+  {
+    "repo": "ethereumjs/ethereumjs-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
+  },
+  {
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
+  },
+  {
+    "repo": "vercel/serve",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI coding jargon, explained in plain English."
+    "description": "Static file serving and directory listing"
   },
   {
     "repo": "react-hook-form/react-hook-form",
@@ -96,51 +114,33 @@
     "description": "📋 React Hooks for form state management and validation (Web + React Native)"
   },
   {
-    "repo": "HSJ-BanFan/grok-register-web",
+    "repo": "unclebob/swarm-forge",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A simple tool for coordinating several AI agents."
+  },
+  {
+    "repo": "openssl/openssl",
     "branch": "master",
-    "language": "Python",
-    "description": "Grok 自动注册 Web 平台：Outlook 别名批量注册、SSO 采集，注册成功后自动导入 grok2api（Web / Build）"
+    "language": "C",
+    "description": "TLS/SSL and crypto library"
   },
   {
-    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+    "repo": "rebane2001/xikipedia",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "Wikipedia as a social media feed"
   },
   {
-    "repo": "Paidax01/math-curve-loaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
+    "repo": "jackwener/wx-cli",
     "branch": "main",
     "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+    "description": "WeChat local data CLI with daemon architecture"
   },
   {
-    "repo": "MrMilenko/Theseus",
-    "branch": "main",
-    "language": "C++",
-    "description": "Reverse-engineered reconstruction of the original Xbox 5960 dashboard. Runs on Xbox hardware and on desktop (macOS, Linux, Windows) via SDL2/OpenGL."
-  },
-  {
-    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
+    "repo": "Alex-Gilbert/unredact",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
-  },
-  {
-    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
-  },
-  {
-    "repo": "Jabrail-Atakishiyev/Bluesky_Auto-Poster___Follow_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automate posts and follows on Bluesky (AT Protocol). Schedule skeets, follow users, and engage with the decentralized social network."
+    "description": ""
   }
 ]
