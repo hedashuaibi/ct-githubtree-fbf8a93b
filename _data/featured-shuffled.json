@@ -1,146 +1,146 @@
 [
   {
-    "repo": "amirmushichge/tribeV2_ViralAnalyser",
+    "repo": "userland-run/nano",
     "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
-  },
-  {
-    "repo": "tqdm/tqdm",
-    "branch": "master",
-    "language": "Python",
-    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
-  },
-  {
-    "repo": "THUDM/ChatGLM-6B",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
-  },
-  {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
-    "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
-  },
-  {
-    "repo": "webpack-contrib/terser-webpack-plugin",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Terser Plugin"
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
   },
   {
-    "repo": "total-typescript/ts-reset",
+    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
-  },
-  {
-    "repo": "atom/atom",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":atom: The hackable text editor"
-  },
-  {
-    "repo": "rollup/rollup",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Next-generation ES module bundler"
-  },
-  {
-    "repo": "docker/buildx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
-  },
-  {
-    "repo": "steven2358/awesome-generative-ai",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
-  },
-  {
-    "repo": "encode/httpx",
-    "branch": "master",
     "language": "Python",
-    "description": "A next generation HTTP client for Python. 🦋"
+    "description": "一个基于向听算法的AR眼镜端麻将助手"
   },
   {
-    "repo": "influxdata/influxdb",
+    "repo": "934050259/BrowserCluster",
     "branch": "main",
-    "language": "Rust",
-    "description": "Scalable datastore for metrics, events, and real-time analytics"
-  },
-  {
-    "repo": "cncf/toc",
-    "branch": "main",
-    "language": "Go",
-    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
-  },
-  {
-    "repo": "qdrant/qdrant",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
-  },
-  {
-    "repo": "google-research/bert",
-    "branch": "master",
     "language": "Python",
-    "description": "TensorFlow code and pre-trained models for BERT"
+    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
   },
   {
-    "repo": "tj/n",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node version management"
-  },
-  {
-    "repo": "vuejs/awesome-vue",
-    "branch": "master",
-    "language": "Other",
-    "description": "🎉 A curated list of awesome things related to Vue.js"
-  },
-  {
-    "repo": "id-Software/DOOM",
-    "branch": "master",
-    "language": "C++",
-    "description": "DOOM Open Source Release"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
-  },
-  {
-    "repo": "nsqio/nsq",
-    "branch": "master",
-    "language": "Go",
-    "description": "A realtime distributed messaging platform"
-  },
-  {
-    "repo": "wh1te4ever/super-tart-vphone-writeup",
+    "repo": "kellyvv/PhoneClaw",
     "branch": "main",
     "language": "Swift",
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
+  },
+  {
+    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "branch": "main",
+    "language": "C++",
+    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+  },
+  {
+    "repo": "DIYgod/cloudflare-edge-tts",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "CompVis/latent-diffusion",
+    "repo": "zeus-panel/ZEUS-PANEL",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    "language": "JavaScript",
+    "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database."
   },
   {
-    "repo": "vercel/hyper",
+    "repo": "coleam00/claude-memory-compiler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
+  },
+  {
+    "repo": "huxiuhan/civ-finish-quotes",
+    "branch": "main",
+    "language": "Python",
+    "description": "A skilll for agent to add a Civilization-style ceremonial quote when a substantial multi-step task is truly complete."
+  },
+  {
+    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "branch": "main",
+    "language": "Java",
+    "description": ""
+  },
+  {
+    "repo": "TheTom/vllm-swift",
+    "branch": "main",
+    "language": "Python",
+    "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
+  },
+  {
+    "repo": "DoomVoss/BASpark",
+    "branch": "main",
+    "language": "C#",
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+  },
+  {
+    "repo": "ibelick/mesurer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A terminal built on web technologies"
+    "description": ""
+  },
+  {
+    "repo": "frckeepit/llm-production-toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment."
+  },
+  {
+    "repo": "charlie947/social-media-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "alash3al/stash",
+    "branch": "main",
+    "language": "Go",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
+  },
+  {
+    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
+  },
+  {
+    "repo": "Whit1985/Binance-Futures-Signal-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
+  },
+  {
+    "repo": "win4r/free-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+  },
+  {
+    "repo": "xtclovver/RKNHardering",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "sandeco/reversa",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Transform legacy systems into executable specifications for AI coding agents"
+  },
+  {
+    "repo": "arcsin1/oh-my-ppt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local-first AI PPT generator for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck."
+  },
+  {
+    "repo": "unclebob/swarm-forge",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A simple tool for coordinating several AI agents."
+  },
+  {
+    "repo": "mizchi/skills",
+    "branch": "main",
+    "language": "Nix",
+    "description": "Agent skills by mizchi, distributed via APM"
   }
 ]

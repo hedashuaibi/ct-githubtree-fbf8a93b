@@ -1,8 +1,8 @@
 {
-  "repo": "sunny-glow/Auto-BenchMax",
+  "repo": "IRNova/Nova-Server",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 136,
-  "forks": 28
+  "language": "Shell",
+  "description": "Nova Server is the VPS side of the Nova panel — a lightweight, all-in-one server deployment that brings the full Nova experience to your own infrastructure.",
+  "stars": 126,
+  "forks": 26
 }
