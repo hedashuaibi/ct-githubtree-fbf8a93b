@@ -1,146 +1,146 @@
 [
   {
-    "repo": "userland-run/nano",
+    "repo": "amplifthq/opentag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "repo": "ryanmcdermott/clean-code-javascript",
     "branch": "main",
     "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+    "description": "Clean Code concepts adapted for JavaScript"
   },
   {
-    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于向听算法的AR眼镜端麻将助手"
-  },
-  {
-    "repo": "934050259/BrowserCluster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
-  },
-  {
-    "repo": "kellyvv/PhoneClaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
-  },
-  {
-    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "repo": "electron/electron",
     "branch": "main",
     "language": "C++",
-    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
   },
   {
-    "repo": "DIYgod/cloudflare-edge-tts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "zeus-panel/ZEUS-PANEL",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database."
-  },
-  {
-    "repo": "coleam00/claude-memory-compiler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
-  },
-  {
-    "repo": "huxiuhan/civ-finish-quotes",
-    "branch": "main",
-    "language": "Python",
-    "description": "A skilll for agent to add a Civilization-style ceremonial quote when a substantial multi-step task is truly complete."
-  },
-  {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
-    "branch": "main",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "TheTom/vllm-swift",
-    "branch": "main",
-    "language": "Python",
-    "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
-  },
-  {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
-  },
-  {
-    "repo": "ibelick/mesurer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "frckeepit/llm-production-toolkit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment."
-  },
-  {
-    "repo": "charlie947/social-media-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "alash3al/stash",
-    "branch": "main",
+    "repo": "prysmaticlabs/prysm",
+    "branch": "master",
     "language": "Go",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
+    "description": "Go implementation of Ethereum proof of stake"
   },
   {
-    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
   },
   {
-    "repo": "Whit1985/Binance-Futures-Signal-Bot",
+    "repo": "pytorch/xla",
+    "branch": "master",
+    "language": "C++",
+    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+  },
+  {
+    "repo": "apache/beam",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "pro-tech-killers/coinbase-trading-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "coinbase trading bot coinbase api advanced trade trading bot crypto trading bot automated trading coinbase trading bot typescript algorithmic trading ema atr coinbase bot crypto trading bot coinbase trading bot paper trading spot coinbase trading bot risk sizing zod nodejs coinbase trading bot fintech quant coinbase trading bot open source"
+  },
+  {
+    "repo": "perkfly/ex-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
+    "description": "前女友 skill"
   },
   {
-    "repo": "win4r/free-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
-  },
-  {
-    "repo": "xtclovver/RKNHardering",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "sandeco/reversa",
+    "repo": "ConardLi/garden-skills",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Transform legacy systems into executable specifications for AI coding agents"
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
   },
   {
-    "repo": "arcsin1/oh-my-ppt",
+    "repo": "apache/superset",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  },
+  {
+    "repo": "mattpocock/dictionary-of-ai-coding",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Local-first AI PPT generator for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck."
+    "description": "AI coding jargon, explained in plain English."
   },
   {
-    "repo": "unclebob/swarm-forge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A simple tool for coordinating several AI agents."
+    "repo": "react-hook-form/react-hook-form",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
   },
   {
-    "repo": "mizchi/skills",
+    "repo": "HSJ-BanFan/grok-register-web",
+    "branch": "master",
+    "language": "Python",
+    "description": "Grok 自动注册 Web 平台：Outlook 别名批量注册、SSO 采集，注册成功后自动导入 grok2api（Web / Build）"
+  },
+  {
+    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
     "branch": "main",
-    "language": "Nix",
-    "description": "Agent skills by mizchi, distributed via APM"
+    "language": "Python",
+    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+  },
+  {
+    "repo": "Paidax01/math-curve-loaders",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+  },
+  {
+    "repo": "MrMilenko/Theseus",
+    "branch": "main",
+    "language": "C++",
+    "description": "Reverse-engineered reconstruction of the original Xbox 5960 dashboard. Runs on Xbox hardware and on desktop (macOS, Linux, Windows) via SDL2/OpenGL."
+  },
+  {
+    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
+  },
+  {
+    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
+  },
+  {
+    "repo": "Jabrail-Atakishiyev/Bluesky_Auto-Poster___Follow_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automate posts and follows on Bluesky (AT Protocol). Schedule skeets, follow users, and engage with the decentralized social network."
   }
 ]
