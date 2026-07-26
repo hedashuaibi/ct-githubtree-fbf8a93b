@@ -1,146 +1,146 @@
 [
   {
-    "repo": "arcships/light-ocr",
-    "branch": "main",
-    "language": "C++",
-    "description": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter"
-  },
-  {
-    "repo": "lukeed/comptime",
+    "repo": "vueuse/vueuse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
   },
   {
-    "repo": "sartoopjj/vpn-over-github",
+    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "branch": "master",
+    "language": "Python",
+    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+  },
+  {
+    "repo": "mathiaschu/meta-ads-analyzer",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
+  },
+  {
+    "repo": "sbilly/awesome-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
+  },
+  {
+    "repo": "mayfer/electrobun-macos-native-blur",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Enable background blur like a native app in Electrobun"
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "branch": "master",
+    "language": "Python",
+    "description": "Stable Diffusion web UI"
+  },
+  {
+    "repo": "appbrewery/Flutter-Course-Resources",
+    "branch": "master",
+    "language": "Other",
+    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
+  },
+  {
+    "repo": "joshavant/clawbox",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw-ready macOS VMs"
+  },
+  {
+    "repo": "ionic-team/ionic-framework",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+  },
+  {
+    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
+    "branch": "main",
+    "language": "Shell",
+    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+  },
+  {
+    "repo": "apache/beam",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+  },
+  {
+    "repo": "IAmUnbounded/devctx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+  },
+  {
+    "repo": "win4r/lossless-claw-enhanced",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fork of Martian-Engineering/lossless-claw with CJK-aware token estimation"
+  },
+  {
+    "repo": "react-native-async-storage/async-storage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
+  },
+  {
+    "repo": "3-JonWallis1993/HyperLiquid-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "apollographql/graphql-subscriptions",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
+  },
+  {
+    "repo": "stretchr/testify",
+    "branch": "master",
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+  },
+  {
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish-like autosuggestions for zsh"
+  },
+  {
+    "repo": "tomascupr/sandstorm",
+    "branch": "main",
+    "language": "Python",
+    "description": "One API call. Full Claude agent. Completely sandboxed."
+  },
+  {
+    "repo": "opencontainers/runc",
     "branch": "main",
     "language": "Go",
-    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
-  },
-  {
-    "repo": "Ansub/wiki-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
-  },
-  {
-    "repo": "Saganaki22/ComfyUI-OmniVoice-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voice cloning, voice design, and multi-speaker dialogue"
-  },
-  {
-    "repo": "junjiezhou1122/GptCrate",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "R6410418/Jackrong-llm-finetuning-guide",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "pcruz1905/hls-restream-proxy",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Lightweight HLS restream proxy for Jellyfin/Emby/Plex — injects headers, rewrites playlists, auto-refreshes tokens"
-  },
-  {
-    "repo": "T-Lab-CUHKSZ/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "afar1/fieldtheory-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
-  },
-  {
-    "repo": "sdyckjq-lab/llm-wiki-skill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
-  },
-  {
-    "repo": "galpha-ai/trading-intent",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "elastic/supply-chain-monitor",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "skibidiskib/ai-codex",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
-  },
-  {
-    "repo": "fikrikarim/parlor",
-    "branch": "main",
-    "language": "HTML",
-    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
-  },
-  {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
-    "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
-  },
-  {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
-  },
-  {
-    "repo": "react-hook-form/react-hook-form",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
-  },
-  {
-    "repo": "unclebob/swarm-forge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A simple tool for coordinating several AI agents."
-  },
-  {
-    "repo": "openssl/openssl",
-    "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "rebane2001/xikipedia",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "Wikipedia as a social media feed"
-  },
-  {
-    "repo": "jackwener/wx-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "WeChat local data CLI with daemon architecture"
-  },
-  {
-    "repo": "Alex-Gilbert/unredact",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
   }
 ]

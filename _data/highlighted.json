@@ -1,8 +1,8 @@
 {
-  "repo": "msdsj/grok-account-manager-main",
+  "repo": "iximiuz/shellgym",
   "branch": "main",
-  "language": "Python",
-  "description": "grok注册机，支持域名邮箱和微软邮箱和谷歌邮箱自动化注册获取SSO、RT、AT",
-  "stars": 105,
-  "forks": 32
+  "language": "Go",
+  "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
+  "stars": 168,
+  "forks": 19
 }
