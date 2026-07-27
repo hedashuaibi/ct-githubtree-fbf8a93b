@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MstKail/wc2026-crypto-sportsbook",
+    "repo": "frecodecasti/gem5-branchpred",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook"
+    "language": "C++",
+    "description": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes."
   },
   {
-    "repo": "socketio/socket.io",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
-  },
-  {
-    "repo": "XTLS/Xray-core",
-    "branch": "main",
-    "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
-  },
-  {
-    "repo": "prometheus/prometheus",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
-  },
-  {
-    "repo": "Lissy93/awesome-privacy",
-    "branch": "main",
-    "language": "Astro",
-    "description": "🦄  A curated list of privacy & security-focused software and services"
-  },
-  {
-    "repo": "jesseduffield/lazydocker",
-    "branch": "master",
-    "language": "Go",
-    "description": "The lazier way to manage everything docker"
-  },
-  {
-    "repo": "FiloSottile/mkcert",
-    "branch": "master",
-    "language": "Go",
-    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
-  },
-  {
-    "repo": "junevm/splathash",
-    "branch": "main",
-    "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
-  },
-  {
-    "repo": "google/wire",
-    "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
-  },
-  {
-    "repo": "valeriansaliou/sonic",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
-  },
-  {
-    "repo": "CompVis/latent-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "every-app/open-seo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
-  },
-  {
-    "repo": "tvytlx/claude-code-deep-dive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 源码深度研究报告"
-  },
-  {
-    "repo": "iflytek/astronclaw-tutorial",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
-  },
-  {
-    "repo": "Johnixr/claude-code-wechat-channel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
-  },
-  {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "elder-plinius/G0DM0D3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "LIBERATED AI CHAT"
-  },
-  {
-    "repo": "flutter/flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-  },
-  {
-    "repo": "hashicorp/terraform",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
-  },
-  {
-    "repo": "Vacutagin/GameEnhancementSuite",
+    "repo": "Infatoshi/x-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
   },
   {
-    "repo": "Alamofire/Alamofire",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
-  },
-  {
-    "repo": "ml-explore/mlx",
+    "repo": "sandroandric/clime",
     "branch": "main",
-    "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
+    "language": "TypeScript",
+    "description": "One CLI to find every CLI"
+  },
+  {
+    "repo": "nextlevelbuilder/goclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels."
+  },
+  {
+    "repo": "Intrect-io/OpenSwarm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenSwarm, CLI Code Agent Orchstrator"
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "unslop-xyz/noodles",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+  },
+  {
+    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+  },
+  {
+    "repo": "Ta0ing/claude-code_evil",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cc完整版，含手册，编译等"
+  },
+  {
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+  },
+  {
+    "repo": "openilink/openilink-hub",
+    "branch": "main",
+    "language": "Go",
+    "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs"
+  },
+  {
+    "repo": "AlexsJones/llmfit",
+    "branch": "main",
+    "language": "Rust",
+    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+  },
+  {
+    "repo": "susanudgzf/Aave-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "adamveld12/ghost",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Git is the coding agent"
+  },
+  {
+    "repo": "ColeMurray/background-agents",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "JudyaiLab/ai-night-shift",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "branch": "master",
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+  },
+  {
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+  },
+  {
+    "repo": "nativefier/nativefier",
+    "branch": "development",
+    "language": "TypeScript",
+    "description": "Make any web page a desktop application"
+  },
+  {
+    "repo": "HKUDS/OpenSpace",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving -- Community: https://open-space.cloud/"
+  },
+  {
+    "repo": "karatelabs/karate",
+    "branch": "master",
+    "language": "Java",
+    "description": "Test Automation Made Simple"
+  },
+  {
+    "repo": "deepchem/deepchem",
+    "branch": "master",
+    "language": "Python",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+  },
+  {
+    "repo": "ecto/vcad",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
   }
 ]

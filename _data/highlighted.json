@@ -1,8 +1,8 @@
 {
-  "repo": "earendil-works/pi-review-loop",
+  "repo": "XYZ-AI-Lab/axrl",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A persistent incremental diff review loop for pi",
-  "stars": 115,
-  "forks": 14
+  "language": "Python",
+  "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+  "stars": 253,
+  "forks": 16
 }
