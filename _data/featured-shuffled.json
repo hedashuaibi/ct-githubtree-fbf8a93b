@@ -1,146 +1,146 @@
 [
   {
-    "repo": "frecodecasti/gem5-branchpred",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes."
-  },
-  {
-    "repo": "Infatoshi/x-cli",
+    "repo": "Neshke/BedWars_-_Auto-Farm___Aimbot",
     "branch": "main",
     "language": "Python",
-    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
+    "description": "Auto-farm and aimbot for BedWars, the competitive PvP game with 11.3 billion visits[reference:20]. Automatically break beds, farm resources, and eliminate enemies with perfect aim."
   },
   {
-    "repo": "sandroandric/clime",
+    "repo": "HELPMEEADICE/doge-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "One CLI to find every CLI"
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
   },
   {
-    "repo": "nextlevelbuilder/goclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels."
-  },
-  {
-    "repo": "Intrect-io/OpenSwarm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenSwarm, CLI Code Agent Orchstrator"
-  },
-  {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
     "branch": "main",
     "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
   },
   {
-    "repo": "unslop-xyz/noodles",
+    "repo": "aibuildai/AI-Build-AI",
     "branch": "main",
     "language": "Python",
-    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+    "description": "AIBuildAI – An AI agent that automatically builds AI models (#1 on OpenAI MLE-Bench)"
   },
   {
-    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "repo": "wuji-labs/nopua",
     "branch": "main",
     "language": "Python",
-    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
   },
   {
-    "repo": "Ta0ing/claude-code_evil",
+    "repo": "SKYFIRE5836/Slay-the-Spire-2-Drawing",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "cc完整版，含手册，编译等"
+    "language": "Python",
+    "description": "杀戮尖塔2 数字琥珀自动画板 | A Python automation drawing tool for Slay the Spire 2"
   },
   {
-    "repo": "vansh-nagar/ascii-studio",
+    "repo": "manuelschipper/nah",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+    "language": "Python",
+    "description": "Context-aware safety guard for Claude Code. A permission system you control."
   },
   {
-    "repo": "openilink/openilink-hub",
+    "repo": "diandianti/clawInstaller",
     "branch": "main",
-    "language": "Go",
-    "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs"
-  },
-  {
-    "repo": "AlexsJones/llmfit",
-    "branch": "main",
-    "language": "Rust",
-    "description": "94 models. 30 providers. One command to find what runs on your hardware."
-  },
-  {
-    "repo": "susanudgzf/Aave-Claw",
-    "branch": "main",
-    "language": "Rust",
+    "language": "C#",
     "description": ""
   },
   {
-    "repo": "adamveld12/ghost",
+    "repo": "J2TEAM/vibe.j2team.org",
     "branch": "main",
-    "language": "Shell",
-    "description": "Git is the coding agent"
+    "language": "JavaScript",
+    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
   },
   {
-    "repo": "ColeMurray/background-agents",
+    "repo": "joshcirre/instruckt-laravel",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
+    "language": "PHP",
+    "description": ""
   },
   {
-    "repo": "JudyaiLab/ai-night-shift",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
-  },
-  {
-    "repo": "activepieces/activepieces",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
-  },
-  {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
-  },
-  {
-    "repo": "nativefier/nativefier",
-    "branch": "development",
-    "language": "TypeScript",
-    "description": "Make any web page a desktop application"
-  },
-  {
-    "repo": "HKUDS/OpenSpace",
+    "repo": "mli55/pdfdelta",
     "branch": "main",
     "language": "Python",
-    "description": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving -- Community: https://open-space.cloud/"
+    "description": ""
   },
   {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "deepchem/deepchem",
-    "branch": "master",
-    "language": "Python",
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
-  },
-  {
-    "repo": "ecto/vcad",
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
     "branch": "main",
     "language": "Rust",
-    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
+  },
+  {
+    "repo": "Rivflyyy/HappyTorch",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+  },
+  {
+    "repo": "Emanuele-web04/remodex",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
+  },
+  {
+    "repo": "raxx21/rajesh-portfolio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Ye-Yu-Mo/FundVal-Live",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "盘中基金估值，实时估值，基金净值"
+  },
+  {
+    "repo": "nj19257/FastSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
+  },
+  {
+    "repo": "karanb192/claude-code-hooks",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
+  },
+  {
+    "repo": "nv-tlabs/kimodo",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "trevin-creator/autoresearch-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+  },
+  {
+    "repo": "ammaarreshi/SkyRoads-Codex",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Reverse engineering a DOS game with no source code using Codex 5.4"
+  },
+  {
+    "repo": "amneziawg-mikrotik/awg-proxy",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "XYZ-AI-Lab/axrl",
+  "repo": "cporter202/coreclaw-api-directory",
   "branch": "main",
   "language": "Python",
-  "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
-  "stars": 253,
-  "forks": 16
+  "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
+  "stars": 110,
+  "forks": 30
 }
