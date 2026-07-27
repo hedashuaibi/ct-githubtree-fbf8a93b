@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vueuse/vueuse",
+    "repo": "JetBrains/kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "The Kotlin Programming Language."
+  },
+  {
+    "repo": "windcase-maker/Grand_Theft_Auto_VI_Ultimate_Trainer",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
+    "language": "Python",
+    "description": "The ultimate trainer for GTA VI (pre-release). Unlimited money, god mode, vehicle spawner, and teleport. Prepare for the next generation of GTA."
   },
   {
-    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "repo": "scienceLabwork/Stable-Action",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
+  },
+  {
+    "repo": "six2dez/burp-ai-agent",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+  },
+  {
+    "repo": "Zaneham/BarraCUDA",
+    "branch": "master",
+    "language": "C",
+    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+  },
+  {
+    "repo": "anthropics/financial-services-plugins",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "6551Team/daily-news",
+    "branch": "main",
+    "language": "Python",
+    "description": "Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category."
+  },
+  {
+    "repo": "k2-fsa/OmniVoice",
     "branch": "master",
     "language": "Python",
-    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
   },
   {
-    "repo": "sachaa/openbrowserclaw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
-  },
-  {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
+    "repo": "TQZHR/grok2api",
+    "branch": "main",
     "language": "Python",
-    "description": "Always know what to expect from your data."
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
   },
   {
-    "repo": "Significant-Gravitas/AutoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
-  },
-  {
-    "repo": "mathiaschu/meta-ads-analyzer",
+    "repo": "PeonPing/peon-ping",
     "branch": "main",
     "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
   },
   {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "mayfer/electrobun-macos-native-blur",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Enable background blur like a native app in Electrobun"
-  },
-  {
-    "repo": "AUTOMATIC1111/stable-diffusion-webui",
-    "branch": "master",
-    "language": "Python",
-    "description": "Stable Diffusion web UI"
-  },
-  {
-    "repo": "appbrewery/Flutter-Course-Resources",
-    "branch": "master",
-    "language": "Other",
-    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
-  },
-  {
-    "repo": "joshavant/clawbox",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw-ready macOS VMs"
-  },
-  {
-    "repo": "ionic-team/ionic-framework",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
-  },
-  {
-    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
+    "repo": "mimurchison/claude-chief-of-staff",
     "branch": "main",
     "language": "Shell",
-    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
   },
   {
-    "repo": "apache/beam",
+    "repo": "joeseesun/markdown-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+  },
+  {
+    "repo": "creationix/rx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "RX encoder, decoder, and CLI data tool"
+  },
+  {
+    "repo": "Karmacoke/chargen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs."
+  },
+  {
+    "repo": "direkturcrypto/polymarket-terminal",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Copy, Scalping & Sniper for polymarket"
+  },
+  {
+    "repo": "khalildh/garment-notation",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "0din-ai/ai-scanner",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "AI model safety scanner built on NVIDIA garak"
+  },
+  {
+    "repo": "Gustavo1900/bevy-tokio-tasks",
     "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
-  },
-  {
-    "repo": "IAmUnbounded/devctx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
-  },
-  {
-    "repo": "win4r/lossless-claw-enhanced",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fork of Martian-Engineering/lossless-claw with CJK-aware token estimation"
-  },
-  {
-    "repo": "react-native-async-storage/async-storage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An asynchronous, persistent, key-value storage system for React Native."
-  },
-  {
-    "repo": "3-JonWallis1993/HyperLiquid-Claw",
-    "branch": "main",
     "language": "Rust",
     "description": ""
   },
   {
-    "repo": "s2-streamstore/claude-batch-toolkit",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
-  },
-  {
-    "repo": "apollographql/graphql-subscriptions",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
-  },
-  {
-    "repo": "stretchr/testify",
+    "repo": "tonbistudio/turboquant-pytorch",
     "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+    "language": "Python",
+    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
   },
   {
-    "repo": "zsh-users/zsh-autosuggestions",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
-  },
-  {
-    "repo": "tomascupr/sandstorm",
+    "repo": "DotNetRussell/BloodBash",
     "branch": "main",
     "language": "Python",
-    "description": "One API call. Full Claude agent. Completely sandboxed."
+    "description": "A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is required to use this tool. It's great for quick AD enumeration."
   },
   {
-    "repo": "opencontainers/runc",
+    "repo": "TsingmaoAI/xw-cli",
     "branch": "main",
     "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
+    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+  },
+  {
+    "repo": "LanRhyme/MicYou",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
+  },
+  {
+    "repo": "mfornos/awesome-microservices",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of Microservice Architecture related principles and technologies."
+  },
+  {
+    "repo": "AgriciDaniel/claude-ads",
+    "branch": "main",
+    "language": "Python",
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
   }
 ]

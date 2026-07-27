@@ -1,8 +1,8 @@
 {
-  "repo": "iximiuz/shellgym",
+  "repo": "0xwilliamortiz/openclaude-improved",
   "branch": "main",
-  "language": "Go",
-  "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
-  "stars": 168,
-  "forks": 19
+  "language": "TypeScript",
+  "description": "runs anywhere. uses anything",
+  "stars": 174,
+  "forks": 25
 }
