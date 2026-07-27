@@ -1,8 +1,8 @@
 {
-  "repo": "0xwilliamortiz/openclaude-improved",
+  "repo": "earendil-works/pi-review-loop",
   "branch": "main",
   "language": "TypeScript",
-  "description": "runs anywhere. uses anything",
-  "stars": 174,
-  "forks": 25
+  "description": "A persistent incremental diff review loop for pi",
+  "stars": 115,
+  "forks": 14
 }

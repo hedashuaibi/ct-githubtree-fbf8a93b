@@ -1,146 +1,146 @@
 [
   {
-    "repo": "JetBrains/kotlin",
+    "repo": "MstKail/wc2026-crypto-sportsbook",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "The Kotlin Programming Language."
+    "language": "TypeScript",
+    "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook"
   },
   {
-    "repo": "windcase-maker/Grand_Theft_Auto_VI_Ultimate_Trainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "The ultimate trainer for GTA VI (pre-release). Unlimited money, god mode, vehicle spawner, and teleport. Prepare for the next generation of GTA."
-  },
-  {
-    "repo": "scienceLabwork/Stable-Action",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
-  },
-  {
-    "repo": "six2dez/burp-ai-agent",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
-  },
-  {
-    "repo": "Zaneham/BarraCUDA",
-    "branch": "master",
-    "language": "C",
-    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
-  },
-  {
-    "repo": "anthropics/financial-services-plugins",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "6551Team/daily-news",
-    "branch": "main",
-    "language": "Python",
-    "description": "Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category."
-  },
-  {
-    "repo": "k2-fsa/OmniVoice",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
-  },
-  {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
-  },
-  {
-    "repo": "PeonPing/peon-ping",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
-  },
-  {
-    "repo": "mimurchison/claude-chief-of-staff",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
-  },
-  {
-    "repo": "joeseesun/markdown-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
-  },
-  {
-    "repo": "creationix/rx",
+    "repo": "socketio/socket.io",
     "branch": "main",
     "language": "TypeScript",
-    "description": "RX encoder, decoder, and CLI data tool"
+    "description": "Realtime application framework (Node.JS server)"
   },
   {
-    "repo": "Karmacoke/chargen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs."
-  },
-  {
-    "repo": "direkturcrypto/polymarket-terminal",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Copy, Scalping & Sniper for polymarket"
-  },
-  {
-    "repo": "khalildh/garment-notation",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "0din-ai/ai-scanner",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "AI model safety scanner built on NVIDIA garak"
-  },
-  {
-    "repo": "Gustavo1900/bevy-tokio-tasks",
-    "branch": "master",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "tonbistudio/turboquant-pytorch",
-    "branch": "master",
-    "language": "Python",
-    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
-  },
-  {
-    "repo": "DotNetRussell/BloodBash",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is required to use this tool. It's great for quick AD enumeration."
-  },
-  {
-    "repo": "TsingmaoAI/xw-cli",
+    "repo": "XTLS/Xray-core",
     "branch": "main",
     "language": "Go",
-    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
   },
   {
-    "repo": "LanRhyme/MicYou",
+    "repo": "prometheus/prometheus",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
+  },
+  {
+    "repo": "Lissy93/awesome-privacy",
+    "branch": "main",
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
+    "language": "Go",
+    "description": "The lazier way to manage everything docker"
   },
   {
-    "repo": "mfornos/awesome-microservices",
+    "repo": "FiloSottile/mkcert",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of Microservice Architecture related principles and technologies."
+    "language": "Go",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
   },
   {
-    "repo": "AgriciDaniel/claude-ads",
+    "repo": "junevm/splathash",
+    "branch": "main",
+    "language": "Go",
+    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+  },
+  {
+    "repo": "google/wire",
+    "branch": "master",
+    "language": "Go",
+    "description": "Compile-time Dependency Injection for Go"
+  },
+  {
+    "repo": "valeriansaliou/sonic",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+  },
+  {
+    "repo": "CompVis/latent-diffusion",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+  },
+  {
+    "repo": "glommer/codemogger",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
+  },
+  {
+    "repo": "every-app/open-seo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
+  },
+  {
+    "repo": "tvytlx/claude-code-deep-dive",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 源码深度研究报告"
+  },
+  {
+    "repo": "iflytek/astronclaw-tutorial",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
+  },
+  {
+    "repo": "Johnixr/claude-code-wechat-channel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "elder-plinius/G0DM0D3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "LIBERATED AI CHAT"
+  },
+  {
+    "repo": "flutter/flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+  },
+  {
+    "repo": "Vacutagin/GameEnhancementSuite",
     "branch": "main",
     "language": "Python",
-    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
+    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+  },
+  {
+    "repo": "Alamofire/Alamofire",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Elegant HTTP Networking in Swift"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
   }
 ]
