@@ -1,8 +1,8 @@
 {
-  "repo": "Jia-Ethan/grok-keysmith",
+  "repo": "daimon3332/OutlookManage",
   "branch": "main",
   "language": "Python",
-  "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall.",
-  "stars": 117,
-  "forks": 19
+  "description": "Outlook/Hotmail local account management WebUI supports batch account import, status detection (alive/banned), token refresh and synchronization.Outlook / Hotmail 本地账号管理 WebUI，支持账号批量导入、状态检测（存活/封禁）、令牌刷新与同步。",
+  "stars": 105,
+  "forks": 9
 }

@@ -1,39 +1,27 @@
 [
   {
-    "repo": "jupyter/notebook",
+    "repo": "ladybug-me/caelestia-dots-kde",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
+    "language": "QML",
+    "description": "caelestia-dots ported to KDE plasma 6"
   },
   {
-    "repo": "avelino/awesome-go",
+    "repo": "frank890417/taiwan-md",
     "branch": "main",
-    "language": "Go",
-    "description": "A curated list of awesome Go frameworks, libraries and software"
+    "language": "Astro",
+    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
   },
   {
-    "repo": "NVIDIA-NeMo/labs-OO-Agents",
+    "repo": "xyzeva/k-id-age-verifier",
     "branch": "main",
-    "language": "Python",
-    "description": "labs-OO-agents"
+    "language": "TypeScript",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
   },
   {
-    "repo": "aosabook/500lines",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "500 Lines or Less"
-  },
-  {
-    "repo": "openai/sora-prompt-engineering-guide",
+    "repo": "trycua/launchpad",
     "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
-  },
-  {
-    "repo": "grpc/grpc",
-    "branch": "master",
-    "language": "C++",
-    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+    "language": "TypeScript",
+    "description": ""
   },
   {
     "repo": "karpathy/nanoGPT",
@@ -42,105 +30,117 @@
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
   },
   {
-    "repo": "google-deepmind/alphageometry",
+    "repo": "SnapKit/SnapKit",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A Swift Autolayout DSL for iOS & OS X"
+  },
+  {
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
+  },
+  {
+    "repo": "moment/moment",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Parse, validate, manipulate, and display dates in javascript."
+  },
+  {
+    "repo": "oneclaw/oneclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OneClaw"
+  },
+  {
+    "repo": "cri-o/cri-o",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+  },
+  {
+    "repo": "moby/buildkit",
+    "branch": "master",
+    "language": "Go",
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+  },
+  {
+    "repo": "golang/protobuf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
+  },
+  {
+    "repo": "Panniantong/Agent-Reach",
     "branch": "main",
     "language": "Python",
-    "description": "Solving olympiad geometry without human demonstrations."
-  },
-  {
-    "repo": "google/guava",
-    "branch": "master",
-    "language": "Java",
-    "description": "Google core libraries for Java"
-  },
-  {
-    "repo": "ziglang/zig",
-    "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
-  },
-  {
-    "repo": "AUTOMATIC1111/stable-diffusion-webui",
-    "branch": "master",
-    "language": "Python",
-    "description": "Stable Diffusion web UI"
-  },
-  {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "zed-industries/zed",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
-  },
-  {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "hiragram/claude-docker",
-    "branch": "main",
-    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "HKUDS/ClawTeam",
+    "repo": "supabase/supabase",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+  },
+  {
+    "repo": "badaramoni/wave-field-llm",
     "branch": "main",
     "language": "Python",
-    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
   },
   {
-    "repo": "rawwerks/ypi",
+    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
     "branch": "master",
-    "language": "Shell",
-    "description": "A recursive coding agent inpired by RLMs"
+    "language": "Rust",
+    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
   },
   {
-    "repo": "tomascupr/sandstorm",
+    "repo": "xiaguan/pegainfer",
     "branch": "main",
-    "language": "Python",
-    "description": "One API call. Full Claude agent. Completely sandboxed."
+    "language": "Rust",
+    "description": "Pure Rust + CUDA LLM inference engine"
   },
   {
-    "repo": "neovim/neovim",
+    "repo": "lance0/xfr",
     "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
+    "language": "Rust",
+    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
   },
   {
-    "repo": "istio/istio",
-    "branch": "master",
-    "language": "Go",
-    "description": "Connect, secure, control, and observe services."
-  },
-  {
-    "repo": "YougLin-dev/Aha-Loop",
+    "repo": "stepfun-ai/Step-3.5-Flash",
     "branch": "main",
-    "language": "Shell",
-    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
+    "language": "C++",
+    "description": "Fast, Sharp & Reliable Agentic Intelligence"
   },
   {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "repo": "carlosazaustre/tenacitOS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw Mission Control Dashboard"
   },
   {
-    "repo": "apache/kafka",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Mirror of Apache Kafka"
-  },
-  {
-    "repo": "hashicorp/vault",
+    "repo": "cloudwego/kitex",
     "branch": "main",
     "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Structured, pluggable logging for Go."
+  },
+  {
+    "repo": "stellarlinkco/myclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
   }
 ]
