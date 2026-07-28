@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Neshke/BedWars_-_Auto-Farm___Aimbot",
+    "repo": "0xSteph/pentest-ai",
     "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm and aimbot for BedWars, the competitive PvP game with 11.3 billion visits[reference:20]. Automatically break beds, farm resources, and eliminate enemies with perfect aim."
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
-  },
-  {
-    "repo": "aibuildai/AI-Build-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "AIBuildAI – An AI agent that automatically builds AI models (#1 on OpenAI MLE-Bench)"
-  },
-  {
-    "repo": "wuji-labs/nopua",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
-  },
-  {
-    "repo": "SKYFIRE5836/Slay-the-Spire-2-Drawing",
-    "branch": "main",
-    "language": "Python",
-    "description": "杀戮尖塔2 数字琥珀自动画板 | A Python automation drawing tool for Slay the Spire 2"
-  },
-  {
-    "repo": "manuelschipper/nah",
-    "branch": "main",
-    "language": "Python",
-    "description": "Context-aware safety guard for Claude Code. A permission system you control."
-  },
-  {
-    "repo": "diandianti/clawInstaller",
-    "branch": "main",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "J2TEAM/vibe.j2team.org",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
-  },
-  {
-    "repo": "joshcirre/instruckt-laravel",
-    "branch": "main",
-    "language": "PHP",
-    "description": ""
-  },
-  {
-    "repo": "mli55/pdfdelta",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "BigBodyCobain/Shadowbroker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
-  },
-  {
-    "repo": "Rivflyyy/HappyTorch",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
-  },
-  {
-    "repo": "raxx21/rajesh-portfolio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Ye-Yu-Mo/FundVal-Live",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "盘中基金估值，实时估值，基金净值"
-  },
-  {
-    "repo": "nj19257/FastSkills",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
-  },
-  {
-    "repo": "karanb192/claude-code-hooks",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
-  },
-  {
-    "repo": "nv-tlabs/kimodo",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
     "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
   },
   {
-    "repo": "trevin-creator/autoresearch-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+    "repo": "LadybirdBrowser/ladybird",
+    "branch": "master",
+    "language": "C++",
+    "description": "Truly independent web browser"
   },
   {
-    "repo": "ammaarreshi/SkyRoads-Codex",
+    "repo": "170-carry/codex-tools",
     "branch": "main",
     "language": "Rust",
-    "description": "Reverse engineering a DOS game with no source code using Codex 5.4"
+    "description": "快捷切换codex 账号以及监控codex用量的工具"
   },
   {
-    "repo": "amneziawg-mikrotik/awg-proxy",
+    "repo": "QwenLM/Qwen3-ASR",
     "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
+  },
+  {
+    "repo": "kyutai-labs/hibiki-zero",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "go-pg/pg",
+    "branch": "master",
     "language": "Go",
-    "description": ""
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
+  },
+  {
+    "repo": "ansible-collections/community.general",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ansible Community General Collection"
+  },
+  {
+    "repo": "first-fluke/oh-my-ag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
+  },
+  {
+    "repo": "AlexAnys/feishu-openclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "New Relic Python Agent"
+  },
+  {
+    "repo": "actions/cache",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cache dependencies and build outputs in GitHub Actions"
+  },
+  {
+    "repo": "TQZHR/grok2api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+  },
+  {
+    "repo": "Fixie-ai/Ultravox",
+    "branch": "main",
+    "language": "Python",
+    "description": "A fast multimodal LLM for real-time voice"
+  },
+  {
+    "repo": "OpenMOSS/MOVA",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
+  },
+  {
+    "repo": "YougLin-dev/Aha-Loop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
+  },
+  {
+    "repo": "dwzhu-pku/PaperBanana",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+  },
+  {
+    "repo": "graphql/dataloader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
+  },
+  {
+    "repo": "docker/docker-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
+  },
+  {
+    "repo": "encode/httpx",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next generation HTTP client for Python. 🦋"
+  },
+  {
+    "repo": "bc-dunia/qwen3-TTS-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+  },
+  {
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private Instagram Post URL Extractor (Research POC)"
+  },
+  {
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
+  },
+  {
+    "repo": "software-mansion/react-native-reanimated",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "React Native's Animated library reimplemented"
   }
 ]

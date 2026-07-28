@@ -1,8 +1,8 @@
 {
-  "repo": "cporter202/coreclaw-api-directory",
-  "branch": "main",
-  "language": "Python",
-  "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
-  "stars": 110,
-  "forks": 30
+  "repo": "moumen-soliman/lab",
+  "branch": "master",
+  "language": "TypeScript",
+  "description": "A small lab of the components we build every day, rethought for better feel. Each one does one thing well, built in React and fully Tailwind, and available in the shadcn registry - copy the source",
+  "stars": 101,
+  "forks": 0
 }
