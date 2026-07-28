@@ -1,8 +1,8 @@
 {
-  "repo": "moumen-soliman/lab",
-  "branch": "master",
-  "language": "TypeScript",
-  "description": "A small lab of the components we build every day, rethought for better feel. Each one does one thing well, built in React and fully Tailwind, and available in the shadcn registry - copy the source",
-  "stars": 101,
-  "forks": 0
+  "repo": "Jia-Ethan/grok-keysmith",
+  "branch": "main",
+  "language": "Python",
+  "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall.",
+  "stars": 117,
+  "forks": 19
 }

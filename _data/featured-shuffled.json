@@ -1,87 +1,123 @@
 [
   {
-    "repo": "0xSteph/pentest-ai",
+    "repo": "jupyter/notebook",
     "branch": "main",
-    "language": "Shell",
-    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+    "language": "Jupyter Notebook",
+    "description": "Jupyter Interactive Notebook"
   },
   {
-    "repo": "LadybirdBrowser/ladybird",
+    "repo": "avelino/awesome-go",
+    "branch": "main",
+    "language": "Go",
+    "description": "A curated list of awesome Go frameworks, libraries and software"
+  },
+  {
+    "repo": "NVIDIA-NeMo/labs-OO-Agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "labs-OO-agents"
+  },
+  {
+    "repo": "aosabook/500lines",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "500 Lines or Less"
+  },
+  {
+    "repo": "openai/sora-prompt-engineering-guide",
+    "branch": "main",
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
+  },
+  {
+    "repo": "grpc/grpc",
     "branch": "master",
     "language": "C++",
-    "description": "Truly independent web browser"
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
   },
   {
-    "repo": "170-carry/codex-tools",
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "google-deepmind/alphageometry",
+    "branch": "main",
+    "language": "Python",
+    "description": "Solving olympiad geometry without human demonstrations."
+  },
+  {
+    "repo": "google/guava",
+    "branch": "master",
+    "language": "Java",
+    "description": "Google core libraries for Java"
+  },
+  {
+    "repo": "ziglang/zig",
+    "branch": "master",
+    "language": "Zig",
+    "description": "Moved to Codeberg"
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "branch": "master",
+    "language": "Python",
+    "description": "Stable Diffusion web UI"
+  },
+  {
+    "repo": "lens-protocol/lens-protocol",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "The Lens Protocol"
+  },
+  {
+    "repo": "zed-industries/zed",
     "branch": "main",
     "language": "Rust",
-    "description": "快捷切换codex 账号以及监控codex用量的工具"
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
   },
   {
-    "repo": "QwenLM/Qwen3-ASR",
+    "repo": "vuejs/vue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  },
+  {
+    "repo": "hiragram/claude-docker",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "HKUDS/ClawTeam",
     "branch": "main",
     "language": "Python",
-    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
   },
   {
-    "repo": "kyutai-labs/hibiki-zero",
+    "repo": "rawwerks/ypi",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A recursive coding agent inpired by RLMs"
+  },
+  {
+    "repo": "tomascupr/sandstorm",
     "branch": "main",
     "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
+    "description": "One API call. Full Claude agent. Completely sandboxed."
   },
   {
-    "repo": "go-pg/pg",
+    "repo": "neovim/neovim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
+  },
+  {
+    "repo": "istio/istio",
     "branch": "master",
     "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
-  },
-  {
-    "repo": "ansible-collections/community.general",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ansible Community General Collection"
-  },
-  {
-    "repo": "first-fluke/oh-my-ag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "actions/cache",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cache dependencies and build outputs in GitHub Actions"
-  },
-  {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
-  },
-  {
-    "repo": "Fixie-ai/Ultravox",
-    "branch": "main",
-    "language": "Python",
-    "description": "A fast multimodal LLM for real-time voice"
-  },
-  {
-    "repo": "OpenMOSS/MOVA",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
+    "description": "Connect, secure, control, and observe services."
   },
   {
     "repo": "YougLin-dev/Aha-Loop",
@@ -90,57 +126,21 @@
     "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
   },
   {
-    "repo": "dwzhu-pku/PaperBanana",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
-  },
-  {
-    "repo": "graphql/dataloader",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
-  },
-  {
-    "repo": "docker/docker-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python library for the Docker Engine API"
-  },
-  {
-    "repo": "encode/httpx",
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
-    "language": "Python",
-    "description": "A next generation HTTP client for Python. 🦋"
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "bc-dunia/qwen3-TTS-studio",
+    "repo": "apache/kafka",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Mirror of Apache Kafka"
+  },
+  {
+    "repo": "hashicorp/vault",
     "branch": "main",
-    "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
-  },
-  {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "v4nsh0x/InstaTrace",
-    "branch": "main",
-    "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "software-mansion/react-native-reanimated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React Native's Animated library reimplemented"
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
   }
 ]
