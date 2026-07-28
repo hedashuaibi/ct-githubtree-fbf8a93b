@@ -1,99 +1,9 @@
 [
   {
-    "repo": "ladybug-me/caelestia-dots-kde",
-    "branch": "main",
-    "language": "QML",
-    "description": "caelestia-dots ported to KDE plasma 6"
-  },
-  {
-    "repo": "frank890417/taiwan-md",
-    "branch": "main",
-    "language": "Astro",
-    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "trycua/launchpad",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "karpathy/nanoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
-  },
-  {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
-  },
-  {
-    "repo": "jlevy/the-art-of-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Master the command line, in one page"
-  },
-  {
-    "repo": "moment/moment",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Parse, validate, manipulate, and display dates in javascript."
-  },
-  {
-    "repo": "oneclaw/oneclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OneClaw"
-  },
-  {
-    "repo": "cri-o/cri-o",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
-  },
-  {
-    "repo": "moby/buildkit",
-    "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
-  },
-  {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "Panniantong/Agent-Reach",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "supabase/supabase",
+    "repo": "nestjs/nest",
     "branch": "master",
     "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-  },
-  {
-    "repo": "badaramoni/wave-field-llm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
-  },
-  {
-    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
   },
   {
     "repo": "xiaguan/pegainfer",
@@ -102,45 +12,135 @@
     "description": "Pure Rust + CUDA LLM inference engine"
   },
   {
-    "repo": "lance0/xfr",
+    "repo": "termux/termux-packages",
     "branch": "master",
-    "language": "Rust",
-    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
+    "language": "Shell",
+    "description": "A package build system for Termux."
   },
   {
-    "repo": "stepfun-ai/Step-3.5-Flash",
+    "repo": "SakanaAI/fugu",
     "branch": "main",
-    "language": "C++",
-    "description": "Fast, Sharp & Reliable Agentic Intelligence"
-  },
-  {
-    "repo": "carlosazaustre/tenacitOS",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw Mission Control Dashboard"
-  },
-  {
-    "repo": "cloudwego/kitex",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
-  },
-  {
-    "repo": "sirupsen/logrus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Structured, pluggable logging for Go."
-  },
-  {
-    "repo": "stellarlinkco/myclaw",
-    "branch": "main",
-    "language": "Go",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "docker/compose",
+    "repo": "terry4369mika0464/CCLean-Latest-2026",
     "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
+    "language": "C#",
+    "description": "A professional-grade system optimization and maintenance toolkit designed for automated workspace cleanup and performance orchestration."
+  },
+  {
+    "repo": "domye/Solace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Solace - 基于 Go + React + TypeScript + PostgreSQL 的全栈博客系统。支持 Markdown 编辑、相册管理、深色模式、SEO 优化、Docker 部署。采用整洁架构，适合个人博客、技术博客、开发者作品集。MIT 开源，生产就绪"
+  },
+  {
+    "repo": "cnlimiter/codex-manager-v3",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "SamadhiFire/xinqingnian-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "新青年Skill/新青年/毛选Skill/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
+  },
+  {
+    "repo": "mliu98/awesome-human-distillation",
+    "branch": "main",
+    "language": "Python",
+    "description": "A curated catalog of human distillliation agent skills"
+  },
+  {
+    "repo": "junjiezhou1122/GptCrate",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Demo of tools of capabilities of Tony Stark."
+  },
+  {
+    "repo": "PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "RACCOIN: Coin Pusher Roguelike Full Version 2026 is an addictive blend of classic coin pusher machines and roguelike gameplay. Push coins, collect epic rewards, upgrade your raccoon, unlock powerful relics and new machines across endless runs. Deep progression, high replayability, and satisfying coin mechanics. 🦝"
+  },
+  {
+    "repo": "atomicmemory/llm-wiki-compiler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
+  },
+  {
+    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+  },
+  {
+    "repo": "xicilion/boxsh",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode"
+  },
+  {
+    "repo": "Nightmare-Eclipse/BlueHammer",
+    "branch": "main",
+    "language": "C",
+    "description": "Repository hosting the bluehammer vulnerability"
+  },
+  {
+    "repo": "farzaa/clicky",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "LaurieWired/tailslayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Library for reducing tail latency in RAM reads"
+  },
+  {
+    "repo": "MME-Benchmarks/Video-MME-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+  },
+  {
+    "repo": "openlibrecommunity/olcrtc",
+    "branch": "master",
+    "language": "Python",
+    "description": "olc - using side channels to access web outside the whitelist"
+  },
+  {
+    "repo": "vakovalskii/codedash",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
+  },
+  {
+    "repo": "GitFrog1111/badclaude",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "i12bp8/TagTinker",
+    "branch": "main",
+    "language": "C",
+    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
+  },
+  {
+    "repo": "Spade-sec/First",
+    "branch": "main",
+    "language": "Python",
+    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
   }
 ]
