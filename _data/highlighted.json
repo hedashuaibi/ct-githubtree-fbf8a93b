@@ -1,8 +1,8 @@
 {
-  "repo": "HaseebKhalid1507/Myx",
+  "repo": "sazardev/shiki",
   "branch": "main",
   "language": "Rust",
-  "description": "Spotify player for the terminal. With reactive themes.",
-  "stars": 111,
-  "forks": 7
+  "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+  "stars": 134,
+  "forks": 6
 }

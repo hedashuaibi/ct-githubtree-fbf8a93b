@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gordonmurray/firnflow",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
+    "repo": "LineageOS/android",
+    "branch": "lineage-21.0",
+    "language": "Other",
+    "description": "Placeholder repository for LineageOS"
   },
   {
-    "repo": "KeploreAI-Lab/MindAct",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent + Specific Knowledge = A true Autonomous AI"
-  },
-  {
-    "repo": "OpenCoworkAI/open-codesign",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT."
-  },
-  {
-    "repo": "johnbean393/KeyType",
+    "repo": "Blaizzy/nativ",
     "branch": "main",
     "language": "Swift",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
+    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
   },
   {
-    "repo": "coleam00/claude-memory-compiler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
-  },
-  {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
-  },
-  {
-    "repo": "lucasfrre/BongoCat-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "BongoCat: Interactive stream overlay. Mouse and keyboard tracker, tablet pen pressure, osu! playstyle mode. Custom skin editor, transparent background, OBS studio plugin, gamepad support. Keypress visualizer, RGB lighting sync, emote animations, desktop pet, live reaction tool, WASD mapping."
-  },
-  {
-    "repo": "6-robot/jie_3d_nav",
-    "branch": "main",
-    "language": "Python",
-    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
-  },
-  {
-    "repo": "xixu-me/awesome-persona-distill-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
-  },
-  {
-    "repo": "MentalPrism42/FL-Production-25.2.5-DAW",
-    "branch": "main",
-    "language": "C++",
-    "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource"
-  },
-  {
-    "repo": "ryanhcode/sable",
-    "branch": "main",
-    "language": "Java",
-    "description": "Interactive physics moving block structures!"
-  },
-  {
-    "repo": "ProjectBarks/gopher-code",
+    "repo": "etcd-io/etcd",
     "branch": "main",
     "language": "Go",
-    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
   },
   {
-    "repo": "jaywcjlove/PermissionFlow",
+    "repo": "Nuzair46/Monarch",
     "branch": "main",
-    "language": "Swift",
-    "description": "A macOS library for guiding users through permission setup with System Settings deeplinks and drag-to-authorize support."
+    "language": "Rust",
+    "description": "Detach, restore, and switch monitor layouts without touching cables."
   },
   {
-    "repo": "taylorarndt/perspective-cuts",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A text-based language for writing Apple Shortcuts. Experimental."
-  },
-  {
-    "repo": "openai/privacy-filter",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenAI Privacy Filter"
-  },
-  {
-    "repo": "patchfighterway90/cs2-external-overlay",
-    "branch": "main",
-    "language": "Python",
-    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
-  },
-  {
-    "repo": "standardagents/sip",
+    "repo": "FlowiseAI/Flowise",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+    "description": "Build AI Agents, Visually"
   },
   {
-    "repo": "trading-2028/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading"
-  },
-  {
-    "repo": "TraderAlice/Auto-Quant",
+    "repo": "rawwerks/ypi",
     "branch": "master",
-    "language": "Python",
-    "description": ""
+    "language": "Shell",
+    "description": "A recursive coding agent inpired by RLMs"
   },
   {
-    "repo": "gelo1231/Pokemon-Pokopia-For-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Pokemon Pokopia PC download fan game RPG Maker Essentials Pokedex battles trainers gym leaders shiny hunting mega evolution regional forms breeding evolution items legendaries starter pokemon custom sprites native port controller support save editor fullscreen widescreen windowed mode textures sprites maps quests NPC dialogs inventory box s"
-  },
-  {
-    "repo": "edmicho/mm-probe-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
-  },
-  {
-    "repo": "DevTechJr/turboquant-gpu",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "JuliusBrussee/cavemem",
-    "branch": "main",
+    "repo": "storybookjs/storybook",
+    "branch": "next",
     "language": "TypeScript",
-    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default."
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
   },
   {
-    "repo": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "daniel3303/ClaudeCodeStatusLine",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "FinPyromancerLog/xcode-claw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots."
+    "description": ""
+  },
+  {
+    "repo": "AlexAnys/feishu-openclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+  },
+  {
+    "repo": "AgriciDaniel/claude-seo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
+  },
+  {
+    "repo": "WerWolv/ImHex",
+    "branch": "master",
+    "language": "C++",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "rust-embedded/discovery",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Discover the world of microcontrollers through Rust!"
+  },
+  {
+    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open-source orchestration for zero-human companies"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplayer at the speed of light"
+  },
+  {
+    "repo": "rebornix/Agmente",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "smartcmd/MinecraftConsoles",
+    "branch": "main",
+    "language": "C++",
+    "description": "A certain block game"
+  },
+  {
+    "repo": "abi/screenshot-to-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+  },
+  {
+    "repo": "Anxcye/anx-reader",
+    "branch": "main",
+    "language": "Dart",
+    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
   }
 ]
