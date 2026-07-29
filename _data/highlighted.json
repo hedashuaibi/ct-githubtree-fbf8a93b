@@ -1,8 +1,8 @@
 {
-  "repo": "Jia-Ethan/grok-keysmith",
+  "repo": "mufengyuan666/Hearth",
   "branch": "main",
-  "language": "Python",
-  "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall.",
-  "stars": 127,
-  "forks": 19
+  "language": "JavaScript",
+  "description": "A featured project on GitHubTree.",
+  "stars": 110,
+  "forks": 3
 }

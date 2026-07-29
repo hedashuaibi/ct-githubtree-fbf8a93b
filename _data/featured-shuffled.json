@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+    "repo": "llm-as-a-verifier/llm-as-a-verifier",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "xiaguan/pegainfer",
+    "repo": "encode/httpx",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next generation HTTP client for Python. 🦋"
+  },
+  {
+    "repo": "xiaolajiaoyyds/regplatformm",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "argoproj/argo-rollouts",
+    "branch": "master",
+    "language": "Go",
+    "description": "Progressive Delivery for Kubernetes"
+  },
+  {
+    "repo": "marshmallow-code/apispec",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification).."
+  },
+  {
+    "repo": "mitjafelicijan/xdgctl",
+    "branch": "master",
+    "language": "C",
+    "description": "TUI for managing XDG default applications"
+  },
+  {
+    "repo": "cloudflare/pingora",
     "branch": "main",
     "language": "Rust",
-    "description": "Pure Rust + CUDA LLM inference engine"
+    "description": "A library for building fast, reliable and evolvable network services."
   },
   {
-    "repo": "termux/termux-packages",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A package build system for Termux."
-  },
-  {
-    "repo": "SakanaAI/fugu",
+    "repo": "openai/CLIP",
     "branch": "main",
-    "language": "Shell",
-    "description": ""
+    "language": "Jupyter Notebook",
+    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
   },
   {
-    "repo": "terry4369mika0464/CCLean-Latest-2026",
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "esphome/esphome",
+    "branch": "dev",
+    "language": "C++",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems."
+  },
+  {
+    "repo": "openfaas/faas",
+    "branch": "master",
+    "language": "Go",
+    "description": "OpenFaaS - Serverless Functions Made Simple"
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "branch": "master",
+    "language": "Python",
+    "description": "An orchestration platform for the development, production, and observation of data assets."
+  },
+  {
+    "repo": "yarnpkg/yarn",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+  },
+  {
+    "repo": "goldbergyoni/nodebestpractices",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "branch": "branch-3.4",
+    "language": "TypeScript",
+    "description": "Interactive Data Visualization in the browser, from  Python"
+  },
+  {
+    "repo": "tikv/tikv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+  },
+  {
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "valeriansaliou/sonic",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+  },
+  {
+    "repo": "bottlerocket-os/bottlerocket",
+    "branch": "develop",
+    "language": "Rust",
+    "description": "An operating system designed for hosting containers"
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "hashicorp/raft",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang implementation of the Raft consensus protocol"
+  },
+  {
+    "repo": "mockk/mockk",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "actions/runner",
     "branch": "main",
     "language": "C#",
-    "description": "A professional-grade system optimization and maintenance toolkit designed for automated workspace cleanup and performance orchestration."
+    "description": "The Runner for GitHub Actions :rocket:"
   },
   {
-    "repo": "domye/Solace",
+    "repo": "linkerd/linkerd2",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Solace - 基于 Go + React + TypeScript + PostgreSQL 的全栈博客系统。支持 Markdown 编辑、相册管理、深色模式、SEO 优化、Docker 部署。采用整洁架构，适合个人博客、技术博客、开发者作品集。MIT 开源，生产就绪"
-  },
-  {
-    "repo": "cnlimiter/codex-manager-v3",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SamadhiFire/xinqingnian-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "新青年Skill/新青年/毛选Skill/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
-  },
-  {
-    "repo": "mliu98/awesome-human-distillation",
-    "branch": "main",
-    "language": "Python",
-    "description": "A curated catalog of human distillliation agent skills"
-  },
-  {
-    "repo": "junjiezhou1122/GptCrate",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Demo of tools of capabilities of Tony Stark."
-  },
-  {
-    "repo": "PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "RACCOIN: Coin Pusher Roguelike Full Version 2026 is an addictive blend of classic coin pusher machines and roguelike gameplay. Push coins, collect epic rewards, upgrade your raccoon, unlock powerful relics and new machines across endless runs. Deep progression, high replayability, and satisfying coin mechanics. 🦝"
-  },
-  {
-    "repo": "atomicmemory/llm-wiki-compiler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
-  },
-  {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
-  },
-  {
-    "repo": "xicilion/boxsh",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode"
-  },
-  {
-    "repo": "Nightmare-Eclipse/BlueHammer",
-    "branch": "main",
-    "language": "C",
-    "description": "Repository hosting the bluehammer vulnerability"
-  },
-  {
-    "repo": "farzaa/clicky",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "LaurieWired/tailslayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Library for reducing tail latency in RAM reads"
-  },
-  {
-    "repo": "MME-Benchmarks/Video-MME-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
-  },
-  {
-    "repo": "openlibrecommunity/olcrtc",
-    "branch": "master",
-    "language": "Python",
-    "description": "olc - using side channels to access web outside the whitelist"
-  },
-  {
-    "repo": "vakovalskii/codedash",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
-  },
-  {
-    "repo": "GitFrog1111/badclaude",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "i12bp8/TagTinker",
-    "branch": "main",
-    "language": "C",
-    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
-  },
-  {
-    "repo": "Spade-sec/First",
-    "branch": "main",
-    "language": "Python",
-    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
+    "language": "Go",
+    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
   }
 ]
