@@ -1,8 +1,8 @@
 {
-  "repo": "sazardev/shiki",
+  "repo": "mufengyuan666/Hearth",
   "branch": "main",
-  "language": "Rust",
-  "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-  "stars": 134,
-  "forks": 6
+  "language": "JavaScript",
+  "description": "A featured project on GitHubTree.",
+  "stars": 110,
+  "forks": 3
 }

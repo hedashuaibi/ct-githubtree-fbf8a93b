@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LineageOS/android",
-    "branch": "lineage-21.0",
+    "repo": "leochlon/ntkmirror",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "MasterAlanLab/Register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "PowerShell/vscode-powershell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+  },
+  {
+    "repo": "tikv/tikv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+  },
+  {
+    "repo": "NCSC-NL/spring4shell",
+    "branch": "main",
     "language": "Other",
-    "description": "Placeholder repository for LineageOS"
+    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
   },
   {
-    "repo": "Blaizzy/nativ",
+    "repo": "libtv-labs/libtv-skills",
     "branch": "main",
-    "language": "Swift",
-    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "etcd-io/etcd",
+    "repo": "microsoft/TypeScript",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "GeiserX/awesome-spain",
+    "branch": "main",
+    "language": "Python",
+    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
+  },
+  {
+    "repo": "meodai/heerich",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
+  },
+  {
+    "repo": "udayanwalvekar/clearshot",
+    "branch": "main",
+    "language": "Shell",
+    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
+  },
+  {
+    "repo": "sharkdp/bat",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cat(1) clone with wings."
+  },
+  {
+    "repo": "fatedier/frp",
+    "branch": "dev",
     "language": "Go",
-    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
   },
   {
-    "repo": "Nuzair46/Monarch",
+    "repo": "jdrhyne/agent-skills",
     "branch": "main",
-    "language": "Rust",
-    "description": "Detach, restore, and switch monitor layouts without touching cables."
+    "language": "HTML",
+    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
   },
   {
-    "repo": "FlowiseAI/Flowise",
+    "repo": "yasasbanukaofficial/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
   },
   {
-    "repo": "rawwerks/ypi",
-    "branch": "master",
+    "repo": "jorgebucaran/hyperapp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "1kB-ish JavaScript framework for building hypertext applications"
+  },
+  {
+    "repo": "ReinerBRO/grok-register",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
+  },
+  {
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "kewonit/aeris",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aeris is a real-time 3D flight radar for the web"
+  },
+  {
+    "repo": "hiragram/claude-docker",
+    "branch": "main",
     "language": "Shell",
-    "description": "A recursive coding agent inpired by RLMs"
-  },
-  {
-    "repo": "storybookjs/storybook",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
-  },
-  {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "huggingface/transformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-  },
-  {
-    "repo": "daniel3303/ClaudeCodeStatusLine",
-    "branch": "main",
-    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "FinPyromancerLog/xcode-claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
-  },
-  {
-    "repo": "AgriciDaniel/claude-seo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
-  },
-  {
-    "repo": "WerWolv/ImHex",
-    "branch": "master",
-    "language": "C++",
-    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
-  },
-  {
-    "repo": "ggerganov/llama.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "LLM inference in C/C++"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "rust-embedded/discovery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
-  },
-  {
-    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
-  },
-  {
-    "repo": "paperclipai/paperclip",
+    "repo": "GTJasonMK/lessAI",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Open-source orchestration for zero-human companies"
-  },
-  {
-    "repo": "clockworklabs/SpacetimeDB",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
-  },
-  {
-    "repo": "rebornix/Agmente",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
-  },
-  {
-    "repo": "abi/screenshot-to-code",
+    "repo": "aaronjmars/MiroShark",
     "branch": "main",
     "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+    "description": "Universal Swarm Intelligence Engine"
   },
   {
-    "repo": "Anxcye/anx-reader",
+    "repo": "sindresorhus/type-fest",
     "branch": "main",
-    "language": "Dart",
-    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
+    "language": "TypeScript",
+    "description": "A collection of essential TypeScript types"
+  },
+  {
+    "repo": "square/picasso",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A powerful image downloading and caching library for Android"
   }
 ]
