@@ -1,8 +1,8 @@
 {
-  "repo": "mufengyuan666/Hearth",
+  "repo": "HaseebKhalid1507/Myx",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A featured project on GitHubTree.",
-  "stars": 110,
-  "forks": 3
+  "language": "Rust",
+  "description": "Spotify player for the terminal. With reactive themes.",
+  "stars": 111,
+  "forks": 7
 }
