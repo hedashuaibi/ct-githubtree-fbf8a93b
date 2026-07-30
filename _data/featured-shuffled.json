@@ -1,146 +1,146 @@
 [
   {
-    "repo": "leochlon/ntkmirror",
+    "repo": "GOROman/nullevi03",
     "branch": "main",
-    "language": "Python",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "MasterAlanLab/Register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
+    "repo": "shadcn-ui/ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
   },
   {
-    "repo": "tikv/tikv",
+    "repo": "bowang-lab/EchoJEPA",
+    "branch": "main",
+    "language": "Python",
+    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
+  },
+  {
+    "repo": "stretchr/testify",
+    "branch": "master",
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+  },
+  {
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish-like autosuggestions for zsh"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "branch": "master",
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "nestjs/nest",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
     "branch": "master",
     "language": "Rust",
-    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
   },
   {
-    "repo": "NCSC-NL/spring4shell",
+    "repo": "BurntSushi/xsv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A fast CSV command line toolkit written in Rust."
+  },
+  {
+    "repo": "galpha-ai/trading-intent",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "YuJunZhiXue/github-skill-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
+  },
+  {
+    "repo": "infraform/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "repo": "charlax/professional-programming",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collection of learning resources for curious software engineers"
+  },
+  {
+    "repo": "agarrharr/awesome-cli-apps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+  },
+  {
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "branch": "main",
+    "language": "Go",
+    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+  },
+  {
+    "repo": "calebwin/pgclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+  },
+  {
+    "repo": "raxx21/rajesh-portfolio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "gorkem-bwl/animated-icons",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "microsoft/LlamaSharp",
     "branch": "main",
     "language": "Other",
-    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
+    "description": ".NET library for Llama model inference."
   },
   {
-    "repo": "libtv-labs/libtv-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
   },
   {
-    "repo": "microsoft/TypeScript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
-  },
-  {
-    "repo": "GeiserX/awesome-spain",
-    "branch": "main",
-    "language": "Python",
-    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
-  },
-  {
-    "repo": "meodai/heerich",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
-  },
-  {
-    "repo": "udayanwalvekar/clearshot",
-    "branch": "main",
-    "language": "Shell",
-    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
-  },
-  {
-    "repo": "sharkdp/bat",
+    "repo": "go-chi/chi",
     "branch": "master",
-    "language": "Rust",
-    "description": "A cat(1) clone with wings."
-  },
-  {
-    "repo": "fatedier/frp",
-    "branch": "dev",
     "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+    "description": "lightweight, idiomatic and composable router for building Go HTTP services"
   },
   {
-    "repo": "jdrhyne/agent-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex"
-  },
-  {
-    "repo": "yasasbanukaofficial/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
-  },
-  {
-    "repo": "jorgebucaran/hyperapp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "1kB-ish JavaScript framework for building hypertext applications"
-  },
-  {
-    "repo": "ReinerBRO/grok-register",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
-  },
-  {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
-  },
-  {
-    "repo": "kewonit/aeris",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Aeris is a real-time 3D flight radar for the web"
-  },
-  {
-    "repo": "hiragram/claude-docker",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "GTJasonMK/lessAI",
+    "repo": "lib/pq",
     "branch": "master",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Go",
+    "description": "Go PostgreSQL driver for database/sql"
   },
   {
-    "repo": "aaronjmars/MiroShark",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal Swarm Intelligence Engine"
-  },
-  {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
-  },
-  {
-    "repo": "square/picasso",
+    "repo": "edgedb/edgedb",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
+    "language": "Python",
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
   }
 ]
