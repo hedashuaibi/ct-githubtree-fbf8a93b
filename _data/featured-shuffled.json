@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vigorX777/content-collector-skill",
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "yaojingang/geo-citation-lab",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
+    "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations."
   },
   {
-    "repo": "haowang02/codex-candy-eval",
+    "repo": "ManimCommunity/manim",
     "branch": "main",
     "language": "Python",
-    "description": "Codex 降智测试"
+    "description": "A community-maintained Python framework for creating mathematical animations."
   },
   {
-    "repo": "Barath19/Boxer3D",
+    "repo": "ethanjyx/OpenBrand",
     "branch": "main",
-    "language": "Swift",
-    "description": "AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting"
+    "language": "TypeScript",
+    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
   },
   {
-    "repo": "openabdev/openab",
+    "repo": "randallscott25-star/epstein-forensic-finance",
     "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
   },
   {
-    "repo": "anthnykr/codex-voice",
-    "branch": "main",
-    "language": "Swift",
+    "repo": "appsail/Gemini-in-Chrome",
+    "branch": "master",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "Monke-Manager/MonkeModManager",
+    "repo": "zolotukhin/zinc",
     "branch": "main",
-    "language": "C#",
-    "description": "monkemodmanager download github gorilla tag mod installer manager bepinex cosmetics quest link steam vr custom maps utility tool windows 11 latest version 2026 free gameplay tutorial update guide fix error"
+    "language": "Zig",
+    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
   },
   {
-    "repo": "millionco/claude-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Diagnose your Claude Code sessions"
-  },
-  {
-    "repo": "KenKaneki18/CloakBrowser",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free."
-  },
-  {
-    "repo": "jasonkneen/tiny-world-builder",
+    "repo": "pedrohcgs/claude-code-my-workflow",
     "branch": "main",
     "language": "HTML",
-    "description": "tiny-world-builder"
+    "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols."
   },
   {
-    "repo": "BigPizzaV3/CodexPlusPlus",
+    "repo": "dogadmin/ProcIR",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
+    "branch": "master",
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+  },
+  {
+    "repo": "gluon-framework/gluon",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+  },
+  {
+    "repo": "SortableJS/Sortable",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+  },
+  {
+    "repo": "scrya-com/rotorquant",
     "branch": "main",
     "language": "Python",
-    "description": "一个CodexApp的增强工具"
+    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
   },
   {
-    "repo": "nostrband/ServiceGraph",
+    "repo": "ytdl-org/youtube-dl",
+    "branch": "master",
+    "language": "Python",
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
+  },
+  {
+    "repo": "keephq/keep",
     "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
   },
   {
-    "repo": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version"
-  },
-  {
-    "repo": "kapishdima/remocn",
+    "repo": "total-typescript/ts-reset",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
   },
   {
-    "repo": "actuallyaridan/linux-devmgmt",
-    "branch": "main",
-    "language": "C++",
-    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
-  },
-  {
-    "repo": "Dharyen/ryujinx-emu",
-    "branch": "main",
-    "language": "C#",
-    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
-  },
-  {
-    "repo": "YeQing17-2026/OmniAgent",
-    "branch": "main",
-    "language": "Python",
-    "description": "An agent capable of self-evolving and dynamically hardening security"
-  },
-  {
-    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
+    "repo": "HugoRCD/evlog",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
   },
   {
-    "repo": "c0deJedi/nbd-vram",
-    "branch": "main",
-    "language": "C",
-    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
-  },
-  {
-    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "repo": "pallets/flask",
     "branch": "main",
     "language": "Python",
-    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+    "description": "The Python micro framework for building web applications."
   },
   {
-    "repo": "bedriyan/medkit-app",
+    "repo": "ruanyf/weekly",
+    "branch": "master",
+    "language": "Other",
+    "description": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "repo": "HsMirage/CliproxyAccountCleaner",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
+  },
+  {
+    "repo": "hao-ji-xing/openclaw-weixin",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+    "description": "openclaw-weixin"
   },
   {
-    "repo": "NoFxAi-OS/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "hyperliquid grid trading bot dex perpetuals l1 crypto typescript nodejs automated algorithmic grid-strategy testnet wallet orderbook risk stop-loss drawdown rebalance python defi hft open-source trading-strategy spot leverage ohlcv rest-api crypto-bot quant scalp dca maker taker"
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
   },
   {
-    "repo": "pixelxzen/phantom-motion",
+    "repo": "nuxt/nuxt",
     "branch": "main",
-    "language": "HTML",
-    "description": "Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！"
+    "language": "TypeScript",
+    "description": "The Full-Stack Vue Framework."
   },
   {
-    "repo": "grandeurcoredecoder/f95zone",
+    "repo": "nhost/nhost",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "Unofficial Game Updater for the F95Zone platform"
-  },
-  {
-    "repo": "Janlaywss/hu-chenfeng-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "户晨风Skill"
+    "language": "TypeScript",
+    "description": "The Open Source Firebase Alternative with GraphQL."
   }
 ]
