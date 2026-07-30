@@ -1,8 +1,8 @@
 {
-  "repo": "thebuggeddev/books",
-  "branch": "main",
-  "language": "HTML",
-  "description": "A remake of Trevor Noah's Book collection page in threejs using Claude Fable 5",
-  "stars": 149,
-  "forks": 18
+  "repo": "WutIsHummus/TrueDeck",
+  "branch": "master",
+  "language": "TypeScript",
+  "description": "Free multi-agent coding workbench: Grok/Codex/Claude/Cursor panes + TrueMemory (per-repo + global)",
+  "stars": 114,
+  "forks": 0
 }

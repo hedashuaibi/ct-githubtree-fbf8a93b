@@ -1,146 +1,146 @@
 [
   {
+    "repo": "vigorX777/content-collector-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
+  },
+  {
     "repo": "haowang02/codex-candy-eval",
     "branch": "main",
     "language": "Python",
     "description": "Codex 降智测试"
   },
   {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "petergpt/bullshit-benchmark",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "parcadei/ouros",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A sandboxed Python runtime for AI agents, written in Rust."
-  },
-  {
-    "repo": "voocel/openclaw-mini",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制"
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid-swift",
+    "repo": "Barath19/Boxer3D",
     "branch": "main",
     "language": "Swift",
-    "description": "Native Mermaid diagram renderer for Swift"
+    "description": "AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting"
   },
   {
-    "repo": "mickamy/sql-tap",
+    "repo": "openabdev/openab",
     "branch": "main",
-    "language": "Go",
-    "description": "Watch SQL traffic in real-time with a TUI"
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
   },
   {
-    "repo": "NoizAI/skills",
+    "repo": "anthnykr/codex-voice",
     "branch": "main",
-    "language": "Shell",
-    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "PlamenTSV/plamen",
+    "repo": "Monke-Manager/MonkeModManager",
     "branch": "main",
-    "language": "Python",
-    "description": "Autonomous Web3 security audit agent for Claude Code"
+    "language": "C#",
+    "description": "monkemodmanager download github gorilla tag mod installer manager bepinex cosmetics quest link steam vr custom maps utility tool windows 11 latest version 2026 free gameplay tutorial update guide fix error"
   },
   {
-    "repo": "jnMetaCode/superpowers-zh",
+    "repo": "millionco/claude-doctor",
     "branch": "main",
-    "language": "Shell",
-    "description": "AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）"
+    "language": "TypeScript",
+    "description": "Diagnose your Claude Code sessions"
   },
   {
-    "repo": "kimjune01/cord",
-    "branch": "master",
-    "language": "Python",
-    "description": "A coordination protocol for trees of Claude Code agents"
+    "repo": "KenKaneki18/CloakBrowser",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free."
   },
   {
-    "repo": "dongsheng123132/u-claw",
+    "repo": "jasonkneen/tiny-world-builder",
     "branch": "main",
     "language": "HTML",
-    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+    "description": "tiny-world-builder"
   },
   {
-    "repo": "JohnRiceML/clawport-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
-  },
-  {
-    "repo": "GTJasonMK/lessAI",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "hkcanan/katmer-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
-  },
-  {
-    "repo": "hjanuschka/pi-multi-pass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
-  },
-  {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
+    "repo": "BigPizzaV3/CodexPlusPlus",
     "branch": "main",
     "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+    "description": "一个CodexApp的增强工具"
   },
   {
-    "repo": "paradigmxyz/evmbench",
+    "repo": "nostrband/ServiceGraph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
+  },
+  {
+    "repo": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
+    "branch": "main",
+    "language": "C++",
+    "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version"
+  },
+  {
+    "repo": "kapishdima/remocn",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
+    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
   },
   {
-    "repo": "SuperCmdLabs/SuperCmd",
+    "repo": "actuallyaridan/linux-devmgmt",
+    "branch": "main",
+    "language": "C++",
+    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
+  },
+  {
+    "repo": "Dharyen/ryujinx-emu",
+    "branch": "main",
+    "language": "C#",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "repo": "YeQing17-2026/OmniAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "An agent capable of self-evolving and dynamically hardening security"
+  },
+  {
+    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "What Apple Intelligence should have been"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "repo": "c0deJedi/nbd-vram",
+    "branch": "main",
+    "language": "C",
+    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+  },
+  {
+    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
   },
   {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
+    "repo": "bedriyan/medkit-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+  },
+  {
+    "repo": "NoFxAi-OS/hyperliquid-trading-bot",
+    "branch": "main",
     "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+    "description": "hyperliquid grid trading bot dex perpetuals l1 crypto typescript nodejs automated algorithmic grid-strategy testnet wallet orderbook risk stop-loss drawdown rebalance python defi hft open-source trading-strategy spot leverage ohlcv rest-api crypto-bot quant scalp dca maker taker"
   },
   {
-    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "repo": "pixelxzen/phantom-motion",
     "branch": "main",
     "language": "HTML",
-    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+    "description": "Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！"
   },
   {
-    "repo": "mrphrazer/agentic-malware-analysis",
+    "repo": "grandeurcoredecoder/f95zone",
     "branch": "main",
-    "language": "YARA",
-    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
+    "language": "PowerShell",
+    "description": "Unofficial Game Updater for the F95Zone platform"
   },
   {
-    "repo": "LearnPrompt/ai-news-radar",
-    "branch": "master",
+    "repo": "Janlaywss/hu-chenfeng-skill",
+    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "户晨风Skill"
   }
 ]
