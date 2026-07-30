@@ -1,146 +1,146 @@
 [
   {
-    "repo": "GOROman/nullevi03",
+    "repo": "haowang02/codex-candy-eval",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex 降智测试"
+  },
+  {
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "petergpt/bullshit-benchmark",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "parcadei/ouros",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A sandboxed Python runtime for AI agents, written in Rust."
+  },
+  {
+    "repo": "voocel/openclaw-mini",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制"
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native Mermaid diagram renderer for Swift"
+  },
+  {
+    "repo": "mickamy/sql-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Watch SQL traffic in real-time with a TUI"
+  },
+  {
+    "repo": "NoizAI/skills",
     "branch": "main",
     "language": "Shell",
-    "description": ""
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
   },
   {
-    "repo": "shadcn-ui/ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
-  },
-  {
-    "repo": "bowang-lab/EchoJEPA",
+    "repo": "PlamenTSV/plamen",
     "branch": "main",
     "language": "Python",
-    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
+    "description": "Autonomous Web3 security audit agent for Claude Code"
   },
   {
-    "repo": "stretchr/testify",
-    "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
-  },
-  {
-    "repo": "zsh-users/zsh-autosuggestions",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
-  },
-  {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "BurntSushi/ripgrep",
-    "branch": "master",
-    "language": "Rust",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
-  },
-  {
-    "repo": "BurntSushi/xsv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A fast CSV command line toolkit written in Rust."
-  },
-  {
-    "repo": "galpha-ai/trading-intent",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "YuJunZhiXue/github-skill-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
-  },
-  {
-    "repo": "infraform/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
-  },
-  {
-    "repo": "charlax/professional-programming",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collection of learning resources for curious software engineers"
-  },
-  {
-    "repo": "agarrharr/awesome-cli-apps",
+    "repo": "jnMetaCode/superpowers-zh",
     "branch": "main",
     "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+    "description": "AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）"
   },
   {
-    "repo": "bazelbuild/bazel",
+    "repo": "kimjune01/cord",
     "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
+    "language": "Python",
+    "description": "A coordination protocol for trees of Claude Code agents"
   },
   {
-    "repo": "go-gitea/gitea",
+    "repo": "dongsheng123132/u-claw",
     "branch": "main",
-    "language": "Go",
-    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+    "language": "HTML",
+    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
   },
   {
-    "repo": "calebwin/pgclaw",
+    "repo": "JohnRiceML/clawport-ui",
     "branch": "main",
-    "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+    "language": "TypeScript",
+    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
   },
   {
-    "repo": "raxx21/rajesh-portfolio",
-    "branch": "main",
+    "repo": "GTJasonMK/lessAI",
+    "branch": "master",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "gorkem-bwl/animated-icons",
+    "repo": "hkcanan/katmer-code",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "TypeScript",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
+  },
+  {
+    "repo": "hjanuschka/pi-multi-pass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
+  },
+  {
+    "repo": "reinesana/Doomscroll-Skyrim-Edition",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+  },
+  {
+    "repo": "paradigmxyz/evmbench",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
+  },
+  {
+    "repo": "SuperCmdLabs/SuperCmd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "What Apple Intelligence should have been"
+  },
+  {
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
-  },
-  {
-    "repo": "go-chi/chi",
-    "branch": "master",
-    "language": "Go",
-    "description": "lightweight, idiomatic and composable router for building Go HTTP services"
-  },
-  {
-    "repo": "lib/pq",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go PostgreSQL driver for database/sql"
-  },
-  {
-    "repo": "edgedb/edgedb",
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
     "branch": "master",
     "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+  },
+  {
+    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "branch": "main",
+    "language": "HTML",
+    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+  },
+  {
+    "repo": "mrphrazer/agentic-malware-analysis",
+    "branch": "main",
+    "language": "YARA",
+    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
+  },
+  {
+    "repo": "LearnPrompt/ai-news-radar",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
   }
 ]

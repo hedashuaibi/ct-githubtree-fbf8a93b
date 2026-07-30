@@ -1,8 +1,8 @@
 {
-  "repo": "nopnoping/micro-vllm",
-  "branch": "master",
-  "language": "Python",
-  "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
-  "stars": 105,
-  "forks": 2
+  "repo": "thebuggeddev/books",
+  "branch": "main",
+  "language": "HTML",
+  "description": "A remake of Trevor Noah's Book collection page in threejs using Claude Fable 5",
+  "stars": 149,
+  "forks": 18
 }
