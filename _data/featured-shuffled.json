@@ -1,63 +1,69 @@
 [
   {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
-  },
-  {
-    "repo": "viitor-ai/viitor-voice-nar",
+    "repo": "TheGreatAzizi/AzuDL-GC2GD",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A powerful Google Colab downloader that saves torrents, YouTube videos, playlists, audio, and direct links straight to Google Drive."
   },
   {
-    "repo": "antfu/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
-  },
-  {
-    "repo": "faker-js/faker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Generate massive amounts of fake data in the browser and node.js"
-  },
-  {
-    "repo": "second-state/kitten_tts_rs",
+    "repo": "Xuanwo/xurl",
     "branch": "main",
     "language": "Rust",
-    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+    "description": "xURL: Client for AI Agents URLs"
   },
   {
-    "repo": "revfactory/harness",
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "michelleoincx/Bunkr-Downloader-Python",
     "branch": "main",
     "language": "HTML",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+    "description": ""
   },
   {
-    "repo": "nickustinov/itsypad-macos",
+    "repo": "BurntSushi/ripgrep",
+    "branch": "master",
+    "language": "Rust",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+  },
+  {
+    "repo": "shobhit99/claude-watch",
     "branch": "main",
     "language": "Swift",
-    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
+    "description": "Control your claude code from your apple watch"
   },
   {
-    "repo": "rohitg00/pro-workflow",
+    "repo": "wevm/incur",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI framework for agents and humans"
+  },
+  {
+    "repo": "testing-library/react-testing-library",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
   },
   {
-    "repo": "xM0kht4r/VEN0m-Ransomware",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
-  },
-  {
-    "repo": "peteromallet/dataclaw",
+    "repo": "requests/requests",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "github/storybook-addon-performance-panel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Storybook Addon for tracking web performance"
+  },
+  {
+    "repo": "honnibal/claude-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skills I'm experimenting with. Please review carefully before use."
   },
   {
     "repo": "juntoku9/claude_immigration_attorney",
@@ -66,81 +72,75 @@
     "description": "Claude code environment for laywers"
   },
   {
-    "repo": "avelino/awesome-go",
-    "branch": "main",
-    "language": "Go",
-    "description": "A curated list of awesome Go frameworks, libraries and software"
-  },
-  {
-    "repo": "huggingface/accelerate",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
-  },
-  {
-    "repo": "adobe/react-spectrum",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
-  },
-  {
-    "repo": "wolffcatskyy/crowdsec-blocklist-import",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
-  },
-  {
-    "repo": "rivet-dev/sandbox-agent",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
-  },
-  {
-    "repo": "zhaoyue4810/pianke",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "fluentlc/claude-code-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications."
-  },
-  {
-    "repo": "Zaneham/BarraCUDA",
+    "repo": "elixir-volt/quickbeam",
     "branch": "master",
     "language": "C",
-    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
   },
   {
-    "repo": "b-nnett/codex-plusplus",
+    "repo": "xyzthiago/claude-flows",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks."
+  },
+  {
+    "repo": "jackwener/opencli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Codex++ tweak system for the Codex desktop app"
+    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
   },
   {
-    "repo": "virgiliojr94/book-to-skill",
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "tensorflow/hub",
     "branch": "master",
     "language": "Python",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    "description": "A library for transfer learning by reusing parts of TensorFlow models."
   },
   {
-    "repo": "listyantidewi1/your-everyday-tools",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "vbhwlvbn/FL-Production-25.2.5-For-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "FL Production 25.2.5 For PC is the Producer Edition of 25.2.5. Professional DAW for music production, beatmaking, and mastering. Includes all plugins, improved performance, and low latency. Optimized for Windows 10/11."
-  },
-  {
-    "repo": "0xSero/pi-brain",
+    "repo": "ionic-team/ionic-framework",
     "branch": "main",
     "language": "TypeScript",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+  },
+  {
+    "repo": "DatanoiseTV/tinyice",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+  },
+  {
+    "repo": "mirarr-app/network-checker",
+    "branch": "main",
+    "language": "Dart",
     "description": ""
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-server",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "immerjs/immer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Create the next immutable state by mutating the current one"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "joeseesun/qiaomu-bento-ppt",
+  "repo": "H-EmbodVis/TurboVLA",
   "branch": "main",
-  "language": "HTML",
-  "description": "Use the standalone qiaomu-bento-ppt skill to create or edit qiaomu-style bento presentations as self-contained .bento.html files from briefs, notes, r",
-  "stars": 105,
-  "forks": 8
+  "language": "Python",
+  "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+  "stars": 133,
+  "forks": 12
 }
