@@ -1,146 +1,146 @@
 [
   {
-    "repo": "microsoft/vscode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual Studio Code"
-  },
-  {
-    "repo": "yaojingang/geo-citation-lab",
-    "branch": "main",
-    "language": "Python",
-    "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations."
-  },
-  {
-    "repo": "ManimCommunity/manim",
-    "branch": "main",
-    "language": "Python",
-    "description": "A community-maintained Python framework for creating mathematical animations."
-  },
-  {
-    "repo": "ethanjyx/OpenBrand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
-  },
-  {
-    "repo": "appsail/Gemini-in-Chrome",
+    "repo": "KotlinBy/awesome-kotlin",
     "branch": "master",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "zolotukhin/zinc",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
-  },
-  {
-    "repo": "pedrohcgs/claude-code-my-workflow",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols."
-  },
-  {
-    "repo": "dogadmin/ProcIR",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "kubernetes-sigs/metrics-server",
-    "branch": "master",
-    "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
-  },
-  {
-    "repo": "gluon-framework/gluon",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
-  },
-  {
-    "repo": "SortableJS/Sortable",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
-  },
-  {
-    "repo": "scrya-com/rotorquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
-  },
-  {
-    "repo": "ytdl-org/youtube-dl",
-    "branch": "master",
-    "language": "Python",
-    "description": "Command-line program to download videos from YouTube.com and other video sites"
-  },
-  {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "total-typescript/ts-reset",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
-  },
-  {
-    "repo": "HugoRCD/evlog",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "ruanyf/weekly",
-    "branch": "master",
-    "language": "Other",
-    "description": "科技爱好者周刊，每周五发布"
-  },
-  {
-    "repo": "HsMirage/CliproxyAccountCleaner",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
-  },
-  {
-    "repo": "hao-ji-xing/openclaw-weixin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "openclaw-weixin"
-  },
-  {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
     "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
   },
   {
-    "repo": "nuxt/nuxt",
+    "repo": "viitor-ai/viitor-voice-nar",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "nhost/nhost",
+    "repo": "antfu/skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Open Source Firebase Alternative with GraphQL."
+    "description": "Anthony Fu's curated collection of agent skills."
+  },
+  {
+    "repo": "faker-js/faker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Generate massive amounts of fake data in the browser and node.js"
+  },
+  {
+    "repo": "second-state/kitten_tts_rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+  },
+  {
+    "repo": "revfactory/harness",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "repo": "nickustinov/itsypad-macos",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
+  },
+  {
+    "repo": "rohitg00/pro-workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+  },
+  {
+    "repo": "xM0kht4r/VEN0m-Ransomware",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
+  },
+  {
+    "repo": "peteromallet/dataclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "juntoku9/claude_immigration_attorney",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude code environment for laywers"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "branch": "main",
+    "language": "Go",
+    "description": "A curated list of awesome Go frameworks, libraries and software"
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
+  },
+  {
+    "repo": "adobe/react-spectrum",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+  },
+  {
+    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+  },
+  {
+    "repo": "rivet-dev/sandbox-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
+  },
+  {
+    "repo": "zhaoyue4810/pianke",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "fluentlc/claude-code-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications."
+  },
+  {
+    "repo": "Zaneham/BarraCUDA",
+    "branch": "master",
+    "language": "C",
+    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+  },
+  {
+    "repo": "b-nnett/codex-plusplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codex++ tweak system for the Codex desktop app"
+  },
+  {
+    "repo": "virgiliojr94/book-to-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+  },
+  {
+    "repo": "listyantidewi1/your-everyday-tools",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "vbhwlvbn/FL-Production-25.2.5-For-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "FL Production 25.2.5 For PC is the Producer Edition of 25.2.5. Professional DAW for music production, beatmaking, and mastering. Includes all plugins, improved performance, and low latency. Optimized for Windows 10/11."
+  },
+  {
+    "repo": "0xSero/pi-brain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "zaoan0/funf-pro-relay",
+  "repo": "joeseesun/qiaomu-bento-ppt",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 116,
-  "forks": 27
+  "language": "HTML",
+  "description": "Use the standalone qiaomu-bento-ppt skill to create or edit qiaomu-style bento presentations as self-contained .bento.html files from briefs, notes, r",
+  "stars": 105,
+  "forks": 8
 }
