@@ -1,87 +1,87 @@
 [
   {
-    "repo": "aarondfrancis/counselors",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fan out prompts to multiple AI coding agents in parallel"
-  },
-  {
-    "repo": "timethrough/xiaohei-Chrome",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "谷歌多开"
-  },
-  {
-    "repo": "verialabs/ctf-agent",
+    "repo": "jrhueiueng/Password_Manager_Safe",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+    "description": "Store and generate strong passwords, auto-fill forms. Create strong passwords, secure vault, fill login forms, and sync across devices. Secure your accounts."
   },
   {
-    "repo": "kettanaito/async-history-stack",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Arbitrary change history management in JavaScript."
-  },
-  {
-    "repo": "HKUDS/CLI-Anything",
-    "branch": "main",
-    "language": "Python",
-    "description": "CLI-Anything: Making ALL Software Agent-Native"
-  },
-  {
-    "repo": "PinchToDebug/EverythingQuickSearch",
+    "repo": "kubernetes-sigs/external-dns",
     "branch": "master",
-    "language": "C#",
-    "description": ""
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
   },
   {
-    "repo": "BlockRunAI/ClawRouter",
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "azl397985856/leetcode",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+  },
+  {
+    "repo": "bigcode-project/starcoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Home of StarCoder: fine-tuning & inference!"
+  },
+  {
+    "repo": "inputsh/awesome-linux",
+    "branch": "master",
+    "language": "Other",
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
+  },
+  {
+    "repo": "millionco/react-doctor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
+    "description": "Let coding agents diagnose and fix your React code"
   },
   {
-    "repo": "theonlyhennygod/zeroclaw",
+    "repo": "Lyy-iiis/pMF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "branch": "master",
+    "language": "Go",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "DovAmir/awesome-design-patterns",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "repo": "basketikun/infinite-canvas",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
+  },
+  {
+    "repo": "tanaer/WindowsClear",
     "branch": "main",
     "language": "Rust",
-    "description": "claw done right 🦀"
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
   },
   {
-    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
+    "repo": "HackingDave/btrpa-scan",
     "branch": "main",
     "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
-  },
-  {
-    "repo": "securo-finance/securo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
-  },
-  {
-    "repo": "antfu/skills-npm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Install agent skills from npm"
-  },
-  {
-    "repo": "idanshen/Self-Distillation",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "HugoRCD/evlog",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
+    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
   },
   {
     "repo": "lijigang/ljg-skill-explain-words",
@@ -90,57 +90,57 @@
     "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
   },
   {
-    "repo": "AMAP-ML/MathForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
-  },
-  {
-    "repo": "wavyrai/tmux-ide",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turn any project into a tmux-powered terminal IDE with a simple ide.yml"
-  },
-  {
-    "repo": "Atrix256/Thirteen",
-    "branch": "main",
-    "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
-  },
-  {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
-  },
-  {
-    "repo": "vansh-nagar/ascii-studio",
+    "repo": "joyehuang/Learn-Open-Harness",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
   },
   {
-    "repo": "simonw/rodney",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for interacting with the web"
-  },
-  {
-    "repo": "jmuncor/tokentap",
+    "repo": "tiangolo/library-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+    "description": "Library Agent Skills"
   },
   {
-    "repo": "jnMetaCode/superpowers-zh",
+    "repo": "Devvvmn/ActivSpot",
     "branch": "main",
-    "language": "Shell",
-    "description": "AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）"
+    "language": "QML",
+    "description": "My vision for a dynamic island for Hyprland"
   },
   {
-    "repo": "facebookresearch/HyperAgents",
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
     "branch": "main",
     "language": "Python",
-    "description": "Self-referential self-improving agents that can optimize for any computable task"
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+  },
+  {
+    "repo": "wbh604/UZI-Skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
+  },
+  {
+    "repo": "pattieatengco27671636211/kms-pico-latest-m4",
+    "branch": "main",
+    "language": "C#",
+    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
+  },
+  {
+    "repo": "hanxiao/dataroom",
+    "branch": "main",
+    "language": "Python",
+    "description": "Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4."
+  },
+  {
+    "repo": "dotcl/dotcl",
+    "branch": "master",
+    "language": "C#",
+    "description": ""
   }
 ]
