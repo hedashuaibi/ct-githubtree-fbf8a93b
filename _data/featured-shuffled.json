@@ -1,15 +1,69 @@
 [
   {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "repo": "tqdm/tqdm",
+    "branch": "master",
+    "language": "Python",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
   },
   {
-    "repo": "texel-org/windfoil",
+    "repo": "Mufeedvh/Code2Prompt",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes"
+    "language": "Rust",
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+  },
+  {
+    "repo": "gavamedia/deltafin",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents."
+  },
+  {
+    "repo": "Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-survive and ESP trainer for 99 Nights in the Forest, the biggest horror breakout of 2026 with 400K+ concurrent players[reference:12]. Survive the forest with auto-heal, monster ESP, and unlimited resources."
+  },
+  {
+    "repo": "flebonan/WeatherMaster",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A Weather app for android with multiple sources 🌦🌞☔"
+  },
+  {
+    "repo": "Ivanro309/Path_of_Exile_Auto-Farm___Loot_Filter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, loot filter, and currency bot for Path of Exile. Farm maps, filter valuable items, and auto-trade."
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "mistydew/tokenicode-deepseek-alpha",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
+  },
+  {
+    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
+    "branch": "main",
+    "language": "Python",
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
+  },
+  {
+    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
     "repo": "JimLiu/science-skills",
@@ -18,40 +72,22 @@
     "description": ""
   },
   {
-    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
+    "repo": "ma7mod7/Honkai_Star_Rail_Auto-Farm",
     "branch": "main",
     "language": "Python",
-    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
+    "description": "Auto-farm, auto-battle, and relic farming for Honkai Star Rail. Farm materials, level up characters, and complete simulated universe."
   },
   {
-    "repo": "bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
+    "repo": "YousefMahdy1/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "The ultimate auto-farm and raid script for Blox Fruits, the anime-inspired action RPG with 62+ billion visits[reference:9]. Inspired by One Piece, this trainer offers deep progression, auto-farming, and boss hunting."
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "mariusboiti/Clipboard_Sync",
+    "repo": "haowang02/codex-candy-eval",
     "branch": "main",
     "language": "Python",
-    "description": "Sync clipboard content across multiple devices (PC, Android, iOS) via cloud. Share text, images, and files instantly."
-  },
-  {
-    "repo": "DenisSergeevitch/pole-chudes-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte."
-  },
-  {
-    "repo": "jeunenomade16-sudo/Dead_Rails_-_Auto-Survive___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-survive and ESP for Dead Rails, the trending horror game[reference:34]. See all threats through walls, auto-heal, and survive the rails."
-  },
-  {
-    "repo": "ccrpRepo/robot_retargeter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots."
+    "description": "Codex 降智测试"
   },
   {
     "repo": "FOGames/Jujitsu_Shenanigans_-_Auto-Farm___Aimbot",
@@ -60,87 +96,51 @@
     "description": "Auto-farm and aimbot for Jujitsu Shenanigans, the anime fighting game[reference:48]. Farm XP, unlock all moves, and dominate PvP."
   },
   {
-    "repo": "omnigent-ai/omnigent",
+    "repo": "Abdul-Basit-SF/ISO_Burner___Creator",
     "branch": "main",
     "language": "Python",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device."
+    "description": "Burn ISO files to USB or DVD, and create ISO images from folders. Make bootable drives for Windows/Linux installations."
   },
   {
-    "repo": "31harihhh-jkn/DNS_Benchmark_Tool",
+    "repo": "Maset22/Instagram_Hashtag_Generator___Scheduler",
     "branch": "main",
     "language": "Python",
-    "description": "Test and benchmark DNS servers to find the fastest one for your location. Improve your internet browsing speed."
+    "description": "Generate relevant hashtags for Instagram and schedule them with your posts. Improve your reach and engagement."
   },
   {
-    "repo": "charlesdhon/Destiny_2_Unlimited_Glimmer___Supers",
+    "repo": "Snaplii-Inc/agent-to-merchant-payments",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited glimmer, all weapons, and infinite supers for Destiny 2. Max currency, unlock all weapons, and always have super abilities."
+    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
   },
   {
-    "repo": "prathoshap/vagdhenu",
+    "repo": "simonmakzon/GitDeepSearch",
     "branch": "main",
-    "language": "Python",
-    "description": "Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0."
+    "language": "JavaScript",
+    "description": "GitDeepSearch - Deep search repository"
   },
   {
-    "repo": "rjsdl56/All_Star_Tower_Defense_-_Auto-Place___Auto-Farm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-place and auto-farm for All Star Tower Defense, the anime tower defense game with 7.8 billion visits[reference:26]. Automatically place and upgrade towers, farm gems, and beat every wave."
-  },
-  {
-    "repo": "gajus/zod-compiler",
+    "repo": "MalcolmMcGough/polymarket-trading-bot-scalping",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc"
+    "description": "A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute and 15-minute Up/Down markets on XRP, BNB, ETH, SOL, BTC, and DOGE. Built around a crowd-momentum confirmation strategy rather than news prediction, latency arbitrage, or pure arbitrage."
   },
   {
-    "repo": "buynao/aipath",
+    "repo": "BoundingBoxSoftware/CharacterController",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+    "language": "C#",
+    "description": "A character controller for Unity that covers many edge cases."
   },
   {
-    "repo": "skydoves/compose-nav-graph",
+    "repo": "willchen96/mike",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions."
+    "language": "TypeScript",
+    "description": "OSS AI Legal Platform"
   },
   {
-    "repo": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included."
-  },
-  {
-    "repo": "khwarij/DBD-AutoGrind-Trainer-2026-Mega",
+    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026-Max",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "diinki/linux-antiquity",
-    "branch": "main",
-    "language": "QML",
-    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
-  },
-  {
-    "repo": "MemNixFS/MemNixFS",
-    "branch": "main",
-    "language": "C++",
-    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
-  },
-  {
-    "repo": "V-IOLE-T/hotmail-register-extension",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
-  },
-  {
-    "repo": "6-robot/jie_3d_nav",
-    "branch": "main",
-    "language": "Python",
-    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   }
 ]
