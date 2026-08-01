@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jrhueiueng/Password_Manager_Safe",
+    "repo": "deedy/qr-data-transfer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "invertase/react-native-firebase",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "SafeRL-Lab/nano-claude-code",
     "branch": "main",
     "language": "Python",
-    "description": "Store and generate strong passwords, auto-fill forms. Create strong passwords, secure vault, fill login forms, and sync across devices. Secure your accounts."
+    "description": "Nano Claude Code: A Fast, Easy-to-Use Python Reimplementation of Claude Code Supporting Any Model."
   },
   {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
+    "repo": "Zouuup/landrun",
+    "branch": "main",
     "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
   },
   {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
+    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
+  },
+  {
+    "repo": "lightningpixel/modly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+  },
+  {
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "branch": "main",
     "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   },
   {
-    "repo": "azl397985856/leetcode",
+    "repo": "nagisanzenin/skyclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+  },
+  {
+    "repo": "mli55/pdfdelta",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "bddicken/tuitter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "tuitter"
+  },
+  {
+    "repo": "MichMich/MagicMirror",
     "branch": "master",
     "language": "JavaScript",
-    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
   },
   {
-    "repo": "bigcode-project/starcoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
-  },
-  {
-    "repo": "inputsh/awesome-linux",
-    "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
-  },
-  {
-    "repo": "millionco/react-doctor",
+    "repo": "yasasbanukaofficial/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
   },
   {
-    "repo": "Lyy-iiis/pMF",
+    "repo": "encoredev/encore",
     "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "seaweedfs/seaweedfs",
-    "branch": "master",
     "language": "Go",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
   },
   {
-    "repo": "vercel/hyper",
+    "repo": "appwrite/appwrite",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A terminal built on web technologies"
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "DovAmir/awesome-design-patterns",
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of software and architecture related design patterns."
+    "language": "Python",
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
   },
   {
-    "repo": "basketikun/infinite-canvas",
+    "repo": "aave/aave-v3-core",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
+  },
+  {
+    "repo": "k2-fsa/OmniVoice",
+    "branch": "master",
+    "language": "Python",
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+  },
+  {
+    "repo": "material-components/material-components-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
+  },
+  {
+    "repo": "michelleoincx/genspark.ai-openclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
+    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
   },
   {
-    "repo": "tanaer/WindowsClear",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
-  },
-  {
-    "repo": "HackingDave/btrpa-scan",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
-  },
-  {
-    "repo": "lijigang/ljg-skill-explain-words",
+    "repo": "yarnpkg/berry",
     "branch": "master",
-    "language": "HTML",
-    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
+    "language": "TypeScript",
+    "description": "📦🐈 Active development trunk for Yarn ⚒"
   },
   {
-    "repo": "joyehuang/Learn-Open-Harness",
+    "repo": "TianyiDataScience/openclaw-control-center",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
-  },
-  {
-    "repo": "tiangolo/library-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Library Agent Skills"
-  },
-  {
-    "repo": "Devvvmn/ActivSpot",
-    "branch": "main",
-    "language": "QML",
-    "description": "My vision for a dynamic island for Hyprland"
-  },
-  {
-    "repo": "karpathy/nanoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
-  },
-  {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
-  },
-  {
-    "repo": "wbh604/UZI-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
-  },
-  {
-    "repo": "pattieatengco27671636211/kms-pico-latest-m4",
-    "branch": "main",
-    "language": "C#",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
-  },
-  {
-    "repo": "hanxiao/dataroom",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4."
-  },
-  {
-    "repo": "dotcl/dotcl",
-    "branch": "master",
-    "language": "C#",
     "description": ""
+  },
+  {
+    "repo": "777genius/claude-code-source-code-full",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Full source repository for Claude Code source code"
   }
 ]
