@@ -1,146 +1,146 @@
 [
   {
-    "repo": "deedy/qr-data-transfer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "invertase/react-native-firebase",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
-  },
-  {
-    "repo": "SafeRL-Lab/nano-claude-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Nano Claude Code: A Fast, Easy-to-Use Python Reimplementation of Claude Code Supporting Any Model."
-  },
-  {
-    "repo": "Zouuup/landrun",
-    "branch": "main",
-    "language": "Go",
-    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
-  },
-  {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
-  },
-  {
-    "repo": "lightningpixel/modly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
-  },
-  {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "rust-lang/rustlings",
+    "repo": "GreatScott/enveil",
     "branch": "main",
     "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
+    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
   },
   {
-    "repo": "nagisanzenin/skyclaw",
+    "repo": "yifangao112/Camyla",
     "branch": "main",
-    "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+    "language": "Python",
+    "description": "Scaling Autonomous Research in Medical Image Segmentation"
   },
   {
-    "repo": "mli55/pdfdelta",
+    "repo": "timwuhaotian/the-pair",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
+  },
+  {
+    "repo": "SamNet-dev/conduit-manager",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+  },
+  {
+    "repo": "apkclaw-team/ApkClaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "android-bench/android-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "xgen-universe/Capybara",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "bddicken/tuitter",
+    "repo": "ddperso/Password_Generator",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "tuitter"
+    "language": "Python",
+    "description": "Generate strong, random passwords with custom length and character sets. Create secure passwords for all your accounts."
   },
   {
-    "repo": "MichMich/MagicMirror",
+    "repo": "abhinavkale-dev/fynt",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+    "language": "TypeScript",
+    "description": "Self-hostable workflow automation platform"
   },
   {
-    "repo": "yasasbanukaofficial/claude-code",
+    "repo": "op7418/guizang-ppt-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
+  },
+  {
+    "repo": "NateBJones-Projects/OB1",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
   },
   {
-    "repo": "encoredev/encore",
+    "repo": "IAmUnbounded/devctx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+  },
+  {
+    "repo": "EmGi96/TrailPrint3D",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "IRNova/NovaRadar",
     "branch": "main",
     "language": "Go",
-    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group."
   },
   {
-    "repo": "appwrite/appwrite",
+    "repo": "Garume/Manifold",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "language": "C#",
+    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
   },
   {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
-    "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
-  },
-  {
-    "repo": "aave/aave-v3-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
-  },
-  {
-    "repo": "k2-fsa/OmniVoice",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
-  },
-  {
-    "repo": "material-components/material-components-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Modular and customizable Material Design UI components for Android"
-  },
-  {
-    "repo": "michelleoincx/genspark.ai-openclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
-  },
-  {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
-  },
-  {
-    "repo": "TianyiDataScience/openclaw-control-center",
+    "repo": "basketikun/chatgpt2api",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "777genius/claude-code-source-code-full",
+    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
+  },
+  {
+    "repo": "0xsouravm/oxichrome",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+  },
+  {
+    "repo": "edmicho/mm-probe-kit",
+    "branch": "main",
+    "language": "Python",
+    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
+  },
+  {
+    "repo": "ProxyShard/ShardBrowser",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Full source repository for Claude Code source code"
+    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5."
+  },
+  {
+    "repo": "dou-jiang/codex-console",
+    "branch": "main",
+    "language": "Python",
+    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
+  },
+  {
+    "repo": "freestylefly/openclaw-wechat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "open-gsd/get-shit-done-redux",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Getting Shit Done, the Aftermath"
+  },
+  {
+    "repo": "grayashh/buddy-reroll",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo"
   }
 ]
