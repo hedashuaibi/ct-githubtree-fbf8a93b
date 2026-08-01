@@ -1,8 +1,8 @@
 {
-  "repo": "ahmedemad3/arch-wiki",
+  "repo": "l00sed/termixer",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 105,
-  "forks": 13
+  "language": "Rust",
+  "description": "A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
+  "stars": 142,
+  "forks": 6
 }

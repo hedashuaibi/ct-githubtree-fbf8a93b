@@ -1,146 +1,146 @@
 [
   {
-    "repo": "GreatScott/enveil",
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
     "branch": "main",
     "language": "Rust",
-    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "yifangao112/Camyla",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scaling Autonomous Research in Medical Image Segmentation"
-  },
-  {
-    "repo": "timwuhaotian/the-pair",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
-  },
-  {
-    "repo": "SamNet-dev/conduit-manager",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
-  },
-  {
-    "repo": "apkclaw-team/ApkClaw",
-    "branch": "main",
-    "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "android-bench/android-bench",
+    "repo": "texel-org/windfoil",
     "branch": "main",
-    "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+    "language": "JavaScript",
+    "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes"
   },
   {
-    "repo": "xgen-universe/Capybara",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ddperso/Password_Generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate strong, random passwords with custom length and character sets. Create secure passwords for all your accounts."
-  },
-  {
-    "repo": "abhinavkale-dev/fynt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Self-hostable workflow automation platform"
-  },
-  {
-    "repo": "op7418/guizang-ppt-skill",
+    "repo": "JimLiu/science-skills",
     "branch": "main",
     "language": "HTML",
-    "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
-  },
-  {
-    "repo": "NateBJones-Projects/OB1",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
-  },
-  {
-    "repo": "IAmUnbounded/devctx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
-  },
-  {
-    "repo": "EmGi96/TrailPrint3D",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "IRNova/NovaRadar",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group."
-  },
-  {
-    "repo": "Garume/Manifold",
-    "branch": "main",
-    "language": "C#",
-    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
-  },
-  {
-    "repo": "basketikun/chatgpt2api",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
-  },
-  {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "edmicho/mm-probe-kit",
+    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
+    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
   },
   {
-    "repo": "ProxyShard/ShardBrowser",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5."
-  },
-  {
-    "repo": "dou-jiang/codex-console",
+    "repo": "bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
     "branch": "main",
     "language": "Python",
-    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
+    "description": "The ultimate auto-farm and raid script for Blox Fruits, the anime-inspired action RPG with 62+ billion visits[reference:9]. Inspired by One Piece, this trainer offers deep progression, auto-farming, and boss hunting."
   },
   {
-    "repo": "freestylefly/openclaw-wechat",
-    "branch": "master",
+    "repo": "mariusboiti/Clipboard_Sync",
+    "branch": "main",
+    "language": "Python",
+    "description": "Sync clipboard content across multiple devices (PC, Android, iOS) via cloud. Share text, images, and files instantly."
+  },
+  {
+    "repo": "DenisSergeevitch/pole-chudes-2",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
+    "description": "Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte."
   },
   {
-    "repo": "open-gsd/get-shit-done-redux",
+    "repo": "jeunenomade16-sudo/Dead_Rails_-_Auto-Survive___ESP",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Getting Shit Done, the Aftermath"
+    "language": "Python",
+    "description": "Auto-survive and ESP for Dead Rails, the trending horror game[reference:34]. See all threats through walls, auto-heal, and survive the rails."
   },
   {
-    "repo": "grayashh/buddy-reroll",
+    "repo": "ccrpRepo/robot_retargeter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots."
+  },
+  {
+    "repo": "FOGames/Jujitsu_Shenanigans_-_Auto-Farm___Aimbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm and aimbot for Jujitsu Shenanigans, the anime fighting game[reference:48]. Farm XP, unlock all moves, and dominate PvP."
+  },
+  {
+    "repo": "omnigent-ai/omnigent",
+    "branch": "main",
+    "language": "Python",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device."
+  },
+  {
+    "repo": "31harihhh-jkn/DNS_Benchmark_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Test and benchmark DNS servers to find the fastest one for your location. Improve your internet browsing speed."
+  },
+  {
+    "repo": "charlesdhon/Destiny_2_Unlimited_Glimmer___Supers",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited glimmer, all weapons, and infinite supers for Destiny 2. Max currency, unlock all weapons, and always have super abilities."
+  },
+  {
+    "repo": "prathoshap/vagdhenu",
+    "branch": "main",
+    "language": "Python",
+    "description": "Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0."
+  },
+  {
+    "repo": "rjsdl56/All_Star_Tower_Defense_-_Auto-Place___Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-place and auto-farm for All Star Tower Defense, the anime tower defense game with 7.8 billion visits[reference:26]. Automatically place and upgrade towers, farm gems, and beat every wave."
+  },
+  {
+    "repo": "gajus/zod-compiler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc"
+  },
+  {
+    "repo": "buynao/aipath",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo"
+    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+  },
+  {
+    "repo": "skydoves/compose-nav-graph",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions."
+  },
+  {
+    "repo": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included."
+  },
+  {
+    "repo": "khwarij/DBD-AutoGrind-Trainer-2026-Mega",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "diinki/linux-antiquity",
+    "branch": "main",
+    "language": "QML",
+    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
+  },
+  {
+    "repo": "MemNixFS/MemNixFS",
+    "branch": "main",
+    "language": "C++",
+    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
+  },
+  {
+    "repo": "V-IOLE-T/hotmail-register-extension",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+  },
+  {
+    "repo": "6-robot/jie_3d_nav",
+    "branch": "main",
+    "language": "Python",
+    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
   }
 ]
