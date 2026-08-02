@@ -1,8 +1,8 @@
 {
-  "repo": "FrontisAI/OpenRSI",
+  "repo": "brookfacehe2421/flashloan-scalper-bot",
   "branch": "main",
-  "language": "Python",
-  "description": "Executable, measurable, and reproducible AI4AI toward recursive self-improvement. Home of OpenMLE and Frontis-MA1.",
-  "stars": 105,
-  "forks": 2
+  "language": "JavaScript",
+  "description": "Quick profit scalper using flashloan mechanics",
+  "stars": 133,
+  "forks": 95
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ni5arga/deanonymizer",
+    "repo": "H-EmbodVis/TurboVLA",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Deanonymize anyone based on their public commenting or posting history & pattern."
+    "language": "Python",
+    "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM"
   },
   {
-    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "repo": "DanOps-1/gpt-pp-team",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "repo": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
     "branch": "main",
     "language": "C++",
-    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support."
   },
   {
-    "repo": "manyougz/velotype",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡"
-  },
-  {
-    "repo": "python-telegramBot/ai-auto-trading",
+    "repo": "QingJ01/DeepSeekCode",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy"
+    "description": "基于 Claude Code 代码库改造的本地 CLI 编程代理"
   },
   {
-    "repo": "Runtime-Trade-Systems/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket trading bot polymarket trading bot Polymarket trading bot trading bot"
-  },
-  {
-    "repo": "nostrband/ServiceGraph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
-  },
-  {
-    "repo": "benja-dev-lab/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "JeanDupuis68/polymarket-arbitrage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo"
-  },
-  {
-    "repo": "EnsignKazekage/Prodigy-Hacks",
-    "branch": "main",
-    "language": "Python",
-    "description": "Prodigymathgamehacking || prodigy hacks || prodigymathgame"
-  },
-  {
-    "repo": "alvinunreal/claude-pets",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup."
-  },
-  {
-    "repo": "Deesama22/FiveM-Steam-Edition",
+    "repo": "BJTUpupil/AscendFHE",
     "branch": "main",
     "language": "C++",
-    "description": "FiveM download GTA 5 RP roleplay scripts ESX QB-Core client launcher MLO EUP custom cars maps mods servers assets resources multiplayer gameplay."
-  },
-  {
-    "repo": "0xMohammedHassan/morphkatz",
-    "branch": "main",
-    "language": "C++",
-    "description": "Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-different variants"
-  },
-  {
-    "repo": "lightseekorg/tokenspeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "TokenSpeed is a speed-of-light LLM inference engine."
-  },
-  {
-    "repo": "Binarylunanotice/blooket",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "blooket gui || blooket || blooket api"
-  },
-  {
-    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
-    "branch": "main",
-    "language": "Java",
-    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
-  },
-  {
-    "repo": "shannhk/hermes-agent-control-room",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
-  },
-  {
-    "repo": "evilsocket/audit",
-    "branch": "main",
-    "language": "Python",
-    "description": "An 8-stage vulnerability-discovery agent."
-  },
-  {
-    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
-    "branch": "main",
-    "language": "C#",
-    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
-  },
-  {
-    "repo": "lynote-ai/humanize-text",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
-  },
-  {
-    "repo": "GordenSun/LearningCell",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "细胞3D模型展示"
-  },
-  {
-    "repo": "zoyluoblue/mc_aiplayer",
-    "branch": "main",
-    "language": "Java",
     "description": ""
   },
   {
-    "repo": "scosman/cursed_browser",
+    "repo": "anjelisembiring651624/Lossless-Scaling-Util-V2.0",
+    "branch": "main",
+    "language": "C#",
+    "description": "A standalone utility to configure, optimize, and unlock lossless frame generation and scaling features for any 3D application or game."
+  },
+  {
+    "repo": "kitft/natural_language_autoencoders",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ltyzen/KMSAutoTool",
+    "branch": "main",
+    "language": "C++",
+    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool."
+  },
+  {
+    "repo": "v12-security/pocs",
+    "branch": "main",
+    "language": "C",
+    "description": "poc it like it's hot"
+  },
+  {
+    "repo": "gelo1231/Pokemon-Pokopia-For-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Pokemon Pokopia PC download fan game RPG Maker Essentials Pokedex battles trainers gym leaders shiny hunting mega evolution regional forms breeding evolution items legendaries starter pokemon custom sprites native port controller support save editor fullscreen widescreen windowed mode textures sprites maps quests NPC dialogs inventory box s"
+  },
+  {
+    "repo": "Blueemi/codex-eu-patcher",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "maria-rcks/miri",
     "branch": "main",
     "language": "Swift",
-    "description": "A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page."
+    "description": "Niri-ish, keyboard-first window manager for macOS."
   },
   {
-    "repo": "skydoves/compose-animations",
+    "repo": "PanisHandsome/ai-rules-sync",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "⚡️ A collection of Jetpack Compose animations for the best practices. Tweak literals at the top of any file, save, and watch the motion morph in real-time."
+    "language": "JavaScript",
+    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies."
   },
   {
-    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "repo": "denuitt1/mhr-cfw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+  },
+  {
+    "repo": "open-gsd/gsd-pi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "GordenSun/CuiMao",
+    "branch": "main",
+    "language": "HTML",
+    "description": "眼睛跟着鼠标旋转。"
+  },
+  {
+    "repo": "Doryoku1223/lunwen-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
+  },
+  {
+    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+  },
+  {
+    "repo": "boona13/glb-shrink",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "cH1LLa/Photoshop-v27.6",
+    "branch": "main",
+    "language": "C++",
+    "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build"
+  },
+  {
+    "repo": "matthart1983/syswatch",
     "branch": "main",
     "language": "Rust",
-    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+    "description": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
+  },
+  {
+    "repo": "tolibear/goal-maker",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Supercharge Codex Goals"
+  },
+  {
+    "repo": "Fullive-AI/Anima",
+    "branch": "main",
+    "language": "Python",
+    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
   }
 ]
