@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tqdm/tqdm",
-    "branch": "master",
-    "language": "Python",
-    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
-  },
-  {
-    "repo": "Mufeedvh/Code2Prompt",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
-  },
-  {
-    "repo": "gavamedia/deltafin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents."
-  },
-  {
-    "repo": "Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-survive and ESP trainer for 99 Nights in the Forest, the biggest horror breakout of 2026 with 400K+ concurrent players[reference:12]. Survive the forest with auto-heal, monster ESP, and unlimited resources."
-  },
-  {
-    "repo": "flebonan/WeatherMaster",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "A Weather app for android with multiple sources 🌦🌞☔"
-  },
-  {
-    "repo": "Ivanro309/Path_of_Exile_Auto-Farm___Loot_Filter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm, loot filter, and currency bot for Path of Exile. Farm maps, filter valuable items, and auto-trade."
-  },
-  {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "mistydew/tokenicode-deepseek-alpha",
+    "repo": "ni5arga/deanonymizer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
+    "description": "Deanonymize anyone based on their public commenting or posting history & pattern."
   },
   {
-    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
+    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+  },
+  {
+    "repo": "manyougz/velotype",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡"
+  },
+  {
+    "repo": "python-telegramBot/ai-auto-trading",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy"
+  },
+  {
+    "repo": "Runtime-Trade-Systems/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket trading bot polymarket trading bot Polymarket trading bot trading bot"
+  },
+  {
+    "repo": "nostrband/ServiceGraph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
+  },
+  {
+    "repo": "benja-dev-lab/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "JeanDupuis68/polymarket-arbitrage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo"
+  },
+  {
+    "repo": "EnsignKazekage/Prodigy-Hacks",
     "branch": "main",
     "language": "Python",
-    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
+    "description": "Prodigymathgamehacking || prodigy hacks || prodigymathgame"
   },
   {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "alvinunreal/claude-pets",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup."
+  },
+  {
+    "repo": "Deesama22/FiveM-Steam-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "FiveM download GTA 5 RP roleplay scripts ESX QB-Core client launcher MLO EUP custom cars maps mods servers assets resources multiplayer gameplay."
+  },
+  {
+    "repo": "0xMohammedHassan/morphkatz",
+    "branch": "main",
+    "language": "C++",
+    "description": "Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-different variants"
+  },
+  {
+    "repo": "lightseekorg/tokenspeed",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "TokenSpeed is a speed-of-light LLM inference engine."
   },
   {
-    "repo": "JimLiu/science-skills",
+    "repo": "Binarylunanotice/blooket",
     "branch": "main",
-    "language": "HTML",
+    "language": "JavaScript",
+    "description": "blooket gui || blooket || blooket api"
+  },
+  {
+    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+    "branch": "main",
+    "language": "Java",
+    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
+  },
+  {
+    "repo": "shannhk/hermes-agent-control-room",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
+  },
+  {
+    "repo": "evilsocket/audit",
+    "branch": "main",
+    "language": "Python",
+    "description": "An 8-stage vulnerability-discovery agent."
+  },
+  {
+    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
+    "branch": "main",
+    "language": "C#",
+    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
+  },
+  {
+    "repo": "lynote-ai/humanize-text",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
+  },
+  {
+    "repo": "GordenSun/LearningCell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "细胞3D模型展示"
+  },
+  {
+    "repo": "zoyluoblue/mc_aiplayer",
+    "branch": "main",
+    "language": "Java",
     "description": ""
   },
   {
-    "repo": "ma7mod7/Honkai_Star_Rail_Auto-Farm",
+    "repo": "scosman/cursed_browser",
     "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm, auto-battle, and relic farming for Honkai Star Rail. Farm materials, level up characters, and complete simulated universe."
+    "language": "Swift",
+    "description": "A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page."
   },
   {
-    "repo": "YousefMahdy1/DBD-AutoGrind-Trainer-2026",
+    "repo": "skydoves/compose-animations",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "Kotlin",
+    "description": "⚡️ A collection of Jetpack Compose animations for the best practices. Tweak literals at the top of any file, save, and watch the motion morph in real-time."
   },
   {
-    "repo": "haowang02/codex-candy-eval",
+    "repo": "DeepSeek-TUI/DeepSeek-TUI",
     "branch": "main",
-    "language": "Python",
-    "description": "Codex 降智测试"
-  },
-  {
-    "repo": "FOGames/Jujitsu_Shenanigans_-_Auto-Farm___Aimbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm and aimbot for Jujitsu Shenanigans, the anime fighting game[reference:48]. Farm XP, unlock all moves, and dominate PvP."
-  },
-  {
-    "repo": "Abdul-Basit-SF/ISO_Burner___Creator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Burn ISO files to USB or DVD, and create ISO images from folders. Make bootable drives for Windows/Linux installations."
-  },
-  {
-    "repo": "Maset22/Instagram_Hashtag_Generator___Scheduler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate relevant hashtags for Instagram and schedule them with your posts. Improve your reach and engagement."
-  },
-  {
-    "repo": "Snaplii-Inc/agent-to-merchant-payments",
-    "branch": "main",
-    "language": "Python",
-    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
-  },
-  {
-    "repo": "simonmakzon/GitDeepSearch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "GitDeepSearch - Deep search repository"
-  },
-  {
-    "repo": "MalcolmMcGough/polymarket-trading-bot-scalping",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute and 15-minute Up/Down markets on XRP, BNB, ETH, SOL, BTC, and DOGE. Built around a crowd-momentum confirmation strategy rather than news prediction, latency arbitrage, or pure arbitrage."
-  },
-  {
-    "repo": "BoundingBoxSoftware/CharacterController",
-    "branch": "main",
-    "language": "C#",
-    "description": "A character controller for Unity that covers many edge cases."
-  },
-  {
-    "repo": "willchen96/mike",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OSS AI Legal Platform"
-  },
-  {
-    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "Rust",
+    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
   }
 ]

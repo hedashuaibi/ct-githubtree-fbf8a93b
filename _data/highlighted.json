@@ -1,8 +1,8 @@
 {
-  "repo": "lixooo00-lab/mingruis-miya",
+  "repo": "FrontisAI/OpenRSI",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A featured project on GitHubTree.",
-  "stars": 126,
-  "forks": 399
+  "language": "Python",
+  "description": "Executable, measurable, and reproducible AI4AI toward recursive self-improvement. Home of OpenMLE and Frontis-MA1.",
+  "stars": 105,
+  "forks": 2
 }
