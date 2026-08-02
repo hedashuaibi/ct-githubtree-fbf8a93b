@@ -1,146 +1,146 @@
 [
   {
-    "repo": "amneziawg-mikrotik/awg-proxy",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "pyinvoke/invoke",
+    "repo": "World-Open-Graph/br-acc",
     "branch": "main",
     "language": "Python",
-    "description": "Pythonic task management & command execution."
+    "description": "World Transparency Graph public codebase"
   },
   {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
-    "branch": "main",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Echo",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
-  },
-  {
-    "repo": "sweriko/ai4anim-webgpu",
+    "repo": "openperf/openclaw-cloud",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
   },
   {
-    "repo": "sazardev/shiki",
+    "repo": "h9zdev/WireTapper",
     "branch": "main",
-    "language": "Rust",
-    "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search."
+    "language": "HTML",
+    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
   },
   {
-    "repo": "ni5arga/deanonymizer",
+    "repo": "okooo5km/Skills4U",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Deanonymize anyone based on their public commenting or posting history & pattern."
+    "language": "TeX",
+    "description": "Skills here"
   },
   {
-    "repo": "0xABCD01/CVE-2026-41089",
-    "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
-  },
-  {
-    "repo": "GumbyEnder/hermes-kanban",
+    "repo": "ColeMurray/background-agents",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A dedicated Obsidian plugin + Hermes skill that turns Hermes into an autonomous project executor using Kanban boards inside your Obsidian vault."
+    "description": "An open-source background agent coding system"
   },
   {
-    "repo": "earthtojake/text-to-cad",
+    "repo": "marswei/seaseed-clawerse",
     "branch": "main",
     "language": "JavaScript",
-    "description": "An open source harness for generating CAD models"
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
   },
   {
-    "repo": "NullLatency/FlowDriver",
-    "branch": "master",
-    "language": "Go",
-    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
-  },
-  {
-    "repo": "LiteLLM-Labs/litellm-rust",
+    "repo": "lailoo/butcher-wiki",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A minimal Rust gateway built for coding agents (LiteLLM-Compatible)"
+    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
   },
   {
-    "repo": "thClaws/thClaws",
+    "repo": "elder-plinius/OBLITERATUS",
+    "branch": "main",
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
+  },
+  {
+    "repo": "ysharma3501/LavaSR",
+    "branch": "main",
+    "language": "Python",
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+  },
+  {
+    "repo": "HBAI-Ltd/Toonflow-app",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+  },
+  {
+    "repo": "RayceAnderson/tomodachi-pc",
+    "branch": "main",
+    "language": "C#",
+    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
+  },
+  {
+    "repo": "googleworkspace/cli",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
   },
   {
-    "repo": "edmicho/mm-probe-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
-  },
-  {
-    "repo": "perplexityai/bumblebee",
-    "branch": "main",
-    "language": "Go",
-    "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
-  },
-  {
-    "repo": "SzeDaSa/Tomodachi-Share-Mii",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tomodachi Share: Mii community hub. Share QR codes, export characters, import island data. Social multiplayer features, StreetPass relay, furniture swap, friendship statistics. Photo gallery, item gifting, save transfer, SpotPass online, Miiverse revival, collective island news, Mii library."
-  },
-  {
-    "repo": "antigravity-cli-google/antigravity-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "google antigravity cli ide github agentic development platform gemini 3.5 flash terminal ai agent automatic coding workspace installation guide tutorial windows mac linux"
-  },
-  {
-    "repo": "kiwifs/kiwifs",
-    "branch": "main",
-    "language": "Go",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config."
-  },
-  {
-    "repo": "seochecks-ai/slopless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown"
-  },
-  {
-    "repo": "yzhao062/agent-style",
-    "branch": "main",
-    "language": "Python",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro."
-  },
-  {
-    "repo": "l3gi0nXXXX/Metis-agent",
-    "branch": "main",
-    "language": "Cangjie",
-    "description": ""
-  },
-  {
-    "repo": "cosmicstack-labs/mercury-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
-  },
-  {
-    "repo": "intave/intave",
+    "repo": "shanselman/MaximizeToVirtualDesktop",
     "branch": "master",
-    "language": "Java",
-    "description": "Intave is an enterprise, high-performance anticheat for Minecraft built on years of experience protecting the world's largest servers"
+    "language": "C#",
+    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
   },
   {
-    "repo": "avaco-cloud/Vercel-XHTTP",
+    "repo": "anadim/AdderBoard",
+    "branch": "main",
+    "language": "Python",
+    "description": "Smallest transformer that can add two 10-digit numbers"
+  },
+  {
+    "repo": "GHJJ123/brainrotguard",
+    "branch": "main",
+    "language": "Python",
+    "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI"
+  },
+  {
+    "repo": "SethGammon/Citadel",
     "branch": "main",
     "language": "JavaScript",
-    "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "datawhalechina/hello-claw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾"
+  },
+  {
+    "repo": "ethanweber/posterskill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-assisted academic posters."
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "JudyaiLab/ai-night-shift",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+  },
+  {
+    "repo": "steveclarke/real-world-rails",
+    "branch": "main",
+    "language": "Shell",
+    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
+  },
+  {
+    "repo": "antfu/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Anthony Fu's curated collection of agent skills."
+  },
+  {
+    "repo": "xiaguan/pegainfer",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Pure Rust + CUDA LLM inference engine"
   }
 ]
