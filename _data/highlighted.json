@@ -1,8 +1,8 @@
 {
-  "repo": "brookfacehe2421/flashloan-scalper-bot",
+  "repo": "shuaiplus/inkstone",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Quick profit scalper using flashloan mechanics",
-  "stars": 133,
-  "forks": 95
+  "language": "TypeScript",
+  "description": "A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.",
+  "stars": 118,
+  "forks": 92
 }
