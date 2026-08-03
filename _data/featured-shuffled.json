@@ -1,146 +1,146 @@
 [
   {
-    "repo": "World-Open-Graph/br-acc",
+    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
     "branch": "main",
-    "language": "Python",
-    "description": "World Transparency Graph public codebase"
+    "language": "C++",
+    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
   },
   {
-    "repo": "openperf/openclaw-cloud",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
-  },
-  {
-    "repo": "h9zdev/WireTapper",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
-  },
-  {
-    "repo": "okooo5km/Skills4U",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
-  },
-  {
-    "repo": "ColeMurray/background-agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
-  },
-  {
-    "repo": "marswei/seaseed-clawerse",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
-  },
-  {
-    "repo": "lailoo/butcher-wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
-  },
-  {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
-  },
-  {
-    "repo": "ysharma3501/LavaSR",
-    "branch": "main",
-    "language": "Python",
-    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
-  },
-  {
-    "repo": "HBAI-Ltd/Toonflow-app",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
-  },
-  {
-    "repo": "phuryn/pm-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
-  },
-  {
-    "repo": "RayceAnderson/tomodachi-pc",
-    "branch": "main",
-    "language": "C#",
-    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
-  },
-  {
-    "repo": "googleworkspace/cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
-  },
-  {
-    "repo": "shanselman/MaximizeToVirtualDesktop",
-    "branch": "master",
-    "language": "C#",
-    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
-  },
-  {
-    "repo": "anadim/AdderBoard",
-    "branch": "main",
-    "language": "Python",
-    "description": "Smallest transformer that can add two 10-digit numbers"
-  },
-  {
-    "repo": "GHJJ123/brainrotguard",
-    "branch": "main",
-    "language": "Python",
-    "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI"
-  },
-  {
-    "repo": "SethGammon/Citadel",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
-  },
-  {
-    "repo": "datawhalechina/hello-claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾"
-  },
-  {
-    "repo": "ethanweber/posterskill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-assisted academic posters."
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
-  },
-  {
-    "repo": "JudyaiLab/ai-night-shift",
+    "repo": "krisrice/oracle-db-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
   },
   {
-    "repo": "steveclarke/real-world-rails",
-    "branch": "main",
-    "language": "Shell",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
-  },
-  {
-    "repo": "antfu/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
-  },
-  {
-    "repo": "xiaguan/pegainfer",
+    "repo": "nagisanzenin/skyclaw",
     "branch": "main",
     "language": "Rust",
-    "description": "Pure Rust + CUDA LLM inference engine"
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+  },
+  {
+    "repo": "ynsmroztas/AndroHunter",
+    "branch": "main",
+    "language": "Java",
+    "description": "AndroHunter"
+  },
+  {
+    "repo": "roger2ai/Claude-Code-Compiled",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Compiled version of Leaked Claude Code"
+  },
+  {
+    "repo": "luckyyyyy/specc.sh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
+  },
+  {
+    "repo": "nox-project/nox-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
+  },
+  {
+    "repo": "kellyvv/PhoneClaw",
+    "branch": "main",
+    "language": "Swift",
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
+  },
+  {
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "aarondfrancis/counselors",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fan out prompts to multiple AI coding agents in parallel"
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+  },
+  {
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using AI for high quality writing"
+  },
+  {
+    "repo": "Stability-AI/generative-models",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generative Models by Stability AI"
+  },
+  {
+    "repo": "istio/api",
+    "branch": "master",
+    "language": "Go",
+    "description": "API definitions for the Istio project"
+  },
+  {
+    "repo": "XyhTender/qq-farm-automation-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "QQ农场全自动脚本"
+  },
+  {
+    "repo": "vava-nessa/free-coding-models",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "davebcn87/pi-autoresearch",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Autonomous experiment loop extension for pi"
+  },
+  {
+    "repo": "zai-org/GLM-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
+  },
+  {
+    "repo": "randallscott25-star/epstein-forensic-finance",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cross-platform, OpenGL terminal emulator."
+  },
+  {
+    "repo": "johannesjo/parallel-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+  },
+  {
+    "repo": "hengfengliya/imgood",
+    "branch": "main",
+    "language": "CSS",
+    "description": ""
+  },
+  {
+    "repo": "facebookresearch/HyperAgents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-referential self-improving agents that can optimize for any computable task"
+  },
+  {
+    "repo": "adithya-s-k/manim_skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
   }
 ]

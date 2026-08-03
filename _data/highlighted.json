@@ -1,8 +1,8 @@
 {
-  "repo": "helloaiden0305/odm_helper_demo",
+  "repo": "liangnjupt/VisTouch",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "精简版demo，仅用于个人技术学习分享，不涉及任何商用，数据已处理脱敏。欢迎各位同事交流学习，点点✨。",
+  "language": "Python",
+  "description": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact",
   "stars": 106,
-  "forks": 4
+  "forks": 3
 }
