@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
+    "repo": "reduxjs/redux-thunk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Thunk middleware for Redux"
   },
   {
-    "repo": "krisrice/oracle-db-skills",
+    "repo": "joshcirre/instruckt-laravel",
     "branch": "main",
+    "language": "PHP",
+    "description": ""
+  },
+  {
+    "repo": "elder-plinius/GLOSSOPETRAE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LINGUISTIC ENGINE FOR AI"
+  },
+  {
+    "repo": "inspatio/worldfm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
     "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
+    "description": "Fish-like autosuggestions for zsh"
   },
   {
-    "repo": "nagisanzenin/skyclaw",
+    "repo": "fastify/fastify",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Fast and low overhead web framework, for Node.js"
+  },
+  {
+    "repo": "Johell1NS/browser-search",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited."
+  },
+  {
+    "repo": "opf/openproject",
+    "branch": "dev",
+    "language": "Ruby",
+    "description": "OpenProject is the leading open source project management software."
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "picoclaw"
+  },
+  {
+    "repo": "rome/tools",
     "branch": "main",
     "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
   },
   {
-    "repo": "ynsmroztas/AndroHunter",
-    "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
-  },
-  {
-    "repo": "roger2ai/Claude-Code-Compiled",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Compiled version of Leaked Claude Code"
-  },
-  {
-    "repo": "luckyyyyy/specc.sh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
-  },
-  {
-    "repo": "nox-project/nox-framework",
+    "repo": "honnibal/claude-skills",
     "branch": "main",
     "language": "Python",
-    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
+    "description": "Claude skills I'm experimenting with. Please review carefully before use."
   },
   {
-    "repo": "kellyvv/PhoneClaw",
+    "repo": "infiniflow/ragflow",
     "branch": "main",
-    "language": "Swift",
-    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
+    "language": "Python",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
   },
   {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
+    "repo": "signalapp/Signal-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A private messenger for Windows, macOS, and Linux."
+  },
+  {
+    "repo": "jackwener/wechat-article-to-markdown",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
+  },
+  {
+    "repo": "antfu/skills-npm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "ierror/synaps-cad",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
+  },
+  {
+    "repo": "ktorio/ktor",
+    "branch": "main",
     "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
   },
   {
-    "repo": "aarondfrancis/counselors",
+    "repo": "abi/screenshot-to-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+  },
+  {
+    "repo": "paradigmxyz/evmbench",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fan out prompts to multiple AI coding agents in parallel"
+    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
   },
   {
-    "repo": "ckckck/UltimateSearchSkill",
+    "repo": "marswei/seaseed-clawerse",
     "branch": "main",
-    "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+    "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
   },
   {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
-  },
-  {
-    "repo": "Stability-AI/generative-models",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generative Models by Stability AI"
-  },
-  {
-    "repo": "istio/api",
+    "repo": "kubernetes-sigs/external-dns",
     "branch": "master",
     "language": "Go",
-    "description": "API definitions for the Istio project"
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
   },
   {
-    "repo": "XyhTender/qq-farm-automation-bot",
+    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "branch": "main",
+    "language": "Shell",
+    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
+  },
+  {
+    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
+    "branch": "main",
+    "language": "Python",
+    "description": "RSC Detect CVE 2025 55182"
+  },
+  {
+    "repo": "h5bp/html5-boilerplate",
     "branch": "main",
     "language": "JavaScript",
-    "description": "QQ农场全自动脚本"
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "davebcn87/pi-autoresearch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Autonomous experiment loop extension for pi"
-  },
-  {
-    "repo": "zai-org/GLM-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
-  },
-  {
-    "repo": "alacritty/alacritty",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cross-platform, OpenGL terminal emulator."
-  },
-  {
-    "repo": "johannesjo/parallel-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
-  },
-  {
-    "repo": "hengfengliya/imgood",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "facebookresearch/HyperAgents",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-referential self-improving agents that can optimize for any computable task"
-  },
-  {
-    "repo": "adithya-s-k/manim_skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
   }
 ]
