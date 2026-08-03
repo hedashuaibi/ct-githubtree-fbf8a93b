@@ -1,146 +1,146 @@
 [
   {
-    "repo": "0xwilliamortiz/FlashKDA",
-    "branch": "main",
-    "language": "Cuda",
-    "description": "FlashKDA: memory-efficient KDA kernels for training and decode"
-  },
-  {
-    "repo": "Eronred/expo-agent-spinners",
+    "repo": "workos/auth.md",
     "branch": "main",
     "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
   },
   {
-    "repo": "JUk1-GH/gpt-promo-scanner",
+    "repo": "taf2/mdvi",
+    "branch": "master",
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
+  },
+  {
+    "repo": "Ultimaker/Cura",
     "branch": "main",
     "language": "Python",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+    "description": "3D printer / slicing GUI built on top of the Uranium framework"
   },
   {
-    "repo": "Katbrink/polymarket-weather-trading-bot",
+    "repo": "mockk/mockk",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "Justi1980/Dawn-Validator-BOT",
+    "branch": "main",
+    "language": "Python",
+    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
+  },
+  {
+    "repo": "edgedb/edgedb",
+    "branch": "master",
+    "language": "Python",
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+  },
+  {
+    "repo": "pmndrs/react-three-fiber",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🇨🇭 A React renderer for Three.js"
+  },
+  {
+    "repo": "nirholas/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   {
-    "repo": "thcp/stemdeck",
+    "repo": "Unclecode/Crawl4AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+  },
+  {
+    "repo": "comeonzhj/AutoContents",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface"
+    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
   },
   {
-    "repo": "grandeurcoredecoder/f95zone",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Unofficial Game Updater for the F95Zone platform"
-  },
-  {
-    "repo": "fancyai-official/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "TheSashaDev/girl-agent",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
-  },
-  {
-    "repo": "AriPath/AriMando",
-    "branch": "main",
-    "language": "Python",
-    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
-  },
-  {
-    "repo": "Tencent-Hunyuan/UniRL",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
-  },
-  {
-    "repo": "Nightmare-Eclipse/UnDefend",
-    "branch": "main",
-    "language": "C++",
-    "description": "Repository hosting windows defender DOS tool"
-  },
-  {
-    "repo": "WeaveMindAI/weft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A programming language for AI systems"
-  },
-  {
-    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
-    "branch": "main",
-    "language": "C++",
-    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
-  },
-  {
-    "repo": "arnabchoudhury404/hydra-launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error"
-  },
-  {
-    "repo": "0xABCD01/CVE-2026-41089",
-    "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
-  },
-  {
-    "repo": "ProjectKumo/KumoApp",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
-  },
-  {
-    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
-  },
-  {
-    "repo": "DylanDavis1/DSCourier",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "bron1e/fnos-rce-chain",
-    "branch": "main",
-    "language": "Python",
-    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
-  },
-  {
-    "repo": "nvm-sh/nvm",
+    "repo": "rbenv/rbenv",
     "branch": "master",
     "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+    "description": "Manage your app's Ruby environment"
   },
   {
-    "repo": "RevylAI/app-explorer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
-  },
-  {
-    "repo": "shuyu-labs/BigBanana-AI-Director",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
-  },
-  {
-    "repo": "HKUDS/nanobot",
+    "repo": "dou-jiang/codex-console",
     "branch": "main",
     "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
   },
   {
-    "repo": "zats/permiso",
+    "repo": "openscad/openscad",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+  },
+  {
+    "repo": "facebookresearch/fairseq",
     "branch": "main",
-    "language": "Swift",
-    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+    "language": "Python",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+  },
+  {
+    "repo": "userland-run/nano",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+  },
+  {
+    "repo": "ahaodev/shadmin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
+  },
+  {
+    "repo": "facebookresearch/detectron2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
+  },
+  {
+    "repo": "googleworkspace/cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "Klipper3d/klipper",
+    "branch": "master",
+    "language": "C",
+    "description": "Klipper is a 3d-printer firmware"
+  },
+  {
+    "repo": "storybookjs/testing-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "fjb040911/ai-rules",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+  },
+  {
+    "repo": "dropwizard/dropwizard",
+    "branch": "master",
+    "language": "Java",
+    "description": "A damn simple library for building production-ready RESTful web services."
   }
 ]
