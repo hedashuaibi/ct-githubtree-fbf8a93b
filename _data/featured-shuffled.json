@@ -1,146 +1,146 @@
 [
   {
-    "repo": "reduxjs/redux-thunk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Thunk middleware for Redux"
+    "repo": "0xwilliamortiz/FlashKDA",
+    "branch": "main",
+    "language": "Cuda",
+    "description": "FlashKDA: memory-efficient KDA kernels for training and decode"
   },
   {
-    "repo": "joshcirre/instruckt-laravel",
+    "repo": "Eronred/expo-agent-spinners",
     "branch": "main",
-    "language": "PHP",
+    "language": "TypeScript",
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+  },
+  {
+    "repo": "JUk1-GH/gpt-promo-scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+  },
+  {
+    "repo": "Katbrink/polymarket-weather-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
+  },
+  {
+    "repo": "thcp/stemdeck",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface"
+  },
+  {
+    "repo": "grandeurcoredecoder/f95zone",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Unofficial Game Updater for the F95Zone platform"
+  },
+  {
+    "repo": "fancyai-official/skills",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "elder-plinius/GLOSSOPETRAE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
+    "repo": "TheSashaDev/girl-agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
   },
   {
-    "repo": "inspatio/worldfm",
+    "repo": "AriPath/AriMando",
     "branch": "main",
     "language": "Python",
+    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+  },
+  {
+    "repo": "Tencent-Hunyuan/UniRL",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+  },
+  {
+    "repo": "Nightmare-Eclipse/UnDefend",
+    "branch": "main",
+    "language": "C++",
+    "description": "Repository hosting windows defender DOS tool"
+  },
+  {
+    "repo": "WeaveMindAI/weft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A programming language for AI systems"
+  },
+  {
+    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "branch": "main",
+    "language": "C++",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+  },
+  {
+    "repo": "arnabchoudhury404/hydra-launcher",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error"
+  },
+  {
+    "repo": "0xABCD01/CVE-2026-41089",
+    "branch": "main",
+    "language": "Python",
+    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
+  },
+  {
+    "repo": "ProjectKumo/KumoApp",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
+  },
+  {
+    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+  },
+  {
+    "repo": "DylanDavis1/DSCourier",
+    "branch": "main",
+    "language": "PowerShell",
     "description": ""
   },
   {
-    "repo": "zsh-users/zsh-autosuggestions",
+    "repo": "bron1e/fnos-rce-chain",
+    "branch": "main",
+    "language": "Python",
+    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
+  },
+  {
+    "repo": "nvm-sh/nvm",
     "branch": "master",
     "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
   },
   {
-    "repo": "fastify/fastify",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
-  },
-  {
-    "repo": "Johell1NS/browser-search",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited."
-  },
-  {
-    "repo": "opf/openproject",
-    "branch": "dev",
-    "language": "Ruby",
-    "description": "OpenProject is the leading open source project management software."
-  },
-  {
-    "repo": "sipeed/picoclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "picoclaw"
-  },
-  {
-    "repo": "rome/tools",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
-  },
-  {
-    "repo": "honnibal/claude-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skills I'm experimenting with. Please review carefully before use."
-  },
-  {
-    "repo": "infiniflow/ragflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
-  },
-  {
-    "repo": "signalapp/Signal-Desktop",
+    "repo": "RevylAI/app-explorer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
+    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
   },
   {
-    "repo": "jackwener/wechat-article-to-markdown",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
-  },
-  {
-    "repo": "antfu/skills-npm",
+    "repo": "shuyu-labs/BigBanana-AI-Director",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Install agent skills from npm"
+    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
   },
   {
-    "repo": "ierror/synaps-cad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
-  },
-  {
-    "repo": "ktorio/ktor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
-  },
-  {
-    "repo": "abi/screenshot-to-code",
+    "repo": "HKUDS/nanobot",
     "branch": "main",
     "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
   },
   {
-    "repo": "paradigmxyz/evmbench",
+    "repo": "zats/permiso",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
-  },
-  {
-    "repo": "marswei/seaseed-clawerse",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
-  },
-  {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
-    "branch": "main",
-    "language": "Shell",
-    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
-  },
-  {
-    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
-    "branch": "main",
-    "language": "Python",
-    "description": "RSC Detect CVE 2025 55182"
-  },
-  {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+    "language": "Swift",
+    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "Quantova/Quantova-Benchmarks",
+  "repo": "liangnjupt/VisTouch",
   "branch": "main",
-  "language": "Shell",
-  "description": "Reproducible execution throughput benchmark for the Quantova node",
-  "stars": 111,
-  "forks": 0
+  "language": "Python",
+  "description": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact",
+  "stars": 116,
+  "forks": 3
 }
