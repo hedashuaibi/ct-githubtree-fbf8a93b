@@ -1,9 +1,39 @@
 [
   {
-    "repo": "cclank/cell-architecture-studio",
+    "repo": "Vacutagin/GameEnhancementSuite",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Interactive 3D cell architecture gallery built with React and Three.js"
+    "language": "Python",
+    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+  },
+  {
+    "repo": "xuanxuan321/xuanxuan-prompts",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站"
+  },
+  {
+    "repo": "iliya-Developer/VortexL2",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "smartcmd/MinecraftConsoles",
+    "branch": "main",
+    "language": "C++",
+    "description": "A certain block game"
+  },
+  {
+    "repo": "mksglu/claude-context-mode",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Stop losing context to large outputs."
+  },
+  {
+    "repo": "google/guava",
+    "branch": "master",
+    "language": "Java",
+    "description": "Google core libraries for Java"
   },
   {
     "repo": "aave/aave-v2",
@@ -12,135 +42,105 @@
     "description": "Aave Protocol V2"
   },
   {
-    "repo": "kata-containers/kata-containers",
+    "repo": "inliver233/Ai-Novel",
     "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "helm/helm",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Kubernetes Package Manager"
-  },
-  {
-    "repo": "MoonshotAI/Kimi-VL",
-    "branch": "main",
-    "language": "Other",
-    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
-  },
-  {
-    "repo": "ahmetb/kubectx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Faster way to switch between clusters and namespaces in kubectl"
-  },
-  {
-    "repo": "langchain-ai/langchain",
-    "branch": "master",
     "language": "Python",
-    "description": "🦜🔗 The platform for reliable agents."
+    "description": "强大的ai小说创作网站"
   },
   {
-    "repo": "donnemartin/system-design-primer",
+    "repo": "gorhill/uBlock",
     "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "GreenSheep01201/claw-empire",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
-  },
-  {
-    "repo": "airbytehq/airbyte",
-    "branch": "master",
-    "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
-  },
-  {
-    "repo": "fastify/fastify",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
   },
   {
-    "repo": "golang/mock",
-    "branch": "master",
-    "language": "Go",
-    "description": "GoMock is a mocking framework for the Go programming language."
-  },
-  {
-    "repo": "m0at/rvllm",
+    "repo": "oven-sh/bun",
     "branch": "main",
-    "language": "Rust",
-    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+    "language": "Zig",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
   },
   {
-    "repo": "eggricesoy/filmkit",
+    "repo": "pyenv/pyenv",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!"
+    "language": "Shell",
+    "description": "Simple Python version management"
   },
   {
-    "repo": "JStumpp/awesome-android",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android packages and resources."
-  },
-  {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "Stellarwolf001/forza-horizon-6-spotify-radio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5"
-  },
-  {
-    "repo": "zimingttkx/QuantumFlow",
+    "repo": "virattt/ai-hedge-fund",
     "branch": "main",
     "language": "Python",
-    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+    "description": "An AI Hedge Fund Team"
   },
   {
-    "repo": "liuxiaopai-ai/raphael-publish",
+    "repo": "wagmi-dev/viem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "xw7872081123/wallpaper-engine-steam",
+    "repo": "HKUDS/FastCode",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver,"
+    "language": "Python",
+    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
   },
   {
-    "repo": "OpenZeppelin/openzeppelin-contracts",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
+    "repo": "shuyicc/MathLens",
     "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+    "language": "Python",
+    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
   },
   {
-    "repo": "kamranahmedse/developer-roadmap",
+    "repo": "react-native-webview/react-native-webview",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+    "description": "React Native Cross-Platform WebView"
   },
   {
-    "repo": "xiaojianbang8888/xiaojianbang-stealth-hook",
+    "repo": "deepmind/alphafold",
     "branch": "main",
-    "language": "C",
-    "description": "Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。"
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
+  },
+  {
+    "repo": "every-app/open-seo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
+  },
+  {
+    "repo": "miaoxworld/OpenClawInstaller",
+    "branch": "main",
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
+  },
+  {
+    "repo": "remotion-dev/remotion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎥      Make videos programmatically with React"
+  },
+  {
+    "repo": "confluentinc/kafka-rest",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent REST Proxy for Kafka"
+  },
+  {
+    "repo": "earthly/earthly",
+    "branch": "main",
+    "language": "Go",
+    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
+  },
+  {
+    "repo": "spring-projects/spring-data-jpa",
+    "branch": "main",
+    "language": "Java",
+    "description": "Simplifies the development of creating a JPA-based data access layer."
+  },
+  {
+    "repo": "rebornix/Agmente",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
   }
 ]

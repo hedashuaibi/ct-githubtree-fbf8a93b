@@ -1,8 +1,8 @@
 {
-  "repo": "alikon-art/DeterminFlow",
+  "repo": "bennjordan/Wavest",
   "branch": "main",
-  "language": "Python",
-  "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
-  "stars": 159,
-  "forks": 22
+  "language": "JavaScript",
+  "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption. ",
+  "stars": 107,
+  "forks": 16
 }
