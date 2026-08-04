@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Vacutagin/GameEnhancementSuite",
+    "repo": "JWM0203/MeetingCopilot",
     "branch": "main",
-    "language": "Python",
-    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+    "language": "TypeScript",
+    "description": "Real-time stealth meeting/interview copilot for Windows - streaming ASR (local FunASR / cloud) + first-person teleprompter answers via BYOK LLM, invisible to screen sharing"
   },
   {
-    "repo": "xuanxuan321/xuanxuan-prompts",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站"
-  },
-  {
-    "repo": "iliya-Developer/VortexL2",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
-  },
-  {
-    "repo": "mksglu/claude-context-mode",
+    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
+    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
   },
   {
-    "repo": "google/guava",
-    "branch": "master",
-    "language": "Java",
-    "description": "Google core libraries for Java"
-  },
-  {
-    "repo": "aave/aave-v2",
-    "branch": "master",
-    "language": "Other",
-    "description": "Aave Protocol V2"
-  },
-  {
-    "repo": "inliver233/Ai-Novel",
+    "repo": "mgks/GitHubTree",
     "branch": "main",
-    "language": "Python",
-    "description": "强大的ai小说创作网站"
-  },
-  {
-    "repo": "gorhill/uBlock",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "oven-sh/bun",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
-  },
-  {
-    "repo": "pyenv/pyenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
-  },
-  {
-    "repo": "virattt/ai-hedge-fund",
+    "repo": "HKUDS/CatchMe",
     "branch": "main",
     "language": "Python",
-    "description": "An AI Hedge Fund Team"
+    "description": "CatchMe: Make Your AI Agents Truly Personal"
   },
   {
-    "repo": "wagmi-dev/viem",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
-  },
-  {
-    "repo": "HKUDS/FastCode",
-    "branch": "main",
-    "language": "Python",
-    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
-  },
-  {
-    "repo": "shuyicc/MathLens",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
-  },
-  {
-    "repo": "react-native-webview/react-native-webview",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Cross-Platform WebView"
-  },
-  {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "every-app/open-seo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
-  },
-  {
-    "repo": "miaoxworld/OpenClawInstaller",
-    "branch": "main",
-    "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
-  },
-  {
-    "repo": "remotion-dev/remotion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
-  },
-  {
-    "repo": "confluentinc/kafka-rest",
-    "branch": "master",
-    "language": "Java",
-    "description": "Confluent REST Proxy for Kafka"
-  },
-  {
-    "repo": "earthly/earthly",
-    "branch": "main",
-    "language": "Go",
-    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
-  },
-  {
-    "repo": "spring-projects/spring-data-jpa",
-    "branch": "main",
-    "language": "Java",
-    "description": "Simplifies the development of creating a JPA-based data access layer."
-  },
-  {
-    "repo": "rebornix/Agmente",
+    "repo": "IronsideXXVI/Hacker-News",
     "branch": "main",
     "language": "Swift",
     "description": ""
+  },
+  {
+    "repo": "NomaDamas/k-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
+  },
+  {
+    "repo": "larksuite/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  {
+    "repo": "devanshulakhani/val",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "testing-library/react-testing-library",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
+  },
+  {
+    "repo": "revfactory/harness",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "repo": "poshan0126/dotclaude",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
+  },
+  {
+    "repo": "auth0/node-jsonwebtoken",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+  },
+  {
+    "repo": "openai/glide-text2im",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+  },
+  {
+    "repo": "antfu/skills-npm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "vxcozy/flappyboards",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn any TV into a retro split-flap display. Free & open source."
+  },
+  {
+    "repo": "patoles/agent-flow",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work."
+  },
+  {
+    "repo": "VexedWilosn/AetherSwap",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
+  },
+  {
+    "repo": "spf13/cobra",
+    "branch": "main",
+    "language": "Go",
+    "description": "A Commander for modern Go CLI interactions"
+  },
+  {
+    "repo": "detekt/detekt",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Static code analysis for Kotlin"
+  },
+  {
+    "repo": "rawwerks/ypi",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A recursive coding agent inpired by RLMs"
+  },
+  {
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "Tencent/cherry-markdown",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A Markdown Editor"
+  },
+  {
+    "repo": "verialabs/ctf-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
   }
 ]

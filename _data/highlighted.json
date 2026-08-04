@@ -1,8 +1,8 @@
 {
-  "repo": "bennjordan/Wavest",
+  "repo": "xisanpi/zuonaar-cinema-simulator",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption. ",
-  "stars": 107,
-  "forks": 16
+  "language": "TypeScript",
+  "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅",
+  "stars": 125,
+  "forks": 9
 }
