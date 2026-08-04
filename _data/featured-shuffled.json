@@ -1,146 +1,146 @@
 [
   {
-    "repo": "workos/auth.md",
+    "repo": "JasonLiu0826/ackem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
+    "description": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0"
   },
   {
-    "repo": "taf2/mdvi",
-    "branch": "master",
-    "language": "Rust",
-    "description": "cli based Markdown viewer"
-  },
-  {
-    "repo": "Ultimaker/Cura",
-    "branch": "main",
-    "language": "Python",
-    "description": "3D printer / slicing GUI built on top of the Uranium framework"
-  },
-  {
-    "repo": "mockk/mockk",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
-  },
-  {
-    "repo": "Justi1980/Dawn-Validator-BOT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
-  },
-  {
-    "repo": "edgedb/edgedb",
-    "branch": "master",
-    "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
-  },
-  {
-    "repo": "pmndrs/react-three-fiber",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🇨🇭 A React renderer for Three.js"
-  },
-  {
-    "repo": "nirholas/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-  },
-  {
-    "repo": "Unclecode/Crawl4AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
-  },
-  {
-    "repo": "comeonzhj/AutoContents",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
-  },
-  {
-    "repo": "rbenv/rbenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Manage your app's Ruby environment"
-  },
-  {
-    "repo": "dou-jiang/codex-console",
-    "branch": "main",
-    "language": "Python",
-    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
-  },
-  {
-    "repo": "openscad/openscad",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
-  },
-  {
-    "repo": "facebookresearch/fairseq",
-    "branch": "main",
-    "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
-  },
-  {
-    "repo": "userland-run/nano",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
-  },
-  {
-    "repo": "ahaodev/shadmin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
-  },
-  {
-    "repo": "facebookresearch/detectron2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
-  },
-  {
-    "repo": "googleworkspace/cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "Klipper3d/klipper",
-    "branch": "master",
-    "language": "C",
-    "description": "Klipper is a 3d-printer firmware"
-  },
-  {
-    "repo": "storybookjs/testing-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "fjb040911/ai-rules",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
-  },
-  {
-    "repo": "dropwizard/dropwizard",
+    "repo": "bazelbuild/bazel",
     "branch": "master",
     "language": "Java",
-    "description": "A damn simple library for building production-ready RESTful web services."
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "openwalrus/walrus",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Home of your agents"
+  },
+  {
+    "repo": "TryGhost/Ghost",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
+  },
+  {
+    "repo": "joshcirre/instruckt-laravel",
+    "branch": "main",
+    "language": "PHP",
+    "description": ""
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "vercel/ai",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
+  },
+  {
+    "repo": "Geek-1001/arcmark",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
+  },
+  {
+    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
+  },
+  {
+    "repo": "OpenMOSS/MOSS-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "Renforce-Dynamics/MultiModalWBC",
+    "branch": "master",
+    "language": "Python",
+    "description": "MultiModalWBC is a fully open-source, IsaacLab-based framework for multi-modal whole-body control, designed for motion imitation, motion tracking, and task-conditioned control in legged robots. The framework unifies robot proprioceptive states and multi-modal human motion conditions into a consistent interface"
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "Trooped/QuickBars",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
+  },
+  {
+    "repo": "by-sonic/unblock-pro",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
+  },
+  {
+    "repo": "win4r/team-tasks",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+  },
+  {
+    "repo": "Kotlin/kotlinx.coroutines",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Library support for Kotlin coroutines"
+  },
+  {
+    "repo": "dotnet/aspnetcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+  },
+  {
+    "repo": "dgreenheck/webgpu-claude-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Claude skill for developing WebGPU applications with Three.js"
+  },
+  {
+    "repo": "PatrikFehrenbach/h1-brain",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "branch": "main",
+    "language": "Go",
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+  },
+  {
+    "repo": "bc-dunia/qwen3-TTS-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
   }
 ]
