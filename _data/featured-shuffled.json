@@ -1,146 +1,146 @@
 [
   {
-    "repo": "JasonLiu0826/ackem",
+    "repo": "cclank/cell-architecture-studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0"
+    "description": "Interactive 3D cell architecture gallery built with React and Three.js"
   },
   {
-    "repo": "bazelbuild/bazel",
+    "repo": "aave/aave-v2",
     "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
+    "language": "Other",
+    "description": "Aave Protocol V2"
   },
   {
-    "repo": "openwalrus/walrus",
+    "repo": "kata-containers/kata-containers",
     "branch": "main",
     "language": "Rust",
-    "description": "Home of your agents"
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
   },
   {
-    "repo": "TryGhost/Ghost",
+    "repo": "helm/helm",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Kubernetes Package Manager"
+  },
+  {
+    "repo": "MoonshotAI/Kimi-VL",
+    "branch": "main",
+    "language": "Other",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+  },
+  {
+    "repo": "ahmetb/kubectx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Faster way to switch between clusters and namespaces in kubectl"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "branch": "master",
+    "language": "Python",
+    "description": "🦜🔗 The platform for reliable agents."
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+  },
+  {
+    "repo": "GreenSheep01201/claw-empire",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "fastify/fastify",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
+    "description": "Fast and low overhead web framework, for Node.js"
   },
   {
-    "repo": "joshcirre/instruckt-laravel",
+    "repo": "golang/mock",
+    "branch": "master",
+    "language": "Go",
+    "description": "GoMock is a mocking framework for the Go programming language."
+  },
+  {
+    "repo": "m0at/rvllm",
     "branch": "main",
-    "language": "PHP",
+    "language": "Rust",
+    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+  },
+  {
+    "repo": "eggricesoy/filmkit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!"
+  },
+  {
+    "repo": "JStumpp/awesome-android",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Android packages and resources."
+  },
+  {
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "redis/hiredis",
+    "repo": "Stellarwolf001/forza-horizon-6-spotify-radio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5"
+  },
+  {
+    "repo": "zimingttkx/QuantumFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+  },
+  {
+    "repo": "liuxiaopai-ai/raphael-publish",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+  },
+  {
+    "repo": "xw7872081123/wallpaper-engine-steam",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver,"
+  },
+  {
+    "repo": "OpenZeppelin/openzeppelin-contracts",
     "branch": "master",
+    "language": "Solidity",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
+  },
+  {
+    "repo": "randallscott25-star/epstein-forensic-finance",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+  },
+  {
+    "repo": "kamranahmedse/developer-roadmap",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "xiaojianbang8888/xiaojianbang-stealth-hook",
+    "branch": "main",
     "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
-  },
-  {
-    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "vercel/ai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
-  },
-  {
-    "repo": "Geek-1001/arcmark",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
-  },
-  {
-    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
-  },
-  {
-    "repo": "OpenMOSS/MOSS-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "Renforce-Dynamics/MultiModalWBC",
-    "branch": "master",
-    "language": "Python",
-    "description": "MultiModalWBC is a fully open-source, IsaacLab-based framework for multi-modal whole-body control, designed for motion imitation, motion tracking, and task-conditioned control in legged robots. The framework unifies robot proprioceptive states and multi-modal human motion conditions into a consistent interface"
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-  },
-  {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "by-sonic/unblock-pro",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
-  },
-  {
-    "repo": "win4r/team-tasks",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
-  },
-  {
-    "repo": "Kotlin/kotlinx.coroutines",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Library support for Kotlin coroutines"
-  },
-  {
-    "repo": "dotnet/aspnetcore",
-    "branch": "main",
-    "language": "C#",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
-  },
-  {
-    "repo": "caddyserver/caddy",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-  },
-  {
-    "repo": "dgreenheck/webgpu-claude-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Claude skill for developing WebGPU applications with Three.js"
-  },
-  {
-    "repo": "PatrikFehrenbach/h1-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
-  },
-  {
-    "repo": "jaegertracing/jaeger",
-    "branch": "main",
-    "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
-  },
-  {
-    "repo": "bc-dunia/qwen3-TTS-studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+    "description": "Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。"
   }
 ]
