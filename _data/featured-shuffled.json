@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rogerdeveloper2009/Certificate_Manager",
+    "repo": "FelinGG/Instagram_Auto-Comment_Filter__Spam_Remover_",
     "branch": "main",
     "language": "Python",
-    "description": "Manage digital certificates: view, export, import, and delete. Monitor certificate expiration and generate self-signed certificates for development."
+    "description": "Automatically hide or delete spam comments on your Instagram posts. Keep your comment section clean and professional."
   },
   {
-    "repo": "cs109/2015",
-    "branch": "master",
-    "language": "Other",
-    "description": "Public material for CS109"
-  },
-  {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
-    "branch": "main",
-    "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
-  },
-  {
-    "repo": "dnakov/litter",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "google/generative-ai-python",
+    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
     "branch": "main",
     "language": "Python",
-    "description": "This SDK is now deprecated, use the new unified Google GenAI SDK."
+    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
   },
   {
-    "repo": "huggingface/transformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-  },
-  {
-    "repo": "open-pencil/open-pencil",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
-  },
-  {
-    "repo": "apple/swift-argument-parser",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Straightforward, type-safe argument parsing for Swift"
-  },
-  {
-    "repo": "MrFadiAi/openclaw-manager",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
-  },
-  {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "rbenv/rbenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Manage your app's Ruby environment"
-  },
-  {
-    "repo": "validatorjs/validator.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "String validation"
-  },
-  {
-    "repo": "jyoung105/frouter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "fluent/fluent-bit",
-    "branch": "master",
-    "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
-  },
-  {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "Frikallo/parakeet.cpp",
+    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
     "branch": "main",
     "language": "C++",
-    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
+    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
   },
   {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+    "repo": "zhuyansen/wx-favorites-report",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
   },
   {
-    "repo": "cheeriojs/cheerio",
+    "repo": "imbue-ai/bouncer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+    "description": "Heal your social media feeds"
+  },
+  {
+    "repo": "ridha61/Lossless-Scaling-Upscaler-FPS",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag"
+  },
+  {
+    "repo": "V-IOLE-T/hotmail-register-extension",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+  },
+  {
+    "repo": "standardagents/sip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
+  },
+  {
+    "repo": "spinnaker/spinnaker",
+    "branch": "master",
+    "language": "Java",
+    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
+  },
+  {
+    "repo": "Matchameleon/moneyclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill"
+  },
+  {
+    "repo": "polkadot-js/apps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+  },
+  {
+    "repo": "distribution/distribution",
+    "branch": "main",
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content"
+  },
+  {
+    "repo": "spf13/cobra",
+    "branch": "main",
+    "language": "Go",
+    "description": "A Commander for modern Go CLI interactions"
+  },
+  {
+    "repo": "facebookresearch/llama",
+    "branch": "main",
+    "language": "Python",
+    "description": "Inference code for Llama models"
+  },
+  {
+    "repo": "simonw/rodney",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for interacting with the web"
+  },
+  {
+    "repo": "renatoworks/3dsvg",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
+  },
+  {
+    "repo": "guidelabs/steerling",
+    "branch": "main",
+    "language": "Python",
+    "description": "Interpretable Causal Diffusion Language Models"
+  },
+  {
+    "repo": "synacktiv/DCOMIllusionist",
+    "branch": "main",
+    "language": "C#",
+    "description": "DCOM in memory and fileless lateral movement techniques through .Net deserilization"
+  },
+  {
+    "repo": "tianxingleo/ACGTI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "zggf-zggf/openviktor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
+  },
+  {
+    "repo": "jackwener/xiaohongshu-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "branch": "master",
+    "language": "Go",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
   }
 ]

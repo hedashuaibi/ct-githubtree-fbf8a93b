@@ -1,8 +1,8 @@
 {
-  "repo": "dtolnay/chapter-tgz",
-  "branch": "master",
-  "language": "Rust",
-  "description": "Specially crafted .tar.gz with embedded chapter boundary information",
-  "stars": 109,
-  "forks": 4
+  "repo": "alexngdev99/rork-medieval-3d-chess",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "Created by Rork",
+  "stars": 166,
+  "forks": 44
 }
