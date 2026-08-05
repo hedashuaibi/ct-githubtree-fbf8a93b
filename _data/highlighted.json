@@ -1,8 +1,8 @@
 {
-  "repo": "dtolnay/chapter-tgz",
-  "branch": "master",
-  "language": "Rust",
-  "description": "Specially crafted .tar.gz with embedded chapter boundary information",
-  "stars": 104,
-  "forks": 4
+  "repo": "liucongg/awesome-open-llms",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "开源模型汇总，每月更新现在主流的开源模型。A monthly tracker for the latest and most popular open-source AI models.",
+  "stars": 102,
+  "forks": 7
 }

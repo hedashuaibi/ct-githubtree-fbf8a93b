@@ -1,146 +1,146 @@
 [
   {
+    "repo": "onevcat/Kingfisher",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
+  },
+  {
+    "repo": "bjarneo/kli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit."
+  },
+  {
+    "repo": "Multichain-Bot-Lab/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot"
+  },
+  {
+    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+  },
+  {
+    "repo": "jure/webphysics",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "WebGPU physics engine based on the AVBD solver"
+  },
+  {
+    "repo": "Lcharvol/MacSift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
+  },
+  {
+    "repo": "russellromney/honker",
+    "branch": "main",
+    "language": "Python",
+    "description": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler"
+  },
+  {
     "repo": "cv-cat/TaoBaoApis",
     "branch": "master",
     "language": "Python",
     "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
   },
   {
-    "repo": "llvm/llvm-project",
-    "branch": "main",
-    "language": "LLVM",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
-  },
-  {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
+    "repo": "1270011/claude-buddy",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
+    "description": "Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update"
   },
   {
-    "repo": "wbenny/scfw",
+    "repo": "vyfor/rattles",
     "branch": "master",
-    "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
+    "language": "Rust",
+    "description": "🪇 Minimal terminal spinners for Rust"
   },
   {
-    "repo": "TanStack/query",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
-  },
-  {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "0xSteph/pentest-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
-  },
-  {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
-  },
-  {
-    "repo": "mochajs/mocha",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
-  },
-  {
-    "repo": "fluent/fluent-bit",
+    "repo": "espressif/esp-claw",
     "branch": "master",
     "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
   },
   {
-    "repo": "BradGroux/veritas-kanban",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
-  },
-  {
-    "repo": "yt-dlp/yt-dlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
-  },
-  {
-    "repo": "quic-go/quic-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "A production-ready QUIC implementation in pure Go"
-  },
-  {
-    "repo": "Zehong-Ma/PixelGen",
+    "repo": "AIScientists-Dev/WorldSeed",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
   },
   {
-    "repo": "1186258278/OpenClawChineseTranslation",
+    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "branch": "master",
+    "language": "Python",
+    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+  },
+  {
+    "repo": "techjarves/USB-Uncensored-LLM",
     "branch": "main",
     "language": "Shell",
-    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
   },
   {
-    "repo": "shuyu-labs/BigBanana-AI-Director",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
-  },
-  {
-    "repo": "rebane2001/xikipedia",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "Wikipedia as a social media feed"
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark remover"
-  },
-  {
-    "repo": "spf13/viper",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go configuration with fangs"
-  },
-  {
-    "repo": "soimy/openclaw-channel-dingtalk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
-  },
-  {
-    "repo": "yazinsai/quran-validator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
-  },
-  {
-    "repo": "terausss/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "jlia0/tinyclaw",
+    "repo": "pithings/coderaft",
     "branch": "main",
     "language": "JavaScript",
-    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+    "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)"
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "millionco/isolet",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Package any component into a self-contained, isolated widget"
+  },
+  {
+    "repo": "standardagents/sip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "anthnykr/codex-voice",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "jlabon2/PsUi",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "For building UIs in PowerShell without the misery."
+  },
+  {
+    "repo": "bergside/design-md-chrome",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "repo": "ZeroZ-lab/cc-design",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "High-fidelity HTML design and prototype guidance skill for AI agents"
+  },
+  {
+    "repo": "Manavarya09/design-extract",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
+  },
+  {
+    "repo": "WenXiaoWendy/cyberboss",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
   }
 ]
