@@ -1,146 +1,146 @@
 [
   {
-    "repo": "JWM0203/MeetingCopilot",
+    "repo": "cv-cat/TaoBaoApis",
+    "branch": "master",
+    "language": "Python",
+    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
+  },
+  {
+    "repo": "llvm/llvm-project",
+    "branch": "main",
+    "language": "LLVM",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+  },
+  {
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Real-time stealth meeting/interview copilot for Windows - streaming ASR (local FunASR / cloud) + first-person teleprompter answers via BYOK LLM, invisible to screen sharing"
+    "description": "Full-sized drag & drop event calendar in JavaScript"
   },
   {
-    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
+    "repo": "wbenny/scfw",
+    "branch": "master",
+    "language": "C++",
+    "description": "A cross-platform C++ framework for building Windows shellcode"
   },
   {
-    "repo": "mgks/GitHubTree",
+    "repo": "TanStack/query",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
   },
   {
-    "repo": "HKUDS/CatchMe",
-    "branch": "main",
-    "language": "Python",
-    "description": "CatchMe: Make Your AI Agents Truly Personal"
-  },
-  {
-    "repo": "IronsideXXVI/Hacker-News",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "NomaDamas/k-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
-  },
-  {
-    "repo": "larksuite/cli",
-    "branch": "main",
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
     "language": "Go",
-    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
   },
   {
-    "repo": "devanshulakhani/val",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "testing-library/react-testing-library",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
-  },
-  {
-    "repo": "revfactory/harness",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
-  },
-  {
-    "repo": "poshan0126/dotclaude",
+    "repo": "0xSteph/pentest-ai",
     "branch": "main",
     "language": "Shell",
-    "description": "The standard .claude/  folder structure for everyday development."
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
   },
   {
-    "repo": "auth0/node-jsonwebtoken",
+    "repo": "xiaotianfotos/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "视频中分享的方法论代码参考"
+  },
+  {
+    "repo": "mochajs/mocha",
     "branch": "master",
     "language": "JavaScript",
-    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
   },
   {
-    "repo": "openai/glide-text2im",
+    "repo": "fluent/fluent-bit",
+    "branch": "master",
+    "language": "C",
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+  },
+  {
+    "repo": "BradGroux/veritas-kanban",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
     "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+    "description": "A feature-rich command-line audio/video downloader"
   },
   {
-    "repo": "antfu/skills-npm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Install agent skills from npm"
-  },
-  {
-    "repo": "vxcozy/flappyboards",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn any TV into a retro split-flap display. Free & open source."
-  },
-  {
-    "repo": "patoles/agent-flow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work."
-  },
-  {
-    "repo": "VexedWilosn/AetherSwap",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
-  },
-  {
-    "repo": "spf13/cobra",
-    "branch": "main",
+    "repo": "quic-go/quic-go",
+    "branch": "master",
     "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
+    "description": "A production-ready QUIC implementation in pure Go"
   },
   {
-    "repo": "detekt/detekt",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Static code analysis for Kotlin"
-  },
-  {
-    "repo": "rawwerks/ypi",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A recursive coding agent inpired by RLMs"
-  },
-  {
-    "repo": "qazbnm456/awesome-web-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
-  },
-  {
-    "repo": "xi-editor/xi-editor",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
-  },
-  {
-    "repo": "Tencent/cherry-markdown",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
-  },
-  {
-    "repo": "verialabs/ctf-agent",
+    "repo": "Zehong-Ma/PixelGen",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+  },
+  {
+    "repo": "1186258278/OpenClawChineseTranslation",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
+  },
+  {
+    "repo": "shuyu-labs/BigBanana-AI-Director",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
+  },
+  {
+    "repo": "rebane2001/xikipedia",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "Wikipedia as a social media feed"
+  },
+  {
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "spf13/viper",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go configuration with fangs"
+  },
+  {
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "yazinsai/quran-validator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
+  },
+  {
+    "repo": "terausss/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "jlia0/tinyclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
   }
 ]

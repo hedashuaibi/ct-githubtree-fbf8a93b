@@ -1,8 +1,8 @@
 {
-  "repo": "xisanpi/zuonaar-cinema-simulator",
-  "branch": "main",
-  "language": "TypeScript",
-  "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅",
-  "stars": 125,
-  "forks": 9
+  "repo": "dtolnay/chapter-tgz",
+  "branch": "master",
+  "language": "Rust",
+  "description": "Specially crafted .tar.gz with embedded chapter boundary information",
+  "stars": 104,
+  "forks": 4
 }
