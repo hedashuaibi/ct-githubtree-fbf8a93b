@@ -1,146 +1,146 @@
 [
   {
-    "repo": "onevcat/Kingfisher",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
-  },
-  {
-    "repo": "bjarneo/kli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit."
-  },
-  {
-    "repo": "Multichain-Bot-Lab/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot"
-  },
-  {
-    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
-  },
-  {
-    "repo": "jure/webphysics",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "WebGPU physics engine based on the AVBD solver"
-  },
-  {
-    "repo": "Lcharvol/MacSift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
-  },
-  {
-    "repo": "russellromney/honker",
+    "repo": "rogerdeveloper2009/Certificate_Manager",
     "branch": "main",
     "language": "Python",
-    "description": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler"
+    "description": "Manage digital certificates: view, export, import, and delete. Monitor certificate expiration and generate self-signed certificates for development."
   },
   {
-    "repo": "cv-cat/TaoBaoApis",
+    "repo": "cs109/2015",
     "branch": "master",
-    "language": "Python",
-    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
+    "language": "Other",
+    "description": "Public material for CS109"
   },
   {
-    "repo": "1270011/claude-buddy",
+    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "branch": "main",
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "google/generative-ai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "This SDK is now deprecated, use the new unified Google GenAI SDK."
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "open-pencil/open-pencil",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AI-native design editor. Open-source Figma alternative."
+  },
+  {
+    "repo": "apple/swift-argument-parser",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Straightforward, type-safe argument parsing for Swift"
+  },
+  {
+    "repo": "MrFadiAi/openclaw-manager",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update"
+    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
   },
   {
-    "repo": "vyfor/rattles",
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
+  },
+  {
+    "repo": "kamranahmedse/developer-roadmap",
     "branch": "master",
-    "language": "Rust",
-    "description": "🪇 Minimal terminal spinners for Rust"
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
   },
   {
-    "repo": "espressif/esp-claw",
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "rbenv/rbenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Manage your app's Ruby environment"
+  },
+  {
+    "repo": "validatorjs/validator.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "String validation"
+  },
+  {
+    "repo": "jyoung105/frouter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "fluent/fluent-bit",
     "branch": "master",
     "language": "C",
-    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
   },
   {
-    "repo": "AIScientists-Dev/WorldSeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
-  },
-  {
-    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "repo": "git/git",
     "branch": "master",
-    "language": "Python",
-    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+    "language": "C",
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
   },
   {
-    "repo": "techjarves/USB-Uncensored-LLM",
+    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
     "branch": "main",
-    "language": "Shell",
-    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+    "language": "Rust",
+    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
   },
   {
-    "repo": "pithings/coderaft",
+    "repo": "huangserva/claude-code-cli",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+  },
+  {
+    "repo": "Frikallo/parakeet.cpp",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)"
+    "language": "C++",
+    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
   },
   {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
   },
   {
-    "repo": "millionco/isolet",
+    "repo": "cheeriojs/cheerio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Package any component into a self-contained, isolated widget"
-  },
-  {
-    "repo": "standardagents/sip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
-  },
-  {
-    "repo": "anthnykr/codex-voice",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "jlabon2/PsUi",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "For building UIs in PowerShell without the misery."
-  },
-  {
-    "repo": "bergside/design-md-chrome",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
-  },
-  {
-    "repo": "ZeroZ-lab/cc-design",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "High-fidelity HTML design and prototype guidance skill for AI agents"
-  },
-  {
-    "repo": "Manavarya09/design-extract",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
-  },
-  {
-    "repo": "WenXiaoWendy/cyberboss",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
   }
 ]
