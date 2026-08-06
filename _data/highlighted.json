@@ -1,8 +1,8 @@
 {
-  "repo": "kaibush/grok-register",
+  "repo": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
   "branch": "main",
   "language": "Python",
-  "description": "GrokFree注册机 - 支持生成CPA、grok2api格式的json鉴权文件",
-  "stars": 138,
-  "forks": 73
+  "description": "MiniMax-H3超级缓存加速插件",
+  "stars": 148,
+  "forks": 11
 }

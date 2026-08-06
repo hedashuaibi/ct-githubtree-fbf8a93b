@@ -1,146 +1,146 @@
 [
   {
-    "repo": "BasZ4ll/Stable-Diffusion-WebUI",
+    "repo": "t8y2/dbx",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta"
+    "language": "Vue",
+    "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server."
   },
   {
-    "repo": "lukehinds/nono",
+    "repo": "milla-jovovich/mempalace",
     "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
+    "language": "Python",
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
   },
   {
-    "repo": "KeyID-AI/agent-kit",
-    "branch": "main",
+    "repo": "webpack-contrib/terser-webpack-plugin",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+    "description": "Terser Plugin"
   },
   {
-    "repo": "facebook/jest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Delightful JavaScript Testing."
-  },
-  {
-    "repo": "aiming-lab/MetaClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Just talk to your agent — it learns and EVOLVES."
-  },
-  {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
-  },
-  {
-    "repo": "CrewSX/polymarket-esports-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "rust-lang/rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
+    "repo": "rbenv/rbenv",
     "branch": "master",
     "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
+    "description": "Manage your app's Ruby environment"
   },
   {
-    "repo": "PyCQA/flake8",
-    "branch": "main",
-    "language": "Python",
-    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
-  },
-  {
-    "repo": "aquasecurity/kube-bench",
-    "branch": "main",
-    "language": "Go",
-    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
-  },
-  {
-    "repo": "AAAAAAAJ/slides",
-    "branch": "main",
-    "language": "Python",
-    "description": "slides generates prompts for various expression styles"
-  },
-  {
-    "repo": "ClickHouse/ClickHouse",
+    "repo": "josephmisiti/awesome-machine-learning",
     "branch": "master",
-    "language": "C++",
-    "description": "ClickHouse® is a real-time analytics database management system"
-  },
-  {
-    "repo": "alaeelhariri/sqlite-python-app",
-    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
   },
   {
-    "repo": "kossisoroyce/timber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
-  },
-  {
-    "repo": "angular/angular",
+    "repo": "react-native-async-storage/async-storage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
   },
   {
-    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "repo": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "将钉钉机器人连接到 Moltbot Gateway 的轻量级 Python和TS 双版本连接器，支持 AI Card 流式响应"
+  },
+  {
+    "repo": "Kanaries/pygwalker",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
   },
   {
-    "repo": "spf13/cobra",
-    "branch": "main",
-    "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
+    "repo": "rust-lang/mdBook",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
   },
   {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+    "repo": "chartist/chartist",
+    "branch": "develop",
+    "language": "Ruby",
+    "description": "Final Project @ Makers Academy"
   },
   {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+    "repo": "inputsh/awesome-linux",
+    "branch": "master",
+    "language": "Other",
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
   },
   {
-    "repo": "esphome/esphome",
-    "branch": "dev",
-    "language": "C++",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems."
-  },
-  {
-    "repo": "eddyson-B/AI-Pumpfun-Copy-Trading-Bot",
+    "repo": "pmndrs/jotai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A simulation and execution script for tracking top wallet trades on PumpFun and analyzing profit opportunities with AI modeling."
+    "description": "👻 Primitive and flexible state management for React"
   },
   {
-    "repo": "coredns/coredns",
+    "repo": "apache/superset",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  },
+  {
+    "repo": "wagoodman/dive",
     "branch": "master",
     "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
+    "description": "A tool for exploring each layer in a docker image"
+  },
+  {
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit."
+  },
+  {
+    "repo": "yarnpkg/yarn",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+  },
+  {
+    "repo": "checkcheckzz/system-design-interview",
+    "branch": "master",
+    "language": "Other",
+    "description": "System design interview for IT companies"
+  },
+  {
+    "repo": "jsdom/jsdom",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript implementation of various web standards, for use with Node.js"
+  },
+  {
+    "repo": "junit-team/junit4",
+    "branch": "main",
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
+  },
+  {
+    "repo": "bregman-arie/devops-exercises",
+    "branch": "master",
+    "language": "Python",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source search and retrieval database for AI applications."
+  },
+  {
+    "repo": "hantuzun/awesome-clojure",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
   }
 ]
