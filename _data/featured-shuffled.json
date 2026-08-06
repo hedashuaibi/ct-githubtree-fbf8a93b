@@ -1,146 +1,146 @@
 [
   {
-    "repo": "FelinGG/Instagram_Auto-Comment_Filter__Spam_Remover_",
+    "repo": "SteveTheKiller/KillerPDF",
+    "branch": "master",
+    "language": "C#",
+    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+  },
+  {
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Automatically hide or delete spam comments on your Instagram posts. Keep your comment section clean and professional."
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
   },
   {
-    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "repo": "dev-protocol/polymarket-trading-bot-new",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
+  },
+  {
+    "repo": "Pythagora-io/gpt-pilot",
     "branch": "main",
     "language": "Python",
-    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+    "description": "The first real AI developer"
   },
   {
-    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
-  },
-  {
-    "repo": "zhuyansen/wx-favorites-report",
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "imbue-ai/bouncer",
+    "repo": "RyensX/OpenCodex",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Heal your social media feeds"
+    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
   },
   {
-    "repo": "ridha61/Lossless-Scaling-Upscaler-FPS",
+    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
     "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag"
+    "language": "Python",
+    "description": "TradingView Full version unlocker"
   },
   {
-    "repo": "V-IOLE-T/hotmail-register-extension",
+    "repo": "abdosorour7/git-commands-cheatsheet",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+    "description": "The ultimate Git Commands Cheatsheet: searchable, copy-ready, and organized for real-world developer workflows."
   },
   {
-    "repo": "standardagents/sip",
+    "repo": "raiyanyahya/how-to-train-your-gpt",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+  },
+  {
+    "repo": "outcomeops/context-engineering",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "LaurieWired/tailslayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Library for reducing tail latency in RAM reads"
+  },
+  {
+    "repo": "TinyAGI/fractals",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+    "description": "Fractals is a recursive task orchestrator for agent swarm"
   },
   {
-    "repo": "prometheus/prometheus",
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
     "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
+    "language": "TypeScript",
+    "description": "GitHub Action to alert on security patches before the CVE drops."
   },
   {
-    "repo": "spinnaker/spinnaker",
+    "repo": "LSPosed/DirtySepolicy",
     "branch": "master",
     "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
+    "description": ""
   },
   {
-    "repo": "Matchameleon/moneyclaw",
+    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
+  },
+  {
+    "repo": "snoozinjs/Delta-exec",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
+  },
+  {
+    "repo": "perplexityai/bumblebee",
+    "branch": "main",
+    "language": "Go",
+    "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
+  },
+  {
+    "repo": "win4r/free-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+  },
+  {
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "dashrobotco/robot-components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "embedding-shapes/one-agent-one-browser",
+    "branch": "master",
+    "language": "Rust",
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
+  },
+  {
+    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
+  },
+  {
+    "repo": "FranckyB/Voice-Clone-Studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+  },
+  {
+    "repo": "avacocloud/netlify-XHHTP",
     "branch": "main",
     "language": "JavaScript",
-    "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill"
-  },
-  {
-    "repo": "polkadot-js/apps",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
-  },
-  {
-    "repo": "distribution/distribution",
-    "branch": "main",
-    "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
-  },
-  {
-    "repo": "spf13/cobra",
-    "branch": "main",
-    "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
-  },
-  {
-    "repo": "facebookresearch/llama",
-    "branch": "main",
-    "language": "Python",
-    "description": "Inference code for Llama models"
-  },
-  {
-    "repo": "simonw/rodney",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for interacting with the web"
-  },
-  {
-    "repo": "renatoworks/3dsvg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The easiest way to turn SVGs into interactive React 3D components"
-  },
-  {
-    "repo": "guidelabs/steerling",
-    "branch": "main",
-    "language": "Python",
-    "description": "Interpretable Causal Diffusion Language Models"
-  },
-  {
-    "repo": "synacktiv/DCOMIllusionist",
-    "branch": "main",
-    "language": "C#",
-    "description": "DCOM in memory and fileless lateral movement techniques through .Net deserilization"
-  },
-  {
-    "repo": "tianxingleo/ACGTI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
-  },
-  {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
-  },
-  {
-    "repo": "zggf-zggf/openviktor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
-  },
-  {
-    "repo": "jackwener/xiaohongshu-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
-  },
-  {
-    "repo": "go-gorm/gorm",
-    "branch": "master",
-    "language": "Go",
-    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+    "description": ""
   }
 ]

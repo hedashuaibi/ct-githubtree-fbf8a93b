@@ -1,8 +1,8 @@
 {
-  "repo": "alexngdev99/rork-medieval-3d-chess",
+  "repo": "helloaiden0305/odm_AIDataPlatform_demo",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Created by Rork",
-  "stars": 166,
-  "forks": 44
+  "language": "Python",
+  "description": "精简版数据中台demo，仅用于个人技术学习分享，不涉及任何商用数据，已处理脱敏。欢迎各位同事交流学习，点点✨。",
+  "stars": 110,
+  "forks": 0
 }
