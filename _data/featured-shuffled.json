@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SteveTheKiller/KillerPDF",
-    "branch": "master",
-    "language": "C#",
-    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
-  },
-  {
-    "repo": "jackwener/twitter-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
-  },
-  {
-    "repo": "dev-protocol/polymarket-trading-bot-new",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
-  },
-  {
-    "repo": "Pythagora-io/gpt-pilot",
-    "branch": "main",
-    "language": "Python",
-    "description": "The first real AI developer"
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "RyensX/OpenCodex",
+    "repo": "BasZ4ll/Stable-Diffusion-WebUI",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
+    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta"
   },
   {
-    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
+    "repo": "lukehinds/nono",
     "branch": "main",
-    "language": "Python",
-    "description": "TradingView Full version unlocker"
+    "language": "Rust",
+    "description": "OS-Level Isolation for AI Agents."
   },
   {
-    "repo": "abdosorour7/git-commands-cheatsheet",
+    "repo": "KeyID-AI/agent-kit",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The ultimate Git Commands Cheatsheet: searchable, copy-ready, and organized for real-world developer workflows."
+    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
   },
   {
-    "repo": "raiyanyahya/how-to-train-your-gpt",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+    "repo": "facebook/jest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Delightful JavaScript Testing."
   },
   {
-    "repo": "outcomeops/context-engineering",
+    "repo": "aiming-lab/MetaClaw",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Just talk to your agent — it learns and EVOLVES."
   },
   {
-    "repo": "LaurieWired/tailslayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Library for reducing tail latency in RAM reads"
-  },
-  {
-    "repo": "TinyAGI/fractals",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fractals is a recursive task orchestrator for agent swarm"
-  },
-  {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
-  },
-  {
-    "repo": "LSPosed/DirtySepolicy",
+    "repo": "tensorflow/tensorflow",
     "branch": "master",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
-    "branch": "main",
     "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
+    "description": "An Open Source Machine Learning Framework for Everyone"
   },
   {
-    "repo": "snoozinjs/Delta-exec",
+    "repo": "CrewSX/polymarket-esports-trading-bot",
     "branch": "main",
-    "language": "C++",
-    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
+    "language": "Python",
+    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
   },
   {
-    "repo": "perplexityai/bumblebee",
+    "repo": "Homebrew/brew",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Empowering everyone to build reliable and efficient software."
+  },
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "repo": "PyCQA/flake8",
+    "branch": "main",
+    "language": "Python",
+    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
     "branch": "main",
     "language": "Go",
-    "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
+    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
   },
   {
-    "repo": "win4r/free-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
-  },
-  {
-    "repo": "qazbnm456/awesome-web-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
-  },
-  {
-    "repo": "dashrobotco/robot-components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
-    "branch": "master",
-    "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
-  },
-  {
-    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
-  },
-  {
-    "repo": "FranckyB/Voice-Clone-Studio",
+    "repo": "AAAAAAAJ/slides",
     "branch": "main",
     "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+    "description": "slides generates prompts for various expression styles"
   },
   {
-    "repo": "avacocloud/netlify-XHHTP",
+    "repo": "ClickHouse/ClickHouse",
+    "branch": "master",
+    "language": "C++",
+    "description": "ClickHouse® is a real-time analytics database management system"
+  },
+  {
+    "repo": "alaeelhariri/sqlite-python-app",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "kossisoroyce/timber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "repo": "angular/angular",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deliver web apps with confidence 🚀"
+  },
+  {
+    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+  },
+  {
+    "repo": "spf13/cobra",
+    "branch": "main",
+    "language": "Go",
+    "description": "A Commander for modern Go CLI interactions"
+  },
+  {
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+  },
+  {
+    "repo": "esphome/esphome",
+    "branch": "dev",
+    "language": "C++",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems."
+  },
+  {
+    "repo": "eddyson-B/AI-Pumpfun-Copy-Trading-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A simulation and execution script for tracking top wallet trades on PumpFun and analyzing profit opportunities with AI modeling."
+  },
+  {
+    "repo": "coredns/coredns",
+    "branch": "master",
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
   }
 ]
