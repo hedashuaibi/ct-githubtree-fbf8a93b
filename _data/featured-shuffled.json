@@ -1,146 +1,146 @@
 [
   {
-    "repo": "t8y2/dbx",
+    "repo": "ayush-that/jiang-clips",
     "branch": "main",
-    "language": "Vue",
-    "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server."
+    "language": "TypeScript",
+    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
   },
   {
-    "repo": "milla-jovovich/mempalace",
+    "repo": "ceph/ceph",
+    "branch": "main",
+    "language": "C++",
+    "description": "Ceph is a distributed object, block, and file storage platform"
+  },
+  {
+    "repo": "google/zx",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A tool for writing better scripts"
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "microsoft/unilm",
+    "branch": "master",
+    "language": "Python",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+  },
+  {
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "webpack/webpack",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
     "branch": "main",
     "language": "Python",
-    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
+    "description": "New Relic Python Agent"
   },
   {
-    "repo": "webpack-contrib/terser-webpack-plugin",
+    "repo": "prometheus/prometheus",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
+  },
+  {
+    "repo": "Kotlin/kotlinx.serialization",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Kotlin multiplatform / multi-format serialization"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "branch": "master",
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+  },
+  {
+    "repo": "ramsey/uuid",
+    "branch": "4.7",
+    "language": "PHP",
+    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
+  },
+  {
+    "repo": "op7418/Video-Wrapper-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
+  },
+  {
+    "repo": "github/gitignore",
+    "branch": "main",
+    "language": "Other",
+    "description": "A collection of useful .gitignore templates"
+  },
+  {
+    "repo": "expressjs/express",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Terser Plugin"
+    "description": "Fast, unopinionated, minimalist web framework for node."
   },
   {
-    "repo": "rbenv/rbenv",
+    "repo": "solana-labs/solana-program-library",
     "branch": "master",
+    "language": "Rust",
+    "description": "A collection of Solana programs maintained by Solana Labs"
+  },
+  {
+    "repo": "encode/uvicorn",
+    "branch": "master",
+    "language": "Python",
+    "description": "An ASGI web server, for Python. 🦄"
+  },
+  {
+    "repo": "LCEMP/LCEMP",
+    "branch": "main",
+    "language": "C++",
+    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+  },
+  {
+    "repo": "koreader/koreader",
+    "branch": "master",
+    "language": "Lua",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
+  },
+  {
+    "repo": "stellarlinkco/myclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "hanxiao/claudecode-telegram",
+    "branch": "main",
+    "language": "Python",
+    "description": "Telegram bridge for Claude Code"
+  },
+  {
+    "repo": "by-sonic/unblock-pro",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
+  },
+  {
+    "repo": "wbenny/scfw",
+    "branch": "master",
+    "language": "C++",
+    "description": "A cross-platform C++ framework for building Windows shellcode"
+  },
+  {
+    "repo": "blader/taskmaster",
+    "branch": "main",
     "language": "Shell",
-    "description": "Manage your app's Ruby environment"
-  },
-  {
-    "repo": "josephmisiti/awesome-machine-learning",
-    "branch": "master",
-    "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
-  },
-  {
-    "repo": "react-native-async-storage/async-storage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An asynchronous, persistent, key-value storage system for React Native."
-  },
-  {
-    "repo": "DingTalk-Real-AI/dingtalk-moltbot-connector",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "将钉钉机器人连接到 Moltbot Gateway 的轻量级 Python和TS 双版本连接器，支持 AI Card 流式响应"
-  },
-  {
-    "repo": "Kanaries/pygwalker",
-    "branch": "main",
-    "language": "Python",
-    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
-  },
-  {
-    "repo": "rust-lang/mdBook",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
-  },
-  {
-    "repo": "chartist/chartist",
-    "branch": "develop",
-    "language": "Ruby",
-    "description": "Final Project @ Makers Academy"
-  },
-  {
-    "repo": "inputsh/awesome-linux",
-    "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
-  },
-  {
-    "repo": "pmndrs/jotai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "👻 Primitive and flexible state management for React"
-  },
-  {
-    "repo": "apache/superset",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
-  },
-  {
-    "repo": "wagoodman/dive",
-    "branch": "master",
-    "language": "Go",
-    "description": "A tool for exploring each layer in a docker image"
-  },
-  {
-    "repo": "qazbnm456/awesome-web-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
-  },
-  {
-    "repo": "lapce/lapce",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
-  },
-  {
-    "repo": "fluxcd/flux2",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit."
-  },
-  {
-    "repo": "yarnpkg/yarn",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
-  },
-  {
-    "repo": "checkcheckzz/system-design-interview",
-    "branch": "master",
-    "language": "Other",
-    "description": "System design interview for IT companies"
-  },
-  {
-    "repo": "jsdom/jsdom",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript implementation of various web standards, for use with Node.js"
-  },
-  {
-    "repo": "junit-team/junit4",
-    "branch": "main",
-    "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
-  },
-  {
-    "repo": "bregman-arie/devops-exercises",
-    "branch": "master",
-    "language": "Python",
-    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
-  },
-  {
-    "repo": "chroma-core/chroma",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source search and retrieval database for AI applications."
-  },
-  {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
   }
 ]

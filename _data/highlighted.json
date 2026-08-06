@@ -1,8 +1,8 @@
 {
-  "repo": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+  "repo": "mika50000/gpt-link",
   "branch": "main",
   "language": "Python",
-  "description": "MiniMax-H3超级缓存加速插件",
-  "stars": 148,
-  "forks": 11
+  "description": "Standalone ChatGPT Session/accessToken link extractor",
+  "stars": 132,
+  "forks": 43
 }
