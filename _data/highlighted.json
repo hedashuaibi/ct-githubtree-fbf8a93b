@@ -1,8 +1,8 @@
 {
-  "repo": "Mr-funny/hbg-life-simulation",
+  "repo": "AIMixer/ComfyUI_MiniMaxH3_Director",
   "branch": "main",
   "language": "JavaScript",
-  "description": "HBG Agent Skill for Chinese life-simulation narrative videos with consistent comic IP, rapid multi-life openings, Edge TTS, synchronized captions, zoom/pan motion and final MP4 QA.",
-  "stars": 120,
-  "forks": 21
+  "description": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3",
+  "stars": 157,
+  "forks": 9
 }
