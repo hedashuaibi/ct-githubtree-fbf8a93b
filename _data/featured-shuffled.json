@@ -1,45 +1,39 @@
 [
   {
-    "repo": "rust-embedded/discovery",
+    "repo": "deepfakes/faceswap",
     "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
+    "language": "Python",
+    "description": "Deepfakes Software For All"
   },
   {
-    "repo": "avihaymenahem/velo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
-  },
-  {
-    "repo": "fspecii/HeartMuLa-Studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
-  },
-  {
-    "repo": "danilo-znamerovszkij/draw-your-font",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill."
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "0xKarl-dev/claw-codes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "runesleo/x-reader",
+    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
     "branch": "main",
     "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+    "description": ""
+  },
+  {
+    "repo": "SamAun1234/auto-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "dwg download 2d drafting 3d modeling design software autolisp specialized toolsets smart blocks architecture mechanical electrical"
+  },
+  {
+    "repo": "awaisaleem1/Mass_Effect_Legendary_Edition_Unlimited_Credits",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited credits, skill points, and all weapons for Mass Effect LE. God mode, infinite ammo, and max paragon/renegade."
+  },
+  {
+    "repo": "zhujingqi/Twitter_Engagement_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience."
+  },
+  {
+    "repo": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP."
   },
   {
     "repo": "marshallrichards/ClawPhone",
@@ -48,99 +42,105 @@
     "description": "Tweaks for running OpenClaw on a Android smartphone"
   },
   {
-    "repo": "Darkkal44/sddm-themes",
-    "branch": "main",
-    "language": "QML",
-    "description": "A simple collection of all the sddm-themes I've made :D"
-  },
-  {
-    "repo": "jshachm/pi-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "基于pi-mono，rust轻量化版本"
-  },
-  {
-    "repo": "qinwf/awesome-R",
-    "branch": "master",
-    "language": "R",
-    "description": "A curated list of awesome R packages, frameworks and software."
-  },
-  {
-    "repo": "sdyckjq-lab/llm-wiki-skill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
-  },
-  {
-    "repo": "thellimist/clihub",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "AMAP-ML/RL3DEdit",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "lukehinds/nono",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
-  },
-  {
-    "repo": "kristelTech/make_me_a_meme",
+    "repo": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
     "branch": "main",
     "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
+    "description": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield."
   },
   {
-    "repo": "1jehuang/mermaid-rs-renderer",
-    "branch": "master",
+    "repo": "FOGames/Jujitsu_Shenanigans_-_Auto-Farm___Aimbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm and aimbot for Jujitsu Shenanigans, the anime fighting game[reference:48]. Farm XP, unlock all moves, and dominate PvP."
+  },
+  {
+    "repo": "six-ddc/livecaption",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud."
+  },
+  {
+    "repo": "aresyn/codex-control-plane-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Durable MCP control plane for long-running Codex Desktop tasks"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "branch": "main",
     "language": "Rust",
-    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
+    "description": "Open-source search and retrieval database for AI applications."
   },
   {
-    "repo": "understudy-ai/understudy",
+    "repo": "usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-place towers, auto-farm, and auto-upgrade for Tower Defense Simulator. Automatically place towers, upgrade, and survive waves."
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "miuda-ai/lele",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Bare-Metal Rust Audio AI Framework"
+  },
+  {
+    "repo": "Pylons/pyramid",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pyramid - A Python web framework"
+  },
+  {
+    "repo": "ryan26craf/Hbar-Wallet-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "A secure, open-source desktop wallet for Hedera HBAR cryptocurrency built with C++ and Qt6."
+  },
+  {
+    "repo": "moye-tech/WhatsApp_Bulk_Sender",
+    "branch": "main",
+    "language": "Python",
+    "description": "Send bulk messages to contacts and groups automatically. Message all contacts, send to groups, send images/videos, and schedule messages. Best for business."
+  },
+  {
+    "repo": "smileyprathu/Color_Picker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers."
+  },
+  {
+    "repo": "LichAmnesia/awesome-ad-video-prompts",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming."
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "REST API for any Postgres database"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+  },
+  {
+    "repo": "MohammdKopa/discord-server-booster-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
+  },
+  {
+    "repo": "AICoderTudou/claude-code-tudou",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An understudy watches. Then performs."
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "Justi1980/Dawn-Validator-BOT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
-  },
-  {
-    "repo": "pulumi/pulumi",
-    "branch": "master",
-    "language": "Go",
-    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
-  },
-  {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "jackwener/opencli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
-  },
-  {
-    "repo": "ShinMegamiBoson/OpenPlanter",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   }
 ]

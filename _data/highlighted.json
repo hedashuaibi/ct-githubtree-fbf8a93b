@@ -1,8 +1,8 @@
 {
-  "repo": "akalikbergenov/cyclop",
+  "repo": "Mr-funny/hbg-life-simulation",
   "branch": "main",
-  "language": "Swift",
-  "description": "Челка MacBook как рабочий инструмент: плеер, полка для файлов, буфер обмена, заготовки, календарь и офлайн-перевод. Нативно, на SwiftUI, без зависимостей.",
-  "stars": 125,
-  "forks": 29
+  "language": "JavaScript",
+  "description": "HBG Agent Skill for Chinese life-simulation narrative videos with consistent comic IP, rapid multi-life openings, Edge TTS, synchronized captions, zoom/pan motion and final MP4 QA.",
+  "stars": 120,
+  "forks": 21
 }
