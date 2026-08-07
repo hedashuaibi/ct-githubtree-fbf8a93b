@@ -1,8 +1,8 @@
 {
-  "repo": "AIMixer/ComfyUI_MiniMaxH3_Director",
+  "repo": "cloudflare/cloudflare-os-starter",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3",
-  "stars": 157,
-  "forks": 9
+  "description": "A guide for customizing your Cloudflare OS deployment",
+  "stars": 138,
+  "forks": 37
 }
