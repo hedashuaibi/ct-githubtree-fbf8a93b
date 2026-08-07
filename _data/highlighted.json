@@ -1,8 +1,8 @@
 {
-  "repo": "mika50000/gpt-link",
+  "repo": "akalikbergenov/cyclop",
   "branch": "main",
-  "language": "Python",
-  "description": "Standalone ChatGPT Session/accessToken link extractor",
-  "stars": 132,
-  "forks": 43
+  "language": "Swift",
+  "description": "Челка MacBook как рабочий инструмент: плеер, полка для файлов, буфер обмена, заготовки, календарь и офлайн-перевод. Нативно, на SwiftUI, без зависимостей.",
+  "stars": 125,
+  "forks": 29
 }
