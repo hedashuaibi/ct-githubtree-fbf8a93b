@@ -1,146 +1,146 @@
 [
   {
-    "repo": "uu201/character-arc",
+    "repo": "calesthio/OpenMontage",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
+    "language": "Python",
+    "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio."
   },
   {
-    "repo": "MunGell/awesome-for-beginners",
+    "repo": "krahets/hello-algo",
+    "branch": "main",
+    "language": "Java",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+  },
+  {
+    "repo": "shanselman/cert-inspector",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
+  },
+  {
+    "repo": "oyunhacktr/Windows-Xbox-Mode",
+    "branch": "main",
+    "language": "C++",
+    "description": "windows 11 xbox mode pc gaming controller handheld console xbox series x s dev mode interface controller vivetool setup guide game pass performance optimization fix 2026**"
+  },
+  {
+    "repo": "rust-lang/mdBook",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
+  },
+  {
+    "repo": "kristelTech/make_me_a_meme",
+    "branch": "main",
+    "language": "Python",
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "compound-finance/compound-protocol",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Compound On-Chain Protocol"
+  },
+  {
+    "repo": "Uniswap/v3-core",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "QwenLM/Qwen3-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
+  },
+  {
+    "repo": "tldraw/tldraw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "very good whiteboard infinite canvas SDK"
+  },
+  {
+    "repo": "markets/awesome-ruby",
     "branch": "master",
     "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
+    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
   },
   {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
-    "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
+    "repo": "rivet-dev/sandbox-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
   },
   {
-    "repo": "Significant-Gravitas/AutoGPT",
+    "repo": "mantinedev/mantine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A fully featured React components library"
+  },
+  {
+    "repo": "facebook/jest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Delightful JavaScript Testing."
+  },
+  {
+    "repo": "formulahendry/wechat-acp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
+  },
+  {
+    "repo": "google/benchmark",
+    "branch": "main",
+    "language": "C++",
+    "description": "A microbenchmark support library"
+  },
+  {
+    "repo": "openmax-server/server",
     "branch": "master",
     "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+    "description": "Открытый сервер для MAX"
   },
   {
-    "repo": "infraform/polymarket-copy-trading-bot",
+    "repo": "imj01y/trace-ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "高性能 ARM64 执行 trace 可视化分析工具"
   },
   {
-    "repo": "wesbos/JSON-Alexander",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
-  },
-  {
-    "repo": "zhangbo2008/claude_code_annotated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claudecode泄露部分的代码解析"
-  },
-  {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "micropython/micropython",
-    "branch": "master",
-    "language": "C",
-    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
-  },
-  {
-    "repo": "leon-ai/leon",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🧠 Leon is your open-source personal assistant."
-  },
-  {
-    "repo": "apache/httpcomponents-client",
-    "branch": "master",
-    "language": "Java",
-    "description": "Mirror of Apache HttpClient"
-  },
-  {
-    "repo": "Morgensonne/EditDeck",
+    "repo": "aiming-lab/AutoResearchClaw",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
   },
   {
-    "repo": "browserable/browserable",
+    "repo": "LeDat98/NexusRAG",
     "branch": "main",
+    "language": "Python",
+    "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
+  },
+  {
+    "repo": "requirejs/requirejs",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Open source and self-hostable browser automation library for AI agents"
+    "description": "A file and module loader for JavaScript"
   },
   {
-    "repo": "Kuberwastaken/claurst",
+    "repo": "Infatoshi/OpenSquirrel",
     "branch": "main",
     "language": "Rust",
-    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
-  },
-  {
-    "repo": "lllyasviel/Fooocus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Focus on prompting and generating"
-  },
-  {
-    "repo": "fish-shell/fish-shell",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The user-friendly command line shell."
-  },
-  {
-    "repo": "jamez-bondos/awesome-gpt4o-images",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities."
-  },
-  {
-    "repo": "shorwood/slopc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A proc macro that uses an hallucination machine to write your function bodies at compile time."
-  },
-  {
-    "repo": "0xSero/pi-brain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "apache/camel",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
-  },
-  {
-    "repo": "open-webui/open-webui",
-    "branch": "main",
-    "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
-  },
-  {
-    "repo": "zanetanasta/Seed-Generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths."
-  },
-  {
-    "repo": "averygan/reclip",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
   }
 ]
