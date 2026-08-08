@@ -1,146 +1,146 @@
 [
   {
-    "repo": "anjelisembiring651624/Lossless-Scaling-Util-V2.0",
-    "branch": "main",
-    "language": "C#",
-    "description": "A standalone utility to configure, optimize, and unlock lossless frame generation and scaling features for any 3D application or game."
-  },
-  {
-    "repo": "zzzhhh1/techshare-proxy-turbo",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "liangdabiao/liurun-bookwriter-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "蒸馏skill : 基于刘润28 年商业写作经验的完整复刻。基于其《我这28年的写作心法》提炼的 8 大心法、3 种结构、SCQA 逻辑势能、5商派 SCA++ 模板、7 种 callout，专为商业长文创作设计。你让它随便写任何 东西的 商业评论，都没有问题，都有意思，有洞见。"
-  },
-  {
-    "repo": "brookfacehe2421/flashloan-scalper-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Quick profit scalper using flashloan mechanics"
-  },
-  {
-    "repo": "mocasus/Auto-FreeCF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes"
-  },
-  {
-    "repo": "Robbyant/lingbot-world-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Infinite Worlds with Versatile Interactions"
-  },
-  {
-    "repo": "Haleclipse/cscience",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Claude Science Rebuild"
-  },
-  {
-    "repo": "Robbyant/lingbot-video",
-    "branch": "master",
-    "language": "Python",
-    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
-  },
-  {
-    "repo": "CoscoAI/luxy-aisre",
-    "branch": "main",
-    "language": "Python",
-    "description": "AISRE for Cosco"
-  },
-  {
-    "repo": "HaochengLu/contextvc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Git-native context control plane for AI coding agents"
-  },
-  {
-    "repo": "Alice53211/auth-codex-plugin",
+    "repo": "uu201/character-arc",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Auth codex plugin for opencode with local dashboard, force mode, and etc. Codex plugin"
+    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
   },
   {
-    "repo": "lingbol088-spec/ReiPenFlow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows."
-  },
-  {
-    "repo": "ActiveTK/VRAMDISK",
-    "branch": "main",
-    "language": "Rust",
-    "description": "VRAMDISK: Create VRAM disk on Windows"
-  },
-  {
-    "repo": "Sylvara-Lin/LianYu-app",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "Robbyant/lingbot-vla-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "From Foundation to Application"
-  },
-  {
-    "repo": "AHepi/DeepReason",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "blender/blender",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official mirror of Blender"
-  },
-  {
-    "repo": "minio/minio",
+    "repo": "MunGell/awesome-for-beginners",
     "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+    "language": "Other",
+    "description": "A list of awesome beginners-friendly projects."
   },
   {
-    "repo": "MetaMask/metamask-extension",
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+  },
+  {
+    "repo": "infraform/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "wesbos/JSON-Alexander",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A really good JSON viewer browser Extension"
+  },
+  {
+    "repo": "zhangbo2008/claude_code_annotated",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claudecode泄露部分的代码解析"
+  },
+  {
+    "repo": "huangserva/claude-code-cli",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+  },
+  {
+    "repo": "micropython/micropython",
+    "branch": "master",
+    "language": "C",
+    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
+  },
+  {
+    "repo": "leon-ai/leon",
     "branch": "develop",
     "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+    "description": "🧠 Leon is your open-source personal assistant."
   },
   {
-    "repo": "rjx18/codor",
+    "repo": "apache/httpcomponents-client",
+    "branch": "master",
+    "language": "Java",
+    "description": "Mirror of Apache HttpClient"
+  },
+  {
+    "repo": "Morgensonne/EditDeck",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "browserable/browserable",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source and self-hostable browser automation library for AI agents"
+  },
+  {
+    "repo": "Kuberwastaken/claurst",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Focus on prompting and generating"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The user-friendly command line shell."
+  },
+  {
+    "repo": "jamez-bondos/awesome-gpt4o-images",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities."
+  },
+  {
+    "repo": "shorwood/slopc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A proc macro that uses an hallucination machine to write your function bodies at compile time."
+  },
+  {
+    "repo": "0xSero/pi-brain",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "NextWeb4/lan-file-transfer",
+    "repo": "apache/camel",
+    "branch": "main",
+    "language": "Java",
+    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
+  },
+  {
+    "repo": "jd-opensource/JoyAI-Image",
     "branch": "main",
     "language": "Python",
-    "description": "Local LAN file transfer desktop app with user/group permissions and audit logs."
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
   },
   {
-    "repo": "home-assistant/core",
-    "branch": "dev",
+    "repo": "open-webui/open-webui",
+    "branch": "main",
     "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
   },
   {
-    "repo": "etcd-io/etcd",
+    "repo": "zanetanasta/Seed-Generator",
     "branch": "main",
-    "language": "Go",
-    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+    "language": "Python",
+    "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths."
   },
   {
-    "repo": "deepmind/mujoco",
+    "repo": "averygan/reclip",
     "branch": "main",
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+    "language": "HTML",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
   }
 ]
