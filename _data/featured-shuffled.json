@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Jawaz-Keyzor/DarkGPT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source."
-  },
-  {
-    "repo": "pluk-inc/md-preview.app",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A simple Markdown viewer for reading .md files"
-  },
-  {
-    "repo": "skydoves/compose-nav-graph",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions."
-  },
-  {
-    "repo": "Asosa809/File_Recovery_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use."
-  },
-  {
-    "repo": "wbh604/UZI-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
-  },
-  {
-    "repo": "K-Dense-AI/science-superpowers",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
-  },
-  {
-    "repo": "millionco/cli-to-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn any CLI into a JavaScript API"
-  },
-  {
-    "repo": "yanhua1010/zero-to-ai-fullstack",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
-  },
-  {
-    "repo": "buaochatuqa/open-source-games",
-    "branch": "main",
-    "language": "Python",
-    "description": "A list of open source games."
-  },
-  {
-    "repo": "1-dr-eam/RecommenderSystem",
-    "branch": "RecommenderSystem",
-    "language": "Python",
-    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API"
-  },
-  {
-    "repo": "jakobfriedl/tgt-monitor-bof",
-    "branch": "main",
-    "language": "C",
-    "description": "Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as they appear on a target system."
-  },
-  {
-    "repo": "xinyitang3/cfnb",
-    "branch": "main",
-    "language": "Python",
-    "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 + IP 纯净度过滤 四重机制，从海量公开节点中筛选出当前网络环境下速度最快、可用性最高、滥用评分最低的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。"
-  },
-  {
-    "repo": "yaojingang/GEOFlow",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
-  },
-  {
-    "repo": "zhaoyue4810/pianke",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "MangoLion/stretchystudio",
+    "repo": "Nahuel990/ministack",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+    "language": "Python",
+    "description": "Ministack: the free LocalStack replacement"
   },
   {
-    "repo": "1270011/claude-buddy",
+    "repo": "knative/eventing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Event-driven application platform for Kubernetes"
+  },
+  {
+    "repo": "PanJiaChen/vue-element-admin",
+    "branch": "master",
+    "language": "Vue",
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+  },
+  {
+    "repo": "realm/realm-swift",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
+  },
+  {
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
+  },
+  {
+    "repo": "golang-standards/project-layout",
+    "branch": "master",
+    "language": "Makefile",
+    "description": "Standard Go Project Layout"
+  },
+  {
+    "repo": "btahir/react-kino",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update"
+    "description": "Cinematic scroll-driven storytelling for React"
   },
   {
-    "repo": "serenakeyitan/sbti-wiki",
+    "repo": "arduino/Arduino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
+  },
+  {
+    "repo": "e10nMa2k/cc-mini",
     "branch": "main",
-    "language": "HTML",
-    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev"
+    "language": "Python",
+    "description": "mini version of claude code"
   },
   {
-    "repo": "duggasco/bc250-40cu-unlock",
+    "repo": "Rabrg/artificial-life",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+  },
+  {
+    "repo": "shitagaki-lab/see-through",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Single-image Layer Decomposition for Anime Characters (SIGGRAPH 2026, Conditionally Accepted)"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "hmmhmmhm/daiso-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
+  },
+  {
+    "repo": "Abnerla/AI_paper",
+    "branch": "main",
+    "language": "Python",
+    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+  },
+  {
+    "repo": "sooryathejas/METATRON",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
+  },
+  {
+    "repo": "apache/echarts",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+  },
+  {
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "krahets/hello-algo",
+    "branch": "main",
+    "language": "Java",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+  },
+  {
+    "repo": "BytePioneer-AI/moltbot-china",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
+  },
+  {
+    "repo": "jesselau76/cigen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive root/affix vocabulary memory web app"
+  },
+  {
+    "repo": "krisrice/oracle-db-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
   },
   {
-    "repo": "skyllwt/OmegaWiki",
-    "branch": "main",
-    "language": "Python",
-    "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code"
+    "repo": "nguyenduchoai/bizclaw",
+    "branch": "master",
+    "language": "Rust",
+    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
   },
   {
-    "repo": "wuyoscar/gpt_image_2_skill",
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
     "branch": "main",
-    "language": "Python",
-    "description": "Curated T2I prompts and skill/CLI wrappers for GPT Image 2"
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
   },
   {
-    "repo": "SamadhiFire/xinqingnian-maoxuan-skill",
+    "repo": "Adityaraj0421/design-studio",
     "branch": "main",
-    "language": "HTML",
-    "description": "毛选Skill/新青年Skill/新青年/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
-  },
-  {
-    "repo": "jaytel0/taste",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Taste skill creation pipeline"
-  },
-  {
-    "repo": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
-    "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak vectors."
-  },
-  {
-    "repo": "AgentSeal/codeburn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+    "language": "Shell",
+    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
   }
 ]
