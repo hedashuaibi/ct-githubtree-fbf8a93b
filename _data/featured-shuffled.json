@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gin-gonic/gin",
+    "repo": "k2-fsa/OmniVoice",
+    "branch": "master",
+    "language": "Python",
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-gateway",
+    "branch": "main",
+    "language": "Java",
+    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+  },
+  {
+    "repo": "NanoFlow-io/engram",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
+  },
+  {
+    "repo": "facebook/jest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Delightful JavaScript Testing."
+  },
+  {
+    "repo": "restic/restic",
     "branch": "master",
     "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+    "description": "Fast, secure, efficient backup program"
   },
   {
-    "repo": "mnemox-ai/idea-reality-mcp",
-    "branch": "main",
+    "repo": "starship/starship",
+    "branch": "master",
+    "language": "Rust",
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+  },
+  {
+    "repo": "supabase/supabase",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+  },
+  {
+    "repo": "azl397985856/leetcode",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
     "language": "Python",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+    "description": "Free, open source crypto trading bot"
   },
   {
-    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Gold",
-    "branch": "main",
+    "repo": "istio/istio.io",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Source for the istio.io site"
+  },
+  {
+    "repo": "derailed/k9s",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+  },
+  {
+    "repo": "auth0/node-jsonwebtoken",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "branch": "master",
     "language": "Python",
-    "description": "Maximize your efficiency in Pet Simulator 99 with the Gold auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
   },
   {
-    "repo": "leo-lilinxiao/codex-autoresearch",
+    "repo": "argoproj/argo-workflows",
+    "branch": "master",
+    "language": "Go",
+    "description": "Workflow Engine for Kubernetes"
+  },
+  {
+    "repo": "makermate/clarvis-ai",
     "branch": "main",
     "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+    "description": "Clarvis - 3D Printing Made Easy"
   },
   {
-    "repo": "Lum1104/Understand-Anything",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
-  },
-  {
-    "repo": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
-  },
-  {
-    "repo": "LarsenCundric/port-whisperer",
-    "branch": "main",
+    "repo": "melonjs/melonJS",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A beautiful CLI tool to see what's running on your ports"
+    "description": "a fresh, modern & lightweight HTML5 game engine"
   },
   {
-    "repo": "iammaimai/claude-code-fixed",
+    "repo": "tektoncd/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
+  },
+  {
+    "repo": "rbenv/rbenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Manage your app's Ruby environment"
+  },
+  {
+    "repo": "The-Vibe-Company/companion",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
   },
   {
-    "repo": "NawfalMotii79/PLFM_RADAR",
-    "branch": "main",
-    "language": "C",
-    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+    "repo": "tqdm/tqdm",
+    "branch": "master",
+    "language": "Python",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
   },
   {
-    "repo": "shobhit99/claude-watch",
+    "repo": "doctorhetfield-cmd/simpleui.koplugin",
     "branch": "main",
+    "language": "Lua",
+    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
+  },
+  {
+    "repo": "vsouza/awesome-ios",
+    "branch": "master",
     "language": "Swift",
-    "description": "Control your claude code from your apple watch"
+    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
   },
   {
-    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
-    "language": "TypeScript",
+    "repo": "binhanchen25-arch/agent_plus",
+    "branch": "master",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "facebookresearch/tribev2",
+    "repo": "microsoft/dotnet",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
-  },
-  {
-    "repo": "timwuhaotian/the-pair",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
-  },
-  {
-    "repo": "Mibayy/token-savior",
-    "branch": "main",
-    "language": "Python",
-    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
-  },
-  {
-    "repo": "LearnPrompt/cc-harness-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
-  },
-  {
-    "repo": "kessler/gemma-gem",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
-  },
-  {
-    "repo": "beita6969/ScienceClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
-  },
-  {
-    "repo": "CyrilPeng/FlowScroll",
-    "branch": "main",
-    "language": "Python",
-    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-trade-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "0xSero/pi-brain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "openabdev/openab",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
-  },
-  {
-    "repo": "zevorn/rt-claw",
-    "branch": "main",
-    "language": "C",
-    "description": "Making AI Assistants Cheap Again!"
-  },
-  {
-    "repo": "victorsosaMx/vsWaybar-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
+    "language": "HTML",
+    "description": "This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "ikuV/deident-wasm",
+  "repo": "MengTo/sketchbook",
   "branch": "main",
-  "language": "Rust",
-  "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
-  "stars": 142,
-  "forks": 0
+  "language": "HTML",
+  "description": "A page-flipping sketchbook of Singapore. One static HTML file: drag to turn the page, drag the magnifier across it.",
+  "stars": 126,
+  "forks": 33
 }
