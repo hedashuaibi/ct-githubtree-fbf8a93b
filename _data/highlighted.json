@@ -1,8 +1,8 @@
 {
-  "repo": "palamim/starboard",
+  "repo": "ikuV/deident-wasm",
   "branch": "main",
-  "language": "Swift",
-  "description": "A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture",
-  "stars": 124,
-  "forks": 4
+  "language": "Rust",
+  "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
+  "stars": 142,
+  "forks": 0
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lzh-phd/topic-feasibility-screener",
-    "branch": "master",
-    "language": "Python",
-    "description": "有大致的想法不知道怎么选题？只要给这个skills扔点数据，他能自动帮你延伸出多个idea，检索文献，并帮你跑初步回归验证实证可行性和理论可行性，最后打分排名，让你的科研第一步不再难堪！"
-  },
-  {
-    "repo": "golang/tools",
+    "repo": "gin-gonic/gin",
     "branch": "master",
     "language": "Go",
-    "description": "[mirror] Go Tools"
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
   },
   {
-    "repo": "veggiemonk/awesome-docker",
-    "branch": "master",
-    "language": "Other",
-    "description": ":whale: A curated list of Docker resources and projects"
-  },
-  {
-    "repo": "facebookresearch/fairseq",
+    "repo": "mnemox-ai/idea-reality-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
   },
   {
-    "repo": "software-mansion/react-native-reanimated",
+    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Gold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your efficiency in Pet Simulator 99 with the Gold auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
+  },
+  {
+    "repo": "leo-lilinxiao/codex-autoresearch",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "repo": "Lum1104/Understand-Anything",
     "branch": "main",
     "language": "TypeScript",
-    "description": "React Native's Animated library reimplemented"
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
   },
   {
-    "repo": "rust-embedded/discovery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
-  },
-  {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-  },
-  {
-    "repo": "extism/extism",
+    "repo": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
     "branch": "main",
-    "language": "Rust",
-    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
+    "language": "Solidity",
+    "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
   },
   {
-    "repo": "vava-nessa/free-coding-models",
+    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
+  },
+  {
+    "repo": "LarsenCundric/port-whisperer",
     "branch": "main",
     "language": "JavaScript",
+    "description": "A beautiful CLI tool to see what's running on your ports"
+  },
+  {
+    "repo": "iammaimai/claude-code-fixed",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
+    "repo": "NawfalMotii79/PLFM_RADAR",
     "branch": "main",
-    "language": "C++",
-    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
+    "language": "C",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
   },
   {
-    "repo": "ryfineZ/codex-session-patcher",
+    "repo": "shobhit99/claude-watch",
     "branch": "main",
-    "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+    "language": "Swift",
+    "description": "Control your claude code from your apple watch"
   },
   {
-    "repo": "marswaveai/ColaMD",
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Agent Native Markdown Editor."
+    "description": ""
   },
   {
-    "repo": "jackwener/rdt-cli",
+    "repo": "facebookresearch/tribev2",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
+  },
+  {
+    "repo": "timwuhaotian/the-pair",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
+  },
+  {
+    "repo": "Mibayy/token-savior",
     "branch": "main",
     "language": "Python",
-    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
   },
   {
-    "repo": "RightNow-AI/autokernel",
+    "repo": "LearnPrompt/cc-harness-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
   },
   {
-    "repo": "glommer/pgmicro",
-    "branch": "master",
+    "repo": "kessler/gemma-gem",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+  },
+  {
+    "repo": "CyrilPeng/FlowScroll",
+    "branch": "main",
+    "language": "Python",
+    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-trade-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "0xSero/pi-brain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "openabdev/openab",
+    "branch": "main",
     "language": "Rust",
-    "description": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine"
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
   },
   {
-    "repo": "CopilotKit/OpenGenerativeUI",
+    "repo": "zevorn/rt-claw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-Source Generative UI Framework"
+    "language": "C",
+    "description": "Making AI Assistants Cheap Again!"
   },
   {
-    "repo": "dreddnafious/thereisnospoon",
-    "branch": "main",
-    "language": "Python",
-    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
-  },
-  {
-    "repo": "PatrikFehrenbach/h1-brain",
+    "repo": "victorsosaMx/vsWaybar-Studio",
     "branch": "main",
     "language": "Python",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
-  },
-  {
-    "repo": "jaegertracing/jaeger",
-    "branch": "main",
-    "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
-  },
-  {
-    "repo": "fuma-nama/fumadocs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The beautiful & flexible React.js docs framework."
-  },
-  {
-    "repo": "tanviet12/chat-quality-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "dogadmin/ProcIR",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "ultrmgns/claude-private",
-    "branch": "master",
-    "language": "Python",
-    "description": "Claude Code without any telemetry - the perfect cli to combo with CCR"
+    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
   }
 ]
