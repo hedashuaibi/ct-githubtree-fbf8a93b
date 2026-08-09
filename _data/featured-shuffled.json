@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Nahuel990/ministack",
+    "repo": "lzh-phd/topic-feasibility-screener",
     "branch": "master",
     "language": "Python",
-    "description": "Ministack: the free LocalStack replacement"
+    "description": "有大致的想法不知道怎么选题？只要给这个skills扔点数据，他能自动帮你延伸出多个idea，检索文献，并帮你跑初步回归验证实证可行性和理论可行性，最后打分排名，让你的科研第一步不再难堪！"
   },
   {
-    "repo": "knative/eventing",
-    "branch": "main",
+    "repo": "golang/tools",
+    "branch": "master",
     "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
+    "description": "[mirror] Go Tools"
   },
   {
-    "repo": "PanJiaChen/vue-element-admin",
+    "repo": "veggiemonk/awesome-docker",
     "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+    "language": "Other",
+    "description": ":whale: A curated list of Docker resources and projects"
   },
   {
-    "repo": "realm/realm-swift",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
-  },
-  {
-    "repo": "rancher/k3d",
-    "branch": "main",
-    "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
-  },
-  {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
-  },
-  {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "e10nMa2k/cc-mini",
+    "repo": "facebookresearch/fairseq",
     "branch": "main",
     "language": "Python",
-    "description": "mini version of claude code"
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
   },
   {
-    "repo": "Rabrg/artificial-life",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
-  },
-  {
-    "repo": "shitagaki-lab/see-through",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Single-image Layer Decomposition for Anime Characters (SIGGRAPH 2026, Conditionally Accepted)"
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
+    "repo": "software-mansion/react-native-reanimated",
     "branch": "main",
     "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    "description": "React Native's Animated library reimplemented"
   },
   {
-    "repo": "hmmhmmhm/daiso-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
-  },
-  {
-    "repo": "Abnerla/AI_paper",
-    "branch": "main",
-    "language": "Python",
-    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
-  },
-  {
-    "repo": "sooryathejas/METATRON",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
-  },
-  {
-    "repo": "apache/echarts",
+    "repo": "rust-embedded/discovery",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+    "language": "Rust",
+    "description": "Discover the world of microcontrollers through Rust!"
   },
   {
-    "repo": "django/django",
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "extism/extism",
     "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
+    "language": "Rust",
+    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
   },
   {
-    "repo": "krahets/hello-algo",
-    "branch": "main",
-    "language": "Java",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
-  },
-  {
-    "repo": "BytePioneer-AI/moltbot-china",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
-  },
-  {
-    "repo": "jesselau76/cigen",
+    "repo": "vava-nessa/free-coding-models",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
+    "description": ""
   },
   {
-    "repo": "krisrice/oracle-db-skills",
+    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
     "branch": "main",
-    "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
+    "language": "C++",
+    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
   },
   {
-    "repo": "nguyenduchoai/bizclaw",
+    "repo": "ryfineZ/codex-session-patcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+  },
+  {
+    "repo": "marswaveai/ColaMD",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Agent Native Markdown Editor."
+  },
+  {
+    "repo": "jackwener/rdt-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+  },
+  {
+    "repo": "RightNow-AI/autokernel",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "repo": "glommer/pgmicro",
     "branch": "master",
     "language": "Rust",
-    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
+    "description": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine"
   },
   {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "repo": "CopilotKit/OpenGenerativeUI",
     "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
+    "language": "TypeScript",
+    "description": "Open-Source Generative UI Framework"
   },
   {
-    "repo": "Adityaraj0421/design-studio",
+    "repo": "dreddnafious/thereisnospoon",
     "branch": "main",
-    "language": "Shell",
-    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
+    "language": "Python",
+    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
+  },
+  {
+    "repo": "PatrikFehrenbach/h1-brain",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "branch": "main",
+    "language": "Go",
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+  },
+  {
+    "repo": "fuma-nama/fumadocs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The beautiful & flexible React.js docs framework."
+  },
+  {
+    "repo": "tanviet12/chat-quality-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "dogadmin/ProcIR",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "ultrmgns/claude-private",
+    "branch": "master",
+    "language": "Python",
+    "description": "Claude Code without any telemetry - the perfect cli to combo with CCR"
   }
 ]
