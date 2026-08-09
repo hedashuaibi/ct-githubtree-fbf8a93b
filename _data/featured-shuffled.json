@@ -1,146 +1,146 @@
 [
   {
-    "repo": "k2-fsa/OmniVoice",
+    "repo": "duggasco/bc250-40cu-unlock",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+  },
+  {
+    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "branch": "main",
+    "language": "Shell",
+    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
+  },
+  {
+    "repo": "Abnerla/AI_paper",
+    "branch": "main",
+    "language": "Python",
+    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+  },
+  {
+    "repo": "aiming-lab/AutoHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+  },
+  {
+    "repo": "34306/FilzaJailedDS",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+  },
+  {
+    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "bytedance-deerflow/deer-flow-installer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+  },
+  {
+    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "branch": "main",
+    "language": "Python",
+    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+  },
+  {
+    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
+    "branch": "main",
+    "language": "C++",
+    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
+  },
+  {
+    "repo": "shanselman/winget-tui",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
+  },
+  {
+    "repo": "maaslalani/sheets",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terminal based spreadsheet tool"
+  },
+  {
+    "repo": "karpathy/autoresearch",
     "branch": "master",
     "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+    "description": "AI agents running research on single-GPU nanochat training automatically"
   },
   {
-    "repo": "spring-cloud/spring-cloud-gateway",
+    "repo": "LeoYeAI/openclaw-master-skills",
     "branch": "main",
-    "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+    "language": "Python",
+    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
   },
   {
-    "repo": "NanoFlow-io/engram",
+    "repo": "kristelTech/make_me_a_meme",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
+    "language": "Python",
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
   },
   {
-    "repo": "facebook/jest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Delightful JavaScript Testing."
-  },
-  {
-    "repo": "restic/restic",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
-  },
-  {
-    "repo": "starship/starship",
+    "repo": "valeriansaliou/sonic",
     "branch": "master",
     "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
   },
   {
-    "repo": "supabase/supabase",
+    "repo": "akitaonrails/FrankSherlock",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
   },
   {
-    "repo": "azl397985856/leetcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
-  },
-  {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "istio/istio.io",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
-  },
-  {
-    "repo": "derailed/k9s",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
-  },
-  {
-    "repo": "auth0/node-jsonwebtoken",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
-  },
-  {
-    "repo": "scrapy/scrapy",
-    "branch": "master",
-    "language": "Python",
-    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
-  },
-  {
-    "repo": "argoproj/argo-workflows",
-    "branch": "master",
-    "language": "Go",
-    "description": "Workflow Engine for Kubernetes"
-  },
-  {
-    "repo": "makermate/clarvis-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Clarvis - 3D Printing Made Easy"
-  },
-  {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
-  },
-  {
-    "repo": "tektoncd/cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
-  },
-  {
-    "repo": "rbenv/rbenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Manage your app's Ruby environment"
-  },
-  {
-    "repo": "The-Vibe-Company/companion",
+    "repo": "DangJin/pdf2video",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
+    "description": "Transform PDF documents into engaging video presentations with smooth animations."
   },
   {
-    "repo": "tqdm/tqdm",
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
     "branch": "master",
-    "language": "Python",
-    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
+    "language": "JavaScript",
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
   },
   {
-    "repo": "doctorhetfield-cmd/simpleui.koplugin",
+    "repo": "mpv-player/mpv",
+    "branch": "master",
+    "language": "C",
+    "description": "🎥 Command line media player"
+  },
+  {
+    "repo": "vercel-labs/webreel",
     "branch": "main",
-    "language": "Lua",
-    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
+    "language": "TypeScript",
+    "description": "Record scripted browser demos as video"
   },
   {
-    "repo": "vsouza/awesome-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
-  },
-  {
-    "repo": "binhanchen25-arch/agent_plus",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "microsoft/dotnet",
+    "repo": "steipete/birdclaw",
     "branch": "main",
-    "language": "HTML",
-    "description": "This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation."
+    "language": "TypeScript",
+    "description": "Stores all your tweets nicely claw-able for agents."
+  },
+  {
+    "repo": "wsargent/docker-cheat-sheet",
+    "branch": "master",
+    "language": "Other",
+    "description": "Docker Cheat Sheet"
+  },
+  {
+    "repo": "phuryn/claude-usage",
+    "branch": "main",
+    "language": "Python",
+    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
+  },
+  {
+    "repo": "NyxTides/SimpleAuthFlow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A streamlined Chrome extension for the ChatGPT OAuth flow"
   }
 ]
