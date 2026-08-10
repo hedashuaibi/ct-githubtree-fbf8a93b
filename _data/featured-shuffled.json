@@ -1,146 +1,146 @@
 [
   {
-    "repo": "FishCodeTech/muteki",
+    "repo": "ricccrd/dd",
+    "branch": "main",
+    "language": "C",
+    "description": ""
+  },
+  {
+    "repo": "dazzyddos/PrivHound",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
+  },
+  {
+    "repo": "vedangvatsa123/vedang-swarm-prediction",
     "branch": "main",
     "language": "Python",
-    "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm"
+    "description": "Swarm Intelligence Prediction Engine - Multi-agent AI debate for calibrated forecasting"
   },
   {
-    "repo": "DatanoiseTV/tinyice",
+    "repo": "Infatoshi/metal-mc-terrain",
     "branch": "main",
-    "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+    "language": "Objective-C",
+    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
   },
   {
-    "repo": "Junyi42/LoGeR",
+    "repo": "EleutherAI/lm-evaluation-harness",
     "branch": "main",
     "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+    "description": "A framework for few-shot evaluation of language models."
   },
   {
-    "repo": "shanselman/MaximizeToVirtualDesktop",
-    "branch": "master",
-    "language": "C#",
-    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
-  },
-  {
-    "repo": "OasAIStudio/symphony-ts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Typecript version of https://github.com/openai/symphony"
-  },
-  {
-    "repo": "lovisdotio/falsprite",
+    "repo": "fastify/fastify",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
+    "description": "Fast and low overhead web framework, for Node.js"
   },
   {
-    "repo": "test-time-training/discover",
+    "repo": "ula7i921011/React2Shell-Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "React2Shell Scanner"
+  },
+  {
+    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+  },
+  {
+    "repo": "curl/curl",
+    "branch": "master",
+    "language": "C",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+  },
+  {
+    "repo": "d3/d3",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+  },
+  {
+    "repo": "OpenMOSS/MOSS-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "Fox-Fig/phoenix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+  },
+  {
+    "repo": "yangdongchao/UniAudio2",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
+  },
+  {
+    "repo": "xunchahaha/mi_nobl_root",
+    "branch": "main",
+    "language": "Shell",
+    "description": "小米免解bl的ksu+lsp方案"
+  },
+  {
+    "repo": "ramda/ramda",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":ram: Practical functional Javascript"
+  },
+  {
+    "repo": "sonpiaz/evox",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Gustavo1900/bevy-atmosphere",
+    "branch": "master",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "FireRedTeam/FireRed-OpenStoryline",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "standard/standard",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+    "repo": "zerobootdev/zeroboot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
   },
   {
-    "repo": "j3h4ck/PoisonKiller",
+    "repo": "GreenSheep01201/claw-empire",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "omnimind-ai/OmniInfer",
     "branch": "main",
     "language": "C++",
-    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
-  },
-  {
-    "repo": "cornel-pe/online-casino-platform-backend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This backend powers a modern crypto-enabled betting platform. It is designed for fast gameplay, real-time community, and serious risk control – without sacrificing developer friendliness."
-  },
-  {
-    "repo": "auth0/node-jsonwebtoken",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
-  },
-  {
-    "repo": "cncf/landscape",
-    "branch": "master",
-    "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
-  },
-  {
-    "repo": "millionco/react-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
-  },
-  {
-    "repo": "yasasbanukaofficial/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
-  },
-  {
-    "repo": "vicnaum/bun-demincer",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
-  },
-  {
-    "repo": "behzadea12/Paqet-Tunnel-Manager",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
-  },
-  {
-    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "34306/vphone-aio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "1 script run the vphone"
-  },
-  {
-    "repo": "k3s-io/k3s",
-    "branch": "master",
-    "language": "Go",
-    "description": "Lightweight Kubernetes"
-  },
-  {
-    "repo": "1Panel-dev/MaxKB",
-    "branch": "main",
-    "language": "Python",
-    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
-  },
-  {
-    "repo": "gorilla/mux",
-    "branch": "main",
-    "language": "Go",
-    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
-  },
-  {
-    "repo": "chekusu/shipkey",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "PyCQA/pylint",
-    "branch": "main",
-    "language": "Python",
-    "description": "It's not just a linter that annoys you!"
-  },
-  {
-    "repo": "langchain-ai/langchain",
-    "branch": "master",
-    "language": "Python",
-    "description": "🦜🔗 The platform for reliable agents."
+    "description": "Cross-platform LLM inference framework for efficient edge deployment"
   }
 ]
