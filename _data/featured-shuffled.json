@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Icex0/wp2shell-poc",
-    "branch": "main",
-    "language": "Python",
-    "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain"
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
-  },
-  {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "Geek-1001/arcmark",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
-  },
-  {
-    "repo": "missuo/koe",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "A zero-GUI macOS voice input tool. Press a hotkey, speak, and the corrected text is pasted into whatever app you're using."
-  },
-  {
-    "repo": "pretyflaco/meetscribe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
-  },
-  {
-    "repo": "PIPIKAI/auto-painter-win",
-    "branch": "main",
-    "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
-  },
-  {
-    "repo": "Soul-AILab/SoulX-Singer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
-  },
-  {
-    "repo": "taigrr/spank",
-    "branch": "master",
-    "language": "Go",
-    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
-  },
-  {
-    "repo": "MME-Benchmarks/Video-MME-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
-  },
-  {
-    "repo": "yasasbanukaofficial/claude-code",
+    "repo": "jdevalk/specification.website",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
   },
   {
-    "repo": "moabukar/miniblue",
+    "repo": "v1r3n/dinesh-gilfoyle",
+    "branch": "main",
+    "language": "HTML",
+    "description": "What if Dinesh and Gilfoyle reviewed your code?"
+  },
+  {
+    "repo": "mem9-ai/mem9",
     "branch": "main",
     "language": "Go",
-    "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev."
+    "description": ""
   },
   {
-    "repo": "AThevon/TokenEater",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
-  },
-  {
-    "repo": "steipete/birdclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
-  },
-  {
-    "repo": "shelljs/shelljs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":shell: Portable Unix shell commands for Node.js"
-  },
-  {
-    "repo": "CSSEGISandData/COVID-19",
+    "repo": "JStumpp/awesome-android",
     "branch": "master",
     "language": "Other",
-    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+    "description": "A curated list of awesome Android packages and resources."
   },
   {
-    "repo": "eslint/eslint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Find and fix problems in your JavaScript code."
-  },
-  {
-    "repo": "rohitg00/ai-engineering-from-scratch",
+    "repo": "finvfamily/finshare",
     "branch": "main",
     "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
   },
   {
-    "repo": "wailsapp/wails",
+    "repo": "starkware-libs/cairo",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+  },
+  {
+    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Visual Dexscreener terminal CLI + MCP scanner"
+  },
+  {
+    "repo": "typesense/typesense",
+    "branch": "master",
+    "language": "C++",
+    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences"
+  },
+  {
+    "repo": "mli55/pdfdelta",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Guid-Lab/kdecrypt",
+    "branch": "main",
+    "language": "C++",
+    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
+  },
+  {
+    "repo": "kapishdima/fonttrio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
+  },
+  {
+    "repo": "google/wire",
     "branch": "master",
     "language": "Go",
-    "description": "Create beautiful applications using Go"
+    "description": "Compile-time Dependency Injection for Go"
   },
   {
-    "repo": "wandb/wandb",
+    "repo": "infiniflow/ragflow",
     "branch": "main",
     "language": "Python",
-    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
   },
   {
-    "repo": "kubernetes/minikube",
+    "repo": "thedaviddias/Front-End-Checklist",
     "branch": "master",
-    "language": "Go",
-    "description": "Run Kubernetes locally"
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   },
   {
-    "repo": "rohitg00/awesome-claude-code-toolkit",
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "TheGreatGildo/nerv-ui",
+    "branch": "main",
+    "language": "HTML",
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+  },
+  {
+    "repo": "kamranahmedse/claude-statusline",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Minimal Claude Code statusline setup I personally use"
+  },
+  {
+    "repo": "dazzyddos/PrivHound",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
+  },
+  {
+    "repo": "gorkem-bwl/animated-icons",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+    "description": ""
   },
   {
-    "repo": "nikopueringer/CorridorKey",
+    "repo": "buildpacks/lifecycle",
     "branch": "main",
-    "language": "Python",
-    "description": "Perfect Green Screen Keys"
+    "language": "Go",
+    "description": "Reference implementation of the Cloud Native Buildpacks lifecycle"
   },
   {
-    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
+    "repo": "diandianti/clawInstaller",
     "branch": "main",
-    "language": "Python",
-    "description": "TradingView Full version unlocker"
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "CapeAga/bai-it",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
+  },
+  {
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "zhixianio/clawpal",
+    "branch": "main",
+    "language": "Rust",
+    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
   }
 ]
