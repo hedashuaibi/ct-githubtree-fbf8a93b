@@ -1,8 +1,8 @@
 {
-  "repo": "ikuV/deident-wasm",
+  "repo": "JayJokerr/arknights-pixel-autofill",
   "branch": "main",
-  "language": "Rust",
-  "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
-  "stars": 146,
-  "forks": 1
+  "language": "Python",
+  "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+  "stars": 102,
+  "forks": 6
 }

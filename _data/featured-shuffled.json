@@ -1,123 +1,81 @@
 [
   {
-    "repo": "duggasco/bc250-40cu-unlock",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
-  },
-  {
-    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
-    "branch": "main",
-    "language": "Shell",
-    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
-  },
-  {
-    "repo": "Abnerla/AI_paper",
+    "repo": "Icex0/wp2shell-poc",
     "branch": "main",
     "language": "Python",
-    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+    "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain"
   },
   {
-    "repo": "aiming-lab/AutoHarness",
+    "repo": "Emanuele-web04/remodex",
     "branch": "main",
-    "language": "Python",
-    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
   },
   {
-    "repo": "34306/FilzaJailedDS",
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "Geek-1001/arcmark",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
+  },
+  {
+    "repo": "missuo/koe",
     "branch": "main",
     "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+    "description": "A zero-GUI macOS voice input tool. Press a hotkey, speak, and the corrected text is pasted into whatever app you're using."
   },
   {
-    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
+    "repo": "pretyflaco/meetscribe",
     "branch": "main",
     "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
   },
   {
-    "repo": "bytedance-deerflow/deer-flow-installer",
+    "repo": "PIPIKAI/auto-painter-win",
     "branch": "main",
     "language": "Python",
-    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
   },
   {
-    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "repo": "Soul-AILab/SoulX-Singer",
     "branch": "main",
     "language": "Python",
-    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
   },
   {
-    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
+    "repo": "taigrr/spank",
+    "branch": "master",
+    "language": "Go",
+    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+  },
+  {
+    "repo": "MME-Benchmarks/Video-MME-v2",
     "branch": "main",
-    "language": "C++",
-    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
   },
   {
-    "repo": "shanselman/winget-tui",
+    "repo": "yasasbanukaofficial/claude-code",
     "branch": "main",
-    "language": "Rust",
-    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
+    "language": "TypeScript",
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
   },
   {
-    "repo": "maaslalani/sheets",
+    "repo": "moabukar/miniblue",
     "branch": "main",
     "language": "Go",
-    "description": "Terminal based spreadsheet tool"
+    "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev."
   },
   {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "LeoYeAI/openclaw-master-skills",
+    "repo": "AThevon/TokenEater",
     "branch": "main",
-    "language": "Python",
-    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "kristelTech/make_me_a_meme",
-    "branch": "main",
-    "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
-  },
-  {
-    "repo": "valeriansaliou/sonic",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
-  },
-  {
-    "repo": "akitaonrails/FrankSherlock",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
-  },
-  {
-    "repo": "DangJin/pdf2video",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Transform PDF documents into engaging video presentations with smooth animations."
-  },
-  {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
-  },
-  {
-    "repo": "mpv-player/mpv",
-    "branch": "master",
-    "language": "C",
-    "description": "🎥 Command line media player"
-  },
-  {
-    "repo": "vercel-labs/webreel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
+    "language": "Swift",
+    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
   },
   {
     "repo": "steipete/birdclaw",
@@ -126,21 +84,63 @@
     "description": "Stores all your tweets nicely claw-able for agents."
   },
   {
-    "repo": "wsargent/docker-cheat-sheet",
+    "repo": "shelljs/shelljs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":shell: Portable Unix shell commands for Node.js"
+  },
+  {
+    "repo": "CSSEGISandData/COVID-19",
     "branch": "master",
     "language": "Other",
-    "description": "Docker Cheat Sheet"
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
   },
   {
-    "repo": "phuryn/claude-usage",
-    "branch": "main",
-    "language": "Python",
-    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
-  },
-  {
-    "repo": "NyxTides/SimpleAuthFlow",
+    "repo": "eslint/eslint",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A streamlined Chrome extension for the ChatGPT OAuth flow"
+    "description": "Find and fix problems in your JavaScript code."
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "wailsapp/wails",
+    "branch": "master",
+    "language": "Go",
+    "description": "Create beautiful applications using Go"
+  },
+  {
+    "repo": "wandb/wandb",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+  },
+  {
+    "repo": "kubernetes/minikube",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run Kubernetes locally"
+  },
+  {
+    "repo": "rohitg00/awesome-claude-code-toolkit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+  },
+  {
+    "repo": "nikopueringer/CorridorKey",
+    "branch": "main",
+    "language": "Python",
+    "description": "Perfect Green Screen Keys"
+  },
+  {
+    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
+    "branch": "main",
+    "language": "Python",
+    "description": "TradingView Full version unlocker"
   }
 ]
