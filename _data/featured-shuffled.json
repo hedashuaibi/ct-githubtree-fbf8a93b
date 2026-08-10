@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jdevalk/specification.website",
+    "repo": "FishCodeTech/muteki",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+    "language": "Python",
+    "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm"
   },
   {
-    "repo": "v1r3n/dinesh-gilfoyle",
-    "branch": "main",
-    "language": "HTML",
-    "description": "What if Dinesh and Gilfoyle reviewed your code?"
-  },
-  {
-    "repo": "mem9-ai/mem9",
+    "repo": "DatanoiseTV/tinyice",
     "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
   },
   {
-    "repo": "JStumpp/awesome-android",
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "repo": "shanselman/MaximizeToVirtualDesktop",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android packages and resources."
+    "language": "C#",
+    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
   },
   {
-    "repo": "finvfamily/finshare",
-    "branch": "main",
-    "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
-  },
-  {
-    "repo": "starkware-libs/cairo",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
-  },
-  {
-    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual Dexscreener terminal CLI + MCP scanner"
-  },
-  {
-    "repo": "typesense/typesense",
-    "branch": "master",
-    "language": "C++",
-    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences"
-  },
-  {
-    "repo": "mli55/pdfdelta",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Guid-Lab/kdecrypt",
-    "branch": "main",
-    "language": "C++",
-    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
-  },
-  {
-    "repo": "kapishdima/fonttrio",
+    "repo": "OasAIStudio/symphony-ts",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
+    "description": "Typecript version of https://github.com/openai/symphony"
   },
   {
-    "repo": "google/wire",
-    "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
-  },
-  {
-    "repo": "infiniflow/ragflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "TheGreatGildo/nerv-ui",
-    "branch": "main",
-    "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
-  },
-  {
-    "repo": "kamranahmedse/claude-statusline",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Minimal Claude Code statusline setup I personally use"
-  },
-  {
-    "repo": "dazzyddos/PrivHound",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
-  },
-  {
-    "repo": "gorkem-bwl/animated-icons",
+    "repo": "lovisdotio/falsprite",
     "branch": "main",
     "language": "JavaScript",
+    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
+  },
+  {
+    "repo": "test-time-training/discover",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "buildpacks/lifecycle",
-    "branch": "main",
-    "language": "Go",
-    "description": "Reference implementation of the Cloud Native Buildpacks lifecycle"
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
   },
   {
-    "repo": "diandianti/clawInstaller",
+    "repo": "j3h4ck/PoisonKiller",
     "branch": "main",
-    "language": "C#",
-    "description": ""
+    "language": "C++",
+    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
   },
   {
-    "repo": "CapeAga/bai-it",
+    "repo": "cornel-pe/online-casino-platform-backend",
     "branch": "main",
     "language": "TypeScript",
-    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
+    "description": "This backend powers a modern crypto-enabled betting platform. It is designed for fast gameplay, real-time community, and serious risk control – without sacrificing developer friendliness."
   },
   {
-    "repo": "ossu/computer-science",
+    "repo": "auth0/node-jsonwebtoken",
     "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
+    "language": "JavaScript",
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
   },
   {
-    "repo": "zhixianio/clawpal",
+    "repo": "cncf/landscape",
+    "branch": "master",
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+  },
+  {
+    "repo": "millionco/react-doctor",
     "branch": "main",
-    "language": "Rust",
-    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "yasasbanukaofficial/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+  },
+  {
+    "repo": "vicnaum/bun-demincer",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
+  },
+  {
+    "repo": "behzadea12/Paqet-Tunnel-Manager",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
+  },
+  {
+    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "34306/vphone-aio",
+    "branch": "main",
+    "language": "Shell",
+    "description": "1 script run the vphone"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
+    "language": "Go",
+    "description": "Lightweight Kubernetes"
+  },
+  {
+    "repo": "1Panel-dev/MaxKB",
+    "branch": "main",
+    "language": "Python",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
+  },
+  {
+    "repo": "gorilla/mux",
+    "branch": "main",
+    "language": "Go",
+    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
+  },
+  {
+    "repo": "chekusu/shipkey",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "PyCQA/pylint",
+    "branch": "main",
+    "language": "Python",
+    "description": "It's not just a linter that annoys you!"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "branch": "master",
+    "language": "Python",
+    "description": "🦜🔗 The platform for reliable agents."
   }
 ]

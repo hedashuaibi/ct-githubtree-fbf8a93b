@@ -3,6 +3,6 @@
   "branch": "master",
   "language": "Go",
   "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-  "stars": 123,
-  "forks": 44
+  "stars": 135,
+  "forks": 51
 }
