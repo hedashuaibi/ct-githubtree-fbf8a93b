@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Pluviobyte/video-production-skills",
+    "repo": "Jia-Ethan/claude-keysmith",
     "branch": "main",
     "language": "Python",
-    "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA."
+    "description": "Claude Code CLAUDE.md import-block installer for local instruction files"
   },
   {
-    "repo": "davebcn87/pi-autoresearch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Autonomous experiment loop extension for pi"
-  },
-  {
-    "repo": "openai/CLIP",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
-  },
-  {
-    "repo": "martinez88668/MasterCryptoFarmBot",
-    "branch": "main",
-    "language": "Python",
-    "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app farming, session management, proxy support, scheduling system, Rich terminal dashboard, and one-click deployment for airdrop and DeFi yield farming"
-  },
-  {
-    "repo": "flannel-io/flannel",
-    "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "komunite/kalfa",
+    "repo": "harrymunro/nelson",
     "branch": "main",
     "language": "Shell",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
   },
   {
-    "repo": "Vacutagin/GameEnhancementSuite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
-  },
-  {
-    "repo": "mui/material-ui",
+    "repo": "daltoniam/Starscream",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
   },
   {
-    "repo": "ultralytics/yolov5",
+    "repo": "RasaHQ/rasa",
+    "branch": "main",
+    "language": "Python",
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+  },
+  {
+    "repo": "theja0473/automotive-claude-code-agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automotive software engineering is one of the most complex and regulated domains in the world. Engineers juggle **ISO 26262 functional safety**, **AUTOSAR architectures**, **MISRA compliance**, **cybersecurity standards**, and **real-time embedded constraints** -- all while shipping on aggressive timelines."
+  },
+  {
+    "repo": "gohugoio/hugo",
     "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
   },
   {
-    "repo": "pytorch/pytorch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
+    "repo": "every-app/open-seo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
   },
   {
-    "repo": "mizchi/actrun",
+    "repo": "schibsted/videofy_minimal",
     "branch": "main",
-    "language": "MoonBit",
-    "description": "GitHub Actions compatible CI runner in MoonBit"
-  },
-  {
-    "repo": "Lucent-Snow/style-extractor",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "一个能够提取最大化提取网页风格的skill"
-  },
-  {
-    "repo": "axios/axios",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
-    "branch": "main",
-    "language": "C++",
-    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
-  },
-  {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "0xSero/turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
-  },
-  {
-    "repo": "apache/superset",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    "description": ""
   },
   {
-    "repo": "HKUDS/nanobot",
+    "repo": "photonstorm/phaser",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+  },
+  {
+    "repo": "facebook/hermes",
     "branch": "main",
-    "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+    "language": "JavaScript",
+    "description": "A JavaScript engine optimized for running React Native."
   },
   {
-    "repo": "louisho5/picobot",
+    "repo": "ankitects/anki",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Anki is a smart spaced repetition flashcard program"
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-gateway",
+    "branch": "main",
+    "language": "Java",
+    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+  },
+  {
+    "repo": "wy51ai/moltbotCNAPP",
     "branch": "main",
     "language": "Go",
-    "description": "A lightweight self-hosted bot in a single binary, written in Go."
+    "description": ""
   },
   {
-    "repo": "prettier/eslint-plugin-prettier",
+    "repo": "zulip/zulip",
+    "branch": "main",
+    "language": "Python",
+    "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused."
+  },
+  {
+    "repo": "rust-analyzer/rust-analyzer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Rust compiler front-end for IDEs"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
+  },
+  {
+    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "1354427059/orchids-api",
+    "branch": "main",
+    "language": "Go",
+    "description": "1111"
+  },
+  {
+    "repo": "taf2/mdvi",
+    "branch": "master",
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
+  },
+  {
+    "repo": "nestjs/nest",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+  },
+  {
+    "repo": "elder-plinius/GLOSSOPETRAE",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
+    "description": "LINGUISTIC ENGINE FOR AI"
   },
   {
-    "repo": "memovai/mimiclaw",
+    "repo": "Nasiko-Labs/nasiko",
     "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+    "language": "Python",
+    "description": "AI-powered development platform for the future"
+  },
+  {
+    "repo": "jackwener/opencli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
+  },
+  {
+    "repo": "jackwener/xiaohongshu-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
   }
 ]

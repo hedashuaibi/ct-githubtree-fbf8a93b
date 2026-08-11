@@ -1,8 +1,8 @@
 {
-  "repo": "jundizhou/easy-stock",
+  "repo": "sv-number/skills",
   "branch": "main",
-  "language": "Go",
-  "description": "A featured project on GitHubTree.",
-  "stars": 102,
-  "forks": 3
+  "language": "Python",
+  "description": "Give your AI agent a phone number: order a private number in 200+ countries over the API, read the SMS verification code, hand the number back. The widest country coverage in the category, checkable with one API call.",
+  "stars": 117,
+  "forks": 0
 }
