@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ricccrd/dd",
-    "branch": "main",
-    "language": "C",
-    "description": ""
-  },
-  {
-    "repo": "dazzyddos/PrivHound",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
-  },
-  {
-    "repo": "vedangvatsa123/vedang-swarm-prediction",
+    "repo": "Pluviobyte/video-production-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Swarm Intelligence Prediction Engine - Multi-agent AI debate for calibrated forecasting"
+    "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA."
   },
   {
-    "repo": "Infatoshi/metal-mc-terrain",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
-  },
-  {
-    "repo": "EleutherAI/lm-evaluation-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "A framework for few-shot evaluation of language models."
-  },
-  {
-    "repo": "fastify/fastify",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
-  },
-  {
-    "repo": "ula7i921011/React2Shell-Scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "React2Shell Scanner"
-  },
-  {
-    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
-  },
-  {
-    "repo": "curl/curl",
-    "branch": "master",
-    "language": "C",
-    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
-  },
-  {
-    "repo": "d3/d3",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
-  },
-  {
-    "repo": "OpenMOSS/MOSS-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
-  },
-  {
-    "repo": "microsoft/vscode",
+    "repo": "davebcn87/pi-autoresearch",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "Autonomous experiment loop extension for pi"
   },
   {
-    "repo": "Fox-Fig/phoenix",
+    "repo": "openai/CLIP",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
+  },
+  {
+    "repo": "martinez88668/MasterCryptoFarmBot",
+    "branch": "main",
+    "language": "Python",
+    "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app farming, session management, proxy support, scheduling system, Rich terminal dashboard, and one-click deployment for airdrop and DeFi yield farming"
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "komunite/kalfa",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+  },
+  {
+    "repo": "Vacutagin/GameEnhancementSuite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "ultralytics/yolov5",
+    "branch": "master",
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "mizchi/actrun",
+    "branch": "main",
+    "language": "MoonBit",
+    "description": "GitHub Actions compatible CI runner in MoonBit"
+  },
+  {
+    "repo": "Lucent-Snow/style-extractor",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "一个能够提取最大化提取网页风格的skill"
+  },
+  {
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
+  },
+  {
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
+    "branch": "main",
+    "language": "C++",
+    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript."
+  },
+  {
+    "repo": "0xSero/turboquant",
+    "branch": "main",
+    "language": "Python",
+    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
+  },
+  {
+    "repo": "apache/superset",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+  },
+  {
+    "repo": "louisho5/picobot",
     "branch": "main",
     "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+    "description": "A lightweight self-hosted bot in a single binary, written in Go."
   },
   {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "xunchahaha/mi_nobl_root",
-    "branch": "main",
-    "language": "Shell",
-    "description": "小米免解bl的ksu+lsp方案"
-  },
-  {
-    "repo": "ramda/ramda",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
-  },
-  {
-    "repo": "sonpiaz/evox",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Gustavo1900/bevy-atmosphere",
-    "branch": "master",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "FireRedTeam/FireRed-OpenStoryline",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "zerobootdev/zeroboot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
-  },
-  {
-    "repo": "GreenSheep01201/claw-empire",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
-  },
-  {
-    "repo": "jquery/jquery",
+    "repo": "prettier/eslint-plugin-prettier",
     "branch": "main",
     "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
+    "description": "ESLint plugin for Prettier formatting"
   },
   {
-    "repo": "ggerganov/llama.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "LLM inference in C/C++"
-  },
-  {
-    "repo": "omnimind-ai/OmniInfer",
+    "repo": "memovai/mimiclaw",
     "branch": "main",
-    "language": "C++",
-    "description": "Cross-platform LLM inference framework for efficient edge deployment"
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
   }
 ]
