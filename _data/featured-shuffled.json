@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Jia-Ethan/claude-keysmith",
+    "repo": "ml-explore/mlx",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code CLAUDE.md import-block installer for local instruction files"
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
   },
   {
-    "repo": "harrymunro/nelson",
+    "repo": "AgriciDaniel/claude-obsidian",
     "branch": "main",
     "language": "Shell",
-    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
   },
   {
-    "repo": "daltoniam/Starscream",
+    "repo": "NVlabs/Sana",
+    "branch": "main",
+    "language": "Python",
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+  },
+  {
+    "repo": "UnluckyNinja/SBTI-test",
+    "branch": "main",
+    "language": "HTML",
+    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
+  },
+  {
+    "repo": "blader/taskmaster",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
+  },
+  {
+    "repo": "cablate/banini-tracker",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
+  },
+  {
+    "repo": "civilian7/sql-tutorial",
+    "branch": "main",
+    "language": "Python",
+    "description": "현실적인 전자상거래 데이터베이스로 배우는 SQL 튜토리얼 (21 tables, 18 views, 111 exercises)"
+  },
+  {
+    "repo": "square/retrofit",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A type-safe HTTP client for Android and the JVM"
+  },
+  {
+    "repo": "auth0/node-jsonwebtoken",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+  },
+  {
+    "repo": "elixir-volt/quickbeam",
+    "branch": "master",
+    "language": "C",
+    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
+  },
+  {
+    "repo": "sangrokjung/claude-forge",
+    "branch": "main",
+    "language": "Shell",
+    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
+  },
+  {
+    "repo": "edgenuitybot/exodusbot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot"
+  },
+  {
+    "repo": "Abnerla/AI_paper",
+    "branch": "main",
+    "language": "Python",
+    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+  },
+  {
+    "repo": "dapr/dapr",
+    "branch": "master",
+    "language": "Go",
+    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+  },
+  {
+    "repo": "DaveMoudy/SalesforceDocGen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
+  },
+  {
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "repo": "Lum1104/Understand-Anything",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+  },
+  {
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "xullexer/PYDNS-Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
+  },
+  {
+    "repo": "garrytan/gbrain",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Garry's Opinionated OpenClaw Brain"
+  },
+  {
+    "repo": "nguyenduchoai/bizclaw",
+    "branch": "master",
+    "language": "Rust",
+    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
+  },
+  {
+    "repo": "Zephkek/XStoreUnlocker",
+    "branch": "main",
+    "language": "C++",
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
+  },
+  {
+    "repo": "HKUDS/ClawTeam",
+    "branch": "main",
+    "language": "Python",
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+  },
+  {
+    "repo": "pointfreeco/swift-snapshot-testing",
+    "branch": "main",
     "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "RasaHQ/rasa",
-    "branch": "main",
-    "language": "Python",
-    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
-  },
-  {
-    "repo": "theja0473/automotive-claude-code-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automotive software engineering is one of the most complex and regulated domains in the world. Engineers juggle **ISO 26262 functional safety**, **AUTOSAR architectures**, **MISRA compliance**, **cybersecurity standards**, and **real-time embedded constraints** -- all while shipping on aggressive timelines."
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
-  },
-  {
-    "repo": "every-app/open-seo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
-  },
-  {
-    "repo": "schibsted/videofy_minimal",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "photonstorm/phaser",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
-  },
-  {
-    "repo": "facebook/hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
-  },
-  {
-    "repo": "ankitects/anki",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Anki is a smart spaced repetition flashcard program"
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-gateway",
-    "branch": "main",
-    "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
-  },
-  {
-    "repo": "wy51ai/moltbotCNAPP",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "zulip/zulip",
-    "branch": "main",
-    "language": "Python",
-    "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused."
-  },
-  {
-    "repo": "rust-analyzer/rust-analyzer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A Rust compiler front-end for IDEs"
-  },
-  {
-    "repo": "prometheus/prometheus",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
-  },
-  {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "1354427059/orchids-api",
-    "branch": "main",
-    "language": "Go",
-    "description": "1111"
-  },
-  {
-    "repo": "taf2/mdvi",
-    "branch": "master",
-    "language": "Rust",
-    "description": "cli based Markdown viewer"
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
-  },
-  {
-    "repo": "Nasiko-Labs/nasiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered development platform for the future"
-  },
-  {
-    "repo": "jackwener/opencli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
-  },
-  {
-    "repo": "jackwener/xiaohongshu-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+    "description": "📸 Delightful Swift snapshot testing."
   }
 ]
