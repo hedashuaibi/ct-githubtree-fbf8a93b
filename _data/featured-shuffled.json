@@ -1,93 +1,69 @@
 [
   {
-    "repo": "StreisandEffect/streisand",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+    "repo": "supermalparit/Towns",
+    "branch": "main",
+    "language": "Java",
+    "description": "Repository for the Towns game"
   },
   {
-    "repo": "openai/glide-text2im",
+    "repo": "FireRedTeam/FireRed-OCR",
     "branch": "main",
     "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+    "description": ""
   },
   {
-    "repo": "torvalds/linux",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
-  },
-  {
-    "repo": "agarrharr/awesome-cli-apps",
+    "repo": "vercel/serve",
     "branch": "main",
-    "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+    "language": "TypeScript",
+    "description": "Static file serving and directory listing"
   },
   {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "Anxcye/anx-reader",
-    "branch": "main",
-    "language": "Dart",
-    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
-  },
-  {
-    "repo": "nektos/act",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "microsoft/Data-Science-For-Beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "10 Weeks, 20 Lessons, Data Science for All!"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "YuJunZhiXue/github-skill-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
-  },
-  {
-    "repo": "airbnb/lottie-web",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
-  },
-  {
-    "repo": "trycua/launchpad",
+    "repo": "lukilabs/beautiful-mermaid",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "argoproj/argo-rollouts",
+    "repo": "encode/httpx",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next generation HTTP client for Python. 🦋"
+  },
+  {
+    "repo": "LightTable/LightTable",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
+  },
+  {
+    "repo": "go-delve/delve",
     "branch": "master",
     "language": "Go",
-    "description": "Progressive Delivery for Kubernetes"
+    "description": "Delve is a debugger for the Go programming language."
+  },
+  {
+    "repo": "psf/black",
+    "branch": "main",
+    "language": "Python",
+    "description": "The uncompromising Python code formatter"
+  },
+  {
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "Tencent/wepy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "小程序组件化开发框架"
+  },
+  {
+    "repo": "swc-project/swc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust-based platform for the Web"
   },
   {
     "repo": "apache/spark",
@@ -96,51 +72,75 @@
     "description": "Apache Spark - A unified analytics engine for large-scale data processing"
   },
   {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
   },
   {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+    "repo": "Tencent/tdesign-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
   },
   {
-    "repo": "ultralytics/ultralytics",
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "google/flatbuffers",
+    "branch": "master",
+    "language": "C++",
+    "description": "FlatBuffers: Memory Efficient Serialization Library"
+  },
+  {
+    "repo": "microsoft/react-native-code-push",
+    "branch": "master",
+    "language": "C",
+    "description": "React Native module for CodePush"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-server",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+  },
+  {
+    "repo": "jamiepine/voicebox",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
+  },
+  {
+    "repo": "coollabsio/jean",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run AI agents parallel in isolated workspaces."
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-Math",
     "branch": "main",
     "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
   },
   {
-    "repo": "tailwindcss/tailwindcss",
+    "repo": "reduxjs/redux",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
+    "description": "A JS library for predictable global state management"
   },
   {
-    "repo": "oven-sh/bun",
+    "repo": "FranckyB/Voice-Clone-Studio",
     "branch": "main",
-    "language": "Zig",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
-  },
-  {
-    "repo": "opencontainers/runc",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
-  },
-  {
-    "repo": "facebookresearch/faiss",
-    "branch": "main",
-    "language": "C++",
-    "description": "A library for efficient similarity search and clustering of dense vectors."
-  },
-  {
-    "repo": "Olshansk/interview",
-    "branch": "master",
-    "language": "Other",
-    "description": "Everything you need to prepare for your technical interview"
+    "language": "Python",
+    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
   }
 ]
