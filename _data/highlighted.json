@@ -1,8 +1,8 @@
 {
-  "repo": "mateusdcc/pi-gpt-search",
+  "repo": "shift-labs-ai/pi-peer",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine.",
-  "stars": 103,
-  "forks": 3
+  "description": "A pi extension that lets your pi sessions find and message each other",
+  "stars": 105,
+  "forks": 5
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "supermalparit/Towns",
+    "repo": "ab-613/OpenGravity",
     "branch": "main",
-    "language": "Java",
-    "description": "Repository for the Towns game"
+    "language": "CSS",
+    "description": "A lightweight, BYOK (Bring Your Own Key) recreation of the Google Antigravity UI. It currently features a live xterm.js terminal with direct local file system sync and a sidebar agent capable of running commands and editing files. Built in pure HTML/CSS/JS for maximum speed and zero installation."
   },
   {
-    "repo": "FireRedTeam/FireRed-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "encode/httpx",
+    "repo": "yt-dlp/yt-dlp",
     "branch": "master",
     "language": "Python",
-    "description": "A next generation HTTP client for Python. 🦋"
+    "description": "A feature-rich command-line audio/video downloader"
   },
   {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
+    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "branch": "main",
+    "language": "Shell",
+    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
   },
   {
-    "repo": "go-delve/delve",
+    "repo": "ory/oathkeeper",
     "branch": "master",
     "language": "Go",
-    "description": "Delve is a debugger for the Go programming language."
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
   },
   {
-    "repo": "psf/black",
+    "repo": "dask/dask",
     "branch": "main",
     "language": "Python",
-    "description": "The uncompromising Python code formatter"
+    "description": "Parallel computing with task scheduling"
   },
   {
-    "repo": "celery/celery",
-    "branch": "master",
+    "repo": "pydantic/FastUI",
+    "branch": "main",
     "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
+    "description": "Build better UIs faster."
   },
   {
-    "repo": "Tencent/wepy",
+    "repo": "gulpjs/gulp",
     "branch": "master",
     "language": "JavaScript",
-    "description": "小程序组件化开发框架"
+    "description": "A toolkit to automate & enhance your workflow"
   },
   {
-    "repo": "swc-project/swc",
+    "repo": "ory/kratos",
+    "branch": "master",
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+  },
+  {
+    "repo": "theNetworkChuck/axios-attack-guide",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
+  },
+  {
+    "repo": "sheeki03/tirith",
     "branch": "main",
     "language": "Rust",
-    "description": "Rust-based platform for the Web"
+    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
   },
   {
-    "repo": "apache/spark",
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "ramsey/uuid",
+    "branch": "4.7",
+    "language": "PHP",
+    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
+  },
+  {
+    "repo": "emacs-mirror/emacs",
     "branch": "master",
-    "language": "Scala",
-    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
+    "language": "Emacs Lisp",
+    "description": "Mirror of GNU Emacs"
   },
   {
-    "repo": "axios/axios",
+    "repo": "HackingDave/btrpa-scan",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
+  },
+  {
+    "repo": "Pylons/pyramid",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pyramid - A Python web framework"
+  },
+  {
+    "repo": "WenXiaoWendy/cyberboss",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
+    "description": ""
   },
   {
-    "repo": "Tencent/tdesign-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "karpathy/nanoGPT",
+    "repo": "AI45Lab/TrinityGuard",
     "branch": "master",
     "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
   },
   {
-    "repo": "google/flatbuffers",
-    "branch": "master",
-    "language": "C++",
-    "description": "FlatBuffers: Memory Efficient Serialization Library"
-  },
-  {
-    "repo": "microsoft/react-native-code-push",
-    "branch": "master",
-    "language": "C",
-    "description": "React Native module for CodePush"
-  },
-  {
-    "repo": "rabbitmq/rabbitmq-server",
+    "repo": "sipeed/picoclaw",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+    "language": "Go",
+    "description": "picoclaw"
   },
   {
-    "repo": "jamiepine/voicebox",
-    "branch": "main",
+    "repo": "nativefier/nativefier",
+    "branch": "development",
     "language": "TypeScript",
-    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
+    "description": "Make any web page a desktop application"
   },
   {
-    "repo": "coollabsio/jean",
+    "repo": "pacifio/cersei",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Run AI agents parallel in isolated workspaces."
+    "language": "Rust",
+    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
   },
   {
-    "repo": "deepseek-ai/DeepSeek-Math",
+    "repo": "Kuberwastaken/claurst",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+  },
+  {
+    "repo": "Mibayy/token-savior",
     "branch": "main",
     "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
   },
   {
-    "repo": "reduxjs/redux",
+    "repo": "derailed/k9s",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
   },
   {
-    "repo": "FranckyB/Voice-Clone-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+    "repo": "argoproj/argo-rollouts",
+    "branch": "master",
+    "language": "Go",
+    "description": "Progressive Delivery for Kubernetes"
   }
 ]
