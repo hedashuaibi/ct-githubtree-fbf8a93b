@@ -1,8 +1,8 @@
 {
-  "repo": "bamboostrip/Handwriting-simulator",
+  "repo": "lacvietanh/aki-mcp-sv",
   "branch": "main",
-  "language": "Python",
-  "description": "把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。",
-  "stars": 115,
-  "forks": 18
+  "language": "JavaScript",
+  "description": "Custom MCP [Connector] for AI chat web [Claude|ChatGPT|Grok...] use Files/Shell on your computer directly",
+  "stars": 108,
+  "forks": 27
 }

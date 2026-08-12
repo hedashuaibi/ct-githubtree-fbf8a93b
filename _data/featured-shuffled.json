@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ChristianJR19/byteview",
+    "repo": "WebAssembly/spec",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "WebAssembly specification, reference interpreter, and test suite."
+  },
+  {
+    "repo": "reduxjs/redux-thunk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Thunk middleware for Redux"
+  },
+  {
+    "repo": "tanishqkumar/ssd",
     "branch": "main",
     "language": "Python",
-    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
+    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
   },
   {
-    "repo": "1837620622/cloudflare-bypass-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
-  },
-  {
-    "repo": "LazyVim/LazyVim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "Neovim config for the lazy"
-  },
-  {
-    "repo": "vmware-tanzu/velero",
-    "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
-  },
-  {
-    "repo": "cheeriojs/cheerio",
+    "repo": "TanStack/router",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
   },
   {
-    "repo": "moby/moby",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
-  },
-  {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
-  },
-  {
-    "repo": "foundry-rs/foundry",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
+    "repo": "jackwener/xhs-cli",
+    "branch": "main",
     "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
   },
   {
-    "repo": "WebAssembly/wabt",
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "every-app/open-seo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
+  },
+  {
+    "repo": "knative/eventing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Event-driven application platform for Kubernetes"
+  },
+  {
+    "repo": "Aircoookie/WLED",
     "branch": "main",
     "language": "C++",
-    "description": "The WebAssembly Binary Toolkit"
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
   },
   {
-    "repo": "influxdata/telegraf",
+    "repo": "zeromicro/go-zero",
     "branch": "master",
     "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
   },
   {
-    "repo": "wader/fq",
-    "branch": "master",
-    "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
+    "repo": "Minecraft-Community-Edition/client",
     "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+    "language": "C++",
+    "description": "Whispers LCE Client"
   },
   {
-    "repo": "apache/commons-lang",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Commons Lang"
-  },
-  {
-    "repo": "chalk/chalk",
+    "repo": "HsMirage/CliproxyAccountCleaner",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🖍 Terminal string styling done right"
-  },
-  {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "babel/babel-preset-env",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
-  },
-  {
-    "repo": "boto/boto",
-    "branch": "develop",
     "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
   },
   {
-    "repo": "webpack-contrib/terser-webpack-plugin",
+    "repo": "sgInnora/alipay-deeplink-research",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
+  },
+  {
+    "repo": "remorses/usecomputer",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
+  },
+  {
+    "repo": "akitaonrails/FrankSherlock",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Terser Plugin"
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
   },
   {
-    "repo": "NomicFoundation/hardhat",
+    "repo": "pytorch/ignite",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
+    "language": "Python",
+    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
   },
   {
-    "repo": "apache/echarts",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
+    "repo": "ghostwright/phantom",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
   },
   {
-    "repo": "eslint/eslint",
+    "repo": "infraform/polymarket-trading-bot",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Find and fix problems in your JavaScript code."
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "repo": "grpc/grpc",
+    "branch": "master",
+    "language": "C++",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+  },
+  {
+    "repo": "openssl/openssl",
+    "branch": "master",
+    "language": "C",
+    "description": "TLS/SSL and crypto library"
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+  },
+  {
+    "repo": "ReactiveX/RxPY",
+    "branch": "master",
+    "language": "Python",
+    "description": "ReactiveX for Python"
+  },
+  {
+    "repo": "mikewang817/MacBar",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+  },
+  {
+    "repo": "knative/serving",
+    "branch": "main",
+    "language": "Go",
+    "description": "Kubernetes-based, scale-to-zero, request-driven compute"
   }
 ]
