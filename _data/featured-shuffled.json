@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ab-613/OpenGravity",
-    "branch": "main",
-    "language": "CSS",
-    "description": "A lightweight, BYOK (Bring Your Own Key) recreation of the Google Antigravity UI. It currently features a live xterm.js terminal with direct local file system sync and a sidebar agent capable of running commands and editing files. Built in pure HTML/CSS/JS for maximum speed and zero installation."
-  },
-  {
-    "repo": "yt-dlp/yt-dlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
-  },
-  {
-    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
-    "branch": "main",
-    "language": "Shell",
-    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
-  },
-  {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-  },
-  {
-    "repo": "dask/dask",
+    "repo": "ChristianJR19/byteview",
     "branch": "main",
     "language": "Python",
-    "description": "Parallel computing with task scheduling"
+    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
   },
   {
-    "repo": "pydantic/FastUI",
+    "repo": "1837620622/cloudflare-bypass-2026",
     "branch": "main",
     "language": "Python",
-    "description": "Build better UIs faster."
+    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
   },
   {
-    "repo": "gulpjs/gulp",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A toolkit to automate & enhance your workflow"
-  },
-  {
-    "repo": "ory/kratos",
-    "branch": "master",
-    "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
-  },
-  {
-    "repo": "theNetworkChuck/axios-attack-guide",
+    "repo": "LazyVim/LazyVim",
     "branch": "main",
-    "language": "Shell",
-    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
+    "language": "Lua",
+    "description": "Neovim config for the lazy"
   },
   {
-    "repo": "sheeki03/tirith",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
-  },
-  {
-    "repo": "Flowseal/tg-ws-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
-  },
-  {
-    "repo": "ramsey/uuid",
-    "branch": "4.7",
-    "language": "PHP",
-    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
-  },
-  {
-    "repo": "emacs-mirror/emacs",
-    "branch": "master",
-    "language": "Emacs Lisp",
-    "description": "Mirror of GNU Emacs"
-  },
-  {
-    "repo": "HackingDave/btrpa-scan",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
-  },
-  {
-    "repo": "Pylons/pyramid",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pyramid - A Python web framework"
-  },
-  {
-    "repo": "WenXiaoWendy/cyberboss",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
-    "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
-  },
-  {
-    "repo": "sipeed/picoclaw",
+    "repo": "vmware-tanzu/velero",
     "branch": "main",
     "language": "Go",
-    "description": "picoclaw"
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
   },
   {
-    "repo": "nativefier/nativefier",
-    "branch": "development",
+    "repo": "cheeriojs/cheerio",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Make any web page a desktop application"
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
   },
   {
-    "repo": "pacifio/cersei",
-    "branch": "main",
+    "repo": "moby/moby",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+  },
+  {
+    "repo": "kubernetes/kompose",
+    "branch": "master",
+    "language": "Go",
+    "description": "Convert Compose to Kubernetes"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "branch": "master",
     "language": "Rust",
-    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
   },
   {
-    "repo": "Kuberwastaken/claurst",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
-  },
-  {
-    "repo": "Mibayy/token-savior",
-    "branch": "main",
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
     "language": "Python",
-    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
   },
   {
-    "repo": "derailed/k9s",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+    "repo": "WebAssembly/wabt",
+    "branch": "main",
+    "language": "C++",
+    "description": "The WebAssembly Binary Toolkit"
   },
   {
-    "repo": "argoproj/argo-rollouts",
+    "repo": "influxdata/telegraf",
     "branch": "master",
     "language": "Go",
-    "description": "Progressive Delivery for Kubernetes"
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "wader/fq",
+    "branch": "master",
+    "language": "Go",
+    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "apache/commons-lang",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Commons Lang"
+  },
+  {
+    "repo": "chalk/chalk",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🖍 Terminal string styling done right"
+  },
+  {
+    "repo": "jashkenas/backbone",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
+  },
+  {
+    "repo": "babel/babel-preset-env",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PSA: this repo has been moved into babel/babel -->"
+  },
+  {
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+  },
+  {
+    "repo": "webpack-contrib/terser-webpack-plugin",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Terser Plugin"
+  },
+  {
+    "repo": "NomicFoundation/hardhat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
+  },
+  {
+    "repo": "apache/echarts",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
+  },
+  {
+    "repo": "Wechat-ggGitHub/wechat-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
+  },
+  {
+    "repo": "eslint/eslint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Find and fix problems in your JavaScript code."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "shift-labs-ai/pi-peer",
+  "repo": "bamboostrip/Handwriting-simulator",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A pi extension that lets your pi sessions find and message each other",
-  "stars": 105,
-  "forks": 5
+  "language": "Python",
+  "description": "把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。",
+  "stars": 115,
+  "forks": 18
 }
