@@ -1,146 +1,146 @@
 [
   {
-    "repo": "WebAssembly/spec",
+    "repo": "paoloanzn/pi-black",
     "branch": "main",
-    "language": "WebAssembly",
-    "description": "WebAssembly specification, reference interpreter, and test suite."
+    "language": "TypeScript",
+    "description": "Claude subscription wire compatibility for Pi."
   },
   {
-    "repo": "reduxjs/redux-thunk",
+    "repo": "uralbash/awesome-pyramid",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Thunk middleware for Redux"
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
   },
   {
-    "repo": "tanishqkumar/ssd",
+    "repo": "rq/rq",
+    "branch": "master",
+    "language": "Python",
+    "description": "Simple job queues for Python"
+  },
+  {
+    "repo": "cookiecutter/cookiecutter",
+    "branch": "master",
+    "language": "Python",
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
+  },
+  {
+    "repo": "op7418/Youtube-clipper-skill",
     "branch": "main",
     "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
+    "description": ""
   },
   {
-    "repo": "TanStack/router",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
-  },
-  {
-    "repo": "jackwener/xhs-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
-  },
-  {
-    "repo": "Flowseal/tg-ws-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
-  },
-  {
-    "repo": "every-app/open-seo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
-  },
-  {
-    "repo": "knative/eventing",
-    "branch": "main",
-    "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
-  },
-  {
-    "repo": "Aircoookie/WLED",
+    "repo": "envoyproxy/envoy",
     "branch": "main",
     "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+    "description": "Cloud-native high-performance edge/middle/service proxy"
   },
   {
-    "repo": "zeromicro/go-zero",
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "mockk/mockk",
     "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "andrew-kramer-inno/claude-code-source-build",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "pagel-s/termcraft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Terminal-only 2D sandbox survival in Rust."
+  },
+  {
+    "repo": "wiedymi/restty",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "branch": "main",
     "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
   },
   {
-    "repo": "Minecraft-Community-Edition/client",
+    "repo": "ChownYourLife/paqet-tunnel",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "ColeMurray/background-agents",
     "branch": "main",
-    "language": "C++",
-    "description": "Whispers LCE Client"
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
   },
   {
-    "repo": "HsMirage/CliproxyAccountCleaner",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
-  },
-  {
-    "repo": "sgInnora/alipay-deeplink-research",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
-  },
-  {
-    "repo": "remorses/usecomputer",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
-  },
-  {
-    "repo": "akitaonrails/FrankSherlock",
+    "repo": "paritytech/polkadot-sdk",
     "branch": "master",
     "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+    "description": "The Parity Polkadot Blockchain SDK"
   },
   {
-    "repo": "pytorch/ignite",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
-  },
-  {
-    "repo": "ghostwright/phantom",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
-  },
-  {
-    "repo": "infraform/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
-  },
-  {
-    "repo": "grpc/grpc",
+    "repo": "apache/mxnet",
     "branch": "master",
     "language": "C++",
-    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
   },
   {
-    "repo": "openssl/openssl",
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "khoj-ai/khoj",
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+  },
+  {
+    "repo": "hasura/graphql-engine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
+  },
+  {
+    "repo": "chekusu/shipkey",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "https-deeplearning-ai/sc-agent-skills-files",
     "branch": "main",
     "language": "Python",
-    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+    "description": ""
   },
   {
-    "repo": "ReactiveX/RxPY",
-    "branch": "master",
+    "repo": "op7418/Video-Wrapper-Skills",
+    "branch": "main",
     "language": "Python",
-    "description": "ReactiveX for Python"
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
   },
   {
-    "repo": "mikewang817/MacBar",
-    "branch": "master",
+    "repo": "adamlyttleapps/notchy",
+    "branch": "main",
     "language": "Swift",
-    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
-  },
-  {
-    "repo": "knative/serving",
-    "branch": "main",
-    "language": "Go",
-    "description": "Kubernetes-based, scale-to-zero, request-driven compute"
+    "description": ""
   }
 ]

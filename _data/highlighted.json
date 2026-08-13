@@ -1,8 +1,8 @@
 {
-  "repo": "lacvietanh/aki-mcp-sv",
+  "repo": "Xie0s/Xie0s-Code",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Custom MCP [Connector] for AI chat web [Claude|ChatGPT|Grok...] use Files/Shell on your computer directly",
-  "stars": 108,
-  "forks": 27
+  "language": "TypeScript",
+  "description": "Xie0s Code",
+  "stars": 120,
+  "forks": 4
 }
