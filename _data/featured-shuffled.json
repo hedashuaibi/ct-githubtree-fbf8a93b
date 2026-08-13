@@ -1,146 +1,146 @@
 [
   {
-    "repo": "paoloanzn/pi-black",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude subscription wire compatibility for Pi."
-  },
-  {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "rq/rq",
-    "branch": "master",
-    "language": "Python",
-    "description": "Simple job queues for Python"
-  },
-  {
-    "repo": "cookiecutter/cookiecutter",
-    "branch": "master",
-    "language": "Python",
-    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
-  },
-  {
-    "repo": "op7418/Youtube-clipper-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "envoyproxy/envoy",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cloud-native high-performance edge/middle/service proxy"
-  },
-  {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
-  },
-  {
-    "repo": "mockk/mockk",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
-  },
-  {
-    "repo": "andrew-kramer-inno/claude-code-source-build",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "pagel-s/termcraft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Terminal-only 2D sandbox survival in Rust."
-  },
-  {
-    "repo": "wiedymi/restty",
+    "repo": "requestsession/IndexGPT",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
+    "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training."
   },
   {
-    "repo": "opentofu/opentofu",
-    "branch": "main",
-    "language": "Go",
-    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
-  },
-  {
-    "repo": "ChownYourLife/paqet-tunnel",
-    "branch": "master",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "ColeMurray/background-agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
-  },
-  {
-    "repo": "paritytech/polkadot-sdk",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The Parity Polkadot Blockchain SDK"
-  },
-  {
-    "repo": "apache/mxnet",
-    "branch": "master",
-    "language": "C++",
-    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
+    "repo": "thedaviddias/Front-End-Checklist",
     "branch": "master",
     "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   },
   {
-    "repo": "github/docs",
+    "repo": "javaevolved/javaevolved.github.io",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
+    "language": "HTML",
+    "description": "Java Evolved. Your Code Can Evolve Too!"
   },
   {
-    "repo": "excalidraw/excalidraw",
+    "repo": "nakagami/grdpwasm",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
-  },
-  {
-    "repo": "hasura/graphql-engine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
-  },
-  {
-    "repo": "chekusu/shipkey",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "repo": "goldbergyoni/nodebestpractices",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
+  },
+  {
+    "repo": "sanic-org/sanic",
     "branch": "main",
+    "language": "Python",
+    "description": "Accelerate your web app development  | Build fast. Run fast."
+  },
+  {
+    "repo": "Klipper3d/klipper",
+    "branch": "master",
+    "language": "C",
+    "description": "Klipper is a 3d-printer firmware"
+  },
+  {
+    "repo": "godagoo/claude-telegram-relay",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Full-sized drag & drop event calendar in JavaScript"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "repo": "molefrog/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+  },
+  {
+    "repo": "innoqiu/newsieai",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "op7418/Video-Wrapper-Skills",
+    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
     "branch": "main",
-    "language": "Python",
-    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
+    "language": "C",
+    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
   },
   {
-    "repo": "adamlyttleapps/notchy",
+    "repo": "flame-engine/flame",
     "branch": "main",
-    "language": "Swift",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
+  },
+  {
+    "repo": "sheeki03/tirith",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "branch": "main",
+    "language": "TeX",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+  },
+  {
+    "repo": "jquery/jquery-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
+  },
+  {
+    "repo": "nightwatchjs/nightwatch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+  },
+  {
+    "repo": "caiwuu/web2api",
+    "branch": "master",
+    "language": "Python",
+    "description": "把网页AI转api，如claude2api"
+  },
+  {
+    "repo": "Pickle-Pixel/ApplyPilot",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI agent that applies to jobs for you. Any site. Any form."
+  },
+  {
+    "repo": "traderwillhu/market_dashboard",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
+  },
+  {
+    "repo": "OpenMOSS/MOSS-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+  },
+  {
+    "repo": "junevm/splathash",
+    "branch": "main",
+    "language": "Go",
+    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+  },
+  {
+    "repo": "raspberrypi/linux",
+    "branch": "rpi-6.6.y",
+    "language": "C",
+    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
   }
 ]

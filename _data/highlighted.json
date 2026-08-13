@@ -1,8 +1,8 @@
 {
-  "repo": "Xie0s/Xie0s-Code",
+  "repo": "Yixuan-Wu39/bandminton",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Xie0s Code",
-  "stars": 120,
-  "forks": 4
+  "language": "JavaScript",
+  "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+  "stars": 103,
+  "forks": 2
 }
