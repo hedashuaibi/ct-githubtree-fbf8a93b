@@ -1,8 +1,8 @@
 {
-  "repo": "Yixuan-Wu39/bandminton",
+  "repo": "Lichtspektrum/liang-intensity-calibrator",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-  "stars": 103,
-  "forks": 2
+  "language": "TypeScript",
+  "description": "滑动变祖器：31 级梁系强度校准器",
+  "stars": 131,
+  "forks": 15
 }

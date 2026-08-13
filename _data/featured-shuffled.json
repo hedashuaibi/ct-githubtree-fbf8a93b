@@ -1,146 +1,146 @@
 [
   {
-    "repo": "requestsession/IndexGPT",
+    "repo": "ytnrvdf/wha-spell-simulator",
     "branch": "main",
     "language": "JavaScript",
-    "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training."
+    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
   },
   {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "javaevolved/javaevolved.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
-  },
-  {
-    "repo": "nakagami/grdpwasm",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "goldbergyoni/nodebestpractices",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
-  },
-  {
-    "repo": "sanic-org/sanic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Accelerate your web app development  | Build fast. Run fast."
-  },
-  {
-    "repo": "Klipper3d/klipper",
-    "branch": "master",
-    "language": "C",
-    "description": "Klipper is a 3d-printer firmware"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
+    "repo": "win4r/free-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "molefrog/skills",
+    "repo": "vapor/vapor",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+    "language": "Swift",
+    "description": "💧 A server-side Swift HTTP web framework."
   },
   {
-    "repo": "innoqiu/newsieai",
+    "repo": "StreisandEffect/streisand",
     "branch": "master",
-    "language": "Python",
-    "description": ""
+    "language": "Shell",
+    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
   },
   {
-    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
-    "branch": "main",
-    "language": "C",
-    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
+    "repo": "bitwarden/server",
+    "branch": "master",
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
   },
   {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "sheeki03/tirith",
+    "repo": "esp-rs/esp-idf-hal",
     "branch": "main",
     "language": "Rust",
-    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
+    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
   },
   {
-    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-    "branch": "main",
-    "language": "TeX",
-    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
   },
   {
-    "repo": "jquery/jquery-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The official jQuery user interface library."
-  },
-  {
-    "repo": "nightwatchjs/nightwatch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
-  },
-  {
-    "repo": "caiwuu/web2api",
+    "repo": "react-hook-form/react-hook-form",
     "branch": "master",
-    "language": "Python",
-    "description": "把网页AI转api，如claude2api"
+    "language": "TypeScript",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
   },
   {
-    "repo": "Pickle-Pixel/ApplyPilot",
+    "repo": "deepmind/dm-haiku",
     "branch": "main",
     "language": "Python",
-    "description": "AI agent that applies to jobs for you. Any site. Any form."
+    "description": "JAX-based neural network library"
   },
   {
-    "repo": "traderwillhu/market_dashboard",
+    "repo": "graphql/dataloader",
     "branch": "main",
-    "language": "HTML",
+    "language": "JavaScript",
+    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
+  },
+  {
+    "repo": "actix/actix",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actor framework for Rust."
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "branch": "main",
+    "language": "Python",
+    "description": "matplotlib: plotting with Python"
+  },
+  {
+    "repo": "adafruit/circuitpython",
+    "branch": "main",
+    "language": "C",
+    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+  },
+  {
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+  },
+  {
+    "repo": "krahets/hello-algo",
+    "branch": "main",
+    "language": "Java",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+  },
+  {
+    "repo": "encoredev/encore",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+  },
+  {
+    "repo": "nocodb/nocodb",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang client for NATS, the cloud native messaging system."
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "6551Team/claude-code-design-guide",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "OpenMOSS/MOSS-TTS",
+    "repo": "open-webui/open-webui",
     "branch": "main",
     "language": "Python",
-    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
   },
   {
-    "repo": "junevm/splathash",
+    "repo": "tj/commander.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "repo": "PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop",
     "branch": "main",
-    "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
-  },
-  {
-    "repo": "raspberrypi/linux",
-    "branch": "rpi-6.6.y",
-    "language": "C",
-    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
+    "language": "C++",
+    "description": "RACCOIN: Coin Pusher Roguelike Full Version 2026 is an addictive blend of classic coin pusher machines and roguelike gameplay. Push coins, collect epic rewards, upgrade your raccoon, unlock powerful relics and new machines across endless runs. Deep progression, high replayability, and satisfying coin mechanics. 🦝"
   }
 ]
