@@ -1,8 +1,8 @@
 {
-  "repo": "Lichtspektrum/liang-intensity-calibrator",
+  "repo": "lilvli/portable-vna",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "滑动变祖器：31 级梁系强度校准器",
-  "stars": 131,
-  "forks": 15
+  "language": "Python",
+  "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration.",
+  "stars": 102,
+  "forks": 3
 }

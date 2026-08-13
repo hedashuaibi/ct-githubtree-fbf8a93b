@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ytnrvdf/wha-spell-simulator",
+    "repo": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
+    "language": "HTML",
+    "description": "Smart Promise Tracker AI 2026 – Commit Memory Engine"
   },
   {
-    "repo": "win4r/free-code",
+    "repo": "google/mediapipe",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media."
+  },
+  {
+    "repo": "github/docs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+    "description": "The open-source repo for docs.github.com"
   },
   {
-    "repo": "vapor/vapor",
+    "repo": "Rivflyyy/HappyTorch",
     "branch": "main",
-    "language": "Swift",
-    "description": "💧 A server-side Swift HTTP web framework."
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
   },
   {
-    "repo": "StreisandEffect/streisand",
+    "repo": "square/picasso",
     "branch": "master",
-    "language": "Shell",
-    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+    "language": "Kotlin",
+    "description": "A powerful image downloading and caching library for Android"
   },
   {
-    "repo": "bitwarden/server",
-    "branch": "master",
-    "language": "C#",
-    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
-  },
-  {
-    "repo": "esp-rs/esp-idf-hal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
-  },
-  {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Apache Hadoop"
-  },
-  {
-    "repo": "react-hook-form/react-hook-form",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
-  },
-  {
-    "repo": "deepmind/dm-haiku",
+    "repo": "OpenBMB/MiniCPM-o",
     "branch": "main",
     "language": "Python",
-    "description": "JAX-based neural network library"
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
   },
   {
-    "repo": "graphql/dataloader",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
-  },
-  {
-    "repo": "actix/actix",
+    "repo": "getsentry/sentry",
     "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "branch": "main",
     "language": "Python",
-    "description": "matplotlib: plotting with Python"
+    "description": "Developer-first error tracking and performance monitoring"
   },
   {
-    "repo": "adafruit/circuitpython",
-    "branch": "main",
+    "repo": "pytest-dev/pytest-cov",
+    "branch": "master",
+    "language": "Python",
+    "description": "Coverage plugin for pytest."
+  },
+  {
+    "repo": "raspberrypi/documentation",
+    "branch": "master",
+    "language": "Python",
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
     "language": "C",
-    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+    "description": "Minimalistic C client for Redis >= 1.2"
   },
   {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+    "repo": "herrbischoff/awesome-macos-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
   },
   {
-    "repo": "krahets/hello-algo",
+    "repo": "pydantic/pydantic",
     "branch": "main",
-    "language": "Java",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+    "language": "Python",
+    "description": "Data validation using Python type hints"
   },
   {
-    "repo": "encoredev/encore",
+    "repo": "react-native-device-info/react-native-device-info",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Device Information for React Native iOS and Android"
+  },
+  {
+    "repo": "eslint/eslint",
     "branch": "main",
-    "language": "Go",
-    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    "language": "JavaScript",
+    "description": "Find and fix problems in your JavaScript code."
   },
   {
-    "repo": "nocodb/nocodb",
+    "repo": "veggiemonk/awesome-docker",
+    "branch": "master",
+    "language": "Other",
+    "description": ":whale: A curated list of Docker resources and projects"
+  },
+  {
+    "repo": "LightTable/LightTable",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
+  },
+  {
+    "repo": "immich-app/immich",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High performance self-hosted photo and video management solution."
+  },
+  {
+    "repo": "nmap/nmap",
+    "branch": "master",
+    "language": "C",
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
+  },
+  {
+    "repo": "getsentry/sentry-javascript",
     "branch": "develop",
     "language": "TypeScript",
-    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+    "description": "Official Sentry SDKs for JavaScript"
   },
   {
-    "repo": "nats-io/nats.go",
+    "repo": "TabbyML/tabby",
     "branch": "main",
-    "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
+    "language": "Rust",
+    "description": "Self-hosted AI coding assistant"
   },
   {
-    "repo": "ipfs/js-ipfs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "6551Team/claude-code-design-guide",
+    "repo": "whatwg/html",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "HTML",
+    "description": "HTML Standard"
   },
   {
-    "repo": "open-webui/open-webui",
+    "repo": "PyCQA/pylint",
     "branch": "main",
     "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    "description": "It's not just a linter that annoys you!"
   },
   {
-    "repo": "tj/commander.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
-  },
-  {
-    "repo": "PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop",
+    "repo": "huggingface/hf-agents",
     "branch": "main",
-    "language": "C++",
-    "description": "RACCOIN: Coin Pusher Roguelike Full Version 2026 is an addictive blend of classic coin pusher machines and roguelike gameplay. Push coins, collect epic rewards, upgrade your raccoon, unlock powerful relics and new machines across endless runs. Deep progression, high replayability, and satisfying coin mechanics. 🦝"
+    "language": "Shell",
+    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
   }
 ]
