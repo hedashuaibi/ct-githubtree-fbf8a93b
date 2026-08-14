@@ -1,146 +1,146 @@
 [
   {
-    "repo": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "repo": "rolekkona/bghira-bark",
     "branch": "main",
-    "language": "HTML",
-    "description": "Smart Promise Tracker AI 2026 – Commit Memory Engine"
+    "language": "Python",
+    "description": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model"
   },
   {
-    "repo": "google/mediapipe",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cross-platform, customizable ML solutions for live and streaming media."
-  },
-  {
-    "repo": "github/docs",
+    "repo": "react-native-async-storage/async-storage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
   },
   {
-    "repo": "Rivflyyy/HappyTorch",
+    "repo": "wagmi-dev/viem",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
-  },
-  {
-    "repo": "square/picasso",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
-  },
-  {
-    "repo": "OpenBMB/MiniCPM-o",
-    "branch": "main",
-    "language": "Python",
-    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
-  },
-  {
-    "repo": "getsentry/sentry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
-  },
-  {
-    "repo": "pytest-dev/pytest-cov",
-    "branch": "master",
-    "language": "Python",
-    "description": "Coverage plugin for pytest."
-  },
-  {
-    "repo": "raspberrypi/documentation",
-    "branch": "master",
-    "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "redis/hiredis",
-    "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
-  },
-  {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data validation using Python type hints"
-  },
-  {
-    "repo": "react-native-device-info/react-native-device-info",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "eslint/eslint",
+    "repo": "stylelint/stylelint",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Find and fix problems in your JavaScript code."
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
   },
   {
-    "repo": "veggiemonk/awesome-docker",
+    "repo": "kdenlive/kdenlive",
     "branch": "master",
     "language": "Other",
-    "description": ":whale: A curated list of Docker resources and projects"
+    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
   },
   {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
-  },
-  {
-    "repo": "immich-app/immich",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "High performance self-hosted photo and video management solution."
-  },
-  {
-    "repo": "nmap/nmap",
-    "branch": "master",
-    "language": "C",
-    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
-  },
-  {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
-  },
-  {
-    "repo": "TabbyML/tabby",
-    "branch": "main",
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
     "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
   },
   {
-    "repo": "whatwg/html",
+    "repo": "LukeRenton/explore-claude-code",
     "branch": "main",
-    "language": "HTML",
-    "description": "HTML Standard"
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
   },
   {
-    "repo": "PyCQA/pylint",
+    "repo": "dair-ai/ML-YouTube-Courses",
+    "branch": "main",
+    "language": "Other",
+    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
+  },
+  {
+    "repo": "ahmadawais/chartli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
+  },
+  {
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+  },
+  {
+    "repo": "FireRedTeam/FireRed-OCR",
     "branch": "main",
     "language": "Python",
-    "description": "It's not just a linter that annoys you!"
+    "description": ""
   },
   {
-    "repo": "huggingface/hf-agents",
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "openai/spinningup",
+    "branch": "master",
+    "language": "Python",
+    "description": "An educational resource to help anyone learn deep reinforcement learning."
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
     "branch": "main",
     "language": "Shell",
-    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "branch": "main",
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+  },
+  {
+    "repo": "borkdude/cream",
+    "branch": "main",
+    "language": "Clojure",
+    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+  },
+  {
+    "repo": "MrFadiAi/openclaw-manager",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+  },
+  {
+    "repo": "Anetedith12807/Ethereum-MEV-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
+  },
+  {
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
   }
 ]

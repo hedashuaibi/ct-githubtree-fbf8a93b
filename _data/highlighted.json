@@ -1,8 +1,8 @@
 {
-  "repo": "lilvli/portable-vna",
+  "repo": "Oliverrr2424/webgl-apple-liquid-glass",
   "branch": "main",
-  "language": "Python",
-  "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration.",
-  "stars": 102,
-  "forks": 3
+  "language": "JavaScript",
+  "description": "WebGL2 replica of Apple's Liquid Glass: squircle SDF thickness field -> Snell refraction with a meniscus rim, dispersion, variable-blur scattering, Fresnel rim",
+  "stars": 106,
+  "forks": 2
 }
