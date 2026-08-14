@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rolekkona/bghira-bark",
+    "repo": "iampedii/WhiteDNS-Wizard",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows."
+  },
+  {
+    "repo": "curvefi/curve-contract",
+    "branch": "master",
+    "language": "Python",
+    "description": "Vyper contracts used in Curve.fi exchange pools."
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+  },
+  {
+    "repo": "0xSero/turboquant",
     "branch": "main",
     "language": "Python",
-    "description": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model"
+    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
   },
   {
-    "repo": "react-native-async-storage/async-storage",
+    "repo": "zhangbo2008/claude_code_annotated",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An asynchronous, persistent, key-value storage system for React Native."
+    "description": "claudecode泄露部分的代码解析"
   },
   {
-    "repo": "wagmi-dev/viem",
+    "repo": "opa334/darksword-kexploit",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
+    "language": "Objective-C",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
   },
   {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
-  },
-  {
-    "repo": "kdenlive/kdenlive",
+    "repo": "zoontek/react-native-bootsplash",
     "branch": "master",
-    "language": "Other",
-    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
+    "language": "TypeScript",
+    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
   },
   {
-    "repo": "tauri-apps/tauri",
-    "branch": "dev",
-    "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "dair-ai/ML-YouTube-Courses",
-    "branch": "main",
-    "language": "Other",
-    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
-  },
-  {
-    "repo": "ahmadawais/chartli",
+    "repo": "Johnixr/claude-code-wechat-channel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
   },
   {
-    "repo": "duoan/TorchCode",
+    "repo": "ultralytics/yolov5",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
   },
   {
-    "repo": "FireRedTeam/FireRed-OCR",
+    "repo": "x1xhlol/better-clawd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
+  },
+  {
+    "repo": "LeoYeAI/teammate-skill",
     "branch": "main",
     "language": "Python",
+    "description": "Distill a teammate into an AI Skill. Auto-collect Slack/Teams/GitHub data, generate Work Skill + 5-layer Persona, with continuous evolution. Powered by MyClaw.ai. Works with Claude Code, OpenClaw, and any AgentSkills-compatible agent."
+  },
+  {
+    "repo": "Ahmad-progr/claude-leaked-files",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
+  },
+  {
+    "repo": "GeiserX/awesome-spain",
+    "branch": "main",
+    "language": "Python",
+    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
+  },
+  {
+    "repo": "capybara-zy/xiaoye-ai",
+    "branch": "main",
+    "language": "Vue",
     "description": ""
   },
   {
-    "repo": "tensorflow/models",
-    "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
-  },
-  {
-    "repo": "openai/spinningup",
-    "branch": "master",
-    "language": "Python",
-    "description": "An educational resource to help anyone learn deep reinforcement learning."
-  },
-  {
-    "repo": "ckckck/UltimateSearchSkill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "coleam00/excalidraw-diagram-skill",
+    "repo": "ultralytics/ultralytics",
     "branch": "main",
     "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+    "description": "Ultralytics YOLO 🚀"
   },
   {
-    "repo": "airbytehq/airbyte",
-    "branch": "master",
+    "repo": "SakanaAI/AI-Scientist-v2",
+    "branch": "main",
     "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
   },
   {
-    "repo": "nats-io/nats-server",
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "repo": "ecto/vcad",
     "branch": "main",
-    "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+    "language": "Rust",
+    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
   },
   {
-    "repo": "borkdude/cream",
+    "repo": "InternLM/WildClawBench",
     "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+    "language": "Python",
+    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
   },
   {
-    "repo": "MrFadiAi/openclaw-manager",
+    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "branch": "main",
+    "language": "Python",
+    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+  },
+  {
+    "repo": "ghboke/claude-code-reverse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+    "description": "claude code源码分析报告"
   },
   {
-    "repo": "Anetedith12807/Ethereum-MEV-Bot",
+    "repo": "theNetworkChuck/axios-attack-guide",
     "branch": "main",
-    "language": "Python",
-    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
+    "language": "Shell",
+    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
   },
   {
-    "repo": "gradle/gradle",
+    "repo": "Timeverse/My-TW-Coverage",
     "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
+    "language": "Python",
+    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
   },
   {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+    "repo": "ammaarreshi/SkyRoads-Codex",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Reverse engineering a DOS game with no source code using Codex 5.4"
   }
 ]
