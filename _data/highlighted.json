@@ -1,8 +1,8 @@
 {
-  "repo": "omacom-io/ttfx",
-  "branch": "master",
-  "language": "Rust",
-  "description": "Terminal text effects as a single static binary — a parity-exact Rust port of terminaltexteffects",
-  "stars": 105,
-  "forks": 7
+  "repo": "loveisbl1nd/linksift",
+  "branch": "main",
+  "language": "Python",
+  "description": "Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg.",
+  "stars": 129,
+  "forks": 94
 }
