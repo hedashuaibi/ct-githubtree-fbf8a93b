@@ -1,8 +1,8 @@
 {
-  "repo": "erikwb/blueferry",
-  "branch": "main",
-  "language": "Python",
-  "description": "iMessage/SMS over Bluetooth to Linux. No proxy or cloud!",
-  "stars": 114,
-  "forks": 4
+  "repo": "omacom-io/ttfx",
+  "branch": "master",
+  "language": "Rust",
+  "description": "Terminal text effects as a single static binary — a parity-exact Rust port of terminaltexteffects",
+  "stars": 105,
+  "forks": 7
 }

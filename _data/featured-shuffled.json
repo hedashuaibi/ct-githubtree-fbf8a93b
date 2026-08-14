@@ -1,146 +1,146 @@
 [
   {
-    "repo": "iampedii/WhiteDNS-Wizard",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows."
-  },
-  {
-    "repo": "curvefi/curve-contract",
-    "branch": "master",
-    "language": "Python",
-    "description": "Vyper contracts used in Curve.fi exchange pools."
-  },
-  {
-    "repo": "milvus-io/milvus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
-  },
-  {
-    "repo": "0xSero/turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
-  },
-  {
-    "repo": "zhangbo2008/claude_code_annotated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claudecode泄露部分的代码解析"
-  },
-  {
-    "repo": "opa334/darksword-kexploit",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
-  },
-  {
-    "repo": "zoontek/react-native-bootsplash",
+    "repo": "tailwindcss/tailwindcss",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "Johnixr/claude-code-wechat-channel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
-  },
-  {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "x1xhlol/better-clawd",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
-  },
-  {
-    "repo": "LeoYeAI/teammate-skill",
+    "repo": "ShinMegamiBoson/OpenPlanter",
     "branch": "main",
     "language": "Python",
-    "description": "Distill a teammate into an AI Skill. Auto-collect Slack/Teams/GitHub data, generate Work Skill + 5-layer Persona, with continuous evolution. Powered by MyClaw.ai. Works with Claude Code, OpenClaw, and any AgentSkills-compatible agent."
-  },
-  {
-    "repo": "Ahmad-progr/claude-leaked-files",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
-  },
-  {
-    "repo": "GeiserX/awesome-spain",
-    "branch": "main",
-    "language": "Python",
-    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
-  },
-  {
-    "repo": "capybara-zy/xiaoye-ai",
-    "branch": "main",
-    "language": "Vue",
     "description": ""
   },
   {
-    "repo": "ultralytics/ultralytics",
+    "repo": "tokoroten/prompt-review",
     "branch": "main",
     "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
+    "description": ""
   },
   {
-    "repo": "SakanaAI/AI-Scientist-v2",
+    "repo": "VAST-AI-Research/TripoSplat",
     "branch": "main",
     "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
   },
   {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "ecto/vcad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
-  },
-  {
-    "repo": "InternLM/WildClawBench",
-    "branch": "main",
-    "language": "Python",
-    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
-  },
-  {
-    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
-    "branch": "main",
-    "language": "Python",
-    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
-  },
-  {
-    "repo": "ghboke/claude-code-reverse",
+    "repo": "antfu/tsnapi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "claude code源码分析报告"
+    "description": "Library public API snapshot testing for runtime exports and type declarations."
   },
   {
-    "repo": "theNetworkChuck/axios-attack-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
-  },
-  {
-    "repo": "Timeverse/My-TW-Coverage",
-    "branch": "master",
-    "language": "Python",
-    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
-  },
-  {
-    "repo": "ammaarreshi/SkyRoads-Codex",
+    "repo": "nushell/nushell",
     "branch": "main",
     "language": "Rust",
-    "description": "Reverse engineering a DOS game with no source code using Codex 5.4"
+    "description": "A new type of shell"
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "dotnet/runtime",
+    "branch": "main",
+    "language": "C#",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+  },
+  {
+    "repo": "hallucinogen/agent-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Kanban board for managing Claude Code agents in tmux"
+  },
+  {
+    "repo": "data-science-on-aws/data-science-on-aws",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
+  },
+  {
+    "repo": "ColeMurray/background-agents",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "Garume/Manifold",
+    "branch": "main",
+    "language": "C#",
+    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
+  },
+  {
+    "repo": "Houseofmvps/codesight",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+  },
+  {
+    "repo": "JohnRiceML/clawport-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
+  },
+  {
+    "repo": "Zephkek/XStoreUnlocker",
+    "branch": "main",
+    "language": "C++",
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "zuckermanai/zuckerman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
+  },
+  {
+    "repo": "googleapis/google-cloud-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "Google Cloud Client Library for Python"
+  },
+  {
+    "repo": "xyzthiago/claude-flows",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks."
+  },
+  {
+    "repo": "MichaelCade/90DaysOfDevOps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+  },
+  {
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cross-platform, OpenGL terminal emulator."
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "branch": "master",
+    "language": "C",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
   }
 ]
