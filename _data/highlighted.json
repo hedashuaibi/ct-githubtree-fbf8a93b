@@ -1,8 +1,8 @@
 {
-  "repo": "loveisbl1nd/linksift",
+  "repo": "Awaker-OTE/readingspace-mn",
   "branch": "main",
-  "language": "Python",
-  "description": "Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg.",
-  "stars": 129,
-  "forks": 94
+  "language": "JavaScript",
+  "description": "Reading Space MN — a reading workflow plugin for MarginNote 4.",
+  "stars": 157,
+  "forks": 0
 }
