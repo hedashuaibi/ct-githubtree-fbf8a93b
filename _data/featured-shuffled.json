@@ -1,146 +1,146 @@
 [
   {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+    "repo": "DotNetRussell/BloodBash",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
+    "description": "A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is required to use this tool. It's great for quick AD enumeration."
   },
   {
-    "repo": "andrew-shwetzer/career-ops-plugin",
+    "repo": "AdilMir1433/Overwatch_2_Aim_Trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Aimbot, wallhack, and ability cooldown tracker for Overwatch 2. Lock-on aiming for all heroes, see through walls, and track enemy ultimates. Works in all game modes."
+  },
+  {
+    "repo": "LearnPrompt/luban-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
+  },
+  {
+    "repo": "bergside/design-md-chrome",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "repo": "Polymarket-Trading-kit/sports-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
+  },
+  {
+    "repo": "JustLikeCheese/LGBT-Prompt",
     "branch": "main",
     "language": "HTML",
-    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
+    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
   },
   {
-    "repo": "LimHyungTae/Awesome-PhD-CV",
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
     "branch": "main",
-    "language": "TeX",
-    "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants."
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
   },
   {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
-  },
-  {
-    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "repo": "HKUSTDial/Supervisor-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
   },
   {
-    "repo": "trufflesuite/truffle",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+    "repo": "run-llama/ParseBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
   },
   {
-    "repo": "mshumer/unslop",
+    "repo": "MartinGalway/C64_music",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Music source files from 1980's Commodore 64 games"
+  },
+  {
+    "repo": "cclank/lanshu-awesome-ai-video-kit",
+    "branch": "main",
+    "language": "HTML",
+    "description": "做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论"
+  },
+  {
+    "repo": "shanselman/PeekDesktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "repo": "Introspective-Diffusion/I-DLM",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "openai/sora-prompt-engineering-guide",
-    "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
-  },
-  {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "A browser automation framework and ecosystem."
-  },
-  {
-    "repo": "JudyaiLab/ai-night-shift",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
-  },
-  {
-    "repo": "rzru/nightingale",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Machine learning powered Karaoke app (with scores!)"
-  },
-  {
-    "repo": "scalessec/Toast-Swift",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A Swift extension that adds toast notifications to the UIView object class."
-  },
-  {
-    "repo": "zsh-users/zsh-syntax-highlighting",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish shell like syntax highlighting for Zsh."
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-  },
-  {
-    "repo": "huggingface/trl",
+    "repo": "epoko77-ai/im-not-ai",
     "branch": "main",
     "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
+    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
   },
   {
-    "repo": "google/sentencepiece",
-    "branch": "master",
+    "repo": "rahul03524/YellowKey-Bitlocker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "YellowKey Github: bitlocker encryption bypass tool, winre physical access zero-day exploit, chaotic eclipse nightmare-eclipse github, tpm-only default configuration vulnerability. windows 11 server 2022 2025 unpatched, fstx folder system volume information, transactional ntfs metadata exploit, usb"
+  },
+  {
+    "repo": "SigmaTradeLabs/aster-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
+  },
+  {
+    "repo": "POWER-PILL/ASCII-Aquarium",
+    "branch": "main",
     "language": "C++",
-    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
+    "description": "ASCII Aquarium turns your Cheap Yellow Display into an tiny animated ASCII fish tank. It renders a live aquarium scene with animated fish, bubbles, swaying seaweed, tap-to-feed food flakes, occasional octopus & seahorse visitors, selectable backgrounds, preferences, optional Wi-Fi clock sync, & More!"
   },
   {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
+    "repo": "zengxiao-he/triton-llm-kernel-lab",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "tradesdontlie/tradingview-mcp",
+    "repo": "simoncirstoiu/alice",
     "branch": "main",
     "language": "JavaScript",
-    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
   },
   {
-    "repo": "CalyxOS/calyxos",
-    "branch": "main",
+    "repo": "alchaincyf/darwin-skill",
+    "branch": "master",
     "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
   },
   {
-    "repo": "NVIDIA/NemoClaw",
+    "repo": "fimbox/html-in-canvas",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "NVIDIA plugin for secure installation of OpenClaw"
+    "language": "JavaScript",
+    "description": "HTML in Canvas — arrival.space"
   },
   {
-    "repo": "Lissy93/awesome-privacy",
-    "branch": "main",
-    "language": "Astro",
-    "description": "🦄  A curated list of privacy & security-focused software and services"
-  },
-  {
-    "repo": "hitmux/HitCC",
+    "repo": "deepseek-ai/TileKernels",
     "branch": "main",
     "language": "Python",
-    "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
+    "description": "A kernel library written in tilelang"
+  },
+  {
+    "repo": "Backtthefuture/huangshu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "黄叔开源的Skill集合"
+  },
+  {
+    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
   }
 ]

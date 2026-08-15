@@ -1,8 +1,8 @@
 {
-  "repo": "steven-kid/deepseek-harness-desktop",
+  "repo": "vlln/whale-girl",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Minimal desktop wrapper for DeepSeek Harness 极简 Deespeek Harness 桌面端，跨平台，免配置，开箱即用",
-  "stars": 135,
+  "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+  "stars": 169,
   "forks": 8
 }
