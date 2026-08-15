@@ -1,8 +1,8 @@
 {
-  "repo": "sjc88661/multi-agent-discuss",
+  "repo": "steven-kid/deepseek-harness-desktop",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A featured project on GitHubTree.",
-  "stars": 137,
-  "forks": 16
+  "language": "JavaScript",
+  "description": "Minimal desktop wrapper for DeepSeek Harness 极简 Deespeek Harness 桌面端，跨平台，免配置，开箱即用",
+  "stars": 135,
+  "forks": 8
 }

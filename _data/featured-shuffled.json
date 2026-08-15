@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Zev55555/fragment-garden",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "apple/ml-ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "jackwener/xhs-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
-  },
-  {
-    "repo": "wevm/incur",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI framework for agents and humans"
-  },
-  {
-    "repo": "raxx21/rajesh-portfolio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "googleworkspace/cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
-  },
-  {
-    "repo": "whyzhow/PersonalStyleAI-Framework-",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
-  },
-  {
-    "repo": "rvm/rvm",
+    "repo": "golang/protobuf",
     "branch": "master",
-    "language": "Shell",
-    "description": "Ruby enVironment Manager (RVM)"
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
   },
   {
-    "repo": "TanStack/query",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
-  },
-  {
-    "repo": "veryyoldman/Genspark-AI",
+    "repo": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
     "branch": "main",
     "language": "Python",
-    "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)"
+    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
   },
   {
-    "repo": "zexuanw958-svg/travel-plan-viz",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。"
-  },
-  {
-    "repo": "XBuilderLAB/cheat-on-money",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
-  },
-  {
-    "repo": "Polymarket-Trading-kit/sports-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
-  },
-  {
-    "repo": "akitaonrails/FrankSherlock",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
-  },
-  {
-    "repo": "zzzhhh1/free-nodes",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "vannyben7/course-learning-workspace",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Perkins729/OmniXtreme",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Klotzkette/claude-fuer-deutsches-recht",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
-  },
-  {
-    "repo": "trading-2028/polymarket-ai-trading",
+    "repo": "andrew-shwetzer/career-ops-plugin",
     "branch": "main",
     "language": "HTML",
-    "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading"
+    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
   },
   {
-    "repo": "tritano/ultraviewer",
+    "repo": "LimHyungTae/Awesome-PhD-CV",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants."
+  },
+  {
+    "repo": "sindresorhus/type-fest",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+    "description": "A collection of essential TypeScript types"
   },
   {
-    "repo": "peteromallet/dataclaw",
+    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "branch": "main",
+    "language": "Python",
+    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+  },
+  {
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+  },
+  {
+    "repo": "mshumer/unslop",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "LiuMengxuan04/shushu-internship-tool",
+    "repo": "nanostores/nanostores",
     "branch": "main",
-    "language": "Python",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。"
+    "language": "TypeScript",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
   },
   {
-    "repo": "1jehuang/mermaid-rs-renderer",
+    "repo": "openai/sora-prompt-engineering-guide",
+    "branch": "main",
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
+  },
+  {
+    "repo": "JudyaiLab/ai-night-shift",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+  },
+  {
+    "repo": "rzru/nightingale",
     "branch": "master",
     "language": "Rust",
-    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
+    "description": "Machine learning powered Karaoke app (with scores!)"
+  },
+  {
+    "repo": "scalessec/Toast-Swift",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A Swift extension that adds toast notifications to the UIView object class."
+  },
+  {
+    "repo": "zsh-users/zsh-syntax-highlighting",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish shell like syntax highlighting for Zsh."
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "huggingface/trl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "google/sentencepiece",
+    "branch": "master",
+    "language": "C++",
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
+  },
+  {
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
+  },
+  {
+    "repo": "tradesdontlie/tradingview-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+  },
+  {
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "NVIDIA/NemoClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NVIDIA plugin for secure installation of OpenClaw"
+  },
+  {
+    "repo": "Lissy93/awesome-privacy",
+    "branch": "main",
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
+  },
+  {
+    "repo": "hitmux/HitCC",
+    "branch": "main",
+    "language": "Python",
+    "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
   }
 ]
