@@ -1,146 +1,146 @@
 [
   {
-    "repo": "liangdabiao/Fashion-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
-  },
-  {
-    "repo": "codeany-ai/codeany",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open-source AI-powered terminal agent. Built in Go."
-  },
-  {
-    "repo": "test-time-training/ttt-video-dit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
-  },
-  {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
-  },
-  {
-    "repo": "koajs/koa",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Expressive middleware for node.js using ES2017 async functions"
-  },
-  {
-    "repo": "kevinrgu/autoagent",
-    "branch": "main",
-    "language": "Python",
-    "description": "autonomous harness engineering"
-  },
-  {
-    "repo": "0xGF/boneyard",
+    "repo": "Zev55555/fragment-garden",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Auto generated skeleton loading framework"
+    "description": ""
   },
   {
-    "repo": "godotengine/godot-docs",
-    "branch": "master",
-    "language": "reStructuredText",
-    "description": "Godot Engine official documentation"
-  },
-  {
-    "repo": "hellowind777/hello2cc",
+    "repo": "apple/ml-ssd",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+    "repo": "Trooped/QuickBars",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
   },
   {
-    "repo": "pacifio/cersei",
+    "repo": "jackwener/xhs-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
+  },
+  {
+    "repo": "wevm/incur",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI framework for agents and humans"
+  },
+  {
+    "repo": "raxx21/rajesh-portfolio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "googleworkspace/cli",
     "branch": "main",
     "language": "Rust",
-    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
   },
   {
-    "repo": "axios/axios",
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
+    "branch": "main",
+    "language": "Python",
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+  },
+  {
+    "repo": "rvm/rvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Ruby enVironment Manager (RVM)"
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "veryyoldman/Genspark-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)"
+  },
+  {
+    "repo": "zexuanw958-svg/travel-plan-viz",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
+    "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。"
   },
   {
-    "repo": "tvytlx/ai-agent-deep-dive",
+    "repo": "XBuilderLAB/cheat-on-money",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
+  },
+  {
+    "repo": "Polymarket-Trading-kit/sports-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
+  },
+  {
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+  },
+  {
+    "repo": "zzzhhh1/free-nodes",
     "branch": "main",
     "language": "Python",
-    "description": "AI Agent 源码深度研究报告"
-  },
-  {
-    "repo": "google-gemini/generative-ai-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "This SDK is now deprecated, use the unified Firebase SDK."
-  },
-  {
-    "repo": "zolotukhin/zinc",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
-  },
-  {
-    "repo": "Ganso/refugiOS",
-    "branch": "main",
-    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "remotion-dev/remotion",
+    "repo": "vannyben7/course-learning-workspace",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
-  },
-  {
-    "repo": "cypress-io/cypress",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
-  },
-  {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
-  },
-  {
-    "repo": "nteract/nteract",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📘 The interactive computing suite for you!  ✨"
-  },
-  {
-    "repo": "andrew-kramer-inno/claude-code-source-build",
-    "branch": "master",
-    "language": "TypeScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "Perkins729/OmniXtreme",
     "branch": "main",
     "language": "Python",
-    "description": ":books: Freely available programming books"
+    "description": ""
   },
   {
-    "repo": "allenai/allennlp",
+    "repo": "Klotzkette/claude-fuer-deutsches-recht",
     "branch": "main",
     "language": "Python",
-    "description": "An open-source NLP research library, built on PyTorch."
+    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
+  },
+  {
+    "repo": "trading-2028/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading"
+  },
+  {
+    "repo": "tritano/ultraviewer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+  },
+  {
+    "repo": "peteromallet/dataclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "LiuMengxuan04/shushu-internship-tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。"
+  },
+  {
+    "repo": "1jehuang/mermaid-rs-renderer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
   }
 ]
