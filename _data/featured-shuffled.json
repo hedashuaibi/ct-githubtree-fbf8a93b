@@ -1,33 +1,87 @@
 [
   {
-    "repo": "fellowgeek/mcp-memory",
+    "repo": "bamboostrip/Handwriting-simulator",
     "branch": "main",
     "language": "Python",
-    "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents."
+    "description": "把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。"
   },
   {
-    "repo": "roger2ai/Claude-Code-Compiled",
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "byJoey/openclawctl",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Compiled version of Leaked Claude Code"
+    "language": "Shell",
+    "description": ""
   },
   {
-    "repo": "openai/whisper",
+    "repo": "poshan0126/dotclaude",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
+  },
+  {
+    "repo": "steveclarke/real-world-rails",
+    "branch": "main",
+    "language": "Shell",
+    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
+  },
+  {
+    "repo": "MooseGoose0701/skill-compose",
     "branch": "main",
     "language": "Python",
-    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
   },
   {
-    "repo": "storybookjs/testing-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
-  },
-  {
-    "repo": "ray-project/ray",
+    "repo": "ConsenSys/teku",
     "branch": "master",
+    "language": "Java",
+    "description": "🚀 Open-source Ethereum consensus client written in Java"
+  },
+  {
+    "repo": "wandb/wandb",
+    "branch": "main",
     "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+  },
+  {
+    "repo": "vkhanhqui/figma-mcp-go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code"
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+  },
+  {
+    "repo": "goreleaser/goreleaser",
+    "branch": "main",
+    "language": "Go",
+    "description": "Release engineering, simplified"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "branch": "main",
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
+  },
+  {
+    "repo": "parcadei/ouros",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A sandboxed Python runtime for AI agents, written in Rust."
+  },
+  {
+    "repo": "redux-saga/redux-saga",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An alternative side effect model for Redux apps"
   },
   {
     "repo": "huggingface/peft",
@@ -36,111 +90,57 @@
     "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
   },
   {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "nextcloud/server",
-    "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
-  },
-  {
-    "repo": "shanselman/cert-inspector",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "react-native-picker/picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Picker is a cross-platform UI component for selecting an item from a list of options."
-  },
-  {
-    "repo": "trailofbits/algo",
-    "branch": "master",
+    "repo": "peteromallet/desloppify",
+    "branch": "main",
     "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
+    "description": ""
   },
   {
-    "repo": "ory/hydra",
-    "branch": "master",
-    "language": "Go",
-    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
+    "repo": "cporter202/agentic-ai-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today."
   },
   {
-    "repo": "directus/directus",
+    "repo": "allenai/allennlp",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open-source NLP research library, built on PyTorch."
+  },
+  {
+    "repo": "whwangovo/pyre-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser."
+  },
+  {
+    "repo": "xiaguan/pegainfer",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Pure Rust + CUDA LLM inference engine"
+  },
+  {
+    "repo": "PentHertz/grimoire",
+    "branch": "main",
+    "language": "Python",
+    "description": "Offensive knowledge, offline. One search box for every playbook."
+  },
+  {
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "vercel-labs/visual-json",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
   },
   {
-    "repo": "Leaflet/Leaflet",
+    "repo": "r14dd/patent",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦"
-  },
-  {
-    "repo": "pynecone-io/pynecone",
-    "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "sirupsen/logrus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Structured, pluggable logging for Go."
-  },
-  {
-    "repo": "preactjs/preact",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
-  },
-  {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
-  },
-  {
-    "repo": "spf13/viper",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go configuration with fangs"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "caddyserver/caddy",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "spotipy-dev/spotipy",
-    "branch": "master",
-    "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
+    "language": "Rust",
+    "description": "A prior-art search for your code ideas. Stop building what already exists."
   }
 ]

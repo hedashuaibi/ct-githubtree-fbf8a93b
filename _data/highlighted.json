@@ -1,8 +1,8 @@
 {
-  "repo": "morsyxbt/nft-public-mint",
+  "repo": "icesixgod/codex-trajectory",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "CLI sniper for public SeaDrop NFT mints - builds calldata on-chain, no OpenSea token required",
-  "stars": 158,
-  "forks": 118
+  "language": "Python",
+  "description": "Privacy-aware trajectory viewer for local Codex task logs",
+  "stars": 145,
+  "forks": 6
 }
