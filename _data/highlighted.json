@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "TypeScript",
   "description": "CLI sniper for public SeaDrop NFT mints - builds calldata on-chain, no OpenSea token required",
-  "stars": 144,
-  "forks": 107
+  "stars": 158,
+  "forks": 118
 }

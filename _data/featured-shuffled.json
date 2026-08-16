@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chenhg5/cc-connect",
-    "branch": "main",
-    "language": "Go",
-    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
-  },
-  {
-    "repo": "MTTECHTH/mihon-aria",
-    "branch": "main",
-    "language": "HTML",
-    "description": "The Ultimate Manga Reading Experience for Android 2026"
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "MariaDB/server",
-    "branch": "11.4",
-    "language": "C++",
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
-  },
-  {
-    "repo": "WalletConnect/walletconnect-monorepo",
-    "branch": "v2.0",
-    "language": "TypeScript",
-    "description": "WalletConnect Monorepo"
-  },
-  {
-    "repo": "reduxjs/reselect",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Selector library for Redux"
-  },
-  {
-    "repo": "spring-guides/gs-spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
-  },
-  {
-    "repo": "public-apis/public-apis",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
-  },
-  {
-    "repo": "chartjs/Chart.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
-  },
-  {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
-    "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
-  },
-  {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
-  },
-  {
-    "repo": "jmuncor/sherlock",
+    "repo": "fellowgeek/mcp-memory",
     "branch": "main",
     "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+    "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents."
   },
   {
-    "repo": "brianc/node-postgres",
+    "repo": "roger2ai/Claude-Code-Compiled",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Compiled version of Leaked Claude Code"
+  },
+  {
+    "repo": "openai/whisper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+  },
+  {
+    "repo": "storybookjs/testing-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+  },
+  {
+    "repo": "ray-project/ray",
+    "branch": "master",
+    "language": "Python",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+  },
+  {
+    "repo": "huggingface/peft",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+  },
+  {
+    "repo": "golang/protobuf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "shanselman/cert-inspector",
     "branch": "master",
     "language": "JavaScript",
-    "description": "PostgreSQL client for node.js."
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
   },
   {
-    "repo": "datasciencemasters/go",
+    "repo": "react-native-picker/picker",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "Picker is a cross-platform UI component for selecting an item from a list of options."
+  },
+  {
+    "repo": "trailofbits/algo",
+    "branch": "master",
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
+  },
+  {
+    "repo": "ory/hydra",
+    "branch": "master",
+    "language": "Go",
+    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
+  },
+  {
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "Leaflet/Leaflet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦"
+  },
+  {
+    "repo": "pynecone-io/pynecone",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Structured, pluggable logging for Go."
+  },
+  {
+    "repo": "preactjs/preact",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+  },
+  {
+    "repo": "microsoft/LlamaSharp",
+    "branch": "main",
     "language": "Other",
-    "description": "The Open Source Data Science Masters"
+    "description": ".NET library for Llama model inference."
   },
   {
-    "repo": "thanos-io/thanos",
-    "branch": "main",
+    "repo": "termux/termux-app",
+    "branch": "master",
+    "language": "Java",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+  },
+  {
+    "repo": "spf13/viper",
+    "branch": "master",
     "language": "Go",
-    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+    "description": "Go configuration with fangs"
   },
   {
-    "repo": "docker/docker-py",
-    "branch": "main",
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
     "language": "Python",
-    "description": "A Python library for the Docker Engine API"
+    "description": "Streamlit — A faster way to build and share data apps."
   },
   {
-    "repo": "nuxt/nuxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
-  },
-  {
-    "repo": "pointfreeco/swift-snapshot-testing",
-    "branch": "main",
-    "language": "Swift",
-    "description": "📸 Delightful Swift snapshot testing."
-  },
-  {
-    "repo": "tanaer/WindowsClear",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "vanroon/Hades-II-Trainer-Legendary",
-    "branch": "main",
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
     "language": "Python",
-    "description": "The ultimate cheat tool for Hades II – unlock all features instantly. Includes God Mode, infinite resources, speed hack and many more."
-  },
-  {
-    "repo": "techwithtim/Flask-Web-App-Tutorial",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Code for the note storing flask web app made during a YouTube video."
-  },
-  {
-    "repo": "openai/glide-text2im",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
-  },
-  {
-    "repo": "Zlatkoo25/Apex_Legends_Movement_Macro___Aim_Assist",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tap-strafe, superglide, and aim assist macros for Apex Legends. Perfect movement and soft aim lock. Configurable and undetected."
+    "description": "A light weight Python library for the Spotify Web API"
   }
 ]
