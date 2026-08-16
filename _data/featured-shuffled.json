@@ -1,146 +1,146 @@
 [
   {
-    "repo": "DotNetRussell/BloodBash",
+    "repo": "chenhg5/cc-connect",
     "branch": "main",
-    "language": "Python",
-    "description": "A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is required to use this tool. It's great for quick AD enumeration."
+    "language": "Go",
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
   },
   {
-    "repo": "AdilMir1433/Overwatch_2_Aim_Trainer",
+    "repo": "MTTECHTH/mihon-aria",
     "branch": "main",
-    "language": "Python",
-    "description": "Aimbot, wallhack, and ability cooldown tracker for Overwatch 2. Lock-on aiming for all heroes, see through walls, and track enemy ultimates. Works in all game modes."
+    "language": "HTML",
+    "description": "The Ultimate Manga Reading Experience for Android 2026"
   },
   {
-    "repo": "LearnPrompt/luban-skill",
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "MariaDB/server",
+    "branch": "11.4",
+    "language": "C++",
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
+  },
+  {
+    "repo": "WalletConnect/walletconnect-monorepo",
+    "branch": "v2.0",
+    "language": "TypeScript",
+    "description": "WalletConnect Monorepo"
+  },
+  {
+    "repo": "reduxjs/reselect",
     "branch": "master",
-    "language": "Shell",
-    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
-  },
-  {
-    "repo": "bergside/design-md-chrome",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
-  },
-  {
-    "repo": "Polymarket-Trading-kit/sports-trading-bot",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
+    "description": "Selector library for Redux"
   },
   {
-    "repo": "JustLikeCheese/LGBT-Prompt",
+    "repo": "spring-guides/gs-spring-boot",
     "branch": "main",
-    "language": "HTML",
-    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
+    "language": "Java",
+    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
   },
   {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
-  },
-  {
-    "repo": "HKUSTDial/Supervisor-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
-  },
-  {
-    "repo": "run-llama/ParseBench",
-    "branch": "main",
-    "language": "Python",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
-  },
-  {
-    "repo": "MartinGalway/C64_music",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Music source files from 1980's Commodore 64 games"
-  },
-  {
-    "repo": "cclank/lanshu-awesome-ai-video-kit",
-    "branch": "main",
-    "language": "HTML",
-    "description": "做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论"
-  },
-  {
-    "repo": "shanselman/PeekDesktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
-  },
-  {
-    "repo": "Introspective-Diffusion/I-DLM",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "epoko77-ai/im-not-ai",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
-  },
-  {
-    "repo": "rahul03524/YellowKey-Bitlocker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "YellowKey Github: bitlocker encryption bypass tool, winre physical access zero-day exploit, chaotic eclipse nightmare-eclipse github, tpm-only default configuration vulnerability. windows 11 server 2022 2025 unpatched, fstx folder system volume information, transactional ntfs metadata exploit, usb"
-  },
-  {
-    "repo": "SigmaTradeLabs/aster-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
-  },
-  {
-    "repo": "POWER-PILL/ASCII-Aquarium",
-    "branch": "main",
-    "language": "C++",
-    "description": "ASCII Aquarium turns your Cheap Yellow Display into an tiny animated ASCII fish tank. It renders a live aquarium scene with animated fish, bubbles, swaying seaweed, tap-to-feed food flakes, occasional octopus & seahorse visitors, selectable backgrounds, preferences, optional Wi-Fi clock sync, & More!"
-  },
-  {
-    "repo": "zengxiao-he/triton-llm-kernel-lab",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "simoncirstoiu/alice",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
-  },
-  {
-    "repo": "alchaincyf/darwin-skill",
+    "repo": "public-apis/public-apis",
     "branch": "master",
-    "language": "HTML",
-    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+    "language": "Python",
+    "description": "A collective list of free APIs"
   },
   {
-    "repo": "fimbox/html-in-canvas",
-    "branch": "main",
+    "repo": "chartjs/Chart.js",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "HTML in Canvas — arrival.space"
+    "description": "Simple HTML5 Charts using the <canvas> tag"
   },
   {
-    "repo": "deepseek-ai/TileKernels",
+    "repo": "gin-gonic/gin",
+    "branch": "master",
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+  },
+  {
+    "repo": "tilt-dev/tilt",
+    "branch": "master",
+    "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+  },
+  {
+    "repo": "jmuncor/sherlock",
     "branch": "main",
     "language": "Python",
-    "description": "A kernel library written in tilelang"
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
   },
   {
-    "repo": "Backtthefuture/huangshu",
+    "repo": "brianc/node-postgres",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "PostgreSQL client for node.js."
+  },
+  {
+    "repo": "datasciencemasters/go",
+    "branch": "master",
+    "language": "Other",
+    "description": "The Open Source Data Science Masters"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "branch": "main",
+    "language": "Go",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+  },
+  {
+    "repo": "docker/docker-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
+  },
+  {
+    "repo": "nuxt/nuxt",
     "branch": "main",
     "language": "TypeScript",
-    "description": "黄叔开源的Skill集合"
+    "description": "The Full-Stack Vue Framework."
   },
   {
-    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "repo": "pointfreeco/swift-snapshot-testing",
     "branch": "main",
-    "language": "C++",
-    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+    "language": "Swift",
+    "description": "📸 Delightful Swift snapshot testing."
+  },
+  {
+    "repo": "tanaer/WindowsClear",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+  },
+  {
+    "repo": "vanroon/Hades-II-Trainer-Legendary",
+    "branch": "main",
+    "language": "Python",
+    "description": "The ultimate cheat tool for Hades II – unlock all features instantly. Includes God Mode, infinite resources, speed hack and many more."
+  },
+  {
+    "repo": "techwithtim/Flask-Web-App-Tutorial",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Code for the note storing flask web app made during a YouTube video."
+  },
+  {
+    "repo": "openai/glide-text2im",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+  },
+  {
+    "repo": "Zlatkoo25/Apex_Legends_Movement_Macro___Aim_Assist",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tap-strafe, superglide, and aim assist macros for Apex Legends. Perfect movement and soft aim lock. Configurable and undetected."
   }
 ]

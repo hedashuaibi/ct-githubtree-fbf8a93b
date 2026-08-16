@@ -1,8 +1,8 @@
 {
-  "repo": "vlln/whale-girl",
+  "repo": "morsyxbt/nft-public-mint",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-  "stars": 169,
-  "forks": 8
+  "language": "TypeScript",
+  "description": "CLI sniper for public SeaDrop NFT mints - builds calldata on-chain, no OpenSea token required",
+  "stars": 144,
+  "forks": 107
 }
