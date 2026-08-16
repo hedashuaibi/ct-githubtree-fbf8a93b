@@ -1,8 +1,8 @@
 {
-  "repo": "icesixgod/codex-trajectory",
+  "repo": "ZSvirt/zsvirt",
   "branch": "main",
-  "language": "Python",
-  "description": "Privacy-aware trajectory viewer for local Codex task logs",
-  "stars": 145,
-  "forks": 6
+  "language": "Java",
+  "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+  "stars": 456,
+  "forks": 41
 }
