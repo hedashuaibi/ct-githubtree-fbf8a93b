@@ -1,8 +1,8 @@
 {
-  "repo": "ZSvirt/zsvirt",
+  "repo": "Kronop/vibe-aso",
   "branch": "main",
-  "language": "Java",
-  "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-  "stars": 456,
-  "forks": 41
+  "language": "JavaScript",
+  "description": "You vibe-coded the app — now vibe the ASO. A Claude Code skill: keyword research, 50-locale App Store metadata, localized screenshots, worldwide pricing, in-app localization.",
+  "stars": 143,
+  "forks": 15
 }

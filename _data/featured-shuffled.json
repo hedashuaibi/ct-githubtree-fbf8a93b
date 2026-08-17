@@ -1,146 +1,146 @@
 [
   {
+    "repo": "Tencent-Hunyuan/Hy-Embodied-0.5-VLA",
+    "branch": "main",
+    "language": "Python",
+    "description": "From Vision-Language-Action Models to a Real-World Robot Learning Stack"
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
+  },
+  {
+    "repo": "xuanyuanzhifeng/easytshark",
+    "branch": "main",
+    "language": "C",
+    "description": "一款开源的简洁好用的网络抓包分析软件"
+  },
+  {
+    "repo": "dotnet/efcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+  },
+  {
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "shadcn-ui/ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+  },
+  {
+    "repo": "nightwatchjs/nightwatch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
+    "branch": "main",
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "branch": "main",
+    "language": "Go",
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+  },
+  {
+    "repo": "SakanaAI/AI-Scientist-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+  },
+  {
+    "repo": "flairNLP/flair",
+    "branch": "master",
+    "language": "Python",
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "branch": "master",
+    "language": "Go",
+    "description": "Automatically provision and manage TLS certificates in Kubernetes"
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "test-time-training/ttt-video-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+  },
+  {
+    "repo": "knative/eventing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Event-driven application platform for Kubernetes"
+  },
+  {
+    "repo": "agarrharr/awesome-cli-apps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "branch": "v3.8",
+    "language": "C++",
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+  },
+  {
+    "repo": "Stability-AI/generative-models",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generative Models by Stability AI"
+  },
+  {
     "repo": "netblue30/firejail",
     "branch": "master",
     "language": "C",
     "description": "Linux namespaces and seccomp-bpf sandbox"
   },
   {
-    "repo": "study8677/awesome-architecture",
-    "branch": "main",
-    "language": "Vue",
-    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。"
+    "repo": "PCRE2Project/pcre2",
+    "branch": "master",
+    "language": "C",
+    "description": "PCRE2 development is based here."
   },
   {
-    "repo": "LaurieWired/tailslayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Library for reducing tail latency in RAM reads"
-  },
-  {
-    "repo": "scrya-com/rotorquant",
+    "repo": "Unclecode/Crawl4AI",
     "branch": "main",
     "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
   },
   {
-    "repo": "sgInnora/alipay-deeplink-research",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
-  },
-  {
-    "repo": "Rivflyyy/HappyTorch",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
-  },
-  {
-    "repo": "samvallad33/vestige",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
-  },
-  {
-    "repo": "grapeot/context-infrastructure",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reference implementation: a context infrastructure system for pulling LLM out of consensus"
-  },
-  {
-    "repo": "edinetdb/dexter-jp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
-  },
-  {
-    "repo": "guzzle/guzzle",
+    "repo": "primefaces/primereact",
     "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
+    "language": "CSS",
+    "description": "The Most Complete React UI Component Library"
   },
   {
-    "repo": "lux-db/lux",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "akitaonrails/FrankSherlock",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
-  },
-  {
-    "repo": "VexedWilosn/AetherSwap",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
-  },
-  {
-    "repo": "jupyter/notebook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
-  },
-  {
-    "repo": "cosmiciron/vmprint",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
-  },
-  {
-    "repo": "astro/astro",
-    "branch": "main",
-    "language": "Other",
-    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
-  },
-  {
-    "repo": "liu-ziting/ThinkFlowAI",
-    "branch": "main",
-    "language": "Vue",
-    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
-  },
-  {
-    "repo": "acedef/SynthAPT",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
-  },
-  {
-    "repo": "bluewave-labs/dodopulse",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs"
-  },
-  {
-    "repo": "webpack/webpack-dev-server",
+    "repo": "LeCoupa/awesome-cheatsheets",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "mksglu/claude-context-mode",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
   }
 ]
