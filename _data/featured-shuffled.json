@@ -1,146 +1,146 @@
 [
   {
-    "repo": "collaborator-ai/collab-public",
+    "repo": "endevco/aube",
     "branch": "main",
-    "language": "Shell",
-    "description": "Collaborator is a place to build with agents."
+    "language": "Rust",
+    "description": "A fast Node.js package manager"
   },
   {
-    "repo": "aosabook/500lines",
+    "repo": "google-research/google-research",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "500 Lines or Less"
+    "language": "Jupyter Notebook",
+    "description": "Google Research"
   },
   {
-    "repo": "openai/glide-text2im",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
-  },
-  {
-    "repo": "Utopia-V/codex-deepseek-subagent",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Run DeepSeek V4 Flash as a native Codex subagent without replacing the OpenAI main agent."
-  },
-  {
-    "repo": "ForecastForge/binance-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
-  },
-  {
-    "repo": "redteamfortress/PhantomKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
-  },
-  {
-    "repo": "gar212/VoidStrap-Roblox",
-    "branch": "main",
-    "language": "C++",
-    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
-  },
-  {
-    "repo": "l3gi0nXXXX/Metis-agent",
-    "branch": "main",
-    "language": "Cangjie",
-    "description": ""
-  },
-  {
-    "repo": "Ademking/SkillPrompts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions."
-  },
-  {
-    "repo": "MangoLion/stretchystudio",
+    "repo": "godagoo/claude-telegram-relay",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
   },
   {
-    "repo": "hvardhan878/ghostwork",
+    "repo": "RightNow-AI/openfang",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
+  },
+  {
+    "repo": "mickamy/sql-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Watch SQL traffic in real-time with a TUI"
+  },
+  {
+    "repo": "zer0condition/Ophion",
+    "branch": "master",
+    "language": "C",
+    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+  },
+  {
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+  },
+  {
+    "repo": "miuda-ai/lele",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Bare-Metal Rust Audio AI Framework"
+  },
+  {
+    "repo": "Wechat-ggGitHub/wechat-claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently."
+    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
   },
   {
-    "repo": "zqbxdev/webchat2api",
+    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "branch": "main",
-    "language": "Python",
-    "description": "OpenAI-compatible Web Chat API proxy with GPT/Grok account management"
+    "language": "Rust",
+    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
   },
   {
-    "repo": "d-samaun/Tomodachi-Share-Mii",
-    "branch": "main",
-    "language": "C#",
-    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
-  },
-  {
-    "repo": "fluentlc/claude-code-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications."
-  },
-  {
-    "repo": "RoboDojo-Benchmark/RoboDojo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Repo of RoboDojo"
-  },
-  {
-    "repo": "Glazenovatag/hyperliquid-whale-order-tracking",
-    "branch": "main",
-    "language": "Python",
-    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live."
-  },
-  {
-    "repo": "SalhaNabil/CloakBrowser",
+    "repo": "diffusionstudio/slug-webgpu",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github"
+    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
   },
   {
-    "repo": "hoaibaone/OP-Auto-Clicker",
+    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
     "branch": "main",
-    "language": "C#",
-    "description": "OP Auto Clicker download automatic mouse clicker automation utility gaming Roblox Minecraft Cookie Clicker fast clicking intervals hotkeys macro mouse button record playback free open source portable PC mobile script trigger settings single double triple."
+    "language": "Python",
+    "description": "TradingView Full version unlocker"
   },
   {
-    "repo": "appledog-xyz/FormCmsPortal",
+    "repo": "helenigtxu/TradingView-Claw",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "bkingfilm/lapian-notes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆"
-  },
-  {
-    "repo": "PitShipwrightGraph/MecchaPhantom",
-    "branch": "main",
+    "repo": "openmax-server/server",
+    "branch": "master",
     "language": "Python",
-    "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
+    "description": "Открытый сервер для MAX"
   },
   {
-    "repo": "Robbyant/lingbot-map",
-    "branch": "main",
-    "language": "Python",
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
-  },
-  {
-    "repo": "yusukebe/ax",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AI-era curl"
-  },
-  {
-    "repo": "ZimengXiong/tinyTouch",
+    "repo": "xuanyuanzhifeng/easytshark",
     "branch": "main",
     "language": "C",
-    "description": "authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security"
+    "description": "一款开源的简洁好用的网络抓包分析软件"
+  },
+  {
+    "repo": "quailyquaily/aqua",
+    "branch": "master",
+    "language": "Go",
+    "description": "Aqua, a cli message tool for AI agents"
+  },
+  {
+    "repo": "ryfineZ/codex-session-patcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+  },
+  {
+    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "stonerl/Thaw",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Menu bar manager for macOS"
+  },
+  {
+    "repo": "comeonzhj/AutoContents",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+  },
+  {
+    "repo": "Norman-bury/articlewriting-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "科研写作助手 (Research Writing Assistant)"
+  },
+  {
+    "repo": "chu2bard/pinion-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+  },
+  {
+    "repo": "dwzhu-pku/PaperBanana",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+  },
+  {
+    "repo": "doctorhetfield-cmd/simpleui.koplugin",
+    "branch": "main",
+    "language": "Lua",
+    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
   }
 ]
