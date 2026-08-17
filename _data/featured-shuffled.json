@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Tencent-Hunyuan/Hy-Embodied-0.5-VLA",
+    "repo": "machinepulse-ai/world2agent",
     "branch": "main",
-    "language": "Python",
-    "description": "From Vision-Language-Action Models to a Real-World Robot Learning Stack"
+    "language": "TypeScript",
+    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
   },
   {
-    "repo": "google/or-tools",
-    "branch": "stable",
-    "language": "C++",
-    "description": "Google's Operations Research tools:"
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
-  },
-  {
-    "repo": "xuanyuanzhifeng/easytshark",
+    "repo": "EstebanPdN/zelda-alttp-3ds",
     "branch": "main",
     "language": "C",
-    "description": "一款开源的简洁好用的网络抓包分析软件"
+    "description": "Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3"
   },
   {
-    "repo": "dotnet/efcore",
+    "repo": "FeSens/auto-arch-tournament",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "gakiyukr/Codex_team_auto",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "cri-o/cri-o",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+  },
+  {
+    "repo": "bozhouDev/14days-build-claude-code-cli",
+    "branch": "main",
+    "language": "MDX",
+    "description": "网页版教程，看起来会舒服一点"
+  },
+  {
+    "repo": "sigstore/cosign",
+    "branch": "main",
+    "language": "Go",
+    "description": "Code signing and transparency for containers and binaries"
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
+  },
+  {
+    "repo": "andralien/Synapse-Exec",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Synapse PC v3.2 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
+  },
+  {
+    "repo": "yuyefeiyu/yt-downloader",
     "branch": "main",
     "language": "C#",
-    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+    "description": "youtube downloader yt downloader mp3 converter 4k video download yt-dlp github free download windows 11 android apk"
   },
   {
-    "repo": "django/django",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
-  },
-  {
-    "repo": "shadcn-ui/ui",
+    "repo": "Tsukamg/polymarket-weather-trading-engine",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+    "description": "polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot"
   },
   {
-    "repo": "nightwatchjs/nightwatch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
-  },
-  {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "jaegertracing/jaeger",
-    "branch": "main",
-    "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
-  },
-  {
-    "repo": "SakanaAI/AI-Scientist-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
-  },
-  {
-    "repo": "flairNLP/flair",
+    "repo": "Mrack/TInjector_Symbi",
     "branch": "master",
-    "language": "Python",
-    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
-  },
-  {
-    "repo": "cert-manager/cert-manager",
-    "branch": "master",
-    "language": "Go",
-    "description": "Automatically provision and manage TLS certificates in Kubernetes"
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "test-time-training/ttt-video-dit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
-  },
-  {
-    "repo": "knative/eventing",
-    "branch": "main",
-    "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
-  },
-  {
-    "repo": "agarrharr/awesome-cli-apps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
-  },
-  {
-    "repo": "cocos/cocos-engine",
-    "branch": "v3.8",
     "language": "C++",
-    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+    "description": "更稳定的劫持Zygote在App启动前注入so"
   },
   {
-    "repo": "Stability-AI/generative-models",
+    "repo": "CyrilPeng/FlowScroll",
     "branch": "main",
     "language": "Python",
-    "description": "Generative Models by Stability AI"
+    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
   },
   {
-    "repo": "netblue30/firejail",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux namespaces and seccomp-bpf sandbox"
+    "repo": "mo1app/pipemagic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
   },
   {
-    "repo": "PCRE2Project/pcre2",
-    "branch": "master",
-    "language": "C",
-    "description": "PCRE2 development is based here."
+    "repo": "facebookresearch/atlas-lean",
+    "branch": "main",
+    "language": "Lean",
+    "description": "ATLAS Autoformalized Textbook Library At Scale"
   },
   {
-    "repo": "Unclecode/Crawl4AI",
+    "repo": "edwardsanchez/MotionEyes",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "233i/ore-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "DeepSeek-first desktop coding agent workbench"
+  },
+  {
+    "repo": "dseditor/QwenASRMiniTool",
     "branch": "main",
     "language": "Python",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
   },
   {
-    "repo": "primefaces/primereact",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Most Complete React UI Component Library"
+    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
   },
   {
-    "repo": "LeCoupa/awesome-cheatsheets",
+    "repo": "paritytech/polkadot",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+    "language": "Rust",
+    "description": "Polkadot Node Implementation"
+  },
+  {
+    "repo": "kernullist/PseudoForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
+  },
+  {
+    "repo": "intave/intave",
+    "branch": "master",
+    "language": "Java",
+    "description": "Intave is an enterprise, high-performance anticheat for Minecraft built on years of experience protecting the world's largest servers"
+  },
+  {
+    "repo": "SageClub/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
   }
 ]

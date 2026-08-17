@@ -1,8 +1,8 @@
 {
-  "repo": "Kronop/vibe-aso",
+  "repo": "seyedehsanhadi/sloptrim",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "You vibe-coded the app — now vibe the ASO. A Claude Code skill: keyword research, 50-locale App Store metadata, localized screenshots, worldwide pricing, in-app localization.",
-  "stars": 143,
-  "forks": 15
+  "language": "Python",
+  "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
+  "stars": 150,
+  "forks": 11
 }
