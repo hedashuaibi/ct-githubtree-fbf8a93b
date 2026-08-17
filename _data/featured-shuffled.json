@@ -1,146 +1,146 @@
 [
   {
-    "repo": "machinepulse-ai/world2agent",
+    "repo": "collaborator-ai/collab-public",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+    "language": "Shell",
+    "description": "Collaborator is a place to build with agents."
   },
   {
-    "repo": "EstebanPdN/zelda-alttp-3ds",
-    "branch": "main",
-    "language": "C",
-    "description": "Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3"
+    "repo": "aosabook/500lines",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "500 Lines or Less"
   },
   {
-    "repo": "FeSens/auto-arch-tournament",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "gakiyukr/Codex_team_auto",
+    "repo": "openai/glide-text2im",
     "branch": "main",
     "language": "Python",
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+  },
+  {
+    "repo": "Utopia-V/codex-deepseek-subagent",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Run DeepSeek V4 Flash as a native Codex subagent without replacing the OpenAI main agent."
+  },
+  {
+    "repo": "ForecastForge/binance-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+  },
+  {
+    "repo": "redteamfortress/PhantomKiller",
+    "branch": "main",
+    "language": "C++",
+    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
+  },
+  {
+    "repo": "gar212/VoidStrap-Roblox",
+    "branch": "main",
+    "language": "C++",
+    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
+  },
+  {
+    "repo": "l3gi0nXXXX/Metis-agent",
+    "branch": "main",
+    "language": "Cangjie",
     "description": ""
   },
   {
-    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "repo": "Ademking/SkillPrompts",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+    "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions."
   },
   {
-    "repo": "cri-o/cri-o",
+    "repo": "MangoLion/stretchystudio",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+  },
+  {
+    "repo": "hvardhan878/ghostwork",
     "branch": "main",
-    "language": "Go",
-    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+    "language": "TypeScript",
+    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently."
   },
   {
-    "repo": "bozhouDev/14days-build-claude-code-cli",
+    "repo": "zqbxdev/webchat2api",
     "branch": "main",
-    "language": "MDX",
-    "description": "网页版教程，看起来会舒服一点"
+    "language": "Python",
+    "description": "OpenAI-compatible Web Chat API proxy with GPT/Grok account management"
   },
   {
-    "repo": "sigstore/cosign",
-    "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
-  },
-  {
-    "repo": "zeroclaw-labs/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
-  },
-  {
-    "repo": "andralien/Synapse-Exec",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Synapse PC v3.2 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
-  },
-  {
-    "repo": "yuyefeiyu/yt-downloader",
+    "repo": "d-samaun/Tomodachi-Share-Mii",
     "branch": "main",
     "language": "C#",
-    "description": "youtube downloader yt downloader mp3 converter 4k video download yt-dlp github free download windows 11 android apk"
+    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
   },
   {
-    "repo": "Tsukamg/polymarket-weather-trading-engine",
+    "repo": "fluentlc/claude-code-java",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot"
+    "language": "Java",
+    "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications."
   },
   {
-    "repo": "Mrack/TInjector_Symbi",
-    "branch": "master",
-    "language": "C++",
-    "description": "更稳定的劫持Zygote在App启动前注入so"
-  },
-  {
-    "repo": "CyrilPeng/FlowScroll",
+    "repo": "RoboDojo-Benchmark/RoboDojo",
     "branch": "main",
     "language": "Python",
-    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
+    "description": "Official Repo of RoboDojo"
   },
   {
-    "repo": "mo1app/pipemagic",
+    "repo": "Glazenovatag/hyperliquid-whale-order-tracking",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live."
+  },
+  {
+    "repo": "SalhaNabil/CloakBrowser",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
+    "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github"
   },
   {
-    "repo": "facebookresearch/atlas-lean",
+    "repo": "hoaibaone/OP-Auto-Clicker",
     "branch": "main",
-    "language": "Lean",
-    "description": "ATLAS Autoformalized Textbook Library At Scale"
+    "language": "C#",
+    "description": "OP Auto Clicker download automatic mouse clicker automation utility gaming Roblox Minecraft Cookie Clicker fast clicking intervals hotkeys macro mouse button record playback free open source portable PC mobile script trigger settings single double triple."
   },
   {
-    "repo": "edwardsanchez/MotionEyes",
+    "repo": "appledog-xyz/FormCmsPortal",
     "branch": "main",
-    "language": "Swift",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "233i/ore-code",
+    "repo": "bkingfilm/lapian-notes",
     "branch": "main",
     "language": "TypeScript",
-    "description": "DeepSeek-first desktop coding agent workbench"
+    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆"
   },
   {
-    "repo": "dseditor/QwenASRMiniTool",
+    "repo": "PitShipwrightGraph/MecchaPhantom",
     "branch": "main",
     "language": "Python",
-    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
+    "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
   },
   {
-    "repo": "Unclecheng-li/AI-Animation-Skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
-  },
-  {
-    "repo": "paritytech/polkadot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polkadot Node Implementation"
-  },
-  {
-    "repo": "kernullist/PseudoForge",
+    "repo": "Robbyant/lingbot-map",
     "branch": "main",
     "language": "Python",
-    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
   },
   {
-    "repo": "intave/intave",
-    "branch": "master",
-    "language": "Java",
-    "description": "Intave is an enterprise, high-performance anticheat for Minecraft built on years of experience protecting the world's largest servers"
-  },
-  {
-    "repo": "SageClub/hyperliquid-trading-bot",
+    "repo": "yusukebe/ax",
     "branch": "main",
     "language": "TypeScript",
-    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
+    "description": "The AI-era curl"
+  },
+  {
+    "repo": "ZimengXiong/tinyTouch",
+    "branch": "main",
+    "language": "C",
+    "description": "authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security"
   }
 ]
