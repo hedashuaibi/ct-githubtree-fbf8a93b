@@ -1,8 +1,8 @@
 {
-  "repo": "byteforge9190/trusted-project",
+  "repo": "sudoingX/qwen38-mtp",
   "branch": "master",
-  "language": "Java",
-  "description": "A featured project on GitHubTree.",
-  "stars": 129,
-  "forks": 103
+  "language": "Python",
+  "description": "One llama.cpp flag unlocks +33-39% decode speed for Qwen3.8-27B on consumer GPUs. The MTP head already ships inside your GGUF. Recipe, paired benchmarks, probe tool.",
+  "stars": 180,
+  "forks": 54
 }
