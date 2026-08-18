@@ -1,146 +1,146 @@
 [
   {
-    "repo": "endevco/aube",
+    "repo": "smthdagg/wificalling-location-gateway",
     "branch": "main",
     "language": "Rust",
-    "description": "A fast Node.js package manager"
+    "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow"
   },
   {
-    "repo": "google-research/google-research",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Google Research"
+    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
   },
   {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
   },
   {
-    "repo": "RightNow-AI/openfang",
+    "repo": "Mathews-Tom/no-magic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source Agent Operating System"
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "mickamy/sql-tap",
+    "repo": "hantuzun/awesome-clojure",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
+  },
+  {
+    "repo": "cilium/hubble",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "AlmogBaku/debug-skill",
+    "branch": "master",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "ShawnPana/aurl",
     "branch": "main",
     "language": "Go",
-    "description": "Watch SQL traffic in real-time with a TUI"
+    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
   },
   {
-    "repo": "zer0condition/Ophion",
+    "repo": "SudoPlz/spicetify-cli",
     "branch": "master",
-    "language": "C",
-    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+    "language": "Other",
+    "description": "Command-line tool to customize Spotify client."
   },
   {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
     "branch": "main",
     "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
   },
   {
-    "repo": "miuda-ai/lele",
+    "repo": "webpack/webpack",
     "branch": "main",
-    "language": "Rust",
-    "description": "Bare-Metal Rust Audio AI Framework"
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
   },
   {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
-  },
-  {
-    "repo": "diffusionstudio/slug-webgpu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
-  },
-  {
-    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
+    "repo": "lukasHoel/video_to_world",
     "branch": "main",
     "language": "Python",
-    "description": "TradingView Full version unlocker"
+    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
   },
   {
-    "repo": "helenigtxu/TradingView-Claw",
+    "repo": "RhysSullivan/nextjs-mobile-app-template",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "samvallad33/vestige",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
+  },
+  {
+    "repo": "knowsuchagency/mcp2cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+  },
+  {
+    "repo": "openperf/openclaw-cloud",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
+  },
+  {
+    "repo": "Paparusi/legal-ai-agent",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "openmax-server/server",
-    "branch": "master",
-    "language": "Python",
-    "description": "Открытый сервер для MAX"
-  },
-  {
-    "repo": "xuanyuanzhifeng/easytshark",
-    "branch": "main",
-    "language": "C",
-    "description": "一款开源的简洁好用的网络抓包分析软件"
-  },
-  {
-    "repo": "quailyquaily/aqua",
-    "branch": "master",
-    "language": "Go",
-    "description": "Aqua, a cli message tool for AI agents"
-  },
-  {
-    "repo": "ryfineZ/codex-session-patcher",
+    "repo": "openai/shap-e",
     "branch": "main",
     "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+    "description": "Generate 3D objects conditioned on text or images"
   },
   {
-    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
+    "repo": "openyak/desktop",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "Python",
+    "description": "Yak is all you need"
   },
   {
-    "repo": "stonerl/Thaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Menu bar manager for macOS"
-  },
-  {
-    "repo": "comeonzhj/AutoContents",
+    "repo": "lovisdotio/falsprite",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
   },
   {
-    "repo": "Norman-bury/articlewriting-skill",
+    "repo": "komunite/kalfa",
     "branch": "main",
-    "language": "Python",
-    "description": "科研写作助手 (Research Writing Assistant)"
-  },
-  {
-    "repo": "chu2bard/pinion-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
-  },
-  {
-    "repo": "dwzhu-pku/PaperBanana",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
-  },
-  {
-    "repo": "doctorhetfield-cmd/simpleui.koplugin",
-    "branch": "main",
-    "language": "Lua",
-    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
+    "language": "Shell",
+    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
   }
 ]

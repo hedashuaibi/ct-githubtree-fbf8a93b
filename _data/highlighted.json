@@ -1,8 +1,8 @@
 {
-  "repo": "Nervercc/gpt_nerver",
+  "repo": "TencentARC/SCoPE",
   "branch": "main",
   "language": "Python",
-  "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-  "stars": 242,
-  "forks": 42
+  "description": "SCoPE: Sightline-Coordinate Positional Encoding for 3D-Aware Video Generation",
+  "stars": 144,
+  "forks": 10
 }
