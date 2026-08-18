@@ -1,146 +1,146 @@
 [
   {
-    "repo": "HKUSTDial/Supervisor-Skills",
+    "repo": "dandavison/delta",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
+  },
+  {
+    "repo": "kiwifs/kiwifs",
+    "branch": "main",
+    "language": "Go",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config."
+  },
+  {
+    "repo": "simonmakzon/GitDeepSearch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "GitDeepSearch - Deep search repository"
+  },
+  {
+    "repo": "Kato-Shoko705/Phoebe-Hub",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "全球最可爱的鸣潮角色菲比表情包收集站"
+  },
+  {
+    "repo": "NyxFoundation/speca",
     "branch": "main",
     "language": "Python",
-    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
+    "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
   },
   {
-    "repo": "Gustavo1900/bevy-tokio-tasks",
-    "branch": "master",
-    "language": "Rust",
-    "description": ""
+    "repo": "TQ-trade/polymarket-arbitrage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket trading bot that detects dump-and-hedge opportunities across 15-minute BTC, ETH, SOL, and XRP markets  polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot polymarke"
   },
   {
-    "repo": "OctoPrint/OctoPrint",
-    "branch": "master",
-    "language": "Python",
-    "description": "OctoPrint is the snappy web interface for your 3D printer!"
-  },
-  {
-    "repo": "Justineo/working-with-ai",
+    "repo": "alchaincyf/codex-orange-book",
     "branch": "main",
     "language": "HTML",
-    "description": "Working with AI - presentation slides"
+    "description": "OpenAI Codex: The Complete Guide · 橙皮书系列 · GPT-5.5 时代的 AI 编程实战手册"
   },
   {
-    "repo": "supermemoryai/clawdbot-supermemory",
+    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+    "language": "Dart",
+    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
   },
   {
-    "repo": "kdenlive/kdenlive",
-    "branch": "master",
-    "language": "Other",
-    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
+    "repo": "seramo/sni-scanner",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A lightweight Bash tool to scan common CDN ports on a list of IPs and domains."
   },
   {
-    "repo": "koodo-reader/koodo-reader",
-    "branch": "master",
+    "repo": "poseljacob/agentic-video-editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
+  },
+  {
+    "repo": "AriPath/AriMando",
+    "branch": "main",
+    "language": "Python",
+    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+  },
+  {
+    "repo": "emollick/concord",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web"
+    "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder"
   },
   {
-    "repo": "Semantic-Org/Semantic-UI",
-    "branch": "master",
+    "repo": "b-nnett/goose",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Goose Swift proof-of-concept README"
+  },
+  {
+    "repo": "freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free ChatGPT 5.5 OpenAI Unlimited is a professional AI suite for advanced reasoning and automation. It features expanded context windows, multimodal support, and high-speed execution. Designed for power users, it ensures seamless AI integration and performance for complex 2026 workflows. Codex"
+  },
+  {
+    "repo": "Yu9191/sub-store-workers",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Semantic is a UI component framework based around useful principles from natural language."
+    "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版"
   },
   {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
-    "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
-  },
-  {
-    "repo": "H-EmbodVis/VEGA-3D",
+    "repo": "endevco/aube",
     "branch": "main",
-    "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+    "language": "Rust",
+    "description": "A fast Node.js package manager"
   },
   {
-    "repo": "openyak/desktop",
+    "repo": "adamallcock/codex-chatgpt-control",
     "branch": "main",
-    "language": "Python",
-    "description": "Yak is all you need"
-  },
-  {
-    "repo": "Significant-Gravitas/AutoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
-  },
-  {
-    "repo": "Klipper3d/klipper",
-    "branch": "master",
-    "language": "C",
-    "description": "Klipper is a 3d-printer firmware"
-  },
-  {
-    "repo": "dashersw/gea",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "bitwarden/server",
-    "branch": "master",
-    "language": "C#",
-    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
-  },
-  {
-    "repo": "airbytehq/airbyte",
-    "branch": "master",
-    "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
-  },
-  {
-    "repo": "test-time-training/ttt-video-dit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
-  },
-  {
-    "repo": "jobrunr/JavaClaw",
-    "branch": "main",
-    "language": "Java",
-    "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr"
-  },
-  {
-    "repo": "0xKarl-dev/claw-codes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "epiral/weixin-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
-  },
-  {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "A browser automation framework and ecosystem."
-  },
-  {
-    "repo": "appium/appium",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+    "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions"
   },
   {
-    "repo": "NVIDIA/cuda-python",
+    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
     "branch": "main",
-    "language": "Cython",
-    "description": "CUDA Python: Performance meets Productivity"
+    "language": "C++",
+    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
+  },
+  {
+    "repo": "RD1707/Umbrella-HWID",
+    "branch": "main",
+    "language": "C++",
+    "description": "Umbrella Spoofer download HWID cleaner  BattlEye EAC permanent temporary registry disk serial MAC address monitor ID Vanguard hardware changer ban protect system utility software."
+  },
+  {
+    "repo": "XingYu-Zhong/DeepSeek-GUI",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application."
+  },
+  {
+    "repo": "NV404/gova",
+    "branch": "main",
+    "language": "Go",
+    "description": "declarative GUI framework for Go"
+  },
+  {
+    "repo": "TQ-trade/defidollar-core",
+    "branch": "decentralized-stable-index",
+    "language": "JavaScript",
+    "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin."
+  },
+  {
+    "repo": "deeplethe/forkd",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms."
+  },
+  {
+    "repo": "flaviodesa/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
   }
 ]
