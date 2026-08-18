@@ -1,129 +1,63 @@
 [
   {
-    "repo": "smthdagg/wificalling-location-gateway",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow"
-  },
-  {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
-  },
-  {
-    "repo": "rohitg00/ai-engineering-from-scratch",
+    "repo": "HKUSTDial/Supervisor-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
   },
   {
-    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
-  },
-  {
-    "repo": "Mathews-Tom/no-magic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
-  },
-  {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
+    "repo": "Gustavo1900/bevy-tokio-tasks",
+    "branch": "master",
     "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "AlmogBaku/debug-skill",
-    "branch": "master",
-    "language": "Go",
     "description": ""
   },
   {
-    "repo": "ShawnPana/aurl",
-    "branch": "main",
-    "language": "Go",
-    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
+    "repo": "OctoPrint/OctoPrint",
+    "branch": "master",
+    "language": "Python",
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
   },
   {
-    "repo": "SudoPlz/spicetify-cli",
+    "repo": "Justineo/working-with-ai",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Working with AI - presentation slides"
+  },
+  {
+    "repo": "supermemoryai/clawdbot-supermemory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "kdenlive/kdenlive",
     "branch": "master",
     "language": "Other",
-    "description": "Command-line tool to customize Spotify client."
+    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
   },
   {
-    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
-  },
-  {
-    "repo": "webpack/webpack",
-    "branch": "main",
+    "repo": "koodo-reader/koodo-reader",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web"
   },
   {
-    "repo": "lukasHoel/video_to_world",
+    "repo": "Semantic-Org/Semantic-UI",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Semantic is a UI component framework based around useful principles from natural language."
+  },
+  {
+    "repo": "element-hq/element-android",
+    "branch": "develop",
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
+  },
+  {
+    "repo": "H-EmbodVis/VEGA-3D",
     "branch": "main",
     "language": "Python",
-    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
-  },
-  {
-    "repo": "RhysSullivan/nextjs-mobile-app-template",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "samvallad33/vestige",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
-  },
-  {
-    "repo": "knowsuchagency/mcp2cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
-  },
-  {
-    "repo": "openperf/openclaw-cloud",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
-  },
-  {
-    "repo": "Paparusi/legal-ai-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "openai/shap-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
+    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
   },
   {
     "repo": "openyak/desktop",
@@ -132,15 +66,81 @@
     "description": "Yak is all you need"
   },
   {
-    "repo": "lovisdotio/falsprite",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
   },
   {
-    "repo": "komunite/kalfa",
+    "repo": "Klipper3d/klipper",
+    "branch": "master",
+    "language": "C",
+    "description": "Klipper is a 3d-printer firmware"
+  },
+  {
+    "repo": "dashersw/gea",
     "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "bitwarden/server",
+    "branch": "master",
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
+  },
+  {
+    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "test-time-training/ttt-video-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+  },
+  {
+    "repo": "jobrunr/JavaClaw",
+    "branch": "main",
+    "language": "Java",
+    "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr"
+  },
+  {
+    "repo": "0xKarl-dev/claw-codes",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+  },
+  {
+    "repo": "epiral/weixin-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+  },
+  {
+    "repo": "NVIDIA/cuda-python",
+    "branch": "main",
+    "language": "Cython",
+    "description": "CUDA Python: Performance meets Productivity"
   }
 ]
