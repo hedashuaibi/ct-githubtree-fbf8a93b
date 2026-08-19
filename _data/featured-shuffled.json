@@ -1,146 +1,146 @@
 [
   {
-    "repo": "golang/tools",
-    "branch": "master",
-    "language": "Go",
-    "description": "[mirror] Go Tools"
-  },
-  {
-    "repo": "iampedii/WhiteDNS",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS."
-  },
-  {
-    "repo": "THUDM/CodeGeeX",
-    "branch": "main",
-    "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
-  },
-  {
-    "repo": "webpack/webpack",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
-  },
-  {
-    "repo": "google/generative-ai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "This SDK is now deprecated, use the new unified Google GenAI SDK."
-  },
-  {
-    "repo": "paritytech/substrate",
+    "repo": "1jehuang/mermaid-rs-renderer",
     "branch": "master",
     "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
+    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
   },
   {
-    "repo": "cilium/hubble",
+    "repo": "XYZ-AI-Lab/AxisAgentic",
     "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+    "language": "Python",
+    "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents."
   },
   {
-    "repo": "airbytehq/airbyte",
+    "repo": "openai/gym",
     "branch": "master",
     "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
   },
   {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
   },
   {
-    "repo": "apple/swift-algorithms",
+    "repo": "PIPIKAI/auto-painter-win",
+    "branch": "main",
+    "language": "Python",
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+  },
+  {
+    "repo": "nickustinov/itsypad-macos",
     "branch": "main",
     "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
+    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
   },
   {
-    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "repo": "oaker-io/wewrite",
     "branch": "main",
     "language": "Python",
-    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
   },
   {
-    "repo": "larksuite/openclaw-lark",
+    "repo": "ChownYourLife/paqet-tunnel",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "iltekin/remove-local-temu",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "elder-plinius/GLOSSOPETRAE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LINGUISTIC ENGINE FOR AI"
+  },
+  {
+    "repo": "guardrailsio/awesome-python-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "Awesome Python Security resources 🕶🐍🔐"
+  },
+  {
+    "repo": "millionco/react-doctor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
+    "description": "Let coding agents diagnose and fix your React code"
   },
   {
-    "repo": "metauto-ai/NeuralComputer",
-    "branch": "main",
-    "language": "Python",
-    "description": "🖥 Neural Computers' Data Engine"
+    "repo": "google/styleguide",
+    "branch": "gh-pages",
+    "language": "HTML",
+    "description": "Style guides for Google-originated open-source projects"
   },
   {
-    "repo": "facebookresearch/tribev2",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
-  },
-  {
-    "repo": "hmmhmmhm/daiso-mcp",
+    "repo": "wagmi-dev/viem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "wesm/agentsview",
+    "repo": "earendil-works/gondolin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
+  },
+  {
+    "repo": "larksuite/cli",
     "branch": "main",
     "language": "Go",
-    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
   },
   {
-    "repo": "google-research/google-research",
+    "repo": "flairNLP/flair",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Google Research"
+    "language": "Python",
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
   },
   {
-    "repo": "wiedymi/restty",
+    "repo": "AlexsJones/llmfit",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
+    "language": "Rust",
+    "description": "94 models. 30 providers. One command to find what runs on your hardware."
   },
   {
-    "repo": "photonstorm/phaser",
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+    "language": "C++",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
   },
   {
-    "repo": "better-auth/better-icons",
+    "repo": "timuronlinq/messari-crack",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
+    "language": "Python",
+    "description": "Messari crack"
   },
   {
-    "repo": "hkcanan/katmer-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
-  },
-  {
-    "repo": "vuetifyjs/vuetify",
+    "repo": "huangserva/claude-code-cli",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+  },
+  {
+    "repo": "Anuken/Mindustry",
+    "branch": "master",
+    "language": "Java",
+    "description": "The automation tower defense RTS"
+  },
+  {
+    "repo": "codetrybe/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
     "repo": "go-pg/pg",
     "branch": "master",
     "language": "Go",
     "description": "Golang ORM with focus on PostgreSQL features and performance"
-  },
-  {
-    "repo": "victorsosaMx/vsWaybar-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
   }
 ]
