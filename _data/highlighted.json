@@ -1,8 +1,8 @@
 {
-  "repo": "d-dev0101/open-sea-skin",
+  "repo": "QCYTSN/dsh-dafeiyu",
   "branch": "main",
   "language": "JavaScript",
-  "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
-  "stars": 175,
-  "forks": 1
+  "description": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
+  "stars": 162,
+  "forks": 19
 }
