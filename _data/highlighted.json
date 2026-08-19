@@ -1,8 +1,8 @@
 {
-  "repo": "QCYTSN/dsh-dafeiyu",
+  "repo": "MengTo/sylva",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
-  "stars": 162,
-  "forks": 19
+  "language": "HTML",
+  "description": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world.",
+  "stars": 226,
+  "forks": 40
 }

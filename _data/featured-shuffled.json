@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-bot",
+    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
-    "language": "Rust",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+  },
+  {
+    "repo": "resume/resume.github.com",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Resumes generated using the GitHub informations"
+  },
+  {
+    "repo": "leonardomso/33-js-concepts",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "fastify/fastify",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Fast and low overhead web framework, for Node.js"
+  },
+  {
+    "repo": "UnrealXu/UnrealEngine5-Skills",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
+    "repo": "netblue30/firejail",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux namespaces and seccomp-bpf sandbox"
   },
   {
-    "repo": "0xSero/glm-5.2-sm120",
+    "repo": "ByteDance/monolith",
     "branch": "main",
-    "language": "Shell",
-    "description": "GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode"
+    "language": "Python",
+    "description": "A Lightweight Recommendation System"
   },
   {
-    "repo": "derHaken/SuperAntigravity",
+    "repo": "jingkaihe/matchlock",
     "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
   },
   {
-    "repo": "altstackHQ/altstack-data",
+    "repo": "Quorinex/Kiro-Go",
     "branch": "main",
-    "language": "Shell",
-    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
+    "language": "Go",
+    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
   },
   {
-    "repo": "scienceLabwork/Stable-Action",
+    "repo": "onnx/onnx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open standard for machine learning interoperability"
+  },
+  {
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "google-deepmind/graphcast",
+    "branch": "main",
+    "language": "Python",
+    "description": "Deep learning weather model from Google DeepMind."
+  },
+  {
+    "repo": "aframevr/aframe",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":a: Web framework for building virtual reality experiences."
+  },
+  {
+    "repo": "better-auth/better-hub",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Re-imagining code collaboration for humans and agents"
+  },
+  {
+    "repo": "prometheus/client_python",
+    "branch": "master",
+    "language": "Python",
+    "description": "Prometheus instrumentation library for Python applications"
+  },
+  {
+    "repo": "IAmUnbounded/devctx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+  },
+  {
+    "repo": "NVIDIA/apex",
+    "branch": "master",
+    "language": "Python",
+    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
+  },
+  {
+    "repo": "atomiks/tippyjs",
+    "branch": "v6",
+    "language": "JavaScript",
+    "description": "Tooltip, popover, dropdown, and menu library"
+  },
+  {
+    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
+  },
+  {
+    "repo": "tensorflow/probability",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+  },
+  {
+    "repo": "storybookjs/storybook",
+    "branch": "next",
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+  },
+  {
+    "repo": "aeromomo/claw-compactor",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+  },
+  {
+    "repo": "nickustinov/itsypad-macos",
     "branch": "main",
     "language": "Swift",
-    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
+    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
   },
   {
-    "repo": "maria-rcks/t1code",
+    "repo": "microsoft/generative-ai-for-beginners",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "T3Code, but in your terminal"
-  },
-  {
-    "repo": "leaked-claude-code/leaked-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
-  },
-  {
-    "repo": "LearnPrompt/cc-harness-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
-  },
-  {
-    "repo": "neroundimasamp64/Stabilized-Internet-Connection",
-    "branch": "main",
-    "language": "C++",
-    "description": "Full Version Accelerator with Lifetime Integration & High-Speed Unlocking."
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "r3nzsec/irflow-timeline",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection."
-  },
-  {
-    "repo": "linuxhsj/openclaw-zero-token",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "免token使用openclaw  Use openclaw without a token"
-  },
-  {
-    "repo": "open-pencil/open-pencil",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
-  },
-  {
-    "repo": "cfinke/EpsteIn",
-    "branch": "main",
-    "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
-  },
-  {
-    "repo": "junjiezhou1122/GptCrate",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "k2-fsa/OmniVoice",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
-  },
-  {
-    "repo": "xvhuan/xiaoi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "0din-ai/ai-scanner",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "AI model safety scanner built on NVIDIA garak"
-  },
-  {
-    "repo": "OpenDCAI/OpenPrism",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
-  },
-  {
-    "repo": "FireRedTeam/FireRed-Image-Edit",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lorryjovens-hub/claude-code-rust",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI"
   }
 ]
