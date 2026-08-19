@@ -1,8 +1,8 @@
 {
-  "repo": "MengTo/sylva",
+  "repo": "DFarm6/Prism-Browser-Community",
   "branch": "main",
-  "language": "HTML",
-  "description": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world.",
-  "stars": 226,
-  "forks": 40
+  "language": "TypeScript",
+  "description": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
+  "stars": 212,
+  "forks": 52
 }

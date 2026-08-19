@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
+    "repo": "mayfer/electrobun-macos-native-blur",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+    "description": "Enable background blur like a native app in Electrobun"
   },
   {
-    "repo": "resume/resume.github.com",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Resumes generated using the GitHub informations"
-  },
-  {
-    "repo": "leonardomso/33-js-concepts",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📜 33 JavaScript concepts every developer should know."
-  },
-  {
-    "repo": "fastify/fastify",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
-  },
-  {
-    "repo": "UnrealXu/UnrealEngine5-Skills",
+    "repo": "GALIAIS/k_i_r_o-register",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "netblue30/firejail",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux namespaces and seccomp-bpf sandbox"
-  },
-  {
-    "repo": "ByteDance/monolith",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Lightweight Recommendation System"
-  },
-  {
-    "repo": "jingkaihe/matchlock",
-    "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
-  },
-  {
-    "repo": "Quorinex/Kiro-Go",
-    "branch": "main",
-    "language": "Go",
-    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
-  },
-  {
-    "repo": "onnx/onnx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open standard for machine learning interoperability"
-  },
-  {
-    "repo": "directus/directus",
+    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
   },
   {
-    "repo": "google-deepmind/graphcast",
+    "repo": "mshumer/unslop",
     "branch": "main",
     "language": "Python",
-    "description": "Deep learning weather model from Google DeepMind."
+    "description": ""
   },
   {
-    "repo": "aframevr/aframe",
+    "repo": "SawyerHood/gitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw but it runs entirely on github actions"
+  },
+  {
+    "repo": "standardagents/sip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "jxnxts/mcp-brasil",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP Server para 27 APIs públicas brasileiras"
+  },
+  {
+    "repo": "liuup/claude-code-analysis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The analysis of Claude Code"
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-Embodied",
     "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "yangdongchao/UniAudio2",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
+  },
+  {
+    "repo": "elder-plinius/GLOSSOPETRAE",
+    "branch": "main",
     "language": "JavaScript",
-    "description": ":a: Web framework for building virtual reality experiences."
+    "description": "LINGUISTIC ENGINE FOR AI"
   },
   {
-    "repo": "better-auth/better-hub",
+    "repo": "yazinsai/quran-validator",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
+    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
   },
   {
-    "repo": "prometheus/client_python",
-    "branch": "master",
-    "language": "Python",
-    "description": "Prometheus instrumentation library for Python applications"
-  },
-  {
-    "repo": "IAmUnbounded/devctx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
-  },
-  {
-    "repo": "NVIDIA/apex",
-    "branch": "master",
-    "language": "Python",
-    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
-  },
-  {
-    "repo": "atomiks/tippyjs",
-    "branch": "v6",
-    "language": "JavaScript",
-    "description": "Tooltip, popover, dropdown, and menu library"
-  },
-  {
-    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
-  },
-  {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "storybookjs/storybook",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
-  },
-  {
-    "repo": "aeromomo/claw-compactor",
+    "repo": "TheTom/turboquant_plus",
     "branch": "main",
     "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+    "description": ""
   },
   {
-    "repo": "nickustinov/itsypad-macos",
+    "repo": "LeDat98/NexusRAG",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
+  },
+  {
+    "repo": "opencmit/alphora",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
+  },
+  {
+    "repo": "Percepta-Core/transformer-vm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+  },
+  {
+    "repo": "dominikmartn/ProgressiveBlurHeader",
     "branch": "main",
     "language": "Swift",
-    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
   },
   {
-    "repo": "microsoft/generative-ai-for-beginners",
+    "repo": "phuc-nt/my-translator",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "21 Lessons, Get Started Building with Generative AI"
+    "language": "JavaScript",
+    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
+  },
+  {
+    "repo": "junjiezhou1122/GptCrate",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
+  },
+  {
+    "repo": "obdev/littlesnitch-linux",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open Source components of Little Snitch for Linux"
+  },
+  {
+    "repo": "antirez/voxtral.c",
+    "branch": "main",
+    "language": "C",
+    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
+  },
+  {
+    "repo": "OpenDCAI/OpenPrism",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
+  },
+  {
+    "repo": "SamNet-dev/paqctl",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
   }
 ]
