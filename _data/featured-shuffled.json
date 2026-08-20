@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Kappaemme-git/codex-startup-pressure-test-skill",
+    "repo": "inliver233/Ai-Novel",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "Python",
+    "description": "强大的ai小说创作网站"
   },
   {
-    "repo": "cockroachdb/cockroach",
+    "repo": "falcosecurity/falco",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cloud Native Runtime Security"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Source Continuous File Synchronization"
+  },
+  {
+    "repo": "joelewis012/CSIght",
+    "branch": "main",
+    "language": "C",
+    "description": "**WiFi CSI radar for Flipper Zero + ESP32**  Detect motion, presence, and proximity through walls using WiFi Channel State Information — no cameras, no IR, no special sensors."
+  },
+  {
+    "repo": "bitwarden/clients",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+  },
+  {
+    "repo": "libp2p/go-libp2p",
     "branch": "master",
     "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+    "description": "libp2p implementation in Go"
   },
   {
-    "repo": "veggiemonk/awesome-docker",
+    "repo": "ipfs/js-ipfs",
     "branch": "master",
-    "language": "Other",
-    "description": ":whale: A curated list of Docker resources and projects"
-  },
-  {
-    "repo": "userland-run/nano",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+    "description": "IPFS implementation in JavaScript"
   },
   {
-    "repo": "avbiswas/fast-rlm",
+    "repo": "Uniswap/v3-core",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
   },
   {
-    "repo": "liixini/skwd-wall",
-    "branch": "main",
-    "language": "QML",
-    "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not."
+    "repo": "quilljs/quill",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
   },
   {
-    "repo": "kubernetes-sigs/kubespray",
+    "repo": "polkadot-js/apps",
     "branch": "master",
-    "language": "Jinja",
-    "description": "Deploy a Production Ready Kubernetes Cluster"
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
   },
   {
-    "repo": "apple/swift-log",
+    "repo": "ConsenSys/teku",
+    "branch": "master",
+    "language": "Java",
+    "description": "🚀 Open-source Ethereum consensus client written in Java"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "unslop-xyz/noodles",
     "branch": "main",
+    "language": "Python",
+    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+  },
+  {
+    "repo": "SergioBenitez/Rocket",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A web framework for Rust."
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "Alamofire/Alamofire",
+    "branch": "master",
     "language": "Swift",
-    "description": "A Logging API for Swift"
+    "description": "Elegant HTTP Networking in Swift"
   },
   {
-    "repo": "34306/FilzaJailedDS",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
-  },
-  {
-    "repo": "iterative/dvc",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦉 Data Versioning and ML Experiments"
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-Math",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "johannesjo/parallel-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
-  },
-  {
-    "repo": "Zcy233035/rl-explainer",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "rl-explainer"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-politics-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
-  },
-  {
-    "repo": "ktorio/ktor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
-  },
-  {
-    "repo": "rbenv/rbenv",
+    "repo": "tailwindcss/tailwindcss",
     "branch": "master",
-    "language": "Shell",
-    "description": "Manage your app's Ruby environment"
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "serenakeyitan/sbti-wiki",
+    "repo": "EleutherAI/lm-evaluation-harness",
     "branch": "main",
-    "language": "HTML",
-    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev"
+    "language": "Python",
+    "description": "A framework for few-shot evaluation of language models."
   },
   {
-    "repo": "docker/compose",
+    "repo": "delta-io/delta",
+    "branch": "master",
+    "language": "Scala",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
+  },
+  {
+    "repo": "lens-protocol/lens-protocol",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "The Lens Protocol"
+  },
+  {
+    "repo": "actix/actix",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actor framework for Rust."
+  },
+  {
+    "repo": "google/dopamine",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
+  },
+  {
+    "repo": "gorilla/mux",
     "branch": "main",
     "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
+    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
   },
   {
-    "repo": "vicnaum/bun-demincer",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
-  },
-  {
-    "repo": "NatiCha/bunwv",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "nathaniel329/polymarket-trading-bot",
+    "repo": "open-webui/open-webui",
     "branch": "main",
     "language": "Python",
-    "description": "polymarket trading bot"
-  },
-  {
-    "repo": "GreenSheep01201/claw-empire",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
-  },
-  {
-    "repo": "WenXiaoWendy/timeline-for-agent",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Kill Tomato Clock"
-  },
-  {
-    "repo": "apache/superset",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
   }
 ]
