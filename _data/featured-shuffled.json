@@ -1,146 +1,146 @@
 [
   {
-    "repo": "inliver233/Ai-Novel",
+    "repo": "midudev/spiderman-brand-new-day",
     "branch": "main",
+    "language": "Astro",
+    "description": "Web oficial española para la película Spiderman Brand New Day"
+  },
+  {
+    "repo": "curvefi/curve-contract",
+    "branch": "master",
     "language": "Python",
-    "description": "强大的ai小说创作网站"
+    "description": "Vyper contracts used in Curve.fi exchange pools."
   },
   {
-    "repo": "falcosecurity/falco",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cloud Native Runtime Security"
-  },
-  {
-    "repo": "syncthing/syncthing",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Source Continuous File Synchronization"
-  },
-  {
-    "repo": "joelewis012/CSIght",
-    "branch": "main",
-    "language": "C",
-    "description": "**WiFi CSI radar for Flipper Zero + ESP32**  Detect motion, presence, and proximity through walls using WiFi Channel State Information — no cameras, no IR, no special sensors."
-  },
-  {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "libp2p/go-libp2p",
-    "branch": "master",
-    "language": "Go",
-    "description": "libp2p implementation in Go"
-  },
-  {
-    "repo": "ipfs/js-ipfs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "Uniswap/v3-core",
+    "repo": "expo/expo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
   },
   {
-    "repo": "quilljs/quill",
+    "repo": "beita6969/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+  },
+  {
+    "repo": "RocketChat/Rocket.Chat",
     "branch": "develop",
     "language": "TypeScript",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+    "description": "The Secure CommsOS™ for mission-critical operations"
   },
   {
-    "repo": "polkadot-js/apps",
+    "repo": "direkturcrypto/polymarket-terminal",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Copy, Scalping & Sniper for polymarket"
+  },
+  {
+    "repo": "JrCx7scC/claude-code-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code complete source restoration from npm package — all native modules, no features cut"
+  },
+  {
+    "repo": "leo-lilinxiao/codex-autoresearch",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "repo": "zerobootdev/zeroboot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+  },
+  {
+    "repo": "AnnaSuSu/TechSpar",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "branch": "main",
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
+  },
+  {
+    "repo": "node-fetch/node-fetch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A light-weight module that brings the Fetch API to Node.js"
+  },
+  {
+    "repo": "yarnpkg/yarn",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+  },
+  {
+    "repo": "NomicFoundation/hardhat",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
   },
   {
-    "repo": "ConsenSys/teku",
-    "branch": "master",
-    "language": "Java",
-    "description": "🚀 Open-source Ethereum consensus client written in Java"
-  },
-  {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
+    "repo": "xoai/sage-wiki",
+    "branch": "main",
     "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
+    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
   },
   {
-    "repo": "unslop-xyz/noodles",
+    "repo": "madewithai/pancakeswap-prediction-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "PancakeSwap prediction bot · Automated Bull/Bear betting on BSC (Binance Smart Chain). Momentum + streak-reversal strategy, configurable risk, private key. BNB ETH BTC prediction market, Node.js, viem, TypeScript."
+  },
+  {
+    "repo": "MME-Benchmarks/Video-MME-v2",
     "branch": "main",
     "language": "Python",
-    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
   },
   {
-    "repo": "SergioBenitez/Rocket",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A web framework for Rust."
-  },
-  {
-    "repo": "tendermint/tendermint",
-    "branch": "main",
-    "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
-  },
-  {
-    "repo": "Alamofire/Alamofire",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
+    "repo": "yarnpkg/berry",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
+    "description": "📦🐈 Active development trunk for Yarn ⚒"
   },
   {
-    "repo": "EleutherAI/lm-evaluation-harness",
+    "repo": "iflytek/astronclaw-tutorial",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
+  },
+  {
+    "repo": "mrconter1/rustc-php",
+    "branch": "main",
+    "language": "PHP",
+    "description": "A Rust compiler with ownership checking, written in PHP"
+  },
+  {
+    "repo": "MunGell/awesome-for-beginners",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "repo": "mrdoob/three.wasm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "8x Faster JavaScript 3D Library."
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-server",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+  },
+  {
+    "repo": "4R7I5T/CL1_LLM_Encoder",
     "branch": "main",
     "language": "Python",
-    "description": "A framework for few-shot evaluation of language models."
-  },
-  {
-    "repo": "delta-io/delta",
-    "branch": "master",
-    "language": "Scala",
-    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
-  },
-  {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "actix/actix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
-  },
-  {
-    "repo": "google/dopamine",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
-  },
-  {
-    "repo": "gorilla/mux",
-    "branch": "main",
-    "language": "Go",
-    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
-  },
-  {
-    "repo": "open-webui/open-webui",
-    "branch": "main",
-    "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
   }
 ]

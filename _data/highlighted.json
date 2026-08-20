@@ -1,8 +1,8 @@
 {
-  "repo": "liceses/dsh-gitbash-preset",
+  "repo": "x4gpanell/3x-ui",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。",
-  "stars": 134,
-  "forks": 0
+  "language": "Dockerfile",
+  "description": "A featured project on GitHubTree.",
+  "stars": 133,
+  "forks": 357
 }
