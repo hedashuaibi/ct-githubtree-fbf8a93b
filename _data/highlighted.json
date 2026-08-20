@@ -1,8 +1,8 @@
 {
-  "repo": "DFarm6/Prism-Browser-Community",
+  "repo": "Avijit07x/claude-db",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
-  "stars": 212,
-  "forks": 52
+  "description": "Persistent memory for Claude Code. Bring your own database.",
+  "stars": 131,
+  "forks": 11
 }

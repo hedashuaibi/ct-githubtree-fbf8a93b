@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mayfer/electrobun-macos-native-blur",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Enable background blur like a native app in Electrobun"
-  },
-  {
-    "repo": "GALIAIS/k_i_r_o-register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "mshumer/unslop",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SawyerHood/gitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
-  },
-  {
-    "repo": "standardagents/sip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
-  },
-  {
-    "repo": "jxnxts/mcp-brasil",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP Server para 27 APIs públicas brasileiras"
-  },
-  {
-    "repo": "liuup/claude-code-analysis",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The analysis of Claude Code"
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-Embodied",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
+    "repo": "Kappaemme-git/codex-startup-pressure-test-skill",
     "branch": "main",
     "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
-  },
-  {
-    "repo": "yazinsai/quran-validator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
-  },
-  {
-    "repo": "TheTom/turboquant_plus",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "LeDat98/NexusRAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
+    "repo": "cockroachdb/cockroach",
+    "branch": "master",
+    "language": "Go",
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
   },
   {
-    "repo": "opencmit/alphora",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
+    "repo": "veggiemonk/awesome-docker",
+    "branch": "master",
+    "language": "Other",
+    "description": ":whale: A curated list of Docker resources and projects"
   },
   {
-    "repo": "Percepta-Core/transformer-vm",
+    "repo": "userland-run/nano",
     "branch": "main",
-    "language": "Python",
-    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+    "language": "JavaScript",
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
   },
   {
-    "repo": "dominikmartn/ProgressiveBlurHeader",
+    "repo": "avbiswas/fast-rlm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
+  },
+  {
+    "repo": "liixini/skwd-wall",
+    "branch": "main",
+    "language": "QML",
+    "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not."
+  },
+  {
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
+  },
+  {
+    "repo": "apple/swift-log",
     "branch": "main",
     "language": "Swift",
-    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+    "description": "A Logging API for Swift"
   },
   {
-    "repo": "phuc-nt/my-translator",
+    "repo": "34306/FilzaJailedDS",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
   },
   {
-    "repo": "junjiezhou1122/GptCrate",
+    "repo": "iterative/dvc",
     "branch": "main",
     "language": "Python",
+    "description": "🦉 Data Versioning and ML Experiments"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-Math",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  {
+    "repo": "johannesjo/parallel-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+  },
+  {
+    "repo": "Zcy233035/rl-explainer",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "rl-explainer"
+  },
+  {
+    "repo": "TrendTechVista/polymarket-politics-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+  },
+  {
+    "repo": "ktorio/ktor",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+  },
+  {
+    "repo": "rbenv/rbenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Manage your app's Ruby environment"
+  },
+  {
+    "repo": "serenakeyitan/sbti-wiki",
+    "branch": "main",
+    "language": "HTML",
+    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev"
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
+  },
+  {
+    "repo": "vicnaum/bun-demincer",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
+  },
+  {
+    "repo": "NatiCha/bunwv",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
+    "repo": "nathaniel329/polymarket-trading-bot",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
+    "language": "Python",
+    "description": "polymarket trading bot"
   },
   {
-    "repo": "obdev/littlesnitch-linux",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open Source components of Little Snitch for Linux"
-  },
-  {
-    "repo": "antirez/voxtral.c",
-    "branch": "main",
-    "language": "C",
-    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
-  },
-  {
-    "repo": "OpenDCAI/OpenPrism",
+    "repo": "GreenSheep01201/claw-empire",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
   },
   {
-    "repo": "SamNet-dev/paqctl",
+    "repo": "WenXiaoWendy/timeline-for-agent",
     "branch": "main",
-    "language": "Shell",
-    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
+    "language": "JavaScript",
+    "description": "Kill Tomato Clock"
+  },
+  {
+    "repo": "apache/superset",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
   }
 ]
