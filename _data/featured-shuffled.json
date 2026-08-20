@@ -1,146 +1,146 @@
 [
   {
-    "repo": "midudev/spiderman-brand-new-day",
-    "branch": "main",
-    "language": "Astro",
-    "description": "Web oficial española para la película Spiderman Brand New Day"
-  },
-  {
-    "repo": "curvefi/curve-contract",
-    "branch": "master",
-    "language": "Python",
-    "description": "Vyper contracts used in Curve.fi exchange pools."
-  },
-  {
-    "repo": "expo/expo",
+    "repo": "giusmarci/openwhisp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+    "description": "Voice to text, entirely on your machine. Hold Fn, speak, release — transcribed, polished, and pasted. No cloud, no account, no latency."
   },
   {
-    "repo": "beita6969/claude-code",
+    "repo": "theqkash/esp32flight",
     "branch": "main",
+    "language": "C",
+    "description": "A standalone desk flight radar on a single ESP32 board with a 7 touchscreen."
+  },
+  {
+    "repo": "web3/web3.js",
+    "branch": "1.x",
     "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
   },
   {
-    "repo": "RocketChat/Rocket.Chat",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "The Secure CommsOS™ for mission-critical operations"
-  },
-  {
-    "repo": "direkturcrypto/polymarket-terminal",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Copy, Scalping & Sniper for polymarket"
-  },
-  {
-    "repo": "JrCx7scC/claude-code-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code complete source restoration from npm package — all native modules, no features cut"
-  },
-  {
-    "repo": "leo-lilinxiao/codex-autoresearch",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
-  },
-  {
-    "repo": "zerobootdev/zeroboot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
-  },
-  {
-    "repo": "AnnaSuSu/TechSpar",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
-  },
-  {
-    "repo": "microsoft/semantic-kernel",
-    "branch": "main",
-    "language": "C#",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
-  },
-  {
-    "repo": "node-fetch/node-fetch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A light-weight module that brings the Fetch API to Node.js"
-  },
-  {
-    "repo": "yarnpkg/yarn",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
-  },
-  {
-    "repo": "NomicFoundation/hardhat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
-  },
-  {
-    "repo": "xoai/sage-wiki",
-    "branch": "main",
-    "language": "Go",
-    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
-  },
-  {
-    "repo": "madewithai/pancakeswap-prediction-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "PancakeSwap prediction bot · Automated Bull/Bear betting on BSC (Binance Smart Chain). Momentum + streak-reversal strategy, configurable risk, private key. BNB ETH BTC prediction market, Node.js, viem, TypeScript."
-  },
-  {
-    "repo": "MME-Benchmarks/Video-MME-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
-  },
-  {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
-  },
-  {
-    "repo": "iflytek/astronclaw-tutorial",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
-  },
-  {
-    "repo": "mrconter1/rustc-php",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A Rust compiler with ownership checking, written in PHP"
-  },
-  {
-    "repo": "MunGell/awesome-for-beginners",
+    "repo": "ziadoz/awesome-php",
     "branch": "master",
     "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   },
   {
-    "repo": "mrdoob/three.wasm",
+    "repo": "kubernetes/client-go",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "8x Faster JavaScript 3D Library."
+    "language": "Go",
+    "description": "Go client for Kubernetes."
   },
   {
-    "repo": "rabbitmq/rabbitmq-server",
+    "repo": "immich-app/immich",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+    "language": "TypeScript",
+    "description": "High performance self-hosted photo and video management solution."
   },
   {
-    "repo": "4R7I5T/CL1_LLM_Encoder",
+    "repo": "extism/extism",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
+  },
+  {
+    "repo": "psf/requests-html",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pythonic HTML Parsing for Humans™"
+  },
+  {
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
+  },
+  {
+    "repo": "obsidianmd/obsidian-releases",
+    "branch": "master",
+    "language": "Other",
+    "description": "Community plugins list, theme list, and releases of Obsidian."
+  },
+  {
+    "repo": "kubernetes/dashboard",
+    "branch": "master",
+    "language": "Go",
+    "description": "General-purpose web UI for Kubernetes clusters"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "REST API for any Postgres database"
+  },
+  {
+    "repo": "plotly/plotly.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash"
+  },
+  {
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "branch": "main",
+    "language": "Go",
+    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "grpc/grpc",
+    "branch": "master",
+    "language": "C++",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+  },
+  {
+    "repo": "openai/whisper",
     "branch": "main",
     "language": "Python",
-    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
   }
 ]
