@@ -1,146 +1,146 @@
 [
   {
-    "repo": "llmsresearch/paperbanana",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+    "repo": "go-resty/resty",
+    "branch": "master",
+    "language": "Go",
+    "description": "Simple HTTP, REST, and SSE client library for Go"
   },
   {
-    "repo": "JustLikeCheese/LGBT-Prompt",
-    "branch": "main",
-    "language": "HTML",
-    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
-  },
-  {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "repo": "thunderstoremods/Thunderstore-Mod-Manager",
     "branch": "main",
     "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+    "description": "Thunderstore Mod Manager free for Windows, macOS and Linux. Best mod manager for Lethal Company, Risk of Rain 2, Valheim, Deep Rock Galactic and Cyberpunk 2077. Thunderstore mod manager download, standalone, not working fix, vs Overwolf, vs Nexus Mod Manager. BepInEx and MelonLoader support. Download Thunderstore Mod Manager free 2026."
   },
   {
-    "repo": "LemoLev/tg-ws-proxy-ANDROID",
+    "repo": "StrucksTech/Zelda-TP-Native-Port",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
+  },
+  {
+    "repo": "OpenSquilla/opensquilla",
     "branch": "main",
     "language": "Python",
-    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
   },
   {
-    "repo": "apple/swift-nio",
+    "repo": "deeplethe/ForgeRAG",
     "branch": "main",
-    "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+    "language": "Python",
+    "description": "Production-Ready RAG with Structure-Aware Reasoning"
   },
   {
-    "repo": "Koenkk/zigbee2mqtt",
-    "branch": "master",
+    "repo": "OpenCoworkAI/open-codesign",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+    "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT."
   },
   {
-    "repo": "theonlyhennygod/zeroclaw",
-    "branch": "main",
+    "repo": "loyalpartner/selfsync",
+    "branch": "master",
     "language": "Rust",
-    "description": "claw done right 🦀"
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
   },
   {
-    "repo": "facebookresearch/atlas-lean",
+    "repo": "techjarves/USB-Uncensored-LLM",
     "branch": "main",
-    "language": "Lean",
-    "description": "ATLAS Autoformalized Textbook Library At Scale"
+    "language": "Shell",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
   },
   {
-    "repo": "actions/checkout",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
-  },
-  {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot,"
-  },
-  {
-    "repo": "432539/gpt2api",
-    "branch": "main",
-    "language": "Go",
-    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
-  },
-  {
-    "repo": "Fenng/Tech-Doc-Style-Chinese",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
-  },
-  {
-    "repo": "actions/download-artifact",
+    "repo": "browser-use/browser-harness-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Download artifacts from your build"
+    "description": "Self-healing browser harness that enables LLMs to complete any task"
   },
   {
-    "repo": "FeSens/auto-arch-tournament",
+    "repo": "xiaochong/hi-kid",
     "branch": "main",
-    "language": "HTML",
+    "language": "TypeScript",
+    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
+  },
+  {
+    "repo": "AvenueSleuth/delta-exec",
+    "branch": "main",
+    "language": "Python",
+    "description": "Delta Exec scripting utility"
+  },
+  {
+    "repo": "Hainrixz/open-carrusel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+  },
+  {
+    "repo": "HiDream-ai/HiDream-O1-Image",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "repo": "FlowTrader-Labs/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+  },
+  {
+    "repo": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
     "branch": "main",
     "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics."
   },
   {
-    "repo": "benja-dev-lab/polymarket-copy-trading-bot",
+    "repo": "leigest519/OpenGame",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+    "description": "OpenGame: Open Agentic Coding for Games"
   },
   {
-    "repo": "FireRedTeam/FireRed-OpenStoryline",
+    "repo": "hoaibaone/OP-Auto-Clicker",
     "branch": "main",
-    "language": "Python",
+    "language": "C#",
+    "description": "OP Auto Clicker download automatic mouse clicker automation utility gaming Roblox Minecraft Cookie Clicker fast clicking intervals hotkeys macro mouse button record playback free open source portable PC mobile script trigger settings single double triple."
+  },
+  {
+    "repo": "zzzzshawn/matrix",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "yaojingang/yao-open-prompts",
+    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
+  },
+  {
+    "repo": "backnotprop/rig",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "cybertronai/schmidhuber-problems",
     "branch": "main",
     "language": "Python",
-    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+    "description": "58 implementations of synthetic learning problems from Jürgen Schmidhuber's papers (1989-2025). Pure numpy, laptop-runnable, paper-comparison metrics per stub. Algorithmic-lineage companion to hinton-problems."
   },
   {
-    "repo": "ConardLi/web-design-skill",
+    "repo": "limitless-org/crypto-engine",
     "branch": "main",
-    "language": "CSS",
-    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
+    "language": "TypeScript",
+    "description": "Crypto Engine"
   },
   {
-    "repo": "mgks/GitHubTree",
+    "repo": "Quorinex/Freebuff2API",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "alexandercodes4/AirTrain",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed ML training across Apple Silicon Macs"
-  },
-  {
-    "repo": "aattaran/deepclaude",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper."
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+    "language": "Go",
+    "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
   }
 ]
