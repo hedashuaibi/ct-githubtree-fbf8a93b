@@ -1,146 +1,146 @@
 [
   {
-    "repo": "giusmarci/openwhisp",
+    "repo": "oil-oil/codex-deepseek-subagent",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Voice to text, entirely on your machine. Hold Fn, speak, release — transcribed, polished, and pasted. No cloud, no account, no latency."
+    "language": "Python",
+    "description": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing."
   },
   {
-    "repo": "theqkash/esp32flight",
-    "branch": "main",
-    "language": "C",
-    "description": "A standalone desk flight radar on a single ESP32 board with a 7 touchscreen."
-  },
-  {
-    "repo": "web3/web3.js",
-    "branch": "1.x",
-    "language": "TypeScript",
-    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
-  },
-  {
-    "repo": "ziadoz/awesome-php",
+    "repo": "MunGell/awesome-for-beginners",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+    "description": "A list of awesome beginners-friendly projects."
   },
   {
-    "repo": "kubernetes/client-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go client for Kubernetes."
-  },
-  {
-    "repo": "immich-app/immich",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "High performance self-hosted photo and video management solution."
-  },
-  {
-    "repo": "extism/extism",
+    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
     "branch": "main",
     "language": "Rust",
-    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
   },
   {
-    "repo": "psf/requests-html",
+    "repo": "seaweedfs/seaweedfs",
+    "branch": "master",
+    "language": "Go",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+  },
+  {
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+  },
+  {
+    "repo": "antfu/tsnapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Library public API snapshot testing for runtime exports and type declarations."
+  },
+  {
+    "repo": "HJCheng0602/nanoPD",
+    "branch": "main",
+    "language": "Python",
+    "description": "A from-scratch Prefill/Decode disaggregation inference engine for LLMs"
+  },
+  {
+    "repo": "dongsheng123132/u-claw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+  },
+  {
+    "repo": "cdppcorp/KESE-KIT",
+    "branch": "main",
+    "language": "Python",
+    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
+  },
+  {
+    "repo": "mosaicml/llm-foundry",
+    "branch": "main",
+    "language": "Python",
+    "description": "LLM training code for Databricks foundation models"
+  },
+  {
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "edinetdb/dexter-jp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
+  },
+  {
+    "repo": "Textualize/rich",
     "branch": "master",
     "language": "Python",
-    "description": "Pythonic HTML Parsing for Humans™"
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
   },
   {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Apache Hadoop"
+    "repo": "atomiks/tippyjs",
+    "branch": "v6",
+    "language": "JavaScript",
+    "description": "Tooltip, popover, dropdown, and menu library"
   },
   {
-    "repo": "obsidianmd/obsidian-releases",
-    "branch": "master",
-    "language": "Other",
-    "description": "Community plugins list, theme list, and releases of Obsidian."
-  },
-  {
-    "repo": "kubernetes/dashboard",
-    "branch": "master",
-    "language": "Go",
-    "description": "General-purpose web UI for Kubernetes clusters"
-  },
-  {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "PostgREST/postgrest",
+    "repo": "bhope/hedge",
     "branch": "main",
-    "language": "Haskell",
-    "description": "REST API for any Postgres database"
+    "language": "Go",
+    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
   },
   {
-    "repo": "plotly/plotly.js",
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "resume/resume.github.com",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash"
+    "description": "Resumes generated using the GitHub informations"
   },
   {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "prometheus/prometheus",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
-  },
-  {
-    "repo": "vercel/hyper",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
-  },
-  {
-    "repo": "aquasecurity/kube-bench",
-    "branch": "main",
-    "language": "Go",
-    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
-  },
-  {
-    "repo": "hashicorp/terraform",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
-  },
-  {
-    "repo": "public-apis/public-apis",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
-  },
-  {
-    "repo": "grpc/grpc",
-    "branch": "master",
-    "language": "C++",
-    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-  },
-  {
-    "repo": "openai/whisper",
+    "repo": "Myhhub/Stock",
     "branch": "main",
     "language": "Python",
-    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
   },
   {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
+    "repo": "sqlfluff/sqlfluff",
+    "branch": "main",
     "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
   },
   {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
+    "repo": "TriangleMagistrate/lovable-openclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
+  },
+  {
+    "repo": "revfactory/harness",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "repo": "meteor/meteor",
+    "branch": "devel",
+    "language": "JavaScript",
+    "description": "Meteor, the JavaScript App Platform"
+  },
+  {
+    "repo": "meodai/heerich",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
+  },
+  {
+    "repo": "DISCO-design/DISCO",
+    "branch": "main",
+    "language": "Python",
+    "description": "Code for the DISCO model: General Multimodal Protein Design Enables DNA-Encoding of Chemistry"
   }
 ]
