@@ -1,146 +1,146 @@
 [
   {
-    "repo": "oil-oil/codex-deepseek-subagent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing."
-  },
-  {
-    "repo": "MunGell/awesome-for-beginners",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
-  },
-  {
-    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
-  },
-  {
-    "repo": "seaweedfs/seaweedfs",
+    "repo": "zeromicro/go-zero",
     "branch": "master",
     "language": "Go",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
   },
   {
-    "repo": "defold/defold",
-    "branch": "dev",
+    "repo": "EricLengyel/Slug",
+    "branch": "main",
+    "language": "HLSL",
+    "description": "Reference code for the Slug Algorithm."
+  },
+  {
+    "repo": "ester987222-max/AniForge-Hub",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Open Source Anime & Manga Streaming App 2026"
+  },
+  {
+    "repo": "vuetifyjs/vuetify",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🐉 Vue Component Framework"
+  },
+  {
+    "repo": "strapi/strapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+  },
+  {
+    "repo": "ziglang/zig",
+    "branch": "master",
+    "language": "Zig",
+    "description": "Moved to Codeberg"
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
     "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+    "description": "Open Source Computer Vision Library"
   },
   {
-    "repo": "antfu/tsnapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Library public API snapshot testing for runtime exports and type declarations."
-  },
-  {
-    "repo": "HJCheng0602/nanoPD",
-    "branch": "main",
-    "language": "Python",
-    "description": "A from-scratch Prefill/Decode disaggregation inference engine for LLMs"
-  },
-  {
-    "repo": "dongsheng123132/u-claw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
-  },
-  {
-    "repo": "cdppcorp/KESE-KIT",
-    "branch": "main",
-    "language": "Python",
-    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
-  },
-  {
-    "repo": "mosaicml/llm-foundry",
-    "branch": "main",
-    "language": "Python",
-    "description": "LLM training code for Databricks foundation models"
-  },
-  {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
-  },
-  {
-    "repo": "edinetdb/dexter-jp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
-  },
-  {
-    "repo": "Textualize/rich",
+    "repo": "golang/go",
     "branch": "master",
-    "language": "Python",
-    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
-  },
-  {
-    "repo": "atomiks/tippyjs",
-    "branch": "v6",
-    "language": "JavaScript",
-    "description": "Tooltip, popover, dropdown, and menu library"
-  },
-  {
-    "repo": "bhope/hedge",
-    "branch": "main",
     "language": "Go",
-    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
+    "description": "The Go programming language"
   },
   {
-    "repo": "timuronlinq/messari-crack",
+    "repo": "google/jax",
     "branch": "main",
     "language": "Python",
-    "description": "Messari crack"
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
   },
   {
-    "repo": "resume/resume.github.com",
+    "repo": "jwasham/coding-interview-university",
+    "branch": "main",
+    "language": "Other",
+    "description": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "repo": "zsh-users/zsh-syntax-highlighting",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Resumes generated using the GitHub informations"
+    "language": "Shell",
+    "description": "Fish shell like syntax highlighting for Zsh."
   },
   {
-    "repo": "Myhhub/Stock",
+    "repo": "deepseek-ai/deepseek-coder",
     "branch": "main",
     "language": "Python",
-    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
+    "description": "DeepSeek Coder: Let the Code Write Itself"
   },
   {
-    "repo": "sqlfluff/sqlfluff",
+    "repo": "moment/moment",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Parse, validate, manipulate, and display dates in javascript."
+  },
+  {
+    "repo": "google/sentencepiece",
+    "branch": "master",
+    "language": "C++",
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
+  },
+  {
+    "repo": "serde-rs/serde",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Serialization framework for Rust"
+  },
+  {
+    "repo": "facebook/hermes",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript engine optimized for running React Native."
+  },
+  {
+    "repo": "google/flatbuffers",
+    "branch": "master",
+    "language": "C++",
+    "description": "FlatBuffers: Memory Efficient Serialization Library"
+  },
+  {
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deepfakes Software For All"
+  },
+  {
+    "repo": "google/leveldb",
+    "branch": "main",
+    "language": "C++",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."
+  },
+  {
+    "repo": "gradio-app/gradio",
     "branch": "main",
     "language": "Python",
-    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
   },
   {
-    "repo": "TriangleMagistrate/lovable-openclaw",
+    "repo": "Tencent/tdesign-react",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
   },
   {
-    "repo": "revfactory/harness",
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "deepset-ai/haystack",
     "branch": "main",
-    "language": "HTML",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
-  },
-  {
-    "repo": "meteor/meteor",
-    "branch": "devel",
-    "language": "JavaScript",
-    "description": "Meteor, the JavaScript App Platform"
-  },
-  {
-    "repo": "meodai/heerich",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
-  },
-  {
-    "repo": "DISCO-design/DISCO",
-    "branch": "main",
-    "language": "Python",
-    "description": "Code for the DISCO model: General Multimodal Protein Design Enables DNA-Encoding of Chemistry"
+    "language": "MDX",
+    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
   }
 ]

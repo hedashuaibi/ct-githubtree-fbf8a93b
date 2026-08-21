@@ -1,8 +1,8 @@
 {
-  "repo": "Subhan-code/Monocharts",
+  "repo": "Sui-IB/InternalBeyond-Mobile",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A featured project on GitHubTree.",
-  "stars": 104,
-  "forks": 7
+  "language": "HTML",
+  "description": "Internal Beyond 的移动端同源版本：一个离线运行的单文件个人网站式应用项目，旨于维系情感的连续性。",
+  "stars": 113,
+  "forks": 322
 }
