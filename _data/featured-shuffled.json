@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zeromicro/go-zero",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
-  },
-  {
-    "repo": "EricLengyel/Slug",
+    "repo": "llmsresearch/paperbanana",
     "branch": "main",
-    "language": "HLSL",
-    "description": "Reference code for the Slug Algorithm."
+    "language": "Python",
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
   },
   {
-    "repo": "ester987222-max/AniForge-Hub",
+    "repo": "JustLikeCheese/LGBT-Prompt",
     "branch": "main",
     "language": "HTML",
-    "description": "Best Open Source Anime & Manga Streaming App 2026"
+    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
   },
   {
-    "repo": "vuetifyjs/vuetify",
+    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "branch": "main",
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+  },
+  {
+    "repo": "LemoLev/tg-ws-proxy-ANDROID",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
+  },
+  {
+    "repo": "apple/swift-nio",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
   },
   {
-    "repo": "strapi/strapi",
+    "repo": "theonlyhennygod/zeroclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw done right 🦀"
+  },
+  {
+    "repo": "facebookresearch/atlas-lean",
+    "branch": "main",
+    "language": "Lean",
+    "description": "ATLAS Autoformalized Textbook Library At Scale"
+  },
+  {
+    "repo": "actions/checkout",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+    "description": "Action for checking out a repo"
   },
   {
-    "repo": "ziglang/zig",
+    "repo": "ultralytics/yolov5",
     "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
   },
   {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Open Source Computer Vision Library"
+    "repo": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot,"
   },
   {
-    "repo": "golang/go",
-    "branch": "master",
+    "repo": "432539/gpt2api",
+    "branch": "main",
     "language": "Go",
-    "description": "The Go programming language"
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
   },
   {
-    "repo": "google/jax",
+    "repo": "Fenng/Tech-Doc-Style-Chinese",
     "branch": "main",
     "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
   },
   {
-    "repo": "jwasham/coding-interview-university",
-    "branch": "main",
-    "language": "Other",
-    "description": "A complete computer science study plan to become a software engineer."
-  },
-  {
-    "repo": "zsh-users/zsh-syntax-highlighting",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish shell like syntax highlighting for Zsh."
-  },
-  {
-    "repo": "deepseek-ai/deepseek-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
-  },
-  {
-    "repo": "moment/moment",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Parse, validate, manipulate, and display dates in javascript."
-  },
-  {
-    "repo": "google/sentencepiece",
-    "branch": "master",
-    "language": "C++",
-    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
-  },
-  {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
-  },
-  {
-    "repo": "facebook/hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
-  },
-  {
-    "repo": "google/flatbuffers",
-    "branch": "master",
-    "language": "C++",
-    "description": "FlatBuffers: Memory Efficient Serialization Library"
-  },
-  {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "google/leveldb",
-    "branch": "main",
-    "language": "C++",
-    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."
-  },
-  {
-    "repo": "gradio-app/gradio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
-  },
-  {
-    "repo": "Tencent/tdesign-react",
+    "repo": "actions/download-artifact",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
+    "description": "Download artifacts from your build"
   },
   {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
-  },
-  {
-    "repo": "deepset-ai/haystack",
+    "repo": "FeSens/auto-arch-tournament",
     "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+  },
+  {
+    "repo": "benja-dev-lab/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "FireRedTeam/FireRed-OpenStoryline",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "yaojingang/yao-open-prompts",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+  },
+  {
+    "repo": "ConardLi/web-design-skill",
+    "branch": "main",
+    "language": "CSS",
+    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "alexandercodes4/AirTrain",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed ML training across Apple Silicon Macs"
+  },
+  {
+    "repo": "aattaran/deepclaude",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper."
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
   }
 ]
