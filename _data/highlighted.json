@@ -1,8 +1,8 @@
 {
-  "repo": "furkankly/zoetrope",
+  "repo": "liyue-aigc/seedance-2-5-video-director",
   "branch": "main",
-  "language": "Rust",
-  "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
-  "stars": 103,
-  "forks": 4
+  "language": "Python",
+  "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导",
+  "stars": 104,
+  "forks": 12
 }

@@ -1,15 +1,75 @@
 [
   {
-    "repo": "MarchLiu/hypatia",
+    "repo": "mikesheehan54/Claude-Code-Design-AI",
     "branch": "main",
-    "language": "Rust",
-    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
+    "language": "TypeScript",
+    "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant."
   },
   {
-    "repo": "ChrisMack32/Locus",
+    "repo": "theswerd/brainless",
     "branch": "main",
-    "language": "Swift",
-    "description": "Free open-source iPhone location teleport (MIT)"
+    "language": "TypeScript",
+    "description": "Claude Code, Codex, and Grok interfaces as shadcn components"
+  },
+  {
+    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
+  },
+  {
+    "repo": "chekusu/wanman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
+  },
+  {
+    "repo": "openai/privacy-filter",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI Privacy Filter"
+  },
+  {
+    "repo": "matrix-agent/awesome-agentic-world-modeling",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond"
+  },
+  {
+    "repo": "zzzzshawn/matrix",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "alefinvest/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot"
+  },
+  {
+    "repo": "IO-ZetZor/Visor-BootManager",
+    "branch": "main",
+    "language": "C",
+    "description": "A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)"
+  },
+  {
+    "repo": "Hainrixz/open-carrusel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+  },
+  {
+    "repo": "99xAgency/GodModeSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reference code for the Meta-Harness paper."
   },
   {
     "repo": "5-m0cftvuvif/stake-monthly",
@@ -18,129 +78,69 @@
     "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
   },
   {
-    "repo": "Braffolk/fable5-world-demo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "3D world built by Claude Fable 5 to test its capabilities using three.js"
-  },
-  {
-    "repo": "3x-haust/workshop-wallpaper-bridge",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Local-only macOS bridge for personally copied Wallpaper Engine Workshop wallpapers"
-  },
-  {
-    "repo": "007FirstLight/007-First-Light-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
-  },
-  {
-    "repo": "NanoFlow-io/engram",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
-  },
-  {
-    "repo": "tor-browsers/tor-browser",
-    "branch": "main",
-    "language": "C#",
-    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
-  },
-  {
-    "repo": "harrietteehisqu7759383/kms-pico-latest-april-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
-  },
-  {
-    "repo": "trynullsec/nullsec-s1",
+    "repo": "chefkannofriend-source/lcb-baker-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Security-native LLM system for AI-generated application security."
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
   },
   {
-    "repo": "jwangkun/claude-for-financial-services-cn",
+    "repo": "judithsulfan/trading-bot",
     "branch": "main",
-    "language": "Python",
-    "description": "63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。"
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
   },
   {
-    "repo": "wechat-miniprogram/ai-mode-demo",
+    "repo": "TraderAlice/Auto-Quant",
     "branch": "master",
-    "language": "JavaScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "Mclisterjoeh2o/yellowkey-bitlocker",
+    "repo": "torvalds/ScrollWheel",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack script mitigation guide fstx winpeshl shell unpatched fix tool"
+    "language": "C",
+    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
   },
   {
-    "repo": "Th0rgal/open_oura",
+    "repo": "HKUDS-AI/polymarket-ai-trading",
     "branch": "main",
-    "language": "Rust",
-    "description": "Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol"
+    "language": "HTML",
+    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
   },
   {
-    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
-    "branch": "main",
-    "language": "Python",
-    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
-  },
-  {
-    "repo": "tantara/openbrief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "yb2460/cli-anything-wps",
-    "branch": "master",
-    "language": "Python",
-    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
-  },
-  {
-    "repo": "yeet-src/httpinspect",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal."
-  },
-  {
-    "repo": "Bartates/lunar-client-minecraft",
+    "repo": "DylanDavis1/DSCourier",
     "branch": "main",
     "language": "PowerShell",
-    "description": "lunar client minecraft download launcher fps boost pvp mods sodium optifine cosmetics windows 11 latest version 2026 free setup guide fix"
-  },
-  {
-    "repo": "dama-cyber/Casting-Workflow",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
-    "branch": "main",
-    "language": "C#",
-    "description": "Gothic Remake Lockpick Solver chest gate puzzle combination sequence pin plate slider helper assistant unreal pc steam alkimia thq colony break logic calculator ue5 turn door pattern"
-  },
-  {
-    "repo": "localai-org/privacy-filter.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime"
-  },
-  {
-    "repo": "PolyMomentum/polymarket-momentum-mispricing-bot",
+    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "huang-sir1/radiology-skills",
+    "repo": "bryanyzhu/agentic-ai-system-course",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents"
+  },
+  {
+    "repo": "GENEXIS-AI/chromex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
+  },
+  {
+    "repo": "thillygooth/questboard",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A gamified family chore tracker built with React, FastAPI, and Docker. Family members claim daily and weekly chores to earn points, then redeem them for real-world rewards. Features per-player profiles, age-appropriate chore filtering, auto daily/weekly resets, and a shared backend for real-time sync across devices."
+  },
+  {
+    "repo": "AriPath/AriMando",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
   }
 ]
