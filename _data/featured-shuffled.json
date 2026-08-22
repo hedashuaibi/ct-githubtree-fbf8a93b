@@ -1,146 +1,146 @@
 [
   {
-    "repo": "go-resty/resty",
-    "branch": "master",
-    "language": "Go",
-    "description": "Simple HTTP, REST, and SSE client library for Go"
-  },
-  {
-    "repo": "thunderstoremods/Thunderstore-Mod-Manager",
+    "repo": "MarchLiu/hypatia",
     "branch": "main",
-    "language": "C#",
-    "description": "Thunderstore Mod Manager free for Windows, macOS and Linux. Best mod manager for Lethal Company, Risk of Rain 2, Valheim, Deep Rock Galactic and Cyberpunk 2077. Thunderstore mod manager download, standalone, not working fix, vs Overwolf, vs Nexus Mod Manager. BepInEx and MelonLoader support. Download Thunderstore Mod Manager free 2026."
-  },
-  {
-    "repo": "StrucksTech/Zelda-TP-Native-Port",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
-  },
-  {
-    "repo": "OpenSquilla/opensquilla",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
-  },
-  {
-    "repo": "deeplethe/ForgeRAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-Ready RAG with Structure-Aware Reasoning"
-  },
-  {
-    "repo": "OpenCoworkAI/open-codesign",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT."
-  },
-  {
-    "repo": "loyalpartner/selfsync",
-    "branch": "master",
     "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
   },
   {
-    "repo": "techjarves/USB-Uncensored-LLM",
-    "branch": "main",
-    "language": "Shell",
-    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
-  },
-  {
-    "repo": "browser-use/browser-harness-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-healing browser harness that enables LLMs to complete any task"
-  },
-  {
-    "repo": "xiaochong/hi-kid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
-  },
-  {
-    "repo": "AvenueSleuth/delta-exec",
-    "branch": "main",
-    "language": "Python",
-    "description": "Delta Exec scripting utility"
-  },
-  {
-    "repo": "Hainrixz/open-carrusel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
-  },
-  {
-    "repo": "HiDream-ai/HiDream-O1-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "FlowTrader-Labs/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
-  },
-  {
-    "repo": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics."
-  },
-  {
-    "repo": "leigest519/OpenGame",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenGame: Open Agentic Coding for Games"
-  },
-  {
-    "repo": "hoaibaone/OP-Auto-Clicker",
-    "branch": "main",
-    "language": "C#",
-    "description": "OP Auto Clicker download automatic mouse clicker automation utility gaming Roblox Minecraft Cookie Clicker fast clicking intervals hotkeys macro mouse button record playback free open source portable PC mobile script trigger settings single double triple."
-  },
-  {
-    "repo": "zzzzshawn/matrix",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
-  },
-  {
-    "repo": "backnotprop/rig",
+    "repo": "ChrisMack32/Locus",
     "branch": "main",
     "language": "Swift",
+    "description": "Free open-source iPhone location teleport (MIT)"
+  },
+  {
+    "repo": "5-m0cftvuvif/stake-monthly",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
+  },
+  {
+    "repo": "Braffolk/fable5-world-demo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "3D world built by Claude Fable 5 to test its capabilities using three.js"
+  },
+  {
+    "repo": "3x-haust/workshop-wallpaper-bridge",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Local-only macOS bridge for personally copied Wallpaper Engine Workshop wallpapers"
+  },
+  {
+    "repo": "007FirstLight/007-First-Light-Release",
+    "branch": "main",
+    "language": "C++",
+    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
+  },
+  {
+    "repo": "NanoFlow-io/engram",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
+  },
+  {
+    "repo": "tor-browsers/tor-browser",
+    "branch": "main",
+    "language": "C#",
+    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
+  },
+  {
+    "repo": "harrietteehisqu7759383/kms-pico-latest-april-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
+  },
+  {
+    "repo": "trynullsec/nullsec-s1",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security-native LLM system for AI-generated application security."
+  },
+  {
+    "repo": "jwangkun/claude-for-financial-services-cn",
+    "branch": "main",
+    "language": "Python",
+    "description": "63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。"
+  },
+  {
+    "repo": "wechat-miniprogram/ai-mode-demo",
+    "branch": "master",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "cybertronai/schmidhuber-problems",
-    "branch": "main",
-    "language": "Python",
-    "description": "58 implementations of synthetic learning problems from Jürgen Schmidhuber's papers (1989-2025). Pure numpy, laptop-runnable, paper-comparison metrics per stub. Algorithmic-lineage companion to hinton-problems."
-  },
-  {
-    "repo": "limitless-org/crypto-engine",
+    "repo": "Mclisterjoeh2o/yellowkey-bitlocker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Crypto Engine"
+    "description": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack script mitigation guide fstx winpeshl shell unpatched fix tool"
   },
   {
-    "repo": "Quorinex/Freebuff2API",
+    "repo": "Th0rgal/open_oura",
     "branch": "main",
-    "language": "Go",
-    "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
+    "language": "Rust",
+    "description": "Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol"
+  },
+  {
+    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
+    "branch": "main",
+    "language": "Python",
+    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
+  },
+  {
+    "repo": "tantara/openbrief",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "yb2460/cli-anything-wps",
+    "branch": "master",
+    "language": "Python",
+    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+  },
+  {
+    "repo": "yeet-src/httpinspect",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal."
+  },
+  {
+    "repo": "Bartates/lunar-client-minecraft",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "lunar client minecraft download launcher fps boost pvp mods sodium optifine cosmetics windows 11 latest version 2026 free setup guide fix"
+  },
+  {
+    "repo": "dama-cyber/Casting-Workflow",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
+    "branch": "main",
+    "language": "C#",
+    "description": "Gothic Remake Lockpick Solver chest gate puzzle combination sequence pin plate slider helper assistant unreal pc steam alkimia thq colony break logic calculator ue5 turn door pattern"
+  },
+  {
+    "repo": "localai-org/privacy-filter.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime"
+  },
+  {
+    "repo": "PolyMomentum/polymarket-momentum-mispricing-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot"
+  },
+  {
+    "repo": "huang-sir1/radiology-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

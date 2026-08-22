@@ -1,8 +1,8 @@
 {
-  "repo": "MrMoT9I/paper-aquarium",
+  "repo": "furkankly/zoetrope",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Бумажная раскраска превращается в 3D-рыбу: ребёнок раскрашивает лист, фотографирует телефоном — и рыбка плывёт в аквариуме на большом экране. Node без зависимостей + three.js.",
-  "stars": 143,
-  "forks": 28
+  "language": "Rust",
+  "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+  "stars": 103,
+  "forks": 4
 }
