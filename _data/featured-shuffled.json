@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tompftampffern/polyseed-monero",
-    "branch": "main",
-    "language": "C",
-    "description": "Polyseed Monero"
-  },
-  {
-    "repo": "SamadhiFire/xinqingnian-maoxuan-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "毛选Skill/新青年Skill/新青年/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
-  },
-  {
-    "repo": "xM0kht4r/VEN0m-Ransomware",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
-  },
-  {
-    "repo": "NicholasCone/agnes-ai-video-suite",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles"
-  },
-  {
-    "repo": "botiverse/agent-vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Keep your secrets hidden from AI agents."
-  },
-  {
-    "repo": "nicepkg/ctxport",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
-  },
-  {
-    "repo": "infraform/polymarket-copytrading-bot-sports",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "About Crash game - frontend"
-  },
-  {
-    "repo": "AlpinDale/parsync",
+    "repo": "karpathy/nanoGPT",
     "branch": "master",
-    "language": "Rust",
-    "description": "Parallel rsync-like pull sync over SSH with resume"
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
   },
   {
-    "repo": "NawfalMotii79/PLFM_RADAR",
-    "branch": "main",
-    "language": "C",
-    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
-  },
-  {
-    "repo": "TylerBoni/headless-airplay-screen-mirror",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "Darkkal44/sddm-themes",
-    "branch": "main",
-    "language": "QML",
-    "description": "A simple collection of all the sddm-themes I've made :D"
-  },
-  {
-    "repo": "0xMH/fichero-printer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
-  },
-  {
-    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
+    "repo": "qaml-ai/camelAI",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
+    "description": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects"
   },
   {
-    "repo": "jackwener/rdt-cli",
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
   },
   {
-    "repo": "garagon/nanostack",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Minimal AI coding agent team skills for the full engineering workflow."
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
   },
   {
-    "repo": "aiming-lab/AutoResearchClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
-  },
-  {
-    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
-  },
-  {
-    "repo": "Nuzair46/Monarch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Detach, restore, and switch monitor layouts without touching cables."
-  },
-  {
-    "repo": "zerobootdev/zeroboot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
-  },
-  {
-    "repo": "TheGreatGildo/nerv-ui",
+    "repo": "alpinejs/alpine",
     "branch": "main",
     "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
   },
   {
-    "repo": "sandroandric/clime",
+    "repo": "slackhq/nebula",
+    "branch": "master",
+    "language": "Go",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+  },
+  {
+    "repo": "ionic-team/capacitor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "One CLI to find every CLI"
+    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
   },
   {
-    "repo": "joewongjc/type4me",
+    "repo": "docker/buildx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
+  },
+  {
+    "repo": "appwrite/appwrite",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+  },
+  {
+    "repo": "slidevjs/slidev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Presentation Slides for Developers"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Scalable datastore for metrics, events, and real-time analytics"
+  },
+  {
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "jitsi/jitsi-meet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+  },
+  {
+    "repo": "jgraph/drawio",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
+  },
+  {
+    "repo": "huggingface/trl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "RasaHQ/rasa",
+    "branch": "main",
+    "language": "Python",
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+  },
+  {
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "devicekit/DeviceKit",
+    "branch": "master",
     "language": "Swift",
-    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
+    "description": "DeviceKit is a value-type replacement of UIDevice."
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Focus on prompting and generating"
+  },
+  {
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "dagger/dagger",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "branch": "main",
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "element-hq/element-web",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A glossy Matrix collaboration client for the web."
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Full-sized drag & drop event calendar in JavaScript"
   }
 ]
