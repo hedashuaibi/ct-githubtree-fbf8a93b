@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mikesheehan54/Claude-Code-Design-AI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant."
-  },
-  {
-    "repo": "theswerd/brainless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code, Codex, and Grok interfaces as shadcn components"
-  },
-  {
-    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
-  },
-  {
-    "repo": "chekusu/wanman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
-  },
-  {
-    "repo": "openai/privacy-filter",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenAI Privacy Filter"
-  },
-  {
-    "repo": "matrix-agent/awesome-agentic-world-modeling",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond"
-  },
-  {
-    "repo": "zzzzshawn/matrix",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "alefinvest/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot"
-  },
-  {
-    "repo": "IO-ZetZor/Visor-BootManager",
+    "repo": "tompftampffern/polyseed-monero",
     "branch": "main",
     "language": "C",
-    "description": "A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)"
+    "description": "Polyseed Monero"
   },
   {
-    "repo": "Hainrixz/open-carrusel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
-  },
-  {
-    "repo": "99xAgency/GodModeSkill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reference code for the Meta-Harness paper."
-  },
-  {
-    "repo": "5-m0cftvuvif/stake-monthly",
+    "repo": "SamadhiFire/xinqingnian-maoxuan-skill",
     "branch": "main",
     "language": "HTML",
-    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
+    "description": "毛选Skill/新青年Skill/新青年/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
   },
   {
-    "repo": "chefkannofriend-source/lcb-baker-agent",
+    "repo": "xM0kht4r/VEN0m-Ransomware",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+    "language": "Rust",
+    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
   },
   {
-    "repo": "judithsulfan/trading-bot",
+    "repo": "NicholasCone/agnes-ai-video-suite",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles"
+  },
+  {
+    "repo": "botiverse/agent-vault",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
+    "description": "Keep your secrets hidden from AI agents."
   },
   {
-    "repo": "TraderAlice/Auto-Quant",
+    "repo": "nicepkg/ctxport",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+  },
+  {
+    "repo": "infraform/polymarket-copytrading-bot-sports",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
+  },
+  {
+    "repo": "AlpinDale/parsync",
     "branch": "master",
-    "language": "Python",
-    "description": ""
+    "language": "Rust",
+    "description": "Parallel rsync-like pull sync over SSH with resume"
   },
   {
-    "repo": "torvalds/ScrollWheel",
+    "repo": "NawfalMotii79/PLFM_RADAR",
     "branch": "main",
     "language": "C",
-    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
   },
   {
-    "repo": "HKUDS-AI/polymarket-ai-trading",
+    "repo": "TylerBoni/headless-airplay-screen-mirror",
     "branch": "main",
-    "language": "HTML",
-    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
-  },
-  {
-    "repo": "DylanDavis1/DSCourier",
-    "branch": "main",
-    "language": "PowerShell",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
+    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "Darkkal44/sddm-themes",
+    "branch": "main",
+    "language": "QML",
+    "description": "A simple collection of all the sddm-themes I've made :D"
+  },
+  {
+    "repo": "0xMH/fichero-printer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+  },
+  {
+    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
   },
   {
-    "repo": "bryanyzhu/agentic-ai-system-course",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents"
-  },
-  {
-    "repo": "GENEXIS-AI/chromex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
-  },
-  {
-    "repo": "thillygooth/questboard",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A gamified family chore tracker built with React, FastAPI, and Docker. Family members claim daily and weekly chores to earn points, then redeem them for real-world rewards. Features per-player profiles, age-appropriate chore filtering, auto daily/weekly resets, and a shared backend for real-time sync across devices."
-  },
-  {
-    "repo": "AriPath/AriMando",
+    "repo": "jackwener/rdt-cli",
     "branch": "main",
     "language": "Python",
-    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+  },
+  {
+    "repo": "garagon/nanostack",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Minimal AI coding agent team skills for the full engineering workflow."
+  },
+  {
+    "repo": "aiming-lab/AutoResearchClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
+  },
+  {
+    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+  },
+  {
+    "repo": "Nuzair46/Monarch",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Detach, restore, and switch monitor layouts without touching cables."
+  },
+  {
+    "repo": "zerobootdev/zeroboot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+  },
+  {
+    "repo": "TheGreatGildo/nerv-ui",
+    "branch": "main",
+    "language": "HTML",
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+  },
+  {
+    "repo": "sandroandric/clime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "One CLI to find every CLI"
+  },
+  {
+    "repo": "joewongjc/type4me",
+    "branch": "main",
+    "language": "Swift",
+    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
   }
 ]

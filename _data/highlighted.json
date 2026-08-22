@@ -1,8 +1,8 @@
 {
-  "repo": "liyue-aigc/seedance-2-5-video-director",
+  "repo": "skydashnet/material-design-3-ui-skill",
   "branch": "main",
-  "language": "Python",
-  "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导",
-  "stars": 104,
-  "forks": 12
+  "language": "PowerShell",
+  "description": "A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3, Material You, M3 Expressive, accessibility, adaptive layouts, and semantic design tokens.",
+  "stars": 102,
+  "forks": 9
 }
