@@ -1,8 +1,8 @@
 {
-  "repo": "KJGX66F/back4app-vless",
+  "repo": "ChenShuo2004/cs-board",
   "branch": "main",
-  "language": "Shell",
-  "description": "Back4app VLESS + Cloudflare Tunnel｜免费公开源码｜个人永久免费｜禁止商业使用与倒卖",
-  "stars": 104,
-  "forks": 198
+  "language": "Python",
+  "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+  "stars": 111,
+  "forks": 25
 }

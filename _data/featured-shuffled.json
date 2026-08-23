@@ -1,146 +1,146 @@
 [
   {
-    "repo": "karpathy/nanoGPT",
+    "repo": "f/agentlytics",
     "branch": "master",
-    "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+    "language": "JavaScript",
+    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
   },
   {
-    "repo": "qaml-ai/camelAI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects"
-  },
-  {
-    "repo": "jackwener/twitter-cli",
+    "repo": "hacktivist123/agent-session-resume",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode."
   },
   {
-    "repo": "projectdiscovery/nuclei",
-    "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "alpinejs/alpine",
+    "repo": "Spotui/Spotui",
     "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+    "language": "Kotlin",
+    "description": "Spotify clone with deep integration"
   },
   {
-    "repo": "slackhq/nebula",
-    "branch": "master",
-    "language": "Go",
-    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
-  },
-  {
-    "repo": "ionic-team/capacitor",
+    "repo": "Klotzkette/claude-fuer-deutsches-recht",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
+    "language": "Python",
+    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
   },
   {
-    "repo": "docker/buildx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
+    "repo": "imtonyjaa/ggemu-fishing-joy",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "a ggemu.com (play retro games online) sdk example"
   },
   {
-    "repo": "appwrite/appwrite",
+    "repo": "shivampkumar/trellis-mac",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "figure-markets/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
   },
   {
-    "repo": "slidevjs/slidev",
+    "repo": "MatixYo/ESP32-Plane-Radar",
+    "branch": "main",
+    "language": "C++",
+    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar."
+  },
+  {
+    "repo": "Albert-Weasker/niubi_guard",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Presentation Slides for Developers"
+    "description": "Open-source GitHub repository abuse detection and response system."
   },
   {
-    "repo": "influxdata/influxdb",
+    "repo": "r14dd/patent",
     "branch": "main",
     "language": "Rust",
-    "description": "Scalable datastore for metrics, events, and real-time analytics"
+    "description": "A prior-art search for your code ideas. Stop building what already exists."
   },
   {
-    "repo": "tensorflow/models",
-    "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
-  },
-  {
-    "repo": "jitsi/jitsi-meet",
-    "branch": "master",
+    "repo": "veryyoldman/metamask-openclaw",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+    "description": "🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase."
   },
   {
-    "repo": "jgraph/drawio",
-    "branch": "dev",
+    "repo": "ConardLi/garden-skills",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
   },
   {
-    "repo": "huggingface/trl",
+    "repo": "RastProxy88/Zephyr-Executor-Free-Roblox-Executor-PC-No-Key-Required-2026",
     "branch": "main",
-    "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
+    "language": "Lua",
+    "description": "Free undetected Roblox script executor with instant injection, full UNC support, and no key system. Clean UI, built-in script hub, regular updates."
   },
   {
-    "repo": "RasaHQ/rasa",
+    "repo": "Austin1serb/anthropic-leaked-source-code",
     "branch": "main",
-    "language": "Python",
-    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "devicekit/DeviceKit",
+    "repo": "Moh4696/websites-100-audit",
     "branch": "master",
-    "language": "Swift",
-    "description": "DeviceKit is a value-type replacement of UIDevice."
+    "language": "Shell",
+    "description": ""
   },
   {
-    "repo": "lllyasviel/Fooocus",
+    "repo": "mre/awesome-static-analysis",
+    "branch": "master",
+    "language": "Rust",
+    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
+  },
+  {
+    "repo": "vectordotdev/vector",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A high-performance observability data pipeline."
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
+  },
+  {
+    "repo": "Signal-Probability-Engine/weather-prediction",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket weather trading bot Polymarket weather trading bot Polymarket weather trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot"
+  },
+  {
+    "repo": "mosaicml/llm-foundry",
     "branch": "main",
     "language": "Python",
-    "description": "Focus on prompting and generating"
+    "description": "LLM training code for Databricks foundation models"
   },
   {
-    "repo": "buildpacks/pack",
+    "repo": "ZRainbow1275/AutoTeam-F",
     "branch": "main",
+    "language": "Python",
+    "description": "参照上游 cnitlrt/AutoTeam 的改善版,重点在于实现免费号批量获得以及改善操作体验 (Fix + Free)"
+  },
+  {
+    "repo": "huangserva/3DCellForge",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-powered interactive 3D cell generation and exploration studio."
+  },
+  {
+    "repo": "ehang-io/nps",
+    "branch": "master",
     "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
   },
   {
-    "repo": "dagger/dagger",
+    "repo": "anthnykr/codex-voice",
     "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
-  },
-  {
-    "repo": "quarkusio/quarkus",
-    "branch": "main",
-    "language": "Java",
-    "description": "Quarkus: Supersonic Subatomic Java."
-  },
-  {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
+    "language": "Swift",
+    "description": ""
   }
 ]
