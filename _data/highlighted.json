@@ -1,8 +1,8 @@
 {
-  "repo": "ChenShuo2004/cs-board",
+  "repo": "joe960913/Jixu",
   "branch": "main",
-  "language": "Python",
-  "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-  "stars": 111,
-  "forks": 25
+  "language": "TypeScript",
+  "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
+  "stars": 107,
+  "forks": 7
 }
