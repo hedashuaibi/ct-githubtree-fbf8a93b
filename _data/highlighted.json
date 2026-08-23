@@ -1,8 +1,8 @@
 {
-  "repo": "Jordanwei1/jiaojie-skill",
+  "repo": "standardagents/ssh-clipboard",
   "branch": "main",
-  "language": "Python",
-  "description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
-  "stars": 103,
-  "forks": 5
+  "language": "Rust",
+  "description": "Native encrypted clipboard sync over SSH for macOS and Linux",
+  "stars": 124,
+  "forks": 4
 }

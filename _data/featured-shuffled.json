@@ -1,146 +1,146 @@
 [
   {
-    "repo": "s0912758806p/agentic-sop-to-work",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn human SOPs into deterministic, gated agentic workflows — a Claude Code plugin."
-  },
-  {
-    "repo": "rasoir0591/Crosshair-X",
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
     "branch": "main",
     "language": "TypeScript",
-    "description": "crosshair x steam download custom crosshair free overlay extension torrent valorant cs2 apex pro settings windows"
+    "description": "GitHub Action to alert on security patches before the CVE drops."
   },
   {
-    "repo": "zaydmulani09/mnemo",
+    "repo": "chartjs/Chart.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple HTML5 Charts using the <canvas> tag"
+  },
+  {
+    "repo": "vitest-dev/vitest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next generation testing framework powered by Vite."
+  },
+  {
+    "repo": "baydarerhan/Sora-2-App-No-Watermark",
+    "branch": "main",
+    "language": "HTML",
+    "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool."
+  },
+  {
+    "repo": "xevrion-v2/agent-playground",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
+  },
+  {
+    "repo": "zunmax/osnm-z",
     "branch": "main",
     "language": "Rust",
-    "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend."
+    "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea"
   },
   {
-    "repo": "Polymarket-Trading-kit/sports-trading-bot",
+    "repo": "jsongmax/oci-core",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
+    "language": "Go",
+    "description": "自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud"
   },
   {
-    "repo": "pyang5166/gbro-collage-broll",
-    "branch": "main",
-    "language": "Python",
-    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
-  },
-  {
-    "repo": "lingbol088-spec/ReiPenFlow",
+    "repo": "Yaxin9Luo/AutoDesign",
     "branch": "main",
     "language": "Python",
-    "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows."
+    "description": "The open-source design agent and harness, better than Claude Design on academic communication artifacts production. This DesignHarness can also be used with any coding harness you like ( Codex/Claude Code/Kimi Code/Pi/OpenCode etc..) and any agentic model you want."
   },
   {
-    "repo": "mana-am/matrix-swift",
+    "repo": "coding-parrot/pothole-reporter",
     "branch": "main",
-    "language": "Swift",
-    "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix."
+    "language": "Python",
+    "description": "AI pothole reporter for Bengaluru: on-device Android app that detects potholes, finds the responsible corporation officer and road contractor from public records, and drafts complaint emails you review and send."
   },
   {
-    "repo": "Spotui/Spotui",
+    "repo": "XIAZY/wcctl",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Spotify clone with deep integration"
+    "language": "C",
+    "description": "wcctl is a command line tool to bridge the gap between WeChat and other tools"
   },
   {
-    "repo": "xt4d/GameBlocks",
+    "repo": "albertobeiz/kindergrimm",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
+    "description": "Procedural doodle characters drawn as if by hand on cream paper — and Kindergrimm, the game they live in"
   },
   {
-    "repo": "itz-rynx/Disk_Space_Visualizer",
+    "repo": "joe960913/Jixu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI."
+  },
+  {
+    "repo": "xdreizein666/getcontact-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Visualize disk space usage with interactive charts and maps. Quickly identify space hogs."
+    "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser."
   },
   {
-    "repo": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "repo": "2023782whl/Mem-kb",
     "branch": "main",
-    "language": "HTML",
-    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide"
+    "language": "TypeScript",
+    "description": "Self-Evolving Enterprise Knowledge Base"
   },
   {
-    "repo": "woyin2024/lengyi-markdown-editor",
-    "branch": "main",
-    "language": "HTML",
-    "description": "单HTML工具，打开即用，完全免费"
-  },
-  {
-    "repo": "jose-90/DBD-AutoGrind-Trainer-2026",
+    "repo": "floflo777/open-crypto-puzzles",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Unsolved crypto puzzles worth ~10 BTC, ~12 ETH and ~1,900 AR still on-chain: escrow addresses, author clues, and my research on each. A few solved, with payout proofs."
   },
   {
-    "repo": "fernanW12350/Warframe_Auto-Farm___Infinite_Energy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm, infinite energy, and all mods for Warframe. Farm resources, level up weapons, and unlock all frames."
-  },
-  {
-    "repo": "Xingyu-Zheng/MrFlow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
-  },
-  {
-    "repo": "duxweb/ReTheme",
+    "repo": "ArchAstro/scopey",
     "branch": "main",
     "language": "Rust",
-    "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT"
+    "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope"
   },
   {
-    "repo": "disler/fixing-smartass-opus-5",
+    "repo": "dimmas893/monorepo-nest-next-starter",
     "branch": "main",
-    "language": "Just",
-    "description": "Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner."
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "AndeFriday/Fall_Guys_Auto-Flip",
+    "repo": "mikehasa/agentacct",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-flip, speed boost, and crown farm for Fall Guys. Automatically flip after falling, move faster, earn crowns, and ignore collisions. Win every round."
+    "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard."
   },
   {
-    "repo": "nationaldesignstudio/rampart",
+    "repo": "SMNETSTUDIO/StarLive",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "StarLive System - 星播系统"
+  },
+  {
+    "repo": "ARMSX2/ARMSX3",
     "branch": "master",
-    "language": "TypeScript",
+    "language": "C++",
+    "description": "Proof of concept port of RPCS3 for Android"
+  },
+  {
+    "repo": "ruudkoeyvoets/polymarket-trading-bot-twap",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "ZinkLu/Orca-Orchestration",
+    "repo": "JasonSTong/codex-theme-studio",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "JavaScript",
+    "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS."
   },
   {
-    "repo": "activecarde-a11y/edd-multilingual-lingua-shop",
+    "repo": "Blaizzy/nativ",
     "branch": "main",
-    "language": "HTML",
-    "description": "EDD Multilingual for WooCommerce 2026: Multi-Language Digital Shop & Delivery System"
-  },
-  {
-    "repo": "srinivasand2022/nhentai-harvester",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best NHentai Downloader Tool 2026 – Fast Manga & Doujin Saver"
-  },
-  {
-    "repo": "RidgeRookPattern/comix-autoclipper",
-    "branch": "main",
-    "language": "Python",
-    "description": "Best Manga Downloader 2026: Fast GUI & CLI Comix Tool with PDF CBZ Export"
+    "language": "Swift",
+    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
   }
 ]
