@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ReactiveX/RxSwift",
+    "repo": "s0912758806p/agentic-sop-to-work",
     "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
+    "language": "Python",
+    "description": "Turn human SOPs into deterministic, gated agentic workflows — a Claude Code plugin."
   },
   {
-    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
+    "repo": "rasoir0591/Crosshair-X",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "crosshair x steam download custom crosshair free overlay extension torrent valorant cs2 apex pro settings windows"
+  },
+  {
+    "repo": "zaydmulani09/mnemo",
     "branch": "main",
     "language": "Rust",
-    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
+    "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend."
   },
   {
-    "repo": "rails/rails",
+    "repo": "Polymarket-Trading-kit/sports-trading-bot",
     "branch": "main",
-    "language": "Ruby",
-    "description": "Ruby on Rails"
+    "language": "TypeScript",
+    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
   },
   {
-    "repo": "sveltejs/svelte",
+    "repo": "pyang5166/gbro-collage-broll",
+    "branch": "main",
+    "language": "Python",
+    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+  },
+  {
+    "repo": "lingbol088-spec/ReiPenFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows."
+  },
+  {
+    "repo": "mana-am/matrix-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix."
+  },
+  {
+    "repo": "Spotui/Spotui",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Spotify clone with deep integration"
+  },
+  {
+    "repo": "xt4d/GameBlocks",
     "branch": "main",
     "language": "JavaScript",
-    "description": "web development for the rest of us"
+    "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
   },
   {
-    "repo": "newrelic/newrelic-java-agent",
+    "repo": "itz-rynx/Disk_Space_Visualizer",
     "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
+    "language": "Python",
+    "description": "Visualize disk space usage with interactive charts and maps. Quickly identify space hogs."
   },
   {
-    "repo": "microsoft/dotnet",
+    "repo": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
     "branch": "main",
     "language": "HTML",
-    "description": "This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation."
+    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide"
   },
   {
-    "repo": "helm/helm",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Kubernetes Package Manager"
-  },
-  {
-    "repo": "ceph/ceph",
-    "branch": "main",
-    "language": "C++",
-    "description": "Ceph is a distributed object, block, and file storage platform"
-  },
-  {
-    "repo": "material-components/material-components-web",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
-  },
-  {
-    "repo": "saltstack/salt",
-    "branch": "master",
-    "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "newideas99/open-dungeon",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud."
-  },
-  {
-    "repo": "turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
-  },
-  {
-    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
+    "repo": "woyin2024/lengyi-markdown-editor",
     "branch": "main",
     "language": "HTML",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
+    "description": "单HTML工具，打开即用，完全免费"
   },
   {
-    "repo": "AriPath/AriMando",
+    "repo": "jose-90/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "remix-run/remix",
+    "repo": "fernanW12350/Warframe_Auto-Farm___Infinite_Energy",
     "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, infinite energy, and all mods for Warframe. Farm resources, level up weapons, and unlock all frames."
+  },
+  {
+    "repo": "Xingyu-Zheng/MrFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
+  },
+  {
+    "repo": "duxweb/ReTheme",
+    "branch": "main",
+    "language": "Rust",
+    "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT"
+  },
+  {
+    "repo": "disler/fixing-smartass-opus-5",
+    "branch": "main",
+    "language": "Just",
+    "description": "Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner."
+  },
+  {
+    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026-Max",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "AndeFriday/Fall_Guys_Auto-Flip",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-flip, speed boost, and crown farm for Fall Guys. Automatically flip after falling, move faster, earn crowns, and ignore collisions. Win every round."
+  },
+  {
+    "repo": "nationaldesignstudio/rampart",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals."
-  },
-  {
-    "repo": "Bartates/lunar-client-minecraft",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "lunar client minecraft download launcher fps boost pvp mods sodium optifine cosmetics windows 11 latest version 2026 free setup guide fix"
-  },
-  {
-    "repo": "golang/go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go programming language"
-  },
-  {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "zarazhangrui/beautiful-feishu-whiteboard",
-    "branch": "main",
-    "language": "Shell",
-    "description": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill."
-  },
-  {
-    "repo": "tony-cote/walletgen",
-    "branch": "main",
-    "language": "C++",
-    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
-  },
-  {
-    "repo": "mikubaka88/CCFA-Skills",
-    "branch": "main",
-    "language": "TeX",
     "description": ""
   },
   {
-    "repo": "twbs/bootstrap",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-  },
-  {
-    "repo": "opengeos/GeoLibre",
+    "repo": "ZinkLu/Orca-Orchestration",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
+    "description": ""
+  },
+  {
+    "repo": "activecarde-a11y/edd-multilingual-lingua-shop",
+    "branch": "main",
+    "language": "HTML",
+    "description": "EDD Multilingual for WooCommerce 2026: Multi-Language Digital Shop & Delivery System"
+  },
+  {
+    "repo": "srinivasand2022/nhentai-harvester",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best NHentai Downloader Tool 2026 – Fast Manga & Doujin Saver"
+  },
+  {
+    "repo": "RidgeRookPattern/comix-autoclipper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Best Manga Downloader 2026: Fast GUI & CLI Comix Tool with PDF CBZ Export"
   }
 ]

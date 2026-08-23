@@ -1,8 +1,8 @@
 {
-  "repo": "joe960913/Jixu",
+  "repo": "Jordanwei1/jiaojie-skill",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
-  "stars": 107,
-  "forks": 7
+  "language": "Python",
+  "description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+  "stars": 103,
+  "forks": 5
 }
