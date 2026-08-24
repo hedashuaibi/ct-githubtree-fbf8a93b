@@ -1,146 +1,146 @@
 [
   {
-    "repo": "johannesjo/parallel-code",
+    "repo": "stylelint/stylelint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+  },
+  {
+    "repo": "gordonmurray/firnflow",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
+  },
+  {
+    "repo": "Syngnat/GoNavi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
   },
   {
-    "repo": "jwangkun/hermes-agent-guide",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
-  },
-  {
-    "repo": "CodMughees/envradar",
-    "branch": "main",
-    "language": "Python",
-    "description": "Catch undocumented, unused, and drifting environment variables in your repo"
-  },
-  {
-    "repo": "JakeWharton/butterknife",
+    "repo": "polkadot-js/apps",
     "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
   },
   {
-    "repo": "MasterAlanLab/Register",
+    "repo": "ufira-ai/Vibma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
+  },
+  {
+    "repo": "my-claude-utils/clsh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Access your terminal and your AI agent from any device — phone, tablet, desktop."
+  },
+  {
+    "repo": "cporter202/openclaw-api-list",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
+  },
+  {
+    "repo": "composer/composer",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
+  },
+  {
+    "repo": "matteyeux/coruna",
     "branch": "main",
     "language": "Python",
+    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
+  },
+  {
+    "repo": "lailoo/butcher-wiki",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
+  },
+  {
+    "repo": "scienceLabwork/Stable-Action",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
+  },
+  {
+    "repo": "primefaces/primevue",
+    "branch": "master",
+    "language": "Vue",
+    "description": "Next Generation Vue UI Component Library"
+  },
+  {
+    "repo": "jackwener/wechat-article-to-markdown",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
+  },
+  {
+    "repo": "Lightricks/LTX-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source desktop app for generating videos with LTX models"
+  },
+  {
+    "repo": "mantinedev/mantine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A fully featured React components library"
+  },
+  {
+    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+  },
+  {
+    "repo": "react-native-async-storage/async-storage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "langwatch/kanban-code",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "SL0ANE/TheMoldsmalPlugin",
+    "repo": "vercel-labs/openreview",
     "branch": "main",
-    "language": "Lua",
-    "description": "a plugin for boil effect for aseprite maybe"
-  },
-  {
-    "repo": "apache/kafka",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Mirror of Apache Kafka"
-  },
-  {
-    "repo": "skibidiskib/ai-codex",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+    "description": "An open-source, self-hosted AI code review bot powered by Vercel."
   },
   {
-    "repo": "sooryathejas/METATRON",
+    "repo": "hehehai/voxt",
     "branch": "main",
-    "language": "Python",
-    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
   },
   {
-    "repo": "restic/restic",
+    "repo": "jackc/pgx",
     "branch": "master",
     "language": "Go",
-    "description": "Fast, secure, efficient backup program"
+    "description": "PostgreSQL driver and toolkit for Go"
   },
   {
-    "repo": "nektos/act",
+    "repo": "ytdl-org/youtube-dl",
     "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
-  },
-  {
-    "repo": "emscripten-core/emscripten",
-    "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "yologdev/yoyo-evolve",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A coding agent that evolves itself. One commit per day."
-  },
-  {
-    "repo": "Anxcye/anx-reader",
-    "branch": "main",
-    "language": "Dart",
-    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
-  },
-  {
-    "repo": "EleutherAI/gpt-neox",
-    "branch": "main",
     "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
   },
   {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
-  },
-  {
-    "repo": "bwya77/vscode-dark-islands",
+    "repo": "theforeveriris/simulated-12306-view",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "VSCode theme based off the new Jetbrains islands theme"
-  },
-  {
-    "repo": "cocos/cocos-engine",
-    "branch": "v3.8",
-    "language": "C++",
-    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
-  },
-  {
-    "repo": "google-research/vision_transformer",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
-  },
-  {
-    "repo": "Tencent/cherry-markdown",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
-  },
-  {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "abi/screenshot-to-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
-  },
-  {
-    "repo": "pypa/pipx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Install and Run Python Applications in Isolated Environments"
-  },
-  {
-    "repo": "mastodon/mastodon",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Your self-hosted, globally interconnected microblogging community"
+    "language": "HTML",
+    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
   }
 ]

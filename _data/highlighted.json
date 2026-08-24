@@ -1,8 +1,8 @@
 {
-  "repo": "tabtin-ai/TabTin",
+  "repo": "josiah-nelson/eidos",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A workspace where people and multiple AI agents work together.",
-  "stars": 110,
-  "forks": 27
+  "language": "Rust",
+  "description": "Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
+  "stars": 164,
+  "forks": 0
 }
