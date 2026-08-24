@@ -1,8 +1,8 @@
 {
-  "repo": "kgoedecke/doop",
+  "repo": "tabtin-ai/TabTin",
   "branch": "main",
   "language": "TypeScript",
-  "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-  "stars": 260,
-  "forks": 23
+  "description": "A workspace where people and multiple AI agents work together.",
+  "stars": 132,
+  "forks": 35
 }

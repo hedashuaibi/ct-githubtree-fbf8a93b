@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cnitlrt/AutoTeam",
-    "branch": "dev",
-    "language": "Python",
-    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
-  },
-  {
-    "repo": "pinterest/ktlint",
+    "repo": "BurntSushi/xsv",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "An anti-bikeshedding Kotlin linter with built-in formatter"
+    "language": "Rust",
+    "description": "A fast CSV command line toolkit written in Rust."
   },
   {
-    "repo": "rubygems/rubygems",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Library packaging and distribution for Ruby."
-  },
-  {
-    "repo": "BoundingBoxSoftware/CharacterController",
+    "repo": "Soul-AILab/SoulX-Singer",
     "branch": "main",
-    "language": "C#",
-    "description": "A character controller for Unity that covers many edge cases."
+    "language": "Python",
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
   },
   {
-    "repo": "m1heng/clawdbot-feishu",
+    "repo": "codetrybe/polymarket-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "bron1e/fnos-rce-chain",
+    "repo": "yc-duan/fastctx",
     "branch": "main",
-    "language": "Python",
-    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
+    "language": "Rust",
+    "description": "Fast, context-efficient repository tools for AI agents (MCP)"
   },
   {
-    "repo": "YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "aaviasulin123-design/kms-pico-latest-m6",
-    "branch": "main",
-    "language": "C#",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
-  },
-  {
-    "repo": "rednote-hilab/dots.tts",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "CoderLuii/HolyClaude",
+    "repo": "FFmpeg/FFmpeg",
     "branch": "master",
-    "language": "Dockerfile",
-    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
+    "language": "C",
+    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
   },
   {
-    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "idawnlight/ShichiZip",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The 7-Zip derivative intended for macOS"
+  },
+  {
+    "repo": "pierceboggan/primer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
+    "description": "Get your repo ready for AI."
   },
   {
-    "repo": "mudler/parakeet.cpp",
-    "branch": "master",
+    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "superturtlee/gbl_root_canoe",
+    "branch": "main",
+    "language": "C",
+    "description": "凭什么ROOT就不给用指纹支付？？？"
+  },
+  {
+    "repo": "kapishdima/remocn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+  },
+  {
+    "repo": "joyehuang/Learn-Open-Harness",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
+  },
+  {
+    "repo": "AFahim02/House-Flipper-2-Multiplayer",
+    "branch": "main",
     "language": "C++",
-    "description": "Parakeet implementation in C++ with ggml"
+    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
   },
   {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "Semantic-Org/Semantic-UI",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Semantic is a UI component framework based around useful principles from natural language."
-  },
-  {
-    "repo": "bernardohcrocha/persistia-for-claude-code",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Give Claude Code the persistent memory it was missing and turn it into your operational co-pilot."
-  },
-  {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
-  },
-  {
-    "repo": "lightningnull/Discord_Auto-Reaction___Moderation_Bot",
+    "repo": "SimplifyJobs/Summer2025-Internships",
     "branch": "main",
     "language": "Python",
-    "description": "Automatically add reactions to messages and perform basic moderation (delete spam, warn users) on Discord servers."
+    "description": "Collection of Summer 2026 tech internships!"
   },
   {
-    "repo": "chef/chef",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
-  },
-  {
-    "repo": "OnlyTerp/UltraCode-Shim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
-  },
-  {
-    "repo": "Trade-of-Economics-in-Warsaw/market-sniping-trading-bot",
+    "repo": "drizzle-team/drizzle-orm",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "ORM"
   },
   {
-    "repo": "amanayayatu-tech/Alaya",
+    "repo": "omnimind-ai/OmniInfer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Cross-platform LLM inference framework for efficient edge deployment"
+  },
+  {
+    "repo": "htimesnine/DarkSword-RCE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DarkSword webkit exploit captured ITW"
+  },
+  {
+    "repo": "millionco/isolet",
     "branch": "main",
     "language": "TypeScript",
-    "description": "flow everything"
+    "description": "Package any component into a self-contained, isolated widget"
   },
   {
-    "repo": "beijingcao/binance-deribit-btc",
+    "repo": "atomicmemory/llm-wiki-compiler",
     "branch": "main",
-    "language": "Python",
-    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
+    "language": "TypeScript",
+    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
   },
   {
-    "repo": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
-    "branch": "main",
-    "language": "C#",
-    "description": "Security related proof of concepts"
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   },
   {
-    "repo": "large-performance-model/large-performance-model.github.io",
+    "repo": "S-Trespassing/claw-in-chrome",
     "branch": "main",
-    "language": "HTML",
-    "description": "LPM 1.0: Video-based Character Performance Model"
+    "language": "JavaScript",
+    "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!"
+  },
+  {
+    "repo": "Shpigford/clearly",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A clean, native markdown editor for macOS."
+  },
+  {
+    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+  },
+  {
+    "repo": "aspi6246/ClaudeCodeTools",
+    "branch": "main",
+    "language": "TeX",
+    "description": "My collection of Claude Code tools"
   }
 ]
