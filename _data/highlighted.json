@@ -1,8 +1,8 @@
 {
-  "repo": "josiah-nelson/eidos",
+  "repo": "kgoedecke/doop",
   "branch": "main",
-  "language": "Rust",
-  "description": "Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
-  "stars": 164,
-  "forks": 0
+  "language": "TypeScript",
+  "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+  "stars": 260,
+  "forks": 23
 }

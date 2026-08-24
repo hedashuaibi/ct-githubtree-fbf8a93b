@@ -1,146 +1,146 @@
 [
   {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
-  },
-  {
-    "repo": "gordonmurray/firnflow",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
-  },
-  {
-    "repo": "Syngnat/GoNavi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
-  },
-  {
-    "repo": "polkadot-js/apps",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
-  },
-  {
-    "repo": "ufira-ai/Vibma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
-  },
-  {
-    "repo": "my-claude-utils/clsh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Access your terminal and your AI agent from any device — phone, tablet, desktop."
-  },
-  {
-    "repo": "cporter202/openclaw-api-list",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
-  },
-  {
-    "repo": "composer/composer",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Dependency Manager for PHP"
-  },
-  {
-    "repo": "matteyeux/coruna",
-    "branch": "main",
+    "repo": "cnitlrt/AutoTeam",
+    "branch": "dev",
     "language": "Python",
-    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
+    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
   },
   {
-    "repo": "lailoo/butcher-wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
-  },
-  {
-    "repo": "scienceLabwork/Stable-Action",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
-  },
-  {
-    "repo": "primefaces/primevue",
+    "repo": "pinterest/ktlint",
     "branch": "master",
-    "language": "Vue",
-    "description": "Next Generation Vue UI Component Library"
+    "language": "Kotlin",
+    "description": "An anti-bikeshedding Kotlin linter with built-in formatter"
   },
   {
-    "repo": "jackwener/wechat-article-to-markdown",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
-  },
-  {
-    "repo": "Lightricks/LTX-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source desktop app for generating videos with LTX models"
-  },
-  {
-    "repo": "mantinedev/mantine",
+    "repo": "rubygems/rubygems",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A fully featured React components library"
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby."
   },
   {
-    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "repo": "BoundingBoxSoftware/CharacterController",
+    "branch": "main",
+    "language": "C#",
+    "description": "A character controller for Unity that covers many edge cases."
+  },
+  {
+    "repo": "m1heng/clawdbot-feishu",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
-  },
-  {
-    "repo": "react-native-async-storage/async-storage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An asynchronous, persistent, key-value storage system for React Native."
-  },
-  {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "langwatch/kanban-code",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "vercel-labs/openreview",
+    "repo": "bron1e/fnos-rce-chain",
+    "branch": "main",
+    "language": "Python",
+    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
+  },
+  {
+    "repo": "YousefMahdy1/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "aaviasulin123-design/kms-pico-latest-m6",
+    "branch": "main",
+    "language": "C#",
+    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
+  },
+  {
+    "repo": "rednote-hilab/dots.tts",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "CoderLuii/HolyClaude",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
+  },
+  {
+    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source, self-hosted AI code review bot powered by Vercel."
+    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
   },
   {
-    "repo": "hehehai/voxt",
+    "repo": "mudler/parakeet.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "Parakeet implementation in C++ with ggml"
+  },
+  {
+    "repo": "mgks/GitHubTree",
     "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "jackc/pgx",
+    "repo": "Semantic-Org/Semantic-UI",
     "branch": "master",
-    "language": "Go",
-    "description": "PostgreSQL driver and toolkit for Go"
+    "language": "JavaScript",
+    "description": "Semantic is a UI component framework based around useful principles from natural language."
   },
   {
-    "repo": "ytdl-org/youtube-dl",
-    "branch": "master",
-    "language": "Python",
-    "description": "Command-line program to download videos from YouTube.com and other video sites"
-  },
-  {
-    "repo": "theforeveriris/simulated-12306-view",
+    "repo": "bernardohcrocha/persistia-for-claude-code",
     "branch": "main",
     "language": "HTML",
-    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
+    "description": "Give Claude Code the persistent memory it was missing and turn it into your operational co-pilot."
+  },
+  {
+    "repo": "shadowsocks/shadowsocks-windows",
+    "branch": "master",
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
+  },
+  {
+    "repo": "lightningnull/Discord_Auto-Reaction___Moderation_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automatically add reactions to messages and perform basic moderation (delete spam, warn users) on Discord servers."
+  },
+  {
+    "repo": "chef/chef",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
+  },
+  {
+    "repo": "OnlyTerp/UltraCode-Shim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+  },
+  {
+    "repo": "Trade-of-Economics-in-Warsaw/market-sniping-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "amanayayatu-tech/Alaya",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "flow everything"
+  },
+  {
+    "repo": "beijingcao/binance-deribit-btc",
+    "branch": "main",
+    "language": "Python",
+    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
+  },
+  {
+    "repo": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "branch": "main",
+    "language": "C#",
+    "description": "Security related proof of concepts"
+  },
+  {
+    "repo": "large-performance-model/large-performance-model.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "LPM 1.0: Video-based Character Performance Model"
   }
 ]
