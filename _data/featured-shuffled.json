@@ -1,146 +1,146 @@
 [
   {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "repo": "johannesjo/parallel-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
   },
   {
-    "repo": "chartjs/Chart.js",
+    "repo": "jwangkun/hermes-agent-guide",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
+  },
+  {
+    "repo": "CodMughees/envradar",
+    "branch": "main",
+    "language": "Python",
+    "description": "Catch undocumented, unused, and drifting environment variables in your repo"
+  },
+  {
+    "repo": "JakeWharton/butterknife",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
+    "language": "Java",
+    "description": "Bind Android views and callbacks to fields and methods."
   },
   {
-    "repo": "vitest-dev/vitest",
+    "repo": "MasterAlanLab/Register",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation testing framework powered by Vite."
-  },
-  {
-    "repo": "baydarerhan/Sora-2-App-No-Watermark",
-    "branch": "main",
-    "language": "HTML",
-    "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool."
-  },
-  {
-    "repo": "xevrion-v2/agent-playground",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
+    "repo": "SL0ANE/TheMoldsmalPlugin",
+    "branch": "main",
+    "language": "Lua",
+    "description": "a plugin for boil effect for aseprite maybe"
+  },
+  {
+    "repo": "apache/kafka",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Mirror of Apache Kafka"
+  },
+  {
+    "repo": "skibidiskib/ai-codex",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+  },
+  {
+    "repo": "sooryathejas/METATRON",
     "branch": "main",
     "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
+    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
   },
   {
-    "repo": "zunmax/osnm-z",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea"
-  },
-  {
-    "repo": "jsongmax/oci-core",
-    "branch": "main",
+    "repo": "restic/restic",
+    "branch": "master",
     "language": "Go",
-    "description": "自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud"
+    "description": "Fast, secure, efficient backup program"
   },
   {
-    "repo": "Yaxin9Luo/AutoDesign",
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "repo": "emscripten-core/emscripten",
     "branch": "main",
-    "language": "Python",
-    "description": "The open-source design agent and harness, better than Claude Design on academic communication artifacts production. This DesignHarness can also be used with any coding harness you like ( Codex/Claude Code/Kimi Code/Pi/OpenCode etc..) and any agentic model you want."
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
   },
   {
-    "repo": "coding-parrot/pothole-reporter",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI pothole reporter for Bengaluru: on-device Android app that detects potholes, finds the responsible corporation officer and road contractor from public records, and drafts complaint emails you review and send."
-  },
-  {
-    "repo": "XIAZY/wcctl",
-    "branch": "main",
-    "language": "C",
-    "description": "wcctl is a command line tool to bridge the gap between WeChat and other tools"
-  },
-  {
-    "repo": "albertobeiz/kindergrimm",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Procedural doodle characters drawn as if by hand on cream paper — and Kindergrimm, the game they live in"
-  },
-  {
-    "repo": "joe960913/Jixu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI."
-  },
-  {
-    "repo": "xdreizein666/getcontact-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser."
-  },
-  {
-    "repo": "2023782whl/Mem-kb",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-Evolving Enterprise Knowledge Base"
-  },
-  {
-    "repo": "floflo777/open-crypto-puzzles",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unsolved crypto puzzles worth ~10 BTC, ~12 ETH and ~1,900 AR still on-chain: escrow addresses, author clues, and my research on each. A few solved, with payout proofs."
-  },
-  {
-    "repo": "ArchAstro/scopey",
+    "repo": "yologdev/yoyo-evolve",
     "branch": "main",
     "language": "Rust",
-    "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope"
+    "description": "A coding agent that evolves itself. One commit per day."
   },
   {
-    "repo": "dimmas893/monorepo-nest-next-starter",
+    "repo": "Anxcye/anx-reader",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Dart",
+    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
   },
   {
-    "repo": "mikehasa/agentacct",
+    "repo": "EleutherAI/gpt-neox",
     "branch": "main",
     "language": "Python",
-    "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard."
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
   },
   {
-    "repo": "SMNETSTUDIO/StarLive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "StarLive System - 星播系统"
-  },
-  {
-    "repo": "ARMSX2/ARMSX3",
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "bwya77/vscode-dark-islands",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "VSCode theme based off the new Jetbrains islands theme"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "branch": "v3.8",
     "language": "C++",
-    "description": "Proof of concept port of RPCS3 for Android"
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
   },
   {
-    "repo": "ruudkoeyvoets/polymarket-trading-bot-twap",
+    "repo": "google-research/vision_transformer",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Vision Transformer in JAX."
+  },
+  {
+    "repo": "Tencent/cherry-markdown",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "✨ A Markdown Editor"
   },
   {
-    "repo": "JasonSTong/codex-theme-studio",
+    "repo": "yangdongchao/UniAudio2",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS."
+    "language": "Python",
+    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
   },
   {
-    "repo": "Blaizzy/nativ",
+    "repo": "abi/screenshot-to-code",
     "branch": "main",
-    "language": "Swift",
-    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
+    "language": "Python",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+  },
+  {
+    "repo": "pypa/pipx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Install and Run Python Applications in Isolated Environments"
+  },
+  {
+    "repo": "mastodon/mastodon",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Your self-hosted, globally interconnected microblogging community"
   }
 ]

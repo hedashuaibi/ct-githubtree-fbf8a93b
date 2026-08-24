@@ -1,8 +1,8 @@
 {
-  "repo": "standardagents/ssh-clipboard",
+  "repo": "tabtin-ai/TabTin",
   "branch": "main",
-  "language": "Rust",
-  "description": "Native encrypted clipboard sync over SSH for macOS and Linux",
-  "stars": 124,
-  "forks": 4
+  "language": "TypeScript",
+  "description": "A workspace where people and multiple AI agents work together.",
+  "stars": 110,
+  "forks": 27
 }
