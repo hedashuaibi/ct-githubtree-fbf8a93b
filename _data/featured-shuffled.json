@@ -1,39 +1,9 @@
 [
   {
-    "repo": "BurntSushi/xsv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A fast CSV command line toolkit written in Rust."
-  },
-  {
-    "repo": "Soul-AILab/SoulX-Singer",
+    "repo": "bonhs1983/Peace-Equalizer-Apo",
     "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
-  },
-  {
-    "repo": "codetrybe/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "yc-duan/fastctx",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, context-efficient repository tools for AI agents (MCP)"
-  },
-  {
-    "repo": "FFmpeg/FFmpeg",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
-  },
-  {
-    "repo": "alpinejs/alpine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+    "language": "C#",
+    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
   },
   {
     "repo": "idawnlight/ShichiZip",
@@ -42,105 +12,135 @@
     "description": "The 7-Zip derivative intended for macOS"
   },
   {
-    "repo": "pierceboggan/primer",
+    "repo": "uditgoenka/autoresearch",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+  },
+  {
+    "repo": "angular/components",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Get your repo ready for AI."
+    "description": "Component infrastructure and Material Design components for Angular"
   },
   {
-    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "superturtlee/gbl_root_canoe",
-    "branch": "main",
+    "repo": "sqlite/sqlite",
+    "branch": "master",
     "language": "C",
-    "description": "凭什么ROOT就不给用指纹支付？？？"
+    "description": "Official Git mirror of the SQLite source tree"
   },
   {
-    "repo": "kapishdima/remocn",
+    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "joyehuang/Learn-Open-Harness",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
-  },
-  {
-    "repo": "AFahim02/House-Flipper-2-Multiplayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
-  },
-  {
-    "repo": "SimplifyJobs/Summer2025-Internships",
-    "branch": "main",
-    "language": "Python",
-    "description": "Collection of Summer 2026 tech internships!"
-  },
-  {
-    "repo": "drizzle-team/drizzle-orm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ORM"
-  },
-  {
-    "repo": "omnimind-ai/OmniInfer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cross-platform LLM inference framework for efficient edge deployment"
-  },
-  {
-    "repo": "htimesnine/DarkSword-RCE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
-  },
-  {
-    "repo": "millionco/isolet",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Package any component into a self-contained, isolated widget"
-  },
-  {
-    "repo": "atomicmemory/llm-wiki-compiler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
-  },
-  {
-    "repo": "ziadoz/awesome-php",
+    "repo": "gvisor/gvisor",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+    "description": "Application Kernel for Containers."
   },
   {
-    "repo": "S-Trespassing/claw-in-chrome",
+    "repo": "beita6969/claude-code",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!"
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
   },
   {
-    "repo": "Shpigford/clearly",
+    "repo": "scalessec/Toast-Swift",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A Swift extension that adds toast notifications to the UIView object class."
+  },
+  {
+    "repo": "LeoYeAI/openclaw-auto-dream",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "infraform/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "google-gemini/generative-ai-swift",
     "branch": "main",
     "language": "Swift",
-    "description": "A clean, native markdown editor for macOS."
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
   },
   {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "repo": "huggingface/hf-agents",
     "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+    "language": "Shell",
+    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
   },
   {
-    "repo": "aspi6246/ClaudeCodeTools",
+    "repo": "lance0/xfr",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
+  },
+  {
+    "repo": "openai/triton",
     "branch": "main",
-    "language": "TeX",
-    "description": "My collection of Claude Code tools"
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "lbjlaq/Antigravity-Tools-LS",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE."
+  },
+  {
+    "repo": "Quick/Nimble",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+  },
+  {
+    "repo": "rq/rq",
+    "branch": "master",
+    "language": "Python",
+    "description": "Simple job queues for Python"
+  },
+  {
+    "repo": "hammerjs/hammer.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
+  },
+  {
+    "repo": "onevcat/Kingfisher",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
+  },
+  {
+    "repo": "joeseesun/markdown-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+  },
+  {
+    "repo": "Timeverse/My-TW-Coverage",
+    "branch": "master",
+    "language": "Python",
+    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
+  },
+  {
+    "repo": "apechurch/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymar"
   }
 ]
