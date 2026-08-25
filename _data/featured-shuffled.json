@@ -1,146 +1,146 @@
 [
   {
-    "repo": "figure-markets/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
-  },
-  {
-    "repo": "blacksiders/SkillPointer",
+    "repo": "jmmy9609-design/gpt-pp",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "liuxiaopai-ai/ralph-desktop",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
-  },
-  {
-    "repo": "emotion-js/emotion",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
-  },
-  {
-    "repo": "vercel/pkg",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Package your Node.js project into an executable"
-  },
-  {
-    "repo": "pmndrs/zustand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "johnmai-dev/ANE-LM",
-    "branch": "main",
-    "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
-  },
-  {
-    "repo": "psf/black",
-    "branch": "main",
-    "language": "Python",
-    "description": "The uncompromising Python code formatter"
-  },
-  {
-    "repo": "dogadmin/ProcIR",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "raspberrypi/documentation",
+    "repo": "rancher/rancher",
     "branch": "master",
-    "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
-  },
-  {
-    "repo": "hang-in/seCall",
-    "branch": "main",
-    "language": "Rust",
-    "description": "recall your second brain"
-  },
-  {
-    "repo": "aquasecurity/trivy",
-    "branch": "main",
     "language": "Go",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    "description": "Complete container management platform"
   },
   {
-    "repo": "microsoft/TypeScript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
-  },
-  {
-    "repo": "maderix/ANE",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
-  },
-  {
-    "repo": "ufira-ai/Vibma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
-  },
-  {
-    "repo": "sharkdp/hyperfine",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A command-line benchmarking tool"
-  },
-  {
-    "repo": "TriangleMagistrate/DeepSeek-Claw",
+    "repo": "NikkeTryHard/zerogravity",
     "branch": "main",
     "language": "Shell",
+    "description": "OpenAI, Anthropic, and Gemini-compatible proxy"
+  },
+  {
+    "repo": "xiaotianfotos/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "视频中分享的方法论代码参考"
+  },
+  {
+    "repo": "MichMich/MagicMirror",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+  },
+  {
+    "repo": "vigorX777/product-design-system",
+    "branch": "main",
+    "language": "HTML",
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+  },
+  {
+    "repo": "liyown/marknative",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM."
+  },
+  {
+    "repo": "lightningpixel/modly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+  },
+  {
+    "repo": "trailofbits/CoBRA",
+    "branch": "master",
+    "language": "C++",
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+  },
+  {
+    "repo": "Fixie-ai/Ultravox",
+    "branch": "main",
+    "language": "Python",
+    "description": "A fast multimodal LLM for real-time voice"
+  },
+  {
+    "repo": "distribution/distribution",
+    "branch": "main",
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content"
+  },
+  {
+    "repo": "bigcode-project/starcoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Home of StarCoder: fine-tuning & inference!"
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "branch": "master",
+    "language": "Python",
+    "description": "Graph Neural Network Library for PyTorch"
+  },
+  {
+    "repo": "GammaLabTechnologies/harmonist",
+    "branch": "main",
+    "language": "Python",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+  },
+  {
+    "repo": "yzhao062/anywhere-agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
+  },
+  {
+    "repo": "DadsMmoLab/dads-mmo-lab",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
+  },
+  {
+    "repo": "earendil-works/gondolin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
+  },
+  {
+    "repo": "CompVis/stable-diffusion",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A latent text-to-image diffusion model"
+  },
+  {
+    "repo": "EleutherAI/gpt-neox",
+    "branch": "main",
+    "language": "Python",
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+  },
+  {
+    "repo": "JubaKitiashvili/expo-pretext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
+  },
+  {
+    "repo": "Henrygd/Beszel",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+  },
+  {
+    "repo": "sean-brydon/devl.dev",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "google/material-design-icons",
-    "branch": "master",
-    "language": "Other",
-    "description": "Material Design icons by Google (Material Symbols)"
-  },
-  {
-    "repo": "Mouseww/anything-analyzer",
+    "repo": "MartinGalway/C64_music",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
-  },
-  {
-    "repo": "skottrun/extrateto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
-  },
-  {
-    "repo": "hashicorp/vault",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
-  },
-  {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "microsoft/fast",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The adaptive interface system for modern web experiences."
+    "language": "Assembly",
+    "description": "Music source files from 1980's Commodore 64 games"
   }
 ]
