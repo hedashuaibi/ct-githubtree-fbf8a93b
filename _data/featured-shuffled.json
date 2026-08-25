@@ -1,129 +1,117 @@
 [
   {
-    "repo": "bonhs1983/Peace-Equalizer-Apo",
+    "repo": "beijingcao/binance-deribit-btc",
     "branch": "main",
-    "language": "C#",
-    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
+    "language": "Python",
+    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
   },
   {
-    "repo": "idawnlight/ShichiZip",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The 7-Zip derivative intended for macOS"
-  },
-  {
-    "repo": "uditgoenka/autoresearch",
+    "repo": "ehang-io/nps",
     "branch": "master",
-    "language": "Shell",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+    "language": "Go",
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
   },
   {
-    "repo": "angular/components",
+    "repo": "win4r/lossless-claw-enhanced",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Component infrastructure and Material Design components for Angular"
+    "description": "Fork of Martian-Engineering/lossless-claw with CJK-aware token estimation"
   },
   {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
-  },
-  {
-    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
+    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
     "branch": "main",
-    "language": "Rust",
+    "language": "Markdown",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+  },
+  {
+    "repo": "wong2/weixin-agent-sdk",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "gvisor/gvisor",
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "apache/superset",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  },
+  {
+    "repo": "ByteDance-Seed/Seed-Thinking-v1.5",
+    "branch": "main",
     "language": "Other",
-    "description": "Application Kernel for Containers."
+    "description": "Seed-Thinking-v1.5 Model Release."
   },
   {
-    "repo": "beita6969/claude-code",
+    "repo": "tektoncd/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
+  },
+  {
+    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
+  },
+  {
+    "repo": "maria-rcks/t1code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+    "description": "T3Code, but in your terminal"
   },
   {
-    "repo": "scalessec/Toast-Swift",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A Swift extension that adds toast notifications to the UIView object class."
-  },
-  {
-    "repo": "LeoYeAI/openclaw-auto-dream",
+    "repo": "apple/swift-log",
     "branch": "main",
-    "language": "HTML",
-    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+    "language": "Swift",
+    "description": "A Logging API for Swift"
   },
   {
-    "repo": "infraform/polymarket-copy-trading-bot",
+    "repo": "git/git",
+    "branch": "master",
+    "language": "C",
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
+  },
+  {
+    "repo": "mitkox/vllm-turboquant",
+    "branch": "main",
+    "language": "Python",
+    "description": "vLLM 0.18.1rc1 with TurboQuant"
+  },
+  {
+    "repo": "first-fluke/oh-my-ag",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
   },
   {
-    "repo": "google-gemini/generative-ai-swift",
+    "repo": "vercel-labs/emulate",
     "branch": "main",
-    "language": "Swift",
-    "description": "This SDK is now deprecated, use the unified Firebase SDK."
+    "language": "TypeScript",
+    "description": "Local API emulation for CI and no-network sandboxes"
   },
   {
-    "repo": "huggingface/hf-agents",
-    "branch": "main",
-    "language": "Shell",
-    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
-  },
-  {
-    "repo": "lance0/xfr",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "lbjlaq/Antigravity-Tools-LS",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE."
-  },
-  {
-    "repo": "Quick/Nimble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleOCR",
+    "repo": "virattt/ai-hedge-fund",
     "branch": "main",
     "language": "Python",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+    "description": "An AI Hedge Fund Team"
   },
   {
-    "repo": "rq/rq",
+    "repo": "ethereumjs/ethereumjs-monorepo",
     "branch": "master",
-    "language": "Python",
-    "description": "Simple job queues for Python"
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
   },
   {
-    "repo": "hammerjs/hammer.js",
-    "branch": "master",
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
-  },
-  {
-    "repo": "onevcat/Kingfisher",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
   },
   {
     "repo": "joeseesun/markdown-proxy",
@@ -132,15 +120,27 @@
     "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
   },
   {
-    "repo": "Timeverse/My-TW-Coverage",
-    "branch": "master",
-    "language": "Python",
-    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
   },
   {
-    "repo": "apechurch/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymar"
+    "repo": "ytdl-org/youtube-dl",
+    "branch": "master",
+    "language": "Python",
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
+  },
+  {
+    "repo": "tilt-dev/tilt",
+    "branch": "master",
+    "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "branch": "master",
+    "language": "Go",
+    "description": "Automatically provision and manage TLS certificates in Kubernetes"
   }
 ]
