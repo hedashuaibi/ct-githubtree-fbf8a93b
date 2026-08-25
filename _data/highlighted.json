@@ -1,8 +1,8 @@
 {
-  "repo": "lxf746/outlook-auto-register",
+  "repo": "zhengzihaoPKU/KERV",
   "branch": "master",
   "language": "Python",
-  "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
-  "stars": 164,
-  "forks": 94
+  "description": "Code of paper \"KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models\" accepted by DAC 2026.",
+  "stars": 113,
+  "forks": 2
 }

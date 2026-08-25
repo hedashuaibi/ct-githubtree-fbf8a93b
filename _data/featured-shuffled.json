@@ -1,146 +1,146 @@
 [
   {
-    "repo": "beijingcao/binance-deribit-btc",
+    "repo": "figure-markets/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
+  },
+  {
+    "repo": "blacksiders/SkillPointer",
     "branch": "main",
     "language": "Python",
-    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
-  },
-  {
-    "repo": "ehang-io/nps",
-    "branch": "master",
-    "language": "Go",
-    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
-  },
-  {
-    "repo": "win4r/lossless-claw-enhanced",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fork of Martian-Engineering/lossless-claw with CJK-aware token estimation"
-  },
-  {
-    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
-  },
-  {
-    "repo": "wong2/weixin-agent-sdk",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "liuxiaopai-ai/ralph-desktop",
     "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
+    "language": "Rust",
+    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
   },
   {
-    "repo": "apache/superset",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
-  },
-  {
-    "repo": "ByteDance-Seed/Seed-Thinking-v1.5",
-    "branch": "main",
-    "language": "Other",
-    "description": "Seed-Thinking-v1.5 Model Release."
-  },
-  {
-    "repo": "tektoncd/cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
-  },
-  {
-    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
-  },
-  {
-    "repo": "maria-rcks/t1code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "T3Code, but in your terminal"
-  },
-  {
-    "repo": "apple/swift-log",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Logging API for Swift"
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "mitkox/vllm-turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "vLLM 0.18.1rc1 with TurboQuant"
-  },
-  {
-    "repo": "first-fluke/oh-my-ag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
-  },
-  {
-    "repo": "vercel-labs/emulate",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local API emulation for CI and no-network sandboxes"
-  },
-  {
-    "repo": "virattt/ai-hedge-fund",
-    "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
-  },
-  {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "SethGammon/Citadel",
+    "repo": "emotion-js/emotion",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
   },
   {
-    "repo": "joeseesun/markdown-proxy",
+    "repo": "vercel/pkg",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Package your Node.js project into an executable"
+  },
+  {
+    "repo": "pmndrs/zustand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐻 Bear necessities for state management in React"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "johnmai-dev/ANE-LM",
+    "branch": "main",
+    "language": "C++",
+    "description": "LLM inference on Apple Neural Engine (ANE)"
+  },
+  {
+    "repo": "psf/black",
     "branch": "main",
     "language": "Python",
-    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+    "description": "The uncompromising Python code formatter"
   },
   {
-    "repo": "hashicorp/vagrant",
+    "repo": "dogadmin/ProcIR",
     "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "ytdl-org/youtube-dl",
+    "repo": "raspberrypi/documentation",
     "branch": "master",
     "language": "Python",
-    "description": "Command-line program to download videos from YouTube.com and other video sites"
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
   },
   {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+    "repo": "hang-in/seCall",
+    "branch": "main",
+    "language": "Rust",
+    "description": "recall your second brain"
   },
   {
-    "repo": "cert-manager/cert-manager",
+    "repo": "aquasecurity/trivy",
+    "branch": "main",
+    "language": "Go",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "maderix/ANE",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+  },
+  {
+    "repo": "ufira-ai/Vibma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
+  },
+  {
+    "repo": "sharkdp/hyperfine",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A command-line benchmarking tool"
+  },
+  {
+    "repo": "TriangleMagistrate/DeepSeek-Claw",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "google/material-design-icons",
+    "branch": "master",
+    "language": "Other",
+    "description": "Material Design icons by Google (Material Symbols)"
+  },
+  {
+    "repo": "Mouseww/anything-analyzer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
+  },
+  {
+    "repo": "skottrun/extrateto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
     "branch": "master",
     "language": "Go",
-    "description": "Automatically provision and manage TLS certificates in Kubernetes"
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+  },
+  {
+    "repo": "microsoft/fast",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The adaptive interface system for modern web experiences."
   }
 ]
