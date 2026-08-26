@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Samin100/codex-ios-assistant",
-    "branch": "main",
-    "language": "Python",
-    "description": "Control and inspect an iPhone from Codex through iMessage and Shortcuts"
-  },
-  {
-    "repo": "ibelick/mesurer",
+    "repo": "corespeed-io/wechatbot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
   },
   {
-    "repo": "sebastianvkl/pizero-openclaw",
+    "repo": "Unicornronote/Microsoft-Office-Activated",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "C++",
+    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
   },
   {
-    "repo": "dev-protocol/polymarket-trading-bot-new",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
-  },
-  {
-    "repo": "xyzthiago/claude-flows",
+    "repo": "hamelsmu/claude-review-loop",
     "branch": "main",
     "language": "Shell",
-    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks."
+    "description": "Claude Code plugin: automated code review loop with Codex"
   },
   {
-    "repo": "khalildh/garment-notation",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "yeuxuan/openclaw-docs",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "openclaw 剖析、拆解、教程在线文档"
-  },
-  {
-    "repo": "jyoung105/frouter",
+    "repo": "freeCodeCamp/freeCodeCamp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
   },
   {
-    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
+    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
     "branch": "main",
-    "language": "Python",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "language": "TypeScript",
+    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
   },
   {
-    "repo": "qlabs-eng/slowrun",
+    "repo": "cloudcommunity/Free-Certifications",
     "branch": "main",
-    "language": "Python",
-    "description": "100M tokens, no time limit, best val loss wins!"
+    "language": "Other",
+    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
   },
   {
-    "repo": "acedef/SynthAPT",
+    "repo": "microsoft/DeepSpeed",
+    "branch": "master",
+    "language": "Python",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+  },
+  {
+    "repo": "earendil-works/gondolin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
+  },
+  {
+    "repo": "serde-rs/serde",
     "branch": "master",
     "language": "Rust",
-    "description": "Generate malware with AI"
+    "description": "Serialization framework for Rust"
   },
   {
-    "repo": "RightNow-AI/picolm",
-    "branch": "main",
-    "language": "C",
-    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
-  },
-  {
-    "repo": "Polymarket/polymarket-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "PatrikFehrenbach/h1-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
-  },
-  {
-    "repo": "Perkins729/OmniXtreme",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "GreatScott/enveil",
-    "branch": "main",
-    "language": "Rust",
-    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "theforeveriris/simulated-12306-view",
-    "branch": "main",
-    "language": "HTML",
-    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
-  },
-  {
-    "repo": "DaveMoudy/SalesforceDocGen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "PIPIKAI/auto-painter-win",
-    "branch": "main",
-    "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
-  },
-  {
-    "repo": "michelleoincx/Bunkr-Downloader-Python",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Xuanwo/xurl",
-    "branch": "main",
-    "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
-  },
-  {
-    "repo": "guidelabs/steerling",
-    "branch": "main",
-    "language": "Python",
-    "description": "Interpretable Causal Diffusion Language Models"
-  },
-  {
-    "repo": "Gentleman-Programming/engram",
+    "repo": "docker/compose",
     "branch": "main",
     "language": "Go",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
+    "description": "Define and run multi-container applications with Docker"
   },
   {
-    "repo": "Panniantong/Agent-Reach",
+    "repo": "paramiko/paramiko",
+    "branch": "main",
+    "language": "Python",
+    "description": "The leading native Python SSHv2 protocol library."
+  },
+  {
+    "repo": "libtv-labs/libtv-skills",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "0xsouravm/oxichrome",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+  },
+  {
+    "repo": "privacyguides/privacyguides.org",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Protect your data against global mass surveillance programs."
+  },
+  {
+    "repo": "blender/blender",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official mirror of Blender"
+  },
+  {
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+  },
+  {
+    "repo": "grapeot/context-infrastructure",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reference implementation: a context infrastructure system for pulling LLM out of consensus"
+  },
+  {
+    "repo": "zats/permiso",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+  },
+  {
+    "repo": "ForLoopCodes/contextplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": "Main repository for Datadog Agent"
+  },
+  {
+    "repo": "herrbischoff/awesome-macos-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
   }
 ]
