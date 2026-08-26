@@ -1,146 +1,146 @@
 [
   {
-    "repo": "corespeed-io/wechatbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
-  },
-  {
-    "repo": "Unicornronote/Microsoft-Office-Activated",
-    "branch": "main",
-    "language": "C++",
-    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
-  },
-  {
-    "repo": "hamelsmu/claude-review-loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-  },
-  {
-    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
-  },
-  {
-    "repo": "cloudcommunity/Free-Certifications",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
-  },
-  {
-    "repo": "microsoft/DeepSpeed",
-    "branch": "master",
-    "language": "Python",
-    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
-  },
-  {
-    "repo": "earendil-works/gondolin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
-  },
-  {
-    "repo": "serde-rs/serde",
-    "branch": "master",
+    "repo": "bottlerocket-os/bottlerocket",
+    "branch": "develop",
     "language": "Rust",
-    "description": "Serialization framework for Rust"
+    "description": "An operating system designed for hosting containers"
   },
   {
-    "repo": "docker/compose",
-    "branch": "main",
+    "repo": "prometheus/node_exporter",
+    "branch": "master",
     "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
+    "description": "Exporter for machine metrics"
   },
   {
-    "repo": "paramiko/paramiko",
+    "repo": "Tencent-Hunyuan/UniRL",
     "branch": "main",
     "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
   },
   {
-    "repo": "libtv-labs/libtv-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "privacyguides/privacyguides.org",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Protect your data against global mass surveillance programs."
-  },
-  {
-    "repo": "blender/blender",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official mirror of Blender"
-  },
-  {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "grapeot/context-infrastructure",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reference implementation: a context infrastructure system for pulling LLM out of consensus"
-  },
-  {
-    "repo": "zats/permiso",
+    "repo": "ChrisMack32/Locus",
     "branch": "main",
     "language": "Swift",
-    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+    "description": "Free open-source iPhone location teleport (MIT)"
   },
   {
-    "repo": "ForLoopCodes/contextplus",
+    "repo": "playPlumtown/Plumtown",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser."
+  },
+  {
+    "repo": "ValeriaVoronin11/Exodus-Fake-Balance",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering"
+  },
+  {
+    "repo": "frtghyujkiolsas-lab/ai-sdd",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+    "description": "AI-SDD spec-driven MVP demo: from idea, PRD and prototype to frontend-backend integration, testing and delivery."
   },
   {
-    "repo": "DataDog/datadog-agent",
+    "repo": "jiaoyanming0-bot/OPAutoClicker",
     "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
+    "language": "C#",
+    "description": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable."
   },
   {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
+    "repo": "devdriveLLM/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
   },
   {
-    "repo": "alaeelhariri/iut-db-final-project",
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
+  },
+  {
+    "repo": "Fahim-SS/lsfg-git",
+    "branch": "main",
+    "language": "C++",
+    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
+  },
+  {
+    "repo": "iart-ai/motion-skills",
     "branch": "master",
+    "language": "HTML",
+    "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent."
+  },
+  {
+    "repo": "BuilderIO/skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Skills for coding agents"
+  },
+  {
+    "repo": "PredictiveFlow-Labs/polymarket-btc-5min-15min-up-down-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "ytnrvdf/wha-spell-simulator",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
+  },
+  {
+    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
+  },
+  {
+    "repo": "Leonxlnx/lumenshaders",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
+  },
+  {
+    "repo": "ksimback/looper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
+  },
+  {
+    "repo": "cclank/cell-architecture-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Interactive 3D cell architecture gallery built with React and Three.js"
+  },
+  {
+    "repo": "Gach0ng/AgentStalker",
+    "branch": "main",
+    "language": "Python",
+    "description": "A standardized agent vulnerability benchmark, formal taint tracking proofs, and a cross-language unified AST model, integrating code auditing with sandbox reproduction into an all-in-one agent security approach.  一个标准化的 Agent 漏洞基准、形式化的污点追踪证明与跨语言的统一 AST 模型，集成代码审计到沙箱复现一体化的智能体安全范式。"
+  },
+  {
+    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
+  },
+  {
+    "repo": "kouhxp/yapsnap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
+  },
+  {
+    "repo": "Tong89/smartNode",
+    "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "A browser automation framework and ecosystem."
+    "repo": "hossein8360/cdn-ip-finder",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CDN IP finder for ShirOKhorshid domain fronting"
   }
 ]

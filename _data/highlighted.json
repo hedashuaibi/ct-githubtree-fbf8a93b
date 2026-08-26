@@ -1,8 +1,8 @@
 {
-  "repo": "alexzhang13/spec-ptc",
+  "repo": "halofyai/halofy",
   "branch": "main",
-  "language": "Python",
-  "description": "Speculative programmatic tool calling (sPTC) for harnesses like RLM, CodeAct, etc.",
-  "stars": 135,
-  "forks": 11
+  "language": "TypeScript",
+  "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+  "stars": 347,
+  "forks": 4
 }
