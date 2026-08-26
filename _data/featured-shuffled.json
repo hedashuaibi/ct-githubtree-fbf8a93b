@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jmmy9609-design/gpt-pp",
+    "repo": "PercolatorFinance/ProwlFinance",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Private rails for the agentic economy on Solana. 🐺 Stealth addresses + x402 payments for AI agents."
   },
   {
-    "repo": "rancher/rancher",
+    "repo": "bitwarden/clients",
     "branch": "master",
-    "language": "Go",
-    "description": "Complete container management platform"
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
   },
   {
-    "repo": "NikkeTryHard/zerogravity",
+    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
     "branch": "main",
     "language": "Shell",
-    "description": "OpenAI, Anthropic, and Gemini-compatible proxy"
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
   },
   {
-    "repo": "xiaotianfotos/skills",
+    "repo": "pithings/coderaft",
     "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
+    "language": "JavaScript",
+    "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)"
   },
   {
-    "repo": "MichMich/MagicMirror",
+    "repo": "QLHazyCoder/codex-oauth-automation-extension",
     "branch": "master",
     "language": "JavaScript",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
   },
   {
-    "repo": "vigorX777/product-design-system",
+    "repo": "zju3dv/Scal3R",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
+  },
+  {
+    "repo": "serenakeyitan/sbti-wiki",
     "branch": "main",
     "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev"
   },
   {
-    "repo": "xyzeva/k-id-age-verifier",
+    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "liyown/marknative",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM."
-  },
-  {
-    "repo": "lightningpixel/modly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
-  },
-  {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
     "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
   },
   {
-    "repo": "Fixie-ai/Ultravox",
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
+  },
+  {
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
+  },
+  {
+    "repo": "yanhua1010/zero-to-ai-fullstack",
     "branch": "main",
     "language": "Python",
-    "description": "A fast multimodal LLM for real-time voice"
+    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
   },
   {
-    "repo": "distribution/distribution",
+    "repo": "vakovalskii/codedash",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "branch": "main",
+    "language": "Rust",
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
+  },
+  {
+    "repo": "rs/zerolog",
+    "branch": "master",
     "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
+    "description": "Zero Allocation JSON Logger"
   },
   {
-    "repo": "bigcode-project/starcoder",
+    "repo": "orchetron/storm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
+  },
+  {
+    "repo": "incursi0n/GodPotatoBOF",
+    "branch": "main",
+    "language": "C",
+    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
+  },
+  {
+    "repo": "swarmclawai/swarmvault",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Inspired by Karpathy's LLM Wiki. Local-first LLM knowledge base compiler (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and search index that compound over time."
+  },
+  {
+    "repo": "Robbyant/lingbot-map",
     "branch": "main",
     "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
   },
   {
-    "repo": "pyg-team/pytorch_geometric",
+    "repo": "Janlaywss/hu-chenfeng-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "户晨风Skill"
+  },
+  {
+    "repo": "openlibrecommunity/olcrtc",
     "branch": "master",
     "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
+    "description": "olc - using side channels to access web outside the whitelist"
   },
   {
-    "repo": "GammaLabTechnologies/harmonist",
-    "branch": "main",
-    "language": "Python",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
-  },
-  {
-    "repo": "yzhao062/anywhere-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
-  },
-  {
-    "repo": "DadsMmoLab/dads-mmo-lab",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
-  },
-  {
-    "repo": "earendil-works/gondolin",
-    "branch": "main",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Experimental Linux microvm setup with a TypeScript Control Plane"
+    "description": "The repository for high quality TypeScript type definitions."
   },
   {
-    "repo": "CompVis/stable-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A latent text-to-image diffusion model"
-  },
-  {
-    "repo": "EleutherAI/gpt-neox",
+    "repo": "weareaisle/nano-analyzer",
     "branch": "main",
     "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+    "description": "A minimal LLM-powered zero-day vulnerability scanner by AISLE."
   },
   {
-    "repo": "JubaKitiashvili/expo-pretext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
-  },
-  {
-    "repo": "Henrygd/Beszel",
-    "branch": "main",
+    "repo": "karpathy/KarpathyTalk",
+    "branch": "master",
     "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+    "description": "A positive developer community for builders and agents."
   },
   {
-    "repo": "sean-brydon/devl.dev",
+    "repo": "nuxt/nuxt",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "MartinGalway/C64_music",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Music source files from 1980's Commodore 64 games"
+    "description": "The Full-Stack Vue Framework."
   }
 ]
