@@ -1,146 +1,146 @@
 [
   {
-    "repo": "GuDaStudio/commands",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "redteamfortress/PhantomKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
-  },
-  {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "repo": "l0ng-ai/papr",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "A fast, native RSS reader for the desktop."
   },
   {
-    "repo": "FireRedTeam/FireRedASR2S",
+    "repo": "github/copilot-docs",
+    "branch": "main",
+    "language": "Other",
+    "description": "Documentation for GitHub Copilot"
+  },
+  {
+    "repo": "virattt/ai-hedge-fund",
     "branch": "main",
     "language": "Python",
-    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
+    "description": "An AI Hedge Fund Team"
   },
   {
-    "repo": "webpack/webpack",
+    "repo": "nagisanzenin/skyclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+  },
+  {
+    "repo": "square/picasso",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A powerful image downloading and caching library for Android"
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "neovim/neovim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
+  },
+  {
+    "repo": "chartjs/Chart.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple HTML5 Charts using the <canvas> tag"
+  },
+  {
+    "repo": "dapr/dapr",
+    "branch": "master",
+    "language": "Go",
+    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+  },
+  {
+    "repo": "cporter202/openclaw-api-list",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+    "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
   },
   {
-    "repo": "cnitlrt/AutoTeam",
-    "branch": "dev",
-    "language": "Python",
-    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
-  },
-  {
-    "repo": "anthropics/financial-services-plugins",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "better-auth/better-hub",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
-  },
-  {
-    "repo": "T3-Content/quipslop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ogham/exa",
+    "repo": "public-apis/public-apis",
     "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "babel/babel-preset-env",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PSA: this repo has been moved into babel/babel -->"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
     "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
   },
   {
-    "repo": "signalapp/Signal-Android",
-    "branch": "main",
+    "repo": "reduxjs/redux-thunk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Thunk middleware for Redux"
+  },
+  {
+    "repo": "Kotlin/kotlinx.serialization",
+    "branch": "master",
     "language": "Kotlin",
-    "description": "A private messenger for Android."
+    "description": "Kotlin multiplatform / multi-format serialization"
   },
   {
-    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
-    "branch": "main",
+    "repo": "innoqiu/newsieai",
+    "branch": "master",
     "language": "Python",
-    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
-  },
-  {
-    "repo": "apkclaw-team/ApkClaw",
-    "branch": "main",
-    "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "uditgoenka/autoresearch",
-    "branch": "master",
+    "repo": "langwatch/kanban-code",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
+  },
+  {
+    "repo": "Heartflabrace/Doubao-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "ochyai/open-japan-politech-platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
+  },
+  {
+    "repo": "Euro-Office/DocumentServer",
+    "branch": "main",
     "language": "Shell",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+    "description": ""
   },
   {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
-  },
-  {
-    "repo": "rust-lang/rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
-  },
-  {
-    "repo": "styled-components/styled-components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
-  },
-  {
-    "repo": "python-poetry/poetry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Python packaging and dependency management made easy"
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "WeianMao/triattention",
+    "repo": "dreddnafious/thereisnospoon",
     "branch": "main",
     "language": "Python",
-    "description": "TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs."
+    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
   },
   {
-    "repo": "sanic-org/sanic",
+    "repo": "react-native-camera/react-native-camera",
+    "branch": "master",
+    "language": "Java",
+    "description": "A Camera component for React Native. Also supports barcode scanning!"
+  },
+  {
+    "repo": "containerd/containerd",
     "branch": "main",
-    "language": "Python",
-    "description": "Accelerate your web app development  | Build fast. Run fast."
-  },
-  {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
-  },
-  {
-    "repo": "hilash/cabinet",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-first knowledge base and startup OS"
+    "language": "Go",
+    "description": "An open and reliable container runtime"
   }
 ]

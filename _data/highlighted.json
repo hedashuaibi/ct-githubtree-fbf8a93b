@@ -1,8 +1,8 @@
 {
-  "repo": "benja/ask",
+  "repo": "zunmax/technocore-did-starter",
   "branch": "main",
-  "language": "Rust",
-  "description": "Ask, then do. Follow up when you need to.",
-  "stars": 104,
-  "forks": 3
+  "language": "Python",
+  "description": "Simple tutorial for creating an encrypted Ed25519 DID, publishing signed Technocore messages, and documenting useful contributions for potential $FLOP airdrop",
+  "stars": 109,
+  "forks": 99
 }
