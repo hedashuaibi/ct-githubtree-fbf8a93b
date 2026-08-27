@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bottlerocket-os/bottlerocket",
-    "branch": "develop",
-    "language": "Rust",
-    "description": "An operating system designed for hosting containers"
-  },
-  {
-    "repo": "prometheus/node_exporter",
-    "branch": "master",
-    "language": "Go",
-    "description": "Exporter for machine metrics"
-  },
-  {
-    "repo": "Tencent-Hunyuan/UniRL",
+    "repo": "GuDaStudio/commands",
     "branch": "main",
-    "language": "Python",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+    "language": "PowerShell",
+    "description": ""
   },
   {
-    "repo": "ChrisMack32/Locus",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Free open-source iPhone location teleport (MIT)"
-  },
-  {
-    "repo": "playPlumtown/Plumtown",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser."
-  },
-  {
-    "repo": "ValeriaVoronin11/Exodus-Fake-Balance",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering"
-  },
-  {
-    "repo": "frtghyujkiolsas-lab/ai-sdd",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-SDD spec-driven MVP demo: from idea, PRD and prototype to frontend-backend integration, testing and delivery."
-  },
-  {
-    "repo": "jiaoyanming0-bot/OPAutoClicker",
-    "branch": "main",
-    "language": "C#",
-    "description": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable."
-  },
-  {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
-  },
-  {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
-  },
-  {
-    "repo": "Fahim-SS/lsfg-git",
+    "repo": "redteamfortress/PhantomKiller",
     "branch": "main",
     "language": "C++",
-    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
+    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
   },
   {
-    "repo": "iart-ai/motion-skills",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
     "branch": "master",
-    "language": "HTML",
-    "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent."
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
   },
   {
-    "repo": "BuilderIO/skills",
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "FireRedTeam/FireRedASR2S",
+    "branch": "main",
+    "language": "Python",
+    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
+  },
+  {
+    "repo": "webpack/webpack",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Skills for coding agents"
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
   },
   {
-    "repo": "PredictiveFlow-Labs/polymarket-btc-5min-15min-up-down-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "ytnrvdf/wha-spell-simulator",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
-  },
-  {
-    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
-  },
-  {
-    "repo": "Leonxlnx/lumenshaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
-  },
-  {
-    "repo": "ksimback/looper",
-    "branch": "main",
+    "repo": "cnitlrt/AutoTeam",
+    "branch": "dev",
     "language": "Python",
-    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
+    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
   },
   {
-    "repo": "cclank/cell-architecture-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Interactive 3D cell architecture gallery built with React and Three.js"
-  },
-  {
-    "repo": "Gach0ng/AgentStalker",
-    "branch": "main",
-    "language": "Python",
-    "description": "A standardized agent vulnerability benchmark, formal taint tracking proofs, and a cross-language unified AST model, integrating code auditing with sandbox reproduction into an all-in-one agent security approach.  一个标准化的 Agent 漏洞基准、形式化的污点追踪证明与跨语言的统一 AST 模型，集成代码审计到沙箱复现一体化的智能体安全范式。"
-  },
-  {
-    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
-  },
-  {
-    "repo": "kouhxp/yapsnap",
-    "branch": "main",
-    "language": "Python",
-    "description": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
-  },
-  {
-    "repo": "Tong89/smartNode",
+    "repo": "anthropics/financial-services-plugins",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "hossein8360/cdn-ip-finder",
+    "repo": "better-auth/better-hub",
     "branch": "main",
-    "language": "HTML",
-    "description": "CDN IP finder for ShirOKhorshid domain fronting"
+    "language": "TypeScript",
+    "description": "Re-imagining code collaboration for humans and agents"
+  },
+  {
+    "repo": "T3-Content/quipslop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "ogham/exa",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A private messenger for Android."
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
+  },
+  {
+    "repo": "apkclaw-team/ApkClaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "uditgoenka/autoresearch",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "rust-lang/rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Empowering everyone to build reliable and efficient software."
+  },
+  {
+    "repo": "styled-components/styled-components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
+  },
+  {
+    "repo": "python-poetry/poetry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Python packaging and dependency management made easy"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "WeianMao/triattention",
+    "branch": "main",
+    "language": "Python",
+    "description": "TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs."
+  },
+  {
+    "repo": "sanic-org/sanic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Accelerate your web app development  | Build fast. Run fast."
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "hilash/cabinet",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-first knowledge base and startup OS"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "halofyai/halofy",
+  "repo": "benja/ask",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-  "stars": 347,
-  "forks": 4
+  "language": "Rust",
+  "description": "Ask, then do. Follow up when you need to.",
+  "stars": 104,
+  "forks": 3
 }
