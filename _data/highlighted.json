@@ -1,8 +1,8 @@
 {
-  "repo": "zunmax/technocore-did-starter",
+  "repo": "AgriciDaniel/youtubepro",
   "branch": "main",
-  "language": "Python",
-  "description": "Simple tutorial for creating an encrypted Ed25519 DID, publishing signed Technocore messages, and documenting useful contributions for potential $FLOP airdrop",
-  "stars": 109,
-  "forks": 99
+  "language": "TypeScript",
+  "description": "Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation.",
+  "stars": 119,
+  "forks": 44
 }

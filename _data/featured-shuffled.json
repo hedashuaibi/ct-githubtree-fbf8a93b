@@ -1,146 +1,146 @@
 [
   {
-    "repo": "l0ng-ai/papr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A fast, native RSS reader for the desktop."
-  },
-  {
-    "repo": "github/copilot-docs",
-    "branch": "main",
-    "language": "Other",
-    "description": "Documentation for GitHub Copilot"
-  },
-  {
-    "repo": "virattt/ai-hedge-fund",
-    "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
-  },
-  {
-    "repo": "nagisanzenin/skyclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
-  },
-  {
-    "repo": "square/picasso",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
-  },
-  {
-    "repo": "vercel/hyper",
+    "repo": "PolyMomentum/polymarket-momentum-mispricing-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A terminal built on web technologies"
+    "description": "Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot"
   },
   {
-    "repo": "neovim/neovim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
-  },
-  {
-    "repo": "chartjs/Chart.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
-  },
-  {
-    "repo": "dapr/dapr",
-    "branch": "master",
-    "language": "Go",
-    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
-  },
-  {
-    "repo": "cporter202/openclaw-api-list",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
-  },
-  {
-    "repo": "public-apis/public-apis",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
-  },
-  {
-    "repo": "babel/babel-preset-env",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "reduxjs/redux-thunk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Thunk middleware for Redux"
-  },
-  {
-    "repo": "Kotlin/kotlinx.serialization",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Kotlin multiplatform / multi-format serialization"
-  },
-  {
-    "repo": "innoqiu/newsieai",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "langwatch/kanban-code",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "Heartflabrace/Doubao-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "ochyai/open-japan-politech-platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
-  },
-  {
-    "repo": "Euro-Office/DocumentServer",
+    "repo": "esaradev/icarus-daedalus",
     "branch": "main",
     "language": "Shell",
-    "description": ""
+    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
   },
   {
-    "repo": "dreddnafious/thereisnospoon",
-    "branch": "main",
-    "language": "Python",
-    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
-  },
-  {
-    "repo": "react-native-camera/react-native-camera",
+    "repo": "ogham/exa",
     "branch": "master",
-    "language": "Java",
-    "description": "A Camera component for React Native. Also supports barcode scanning!"
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "encode/django-rest-framework",
+    "branch": "master",
+    "language": "Python",
+    "description": "Web APIs for Django. 🎸"
+  },
+  {
+    "repo": "prettier/prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
   },
   {
     "repo": "containerd/containerd",
     "branch": "main",
     "language": "Go",
     "description": "An open and reliable container runtime"
+  },
+  {
+    "repo": "google/mediapipe",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media."
+  },
+  {
+    "repo": "datavorous/sameshi",
+    "branch": "master",
+    "language": "C",
+    "description": "a ~1200 Elo chess engine that fits within 2KB"
+  },
+  {
+    "repo": "FrankDavis236869/spyder-osint",
+    "branch": "main",
+    "language": "Python",
+    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
+  },
+  {
+    "repo": "jshachm/chronoh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+  },
+  {
+    "repo": "Alex-Gilbert/unredact",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jazzband/pip-tools",
+    "branch": "main",
+    "language": "Python",
+    "description": "A set of tools to keep your pinned Python dependencies fresh."
+  },
+  {
+    "repo": "Gen-Verse/OpenClaw-RL",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+  },
+  {
+    "repo": "istio/istio.io",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Source for the istio.io site"
+  },
+  {
+    "repo": "maderix/ANE",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+  },
+  {
+    "repo": "rayon-rs/rayon",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rayon: A data parallelism library for Rust"
+  },
+  {
+    "repo": "kivy/kivy",
+    "branch": "master",
+    "language": "Python",
+    "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
+  },
+  {
+    "repo": "6551Team/opennews-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+  },
+  {
+    "repo": "pypa/pipenv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Development Workflow for Humans."
+  },
+  {
+    "repo": "prysmaticlabs/prysm",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of Ethereum proof of stake"
+  },
+  {
+    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta",
+    "branch": "main",
+    "language": "Python",
+    "description": "Boost your Pet Simulator 99 progress with the Peta trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
+  },
+  {
+    "repo": "nader0913/ocpp-rag",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A refreshingly simple data-driven game engine built in Rust"
   }
 ]
