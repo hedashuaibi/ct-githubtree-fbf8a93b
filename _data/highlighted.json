@@ -1,8 +1,8 @@
 {
-  "repo": "AgriciDaniel/youtubepro",
+  "repo": "mreflow/control-center",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation.",
-  "stars": 119,
-  "forks": 44
+  "description": "A local-first, settings-driven business intelligence dashboard.",
+  "stars": 123,
+  "forks": 48
 }

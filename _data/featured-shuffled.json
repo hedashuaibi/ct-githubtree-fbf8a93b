@@ -1,27 +1,111 @@
 [
   {
-    "repo": "PolyMomentum/polymarket-momentum-mispricing-bot",
+    "repo": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly."
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "jae-jae/fetcher-mcp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot"
+    "description": "MCP server for fetch web page content using Playwright headless browser."
   },
   {
-    "repo": "esaradev/icarus-daedalus",
+    "repo": "timescale/timescaledb",
     "branch": "main",
-    "language": "Shell",
-    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
+    "language": "C",
+    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
   },
   {
-    "repo": "ogham/exa",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
-  },
-  {
-    "repo": "encode/django-rest-framework",
+    "repo": "tensorflow/datasets",
     "branch": "master",
     "language": "Python",
-    "description": "Web APIs for Django. 🎸"
+    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "branch": "main",
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+  },
+  {
+    "repo": "microsoft/fast",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The adaptive interface system for modern web experiences."
+  },
+  {
+    "repo": "stonerl/Thaw",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Menu bar manager for macOS"
+  },
+  {
+    "repo": "junit-team/junit5",
+    "branch": "main",
+    "language": "Java",
+    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
+  },
+  {
+    "repo": "amlalabs/amla-sandbox",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "branch": "branch-3.4",
+    "language": "TypeScript",
+    "description": "Interactive Data Visualization in the browser, from  Python"
+  },
+  {
+    "repo": "lens-protocol/lens-protocol",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "The Lens Protocol"
+  },
+  {
+    "repo": "soloterm/screen",
+    "branch": "main",
+    "language": "PHP",
+    "description": "A terminal renderer written in pure PHP."
+  },
+  {
+    "repo": "actions/setup-python",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
+  },
+  {
+    "repo": "sindresorhus/type-fest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A collection of essential TypeScript types"
+  },
+  {
+    "repo": "hapijs/hapi",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The Simple, Secure Framework Developers Trust"
+  },
+  {
+    "repo": "Solido/awesome-flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
   },
   {
     "repo": "prettier/prettier",
@@ -30,117 +114,33 @@
     "description": "Prettier is an opinionated code formatter."
   },
   {
-    "repo": "containerd/containerd",
+    "repo": "uedk9p/sora2-watermark-remover",
     "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "xstongxue/best-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "通用高质量 Skills 合集🔥"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "branch": "develop",
     "language": "Go",
-    "description": "An open and reliable container runtime"
+    "description": "Optimism is Ethereum, scaled."
   },
   {
-    "repo": "google/mediapipe",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cross-platform, customizable ML solutions for live and streaming media."
-  },
-  {
-    "repo": "datavorous/sameshi",
-    "branch": "master",
-    "language": "C",
-    "description": "a ~1200 Elo chess engine that fits within 2KB"
-  },
-  {
-    "repo": "FrankDavis236869/spyder-osint",
-    "branch": "main",
-    "language": "Python",
-    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
-  },
-  {
-    "repo": "jshachm/chronoh",
-    "branch": "main",
-    "language": "Rust",
-    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
-  },
-  {
-    "repo": "Alex-Gilbert/unredact",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jazzband/pip-tools",
-    "branch": "main",
-    "language": "Python",
-    "description": "A set of tools to keep your pinned Python dependencies fresh."
-  },
-  {
-    "repo": "Gen-Verse/OpenClaw-RL",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
-  },
-  {
-    "repo": "istio/istio.io",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
-  },
-  {
-    "repo": "maderix/ANE",
+    "repo": "opa334/darksword-kexploit",
     "branch": "main",
     "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
   },
   {
-    "repo": "rayon-rs/rayon",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rayon: A data parallelism library for Rust"
-  },
-  {
-    "repo": "kivy/kivy",
-    "branch": "master",
-    "language": "Python",
-    "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
-  },
-  {
-    "repo": "6551Team/opennews-mcp",
+    "repo": "GRVYDEV/marky",
     "branch": "main",
-    "language": "Python",
-    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
-  },
-  {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
-  },
-  {
-    "repo": "pypa/pipenv",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Development Workflow for Humans."
-  },
-  {
-    "repo": "prysmaticlabs/prysm",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
-  },
-  {
-    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boost your Pet Simulator 99 progress with the Peta trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
-  },
-  {
-    "repo": "nader0913/ocpp-rag",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
-  },
-  {
-    "repo": "bevyengine/bevy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A refreshingly simple data-driven game engine built in Rust"
+    "language": "TypeScript",
+    "description": "A lightweight easy to use markdown viewer"
   }
 ]
