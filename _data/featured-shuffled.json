@@ -1,146 +1,146 @@
 [
   {
-    "repo": "eval-exec/neomacs",
+    "repo": "apple/ml-ssd",
     "branch": "main",
-    "language": "Emacs Lisp",
-    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "TrenchesofChirac/claude-fable-5-free-desktop-app",
+    "repo": "Anarkh-Lee/universal-db-mcp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial"
+    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
   },
   {
-    "repo": "nedbat/coveragepy",
-    "branch": "master",
+    "repo": "xsawyerx/curl-doom",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DOOM, played over cURL"
+  },
+  {
+    "repo": "Leonxlnx/claw-dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "kitforai/kitforai",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Kit for AI developer hub — official SDK, Claude Code plugin, MCP setup, and llms.txt."
+  },
+  {
+    "repo": "iZiTTMarvin/Claude-code-open-explain",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "针对cc客户端源码的详细讲解，面向新手。"
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
     "language": "Python",
-    "description": "The code coverage tool for Python"
+    "description": "Security Governance for Agentic AI"
   },
   {
-    "repo": "prysmaticlabs/prysm",
+    "repo": "aiming-lab/AutoHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+  },
+  {
+    "repo": "op7418/CodePilot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+  },
+  {
+    "repo": "TermiX-official/cryptoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "liuxiaopai-ai/ralph-desktop",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
+  },
+  {
+    "repo": "oboard/claude-code-rev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Runnable ClaudeCode source code"
+  },
+  {
+    "repo": "tvytlx/ai-agent-deep-dive",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Agent 源码深度研究报告"
+  },
+  {
+    "repo": "depreciating/DoodleCloud",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloud Storage using Instagram."
+  },
+  {
+    "repo": "haolinwang819-boop/ai-video-generation-workflow",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
+  },
+  {
+    "repo": "openabdev/openab",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+  },
+  {
+    "repo": "go-micro/go-micro",
     "branch": "master",
     "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
+    "description": "A Go microservices framework"
   },
   {
-    "repo": "lsd-rs/lsd",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The next gen ls command"
-  },
-  {
-    "repo": "EvanZhouDev/openai-oauth",
+    "repo": "xoai/sage-wiki",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Free OpenAI API access with your ChatGPT account."
+    "language": "Go",
+    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
   },
   {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "ipfs/js-ipfs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "taf2/mdvi",
-    "branch": "master",
-    "language": "Rust",
-    "description": "cli based Markdown viewer"
-  },
-  {
-    "repo": "zornade/visura-api",
+    "repo": "docker/docker-py",
     "branch": "main",
     "language": "Python",
-    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
+    "description": "A Python library for the Docker Engine API"
   },
   {
-    "repo": "The-Vibe-Company/companion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
-  },
-  {
-    "repo": "jshachm/pi-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "基于pi-mono，rust轻量化版本"
-  },
-  {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
-  },
-  {
-    "repo": "google/material-design-icons",
+    "repo": "lijigang/ljg-skill-explain-words",
     "branch": "master",
-    "language": "Other",
-    "description": "Material Design icons by Google (Material Symbols)"
-  },
-  {
-    "repo": "google/styleguide",
-    "branch": "gh-pages",
     "language": "HTML",
-    "description": "Style guides for Google-originated open-source projects"
+    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
   },
   {
-    "repo": "coyvalyss1/model-matchmaker",
+    "repo": "spring-projects/spring-framework",
     "branch": "main",
-    "language": "Shell",
-    "description": "Local hook for Cursor and Claude Code that routes prompts to the right model tier. Stop paying Opus prices to rename files."
+    "language": "Java",
+    "description": "Spring Framework"
   },
   {
-    "repo": "Flowseal/tg-ws-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
-  },
-  {
-    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
-  },
-  {
-    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
-  },
-  {
-    "repo": "BitrigApp/XCDocs",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Apple's developer docs as a Swift package and CLI."
-  },
-  {
-    "repo": "quoroom-ai/room",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet."
-  },
-  {
-    "repo": "microsoft/winget-cli",
+    "repo": "godagoo/claude-telegram-relay",
     "branch": "master",
-    "language": "C++",
-    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
+    "branch": "master",
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+  },
+  {
+    "repo": "kzhrknt/awesome-design-md-jp",
+    "branch": "main",
+    "language": "HTML",
+    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
   }
 ]
