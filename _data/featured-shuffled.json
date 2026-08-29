@@ -1,57 +1,111 @@
 [
   {
-    "repo": "liujunxibaba/douyin-tiktok-story-skill-agent",
+    "repo": "eval-exec/neomacs",
     "branch": "main",
-    "language": "Python",
-    "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database."
+    "language": "Emacs Lisp",
+    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
   },
   {
-    "repo": "shanselman/winget-tui",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
-  },
-  {
-    "repo": "ncvgl/slawk",
+    "repo": "TrenchesofChirac/claude-fable-5-free-desktop-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
+    "description": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial"
   },
   {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
-  },
-  {
-    "repo": "win4r/ClawTeam-OpenClaw",
-    "branch": "main",
+    "repo": "nedbat/coveragepy",
+    "branch": "master",
     "language": "Python",
-    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
+    "description": "The code coverage tool for Python"
   },
   {
-    "repo": "iliya-Developer/VortexL2",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "fatedier/frp",
-    "branch": "dev",
-    "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-  },
-  {
-    "repo": "jackc/pgx",
+    "repo": "prysmaticlabs/prysm",
     "branch": "master",
     "language": "Go",
-    "description": "PostgreSQL driver and toolkit for Go"
+    "description": "Go implementation of Ethereum proof of stake"
   },
   {
-    "repo": "chekusu/mails",
+    "repo": "lsd-rs/lsd",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The next gen ls command"
+  },
+  {
+    "repo": "EvanZhouDev/openai-oauth",
     "branch": "main",
     "language": "TypeScript",
-    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
+    "description": "Free OpenAI API access with your ChatGPT account."
+  },
+  {
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
+  },
+  {
+    "repo": "taf2/mdvi",
+    "branch": "master",
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
+  },
+  {
+    "repo": "zornade/visura-api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
+  },
+  {
+    "repo": "The-Vibe-Company/companion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
+  },
+  {
+    "repo": "jshachm/pi-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "基于pi-mono，rust轻量化版本"
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "google/material-design-icons",
+    "branch": "master",
+    "language": "Other",
+    "description": "Material Design icons by Google (Material Symbols)"
+  },
+  {
+    "repo": "google/styleguide",
+    "branch": "gh-pages",
+    "language": "HTML",
+    "description": "Style guides for Google-originated open-source projects"
+  },
+  {
+    "repo": "coyvalyss1/model-matchmaker",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Local hook for Cursor and Claude Code that routes prompts to the right model tier. Stop paying Opus prices to rename files."
+  },
+  {
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "openai/point-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Point cloud diffusion for 3D model synthesis"
   },
   {
     "repo": "element-plus/element-plus",
@@ -60,16 +114,22 @@
     "description": "🎉 A Vue.js 3 UI Library made by Element team"
   },
   {
-    "repo": "Fox-Fig/phoenix",
+    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
     "branch": "main",
-    "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+    "language": "Rust",
+    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
   },
   {
-    "repo": "shareAI-lab/claw0",
+    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
     "branch": "main",
     "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
+  },
+  {
+    "repo": "BitrigApp/XCDocs",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple's developer docs as a Swift package and CLI."
   },
   {
     "repo": "quoroom-ai/room",
@@ -78,69 +138,9 @@
     "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet."
   },
   {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "jquery/jquery-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The official jQuery user interface library."
-  },
-  {
-    "repo": "inspatio/inspatio-world",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "alibaba/FunASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
-  },
-  {
-    "repo": "vigorX777/ai-daily-digest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
-  },
-  {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
-  },
-  {
-    "repo": "jesseduffield/lazydocker",
+    "repo": "microsoft/winget-cli",
     "branch": "master",
-    "language": "Go",
-    "description": "The lazier way to manage everything docker"
-  },
-  {
-    "repo": "orchetron/storm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
-  },
-  {
-    "repo": "mshumer/unslop",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "yargs/yargs",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "yargs the modern, pirate-themed successor to optimist."
-  },
-  {
-    "repo": "payloadcms/payload",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "language": "C++",
+    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
   }
 ]

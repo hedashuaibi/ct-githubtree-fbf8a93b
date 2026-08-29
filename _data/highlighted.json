@@ -1,8 +1,8 @@
 {
-  "repo": "lxl0825/OpenOracle",
+  "repo": "hassenbrahim/ValidatorMempool",
   "branch": "main",
-  "language": "Python",
-  "description": "A simple OpenOracle manager for auto scaling.",
+  "language": "JavaScript",
+  "description": "Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
   "stars": 117,
   "forks": 0
 }
