@@ -1,8 +1,8 @@
 {
-  "repo": "mreflow/control-center",
+  "repo": "lxl0825/OpenOracle",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A local-first, settings-driven business intelligence dashboard.",
-  "stars": 123,
-  "forks": 48
+  "language": "Python",
+  "description": "A simple OpenOracle manager for auto scaling.",
+  "stars": 117,
+  "forks": 0
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
+    "repo": "liujunxibaba/douyin-tiktok-story-skill-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly."
+    "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database."
   },
   {
-    "repo": "coleam00/excalidraw-diagram-skill",
+    "repo": "shanselman/winget-tui",
     "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+    "language": "Rust",
+    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
   },
   {
-    "repo": "jae-jae/fetcher-mcp",
+    "repo": "ncvgl/slawk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "MCP server for fetch web page content using Playwright headless browser."
+    "description": "A 14 day experiment to clone Slack with Claude Code"
   },
   {
-    "repo": "timescale/timescaledb",
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "win4r/ClawTeam-OpenClaw",
     "branch": "main",
-    "language": "C",
-    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
-  },
-  {
-    "repo": "tensorflow/datasets",
-    "branch": "master",
     "language": "Python",
-    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
+    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
   },
   {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "microsoft/fast",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The adaptive interface system for modern web experiences."
-  },
-  {
-    "repo": "stonerl/Thaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Menu bar manager for macOS"
-  },
-  {
-    "repo": "junit-team/junit5",
-    "branch": "main",
-    "language": "Java",
-    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
-  },
-  {
-    "repo": "amlalabs/amla-sandbox",
+    "repo": "iliya-Developer/VortexL2",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "bokeh/bokeh",
-    "branch": "branch-3.4",
-    "language": "TypeScript",
-    "description": "Interactive Data Visualization in the browser, from  Python"
-  },
-  {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "soloterm/screen",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A terminal renderer written in pure PHP."
-  },
-  {
-    "repo": "actions/setup-python",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
-  },
-  {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
-  },
-  {
-    "repo": "hapijs/hapi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The Simple, Secure Framework Developers Trust"
-  },
-  {
-    "repo": "Solido/awesome-flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "prettier/prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark remover"
-  },
-  {
-    "repo": "xstongxue/best-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "通用高质量 Skills 合集🔥"
-  },
-  {
-    "repo": "ethereum-optimism/optimism",
-    "branch": "develop",
+    "repo": "fatedier/frp",
+    "branch": "dev",
     "language": "Go",
-    "description": "Optimism is Ethereum, scaled."
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
   },
   {
-    "repo": "opa334/darksword-kexploit",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
+    "repo": "jackc/pgx",
+    "branch": "master",
+    "language": "Go",
+    "description": "PostgreSQL driver and toolkit for Go"
   },
   {
-    "repo": "GRVYDEV/marky",
+    "repo": "chekusu/mails",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A lightweight easy to use markdown viewer"
+    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
+  },
+  {
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+  },
+  {
+    "repo": "Fox-Fig/phoenix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+  },
+  {
+    "repo": "shareAI-lab/claw0",
+    "branch": "main",
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+  },
+  {
+    "repo": "quoroom-ai/room",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet."
+  },
+  {
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "jquery/jquery-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
+  },
+  {
+    "repo": "inspatio/inspatio-world",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "alibaba/FunASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+  },
+  {
+    "repo": "vigorX777/ai-daily-digest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+  },
+  {
+    "repo": "vercel/serve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Static file serving and directory listing"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "branch": "master",
+    "language": "Go",
+    "description": "The lazier way to manage everything docker"
+  },
+  {
+    "repo": "orchetron/storm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
+  },
+  {
+    "repo": "mshumer/unslop",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "yargs/yargs",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "yargs the modern, pirate-themed successor to optimist."
+  },
+  {
+    "repo": "payloadcms/payload",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
   }
 ]
