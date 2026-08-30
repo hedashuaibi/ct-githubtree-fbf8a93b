@@ -1,146 +1,146 @@
 [
   {
-    "repo": "HumeAI/tada",
+    "repo": "Heartflabrace/Doubao-Claw",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Open Source Speech Language Model"
-  },
-  {
-    "repo": "bddicken/tuitter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "tuitter"
-  },
-  {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
-  },
-  {
-    "repo": "hanxiao/dataroom",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4."
-  },
-  {
-    "repo": "MistKailorg/Polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
-  },
-  {
-    "repo": "allenai/molmoweb",
-    "branch": "main",
-    "language": "Jupyter Notebook",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "WtxwNs/RepoCheck",
+    "repo": "TeleHuman/humanoid_skateboarding",
     "branch": "main",
     "language": "Python",
-    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
+    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
   },
   {
-    "repo": "xaspx/hermes-control-interface",
+    "repo": "MhmRdd/google-rkp-sw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "apache/beam",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-WU",
+    "branch": "main",
+    "language": "Python",
+    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
+  },
+  {
+    "repo": "ceph/ceph",
+    "branch": "main",
+    "language": "C++",
+    "description": "Ceph is a distributed object, block, and file storage platform"
+  },
+  {
+    "repo": "elder-plinius/OBLITERATUS",
+    "branch": "main",
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
+  },
+  {
+    "repo": "bentoml/BentoML",
+    "branch": "main",
+    "language": "Python",
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
+  },
+  {
+    "repo": "infraform/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "EveryInc/proof-sdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+  },
+  {
+    "repo": "android-bench/android-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "PeGasUsCHAkra/mevbot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
+    "description": "Ethereum Bot"
   },
   {
-    "repo": "hussennader/JSON-Mod-Manager-For-Crimson-Desert",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download JSON Mod Manager for Crimson Desert - the easiest way to install, organize, and manage mods. Create and switch mod profiles using JSON files, automatic conflict detection, backups, and one-click installation for .pak mods."
-  },
-  {
-    "repo": "heygen-com/hyperframes-launch-video",
+    "repo": "ai-twinkle/rlhf-book-zh-tw",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs"
   },
   {
-    "repo": "olvvier/apple-silicon-accelerometer",
+    "repo": "solana-labs/solana",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+  },
+  {
+    "repo": "get-Lucid/Lucid",
     "branch": "main",
-    "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+    "language": "TypeScript",
+    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
   },
   {
-    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "repo": "op7418/Claude-to-IM",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
+  },
+  {
+    "repo": "1sdv/TripStar",
+    "branch": "main",
+    "language": "Vue",
+    "description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。"
+  },
+  {
+    "repo": "tensorflow/tfx",
     "branch": "master",
     "language": "Python",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
+    "repo": "guardrailsio/awesome-python-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "Awesome Python Security resources 🕶🐍🔐"
+  },
+  {
+    "repo": "DeveloperExotic/LegacyCrossPlay",
     "branch": "main",
-    "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+    "language": "JavaScript",
+    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
   },
   {
-    "repo": "HKUDS/FastCode",
-    "branch": "main",
-    "language": "Python",
-    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+    "repo": "cncf/landscape",
+    "branch": "master",
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
   },
   {
-    "repo": "v1r3n/dinesh-gilfoyle",
-    "branch": "main",
-    "language": "HTML",
-    "description": "What if Dinesh and Gilfoyle reviewed your code?"
-  },
-  {
-    "repo": "weeseezios/kms-pico-emulator-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "The most reliable KMS emulator for 2026. Manage and validate Windows 10/11 and Office 2016-2024 instances instantly. Pure, open-source, and offline-ready."
-  },
-  {
-    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "masterking32/MasterHttpRelayVPN",
-    "branch": "python_testing",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
-    "branch": "main",
-    "language": "C++",
-    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
-  },
-  {
-    "repo": "NatiCha/bunwv",
+    "repo": "garrytan/gstack",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
   },
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "coyvalyss1/model-matchmaker",
     "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
-  },
-  {
-    "repo": "paradigmxyz/evmbench",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
-  },
-  {
-    "repo": "Nyarime/NRUP",
-    "branch": "main",
-    "language": "Go",
-    "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS"
-  },
-  {
-    "repo": "GainSec/AutoProber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+    "language": "Shell",
+    "description": "Local hook for Cursor and Claude Code that routes prompts to the right model tier. Stop paying Opus prices to rename files."
   }
 ]
