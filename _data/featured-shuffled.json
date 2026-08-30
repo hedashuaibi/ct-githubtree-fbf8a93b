@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cathrynlavery/diagram-design",
+    "repo": "maria-rcks/t1code",
     "branch": "main",
-    "language": "HTML",
-    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    "language": "TypeScript",
+    "description": "T3Code, but in your terminal"
   },
   {
-    "repo": "gemini-cli-extensions/ralph",
+    "repo": "elder-plinius/T3MP3ST",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+  },
+  {
+    "repo": "V-IOLE-T/hotmail-register-extension",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+  },
+  {
+    "repo": "6551Team/opentwitter-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+  },
+  {
+    "repo": "Michaelliv/markit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+  },
+  {
+    "repo": "tencent-connect/openclaw-qqbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "QQ Bot Channel Plugin for OpenClaw"
+  },
+  {
+    "repo": "eooce/python-ws",
+    "branch": "main",
+    "language": "Python",
+    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+  },
+  {
+    "repo": "ryfineZ/codex-session-patcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+  },
+  {
+    "repo": "remorses/usecomputer",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
+  },
+  {
+    "repo": "badlogic/jot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Minimal self-hosted markdown editor with inline comment threads"
+  },
+  {
+    "repo": "0xGF/boneyard",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Auto generated skeleton loading framework"
+  },
+  {
+    "repo": "wuji-labs/nopua",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
     "branch": "main",
     "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
   },
   {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "OmniSVG/OmniSVG",
+    "repo": "win4r/ClawTeam-OpenClaw",
     "branch": "main",
     "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
   },
   {
-    "repo": "clockworklabs/SpacetimeDB",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
-  },
-  {
-    "repo": "nativefier/nativefier",
-    "branch": "development",
-    "language": "TypeScript",
-    "description": "Make any web page a desktop application"
-  },
-  {
-    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
-  },
-  {
-    "repo": "psycopg/psycopg",
-    "branch": "master",
-    "language": "Python",
-    "description": "New generation PostgreSQL database adapter for the Python programming language"
-  },
-  {
-    "repo": "grp06/openclaw-studio",
+    "repo": "doctorhetfield-cmd/simpleui.koplugin",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Lua",
+    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
+  },
+  {
+    "repo": "allenai/molmoweb",
+    "branch": "main",
+    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
-  },
-  {
-    "repo": "HKUDS/nanobot",
+    "repo": "MiniMax-AI/skills",
     "branch": "main",
     "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+    "description": ""
   },
   {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
-  },
-  {
-    "repo": "mit-pdos/xv6-public",
-    "branch": "master",
-    "language": "C",
-    "description": "xv6 OS"
-  },
-  {
-    "repo": "gogs/gogs",
-    "branch": "main",
-    "language": "Go",
-    "description": "Gogs is a painless self-hosted Git service"
-  },
-  {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
-  },
-  {
-    "repo": "v2ray/v2ray-core",
-    "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
-  },
-  {
-    "repo": "emberjs/ember.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
-  },
-  {
-    "repo": "humanloop/awesome-chatgpt",
-    "branch": "main",
-    "language": "Other",
-    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
-  },
-  {
-    "repo": "agarrharr/awesome-cli-apps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
-  },
-  {
-    "repo": "google/trax",
-    "branch": "master",
-    "language": "Python",
-    "description": "Trax — Deep Learning with Clear Code and Speed"
-  },
-  {
-    "repo": "snarktank/compound-product",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
-  },
-  {
-    "repo": "github/super-linter",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Combination of multiple linters to install as a GitHub Action"
-  },
-  {
-    "repo": "burpheart/cursor-tap",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cursor gRPC 通信流量分析工具"
-  },
-  {
-    "repo": "bigcode-project/starcoder",
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+  },
+  {
+    "repo": "kellyvv/PhoneClaw",
+    "branch": "main",
+    "language": "Swift",
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
+  },
+  {
+    "repo": "vigorX777/content-collector-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
+  },
+  {
+    "repo": "galpha-ai/trading-intent",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "garagon/nanostack",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Minimal AI coding agent team skills for the full engineering workflow."
+  },
+  {
+    "repo": "samber/cc-skills-golang",
+    "branch": "main",
+    "language": "Go",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works"
   }
 ]
