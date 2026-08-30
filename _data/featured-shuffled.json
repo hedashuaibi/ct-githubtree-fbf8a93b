@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Heartflabrace/Doubao-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "TeleHuman/humanoid_skateboarding",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
-  },
-  {
-    "repo": "MhmRdd/google-rkp-sw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "apache/beam",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-WU",
-    "branch": "main",
-    "language": "Python",
-    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
-  },
-  {
-    "repo": "ceph/ceph",
-    "branch": "main",
-    "language": "C++",
-    "description": "Ceph is a distributed object, block, and file storage platform"
-  },
-  {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
-  },
-  {
-    "repo": "bentoml/BentoML",
-    "branch": "main",
-    "language": "Python",
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
-  },
-  {
-    "repo": "infraform/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "projectdiscovery/nuclei",
-    "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "EveryInc/proof-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
-  },
-  {
-    "repo": "android-bench/android-bench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
-  },
-  {
-    "repo": "PeGasUsCHAkra/mevbot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Ethereum Bot"
-  },
-  {
-    "repo": "ai-twinkle/rlhf-book-zh-tw",
+    "repo": "cathrynlavery/diagram-design",
     "branch": "main",
     "language": "HTML",
-    "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs"
+    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
   },
   {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "get-Lucid/Lucid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
-  },
-  {
-    "repo": "op7418/Claude-to-IM",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
-  },
-  {
-    "repo": "1sdv/TripStar",
-    "branch": "main",
-    "language": "Vue",
-    "description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。"
-  },
-  {
-    "repo": "tensorflow/tfx",
-    "branch": "master",
-    "language": "Python",
-    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
-  },
-  {
-    "repo": "guardrailsio/awesome-python-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "Awesome Python Security resources 🕶🐍🔐"
-  },
-  {
-    "repo": "DeveloperExotic/LegacyCrossPlay",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
-  },
-  {
-    "repo": "cncf/landscape",
-    "branch": "master",
-    "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
-  },
-  {
-    "repo": "garrytan/gstack",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
-  },
-  {
-    "repo": "coyvalyss1/model-matchmaker",
+    "repo": "gemini-cli-extensions/ralph",
     "branch": "main",
     "language": "Shell",
-    "description": "Local hook for Cursor and Claude Code that routes prompts to the right model tier. Stop paying Opus prices to rename files."
+    "description": "Gemini CLI extension for Ralph loops"
+  },
+  {
+    "repo": "flame-engine/flame",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
+    "branch": "main",
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplayer at the speed of light"
+  },
+  {
+    "repo": "nativefier/nativefier",
+    "branch": "development",
+    "language": "TypeScript",
+    "description": "Make any web page a desktop application"
+  },
+  {
+    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
+  },
+  {
+    "repo": "psycopg/psycopg",
+    "branch": "master",
+    "language": "Python",
+    "description": "New generation PostgreSQL database adapter for the Python programming language"
+  },
+  {
+    "repo": "grp06/openclaw-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "mit-pdos/xv6-public",
+    "branch": "master",
+    "language": "C",
+    "description": "xv6 OS"
+  },
+  {
+    "repo": "gogs/gogs",
+    "branch": "main",
+    "language": "Go",
+    "description": "Gogs is a painless self-hosted Git service"
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+  },
+  {
+    "repo": "v2ray/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "emberjs/ember.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+  },
+  {
+    "repo": "humanloop/awesome-chatgpt",
+    "branch": "main",
+    "language": "Other",
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "repo": "agarrharr/awesome-cli-apps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+  },
+  {
+    "repo": "google/trax",
+    "branch": "master",
+    "language": "Python",
+    "description": "Trax — Deep Learning with Clear Code and Speed"
+  },
+  {
+    "repo": "snarktank/compound-product",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "repo": "github/super-linter",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Combination of multiple linters to install as a GitHub Action"
+  },
+  {
+    "repo": "burpheart/cursor-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cursor gRPC 通信流量分析工具"
+  },
+  {
+    "repo": "bigcode-project/starcoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Home of StarCoder: fine-tuning & inference!"
   }
 ]
