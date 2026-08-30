@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apple/ml-ssd",
+    "repo": "HumeAI/tada",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Open Source Speech Language Model"
+  },
+  {
+    "repo": "bddicken/tuitter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "tuitter"
+  },
+  {
+    "repo": "linlay/zenmind",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "宅在家里的电脑，努力做一个openclaw"
+  },
+  {
+    "repo": "hanxiao/dataroom",
     "branch": "main",
     "language": "Python",
+    "description": "Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4."
+  },
+  {
+    "repo": "MistKailorg/Polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
+  },
+  {
+    "repo": "allenai/molmoweb",
+    "branch": "main",
+    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "Anarkh-Lee/universal-db-mcp",
+    "repo": "WtxwNs/RepoCheck",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
+    "language": "Python",
+    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
   },
   {
-    "repo": "xsawyerx/curl-doom",
+    "repo": "xaspx/hermes-control-interface",
     "branch": "main",
     "language": "JavaScript",
-    "description": "DOOM, played over cURL"
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
   },
   {
-    "repo": "Leonxlnx/claw-dev",
+    "repo": "hussennader/JSON-Mod-Manager-For-Crimson-Desert",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download JSON Mod Manager for Crimson Desert - the easiest way to install, organize, and manage mods. Create and switch mod profiles using JSON files, automatic conflict detection, backups, and one-click installation for .pak mods."
+  },
+  {
+    "repo": "heygen-com/hyperframes-launch-video",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "olvvier/apple-silicon-accelerometer",
+    "branch": "main",
+    "language": "Python",
+    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+  },
+  {
+    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+  },
+  {
+    "repo": "apple/python-apple-fm-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "HKUDS/FastCode",
+    "branch": "main",
+    "language": "Python",
+    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+  },
+  {
+    "repo": "v1r3n/dinesh-gilfoyle",
+    "branch": "main",
+    "language": "HTML",
+    "description": "What if Dinesh and Gilfoyle reviewed your code?"
+  },
+  {
+    "repo": "weeseezios/kms-pico-emulator-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most reliable KMS emulator for 2026. Manage and validate Windows 10/11 and Office 2016-2024 instances instantly. Pure, open-source, and offline-ready."
+  },
+  {
+    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "masterking32/MasterHttpRelayVPN",
+    "branch": "python_testing",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "branch": "main",
+    "language": "C++",
+    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+  },
+  {
+    "repo": "NatiCha/bunwv",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "kitforai/kitforai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Kit for AI developer hub — official SDK, Claude Code plugin, MCP setup, and llms.txt."
-  },
-  {
-    "repo": "iZiTTMarvin/Claude-code-open-explain",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "针对cc客户端源码的详细讲解，面向新手。"
-  },
-  {
-    "repo": "cisco-ai-defense/defenseclaw",
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Security Governance for Agentic AI"
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
   },
   {
-    "repo": "aiming-lab/AutoHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
-  },
-  {
-    "repo": "op7418/CodePilot",
+    "repo": "paradigmxyz/evmbench",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
   },
   {
-    "repo": "TermiX-official/cryptoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "liuxiaopai-ai/ralph-desktop",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
-  },
-  {
-    "repo": "oboard/claude-code-rev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Runnable ClaudeCode source code"
-  },
-  {
-    "repo": "tvytlx/ai-agent-deep-dive",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Agent 源码深度研究报告"
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "haolinwang819-boop/ai-video-generation-workflow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
-  },
-  {
-    "repo": "openabdev/openab",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
-  },
-  {
-    "repo": "go-micro/go-micro",
-    "branch": "master",
-    "language": "Go",
-    "description": "A Go microservices framework"
-  },
-  {
-    "repo": "xoai/sage-wiki",
+    "repo": "Nyarime/NRUP",
     "branch": "main",
     "language": "Go",
-    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
+    "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS"
   },
   {
-    "repo": "docker/docker-py",
+    "repo": "GainSec/AutoProber",
     "branch": "main",
     "language": "Python",
-    "description": "A Python library for the Docker Engine API"
-  },
-  {
-    "repo": "lijigang/ljg-skill-explain-words",
-    "branch": "master",
-    "language": "HTML",
-    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
-  },
-  {
-    "repo": "spring-projects/spring-framework",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Framework"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
-  },
-  {
-    "repo": "kubernetes-sigs/metrics-server",
-    "branch": "master",
-    "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
-  },
-  {
-    "repo": "kzhrknt/awesome-design-md-jp",
-    "branch": "main",
-    "language": "HTML",
-    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
   }
 ]
