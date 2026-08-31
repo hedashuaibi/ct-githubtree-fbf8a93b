@@ -1,105 +1,75 @@
 [
   {
-    "repo": "jkudish/librarium",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
-  },
-  {
-    "repo": "GradientRL/Gradient",
-    "branch": "main",
-    "language": "Python",
-    "description": "Gradient"
-  },
-  {
-    "repo": "webpack/webpack-dev-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
-  },
-  {
-    "repo": "bytedance/semi-design",
-    "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
-  },
-  {
-    "repo": "wisher567/Portpal",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "See exactly what’s using your ports — and kill it in one click."
-  },
-  {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
-  },
-  {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
-  },
-  {
-    "repo": "komunite/kalfa",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
-  },
-  {
-    "repo": "fastify/fastify",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
-  },
-  {
-    "repo": "TheAlgorithms/Python",
-    "branch": "master",
-    "language": "Python",
-    "description": "All Algorithms implemented in Python"
-  },
-  {
-    "repo": "upper-up/meta-lobbying-and-other-findings",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "MiniMax-AI/skills",
+    "repo": "johnmiddleton12/my-whoop",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "avihaymenahem/velo",
+    "repo": "fajarakpdev/Driver_Updater",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
+    "language": "Python",
+    "description": "Update outdated drivers for better performance and stability. Automatically scan and download latest drivers for all hardware."
   },
   {
-    "repo": "bwya77/vscode-dark-islands",
+    "repo": "open-gsd/gsd-pi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "joelbqz/writer-computer",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Local-first desktop markdown editor"
+  },
+  {
+    "repo": "QwenLM/FlashQLA",
+    "branch": "main",
+    "language": "Python",
+    "description": "high-performance linear attention kernel library built on TileLang"
+  },
+  {
+    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
+  },
+  {
+    "repo": "jlabon2/PsUi",
     "branch": "main",
     "language": "PowerShell",
-    "description": "VSCode theme based off the new Jetbrains islands theme"
+    "description": "For building UIs in PowerShell without the misery."
   },
   {
-    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
+    "repo": "pytest-dev/pytest",
     "branch": "main",
-    "language": "Rust",
-    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
     "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
   },
   {
-    "repo": "Nyarime/NRUP",
+    "repo": "JubaKitiashvili/expo-pretext",
     "branch": "main",
-    "language": "Go",
-    "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS"
+    "language": "TypeScript",
+    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
+  },
+  {
+    "repo": "twbs/bootstrap",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "repo": "alefinvest/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot"
+  },
+  {
+    "repo": "EmGi96/TrailPrint3D",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   },
   {
     "repo": "jquery/jquery",
@@ -108,39 +78,69 @@
     "description": "jQuery JavaScript Library"
   },
   {
-    "repo": "haeyupi/hotmail_re_plugin",
+    "repo": "RastProxy88/Vivid-R6-Cracked-2026",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "C++",
+    "description": "External memory analysis framework for Rainbow Six Siege. Features ESP, aimbot, skeleton rendering via DirectX 11 overlay. Read-only operation with direct syscall stubs. Supports Y8S4 — Y9S2. C++17, x64, MIT license."
   },
   {
-    "repo": "tnm/zclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
-  },
-  {
-    "repo": "d3/d3",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
-  },
-  {
-    "repo": "innoqiu/newsieai",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "crossplane/crossplane",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Control Plane"
-  },
-  {
-    "repo": "socketio/socket.io",
+    "repo": "muxprotocol/solana-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
+    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
+  },
+  {
+    "repo": "ManimCommunity/manim",
+    "branch": "main",
+    "language": "Python",
+    "description": "A community-maintained Python framework for creating mathematical animations."
+  },
+  {
+    "repo": "pallets/flask",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
+  },
+  {
+    "repo": "worldwonderer/oh-story-claudecode",
+    "branch": "main",
+    "language": "Shell",
+    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+  },
+  {
+    "repo": "machinarii/hypervibe",
+    "branch": "main",
+    "language": "Swift",
+    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
+  },
+  {
+    "repo": "nhost/nhost",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Open Source Firebase Alternative with GraphQL."
+  },
+  {
+    "repo": "godotengine/godot",
+    "branch": "master",
+    "language": "C++",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+  },
+  {
+    "repo": "enmanuelmag/agent-harness-kit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase."
+  },
+  {
+    "repo": "simplifaisoul/osiris",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative"
+  },
+  {
+    "repo": "facebook/react-native",
+    "branch": "main",
+    "language": "C++",
+    "description": "A framework for building native applications using React"
   }
 ]

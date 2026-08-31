@@ -1,8 +1,8 @@
 {
-  "repo": "alberto4442/LlmCanvas",
+  "repo": "Belucking/ZkCanvas",
   "branch": "main",
-  "language": "Python",
-  "description": "LlmCanvas is a high-performance, event-driven architecture for real-time data processing and adaptive auto-scaling system optimization.",
+  "language": "JavaScript",
+  "description": "ZkCanvas provides a distributed, high-performance platform for real-time data processing and rendering, scalable across multiple server clusters.",
   "stars": 116,
-  "forks": 0
+  "forks": 1
 }
