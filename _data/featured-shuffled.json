@@ -1,146 +1,146 @@
 [
   {
-    "repo": "johnmiddleton12/my-whoop",
+    "repo": "NanmiCoder/open-image-prompts",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Open, local-first visual prompt archive with traceable prompt-image references and installable Agent Skills."
   },
   {
-    "repo": "fajarakpdev/Driver_Updater",
-    "branch": "main",
-    "language": "Python",
-    "description": "Update outdated drivers for better performance and stability. Automatically scan and download latest drivers for all hardware."
-  },
-  {
-    "repo": "open-gsd/gsd-pi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
-  },
-  {
-    "repo": "joelbqz/writer-computer",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Local-first desktop markdown editor"
-  },
-  {
-    "repo": "QwenLM/FlashQLA",
-    "branch": "main",
-    "language": "Python",
-    "description": "high-performance linear attention kernel library built on TileLang"
-  },
-  {
-    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
-  },
-  {
-    "repo": "jlabon2/PsUi",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "For building UIs in PowerShell without the misery."
-  },
-  {
-    "repo": "pytest-dev/pytest",
-    "branch": "main",
-    "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
-  },
-  {
-    "repo": "JubaKitiashvili/expo-pretext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
-  },
-  {
-    "repo": "twbs/bootstrap",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-  },
-  {
-    "repo": "alefinvest/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot"
-  },
-  {
-    "repo": "EmGi96/TrailPrint3D",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jquery/jquery",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
-  },
-  {
-    "repo": "RastProxy88/Vivid-R6-Cracked-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "External memory analysis framework for Rainbow Six Siege. Features ESP, aimbot, skeleton rendering via DirectX 11 overlay. Read-only operation with direct syscall stubs. Supports Y8S4 — Y9S2. C++17, x64, MIT license."
-  },
-  {
-    "repo": "muxprotocol/solana-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
-  },
-  {
-    "repo": "ManimCommunity/manim",
-    "branch": "main",
-    "language": "Python",
-    "description": "A community-maintained Python framework for creating mathematical animations."
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "worldwonderer/oh-story-claudecode",
-    "branch": "main",
-    "language": "Shell",
-    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
-  },
-  {
-    "repo": "machinarii/hypervibe",
+    "repo": "pointfreeco/swift-snapshot-testing",
     "branch": "main",
     "language": "Swift",
-    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
+    "description": "📸 Delightful Swift snapshot testing."
   },
   {
-    "repo": "nhost/nhost",
+    "repo": "ibelick/mesurer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Open Source Firebase Alternative with GraphQL."
+    "description": ""
   },
   {
-    "repo": "godotengine/godot",
+    "repo": "freestylefly/wechat-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
+  },
+  {
+    "repo": "element-hq/element-ios",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A glossy Matrix collaboration client for iOS"
+  },
+  {
+    "repo": "rohitg00/awesome-claude-code-toolkit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+  },
+  {
+    "repo": "heyderekj/dinky",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Dinky makes files smaller."
+  },
+  {
+    "repo": "KeyID-AI/agent-kit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+  },
+  {
+    "repo": "sharkdp/bat",
     "branch": "master",
-    "language": "C++",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+    "language": "Rust",
+    "description": "A cat(1) clone with wings."
   },
   {
-    "repo": "enmanuelmag/agent-harness-kit",
+    "repo": "ceph/ceph",
+    "branch": "main",
+    "language": "C++",
+    "description": "Ceph is a distributed object, block, and file storage platform"
+  },
+  {
+    "repo": "DegenSugarBoo/OpenBook",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape."
+  },
+  {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase."
+    "description": ""
   },
   {
-    "repo": "simplifaisoul/osiris",
+    "repo": "mattmireles/gemma-tuner-multimodal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "repo": "cnlimiter/codex-manager-v3",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "facebook/react-native",
+    "repo": "tj/commander.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "repo": "PyCQA/pylint",
     "branch": "main",
-    "language": "C++",
-    "description": "A framework for building native applications using React"
+    "language": "Python",
+    "description": "It's not just a linter that annoys you!"
+  },
+  {
+    "repo": "rollup/rollup",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Next-generation ES module bundler"
+  },
+  {
+    "repo": "mli55/pdfdelta",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tldraw/tldraw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "very good whiteboard infinite canvas SDK"
+  },
+  {
+    "repo": "IronsideXXVI/Hacker-News",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "michelleoincx/genspark.ai-openclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
+  },
+  {
+    "repo": "ahmadawais/terminui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Super fast double buffered toolkit for building terminal UIs."
+  },
+  {
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
   }
 ]
