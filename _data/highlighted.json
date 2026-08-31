@@ -1,8 +1,8 @@
 {
-  "repo": "lxl0825/RagRank",
+  "repo": "alberto4442/LlmCanvas",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "RagRank utilizes real-time data ingestion and high-performance processing to modeling and anomaly detection on a scalable engine platform.",
+  "language": "Python",
+  "description": "LlmCanvas is a high-performance, event-driven architecture for real-time data processing and adaptive auto-scaling system optimization.",
   "stars": 116,
   "forks": 0
 }

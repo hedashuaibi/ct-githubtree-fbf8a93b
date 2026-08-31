@@ -1,104 +1,68 @@
 [
   {
-    "repo": "maria-rcks/t1code",
+    "repo": "jkudish/librarium",
     "branch": "main",
     "language": "TypeScript",
-    "description": "T3Code, but in your terminal"
+    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
   },
   {
-    "repo": "elder-plinius/T3MP3ST",
+    "repo": "GradientRL/Gradient",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+    "language": "Python",
+    "description": "Gradient"
   },
   {
-    "repo": "V-IOLE-T/hotmail-register-extension",
-    "branch": "main",
+    "repo": "webpack/webpack-dev-server",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
   },
   {
-    "repo": "6551Team/opentwitter-mcp",
+    "repo": "bytedance/semi-design",
     "branch": "main",
-    "language": "Python",
-    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
   },
   {
-    "repo": "Michaelliv/markit",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🖍️ Convert anything to markdown. Mark it."
-  },
-  {
-    "repo": "vansh-nagar/ascii-studio",
+    "repo": "wisher567/Portpal",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+    "description": "See exactly what’s using your ports — and kill it in one click."
   },
   {
-    "repo": "tencent-connect/openclaw-qqbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "QQ Bot Channel Plugin for OpenClaw"
+    "repo": "nvm-sh/nvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
   },
   {
-    "repo": "eooce/python-ws",
-    "branch": "main",
-    "language": "Python",
-    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
   },
   {
-    "repo": "ryfineZ/codex-session-patcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
-  },
-  {
-    "repo": "remorses/usecomputer",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
-  },
-  {
-    "repo": "badlogic/jot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Minimal self-hosted markdown editor with inline comment threads"
-  },
-  {
-    "repo": "0xGF/boneyard",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Auto generated skeleton loading framework"
-  },
-  {
-    "repo": "wuji-labs/nopua",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
-  },
-  {
-    "repo": "derHaken/SuperAntigravity",
+    "repo": "komunite/kalfa",
     "branch": "main",
     "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
   },
   {
-    "repo": "win4r/ClawTeam-OpenClaw",
+    "repo": "fastify/fastify",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "Fast and low overhead web framework, for Node.js"
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "branch": "master",
     "language": "Python",
-    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
+    "description": "All Algorithms implemented in Python"
   },
   {
-    "repo": "doctorhetfield-cmd/simpleui.koplugin",
+    "repo": "upper-up/meta-lobbying-and-other-findings",
     "branch": "main",
-    "language": "Lua",
-    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
-  },
-  {
-    "repo": "allenai/molmoweb",
-    "branch": "main",
-    "language": "Jupyter Notebook",
+    "language": "HTML",
     "description": ""
   },
   {
@@ -108,39 +72,75 @@
     "description": ""
   },
   {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "repo": "avihaymenahem/velo",
     "branch": "main",
-    "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+    "language": "TypeScript",
+    "description": "Open source desktop email client for Gmail"
   },
   {
-    "repo": "kellyvv/PhoneClaw",
+    "repo": "bwya77/vscode-dark-islands",
     "branch": "main",
-    "language": "Swift",
-    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
+    "language": "PowerShell",
+    "description": "VSCode theme based off the new Jetbrains islands theme"
   },
   {
-    "repo": "vigorX777/content-collector-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
-  },
-  {
-    "repo": "galpha-ai/trading-intent",
+    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
     "branch": "main",
     "language": "Rust",
+    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "AI45Lab/TrinityGuard",
+    "branch": "master",
+    "language": "Python",
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
+  },
+  {
+    "repo": "Nyarime/NRUP",
+    "branch": "main",
+    "language": "Go",
+    "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS"
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "haeyupi/hotmail_re_plugin",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "garagon/nanostack",
+    "repo": "tnm/zclaw",
     "branch": "main",
-    "language": "Shell",
-    "description": "Minimal AI coding agent team skills for the full engineering workflow."
+    "language": "C",
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "samber/cc-skills-golang",
+    "repo": "d3/d3",
     "branch": "main",
+    "language": "Shell",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+  },
+  {
+    "repo": "innoqiu/newsieai",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "branch": "master",
     "language": "Go",
-    "description": "🧑‍🎨 A collection of Golang agentic skills that works"
+    "description": "The Cloud Native Control Plane"
+  },
+  {
+    "repo": "socketio/socket.io",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Realtime application framework (Node.JS server)"
   }
 ]
