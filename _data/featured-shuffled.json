@@ -1,146 +1,146 @@
 [
   {
-    "repo": "liyue-aigc/seedance-2-5-video-director",
+    "repo": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
     "branch": "main",
     "language": "Python",
-    "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导"
+    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization."
   },
   {
-    "repo": "vercel/serve",
+    "repo": "Kylin010/tcpfit",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
+    "language": "Shell",
+    "description": "按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点"
   },
   {
-    "repo": "rust-lang/rustlings",
+    "repo": "yo-WASSUP/Good-Badminton",
     "branch": "main",
-    "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
     "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+    "description": "🏸  AI Badminton Hawk-Eye System"
   },
   {
-    "repo": "Creators-of-Aeronautics/Simulated-Project",
+    "repo": "BASSISSA-Marwa/Terraria_All_Items_World",
     "branch": "main",
-    "language": "Java",
-    "description": "Build anything from airships to planes and cars!"
+    "language": "Python",
+    "description": "Build any item, god mode, and world modifier for Terraria. Spawn any item, invincibility, edit terrain, and dig instantly. Ultimate terraria mod."
   },
   {
-    "repo": "Shudesu/line-harness-oss",
+    "repo": "TianhangZhuzth/Fundamental-Ava",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "repo": "strukto-ai/mirage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
+    "description": "A Unified Virtual Filesystem For AI Agents"
   },
   {
-    "repo": "galpha-ai/trading-intent",
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
-    "language": "Rust",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "foru17/make-x-great-again",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source."
+  },
+  {
+    "repo": "workos/auth.md",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
+  },
+  {
+    "repo": "zyn26/minimax-m3-desktop-app-free-api",
+    "branch": "main",
+    "language": "Go",
+    "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference"
+  },
+  {
+    "repo": "DatanoiseTV/ember-hackernews",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies."
+  },
+  {
+    "repo": "diinki/linux-antiquity",
+    "branch": "main",
+    "language": "QML",
+    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
+  },
+  {
+    "repo": "yaojingang/geo-citation-lab",
+    "branch": "main",
+    "language": "Python",
+    "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations."
+  },
+  {
+    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+  },
+  {
+    "repo": "warpdot-dev/craft-agents-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows"
+  },
+  {
+    "repo": "wallpapers-engine/Wallpaper-Engine",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "wallpaper engine pc  free download steam windows 11 workshop live wallpaper creator dynamic animated backgrounds custom themes 4k 8k interactive desktop"
+  },
+  {
+    "repo": "sums001/Windows-Copilot-API",
+    "branch": "master",
+    "language": "Python",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
+  },
+  {
+    "repo": "hoquanghai/Auto-Create-Video",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "aave/aave-v2",
-    "branch": "master",
-    "language": "Other",
-    "description": "Aave Protocol V2"
-  },
-  {
-    "repo": "CN-Syndra/ClawLink",
+    "repo": "jose-90/Deltarune-Chapter5-Ultimate-Trainer-2026",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
+    "language": "Python",
+    "description": "Complete Deltarune Chapter 5 trainer with infinite HP, max stats, unlimited items, and god mode. Dominate every battle and explore the full story with our undetected 2026 cheat tool."
   },
   {
-    "repo": "Uniswap/v2-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
-  },
-  {
-    "repo": "vuejs/vue",
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "neroundimasamp64/Stabilized-Internet-Connection",
+    "repo": "veryyoldman/Genspark-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)"
+  },
+  {
+    "repo": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+  },
+  {
+    "repo": "huang-sir1/radiology-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "op7418/m5-paper-buddy",
     "branch": "main",
     "language": "C++",
-    "description": "Full Version Accelerator with Lifetime Integration & High-Speed Unlocking."
-  },
-  {
-    "repo": "ephraimduncan/opencode-cursor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Use your cursor subscription in opencode"
-  },
-  {
-    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
-  },
-  {
-    "repo": "IyadhKhalfallah/clauditor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stop Claude Code from burning through your quota in 20 minutes. Auto-rotates oversized sessions and preserves context."
-  },
-  {
-    "repo": "win4r/free-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
-  },
-  {
-    "repo": "Gustavo1900/bevy-atmosphere",
-    "branch": "master",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "techwithtim/Flask-Web-App-Tutorial",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Code for the note storing flask web app made during a YouTube video."
-  },
-  {
-    "repo": "omnimind-ai/OmniInfer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cross-platform LLM inference framework for efficient edge deployment"
-  },
-  {
-    "repo": "BytePioneer-AI/moltbot-china",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
-  },
-  {
-    "repo": "facebookresearch/fairseq",
-    "branch": "main",
-    "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
-  },
-  {
-    "repo": "jarodise/pdf2epub-paddle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "RevylAI/app-explorer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
-  },
-  {
-    "repo": "outsourc-e/hermes-workspace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon."
+    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
   }
 ]

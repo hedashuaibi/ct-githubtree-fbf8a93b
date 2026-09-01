@@ -1,8 +1,8 @@
 {
-  "repo": "Belucking/HashBazaar",
+  "repo": "fireinrain/JHS-enhance",
   "branch": "main",
-  "language": "Python",
-  "description": "HashBazaar is a distributed, intelligent data processing framework that auto-scaling for dynamic workload management on a scalable platform.",
-  "stars": 115,
-  "forks": 0
+  "language": "JavaScript",
+  "description": "JHS-enhance 脚本，优化你的老司机体验",
+  "stars": 121,
+  "forks": 6
 }
