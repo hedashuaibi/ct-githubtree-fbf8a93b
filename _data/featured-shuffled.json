@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization."
-  },
-  {
-    "repo": "Kylin010/tcpfit",
-    "branch": "main",
-    "language": "Shell",
-    "description": "按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点"
-  },
-  {
-    "repo": "yo-WASSUP/Good-Badminton",
-    "branch": "main",
-    "language": "Python",
-    "description": "🏸  AI Badminton Hawk-Eye System"
-  },
-  {
-    "repo": "BASSISSA-Marwa/Terraria_All_Items_World",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build any item, god mode, and world modifier for Terraria. Spawn any item, invincibility, edit terrain, and dig instantly. Ultimate terraria mod."
-  },
-  {
-    "repo": "TianhangZhuzth/Fundamental-Ava",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
-  },
-  {
-    "repo": "strukto-ai/mirage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Unified Virtual Filesystem For AI Agents"
-  },
-  {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "foru17/make-x-great-again",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source."
-  },
-  {
-    "repo": "workos/auth.md",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
-  },
-  {
-    "repo": "zyn26/minimax-m3-desktop-app-free-api",
+    "repo": "ZHChen2000/qzone-history",
     "branch": "main",
     "language": "Go",
-    "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference"
+    "description": "QQ空间历史数据恢复工具：Qzone-History"
   },
   {
-    "repo": "DatanoiseTV/ember-hackernews",
+    "repo": "simonw/cia-world-factbook-2020",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
+  },
+  {
+    "repo": "testing-library/react-testing-library",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
+  },
+  {
+    "repo": "iammaimai/claude-code-fixed",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "silverstein/minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
+  },
+  {
+    "repo": "onecli/onecli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source credential vault, give your AI agents access to services without exposing keys."
+  },
+  {
+    "repo": "remorses/usecomputer",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
+  },
+  {
+    "repo": "SentiAvatar/SentiAvatar",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Shpigford/chops",
     "branch": "main",
     "language": "Swift",
-    "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies."
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
   },
   {
-    "repo": "diinki/linux-antiquity",
+    "repo": "ClawdisAI/ClawdisAI",
     "branch": "main",
-    "language": "QML",
-    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
+    "language": "Swift",
+    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
   },
   {
-    "repo": "yaojingang/geo-citation-lab",
+    "repo": "immanuwell/dockerfile-roast",
     "branch": "main",
-    "language": "Python",
-    "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations."
+    "language": "Rust",
+    "description": "a dockerfile linter that actually has opinions 🔥"
   },
   {
-    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "repo": "chartist/chartist",
+    "branch": "develop",
+    "language": "Ruby",
+    "description": "Final Project @ Makers Academy"
+  },
+  {
+    "repo": "launchbadge/sqlx",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+    "language": "Rust",
+    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
   },
   {
-    "repo": "warpdot-dev/craft-agents-oss",
+    "repo": "pacifio/cersei",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows"
+    "language": "Rust",
+    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
   },
   {
-    "repo": "wallpapers-engine/Wallpaper-Engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "wallpaper engine pc  free download steam windows 11 workshop live wallpaper creator dynamic animated backgrounds custom themes 4k 8k interactive desktop"
-  },
-  {
-    "repo": "sums001/Windows-Copilot-API",
+    "repo": "amplication/amplication",
     "branch": "master",
-    "language": "Python",
-    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
-  },
-  {
-    "repo": "hoquanghai/Auto-Create-Video",
-    "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
   },
   {
-    "repo": "jose-90/Deltarune-Chapter5-Ultimate-Trainer-2026",
+    "repo": "solana-labs/solana-program-library",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A collection of Solana programs maintained by Solana Labs"
+  },
+  {
+    "repo": "yargs/yargs",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "yargs the modern, pirate-themed successor to optimist."
+  },
+  {
+    "repo": "harshkedia177/axon",
     "branch": "main",
     "language": "Python",
-    "description": "Complete Deltarune Chapter 5 trainer with infinite HP, max stats, unlimited items, and god mode. Dominate every battle and explore the full story with our undetected 2026 cheat tool."
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
   },
   {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
+    "repo": "melonjs/melonJS",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
   },
   {
-    "repo": "veryyoldman/Genspark-AI",
+    "repo": "tikv/tikv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+  },
+  {
+    "repo": "aligfellow/xyzrender",
     "branch": "main",
     "language": "Python",
-    "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)"
+    "description": "Publication-quality molecular graphics from the command line."
   },
   {
-    "repo": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
+    "repo": "tvytlx/ai-agent-deep-dive",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+    "description": "AI Agent 源码深度研究报告"
   },
   {
-    "repo": "huang-sir1/radiology-skills",
+    "repo": "Veirt/weathr",
     "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "op7418/m5-paper-buddy",
-    "branch": "main",
-    "language": "C++",
-    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
+    "language": "Rust",
+    "description": "a terminal weather app with ascii animation"
   }
 ]
