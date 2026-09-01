@@ -1,146 +1,146 @@
 [
   {
-    "repo": "daimon3332/OutlookRegister",
+    "repo": "liyue-aigc/seedance-2-5-video-director",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导"
   },
   {
-    "repo": "antfu/skills-npm",
+    "repo": "vercel/serve",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Install agent skills from npm"
+    "description": "Static file serving and directory listing"
   },
   {
-    "repo": "vakovalskii/codedash",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
-  },
-  {
-    "repo": "Introspective-Diffusion/I-DLM",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "cnlimiter/codex-manager-v3",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "openlibrecommunity/olcrtc",
-    "branch": "master",
-    "language": "Python",
-    "description": "olc - using side channels to access web outside the whitelist"
-  },
-  {
-    "repo": "DevTechJr/turboquant-gpu",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "HMAKT99/UnTouchID",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
-  },
-  {
-    "repo": "verssache/chatgpt-creator",
-    "branch": "main",
-    "language": "Go",
-    "description": "A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification."
-  },
-  {
-    "repo": "LemoLev/tg-ws-proxy-ANDROID",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
-  },
-  {
-    "repo": "duoan/TorchCode",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
-  },
-  {
-    "repo": "shitagaki-lab/see-through",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Single-image Layer Decomposition for Anime Characters (SIGGRAPH 2026, Conditionally Accepted)"
-  },
-  {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "michelleoincx/genspark.ai-openclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
-  },
-  {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
+    "repo": "rust-lang/rustlings",
     "branch": "main",
     "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   },
   {
-    "repo": "MistKailorg/Polymarket-trading-bot",
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "Creators-of-Aeronautics/Simulated-Project",
+    "branch": "main",
+    "language": "Java",
+    "description": "Build anything from airships to planes and cars!"
+  },
+  {
+    "repo": "Shudesu/line-harness-oss",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
+    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
   },
   {
-    "repo": "kossisoroyce/timber",
+    "repo": "galpha-ai/trading-intent",
     "branch": "main",
-    "language": "Python",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "docker/cli",
+    "repo": "aave/aave-v2",
     "branch": "master",
-    "language": "Go",
-    "description": "The Docker CLI"
+    "language": "Other",
+    "description": "Aave Protocol V2"
   },
   {
-    "repo": "phuryn/pm-skills",
+    "repo": "CN-Syndra/ClawLink",
     "branch": "main",
-    "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+    "language": "TypeScript",
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
   },
   {
-    "repo": "said-ohamouddou/LIDARLearn",
-    "branch": "main",
-    "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
-  },
-  {
-    "repo": "PyCQA/pylint",
-    "branch": "main",
-    "language": "Python",
-    "description": "It's not just a linter that annoys you!"
-  },
-  {
-    "repo": "atom/atom",
+    "repo": "Uniswap/v2-core",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ":atom: The hackable text editor"
+    "language": "TypeScript",
+    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
   },
   {
-    "repo": "networkx/networkx",
+    "repo": "vuejs/vue",
     "branch": "main",
-    "language": "Python",
-    "description": "Network Analysis in Python"
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
   },
   {
-    "repo": "sstklen/trump-code",
+    "repo": "neroundimasamp64/Stabilized-Internet-Connection",
+    "branch": "main",
+    "language": "C++",
+    "description": "Full Version Accelerator with Lifetime Integration & High-Speed Unlocking."
+  },
+  {
+    "repo": "ephraimduncan/opencode-cursor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Use your cursor subscription in opencode"
+  },
+  {
+    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+  },
+  {
+    "repo": "IyadhKhalfallah/clauditor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stop Claude Code from burning through your quota in 20 minutes. Auto-rotates oversized sessions and preserves context."
+  },
+  {
+    "repo": "win4r/free-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+  },
+  {
+    "repo": "Gustavo1900/bevy-atmosphere",
+    "branch": "master",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "techwithtim/Flask-Web-App-Tutorial",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Code for the note storing flask web app made during a YouTube video."
+  },
+  {
+    "repo": "omnimind-ai/OmniInfer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Cross-platform LLM inference framework for efficient edge deployment"
+  },
+  {
+    "repo": "BytePioneer-AI/moltbot-china",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
+  },
+  {
+    "repo": "facebookresearch/fairseq",
     "branch": "main",
     "language": "Python",
-    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+  },
+  {
+    "repo": "jarodise/pdf2epub-paddle",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "RevylAI/app-explorer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
+  },
+  {
+    "repo": "outsourc-e/hermes-workspace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon."
   }
 ]
