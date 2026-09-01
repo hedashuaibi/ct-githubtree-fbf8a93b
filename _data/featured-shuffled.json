@@ -1,81 +1,27 @@
 [
   {
-    "repo": "NanmiCoder/open-image-prompts",
+    "repo": "daimon3332/OutlookRegister",
     "branch": "main",
     "language": "Python",
-    "description": "Open, local-first visual prompt archive with traceable prompt-image references and installable Agent Skills."
-  },
-  {
-    "repo": "pointfreeco/swift-snapshot-testing",
-    "branch": "main",
-    "language": "Swift",
-    "description": "📸 Delightful Swift snapshot testing."
-  },
-  {
-    "repo": "ibelick/mesurer",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "freestylefly/wechat-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
-  },
-  {
-    "repo": "element-hq/element-ios",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A glossy Matrix collaboration client for iOS"
-  },
-  {
-    "repo": "rohitg00/awesome-claude-code-toolkit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
-  },
-  {
-    "repo": "heyderekj/dinky",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Dinky makes files smaller."
-  },
-  {
-    "repo": "KeyID-AI/agent-kit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
-  },
-  {
-    "repo": "sharkdp/bat",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cat(1) clone with wings."
-  },
-  {
-    "repo": "ceph/ceph",
-    "branch": "main",
-    "language": "C++",
-    "description": "Ceph is a distributed object, block, and file storage platform"
-  },
-  {
-    "repo": "DegenSugarBoo/OpenBook",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape."
-  },
-  {
-    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "repo": "antfu/skills-npm",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Install agent skills from npm"
   },
   {
-    "repo": "mattmireles/gemma-tuner-multimodal",
+    "repo": "vakovalskii/codedash",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
+  },
+  {
+    "repo": "Introspective-Diffusion/I-DLM",
     "branch": "main",
     "language": "Python",
-    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+    "description": ""
   },
   {
     "repo": "cnlimiter/codex-manager-v3",
@@ -84,40 +30,52 @@
     "description": ""
   },
   {
-    "repo": "tj/commander.js",
+    "repo": "openlibrecommunity/olcrtc",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
-  },
-  {
-    "repo": "PyCQA/pylint",
-    "branch": "main",
     "language": "Python",
-    "description": "It's not just a linter that annoys you!"
+    "description": "olc - using side channels to access web outside the whitelist"
   },
   {
-    "repo": "rollup/rollup",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Next-generation ES module bundler"
-  },
-  {
-    "repo": "mli55/pdfdelta",
+    "repo": "DevTechJr/turboquant-gpu",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "tldraw/tldraw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "very good whiteboard infinite canvas SDK"
-  },
-  {
-    "repo": "IronsideXXVI/Hacker-News",
+    "repo": "HMAKT99/UnTouchID",
     "branch": "main",
     "language": "Swift",
-    "description": ""
+    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
+  },
+  {
+    "repo": "verssache/chatgpt-creator",
+    "branch": "main",
+    "language": "Go",
+    "description": "A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification."
+  },
+  {
+    "repo": "LemoLev/tg-ws-proxy-ANDROID",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
+  },
+  {
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+  },
+  {
+    "repo": "shitagaki-lab/see-through",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Single-image Layer Decomposition for Anime Characters (SIGGRAPH 2026, Conditionally Accepted)"
+  },
+  {
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deepfakes Software For All"
   },
   {
     "repo": "michelleoincx/genspark.ai-openclaw",
@@ -126,21 +84,63 @@
     "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
   },
   {
-    "repo": "ahmadawais/terminui",
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+  },
+  {
+    "repo": "MistKailorg/Polymarket-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Super fast double buffered toolkit for building terminal UIs."
+    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
   },
   {
-    "repo": "boto/boto",
-    "branch": "develop",
+    "repo": "kossisoroyce/timber",
+    "branch": "main",
     "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
   },
   {
-    "repo": "milvus-io/milvus",
+    "repo": "docker/cli",
     "branch": "master",
     "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+    "description": "The Docker CLI"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+  },
+  {
+    "repo": "said-ohamouddou/LIDARLearn",
+    "branch": "main",
+    "language": "Python",
+    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
+  },
+  {
+    "repo": "PyCQA/pylint",
+    "branch": "main",
+    "language": "Python",
+    "description": "It's not just a linter that annoys you!"
+  },
+  {
+    "repo": "atom/atom",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":atom: The hackable text editor"
+  },
+  {
+    "repo": "networkx/networkx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Network Analysis in Python"
+  },
+  {
+    "repo": "sstklen/trump-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
   }
 ]
