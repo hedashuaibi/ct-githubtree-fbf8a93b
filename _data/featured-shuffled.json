@@ -1,146 +1,146 @@
 [
   {
-    "repo": "humanrouter/ddtree-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support."
-  },
-  {
-    "repo": "JUk1-GH/gpt-promo-scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
-  },
-  {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
-  },
-  {
-    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
-    "branch": "main",
-    "language": "C++",
-    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
-  },
-  {
-    "repo": "divyaprakash0426/autoshorts",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers."
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "BabylonJS/Babylon.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
-  },
-  {
-    "repo": "yetone/voice-input-dist",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "pypa/hatch",
-    "branch": "master",
-    "language": "Python",
-    "description": "Modern, extensible Python project management"
-  },
-  {
-    "repo": "dwzhu-pku/PaperBanana",
+    "repo": "TriangleMagistrate/lovable-openclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
   },
   {
-    "repo": "jesseduffield/lazydocker",
-    "branch": "master",
-    "language": "Go",
-    "description": "The lazier way to manage everything docker"
-  },
-  {
-    "repo": "react-native-maps/react-native-maps",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Mapview component for iOS + Android"
-  },
-  {
-    "repo": "etcd-io/etcd",
-    "branch": "main",
-    "language": "Go",
-    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
-  },
-  {
-    "repo": "antfu/skills-npm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Install agent skills from npm"
-  },
-  {
-    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
-  },
-  {
-    "repo": "codeany-ai/open-agent-sdk-typescript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
-  },
-  {
-    "repo": "terausss/polymarket-copy-trading-bot",
+    "repo": "VonHoltenCodes/SlowBooks-Pro-2026",
     "branch": "main",
     "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+    "description": "Personal bookkeeping app - a QuickBooks 2003 Pro replacement, decompiled from the ashes of QBW32.EXE. Free for personal and enterprise use."
   },
   {
-    "repo": "silverstein/minutes",
+    "repo": "dogadmin/ProcIR",
     "branch": "main",
-    "language": "Rust",
-    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
-  },
-  {
-    "repo": "ramsey/uuid",
-    "branch": "4.7",
-    "language": "PHP",
-    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
-  },
-  {
-    "repo": "shanselman/openclaw-windows-hub",
-    "branch": "master",
-    "language": "C#",
-    "description": "Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension"
-  },
-  {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "cpaczek/any-buddy",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hack Claude Code to get any buddy you want"
-  },
-  {
-    "repo": "Pika-Labs/Pika-Skills",
-    "branch": "main",
-    "language": "Python",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "mrconter1/rustc-php",
+    "repo": "rit3zh/expo-dynamic-tray",
     "branch": "main",
-    "language": "PHP",
-    "description": "A Rust compiler with ownership checking, written in PHP"
+    "language": "TypeScript",
+    "description": "📚 A morphing, keyboard-aware bottom-sheet tray."
+  },
+  {
+    "repo": "alicankiraz1/CodexQB",
+    "branch": "main",
+    "language": "Python",
+    "description": "CodexQB is a Codex plugin for evidence-backed repo comprehension, planning, QA audit, and gated implementation handoffs."
+  },
+  {
+    "repo": "Sayhi-bzb/AIEden",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "an LLM-native world and civilization"
+  },
+  {
+    "repo": "PentHertz/LUKSbox",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows."
+  },
+  {
+    "repo": "m00grin/ph-intercept",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
+  },
+  {
+    "repo": "PlaceNL2026/best-of-algorithmic-trading",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
+  },
+  {
+    "repo": "ckpxgfnksd-max/uap-release-analyzer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Claude skill for analyzing tranches of declassified UAP/UFO documents (war.gov PURSUE, FBI Vault, NARA, AARO). Inventory + text extraction + entity surfacing + standardized 11-section REPORT.md."
+  },
+  {
+    "repo": "mitsuhiko/pi-llamacpp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An experimental pi extension that runs and manages qwen with llama.cpp"
+  },
+  {
+    "repo": "SignalBot-Labs/aster-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp tra"
+  },
+  {
+    "repo": "ForecastForge/coinbase-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation"
+  },
+  {
+    "repo": "TrendTechVista/polymarket-politics-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+  },
+  {
+    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
+  },
+  {
+    "repo": "tritano/ultraviewer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+  },
+  {
+    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
+    "branch": "main",
+    "language": "Python",
+    "description": "RSC Detect CVE 2025 55182"
+  },
+  {
+    "repo": "agenmod/immortal-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
+  },
+  {
+    "repo": "SharifiZarchi/janfadaa",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "chencore/autoresearch-crypto",
+    "branch": "dev-2.0",
+    "language": "Python",
+    "description": "autoresearch-crypto"
+  },
+  {
+    "repo": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "branch": "main",
+    "language": "C++",
+    "description": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
+  },
+  {
+    "repo": "Robbyant/lingbot-video",
+    "branch": "master",
+    "language": "Python",
+    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+  },
+  {
+    "repo": "FireRedTeam/FireRed-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

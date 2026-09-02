@@ -1,8 +1,8 @@
 {
-  "repo": "charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
+  "repo": "dr3murr/steam2-winfsp",
   "branch": "main",
   "language": "C++",
-  "description": "Game Optimizer (CPUs Threads Optimizer) - Windows tray app that pins games to the right CPU cache complex using the Windows CPU Sets API. No affinity masks, no SMT disable, no BIOS changes.",
-  "stars": 102,
-  "forks": 8
+  "description": "Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes",
+  "stars": 120,
+  "forks": 11
 }
