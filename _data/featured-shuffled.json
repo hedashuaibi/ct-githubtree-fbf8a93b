@@ -1,21 +1,87 @@
 [
   {
-    "repo": "duoan/TorchCode",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
-  },
-  {
-    "repo": "microsoft/react-native-code-push",
-    "branch": "master",
-    "language": "C",
-    "description": "React Native module for CodePush"
-  },
-  {
-    "repo": "owenlejeune/ArrMatey",
+    "repo": "CookSleep/gpt_image_playground",
     "branch": "main",
-    "language": "Kotlin",
-    "description": ""
+    "language": "TypeScript",
+    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+  },
+  {
+    "repo": "zsh-users/zsh-syntax-highlighting",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish shell like syntax highlighting for Zsh."
+  },
+  {
+    "repo": "explosion/spaCy",
+    "branch": "master",
+    "language": "Python",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+  },
+  {
+    "repo": "tailwindlabs/heroicons",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  },
+  {
+    "repo": "audacity/audacity",
+    "branch": "master",
+    "language": "C++",
+    "description": "Audio Editor"
+  },
+  {
+    "repo": "jamiepine/voicebox",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
+  },
+  {
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+  },
+  {
+    "repo": "whatwg/html",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML Standard"
+  },
+  {
+    "repo": "ultraworkers/claw-code-parity",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "repo": "web3/web3.js",
+    "branch": "1.x",
+    "language": "TypeScript",
+    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
+  },
+  {
+    "repo": "photonstorm/phaser",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+  },
+  {
+    "repo": "filecoin-project/lotus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Reference implementation of the Filecoin protocol, written in Go"
+  },
+  {
+    "repo": "letmutex/gitas",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Git Account Switch"
+  },
+  {
+    "repo": "solana-labs/solana",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
   },
   {
     "repo": "leonardomso/33-js-concepts",
@@ -24,123 +90,57 @@
     "description": "📜 33 JavaScript concepts every developer should know."
   },
   {
-    "repo": "ufira-ai/Vibma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
-  },
-  {
-    "repo": "apple/corecrypto",
-    "branch": "main",
-    "language": "C++",
-    "description": "Apple corecrypto"
-  },
-  {
-    "repo": "optiscalerclient/optiscaler-client",
-    "branch": "main",
-    "language": "C#",
-    "description": "optiscaler client fsr4  github download 007 first light optiscaler  dlss enabler forza horizon 6 optiscaler  lossless scaling manager upscaling tool dlss fsr xess frame generation nukemfg fakenvapi steam mod installation guide tutorial linux"
-  },
-  {
-    "repo": "tytsxai/IDM-Activation-Script-Chinese",
-    "branch": "main",
-    "language": "Batchfile",
-    "description": "Chinese GBK toolkit for IDM trial/activation/reset with registry backup (does not patch IDM binary). IDM 激活脚本中文版。"
-  },
-  {
-    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
-  },
-  {
-    "repo": "joeseesun/qiaomu-cut-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering"
-  },
-  {
-    "repo": "angieruiz17/codex-gpt-plugin",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session"
-  },
-  {
-    "repo": "opencoredev/login-with-chatgpt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A simple SDK that lets your users log in with their ChatGPT account."
-  },
-  {
-    "repo": "zerosupercycIe/risk-free-sniper",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "nawras15/File_Integrity_Checker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Check integrity of files by computing and verifying hashes (MD5, SHA1, SHA256). Detect file corruption and ensure data integrity."
-  },
-  {
-    "repo": "sunflower-of-parchman/codex-hygiene",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
-  },
-  {
-    "repo": "funador/claude-code-merge-queue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The local merge queue for parallel Claude Code agents."
-  },
-  {
-    "repo": "frecodecasti/polymarket-weather-trading-bot",
+    "repo": "nyanko3141592/remotion-voicevox-template",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot"
+    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
   },
   {
-    "repo": "RoushanKhalid/File_Encryption_Tool",
+    "repo": "lens-protocol/lens-protocol",
     "branch": "main",
-    "language": "Python",
-    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
+    "language": "Solidity",
+    "description": "The Lens Protocol"
   },
   {
-    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
+    "repo": "argoproj/argo-events",
+    "branch": "master",
+    "language": "Go",
+    "description": "Event-driven Automation Framework for Kubernetes"
   },
   {
-    "repo": "MTTECHTH/mihon-aria",
-    "branch": "main",
-    "language": "HTML",
-    "description": "The Ultimate Manga Reading Experience for Android 2026"
+    "repo": "minix3/minix",
+    "branch": "master",
+    "language": "Other",
+    "description": "Redirection to the real github page only."
   },
   {
-    "repo": "SuperJJ007/CSswitch",
+    "repo": "kimlawtech/korean-privacy-terms",
     "branch": "main",
-    "language": "Rust",
-    "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。"
+    "language": "Go Template",
+    "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영."
   },
   {
-    "repo": "Miguok/fable-harness",
+    "repo": "xixu-me/awesome-persona-distill-skills",
     "branch": "main",
-    "language": "Python",
-    "description": "Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness."
+    "language": "JavaScript",
+    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
   },
   {
-    "repo": "SmileLikeYe/agent-chief",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "umijs/umi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A framework in react community ✨"
   },
   {
-    "repo": "Tonnyspiel/Easy_Backup_Scheduler",
+    "repo": "kellyclaudeai/openclaw-deck",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Multi-column chat interface for OpenClaw agents"
+  },
+  {
+    "repo": "Neighbor-Z/SwiftMTP",
     "branch": "main",
-    "language": "Python",
-    "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles."
+    "language": "Swift",
+    "description": "A modern MTP device management tool for macOS."
   }
 ]
