@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ZHChen2000/qzone-history",
-    "branch": "main",
-    "language": "Go",
-    "description": "QQ空间历史数据恢复工具：Qzone-History"
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
   },
   {
-    "repo": "simonw/cia-world-factbook-2020",
+    "repo": "microsoft/react-native-code-push",
+    "branch": "master",
+    "language": "C",
+    "description": "React Native module for CodePush"
+  },
+  {
+    "repo": "owenlejeune/ArrMatey",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "leonardomso/33-js-concepts",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "ufira-ai/Vibma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
+  },
+  {
+    "repo": "apple/corecrypto",
+    "branch": "main",
+    "language": "C++",
+    "description": "Apple corecrypto"
+  },
+  {
+    "repo": "optiscalerclient/optiscaler-client",
+    "branch": "main",
+    "language": "C#",
+    "description": "optiscaler client fsr4  github download 007 first light optiscaler  dlss enabler forza horizon 6 optiscaler  lossless scaling manager upscaling tool dlss fsr xess frame generation nukemfg fakenvapi steam mod installation guide tutorial linux"
+  },
+  {
+    "repo": "tytsxai/IDM-Activation-Script-Chinese",
+    "branch": "main",
+    "language": "Batchfile",
+    "description": "Chinese GBK toolkit for IDM trial/activation/reset with registry backup (does not patch IDM binary). IDM 激活脚本中文版。"
+  },
+  {
+    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
+  },
+  {
+    "repo": "joeseesun/qiaomu-cut-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering"
+  },
+  {
+    "repo": "angieruiz17/codex-gpt-plugin",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session"
+  },
+  {
+    "repo": "opencoredev/login-with-chatgpt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A simple SDK that lets your users log in with their ChatGPT account."
+  },
+  {
+    "repo": "zerosupercycIe/risk-free-sniper",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "nawras15/File_Integrity_Checker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Check integrity of files by computing and verifying hashes (MD5, SHA1, SHA256). Detect file corruption and ensure data integrity."
+  },
+  {
+    "repo": "sunflower-of-parchman/codex-hygiene",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
+  },
+  {
+    "repo": "funador/claude-code-merge-queue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The local merge queue for parallel Claude Code agents."
+  },
+  {
+    "repo": "frecodecasti/polymarket-weather-trading-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot"
+  },
+  {
+    "repo": "RoushanKhalid/File_Encryption_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
+  },
+  {
+    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
+  },
+  {
+    "repo": "MTTECHTH/mihon-aria",
     "branch": "main",
     "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
+    "description": "The Ultimate Manga Reading Experience for Android 2026"
   },
   {
-    "repo": "testing-library/react-testing-library",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
-  },
-  {
-    "repo": "iammaimai/claude-code-fixed",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "silverstein/minutes",
+    "repo": "SuperJJ007/CSswitch",
     "branch": "main",
     "language": "Rust",
-    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
+    "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。"
   },
   {
-    "repo": "onecli/onecli",
+    "repo": "Miguok/fable-harness",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source credential vault, give your AI agents access to services without exposing keys."
+    "language": "Python",
+    "description": "Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness."
   },
   {
-    "repo": "remorses/usecomputer",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
-  },
-  {
-    "repo": "SentiAvatar/SentiAvatar",
+    "repo": "SmileLikeYe/agent-chief",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Shpigford/chops",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
-  },
-  {
-    "repo": "ClawdisAI/ClawdisAI",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
-  },
-  {
-    "repo": "immanuwell/dockerfile-roast",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "chartist/chartist",
-    "branch": "develop",
-    "language": "Ruby",
-    "description": "Final Project @ Makers Academy"
-  },
-  {
-    "repo": "launchbadge/sqlx",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
-  },
-  {
-    "repo": "pacifio/cersei",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
-  },
-  {
-    "repo": "amplication/amplication",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
-  },
-  {
-    "repo": "solana-labs/solana-program-library",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A collection of Solana programs maintained by Solana Labs"
-  },
-  {
-    "repo": "yargs/yargs",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "yargs the modern, pirate-themed successor to optimist."
-  },
-  {
-    "repo": "harshkedia177/axon",
+    "repo": "Tonnyspiel/Easy_Backup_Scheduler",
     "branch": "main",
     "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
-  },
-  {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
-  },
-  {
-    "repo": "agentscope-ai/CoPaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
-  },
-  {
-    "repo": "tikv/tikv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Distributed transactional key-value database, originally created to complement TiDB"
-  },
-  {
-    "repo": "aligfellow/xyzrender",
-    "branch": "main",
-    "language": "Python",
-    "description": "Publication-quality molecular graphics from the command line."
-  },
-  {
-    "repo": "tvytlx/ai-agent-deep-dive",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Agent 源码深度研究报告"
-  },
-  {
-    "repo": "Veirt/weathr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
+    "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles."
   }
 ]
