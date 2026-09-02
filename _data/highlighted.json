@@ -1,8 +1,8 @@
 {
-  "repo": "yilujian/easy-writing",
+  "repo": "charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
   "branch": "main",
-  "language": "Vue",
-  "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-  "stars": 155,
-  "forks": 34
+  "language": "C++",
+  "description": "Game Optimizer (CPUs Threads Optimizer) - Windows tray app that pins games to the right CPU cache complex using the Windows CPU Sets API. No affinity masks, no SMT disable, no BIOS changes.",
+  "stars": 102,
+  "forks": 8
 }

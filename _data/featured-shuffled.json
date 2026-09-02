@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CookSleep/gpt_image_playground",
+    "repo": "humanrouter/ddtree-mlx",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
-  },
-  {
-    "repo": "zsh-users/zsh-syntax-highlighting",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish shell like syntax highlighting for Zsh."
-  },
-  {
-    "repo": "explosion/spaCy",
-    "branch": "master",
     "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support."
   },
   {
-    "repo": "tailwindlabs/heroicons",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+    "repo": "JUk1-GH/gpt-promo-scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
   },
   {
-    "repo": "audacity/audacity",
+    "repo": "trailofbits/CoBRA",
     "branch": "master",
     "language": "C++",
-    "description": "Audio Editor"
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
   },
   {
-    "repo": "jamiepine/voicebox",
+    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
+    "language": "C++",
+    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
   },
   {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "repo": "divyaprakash0426/autoshorts",
     "branch": "main",
     "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+    "description": "Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers."
   },
   {
-    "repo": "whatwg/html",
+    "repo": "ImageMagick/ImageMagick",
     "branch": "main",
-    "language": "HTML",
-    "description": "HTML Standard"
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
   },
   {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "web3/web3.js",
-    "branch": "1.x",
-    "language": "TypeScript",
-    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
-  },
-  {
-    "repo": "photonstorm/phaser",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
-  },
-  {
-    "repo": "filecoin-project/lotus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Reference implementation of the Filecoin protocol, written in Go"
-  },
-  {
-    "repo": "letmutex/gitas",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Git Account Switch"
-  },
-  {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "leonardomso/33-js-concepts",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📜 33 JavaScript concepts every developer should know."
-  },
-  {
-    "repo": "nyanko3141592/remotion-voicevox-template",
+    "repo": "BabylonJS/Babylon.js",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
   },
   {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "argoproj/argo-events",
-    "branch": "master",
-    "language": "Go",
-    "description": "Event-driven Automation Framework for Kubernetes"
-  },
-  {
-    "repo": "minix3/minix",
-    "branch": "master",
-    "language": "Other",
-    "description": "Redirection to the real github page only."
-  },
-  {
-    "repo": "kimlawtech/korean-privacy-terms",
-    "branch": "main",
-    "language": "Go Template",
-    "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영."
-  },
-  {
-    "repo": "xixu-me/awesome-persona-distill-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
-  },
-  {
-    "repo": "umijs/umi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A framework in react community ✨"
-  },
-  {
-    "repo": "kellyclaudeai/openclaw-deck",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Multi-column chat interface for OpenClaw agents"
-  },
-  {
-    "repo": "Neighbor-Z/SwiftMTP",
+    "repo": "yetone/voice-input-dist",
     "branch": "main",
     "language": "Swift",
-    "description": "A modern MTP device management tool for macOS."
+    "description": ""
+  },
+  {
+    "repo": "pypa/hatch",
+    "branch": "master",
+    "language": "Python",
+    "description": "Modern, extensible Python project management"
+  },
+  {
+    "repo": "dwzhu-pku/PaperBanana",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "branch": "master",
+    "language": "Go",
+    "description": "The lazier way to manage everything docker"
+  },
+  {
+    "repo": "react-native-maps/react-native-maps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "branch": "main",
+    "language": "Go",
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+  },
+  {
+    "repo": "antfu/skills-npm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
+  },
+  {
+    "repo": "codeany-ai/open-agent-sdk-typescript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  {
+    "repo": "terausss/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "silverstein/minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
+  },
+  {
+    "repo": "ramsey/uuid",
+    "branch": "4.7",
+    "language": "PHP",
+    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
+  },
+  {
+    "repo": "shanselman/openclaw-windows-hub",
+    "branch": "master",
+    "language": "C#",
+    "description": "Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension"
+  },
+  {
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
+  },
+  {
+    "repo": "cpaczek/any-buddy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hack Claude Code to get any buddy you want"
+  },
+  {
+    "repo": "Pika-Labs/Pika-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "mrconter1/rustc-php",
+    "branch": "main",
+    "language": "PHP",
+    "description": "A Rust compiler with ownership checking, written in PHP"
   }
 ]
