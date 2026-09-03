@@ -1,8 +1,8 @@
 {
-  "repo": "PhiloLabs/fable51-worlds",
+  "repo": "yczz/oc-english",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "worlds via code, from fable 5.1",
-  "stars": 132,
-  "forks": 4
+  "language": "JavaScript",
+  "description": "养成类游戏英语学习",
+  "stars": 150,
+  "forks": 3
 }
