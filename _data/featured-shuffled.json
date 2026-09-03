@@ -1,146 +1,146 @@
 [
   {
-    "repo": "TriangleMagistrate/lovable-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
-  },
-  {
-    "repo": "VonHoltenCodes/SlowBooks-Pro-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Personal bookkeeping app - a QuickBooks 2003 Pro replacement, decompiled from the ashes of QBW32.EXE. Free for personal and enterprise use."
-  },
-  {
-    "repo": "dogadmin/ProcIR",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "rit3zh/expo-dynamic-tray",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "📚 A morphing, keyboard-aware bottom-sheet tray."
-  },
-  {
-    "repo": "alicankiraz1/CodexQB",
-    "branch": "main",
-    "language": "Python",
-    "description": "CodexQB is a Codex plugin for evidence-backed repo comprehension, planning, QA audit, and gated implementation handoffs."
-  },
-  {
-    "repo": "Sayhi-bzb/AIEden",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "an LLM-native world and civilization"
-  },
-  {
-    "repo": "PentHertz/LUKSbox",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows."
-  },
-  {
-    "repo": "m00grin/ph-intercept",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
-  },
-  {
-    "repo": "PlaceNL2026/best-of-algorithmic-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
-  },
-  {
-    "repo": "ckpxgfnksd-max/uap-release-analyzer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Claude skill for analyzing tranches of declassified UAP/UFO documents (war.gov PURSUE, FBI Vault, NARA, AARO). Inventory + text extraction + entity surfacing + standardized 11-section REPORT.md."
-  },
-  {
-    "repo": "mitsuhiko/pi-llamacpp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An experimental pi extension that runs and manages qwen with llama.cpp"
-  },
-  {
-    "repo": "SignalBot-Labs/aster-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp tra"
-  },
-  {
-    "repo": "ForecastForge/coinbase-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-politics-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
-  },
-  {
-    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
-  },
-  {
-    "repo": "tritano/ultraviewer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
-  },
-  {
-    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
-    "branch": "main",
-    "language": "Python",
-    "description": "RSC Detect CVE 2025 55182"
-  },
-  {
-    "repo": "agenmod/immortal-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
-  },
-  {
-    "repo": "SharifiZarchi/janfadaa",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "chencore/autoresearch-crypto",
-    "branch": "dev-2.0",
-    "language": "Python",
-    "description": "autoresearch-crypto"
-  },
-  {
-    "repo": "PrimeOrder-Labs/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
-    "branch": "main",
-    "language": "C++",
-    "description": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
-  },
-  {
-    "repo": "Robbyant/lingbot-video",
+    "repo": "binhanchen25-arch/agent_plus",
     "branch": "master",
     "language": "Python",
-    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+    "description": ""
   },
   {
-    "repo": "FireRedTeam/FireRed-OCR",
+    "repo": "3x-haust/workshop-wallpaper-bridge",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Local-only macOS bridge for personally copied Wallpaper Engine Workshop wallpapers"
+  },
+  {
+    "repo": "Railly/agentfiles",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Discover, organize, and edit AI coding agent skills across Claude Code, Cursor, Codex, Windsurf, and more, from inside Obsidian."
+  },
+  {
+    "repo": "Nightmare-Eclipse/UnDefend",
+    "branch": "main",
+    "language": "C++",
+    "description": "Repository hosting windows defender DOS tool"
+  },
+  {
+    "repo": "owengretzinger/constellagent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
+  },
+  {
+    "repo": "Alex-Gilbert/unredact",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "iammaimai/claude-code-fixed",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "Xingyu-Zheng/MrFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
+  },
+  {
+    "repo": "hirotomasato/jiofarm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "hiragram/claude-docker",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "emdash-cms/emdash",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+  },
+  {
+    "repo": "heri1845/Polymarket-trading-tool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot. polymarket copy trading bot"
+  },
+  {
+    "repo": "gsd-build/gsd-2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "icebird1998/scientific-illustrator",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates."
+  },
+  {
+    "repo": "Yuliang-Liu/MonkeyOCRv2",
+    "branch": "main",
+    "language": "Python",
+    "description": "MonkeyOCRv2 Vision Encoder — A Document-Native Visual Backbone"
+  },
+  {
+    "repo": "DulasenseX/DualSenseX-Steam",
+    "branch": "main",
+    "language": "C#",
+    "description": "dualsensex steam dsx app ps5 controller dualsense edge pc gaming driver emulation adaptive triggers haptic feedback steam input layout customization setup guide installation tutorial background utility windows 11 windows 10 workflow optimization troubleshooting"
+  },
+  {
+    "repo": "codeany-ai/codeany",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open-source AI-powered terminal agent. Built in Go."
+  },
+  {
+    "repo": "AThevon/TokenEater",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
+  },
+  {
+    "repo": "eooce/python-ws",
+    "branch": "main",
+    "language": "Python",
+    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+  },
+  {
+    "repo": "liuzhengdongfortest/pi-shadow-mind",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Parallel cognitive runtime for Pi"
+  },
+  {
+    "repo": "sermuns/ratatuefi",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Zero-bloat Ratatui apps in UEFI"
+  },
+  {
+    "repo": "kigner/audio.cpp-webui",
+    "branch": "release-0.2",
+    "language": "C++",
+    "description": "audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency."
   }
 ]

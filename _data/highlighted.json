@@ -1,8 +1,8 @@
 {
-  "repo": "dr3murr/steam2-winfsp",
+  "repo": "PhiloLabs/fable51-worlds",
   "branch": "main",
-  "language": "C++",
-  "description": "Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes",
-  "stars": 120,
-  "forks": 11
+  "language": "TypeScript",
+  "description": "worlds via code, from fable 5.1",
+  "stars": 132,
+  "forks": 4
 }
