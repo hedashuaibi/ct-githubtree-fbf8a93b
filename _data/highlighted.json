@@ -1,8 +1,8 @@
 {
-  "repo": "yczz/oc-english",
+  "repo": "khromov/gpuix-svelte",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "养成类游戏英语学习",
-  "stars": 161,
-  "forks": 3
+  "language": "TypeScript",
+  "description": "Svelte custom renderer for GPUI (Zed's GPU-accelerated UI framework), via @gpuix/native",
+  "stars": 131,
+  "forks": 0
 }

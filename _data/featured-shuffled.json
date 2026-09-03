@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kenowong/math-mastery",
+    "repo": "KorroAi/drunk-claude",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "中小学数学方法融会贯通 · 纯前端零依赖 · 参数化随机出题引擎"
+    "language": "TeX",
+    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
   },
   {
-    "repo": "go-micro/go-micro",
+    "repo": "go-resty/resty",
     "branch": "master",
     "language": "Go",
-    "description": "A Go microservices framework"
+    "description": "Simple HTTP, REST, and SSE client library for Go"
   },
   {
-    "repo": "badlogic/jot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Minimal self-hosted markdown editor with inline comment threads"
+    "repo": "ultralytics/yolov5",
+    "branch": "master",
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
   },
   {
-    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
+    "repo": "payloadcms/payload",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
   },
   {
-    "repo": "ghostty-org/ghostling",
-    "branch": "main",
-    "language": "C",
-    "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
   },
   {
-    "repo": "google/jax",
-    "branch": "main",
-    "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
-  },
-  {
-    "repo": "graphql/graphql-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
-  },
-  {
-    "repo": "opencmit/alphora",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
-  },
-  {
-    "repo": "ammaarreshi/SkyRoads-Codex",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Reverse engineering a DOS game with no source code using Codex 5.4"
-  },
-  {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
-  },
-  {
-    "repo": "shenhao-stu/openclaw-agents",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
-  },
-  {
-    "repo": "elastic/elasticsearch",
-    "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
-  },
-  {
-    "repo": "adithya-s-k/manim_skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
-  },
-  {
-    "repo": "bramcohen/manyana",
+    "repo": "1mm-module/PNGAL",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
+    "repo": "Packets/Vanta",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "A two-faction battle royale. Own what you earn. The $VANTA war begins 2026."
   },
   {
-    "repo": "ygwyg/agent-experience",
+    "repo": "juxhinr/bindwidth",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
+    "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator"
   },
   {
-    "repo": "alibaba/FunASR",
+    "repo": "dotnet/aspnetcore",
     "branch": "main",
-    "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
   },
   {
-    "repo": "gnekt/My-Brain-Is-Full-Crew",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
+    "repo": "AdguardTeam/AdGuardHome",
+    "branch": "master",
+    "language": "Go",
+    "description": "Network-wide ads & trackers blocking DNS server"
   },
   {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
-  },
-  {
-    "repo": "invertase/react-native-firebase",
+    "repo": "genspark-ai/genoffice",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF."
   },
   {
-    "repo": "inspatio/inspatio-world",
+    "repo": "JouJouoo/agent-campus",
     "branch": "main",
     "language": "Python",
+    "description": "A multi-agent campus social simulation built with LangGraph, featuring memory, RAG, personality evolution, and durable execution."
+  },
+  {
+    "repo": "storybookjs/testing-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+  },
+  {
+    "repo": "tonyd2wild/GLM-5.3-Flash-NVFP4-DFlash2-2x-DGX-Spark",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-5.3-Flash (NVFP4) on 2x NVIDIA DGX Spark - vLLM TP2, 262K context, MTP. World-first deploy recipe: 7 day-0 bugs found and fixed, patched sm121 image, probes and full report."
+  },
+  {
+    "repo": "tamagui/tamagui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenTelemetry JavaScript Client"
+  },
+  {
+    "repo": "ericlitman/open-pstack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "pstack for Claude Code and Codex, tracking Cursor pstack upstream"
+  },
+  {
+    "repo": "facebookresearch/actionmesh",
+    "branch": "main",
+    "language": "Python",
+    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "branch": "main",
+    "language": "Python",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+  },
+  {
+    "repo": "AgriciDaniel/youtubepro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation."
+  },
+  {
+    "repo": "30-seconds/30-seconds-of-code",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Coding articles to level up your development skills"
+  },
+  {
+    "repo": "web3-storage/web3.storage",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
+  },
+  {
+    "repo": "techcomet122583/Polymarket-Telegram-Bot",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "griffinmartin/opencode-claude-auth",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-WU",
-    "branch": "main",
-    "language": "Python",
-    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
-  },
-  {
-    "repo": "dappuniversity/starter_kit",
+    "repo": "ohmyzsh/ohmyzsh",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Start building full stack dApps fast with this starter kit!"
+    "language": "Shell",
+    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
   }
 ]
