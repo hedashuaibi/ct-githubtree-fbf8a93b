@@ -1,8 +1,8 @@
 {
-  "repo": "ahujasid/camera-to-blender",
+  "repo": "frontier-harness-eval/eval",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Take a photo of real objects, and paste them in Blender",
-  "stars": 242,
-  "forks": 33
+  "description": "Public results and task definitions for FrontierHarness Eval",
+  "stars": 128,
+  "forks": 7
 }
