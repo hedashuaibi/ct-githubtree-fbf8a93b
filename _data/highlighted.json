@@ -1,8 +1,8 @@
 {
-  "repo": "frontier-harness-eval/eval",
+  "repo": "ItsssssJack/SlopMonster",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Public results and task definitions for FrontierHarness Eval",
-  "stars": 128,
-  "forks": 7
+  "language": "Python",
+  "description": "Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again.",
+  "stars": 118,
+  "forks": 21
 }

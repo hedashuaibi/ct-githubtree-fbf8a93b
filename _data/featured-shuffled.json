@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Samin100/codex-ios-assistant",
+    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
     "branch": "main",
-    "language": "Python",
-    "description": "Control and inspect an iPhone from Codex through iMessage and Shortcuts"
+    "language": "Dart",
+    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
   },
   {
-    "repo": "nekename/emergent",
+    "repo": "MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks",
     "branch": "main",
-    "language": "Svelte",
-    "description": "Emergent is an open-source web-based game engine and editor."
+    "language": "Shell",
+    "description": "Qwen3.8-Flash-Next-NVFP4 · 2× DGX Spark · SGLang TP2"
   },
   {
-    "repo": "Zeeshan2899/System_Backup___Restore",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup."
+    "repo": "0xShug0/audio.cpp",
+    "branch": "release-0.1",
+    "language": "C++",
+    "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency."
   },
   {
-    "repo": "henliveira/av-curator",
+    "repo": "threeorz1027-svg/quiztube",
     "branch": "main",
-    "language": "Python",
-    "description": "Audio-visual data curation pipeline — scene cuts, silence trim, dedup, CLIP/Whisper filtering for messy web video."
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "kumuterke/Slack_Automation_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-respond, schedule messages, and manage channels. Reply to messages, schedule posts, add/remove users, and automate tasks. Improve team productivity."
-  },
-  {
-    "repo": "baairon/torlink",
+    "repo": "opengeos/GeoLibre",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
+    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
   },
   {
-    "repo": "spiritov/ds.css",
+    "repo": "cclank/lanshu-animated-architecture-diagram",
     "branch": "main",
-    "language": "CSS",
-    "description": "A css framework recreating the DS / DS Lite's UI"
+    "language": "Python",
+    "description": "Premium hand-drawn animated architecture diagram Codex skill"
   },
   {
-    "repo": "cv-cat/XHS_ALL_IN_ONE",
+    "repo": "Albert-Weasker/niubi_guard",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source GitHub repository abuse detection and response system."
+  },
+  {
+    "repo": "leyten/shard",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "XHS_ALL_IN_ONE 小红书全域运营"
+    "language": "Python",
+    "description": "Pipeline-parallel LLM inference across GPUs on separate machines."
   },
   {
-    "repo": "Binarylunanotice/blooket",
+    "repo": "erdwin90/crypto-bar-mac",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "blooket gui || blooket || blooket api"
+    "language": "Objective-C++",
+    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
   },
   {
-    "repo": "alchaincyf/huashu-md-html",
+    "repo": "RAJAOMASON/polymarket-trading-bot",
     "branch": "main",
-    "language": "CSS",
-    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill."
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
   },
   {
-    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "xxniiinxx/coinflip-casino-game",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB."
+  },
+  {
+    "repo": "uphiago/recon-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains."
   },
   {
-    "repo": "VAST-AI-Research/TripoSplat",
+    "repo": "JokiTsien/App_Store_Play_Store_Review_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+    "description": "Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility."
   },
   {
-    "repo": "PentHertz/LUKSbox",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows."
+    "repo": "mkbula/HideMyData",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Native macOS PII removal software with on device Vision OCR and OpenAI privacy filter model"
   },
   {
-    "repo": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
+    "repo": "joker-alahram/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield."
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "mavi9727stoke6893/Acrobat-Version-Pro-2",
+    "repo": "stainlu/hermes-labyrinth",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "MemNixFS/MemNixFS",
     "branch": "main",
     "language": "C++",
-    "description": "Adobe Acrobat Pro Professional 2026 – Industry-standard PDF editor for creating, editing, converting, and signing documents with advanced features."
+    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
   },
   {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Mega",
+    "repo": "suyancc/openai-plus-vxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
+  },
+  {
+    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
   },
   {
-    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+    "repo": "himomohi/AirTranslate",
+    "branch": "master",
+    "language": "Swift",
+    "description": "AirTranslate macOS app"
   },
   {
-    "repo": "Ar9av/obsidian-wiki",
+    "repo": "techwithtim/Flask-Web-App-Tutorial",
     "branch": "main",
-    "language": "Python",
-    "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
+    "language": "HTML",
+    "description": "Code for the note storing flask web app made during a YouTube video."
   },
   {
-    "repo": "jgarzik/apython",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Accelerated Asm Python"
-  },
-  {
-    "repo": "jesselau76/cigen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
-  },
-  {
-    "repo": "Xuanwo/xurl",
-    "branch": "main",
-    "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
-  },
-  {
-    "repo": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
-    "branch": "main",
+    "repo": "V4bel/dirtyfrag",
+    "branch": "master",
     "language": "C",
-    "description": "Copy Fail 2: Electric Boogaloo"
+    "description": ""
   },
   {
-    "repo": "StartupHakk/OpenMonoAgent.ai",
-    "branch": "main",
-    "language": "C#",
-    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
+    "repo": "Tencent/omi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Web Components Framework - Web组件框架"
   },
   {
-    "repo": "direkturcrypto/polymarket-terminal",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Copy, Scalping & Sniper for polymarket"
+    "repo": "TauriccResearch/Solana-Trading-Bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Solana Sniper Bot Raydium Sniper Bot Pumpfun Sniper Bot Bonkfun Sniper Bot Meteora Sniper Bot"
   }
 ]
