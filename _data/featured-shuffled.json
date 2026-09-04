@@ -1,146 +1,146 @@
 [
   {
-    "repo": "KorroAi/drunk-claude",
-    "branch": "master",
-    "language": "TeX",
-    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
-  },
-  {
-    "repo": "go-resty/resty",
-    "branch": "master",
-    "language": "Go",
-    "description": "Simple HTTP, REST, and SSE client library for Go"
-  },
-  {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "payloadcms/payload",
+    "repo": "sodiumsun/agenttrail",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "language": "HTML",
+    "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time."
   },
   {
-    "repo": "nextcloud/ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
-  },
-  {
-    "repo": "1mm-module/PNGAL",
+    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
   },
   {
-    "repo": "Packets/Vanta",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "A two-faction battle royale. Own what you earn. The $VANTA war begins 2026."
-  },
-  {
-    "repo": "juxhinr/bindwidth",
+    "repo": "run-liyi/wechatpay",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator"
+    "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用"
   },
   {
-    "repo": "dotnet/aspnetcore",
+    "repo": "AppleOnFire/JennyMod-All-Versions",
+    "branch": "main",
+    "language": "Java",
+    "description": "jenny mod minecraft pe mc video download pc java curseforge forge fabric  girlfriend addon pocket edition download .jar mediafire link realistic animations render pass bed interaction companion skin texture bedrock edition mcpack free portable zip apk mobile character custom dialogue chat adult content"
+  },
+  {
+    "repo": "athcagithub/SlideSmith",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TikTok Slideshow Generator"
+  },
+  {
+    "repo": "setube/stackprism",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。"
+  },
+  {
+    "repo": "envoyproxy/protoc-gen-validate",
+    "branch": "main",
+    "language": "Go",
+    "description": "Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate"
+  },
+  {
+    "repo": "pixel-point/media-downloader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Beautiful native macOS video downloader. Download and trim in one app."
+  },
+  {
+    "repo": "wasabeef/awesome-android-ui",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Android UI/UX libraries"
+  },
+  {
+    "repo": "BlackCandleLab/polymarket-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,"
+  },
+  {
+    "repo": "ThisIsDara/mhr-cfw-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "A local proxy that runs on your machine and forwards traffic through Google."
+  },
+  {
+    "repo": "rust-analyzer/rust-analyzer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Rust compiler front-end for IDEs"
+  },
+  {
+    "repo": "dongshuyan/compass-skills",
+    "branch": "master",
+    "language": "Python",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents"
+  },
+  {
+    "repo": "Nightmare-Eclipse/MiniPlasma",
     "branch": "main",
     "language": "C#",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+    "description": "CVE-2020-17103 supposedly still works"
   },
   {
-    "repo": "AdguardTeam/AdGuardHome",
-    "branch": "master",
-    "language": "Go",
-    "description": "Network-wide ads & trackers blocking DNS server"
-  },
-  {
-    "repo": "genspark-ai/genoffice",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF."
-  },
-  {
-    "repo": "JouJouoo/agent-campus",
+    "repo": "simonlin1212/TradingAgents-astock",
     "branch": "main",
     "language": "Python",
-    "description": "A multi-agent campus social simulation built with LangGraph, featuring memory, RAG, personality evolution, and durable execution."
+    "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。"
   },
   {
-    "repo": "storybookjs/testing-react",
+    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
   },
   {
-    "repo": "tonyd2wild/GLM-5.3-Flash-NVFP4-DFlash2-2x-DGX-Spark",
+    "repo": "erdwin90/crypto-bar-mac",
+    "branch": "main",
+    "language": "Objective-C++",
+    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
+  },
+  {
+    "repo": "leon-ai/leon",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🧠 Leon is your open-source personal assistant."
+  },
+  {
+    "repo": "cortsdine/LightVLM",
     "branch": "main",
     "language": "Python",
-    "description": "GLM-5.3-Flash (NVFP4) on 2x NVIDIA DGX Spark - vLLM TP2, 262K context, MTP. World-first deploy recipe: 7 day-0 bugs found and fixed, patched sm121 image, probes and full report."
+    "description": "Efficient inference toolkit for vision-language models: KV-cache compression, INT4/INT8 quantization, and visual token pruning."
   },
   {
-    "repo": "tamagui/tamagui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
+    "repo": "tensorflow/probability",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
   },
   {
-    "repo": "ericlitman/open-pstack",
-    "branch": "main",
+    "repo": "matrix-org/matrix-react-sdk",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "pstack for Claude Code and Codex, tracking Cursor pstack upstream"
+    "description": "Matrix SDK for React Javascript"
   },
   {
-    "repo": "facebookresearch/actionmesh",
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
+  },
+  {
+    "repo": "deepseek-ai/DeepSpec",
     "branch": "main",
     "language": "Python",
-    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
+    "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms"
   },
   {
-    "repo": "open-webui/open-webui",
+    "repo": "6-robot/jie_3d_nav",
     "branch": "main",
     "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
-  },
-  {
-    "repo": "AgriciDaniel/youtubepro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation."
-  },
-  {
-    "repo": "30-seconds/30-seconds-of-code",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Coding articles to level up your development skills"
-  },
-  {
-    "repo": "web3-storage/web3.storage",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
-  },
-  {
-    "repo": "techcomet122583/Polymarket-Telegram-Bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "ohmyzsh/ohmyzsh",
-    "branch": "master",
-    "language": "Shell",
-    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
   }
 ]

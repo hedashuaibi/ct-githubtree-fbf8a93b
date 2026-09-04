@@ -1,8 +1,8 @@
 {
-  "repo": "khromov/gpuix-svelte",
+  "repo": "ahujasid/camera-to-blender",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Svelte custom renderer for GPUI (Zed's GPU-accelerated UI framework), via @gpuix/native",
-  "stars": 131,
-  "forks": 0
+  "language": "JavaScript",
+  "description": "Take a photo of real objects, and paste them in Blender",
+  "stars": 125,
+  "forks": 17
 }
