@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sodiumsun/agenttrail",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time."
-  },
-  {
-    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
+    "repo": "majidmanzarpour/threejs-game-skills",
     "branch": "main",
     "language": "Python",
-    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
+    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
   },
   {
-    "repo": "run-liyi/wechatpay",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用"
-  },
-  {
-    "repo": "AppleOnFire/JennyMod-All-Versions",
-    "branch": "main",
-    "language": "Java",
-    "description": "jenny mod minecraft pe mc video download pc java curseforge forge fabric  girlfriend addon pocket edition download .jar mediafire link realistic animations render pass bed interaction companion skin texture bedrock edition mcpack free portable zip apk mobile character custom dialogue chat adult content"
-  },
-  {
-    "repo": "athcagithub/SlideSmith",
+    "repo": "immich-app/immich",
     "branch": "main",
     "language": "TypeScript",
-    "description": "TikTok Slideshow Generator"
+    "description": "High performance self-hosted photo and video management solution."
   },
   {
-    "repo": "setube/stackprism",
+    "repo": "jackwener/boss-cli",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。"
+    "language": "Python",
+    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
   },
   {
-    "repo": "envoyproxy/protoc-gen-validate",
-    "branch": "main",
-    "language": "Go",
-    "description": "Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate"
+    "repo": "Cranot/agi-in-md",
+    "branch": "master",
+    "language": "Python",
+    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
   },
   {
-    "repo": "pixel-point/media-downloader",
+    "repo": "Quick/Quick",
     "branch": "main",
     "language": "Swift",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app."
+    "description": "The Swift (and Objective-C) testing framework."
   },
   {
-    "repo": "wasabeef/awesome-android-ui",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android UI/UX libraries"
-  },
-  {
-    "repo": "BlackCandleLab/polymarket-trading-bot",
+    "repo": "docker/docker-py",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,"
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
   },
   {
-    "repo": "ThisIsDara/mhr-cfw-go",
+    "repo": "open-telemetry/opentelemetry-collector",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTelemetry Collector"
+  },
+  {
+    "repo": "prometheus/node_exporter",
     "branch": "master",
     "language": "Go",
-    "description": "A local proxy that runs on your machine and forwards traffic through Google."
+    "description": "Exporter for machine metrics"
   },
   {
-    "repo": "rust-analyzer/rust-analyzer",
+    "repo": "cloudwego/hertz",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "OpusDelta/opusdelta",
+    "branch": "main",
+    "language": "Python",
+    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
+  },
+  {
+    "repo": "python-pillow/Pillow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Imaging Library (Fork)"
+  },
+  {
+    "repo": "docker/buildx",
     "branch": "master",
+    "language": "Go",
+    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
+  },
+  {
+    "repo": "cdppcorp/KESE-KIT",
+    "branch": "main",
+    "language": "Python",
+    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
+  },
+  {
+    "repo": "actions/upload-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload artifacts from your workflow"
+  },
+  {
+    "repo": "puppetlabs/puppet",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Server automation framework and application"
+  },
+  {
+    "repo": "google-gemini/generative-ai-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
+  },
+  {
+    "repo": "HsMirage/CliproxyAccountCleaner",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
+  },
+  {
+    "repo": "r3nzsec/irflow-timeline",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection."
+  },
+  {
+    "repo": "matrix-org/matrix-js-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix Client-Server SDK for JavaScript"
+  },
+  {
+    "repo": "dev-protocol/polymarket-sports-trading-bot",
+    "branch": "main",
     "language": "Rust",
-    "description": "A Rust compiler front-end for IDEs"
+    "description": "Polymarket Sports trading bot that bet on sport pool. polymarket sports trading | polymarket sport betting | polymarket sports bot"
   },
   {
-    "repo": "dongshuyan/compass-skills",
+    "repo": "holysheep123/holysheep-cli",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+  },
+  {
+    "repo": "SamadhiFire/xinqingnian-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "新青年Skill/新青年/毛选Skill/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
     "branch": "master",
-    "language": "Python",
-    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents"
-  },
-  {
-    "repo": "Nightmare-Eclipse/MiniPlasma",
-    "branch": "main",
-    "language": "C#",
-    "description": "CVE-2020-17103 supposedly still works"
-  },
-  {
-    "repo": "simonlin1212/TradingAgents-astock",
-    "branch": "main",
-    "language": "Python",
-    "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。"
-  },
-  {
-    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
-  },
-  {
-    "repo": "erdwin90/crypto-bar-mac",
-    "branch": "main",
-    "language": "Objective-C++",
-    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
-  },
-  {
-    "repo": "leon-ai/leon",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🧠 Leon is your open-source personal assistant."
-  },
-  {
-    "repo": "cortsdine/LightVLM",
-    "branch": "main",
-    "language": "Python",
-    "description": "Efficient inference toolkit for vision-language models: KV-cache compression, INT4/INT8 quantization, and visual token pruning."
-  },
-  {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "matrix-org/matrix-react-sdk",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Matrix SDK for React Javascript"
-  },
-  {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
-    "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
-  },
-  {
-    "repo": "deepseek-ai/DeepSpec",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms"
-  },
-  {
-    "repo": "6-robot/jie_3d_nav",
-    "branch": "main",
-    "language": "Python",
-    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
+    "language": "C++",
+    "description": "Truly independent web browser"
   }
 ]
