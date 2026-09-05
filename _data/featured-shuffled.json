@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp."
-  },
-  {
-    "repo": "junevm/splathash",
-    "branch": "main",
-    "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
-  },
-  {
-    "repo": "Eul45/omni-search",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
-  },
-  {
-    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "first-fluke/oh-my-ag",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
   },
   {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "coleam00/second-brain-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "my-claude-utils/clsh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Access your terminal and your AI agent from any device — phone, tablet, desktop."
-  },
-  {
-    "repo": "mosaxiv/picoclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
-  },
-  {
-    "repo": "OpenBMB/MiniCPM-o",
-    "branch": "main",
-    "language": "Python",
-    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
-  },
-  {
-    "repo": "owengretzinger/constellagent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
-  },
-  {
-    "repo": "zilliztech/memsearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
-  },
-  {
-    "repo": "alibaba-damo-academy/RynnBrain",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
-  },
-  {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
-  },
-  {
-    "repo": "yearn/yearn-finance",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
-  },
-  {
-    "repo": "PeonPing/peon-ping",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
-  },
-  {
-    "repo": "tw93/Kaku",
+    "repo": "Mufeedvh/Code2Prompt",
     "branch": "main",
     "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
   },
   {
-    "repo": "by-sonic/unblock-pro",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
-  },
-  {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
-  },
-  {
-    "repo": "LucidAkshay/kavach",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tactical AI Workspace Monitor & EDR"
-  },
-  {
-    "repo": "doctorhetfield-cmd/simpleui.koplugin",
-    "branch": "main",
-    "language": "Lua",
-    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
-  },
-  {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
-  },
-  {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
-  },
-  {
-    "repo": "cookiecutter/cookiecutter",
+    "repo": "pyg-team/pytorch_geometric",
     "branch": "master",
     "language": "Python",
-    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
+    "description": "Graph Neural Network Library for PyTorch"
+  },
+  {
+    "repo": "ReactiveX/RxJS",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A reactive programming library for JavaScript"
+  },
+  {
+    "repo": "MichMich/MagicMirror",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+  },
+  {
+    "repo": "kicad/kicad",
+    "branch": "master",
+    "language": "C++",
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+  },
+  {
+    "repo": "fermyon/spin",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly."
+  },
+  {
+    "repo": "TheAlgorithms/Rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "All Algorithms implemented in Rust"
+  },
+  {
+    "repo": "sharkdp/fd",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A simple, fast and user-friendly alternative to 'find'"
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "aws/aws-cdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+  },
+  {
+    "repo": "astro/astro",
+    "branch": "main",
+    "language": "Other",
+    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "branch": "master",
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "react-native-async-storage/async-storage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "EvanZhouDev/openai-oauth",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free OpenAI API access with your ChatGPT account."
+  },
+  {
+    "repo": "reduxjs/redux",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A JS library for predictable global state management"
+  },
+  {
+    "repo": "silverstein/minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
+  },
+  {
+    "repo": "Quorinex/Freebuff2API",
+    "branch": "main",
+    "language": "Go",
+    "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
+  },
+  {
+    "repo": "ericosiu/ai-marketing-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
+  },
+  {
+    "repo": "CoderLuii/HolyClaude",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
+  },
+  {
+    "repo": "portainer/portainer",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Making Docker and Kubernetes management easy."
   }
 ]
