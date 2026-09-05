@@ -1,146 +1,146 @@
 [
   {
-    "repo": "shibadogcap/dpgk",
-    "branch": "main",
-    "language": "Go",
-    "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ"
-  },
-  {
-    "repo": "gorkem-bwl/animated-icons",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "IronsideXXVI/Hacker-News",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "sangrokjung/claude-forge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
-  },
-  {
-    "repo": "amneziawg-mikrotik/awg-proxy",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "davidhariri/life-system",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement."
-  },
-  {
-    "repo": "pinchtab/pinchtab",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "deepseek-ai/TileKernels",
+    "repo": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
     "branch": "main",
     "language": "Python",
-    "description": "A kernel library written in tilelang"
+    "description": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp."
   },
   {
-    "repo": "docker/awesome-compose",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Awesome Docker Compose samples"
-  },
-  {
-    "repo": "GreatScott/enject",
+    "repo": "junevm/splathash",
     "branch": "main",
-    "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "preactjs/preact",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
-  },
-  {
-    "repo": "est-labs/polymarket-arbitrage-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
-  },
-  {
-    "repo": "behzadea12/Paqet-Tunnel-Manager",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
-  },
-  {
-    "repo": "Leonxlnx/claw-dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "bddicken/tuitter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "tuitter"
-  },
-  {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "nullclaw/nullclaw",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
-  },
-  {
-    "repo": "mre/awesome-static-analysis",
-    "branch": "master",
-    "language": "Rust",
-    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
-  },
-  {
-    "repo": "ory/kratos",
-    "branch": "master",
     "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
   },
   {
-    "repo": "supermemoryai/clawdbot-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "drivelineresearch/autoresearch-claude-code",
-    "branch": "master",
-    "language": "Python",
-    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
-  },
-  {
-    "repo": "tsoding/ht.h",
+    "repo": "Eul45/omni-search",
     "branch": "main",
     "language": "C++",
-    "description": "Hash Table in C but with a nice Generic API"
+    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
   },
   {
-    "repo": "garagon/nanostack",
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "coleam00/second-brain-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "my-claude-utils/clsh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Access your terminal and your AI agent from any device — phone, tablet, desktop."
+  },
+  {
+    "repo": "mosaxiv/picoclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
+  },
+  {
+    "repo": "OpenBMB/MiniCPM-o",
+    "branch": "main",
+    "language": "Python",
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
+  },
+  {
+    "repo": "owengretzinger/constellagent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
+  },
+  {
+    "repo": "zilliztech/memsearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+  },
+  {
+    "repo": "alibaba-damo-academy/RynnBrain",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
+  },
+  {
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "yearn/yearn-finance",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
+  },
+  {
+    "repo": "PeonPing/peon-ping",
     "branch": "main",
     "language": "Shell",
-    "description": "Minimal AI coding agent team skills for the full engineering workflow."
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
+  },
+  {
+    "repo": "tw93/Kaku",
+    "branch": "main",
+    "language": "Rust",
+    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+  },
+  {
+    "repo": "by-sonic/unblock-pro",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
+  },
+  {
+    "repo": "CyC2018/CS-Notes",
+    "branch": "master",
+    "language": "Other",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "repo": "LucidAkshay/kavach",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Tactical AI Workspace Monitor & EDR"
+  },
+  {
+    "repo": "doctorhetfield-cmd/simpleui.koplugin",
+    "branch": "main",
+    "language": "Lua",
+    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
+  },
+  {
+    "repo": "kubernetes/kompose",
+    "branch": "master",
+    "language": "Go",
+    "description": "Convert Compose to Kubernetes"
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "cookiecutter/cookiecutter",
+    "branch": "master",
+    "language": "Python",
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
   }
 ]

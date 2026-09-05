@@ -1,8 +1,8 @@
 {
-  "repo": "openai/PrimeGaps186",
+  "repo": "bjarneo/omarchy-workspace-layout",
   "branch": "main",
-  "language": "Lean",
-  "description": "Conditional Lean formalization and numerical certificate for prime gaps at most 186.",
-  "stars": 132,
-  "forks": 7
+  "language": "JavaScript",
+  "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+  "stars": 115,
+  "forks": 2
 }
