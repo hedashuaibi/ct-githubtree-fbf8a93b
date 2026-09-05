@@ -1,123 +1,93 @@
 [
   {
-    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
+    "repo": "rohitg00/pro-workflow",
     "branch": "main",
-    "language": "Dart",
-    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
+    "language": "JavaScript",
+    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
   },
   {
-    "repo": "MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks",
+    "repo": "coollabsio/jean",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Run AI agents parallel in isolated workspaces."
+  },
+  {
+    "repo": "bunnyos/base-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The first open-source @base agent."
+  },
+  {
+    "repo": "KenneyNL/Starter-Kit-Racing",
+    "branch": "main",
+    "language": "GDScript",
+    "description": ""
+  },
+  {
+    "repo": "typesense/typesense",
+    "branch": "master",
+    "language": "C++",
+    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences"
+  },
+  {
+    "repo": "buildpacks/lifecycle",
+    "branch": "main",
+    "language": "Go",
+    "description": "Reference implementation of the Cloud Native Buildpacks lifecycle"
+  },
+  {
+    "repo": "GoAdminGroup/go-admin",
+    "branch": "master",
+    "language": "Go",
+    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
+  },
+  {
+    "repo": "vkehfdl1/slides-grab",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Select context for agents directly from AI-generated HTML slides"
+  },
+  {
+    "repo": "liandu2024/AnGe-ClashBoard",
+    "branch": "main",
+    "language": "Vue",
+    "description": "AnGe-ClashBoard - zashboard 完整体"
+  },
+  {
+    "repo": "appsail/Gemini-in-Chrome",
+    "branch": "master",
     "language": "Shell",
-    "description": "Qwen3.8-Flash-Next-NVFP4 · 2× DGX Spark · SGLang TP2"
-  },
-  {
-    "repo": "0xShug0/audio.cpp",
-    "branch": "release-0.1",
-    "language": "C++",
-    "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency."
-  },
-  {
-    "repo": "threeorz1027-svg/quiztube",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "opengeos/GeoLibre",
+    "repo": "TsingmaoAI/xw-cli",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
+    "language": "Go",
+    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
   },
   {
-    "repo": "cclank/lanshu-animated-architecture-diagram",
+    "repo": "jackwener/rdt-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Premium hand-drawn animated architecture diagram Codex skill"
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
   },
   {
-    "repo": "Albert-Weasker/niubi_guard",
+    "repo": "ZimoLiao/scholaraio",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source GitHub repository abuse detection and response system."
+    "language": "Python",
+    "description": "Scholar All-In-One: AI agent-powered research terminal"
   },
   {
-    "repo": "leyten/shard",
+    "repo": "drivelineresearch/autoresearch-claude-code",
     "branch": "master",
     "language": "Python",
-    "description": "Pipeline-parallel LLM inference across GPUs on separate machines."
+    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
   },
   {
-    "repo": "erdwin90/crypto-bar-mac",
-    "branch": "main",
-    "language": "Objective-C++",
-    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
-  },
-  {
-    "repo": "RAJAOMASON/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
-  },
-  {
-    "repo": "xxniiinxx/coinflip-casino-game",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB."
-  },
-  {
-    "repo": "uphiago/recon-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains."
-  },
-  {
-    "repo": "JokiTsien/App_Store_Play_Store_Review_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility."
-  },
-  {
-    "repo": "mkbula/HideMyData",
+    "repo": "Olshansk/interview",
     "branch": "master",
-    "language": "Swift",
-    "description": "Native macOS PII removal software with on device Vision OCR and OpenAI privacy filter model"
-  },
-  {
-    "repo": "joker-alahram/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "stainlu/hermes-labyrinth",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "MemNixFS/MemNixFS",
-    "branch": "main",
-    "language": "C++",
-    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
-  },
-  {
-    "repo": "suyancc/openai-plus-vxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
-  },
-  {
-    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
-    "branch": "main",
-    "language": "Python",
-    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
-  },
-  {
-    "repo": "himomohi/AirTranslate",
-    "branch": "master",
-    "language": "Swift",
-    "description": "AirTranslate macOS app"
+    "language": "Other",
+    "description": "Everything you need to prepare for your technical interview"
   },
   {
     "repo": "techwithtim/Flask-Web-App-Tutorial",
@@ -126,21 +96,51 @@
     "description": "Code for the note storing flask web app made during a YouTube video."
   },
   {
-    "repo": "V4bel/dirtyfrag",
-    "branch": "master",
-    "language": "C",
-    "description": ""
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
+    "language": "Go",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
   },
   {
-    "repo": "Tencent/omi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Web Components Framework - Web组件框架"
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
   },
   {
-    "repo": "TauriccResearch/Solana-Trading-Bot",
-    "branch": "master",
+    "repo": "beita6969/ScienceClaw",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Solana Sniper Bot Raydium Sniper Bot Pumpfun Sniper Bot Bonkfun Sniper Bot Meteora Sniper Bot"
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "branch": "master",
+    "language": "Go",
+    "description": "simple terminal UI for git commands"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "branch": "main",
+    "language": "TeX",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+  },
+  {
+    "repo": "robertorobotics/Nextis-AIRA-3D",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration."
+  },
+  {
+    "repo": "junaid-mahmood/nlsh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn natural language to terminal commands"
+  },
+  {
+    "repo": "YuJunZhiXue/github-skill-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
   }
 ]
