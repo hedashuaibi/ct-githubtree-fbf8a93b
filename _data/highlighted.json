@@ -1,8 +1,8 @@
 {
-  "repo": "hi-nikola/hand-drawn-explainer-video-nikola",
+  "repo": "openai/PrimeGaps186",
   "branch": "main",
-  "language": "Python",
-  "description": "中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画",
-  "stars": 102,
-  "forks": 13
+  "language": "Lean",
+  "description": "Conditional Lean formalization and numerical certificate for prime gaps at most 186.",
+  "stars": 132,
+  "forks": 7
 }
