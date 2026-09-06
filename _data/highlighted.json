@@ -1,8 +1,8 @@
 {
-  "repo": "edoardolunardi/kugiri",
+  "repo": "tigerless-labs/agent-memory",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Splits text into lines, words and characters exactly where the browser already broke it.",
-  "stars": 127,
-  "forks": 1
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 315,
+  "forks": 19
 }

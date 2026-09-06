@@ -1,45 +1,33 @@
 [
   {
-    "repo": "anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper",
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+  },
+  {
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "WMJ-AI/paraffin-and-sem-images",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-vote and fashion helper for Dress to Impress, the fashion competition game with the highest approval rating on the chart (70K-100K concurrent)[reference:15]. Get votes, unlock all items, and win every round."
+    "description": ""
   },
   {
-    "repo": "zhuyansen/wx-favorites-report",
+    "repo": "rustwasm/wasm-pack",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+  },
+  {
+    "repo": "keephq/keep",
     "branch": "main",
     "language": "Python",
-    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
-  },
-  {
-    "repo": "ryfineZ/codex-session-patcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
-  },
-  {
-    "repo": "juntoku9/claude_immigration_attorney",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude code environment for laywers"
-  },
-  {
-    "repo": "NateBJones-Projects/OB1",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
-  },
-  {
-    "repo": "0xSero/turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
-  },
-  {
-    "repo": "rivet-dev/antiox",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Rust- and Tokio-like async primitives for TypeScript."
+    "description": "The open-source AIOps and alert management platform"
   },
   {
     "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
@@ -48,99 +36,111 @@
     "description": "sora2 watermark cleaner pro"
   },
   {
-    "repo": "apache/iceberg",
+    "repo": "extism/extism",
     "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
+    "language": "Rust",
+    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
   },
   {
-    "repo": "stevibe/ToolCall-15",
+    "repo": "prettier/prettier",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
   },
   {
-    "repo": "johnmai-dev/ANE-LM",
-    "branch": "main",
-    "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
-  },
-  {
-    "repo": "GeiserX/awesome-spain",
+    "repo": "abi/screenshot-to-code",
     "branch": "main",
     "language": "Python",
-    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
   },
   {
-    "repo": "spring-cloud/spring-cloud-gateway",
-    "branch": "main",
-    "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
-  },
-  {
-    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
-    "branch": "main",
-    "language": "C++",
-    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
-  },
-  {
-    "repo": "pytest-dev/pytest",
-    "branch": "main",
-    "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
-  },
-  {
-    "repo": "k3s-io/k3s",
+    "repo": "Anduin2017/HowToCook",
     "branch": "master",
-    "language": "Go",
-    "description": "Lightweight Kubernetes"
+    "language": "Dockerfile",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
   },
   {
-    "repo": "marswaveai/ColaMD",
+    "repo": "github/super-linter",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The Agent Native Markdown Editor."
+    "language": "Shell",
+    "description": "Combination of multiple linters to install as a GitHub Action"
   },
   {
-    "repo": "bokeh/bokeh",
-    "branch": "branch-3.4",
-    "language": "TypeScript",
-    "description": "Interactive Data Visualization in the browser, from  Python"
-  },
-  {
-    "repo": "ericosiu/ai-marketing-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
-  },
-  {
-    "repo": "firewalld/firewalld",
-    "branch": "main",
-    "language": "Python",
-    "description": "Stateful zone based firewall daemon with D-Bus interface"
-  },
-  {
-    "repo": "raspberrypi/firmware",
+    "repo": "ziadoz/awesome-php",
     "branch": "master",
     "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   },
   {
-    "repo": "Koenkk/zigbee2mqtt",
+    "repo": "codecrafters-io/build-your-own-x",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "repo": "jackc/pgx",
+    "branch": "master",
+    "language": "Go",
+    "description": "PostgreSQL driver and toolkit for Go"
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "SnapKit/SnapKit",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A Swift Autolayout DSL for iOS & OS X"
+  },
+  {
+    "repo": "NomicFoundation/hardhat",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
   },
   {
-    "repo": "vedangvatsa123/vedang-swarm-prediction",
+    "repo": "terausss/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "Swarm Intelligence Prediction Engine - Multi-agent AI debate for calibrated forecasting"
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
   },
   {
-    "repo": "melonjs/melonJS",
+    "repo": "emberjs/ember.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+  },
+  {
+    "repo": "scipy/scipy",
+    "branch": "main",
+    "language": "Python",
+    "description": "SciPy library main repository"
+  },
+  {
+    "repo": "grpc/grpc-java",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
+    "language": "Java",
+    "description": "The Java gRPC implementation. HTTP/2 based RPC"
+  },
+  {
+    "repo": "raspberrypi/linux",
+    "branch": "rpi-6.6.y",
+    "language": "C",
+    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
   }
 ]
