@@ -1,146 +1,146 @@
 [
   {
-    "repo": "akitaonrails/FrankSherlock",
+    "repo": "shanselman/MaximizeToVirtualDesktop",
     "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+    "language": "C#",
+    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
   },
   {
-    "repo": "nextcloud/ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
-  },
-  {
-    "repo": "WMJ-AI/paraffin-and-sem-images",
+    "repo": "aniqfakhrul/CVE-2026-54121",
     "branch": "main",
     "language": "Python",
+    "description": "Certighost POC"
+  },
+  {
+    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于向听算法的AR眼镜端麻将助手"
+  },
+  {
+    "repo": "oneclaw/oneclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OneClaw"
+  },
+  {
+    "repo": "uluckyXH/OpenMOSS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+  },
+  {
+    "repo": "python-pillow/Pillow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Imaging Library (Fork)"
+  },
+  {
+    "repo": "rubygems/rubygems",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby."
+  },
+  {
+    "repo": "gorkem-bwl/animated-icons",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "rustwasm/wasm-pack",
-    "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
-  },
-  {
-    "repo": "keephq/keep",
+    "repo": "aiming-lab/MetaClaw",
     "branch": "main",
     "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
+    "description": "Just talk to your agent — it learns and EVOLVES."
   },
   {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "repo": "Affitor/affiliate-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
+  },
+  {
+    "repo": "Aliothmoon/MAA-Meow",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+  },
+  {
+    "repo": "Robbyant/lingbot-vla",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark cleaner pro"
+    "description": "A Pragmatic VLA Foundation Model"
   },
   {
-    "repo": "extism/extism",
+    "repo": "microsoft/semantic-kernel",
     "branch": "main",
-    "language": "Rust",
-    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
   },
   {
-    "repo": "prettier/prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
-  },
-  {
-    "repo": "abi/screenshot-to-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
-  },
-  {
-    "repo": "Anduin2017/HowToCook",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
-  },
-  {
-    "repo": "github/super-linter",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Combination of multiple linters to install as a GitHub Action"
-  },
-  {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "codecrafters-io/build-your-own-x",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "Master programming by recreating your favorite technologies from scratch."
-  },
-  {
-    "repo": "jackc/pgx",
+    "repo": "rook/rook",
     "branch": "master",
     "language": "Go",
-    "description": "PostgreSQL driver and toolkit for Go"
+    "description": "Storage Orchestration for Kubernetes"
   },
   {
-    "repo": "labuladong/fucking-algorithm",
+    "repo": "Zouuup/landrun",
+    "branch": "main",
+    "language": "Go",
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+  },
+  {
+    "repo": "sbilly/awesome-security",
     "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+    "language": "Other",
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
   },
   {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
-  },
-  {
-    "repo": "NomicFoundation/hardhat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
-  },
-  {
-    "repo": "terausss/polymarket-copy-trading-bot",
+    "repo": "zju3dv/Scal3R",
     "branch": "main",
     "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
   },
   {
-    "repo": "emberjs/ember.js",
+    "repo": "sindresorhus/type-fest",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+    "description": "A collection of essential TypeScript types"
   },
   {
-    "repo": "scipy/scipy",
+    "repo": "HKUDS-AI/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
+  },
+  {
+    "repo": "myccarl/ai-shortVideo-pipeline",
     "branch": "main",
     "language": "Python",
-    "description": "SciPy library main repository"
+    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue."
   },
   {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
+    "repo": "aresleboss2005/Solara-Exec",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Solara PC v4.3 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
   },
   {
-    "repo": "raspberrypi/linux",
-    "branch": "rpi-6.6.y",
-    "language": "C",
-    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
+    "repo": "hoquanghai/Auto-Create-Video",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "apple/swift-protobuf",
+    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+  },
+  {
+    "repo": "arinltte/latte",
     "branch": "main",
     "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
-  },
-  {
-    "repo": "DioxusLabs/dioxus",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
+    "description": "Just Download Anything."
   }
 ]
