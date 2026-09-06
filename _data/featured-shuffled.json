@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Blueturboguy07/cue",
+    "repo": "anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key."
+    "language": "Python",
+    "description": "Auto-vote and fashion helper for Dress to Impress, the fashion competition game with the highest approval rating on the chart (70K-100K concurrent)[reference:15]. Get votes, unlock all items, and win every round."
   },
   {
-    "repo": "dmmulroy/anti-slop",
+    "repo": "zhuyansen/wx-favorites-report",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+  },
+  {
+    "repo": "ryfineZ/codex-session-patcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+  },
+  {
+    "repo": "juntoku9/claude_immigration_attorney",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude code environment for laywers"
+  },
+  {
+    "repo": "NateBJones-Projects/OB1",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
   },
   {
-    "repo": "SilentFleetKK/ai-market-pulse",
+    "repo": "0xSero/turboquant",
     "branch": "main",
     "language": "Python",
-    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool."
+    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
   },
   {
-    "repo": "FZ2000/da-cli",
+    "repo": "rivet-dev/antiox",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Rust- and Tokio-like async primitives for TypeScript."
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
     "branch": "main",
     "language": "Python",
-    "description": "Sync DeviantArt galleries to local folders — zero-dependency Python CLI with OAuth 2.1 PKCE, a SQLite index, and scheduled macOS syncs."
+    "description": "sora2 watermark cleaner pro"
   },
   {
-    "repo": "marswei/seaseed-clawerse",
+    "repo": "apache/iceberg",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+    "language": "Java",
+    "description": "Apache Iceberg"
   },
   {
-    "repo": "yuhuangerdi/InduSecAgent",
+    "repo": "stevibe/ToolCall-15",
     "branch": "main",
-    "language": "Vue",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "SeanJ1ang/design-judge-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness."
-  },
-  {
-    "repo": "fasheartheater1853/kmspico-lol-2026",
+    "repo": "johnmai-dev/ANE-LM",
     "branch": "main",
     "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+    "description": "LLM inference on Apple Neural Engine (ANE)"
   },
   {
-    "repo": "alaeelhariri/iut-db-final-project",
-    "branch": "master",
+    "repo": "GeiserX/awesome-spain",
+    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
   },
   {
-    "repo": "pixel-point/aval",
+    "repo": "spring-cloud/spring-cloud-gateway",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency."
+    "language": "Java",
+    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
   },
   {
-    "repo": "meodai/heerich",
+    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
+    "language": "C++",
+    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
   },
   {
-    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "repo": "pytest-dev/pytest",
     "branch": "main",
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
     "language": "Go",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+    "description": "Lightweight Kubernetes"
   },
   {
-    "repo": "rolekkona/bghira-bark",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model"
-  },
-  {
-    "repo": "tandpfun/wardrobe",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Your clothes, extracted and organized with gpt-image."
-  },
-  {
-    "repo": "daimon3332/Outlook-Oauth-GetToken",
-    "branch": "main",
-    "language": "Python",
-    "description": "A standalone OAuth2 refresh_token retrieval tool for existing Outlook / Hotmail accounts. 面向已有 Outlook / Hotmail   账号的独立 OAuth2 refresh_token 获取工具"
-  },
-  {
-    "repo": "Brandon030722/ark-ui-skill",
-    "branch": "main",
-    "language": "CSS",
-    "description": "Evidence-based Codex skill for five Ark-adjacent UI families and four application depths"
-  },
-  {
-    "repo": "CrystaIlDEA/CrystalIDEA-uninstall-tool",
-    "branch": "main",
-    "language": "C#",
-    "description": "crystalidea uninstall tool uninstaller crystalidea software complete removal stubborn apps uninstall wizard install tracker installation monitor force removal batch uninstall startup manager registry cleaner leftover files portable mode clean pc windows 11 windows 10 desktop utility setup guide configuration tutorial troubleshooting download link"
-  },
-  {
-    "repo": "x4gKing/Marzban-Panel",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "kuskhan/jetendard",
-    "branch": "main",
-    "language": "Python",
-    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
-  },
-  {
-    "repo": "imtonyjaa/ggemu-fishing-joy",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "a ggemu.com (play retro games online) sdk example"
-  },
-  {
-    "repo": "yeet-src/sigwire",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR."
-  },
-  {
-    "repo": "jhochenbaum/pi-autoresearch-studio",
+    "repo": "marswaveai/ColaMD",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Dashboard, plan editor, PR workflow, and orchestration tools for pi autoresearch sessions"
+    "description": "The Agent Native Markdown Editor."
   },
   {
-    "repo": "aeromomo/claw-compactor",
+    "repo": "bokeh/bokeh",
+    "branch": "branch-3.4",
+    "language": "TypeScript",
+    "description": "Interactive Data Visualization in the browser, from  Python"
+  },
+  {
+    "repo": "ericosiu/ai-marketing-skills",
     "branch": "main",
     "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
   },
   {
-    "repo": "x4gKing/Free-Panel",
+    "repo": "firewalld/firewalld",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Python",
+    "description": "Stateful zone based firewall daemon with D-Bus interface"
+  },
+  {
+    "repo": "raspberrypi/firmware",
+    "branch": "master",
+    "language": "Other",
+    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "vedangvatsa123/vedang-swarm-prediction",
+    "branch": "main",
+    "language": "Python",
+    "description": "Swarm Intelligence Prediction Engine - Multi-agent AI debate for calibrated forecasting"
+  },
+  {
+    "repo": "melonjs/melonJS",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
   }
 ]

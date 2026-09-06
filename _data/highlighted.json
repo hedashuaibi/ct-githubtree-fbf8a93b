@@ -1,8 +1,8 @@
 {
-  "repo": "brendazure/robinhood-meme-token-stock-launchpad",
+  "repo": "edoardolunardi/kugiri",
   "branch": "main",
   "language": "TypeScript",
-  "description": "robinhood chain meme coin launchpad robinhood chain meme coin launchpad robinhood chain meme coin launchpad robinhood chain meme coin launchpad robinhood stock launchpad robinhood stock launchpad robinhood stock launchpad robinhood stock launchpad robinhood meme stock launchpad robinhood meme stock launchpad robinhood meme stock launchpad robinhood",
-  "stars": 162,
-  "forks": 56
+  "description": "Splits text into lines, words and characters exactly where the browser already broke it.",
+  "stars": 127,
+  "forks": 1
 }
