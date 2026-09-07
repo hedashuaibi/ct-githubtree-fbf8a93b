@@ -1,146 +1,146 @@
 [
   {
-    "repo": "HackingDave/btrpa-scan",
+    "repo": "hashicorp/vault",
     "branch": "main",
-    "language": "Python",
-    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
   },
   {
-    "repo": "maria-rcks/dinorip",
+    "repo": "six-ddc/livecaption",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud."
+  },
+  {
+    "repo": "openlibrecommunity/olcrtc",
+    "branch": "master",
+    "language": "Python",
+    "description": "olc - using side channels to access web outside the whitelist"
+  },
+  {
+    "repo": "actions/checkout",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Free & Open Source Texture Ripper"
+    "description": "Action for checking out a repo"
   },
   {
-    "repo": "tensorflow/probability",
+    "repo": "jlabon2/PsUi",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+    "language": "PowerShell",
+    "description": "For building UIs in PowerShell without the misery."
   },
   {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "repo": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
+    "branch": "work",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket copytradingbot polymarket copytrading bot"
+  },
+  {
+    "repo": "graphql/graphql-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A reference implementation of GraphQL for JavaScript"
+  },
+  {
+    "repo": "tamagui/tamagui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+  },
+  {
+    "repo": "WtxwNs/RepoCheck",
     "branch": "main",
     "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
   },
   {
-    "repo": "airbnb/knowledge-repo",
+    "repo": "rust-embedded/discovery",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Discover the world of microcontrollers through Rust!"
+  },
+  {
+    "repo": "PyGithub/PyGithub",
     "branch": "master",
     "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+    "description": "Typed interactions with the GitHub API v3"
   },
   {
-    "repo": "OWASP/CheatSheetSeries",
-    "branch": "master",
+    "repo": "rohunvora/x-research-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "repo": "serenakeyitan/sbti-wiki",
+    "branch": "main",
+    "language": "HTML",
+    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "branch": "main",
     "language": "Python",
-    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
   },
   {
-    "repo": "MichaelCade/90DaysOfDevOps",
+    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
+  },
+  {
+    "repo": "karpathy/agenthub",
+    "branch": "master",
+    "language": "Go",
+    "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project."
+  },
+  {
+    "repo": "PsiACE/skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A small, shared skill library by builders, for builders."
+  },
+  {
+    "repo": "pypa/packaging",
+    "branch": "main",
+    "language": "Python",
+    "description": "Core utilities for Python packages"
+  },
+  {
+    "repo": "hexiecs/talk-normal",
     "branch": "main",
     "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+    "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop."
   },
   {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "yearn/yearn-finance",
+    "repo": "garrytan/gbrain",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Garry's Opinionated OpenClaw Brain"
+  },
+  {
+    "repo": "drizzle-team/drizzle-orm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ORM"
+  },
+  {
+    "repo": "BuilderIO/qwik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Instant-loading web apps, without effort"
+  },
+  {
+    "repo": "paperjs/paper.js",
+    "branch": "develop",
     "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
+    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
   },
   {
-    "repo": "OctoPrint/OctoPrint",
-    "branch": "master",
-    "language": "Python",
-    "description": "OctoPrint is the snappy web interface for your 3D printer!"
-  },
-  {
-    "repo": "inputsh/awesome-linux",
-    "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
-  },
-  {
-    "repo": "r3xmax/PhantomCtx",
-    "branch": "main",
-    "language": "C",
-    "description": "Activation Context Hijacking Evasion Tool"
-  },
-  {
-    "repo": "ipython/ipython",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
-  },
-  {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
-  },
-  {
-    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
-  },
-  {
-    "repo": "stormneonnightraven4640692/DeepFake-AI-RealTime",
-    "branch": "main",
-    "language": "C#",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
-  },
-  {
-    "repo": "lllyasviel/Fooocus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Focus on prompting and generating"
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "YurunChen/repo-docs-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves."
-  },
-  {
-    "repo": "balancer/balancer-v2-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
-  },
-  {
-    "repo": "ClaudioDrews/memory-os",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
-  },
-  {
-    "repo": "agentic-in/elephant-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Personal-Model First Self Evolving AI Agent 🐘"
-  },
-  {
-    "repo": "SKL2910/limitless-trading-bot",
+    "repo": "antonpk1/excalidraw-mcp-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
-  },
-  {
-    "repo": "Anxcye/anx-reader",
-    "branch": "main",
-    "language": "Dart",
-    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
   }
 ]
