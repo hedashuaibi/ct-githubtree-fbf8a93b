@@ -1,146 +1,146 @@
 [
   {
-    "repo": "shanselman/MaximizeToVirtualDesktop",
+    "repo": "tailwindcss/tailwindcss",
     "branch": "master",
-    "language": "C#",
-    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "aniqfakhrul/CVE-2026-54121",
+    "repo": "air-embodied-brain/Zetta-Embodiment",
     "branch": "main",
     "language": "Python",
-    "description": "Certighost POC"
-  },
-  {
-    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于向听算法的AR眼镜端麻将助手"
-  },
-  {
-    "repo": "oneclaw/oneclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OneClaw"
-  },
-  {
-    "repo": "uluckyXH/OpenMOSS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
-  },
-  {
-    "repo": "python-pillow/Pillow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Imaging Library (Fork)"
-  },
-  {
-    "repo": "rubygems/rubygems",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Library packaging and distribution for Ruby."
-  },
-  {
-    "repo": "gorkem-bwl/animated-icons",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "aiming-lab/MetaClaw",
+    "repo": "Nightmare-Eclipse/UnDefend",
     "branch": "main",
-    "language": "Python",
-    "description": "Just talk to your agent — it learns and EVOLVES."
+    "language": "C++",
+    "description": "Repository hosting windows defender DOS tool"
   },
   {
-    "repo": "Affitor/affiliate-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
-  },
-  {
-    "repo": "Aliothmoon/MAA-Meow",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
-  },
-  {
-    "repo": "Robbyant/lingbot-vla",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Pragmatic VLA Foundation Model"
-  },
-  {
-    "repo": "microsoft/semantic-kernel",
-    "branch": "main",
-    "language": "C#",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
-  },
-  {
-    "repo": "rook/rook",
+    "repo": "encode/starlette",
     "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
+    "language": "Python",
+    "description": "The little ASGI framework that shines. 🌟"
   },
   {
-    "repo": "Zouuup/landrun",
-    "branch": "main",
-    "language": "Go",
-    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
-  },
-  {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "zju3dv/Scal3R",
+    "repo": "LichAmnesia/lich-skills",
     "branch": "main",
     "language": "Python",
-    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
-  },
-  {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
-  },
-  {
-    "repo": "HKUDS-AI/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
-  },
-  {
-    "repo": "myccarl/ai-shortVideo-pipeline",
-    "branch": "main",
-    "language": "Python",
-    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue."
-  },
-  {
-    "repo": "aresleboss2005/Solara-Exec",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Solara PC v4.3 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
-  },
-  {
-    "repo": "hoquanghai/Auto-Create-Video",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
   },
   {
-    "repo": "arinltte/latte",
+    "repo": "caiwuu/web2api",
+    "branch": "master",
+    "language": "Python",
+    "description": "把网页AI转api，如claude2api"
+  },
+  {
+    "repo": "cncf/toc",
+    "branch": "main",
+    "language": "Go",
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "uton88/dan-binary-releases",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Public binary-only releases and install scripts for dan"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "branch": "main",
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
+  },
+  {
+    "repo": "Ademking/MD-This-Page",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Convert any web page to clean, readable Markdown with just one click."
+  },
+  {
+    "repo": "liorwn/claudetop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+  },
+  {
+    "repo": "leonardomso/33-js-concepts",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "ingegroeneveld0620/fps-tweaks-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
+  },
+  {
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "coredns/coredns",
+    "branch": "master",
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
+  },
+  {
+    "repo": "vercel/ai",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
+  },
+  {
+    "repo": "plotly/plotly.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash"
+  },
+  {
+    "repo": "leo-lilinxiao/codex-autoresearch",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "repo": "Holiday-Robot/FlashSAC",
+    "branch": "main",
+    "language": "Python",
+    "description": "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control"
+  },
+  {
+    "repo": "sweetalert2/sweetalert2",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+  },
+  {
+    "repo": "anthnykr/codex-voice",
     "branch": "main",
     "language": "Swift",
-    "description": "Just Download Anything."
+    "description": ""
+  },
+  {
+    "repo": "raspberrypi/linux",
+    "branch": "rpi-6.6.y",
+    "language": "C",
+    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
   }
 ]

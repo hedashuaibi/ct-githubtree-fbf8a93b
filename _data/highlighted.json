@@ -1,8 +1,8 @@
 {
-  "repo": "inclusionAI/LLaDA-Image",
+  "repo": "techjanitor/botmaker",
   "branch": "main",
   "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 145,
-  "forks": 7
+  "description": "A Hermes Agent skill + SOUL for a bot whose only job is minting other specialist bots",
+  "stars": 212,
+  "forks": 10
 }
