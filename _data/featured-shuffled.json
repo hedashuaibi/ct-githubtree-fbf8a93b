@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
+    "repo": "HackingDave/btrpa-scan",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
+  },
+  {
+    "repo": "maria-rcks/dinorip",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
+    "description": "Free & Open Source Texture Ripper"
   },
   {
-    "repo": "air-embodied-brain/Zetta-Embodiment",
+    "repo": "tensorflow/probability",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+  },
+  {
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
   },
   {
-    "repo": "Nightmare-Eclipse/UnDefend",
-    "branch": "main",
-    "language": "C++",
-    "description": "Repository hosting windows defender DOS tool"
-  },
-  {
-    "repo": "encode/starlette",
+    "repo": "airbnb/knowledge-repo",
     "branch": "master",
     "language": "Python",
-    "description": "The little ASGI framework that shines. 🌟"
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
   },
   {
-    "repo": "LichAmnesia/lich-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Apache Hadoop"
-  },
-  {
-    "repo": "caiwuu/web2api",
+    "repo": "OWASP/CheatSheetSeries",
     "branch": "master",
     "language": "Python",
-    "description": "把网页AI转api，如claude2api"
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
   },
   {
-    "repo": "cncf/toc",
-    "branch": "main",
-    "language": "Go",
-    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "uton88/dan-binary-releases",
+    "repo": "MichaelCade/90DaysOfDevOps",
     "branch": "main",
     "language": "Shell",
-    "description": "Public binary-only releases and install scripts for dan"
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
   },
   {
-    "repo": "microsoft/PowerToys",
+    "repo": "cilium/hubble",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "yearn/yearn-finance",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
+  },
+  {
+    "repo": "OctoPrint/OctoPrint",
+    "branch": "master",
+    "language": "Python",
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
+  },
+  {
+    "repo": "inputsh/awesome-linux",
+    "branch": "master",
+    "language": "Other",
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
+  },
+  {
+    "repo": "r3xmax/PhantomCtx",
+    "branch": "main",
+    "language": "C",
+    "description": "Activation Context Hijacking Evasion Tool"
+  },
+  {
+    "repo": "ipython/ipython",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
+  },
+  {
+    "repo": "compound-finance/compound-protocol",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Compound On-Chain Protocol"
+  },
+  {
+    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
     "branch": "main",
     "language": "C#",
-    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
+    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
   },
   {
-    "repo": "Ademking/MD-This-Page",
+    "repo": "stormneonnightraven4640692/DeepFake-AI-RealTime",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Convert any web page to clean, readable Markdown with just one click."
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
   },
   {
-    "repo": "liorwn/claudetop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
-  },
-  {
-    "repo": "leonardomso/33-js-concepts",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📜 33 JavaScript concepts every developer should know."
-  },
-  {
-    "repo": "ingegroeneveld0620/fps-tweaks-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
-  },
-  {
-    "repo": "alpinejs/alpine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
-  },
-  {
-    "repo": "coredns/coredns",
-    "branch": "master",
-    "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
-  },
-  {
-    "repo": "vercel/ai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
-  },
-  {
-    "repo": "plotly/plotly.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash"
-  },
-  {
-    "repo": "leo-lilinxiao/codex-autoresearch",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
-  },
-  {
-    "repo": "Holiday-Robot/FlashSAC",
+    "repo": "lllyasviel/Fooocus",
     "branch": "main",
     "language": "Python",
-    "description": "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control"
+    "description": "Focus on prompting and generating"
   },
   {
-    "repo": "sweetalert2/sweetalert2",
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "repo": "YurunChen/repo-docs-skills",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+    "language": "Python",
+    "description": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves."
   },
   {
-    "repo": "anthnykr/codex-voice",
+    "repo": "balancer/balancer-v2-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Balancer V2 Monorepo"
+  },
+  {
+    "repo": "ClaudioDrews/memory-os",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "Python",
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
   },
   {
-    "repo": "raspberrypi/linux",
-    "branch": "rpi-6.6.y",
-    "language": "C",
-    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
+    "repo": "agentic-in/elephant-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Personal-Model First Self Evolving AI Agent 🐘"
+  },
+  {
+    "repo": "SKL2910/limitless-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
+  },
+  {
+    "repo": "Anxcye/anx-reader",
+    "branch": "main",
+    "language": "Dart",
+    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
   }
 ]
