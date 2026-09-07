@@ -1,27 +1,15 @@
 [
   {
-    "repo": "hashicorp/vault",
+    "repo": "RightNow-AI/openfang",
     "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
   },
   {
-    "repo": "six-ddc/livecaption",
+    "repo": "donvito/codex-astra-luna-orchestrator",
     "branch": "main",
-    "language": "Python",
-    "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud."
-  },
-  {
-    "repo": "openlibrecommunity/olcrtc",
-    "branch": "master",
-    "language": "Python",
-    "description": "olc - using side channels to access web outside the whitelist"
-  },
-  {
-    "repo": "actions/checkout",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
+    "language": "PowerShell",
+    "description": "Use Astra as orchestrator and Luna as implementor"
   },
   {
     "repo": "jlabon2/PsUi",
@@ -30,82 +18,100 @@
     "description": "For building UIs in PowerShell without the misery."
   },
   {
-    "repo": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
-    "branch": "work",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket copytradingbot polymarket copytrading bot"
-  },
-  {
-    "repo": "graphql/graphql-js",
+    "repo": "imj01y/trace-ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
+    "description": "高性能 ARM64 执行 trace 可视化分析工具"
   },
   {
-    "repo": "tamagui/tamagui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+    "repo": "harrymunro/nelson",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
   },
   {
-    "repo": "WtxwNs/RepoCheck",
+    "repo": "stanford-iris-lab/meta-harness",
     "branch": "main",
     "language": "Python",
-    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
+    "description": "Reference code for the Meta-Harness paper."
   },
   {
-    "repo": "rust-embedded/discovery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
-  },
-  {
-    "repo": "PyGithub/PyGithub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
-  },
-  {
-    "repo": "rohunvora/x-research-skill",
+    "repo": "gnekt/My-Brain-Is-Full-Crew",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+    "language": "Shell",
+    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
   },
   {
-    "repo": "serenakeyitan/sbti-wiki",
+    "repo": "fastclaw-ai/weclaw",
     "branch": "main",
-    "language": "HTML",
-    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev"
-  },
-  {
-    "repo": "HKUSTDial/Supervisor-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
-  },
-  {
-    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
-  },
-  {
-    "repo": "karpathy/agenthub",
-    "branch": "master",
     "language": "Go",
-    "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project."
+    "description": "Connect to any agents with WeChat ClawBot."
   },
   {
-    "repo": "PsiACE/skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A small, shared skill library by builders, for builders."
-  },
-  {
-    "repo": "pypa/packaging",
+    "repo": "SKYFIRE5836/Slay-the-Spire-2-Drawing",
     "branch": "main",
     "language": "Python",
-    "description": "Core utilities for Python packages"
+    "description": "杀戮尖塔2 数字琥珀自动画板 | A Python automation drawing tool for Slay the Spire 2"
+  },
+  {
+    "repo": "openilink/openilink-hub",
+    "branch": "main",
+    "language": "Go",
+    "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs"
+  },
+  {
+    "repo": "javaevolved/javaevolved.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Java Evolved. Your Code Can Evolve Too!"
+  },
+  {
+    "repo": "T-Lab-CUHKSZ/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+  },
+  {
+    "repo": "ochyai/open-japan-politech-platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
+  },
+  {
+    "repo": "airbnb/lottie-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+  },
+  {
+    "repo": "LichAmnesia/lich-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "vercel/ai",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
+  },
+  {
+    "repo": "Jiangzy520/DreamleStockRadar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
+  },
+  {
+    "repo": "Quick/Nimble",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
+  },
+  {
+    "repo": "incursi0n/BlueSAM",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
   },
   {
     "repo": "hexiecs/talk-normal",
@@ -114,33 +120,27 @@
     "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop."
   },
   {
-    "repo": "garrytan/gbrain",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Garry's Opinionated OpenClaw Brain"
-  },
-  {
-    "repo": "drizzle-team/drizzle-orm",
+    "repo": "ktorio/ktor",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "ORM"
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
   },
   {
-    "repo": "BuilderIO/qwik",
+    "repo": "verialabs/ctf-agent",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Instant-loading web apps, without effort"
+    "language": "Python",
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
   },
   {
-    "repo": "paperjs/paper.js",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
-  },
-  {
-    "repo": "antonpk1/excalidraw-mcp-app",
+    "repo": "lxf746/any-auto-register",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "sogonov/anubis",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state."
   }
 ]
