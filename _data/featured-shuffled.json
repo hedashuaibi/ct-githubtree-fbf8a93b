@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LeoYeAI/openclaw-auto-dream",
+    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
     "branch": "main",
-    "language": "HTML",
-    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
   },
   {
-    "repo": "omdsh-dev/dsh-at-file",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their contents to prompts."
-  },
-  {
-    "repo": "Tencent/cherry-markdown",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
-  },
-  {
-    "repo": "prompt-security/clawsec",
+    "repo": "liuup/claude-code-analysis",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+    "description": "The analysis of Claude Code"
   },
   {
-    "repo": "TheCaspianAI/Caspian",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
-  },
-  {
-    "repo": "jarodise/XQuery",
+    "repo": "react-native-camera/react-native-camera",
     "branch": "master",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Java",
+    "description": "A Camera component for React Native. Also supports barcode scanning!"
   },
   {
-    "repo": "aws/aws-cdk",
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using AI for high quality writing"
+  },
+  {
+    "repo": "barrosyan/PINNeAPPle",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
+  },
+  {
+    "repo": "HubSpot/messenger",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
+  },
+  {
+    "repo": "Henrygd/Beszel",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+  },
+  {
+    "repo": "6551Team/opennews-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "repo": "electron-userland/electron-forge",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+    "description": ":electron: A complete tool for building and publishing Electron applications"
   },
   {
-    "repo": "godagoo/claude-telegram-relay",
+    "repo": "jazzband/pip-tools",
+    "branch": "main",
+    "language": "Python",
+    "description": "A set of tools to keep your pinned Python dependencies fresh."
+  },
+  {
+    "repo": "restic/restic",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+    "language": "Go",
+    "description": "Fast, secure, efficient backup program"
   },
   {
-    "repo": "xi-editor/xi-editor",
+    "repo": "fish-shell/fish-shell",
     "branch": "master",
     "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
+    "description": "The user-friendly command line shell."
   },
   {
-    "repo": "rohunvora/x-research-skill",
+    "repo": "veyliss/ai-localbase",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+  },
+  {
+    "repo": "corespeed-io/wechatbot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
   },
   {
-    "repo": "sliverp/qqbot",
+    "repo": "NomaDamas/k-skill",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "qqbot"
+    "language": "JavaScript",
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
   },
   {
-    "repo": "steven2358/awesome-generative-ai",
+    "repo": "userland-run/nano",
     "branch": "main",
-    "language": "Other",
-    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
+    "language": "JavaScript",
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
   },
   {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
   },
   {
-    "repo": "six2dez/burp-ai-agent",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
-  },
-  {
-    "repo": "mindfold-ai/Trellis",
+    "repo": "sangrokjung/claude-forge",
     "branch": "main",
     "language": "Shell",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
+    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
   },
   {
-    "repo": "FiloSottile/mkcert",
+    "repo": "CleverCloud/mdr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
     "branch": "master",
-    "language": "Go",
-    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
-  },
-  {
-    "repo": "sipeed/picoclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "picoclaw"
-  },
-  {
-    "repo": "cisco-ai-defense/skill-scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Scanner for Agent Skills"
-  },
-  {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
+    "description": "Customizable Icons for React Native with support for image source and full styling."
   },
   {
-    "repo": "tektoncd/cli",
+    "repo": "bjarneo/cliamp",
     "branch": "main",
     "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
+    "description": "Terminal Winamp"
   },
   {
-    "repo": "influxdata/telegraf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
-  },
-  {
-    "repo": "nushell/nushell",
+    "repo": "smartcmd/MinecraftConsoles",
     "branch": "main",
-    "language": "Rust",
-    "description": "A new type of shell"
+    "language": "C++",
+    "description": "A certain block game"
   },
   {
-    "repo": "Lyy-iiis/pMF",
+    "repo": "xiaotianfotos/skills",
     "branch": "main",
     "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+    "description": "视频中分享的方法论代码参考"
   },
   {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    "repo": "google-deepmind/alphageometry",
+    "branch": "main",
+    "language": "Python",
+    "description": "Solving olympiad geometry without human demonstrations."
   }
 ]
