@@ -1,8 +1,8 @@
 {
-  "repo": "VII-Cae/hyalite--liquid-glass",
+  "repo": "int64ago/vistep",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.",
-  "stars": 128,
-  "forks": 8
+  "language": "TypeScript",
+  "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
+  "stars": 137,
+  "forks": 6
 }
