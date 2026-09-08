@@ -1,146 +1,146 @@
 [
   {
-    "repo": "RightNow-AI/openfang",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Agent Operating System"
-  },
-  {
-    "repo": "donvito/codex-astra-luna-orchestrator",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Use Astra as orchestrator and Luna as implementor"
-  },
-  {
-    "repo": "jlabon2/PsUi",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "For building UIs in PowerShell without the misery."
-  },
-  {
-    "repo": "imj01y/trace-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "高性能 ARM64 执行 trace 可视化分析工具"
-  },
-  {
-    "repo": "harrymunro/nelson",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reference code for the Meta-Harness paper."
-  },
-  {
-    "repo": "gnekt/My-Brain-Is-Full-Crew",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
-  },
-  {
-    "repo": "fastclaw-ai/weclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Connect to any agents with WeChat ClawBot."
-  },
-  {
-    "repo": "SKYFIRE5836/Slay-the-Spire-2-Drawing",
-    "branch": "main",
-    "language": "Python",
-    "description": "杀戮尖塔2 数字琥珀自动画板 | A Python automation drawing tool for Slay the Spire 2"
-  },
-  {
-    "repo": "openilink/openilink-hub",
-    "branch": "main",
-    "language": "Go",
-    "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs"
-  },
-  {
-    "repo": "javaevolved/javaevolved.github.io",
+    "repo": "LeoYeAI/openclaw-auto-dream",
     "branch": "main",
     "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
+    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
   },
   {
-    "repo": "T-Lab-CUHKSZ/claude-code",
+    "repo": "omdsh-dev/dsh-at-file",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "ochyai/open-japan-politech-platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
-  },
-  {
-    "repo": "airbnb/lottie-web",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+    "description": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their contents to prompts."
   },
   {
-    "repo": "LichAmnesia/lich-skills",
+    "repo": "Tencent/cherry-markdown",
     "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
+    "description": "✨ A Markdown Editor"
+  },
+  {
+    "repo": "prompt-security/clawsec",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+  },
+  {
+    "repo": "TheCaspianAI/Caspian",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
+  },
+  {
+    "repo": "jarodise/XQuery",
+    "branch": "master",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "vercel/ai",
+    "repo": "aws/aws-cdk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
   },
   {
-    "repo": "Jiangzy520/DreamleStockRadar",
+    "repo": "godagoo/claude-telegram-relay",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+  },
+  {
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "rohunvora/x-research-skill",
     "branch": "main",
-    "language": "Python",
-    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
   },
   {
-    "repo": "Quick/Nimble",
+    "repo": "sliverp/qqbot",
     "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
+    "language": "TypeScript",
+    "description": "qqbot"
   },
   {
-    "repo": "incursi0n/BlueSAM",
+    "repo": "steven2358/awesome-generative-ai",
     "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
+    "language": "Other",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
   },
   {
-    "repo": "hexiecs/talk-normal",
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "six2dez/burp-ai-agent",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+  },
+  {
+    "repo": "mindfold-ai/Trellis",
     "branch": "main",
     "language": "Shell",
-    "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop."
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
   },
   {
-    "repo": "ktorio/ktor",
+    "repo": "FiloSottile/mkcert",
+    "branch": "master",
+    "language": "Go",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+  },
+  {
+    "repo": "sipeed/picoclaw",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+    "language": "Go",
+    "description": "picoclaw"
   },
   {
-    "repo": "verialabs/ctf-agent",
+    "repo": "cisco-ai-defense/skill-scanner",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+    "description": "Security Scanner for Agent Skills"
   },
   {
-    "repo": "lxf746/any-auto-register",
+    "repo": "sindresorhus/type-fest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A collection of essential TypeScript types"
+  },
+  {
+    "repo": "tektoncd/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "nushell/nushell",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A new type of shell"
+  },
+  {
+    "repo": "Lyy-iiis/pMF",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
   },
   {
-    "repo": "sogonov/anubis",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state."
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
   }
 ]

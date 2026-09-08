@@ -1,8 +1,8 @@
 {
-  "repo": "kkkoaoa/biscuit-studio",
-  "branch": "aime/1788264454-open-source-release",
-  "language": "Python",
-  "description": "小饼干英语视频工坊：从英语知识点到 30 秒竖屏教学视频的一站式 AI 创作工具。",
-  "stars": 112,
-  "forks": 10
+  "repo": "int64ago/vistep",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
+  "stars": 111,
+  "forks": 5
 }
