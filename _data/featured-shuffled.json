@@ -1,146 +1,146 @@
 [
   {
-    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
-    "branch": "main",
-    "language": "C#",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
-  },
-  {
-    "repo": "liuup/claude-code-analysis",
+    "repo": "eduwass/tmux-palette",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The analysis of Claude Code"
+    "description": "Raycast-style command palette for tmux — fast, scriptable, easy to extend"
   },
   {
-    "repo": "react-native-camera/react-native-camera",
-    "branch": "master",
-    "language": "Java",
-    "description": "A Camera component for React Native. Also supports barcode scanning!"
-  },
-  {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
-  },
-  {
-    "repo": "barrosyan/PINNeAPPle",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
-  },
-  {
-    "repo": "HubSpot/messenger",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
-  },
-  {
-    "repo": "Henrygd/Beszel",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
-  },
-  {
-    "repo": "6551Team/opennews-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
-  },
-  {
-    "repo": "electron-userland/electron-forge",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ":electron: A complete tool for building and publishing Electron applications"
-  },
-  {
-    "repo": "jazzband/pip-tools",
-    "branch": "main",
-    "language": "Python",
-    "description": "A set of tools to keep your pinned Python dependencies fresh."
-  },
-  {
-    "repo": "restic/restic",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
-  },
-  {
-    "repo": "fish-shell/fish-shell",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The user-friendly command line shell."
-  },
-  {
-    "repo": "veyliss/ai-localbase",
-    "branch": "main",
-    "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
-  },
-  {
-    "repo": "corespeed-io/wechatbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
-  },
-  {
-    "repo": "NomaDamas/k-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
-  },
-  {
-    "repo": "userland-run/nano",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "sangrokjung/claude-forge",
+    "repo": "chatgptprojects/clear-code",
     "branch": "main",
     "language": "Shell",
-    "description": "oh-my-zsh for Claude Code — 11 agents, 36 commands, 15 skills, 6-layer security hooks. Install in 5 min, update with git pull."
+    "description": "See your claude code logs in clear details in your dashboard"
   },
   {
-    "repo": "CleverCloud/mdr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
+    "repo": "typeorm/typeorm",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
   },
   {
-    "repo": "bjarneo/cliamp",
-    "branch": "main",
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "go-micro/go-micro",
+    "branch": "master",
     "language": "Go",
-    "description": "Terminal Winamp"
+    "description": "A Go microservices framework"
   },
   {
-    "repo": "smartcmd/MinecraftConsoles",
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+  },
+  {
+    "repo": "microsoft/terminal",
     "branch": "main",
     "language": "C++",
-    "description": "A certain block game"
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
   },
   {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
+    "repo": "rvm/rvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Ruby enVironment Manager (RVM)"
   },
   {
-    "repo": "google-deepmind/alphageometry",
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "branch": "master",
+    "language": "Go",
+    "description": "Exporter for machine metrics"
+  },
+  {
+    "repo": "PeonPing/peon-ping",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
+  },
+  {
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+  },
+  {
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "Shopify/flash-list",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A better list for React Native"
+  },
+  {
+    "repo": "NirDiamant/GenAI_Agents",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems."
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "element-hq/element-web",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A glossy Matrix collaboration client for the web."
+  },
+  {
+    "repo": "techjarves/USB-Uncensored-LLM",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+  },
+  {
+    "repo": "nateherkai/hyperframes-student-kit",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
+  },
+  {
+    "repo": "andyhuo520/openclaw-assistant-mvp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
+  },
+  {
+    "repo": "XiaomiRobotics/Xiaomi-Robotics-0",
     "branch": "main",
     "language": "Python",
-    "description": "Solving olympiad geometry without human demonstrations."
+    "description": ""
+  },
+  {
+    "repo": "OranAi-Ltd/oransim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
   }
 ]
