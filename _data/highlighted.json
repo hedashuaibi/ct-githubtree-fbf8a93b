@@ -1,8 +1,8 @@
 {
-  "repo": "int64ago/vistep",
+  "repo": "freefrank/LostOdysseyRecomp",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
-  "stars": 137,
-  "forks": 6
+  "language": "C++",
+  "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
+  "stars": 105,
+  "forks": 2
 }

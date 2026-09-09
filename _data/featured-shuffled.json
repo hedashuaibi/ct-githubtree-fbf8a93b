@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Dokhacgiakhoa/google-antigravity",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
   },
   {
-    "repo": "Mr-funny/hbg-classical-poem-silk-video",
-    "branch": "main",
+    "repo": "Minglink/dsh-infinite-gen-1",
+    "branch": "master",
+    "language": "PowerShell",
+    "description": "DeepSeek 专用破甲插件「无限一代」dsh-infinite-gen-1 — armor-breaking plugin for DeepSeek，新一代全局破甲方案，求 Star 收藏 ⭐"
+  },
+  {
+    "repo": "rbenv/rbenv",
+    "branch": "master",
     "language": "Shell",
-    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA."
+    "description": "Manage your app's Ruby environment"
   },
   {
-    "repo": "beeware/briefcase",
+    "repo": "HKUSTDial/Supervisor-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Tools to support converting a Python project into a standalone native application."
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
   },
   {
-    "repo": "doocs/leetcode",
-    "branch": "main",
-    "language": "Java",
-    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
-  },
-  {
-    "repo": "1-dr-eam/RecommenderSystem",
-    "branch": "RecommenderSystem",
-    "language": "Python",
-    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API"
-  },
-  {
-    "repo": "dseditor/QwenASRMiniTool",
+    "repo": "nathaniel329/polymarket-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
+    "description": "polymarket trading bot"
   },
   {
-    "repo": "hsusul/lore",
+    "repo": "Xuanwo/xurl",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "xURL: Client for AI Agents URLs"
   },
   {
-    "repo": "pypa/pip",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python package installer"
-  },
-  {
-    "repo": "ImageLine-Project/fl-25.2.5",
+    "repo": "Noteshagutter/Best-Fortnite-Cheats-2026",
     "branch": "main",
     "language": "C++",
-    "description": "fl 25.2.5 image line daw digital audio workstation music production beat making vst plugins audio editing mixing mastering piano roll step sequencer audio interface asio4all producer edition desktop utility installation setup guide beginner tutorial workflow optimization"
+    "description": "⭐️ Fortnite Cheats 2026 Download – Aimbot, ESP, Wallhack, Triggerbot, Multihack, Recoil Control, Bunnyhop | Silent Aim, Radarhack, Loader, Injector, Undetected Bypass ⭐️"
   },
   {
-    "repo": "rohunvora/x-research-skill",
+    "repo": "LING71671/Open-ClaudeCode",
     "branch": "main",
     "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+    "description": "ClaudeCode related repository"
   },
   {
-    "repo": "FractalFir/crustc",
-    "branch": "main",
-    "language": "C",
-    "description": "Entirety of `rustc`, translated to C."
-  },
-  {
-    "repo": "cozytab/fable5-mode",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5."
-  },
-  {
-    "repo": "mosaxiv/picoclaw",
+    "repo": "cncf/toc",
     "branch": "main",
     "language": "Go",
-    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
   },
   {
-    "repo": "owenlejeune/ArrMatey",
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "LearnPrompt/cc-harness-skills",
     "branch": "main",
-    "language": "Kotlin",
+    "language": "Python",
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
+  },
+  {
+    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
+  },
+  {
+    "repo": "psf/requests-html",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pythonic HTML Parsing for Humans™"
+  },
+  {
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish-like autosuggestions for zsh"
+  },
+  {
+    "repo": "charonviz/text2geo",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "avihaymenahem/velo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
   },
   {
-    "repo": "luatools-steam/lua-steam-tools",
-    "branch": "main",
-    "language": "C++",
-    "description": "steam lua tools luatools lua tools steam millennium plugin opensteamtool steamtools lua scripts manifests game fixes fakeappid automatic downloader library management installer download link windows 11 desktop utility setup configuration guide tutorial troubleshooting license error fix"
-  },
-  {
-    "repo": "Doriandarko/webmcp-starter",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
-  },
-  {
-    "repo": "promptpirate-x/discord-id-bypass-tool",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A verified tool that works on any potato computer that will let you bypass discord verification"
-  },
-  {
-    "repo": "lvy010/AI-wiki",
-    "branch": "main",
-    "language": "Rust",
-    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "wordghost1234/agnes-ai-storyboard-studio",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 Guide to Self-Hosted Open Source AI Video Generation"
-  },
-  {
-    "repo": "Sophomoresty/gemini-search-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key."
-  },
-  {
-    "repo": "HeiGeAi/heige-codex-skin-studio",
+    "repo": "direkturcrypto/polymarket-terminal",
     "branch": "main",
     "language": "JavaScript",
-    "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)"
+    "description": "Copy, Scalping & Sniper for polymarket"
   },
   {
-    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
+    "repo": "vim/vim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "The official Vim repository"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
     "branch": "main",
-    "language": "Shell",
-    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+    "language": "Go",
+    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "Creators-of-Aeronautics/Simulated-Project",
+    "branch": "main",
+    "language": "Java",
+    "description": "Build anything from airships to planes and cars!"
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "actions/upload-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload artifacts from your workflow"
   }
 ]
