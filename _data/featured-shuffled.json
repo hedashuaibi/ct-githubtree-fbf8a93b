@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ShyVortex/dlss-unlocked",
+    "repo": "RadianceToadAmend/cs2-overlay-utility",
     "branch": "main",
-    "language": "Rich Text Format",
-    "description": "Unlock DLSS Upscaler, Multi-Frame Generation (MFG) and DLSS Neural Rendering features on any NVIDIA RTX GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively."
+    "language": "C++",
+    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes."
   },
   {
-    "repo": "PinchToDebug/EverythingQuickSearch",
+    "repo": "nestjs/nest",
     "branch": "master",
-    "language": "C#",
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+  },
+  {
+    "repo": "onnx/onnx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open standard for machine learning interoperability"
+  },
+  {
+    "repo": "kyutai-labs/hibiki-zero",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "kubernetes/kompose",
+    "branch": "master",
+    "language": "Go",
+    "description": "Convert Compose to Kubernetes"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "cloudwego/hertz",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "nakagami/grdpwasm",
+    "branch": "master",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "apple/swift-log",
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "lopespm/zig-minimal-kernel-x86",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Minimal x86 Kernel - built in Zig"
+  },
+  {
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
+  },
+  {
+    "repo": "Infatoshi/x-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
+  },
+  {
+    "repo": "vuejs/vue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  },
+  {
+    "repo": "Yu9191/sub-store-workers",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版"
+  },
+  {
+    "repo": "facebookresearch/HyperAgents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-referential self-improving agents that can optimize for any computable task"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "branch": "v3.8",
+    "language": "C++",
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+  },
+  {
+    "repo": "apple/swift-argument-parser",
     "branch": "main",
     "language": "Swift",
-    "description": "A Logging API for Swift"
+    "description": "Straightforward, type-safe argument parsing for Swift"
   },
   {
-    "repo": "lukehinds/nono",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
-  },
-  {
-    "repo": "Unclecode/Crawl4AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
-  },
-  {
-    "repo": "tldraw/tldraw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "very good whiteboard infinite canvas SDK"
-  },
-  {
-    "repo": "paritytech/polkadot",
+    "repo": "nextcloud/android",
     "branch": "master",
-    "language": "Rust",
-    "description": "Polkadot Node Implementation"
+    "language": "Kotlin",
+    "description": "📱 Nextcloud Android app"
   },
   {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "keras-team/keras-cv",
-    "branch": "master",
-    "language": "Python",
-    "description": "Industry-strength Computer Vision workflows with Keras"
-  },
-  {
-    "repo": "meilisearch/meilisearch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
-  },
-  {
-    "repo": "google/trax",
-    "branch": "master",
-    "language": "Python",
-    "description": "Trax — Deep Learning with Clear Code and Speed"
-  },
-  {
-    "repo": "GrapheneOS/Camera",
-    "branch": "main",
-    "language": "Java",
-    "description": "Modern camera app focused on privacy and security with QR & barcode scanning."
-  },
-  {
-    "repo": "Jakubantalik/border-beam",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Animated border beam effect for React"
-  },
-  {
-    "repo": "valeriansaliou/sonic",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
-  },
-  {
-    "repo": "haolinwang819-boop/ai-video-generation-workflow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
-  },
-  {
-    "repo": "fjb040911/ai-rules",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
-  },
-  {
-    "repo": "MariaDB/server",
-    "branch": "11.4",
-    "language": "C++",
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
-  },
-  {
-    "repo": "openai/spinningup",
-    "branch": "master",
-    "language": "Python",
-    "description": "An educational resource to help anyone learn deep reinforcement learning."
-  },
-  {
-    "repo": "openai/gym",
-    "branch": "master",
-    "language": "Python",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "dotnet/roslyn",
-    "branch": "main",
-    "language": "C#",
-    "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs."
-  },
-  {
-    "repo": "playframework/playframework",
-    "branch": "main",
-    "language": "Scala",
-    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
-  },
-  {
-    "repo": "facebookresearch/audiocraft",
+    "repo": "openai/openai-cookbook",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+    "description": "Examples and guides for using the OpenAI API"
   },
   {
-    "repo": "plotly/plotly.py",
+    "repo": "MuhammadHananAsghar/wormhole",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
     "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "jwasham/coding-interview-university",
+    "branch": "main",
+    "language": "Other",
+    "description": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "repo": "rollup/rollup",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Next-generation ES module bundler"
   }
 ]
