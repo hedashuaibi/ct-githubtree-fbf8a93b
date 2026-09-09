@@ -1,146 +1,146 @@
 [
   {
-    "repo": "RadianceToadAmend/cs2-overlay-utility",
+    "repo": "IRNova/NovaRadar",
     "branch": "main",
-    "language": "C++",
-    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes."
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "onnx/onnx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open standard for machine learning interoperability"
-  },
-  {
-    "repo": "kyutai-labs/hibiki-zero",
-    "branch": "main",
-    "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
-  },
-  {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
     "language": "Go",
-    "description": "Convert Compose to Kubernetes"
+    "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group."
   },
   {
-    "repo": "firebase/firebase-ios-sdk",
-    "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
+    "repo": "openai/codex-plugin-cc",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Use Codex from Claude Code to review code or delegate tasks."
   },
   {
-    "repo": "996icu/996.ICU",
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
     "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "cloudwego/hertz",
+    "repo": "hammerjs/hammer.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
+  },
+  {
+    "repo": "apache/tvm",
     "branch": "main",
-    "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+    "language": "Python",
+    "description": "Open Machine Learning Compiler Framework"
   },
   {
-    "repo": "nakagami/grdpwasm",
+    "repo": "tilt-dev/tilt",
     "branch": "master",
     "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "branch": "main",
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cross-platform, OpenGL terminal emulator."
+  },
+  {
+    "repo": "python-poetry/poetry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Python packaging and dependency management made easy"
+  },
+  {
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "videojs/video.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Video.js - open source HTML5 video player"
+  },
+  {
+    "repo": "test-time-training/discover",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "triggerdotdev/trigger.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
-  },
-  {
-    "repo": "lopespm/zig-minimal-kernel-x86",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Minimal x86 Kernel - built in Zig"
-  },
-  {
-    "repo": "github/docs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
-  },
-  {
-    "repo": "Infatoshi/x-cli",
+    "repo": "microsoft/cascadia-code",
     "branch": "main",
     "language": "Python",
-    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
+    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
   },
   {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "Yu9191/sub-store-workers",
+    "repo": "jasmine/jasmine",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版"
+    "description": "Simple JavaScript testing framework for browsers and node.js"
   },
   {
-    "repo": "facebookresearch/HyperAgents",
+    "repo": "realm/realm-swift",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
+  },
+  {
+    "repo": "deepseek-ai/deepseek-coder",
     "branch": "main",
     "language": "Python",
-    "description": "Self-referential self-improving agents that can optimize for any computable task"
+    "description": "DeepSeek Coder: Let the Code Write Itself"
   },
   {
-    "repo": "cocos/cocos-engine",
-    "branch": "v3.8",
-    "language": "C++",
-    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
-  },
-  {
-    "repo": "apple/swift-argument-parser",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Straightforward, type-safe argument parsing for Swift"
-  },
-  {
-    "repo": "nextcloud/android",
+    "repo": "gvisor/gvisor",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "📱 Nextcloud Android app"
-  },
-  {
-    "repo": "openai/openai-cookbook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
-  },
-  {
-    "repo": "MuhammadHananAsghar/wormhole",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "jwasham/coding-interview-university",
-    "branch": "main",
     "language": "Other",
-    "description": "A complete computer science study plan to become a software engineer."
+    "description": "Application Kernel for Containers."
   },
   {
-    "repo": "rollup/rollup",
+    "repo": "fabricjs/fabric.js",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Next-generation ES module bundler"
+    "language": "TypeScript",
+    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+  },
+  {
+    "repo": "backstage/backstage",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Backstage is an open framework for building developer portals"
+  },
+  {
+    "repo": "swc-project/swc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "repo": "bentoml/BentoML",
+    "branch": "main",
+    "language": "Python",
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
+  },
+  {
+    "repo": "dashrobotco/robot-components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "dayflow-js/BlossomColorPicker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A beautiful, blooming color picker component build by Tailwind for Web.     🌟 If you like it, give it a star :)"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
   }
 ]
