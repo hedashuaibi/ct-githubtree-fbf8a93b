@@ -1,8 +1,8 @@
 {
-  "repo": "freefrank/LostOdysseyRecomp",
+  "repo": "chigwell/Penelopa.ai",
   "branch": "main",
-  "language": "C++",
-  "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
-  "stars": 105,
-  "forks": 2
+  "language": "JavaScript",
+  "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
+  "stars": 109,
+  "forks": 1
 }
