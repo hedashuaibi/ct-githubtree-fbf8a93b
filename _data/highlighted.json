@@ -1,8 +1,8 @@
 {
-  "repo": "Foadsf/vintage-latex",
+  "repo": "Vincentwei1021/anything2explainer",
   "branch": "main",
-  "language": "PowerShell",
-  "description": "Twenty LuaLaTeX and MetaPost (fiziko) examples of the old scientific-paper aesthetic: engraved plates, star charts, computed log tables, knots, telescopes",
-  "stars": 185,
-  "forks": 14
+  "language": "TypeScript",
+  "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+  "stars": 668,
+  "forks": 118
 }
