@@ -1,8 +1,8 @@
 {
-  "repo": "fidetolabs/qanat",
+  "repo": "Foadsf/vintage-latex",
   "branch": "main",
-  "language": "Python",
-  "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
-  "stars": 111,
-  "forks": 24
+  "language": "PowerShell",
+  "description": "Twenty LuaLaTeX and MetaPost (fiziko) examples of the old scientific-paper aesthetic: engraved plates, star charts, computed log tables, knots, telescopes",
+  "stars": 185,
+  "forks": 14
 }

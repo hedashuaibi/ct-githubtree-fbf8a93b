@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jcranokc/app-monitor",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Local-first macOS app usage, storage, cleanup, update, and uninstall monitor."
-  },
-  {
-    "repo": "derHaken/SuperAntigravity",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
-  },
-  {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
-  },
-  {
-    "repo": "brendanhogan/loophole",
+    "repo": "perglervitek/Hades-II-Trainer-Turbo",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
   },
   {
-    "repo": "freestylefly/wechat-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
+    "repo": "istio/istio",
+    "branch": "master",
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
   },
   {
-    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
+    "repo": "fatedier/frp",
+    "branch": "dev",
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  {
+    "repo": "OpenZeppelin/openzeppelin-contracts",
+    "branch": "master",
+    "language": "Solidity",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
+  },
+  {
+    "repo": "strapi/strapi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
   },
   {
-    "repo": "Lcharvol/MacSift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
-  },
-  {
-    "repo": "cnlimiter/codex-register",
+    "repo": "encode/starlette",
     "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "The little ASGI framework that shines. 🌟"
   },
   {
-    "repo": "Tencent-Hunyuan/HY-SOAR",
+    "repo": "bitcoin/bitcoin",
+    "branch": "master",
+    "language": "C++",
+    "description": "Bitcoin Core integration/staging tree"
+  },
+  {
+    "repo": "github/copilot-docs",
+    "branch": "main",
+    "language": "Other",
+    "description": "Documentation for GitHub Copilot"
+  },
+  {
+    "repo": "ByteByteGoHq/system-design-101",
+    "branch": "main",
+    "language": "Other",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
     "branch": "main",
     "language": "Python",
-    "description": "HY-SOAR:Self-Correction for Optimal Alignment and Refinement in Diffusion Models"
+    "description": "Focus on prompting and generating"
   },
   {
-    "repo": "get-Lucid/Lucid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
-  },
-  {
-    "repo": "zubair-trabzada/ai-marketing-claude",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
-  },
-  {
-    "repo": "Eronred/expo-agent-spinners",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
-  },
-  {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "PeonPing/peon-ping",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
-  },
-  {
-    "repo": "android-bench/android-bench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
-  },
-  {
-    "repo": "lardissone/ansi-saver",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
-  },
-  {
-    "repo": "userland-run/nano",
+    "repo": "preactjs/preact",
     "branch": "main",
     "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
   },
   {
-    "repo": "dev-protocol/polymarket-trading-bot-new",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
-  },
-  {
-    "repo": "hkcanan/katmer-code",
+    "repo": "composer/composer",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
   },
   {
-    "repo": "yzhao062/anywhere-agents",
+    "repo": "argoproj/argo-workflows",
+    "branch": "master",
+    "language": "Go",
+    "description": "Workflow Engine for Kubernetes"
+  },
+  {
+    "repo": "ultralytics/yolov5",
+    "branch": "master",
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+  },
+  {
+    "repo": "joeseesun/anything-to-notebooklm",
     "branch": "main",
     "language": "Python",
-    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
   },
   {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
   },
   {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+    "repo": "google/dagger",
+    "branch": "master",
+    "language": "Java",
+    "description": "A fast dependency injector for Android and Java."
   },
   {
-    "repo": "openabdev/openab",
+    "repo": "1Panel-dev/MaxKB",
     "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+    "language": "Python",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
   },
   {
-    "repo": "owengretzinger/constellagent",
+    "repo": "oneclaw/oneclaw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
+    "language": "JavaScript",
+    "description": "OneClaw"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "branch": "master",
+    "language": "Go",
+    "description": "Declarative Continuous Deployment for Kubernetes"
+  },
+  {
+    "repo": "jorgebucaran/hyperapp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "1kB-ish JavaScript framework for building hypertext applications"
+  },
+  {
+    "repo": "linkerd/linkerd2",
+    "branch": "main",
+    "language": "Go",
+    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+  },
+  {
+    "repo": "stanford-oval/storm",
+    "branch": "main",
+    "language": "Python",
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
   }
 ]
