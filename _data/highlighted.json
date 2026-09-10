@@ -1,8 +1,8 @@
 {
-  "repo": "chigwell/Penelopa.ai",
+  "repo": "MartinDelophy/awesome-gpt-6-astra",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
-  "stars": 112,
-  "forks": 2
+  "description": "A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra 游戏精选",
+  "stars": 119,
+  "forks": 27
 }

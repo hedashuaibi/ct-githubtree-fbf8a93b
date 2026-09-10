@@ -1,146 +1,146 @@
 [
   {
-    "repo": "IRNova/NovaRadar",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group."
-  },
-  {
-    "repo": "openai/codex-plugin-cc",
+    "repo": "elder-plinius/GLOSSOPETRAE",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Use Codex from Claude Code to review code or delegate tasks."
+    "description": "LINGUISTIC ENGINE FOR AI"
   },
   {
-    "repo": "getify/You-Dont-Know-JS",
+    "repo": "fluent/fluent-bit",
     "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "language": "C",
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
   },
   {
-    "repo": "hammerjs/hammer.js",
+    "repo": "google/dagger",
+    "branch": "master",
+    "language": "Java",
+    "description": "A fast dependency injector for Android and Java."
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
+  },
+  {
+    "repo": "actions/setup-node",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
+  },
+  {
+    "repo": "apache/iceberg",
+    "branch": "main",
+    "language": "Java",
+    "description": "Apache Iceberg"
+  },
+  {
+    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "branch": "main",
+    "language": "HTML",
+    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+  },
+  {
+    "repo": "nox-project/nox-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
+  },
+  {
+    "repo": "shelljs/shelljs",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
+    "description": ":shell: Portable Unix shell commands for Node.js"
   },
   {
-    "repo": "apache/tvm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Machine Learning Compiler Framework"
-  },
-  {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
-  },
-  {
-    "repo": "microsoft/semantic-kernel",
-    "branch": "main",
-    "language": "C#",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
-  },
-  {
-    "repo": "alacritty/alacritty",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cross-platform, OpenGL terminal emulator."
-  },
-  {
-    "repo": "python-poetry/poetry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Python packaging and dependency management made easy"
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark remover"
-  },
-  {
-    "repo": "videojs/video.js",
+    "repo": "mgks/GitHubTree",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "test-time-training/discover",
+    "repo": "ForecastForge/binance-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+  },
+  {
+    "repo": "appledog-xyz/FormCmsPortal",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "microsoft/cascadia-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
-  },
-  {
-    "repo": "jasmine/jasmine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
-  },
-  {
-    "repo": "realm/realm-swift",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
-  },
-  {
-    "repo": "deepseek-ai/deepseek-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
-  },
-  {
-    "repo": "gvisor/gvisor",
-    "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
-  },
-  {
-    "repo": "fabricjs/fabric.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
-  },
-  {
-    "repo": "backstage/backstage",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
-  },
-  {
-    "repo": "swc-project/swc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust-based platform for the Web"
-  },
-  {
-    "repo": "bentoml/BentoML",
-    "branch": "main",
-    "language": "Python",
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
-  },
-  {
-    "repo": "dashrobotco/robot-components",
+    "repo": "rbrown101010/rilable",
     "branch": "main",
     "language": "TypeScript",
+    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
+  },
+  {
+    "repo": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source end-to-end omni interaction agent for natural full-duplex voice collaboration, continuous audio-visual perception, and asynchronous long-horizon agentic execution."
+  },
+  {
+    "repo": "huggingface/nanowhale",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "dayflow-js/BlossomColorPicker",
+    "repo": "jtr21300/MAGIX-Music-Maker-Quickstart",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A beautiful, blooming color picker component build by Tailwind for Web.     🌟 If you like it, give it a star :)"
+    "language": "HTML",
+    "description": "Best MAGIX Music Maker Premium Setup 2026 AI Music Production Suite"
   },
   {
-    "repo": "huggingface/transformers",
+    "repo": "TQ-trade/rari-stable-pool-contracts",
+    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
+    "language": "HTML",
+    "description": "Smart contracts for the Rari Stable Pool."
+  },
+  {
+    "repo": "PayalJakharRft/GitHub_Stars_Booster",
     "branch": "main",
     "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    "description": "Boost GitHub repository stars, watches, and forks. Improve project visibility and attract contributors."
+  },
+  {
+    "repo": "CEOHarvey242/cheat-engine-7.5",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cheat engine 7.5  github  tables download pc windows 11 cheat tables forza horizon 6  elden ring  ct file memory scanner speedhack trainer maker"
+  },
+  {
+    "repo": "ShinyaTomitsuka/arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
+  },
+  {
+    "repo": "cv-cat/XHS_ALL_IN_ONE",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "XHS_ALL_IN_ONE 小红书全域运营"
+  },
+  {
+    "repo": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+    "branch": "main",
+    "language": "Python",
+    "description": "Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+  },
+  {
+    "repo": "hossein8360/cdn-ip-finder",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CDN IP finder for ShirOKhorshid domain fronting"
   }
 ]
