@@ -1,8 +1,8 @@
 {
-  "repo": "MartinDelophy/awesome-gpt-6-astra",
+  "repo": "fidetolabs/qanat",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra 游戏精选",
-  "stars": 119,
-  "forks": 27
+  "language": "Python",
+  "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
+  "stars": 111,
+  "forks": 24
 }

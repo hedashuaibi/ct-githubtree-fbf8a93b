@@ -1,146 +1,146 @@
 [
   {
-    "repo": "elder-plinius/GLOSSOPETRAE",
+    "repo": "jcranokc/app-monitor",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Local-first macOS app usage, storage, cleanup, update, and uninstall monitor."
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+  },
+  {
+    "repo": "Wechat-ggGitHub/wechat-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
+  },
+  {
+    "repo": "brendanhogan/loophole",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "freestylefly/wechat-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
+  },
+  {
+    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+  },
+  {
+    "repo": "Lcharvol/MacSift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
+  },
+  {
+    "repo": "cnlimiter/codex-register",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-SOAR",
+    "branch": "main",
+    "language": "Python",
+    "description": "HY-SOAR:Self-Correction for Optimal Alignment and Refinement in Diffusion Models"
+  },
+  {
+    "repo": "get-Lucid/Lucid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
+  },
+  {
+    "repo": "zubair-trabzada/ai-marketing-claude",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
+  },
+  {
+    "repo": "Eronred/expo-agent-spinners",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+  },
+  {
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "PeonPing/peon-ping",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
+  },
+  {
+    "repo": "android-bench/android-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "lardissone/ansi-saver",
+    "branch": "main",
+    "language": "Swift",
+    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
+  },
+  {
+    "repo": "userland-run/nano",
     "branch": "main",
     "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
   },
   {
-    "repo": "fluent/fluent-bit",
+    "repo": "dev-protocol/polymarket-trading-bot-new",
     "branch": "master",
-    "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+    "language": "Rust",
+    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
   },
   {
-    "repo": "google/dagger",
-    "branch": "master",
-    "language": "Java",
-    "description": "A fast dependency injector for Android and Java."
+    "repo": "hkcanan/katmer-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
   },
   {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
+    "repo": "yzhao062/anywhere-agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
   },
   {
-    "repo": "gcc-mirror/gcc",
-    "branch": "master",
+    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "branch": "main",
     "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
+    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
   },
   {
-    "repo": "actions/setup-node",
+    "repo": "ultraworkers/claw-code-parity",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "repo": "openabdev/openab",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+  },
+  {
+    "repo": "owengretzinger/constellagent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
-  },
-  {
-    "repo": "apache/iceberg",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
-  },
-  {
-    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
-    "branch": "main",
-    "language": "HTML",
-    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
-  },
-  {
-    "repo": "nox-project/nox-framework",
-    "branch": "main",
-    "language": "Python",
-    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
-  },
-  {
-    "repo": "shelljs/shelljs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":shell: Portable Unix shell commands for Node.js"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "ForecastForge/binance-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
-  },
-  {
-    "repo": "appledog-xyz/FormCmsPortal",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "rbrown101010/rilable",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
-  },
-  {
-    "repo": "Omni-Interaction-Gander/Omni-Interaction-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source end-to-end omni interaction agent for natural full-duplex voice collaboration, continuous audio-visual perception, and asynchronous long-horizon agentic execution."
-  },
-  {
-    "repo": "huggingface/nanowhale",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jtr21300/MAGIX-Music-Maker-Quickstart",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best MAGIX Music Maker Premium Setup 2026 AI Music Production Suite"
-  },
-  {
-    "repo": "TQ-trade/rari-stable-pool-contracts",
-    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
-    "language": "HTML",
-    "description": "Smart contracts for the Rari Stable Pool."
-  },
-  {
-    "repo": "PayalJakharRft/GitHub_Stars_Booster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boost GitHub repository stars, watches, and forks. Improve project visibility and attract contributors."
-  },
-  {
-    "repo": "CEOHarvey242/cheat-engine-7.5",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "cheat engine 7.5  github  tables download pc windows 11 cheat tables forza horizon 6  elden ring  ct file memory scanner speedhack trainer maker"
-  },
-  {
-    "repo": "ShinyaTomitsuka/arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
-  },
-  {
-    "repo": "cv-cat/XHS_ALL_IN_ONE",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "XHS_ALL_IN_ONE 小红书全域运营"
-  },
-  {
-    "repo": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-    "branch": "main",
-    "language": "Python",
-    "description": "Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
-  },
-  {
-    "repo": "hossein8360/cdn-ip-finder",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CDN IP finder for ShirOKhorshid domain fronting"
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
   }
 ]
