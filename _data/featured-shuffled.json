@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MariusOTB/OpenTrade-Agent",
+    "repo": "drasimwagan/mdv",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open-source trading harness for agents"
+    "description": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
   },
   {
-    "repo": "jnv/lists",
-    "branch": "master",
-    "language": "Other",
-    "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere"
+    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
   },
   {
-    "repo": "foru17/clash-master",
+    "repo": "johannesjo/parallel-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
   },
   {
-    "repo": "hasura/graphql-engine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
-  },
-  {
-    "repo": "Robbyant/lingbot-vla",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Pragmatic VLA Foundation Model"
-  },
-  {
-    "repo": "OpenDCAI/OpenPrism",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
-  },
-  {
-    "repo": "sb-ocr/cmdeck",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "oneclaw/oneclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OneClaw"
-  },
-  {
-    "repo": "rebornix/Agmente",
+    "repo": "lifedever/TaskTick",
     "branch": "main",
     "language": "Swift",
-    "description": ""
+    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
   },
   {
-    "repo": "divyaprakash0426/autoshorts",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers."
-  },
-  {
-    "repo": "FireRedTeam/FireRed-OpenStoryline",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "1837620622/cloudflare-bypass-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "LYL1015/JarvisX-Cowork",
-    "branch": "main",
-    "language": "Python",
-    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
-  },
-  {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "snarktank/compound-product",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
-  },
-  {
-    "repo": "by-sonic/unblock-pro",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
-  },
-  {
-    "repo": "vitest-dev/vitest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation testing framework powered by Vite."
-  },
-  {
-    "repo": "junaid-mahmood/nlsh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn natural language to terminal commands"
-  },
-  {
-    "repo": "SergioBenitez/Rocket",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A web framework for Rust."
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "junevm/splathash",
+    "repo": "cosmos/cosmos-sdk",
     "branch": "main",
     "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
+  },
+  {
+    "repo": "pyinvoke/invoke",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pythonic task management & command execution."
+  },
+  {
+    "repo": "Zephkek/XStoreUnlocker",
+    "branch": "main",
+    "language": "C++",
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
+  },
+  {
+    "repo": "garagon/nanostack",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Minimal AI coding agent team skills for the full engineering workflow."
+  },
+  {
+    "repo": "shenhao-stu/openclaw-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
+  },
+  {
+    "repo": "dwzhu-pku/PaperBanana",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+  },
+  {
+    "repo": "alchaincyf/nuwa-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
+  },
+  {
+    "repo": "CleverCloud/mdr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+  },
+  {
+    "repo": "microsoft/dotnet",
+    "branch": "main",
+    "language": "HTML",
+    "description": "This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation."
+  },
+  {
+    "repo": "realm/SwiftLint",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tool to enforce Swift style and conventions."
+  },
+  {
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
+  },
+  {
+    "repo": "chauncygu/collection-claude-code-source-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A collection of the newest Claude Code open source"
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "A production-ready QUIC implementation in pure Go"
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "cosmicstack-labs/mercury-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Leonxlnx/claw-dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Lcharvol/MacSift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
+  },
+  {
+    "repo": "facebook/litho",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A declarative framework for building efficient UIs on Android."
   }
 ]

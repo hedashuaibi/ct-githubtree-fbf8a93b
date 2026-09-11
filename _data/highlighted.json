@@ -1,8 +1,8 @@
 {
-  "repo": "Vincentwei1021/anything2explainer",
-  "branch": "main",
-  "language": "TypeScript",
-  "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-  "stars": 668,
-  "forks": 118
+  "repo": "nmatt0/mithril",
+  "branch": "master",
+  "language": "C++",
+  "description": "IoT static scanner for secrets, SBOM, CVEs and more.",
+  "stars": 123,
+  "forks": 16
 }
