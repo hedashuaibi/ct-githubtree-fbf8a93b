@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LeoChen-CoreMind/VMPacker",
-    "branch": "master",
-    "language": "Go",
-    "description": "ARM64 ELF Virtual Machine Protection System"
-  },
-  {
-    "repo": "Yuliang-Liu/MonkeyOCRv2",
-    "branch": "main",
-    "language": "Python",
-    "description": "MonkeyOCRv2 Vision Encoder — A Document-Native Visual Backbone"
-  },
-  {
-    "repo": "inclusionAI/cuLA",
-    "branch": "main",
-    "language": "Python",
-    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
-  },
-  {
-    "repo": "needle-tools/md-browse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Markdown Browser – See the web like an AI does"
-  },
-  {
-    "repo": "ajeetdsouza/zoxide",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A smarter cd command. Supports all major shells."
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "kitlangton/tailcode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Polymarket/polymarket-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "junit-team/junit5",
-    "branch": "main",
-    "language": "Java",
-    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
-  },
-  {
-    "repo": "keanucz/detour",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
-  },
-  {
-    "repo": "dongsheng123132/u-claw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
-  },
-  {
-    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual Dexscreener terminal CLI + MCP scanner"
-  },
-  {
-    "repo": "prompt-toolkit/python-prompt-toolkit",
-    "branch": "master",
-    "language": "Python",
-    "description": "Library for building powerful interactive command line applications in Python"
-  },
-  {
-    "repo": "vercel-labs/emulate",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local API emulation for CI and no-network sandboxes"
-  },
-  {
-    "repo": "vigorX777/content-collector-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
-  },
-  {
-    "repo": "peteromallet/desloppify",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "encode/starlette",
-    "branch": "master",
-    "language": "Python",
-    "description": "The little ASGI framework that shines. 🌟"
-  },
-  {
-    "repo": "joeseesun/word-root-workshop",
+    "repo": "jlia0/tinyclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词"
+    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
   },
   {
-    "repo": "apache/iceberg",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
-  },
-  {
-    "repo": "anthropics/financial-services-plugins",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "VAENPP/solana-trading-bot",
     "branch": "main",
     "language": "TypeScript",
+    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
+  },
+  {
+    "repo": "angusdevgo/IDM_Pro_Tool",
+    "branch": "main",
+    "language": "C#",
+    "description": "现代化IDM激活与状态维护套件"
+  },
+  {
+    "repo": "killervillsy/SessionToJson",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "Guid-Lab/kdecrypt",
+    "repo": "antirez/ds4",
     "branch": "main",
-    "language": "C++",
-    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
+    "language": "C",
+    "description": "DeepSeek 4 Flash local inference engine for Metal"
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
+    "repo": "kunchenguid/autopreso",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself."
+  },
+  {
+    "repo": "Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
     "branch": "main",
     "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+    "description": "ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah."
   },
   {
-    "repo": "bwya77/vscode-dark-islands",
+    "repo": "fortis001/Star_Wars_Jedi__Survivor_Unlimited_Force",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "VSCode theme based off the new Jetbrains islands theme"
+    "language": "Python",
+    "description": "Unlimited Force, health, and skill points for Jedi: Survivor. God mode, infinite lightsaber combos, and all abilities."
+  },
+  {
+    "repo": "Asosa809/File_Recovery_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use."
+  },
+  {
+    "repo": "privatenumber/mac-ocr",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework."
+  },
+  {
+    "repo": "ynsmroztas/cPanelSniper",
+    "branch": "main",
+    "language": "Python",
+    "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
+  },
+  {
+    "repo": "teresiapeetz53968036169/WallpaperDownloader-Version-Pro-2",
+    "branch": "main",
+    "language": "C#",
+    "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
+  },
+  {
+    "repo": "ValeriaVoronin11/Exodus-Fake-Balance",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering"
+  },
+  {
+    "repo": "Unknow-human/Anime_Defenders_-_Auto-Place___Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-place and auto-farm for Anime Defenders, the anime tower defense game[reference:49]. Place defenders, farm gems, and beat every wave."
+  },
+  {
+    "repo": "trynullsec/nullsec-s1",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security-native LLM system for AI-generated application security."
+  },
+  {
+    "repo": "anvie/evonic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Agentic AI Platform - The home your agents deserve"
+  },
+  {
+    "repo": "suyancc/openai-plus-vxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
+  },
+  {
+    "repo": "dex-original/okx-agent-trade-kit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp"
+  },
+  {
+    "repo": "BigPizzaV3/CodexPlusPlus",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个CodexApp的增强工具"
+  },
+  {
+    "repo": "Simbastack-hq/framedex",
+    "branch": "main",
+    "language": "Python",
+    "description": "Framedex — a queryable knowledge base for your video archive"
+  },
+  {
+    "repo": "mrdoob/draco.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js."
+  },
+  {
+    "repo": "cryingcheems/codex-team-oauth",
+    "branch": "main",
+    "language": "Python",
+    "description": "利用Team 空间域名free 账号跳过手机号登录 codex的研究脚本"
+  },
+  {
+    "repo": "jaytel0/taste",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Taste skill creation pipeline"
+  },
+  {
+    "repo": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "branch": "main",
+    "language": "C#",
+    "description": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer"
   }
 ]
