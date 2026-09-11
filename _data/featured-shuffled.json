@@ -1,146 +1,146 @@
 [
   {
-    "repo": "drasimwagan/mdv",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
-  },
-  {
-    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
-  },
-  {
-    "repo": "johannesjo/parallel-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
-  },
-  {
-    "repo": "lifedever/TaskTick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
-  },
-  {
-    "repo": "cosmos/cosmos-sdk",
-    "branch": "main",
+    "repo": "LeoChen-CoreMind/VMPacker",
+    "branch": "master",
     "language": "Go",
-    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
+    "description": "ARM64 ELF Virtual Machine Protection System"
   },
   {
-    "repo": "pyinvoke/invoke",
+    "repo": "Yuliang-Liu/MonkeyOCRv2",
     "branch": "main",
     "language": "Python",
-    "description": "Pythonic task management & command execution."
+    "description": "MonkeyOCRv2 Vision Encoder — A Document-Native Visual Backbone"
   },
   {
-    "repo": "Zephkek/XStoreUnlocker",
-    "branch": "main",
-    "language": "C++",
-    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
-  },
-  {
-    "repo": "garagon/nanostack",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Minimal AI coding agent team skills for the full engineering workflow."
-  },
-  {
-    "repo": "shenhao-stu/openclaw-agents",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
-  },
-  {
-    "repo": "dwzhu-pku/PaperBanana",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
-  },
-  {
-    "repo": "alchaincyf/nuwa-skill",
+    "repo": "inclusionAI/cuLA",
     "branch": "main",
     "language": "Python",
-    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
+    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
   },
   {
-    "repo": "CleverCloud/mdr",
+    "repo": "needle-tools/md-browse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Markdown Browser – See the web like an AI does"
+  },
+  {
+    "repo": "ajeetdsouza/zoxide",
     "branch": "main",
     "language": "Rust",
-    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+    "description": "A smarter cd command. Supports all major shells."
   },
   {
-    "repo": "microsoft/dotnet",
+    "repo": "glommer/codemogger",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
+  },
+  {
+    "repo": "kitlangton/tailcode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Polymarket/polymarket-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "junit-team/junit5",
+    "branch": "main",
+    "language": "Java",
+    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
+  },
+  {
+    "repo": "keanucz/detour",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
+  },
+  {
+    "repo": "dongsheng123132/u-claw",
     "branch": "main",
     "language": "HTML",
-    "description": "This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation."
+    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
   },
   {
-    "repo": "realm/SwiftLint",
+    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
     "branch": "main",
-    "language": "Swift",
-    "description": "A tool to enforce Swift style and conventions."
+    "language": "Python",
+    "description": "Visual Dexscreener terminal CLI + MCP scanner"
   },
   {
-    "repo": "kubernetes-sigs/kubespray",
+    "repo": "prompt-toolkit/python-prompt-toolkit",
     "branch": "master",
-    "language": "Jinja",
-    "description": "Deploy a Production Ready Kubernetes Cluster"
+    "language": "Python",
+    "description": "Library for building powerful interactive command line applications in Python"
   },
   {
-    "repo": "chauncygu/collection-claude-code-source-code",
+    "repo": "vercel-labs/emulate",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🔥 A collection of the newest Claude Code open source"
+    "description": "Local API emulation for CI and no-network sandboxes"
   },
   {
-    "repo": "quic-go/quic-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "A production-ready QUIC implementation in pure Go"
+    "repo": "vigorX777/content-collector-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
   },
   {
-    "repo": "brendanhogan/hermitclaw",
+    "repo": "peteromallet/desloppify",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "cosmicstack-labs/mercury-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+    "repo": "encode/starlette",
+    "branch": "master",
+    "language": "Python",
+    "description": "The little ASGI framework that shines. 🌟"
   },
   {
-    "repo": "firecracker-microvm/firecracker",
+    "repo": "joeseesun/word-root-workshop",
     "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
+    "language": "JavaScript",
+    "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词"
   },
   {
-    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "repo": "apache/iceberg",
+    "branch": "main",
+    "language": "Java",
+    "description": "Apache Iceberg"
+  },
+  {
+    "repo": "anthropics/financial-services-plugins",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Leonxlnx/claw-dev",
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "Lcharvol/MacSift",
+    "repo": "Guid-Lab/kdecrypt",
     "branch": "main",
-    "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
+    "language": "C++",
+    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
   },
   {
-    "repo": "facebook/litho",
+    "repo": "apple/python-apple-fm-sdk",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "A declarative framework for building efficient UIs on Android."
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "bwya77/vscode-dark-islands",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "VSCode theme based off the new Jetbrains islands theme"
   }
 ]
