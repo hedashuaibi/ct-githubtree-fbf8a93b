@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jlia0/tinyclaw",
+    "repo": "xtclovver/RKNHardering",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
-  },
-  {
-    "repo": "VAENPP/solana-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
-  },
-  {
-    "repo": "angusdevgo/IDM_Pro_Tool",
-    "branch": "main",
-    "language": "C#",
-    "description": "现代化IDM激活与状态维护套件"
-  },
-  {
-    "repo": "killervillsy/SessionToJson",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "antirez/ds4",
-    "branch": "main",
-    "language": "C",
-    "description": "DeepSeek 4 Flash local inference engine for Metal"
-  },
-  {
-    "repo": "kunchenguid/autopreso",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself."
-  },
-  {
-    "repo": "Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah."
-  },
-  {
-    "repo": "fortis001/Star_Wars_Jedi__Survivor_Unlimited_Force",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited Force, health, and skill points for Jedi: Survivor. God mode, infinite lightsaber combos, and all abilities."
-  },
-  {
-    "repo": "Asosa809/File_Recovery_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use."
-  },
-  {
-    "repo": "privatenumber/mac-ocr",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework."
-  },
-  {
-    "repo": "ynsmroztas/cPanelSniper",
-    "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
-  },
-  {
-    "repo": "teresiapeetz53968036169/WallpaperDownloader-Version-Pro-2",
+    "repo": "DoomVoss/BASpark",
     "branch": "main",
     "language": "C#",
-    "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
   },
   {
-    "repo": "ValeriaVoronin11/Exodus-Fake-Balance",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering"
-  },
-  {
-    "repo": "Unknow-human/Anime_Defenders_-_Auto-Place___Auto-Farm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-place and auto-farm for Anime Defenders, the anime tower defense game[reference:49]. Place defenders, farm gems, and beat every wave."
-  },
-  {
-    "repo": "trynullsec/nullsec-s1",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security-native LLM system for AI-generated application security."
-  },
-  {
-    "repo": "anvie/evonic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Agentic AI Platform - The home your agents deserve"
-  },
-  {
-    "repo": "suyancc/openai-plus-vxt",
+    "repo": "roger2ai/Claude-Code-Compiled",
     "branch": "main",
     "language": "TypeScript",
-    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
+    "description": "Compiled version of Leaked Claude Code"
   },
   {
-    "repo": "dex-original/okx-agent-trade-kit",
+    "repo": "bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
+    "branch": "main",
+    "language": "Python",
+    "description": "The ultimate auto-farm and raid script for Blox Fruits, the anime-inspired action RPG with 62+ billion visits[reference:9]. Inspired by One Piece, this trainer offers deep progression, auto-farming, and boss hunting."
+  },
+  {
+    "repo": "yasasbanukaofficial/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+  },
+  {
+    "repo": "lzhgus/Capso",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+  },
+  {
+    "repo": "Mibayy/token-savior",
+    "branch": "main",
+    "language": "Python",
+    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
+  },
+  {
+    "repo": "WeaveMindAI/weft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A programming language for AI systems"
+  },
+  {
+    "repo": "karpathy/KarpathyTalk",
+    "branch": "master",
+    "language": "Go",
+    "description": "A positive developer community for builders and agents."
+  },
+  {
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+  },
+  {
+    "repo": "teamchong/turboquant-wasm",
+    "branch": "main",
+    "language": "Zig",
+    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
+  },
+  {
+    "repo": "lorryjovens-hub/claude-code-rust",
     "branch": "master",
     "language": "TypeScript",
-    "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp"
+    "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
   },
   {
-    "repo": "BigPizzaV3/CodexPlusPlus",
+    "repo": "mrT4ntr4/NtWarden",
+    "branch": "master",
+    "language": "C++",
+    "description": "Windows Analysis and Research Toolkit"
+  },
+  {
+    "repo": "wquguru/harness-books",
     "branch": "main",
     "language": "Python",
-    "description": "一个CodexApp的增强工具"
+    "description": ""
   },
   {
-    "repo": "Simbastack-hq/framedex",
+    "repo": "AKCodez/hackingtool-plugin",
     "branch": "main",
     "language": "Python",
-    "description": "Framedex — a queryable knowledge base for your video archive"
+    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
   },
   {
-    "repo": "mrdoob/draco.js",
+    "repo": "R6410418/Jackrong-llm-finetuning-guide",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js."
+    "language": "Jupyter Notebook",
+    "description": ""
   },
   {
-    "repo": "cryingcheems/codex-team-oauth",
-    "branch": "main",
-    "language": "Python",
-    "description": "利用Team 空间域名free 账号跳过手机号登录 codex的研究脚本"
-  },
-  {
-    "repo": "jaytel0/taste",
+    "repo": "twwch/AIComicBuilder",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Taste skill creation pipeline"
+    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
   },
   {
-    "repo": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "repo": "xyzeva/k-id-age-verifier",
     "branch": "main",
-    "language": "C#",
-    "description": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer"
+    "language": "TypeScript",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+  },
+  {
+    "repo": "panyiwei-home/Freedeck",
+    "branch": "main",
+    "language": "Python",
+    "description": "学习版游戏一站式平台"
+  },
+  {
+    "repo": "sonpiaz/evox",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+  },
+  {
+    "repo": "sandroandric/clime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "One CLI to find every CLI"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "branch": "master",
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
   }
 ]
