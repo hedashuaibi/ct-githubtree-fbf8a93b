@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NicholasCone/agnes-ai-video-suite",
+    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
     "branch": "main",
-    "language": "HTML",
-    "description": "Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles"
+    "language": "Python",
+    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
   },
   {
-    "repo": "antfu/ghfs",
+    "repo": "MME-Benchmarks/Video-MME-v2",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
   },
   {
-    "repo": "Ta0ing/claude-code_evil",
+    "repo": "Yaolinwang/AITD",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "cc完整版，含手册，编译等"
+    "language": "Python",
+    "description": "AI Trading Agent for Everyone"
   },
   {
-    "repo": "golbin/hop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
+    "repo": "shobhit99/SuperIsland",
     "branch": "main",
     "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
+    "description": "Dynamic Island for MacOS — with Extensions"
   },
   {
-    "repo": "iflytek/iFly-Skills",
+    "repo": "compozy/compozy",
     "branch": "main",
-    "language": "Python",
-    "description": "Official collection of iFLYTEK skills for speech, OCR, translation, proofreading, and multimodal AI capabilities."
+    "language": "Go",
+    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
   },
   {
-    "repo": "iterative/dvc",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦉 Data Versioning and ML Experiments"
-  },
-  {
-    "repo": "apollographql/apollo-server",
+    "repo": "atomicmemory/llm-wiki-compiler",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
   },
   {
-    "repo": "finvfamily/finshare",
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A Vue3.x UI components lib for TDesign."
+  },
+  {
+    "repo": "pengchengneo/Claude-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "可运行的Claude Code源码"
+  },
+  {
+    "repo": "invertase/react-native-firebase",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+  },
+  {
+    "repo": "software-mansion/react-native-reanimated",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "React Native's Animated library reimplemented"
+  },
+  {
+    "repo": "jzOcb/writing-style-skill",
     "branch": "main",
     "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
   },
   {
-    "repo": "russelleNVy/three-man-team",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
-  },
-  {
-    "repo": "gohugoio/hugo",
+    "repo": "go-micro/go-micro",
     "branch": "master",
     "language": "Go",
-    "description": "The world’s fastest framework for building websites."
+    "description": "A Go microservices framework"
   },
   {
-    "repo": "nrwl/nx",
+    "repo": "mrdoob/three.wasm",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents."
+    "description": "8x Faster JavaScript 3D Library."
   },
   {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
-  },
-  {
-    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
-  },
-  {
-    "repo": "CoderLuii/HolyClaude",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
-  },
-  {
-    "repo": "op7418/m5-paper-buddy",
-    "branch": "main",
-    "language": "C++",
-    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
-  },
-  {
-    "repo": "leo-lilinxiao/codex-autoresearch",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
-  },
-  {
-    "repo": "TheGreatGildo/nerv-ui",
+    "repo": "0xquqi/crypto-kol-quant",
     "branch": "main",
     "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
   },
   {
-    "repo": "lich0821/wcfLink",
+    "repo": "rachartier/tiny-cmdline.nvim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system."
+  },
+  {
+    "repo": "LING71671/Open-ClaudeCode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ClaudeCode related repository"
+  },
+  {
+    "repo": "NativeScript/NativeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
+  },
+  {
+    "repo": "mermaid-js/mermaid",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
+  },
+  {
+    "repo": "uton88/dan-binary-releases",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Public binary-only releases and install scripts for dan"
+  },
+  {
+    "repo": "863401402/she-love-me",
+    "branch": "main",
+    "language": "Python",
+    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
+  },
+  {
+    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
+  },
+  {
+    "repo": "YurunChen/repo-docs-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves."
+  },
+  {
+    "repo": "josephmisiti/awesome-machine-learning",
     "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "fancyai-official/skills",
-    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
   },
   {
-    "repo": "swc-project/swc",
+    "repo": "Johnixr/claude-code-wechat-channel",
     "branch": "main",
-    "language": "Rust",
-    "description": "Rust-based platform for the Web"
-  },
-  {
-    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
-  },
-  {
-    "repo": "MasterAlanLab/Register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
   }
 ]
