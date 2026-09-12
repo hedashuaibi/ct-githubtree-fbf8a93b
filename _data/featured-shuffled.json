@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xtclovver/RKNHardering",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
   },
   {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+    "repo": "MunGell/awesome-for-beginners",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of awesome beginners-friendly projects."
   },
   {
-    "repo": "roger2ai/Claude-Code-Compiled",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Compiled version of Leaked Claude Code"
-  },
-  {
-    "repo": "bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
+    "repo": "nikmcfly/MiroFish-Offline",
     "branch": "main",
     "language": "Python",
-    "description": "The ultimate auto-farm and raid script for Blox Fruits, the anime-inspired action RPG with 62+ billion visits[reference:9]. Inspired by One Piece, this trainer offers deep progression, auto-farming, and boss hunting."
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
   },
   {
-    "repo": "yasasbanukaofficial/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
-  },
-  {
-    "repo": "lzhgus/Capso",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
-  },
-  {
-    "repo": "Mibayy/token-savior",
+    "repo": "seedleap/zing-world-model",
     "branch": "main",
     "language": "Python",
-    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
+    "description": "Zing-0.5: An Efficient Real-Time Interactive World Model"
   },
   {
-    "repo": "WeaveMindAI/weft",
+    "repo": "swc-project/swc",
     "branch": "main",
     "language": "Rust",
-    "description": "A programming language for AI systems"
+    "description": "Rust-based platform for the Web"
   },
   {
-    "repo": "karpathy/KarpathyTalk",
-    "branch": "master",
-    "language": "Go",
-    "description": "A positive developer community for builders and agents."
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "teamchong/turboquant-wasm",
-    "branch": "main",
-    "language": "Zig",
-    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
-  },
-  {
-    "repo": "lorryjovens-hub/claude-code-rust",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
-  },
-  {
-    "repo": "mrT4ntr4/NtWarden",
-    "branch": "master",
-    "language": "C++",
-    "description": "Windows Analysis and Research Toolkit"
-  },
-  {
-    "repo": "wquguru/harness-books",
+    "repo": "pytorch/audio",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
   },
   {
-    "repo": "AKCodez/hackingtool-plugin",
+    "repo": "ClawdisAI/ClawdisAI",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
+    "language": "Swift",
+    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
   },
   {
-    "repo": "R6410418/Jackrong-llm-finetuning-guide",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "twwch/AIComicBuilder",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "panyiwei-home/Freedeck",
-    "branch": "main",
-    "language": "Python",
-    "description": "学习版游戏一站式平台"
-  },
-  {
-    "repo": "sonpiaz/evox",
+    "repo": "wong2/weixin-agent-sdk",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "ckckck/UltimateSearchSkill",
+    "repo": "craigsc/cmux",
     "branch": "main",
     "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+    "description": "cmux: tmux for Claude Code"
   },
   {
-    "repo": "sandroandric/clime",
+    "repo": "WalletConnect/walletconnect-monorepo",
+    "branch": "v2.0",
+    "language": "TypeScript",
+    "description": "WalletConnect Monorepo"
+  },
+  {
+    "repo": "yargs/yargs",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "yargs the modern, pirate-themed successor to optimist."
+  },
+  {
+    "repo": "Shpigford/chops",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+  },
+  {
+    "repo": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "elkimek/honcho-self-hosted",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes"
+  },
+  {
+    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
+    "branch": "main",
+    "language": "C",
+    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
+  },
+  {
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+  },
+  {
+    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "branch": "main",
+    "language": "C",
+    "description": "Unlocking qualcomm bootloader via gbl exploit."
+  },
+  {
+    "repo": "openperf/brief",
     "branch": "main",
     "language": "TypeScript",
-    "description": "One CLI to find every CLI"
+    "description": "AI Agent Service Agreement"
   },
   {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "branch": "main",
     "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+  },
+  {
+    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
+  },
+  {
+    "repo": "typicode/json-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "branch": "master",
+    "language": "C",
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
   }
 ]
