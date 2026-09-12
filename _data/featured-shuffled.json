@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pyenv/pyenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
-  },
-  {
-    "repo": "MunGell/awesome-for-beginners",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
-  },
-  {
-    "repo": "nikmcfly/MiroFish-Offline",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
-  },
-  {
-    "repo": "seedleap/zing-world-model",
-    "branch": "main",
-    "language": "Python",
-    "description": "Zing-0.5: An Efficient Real-Time Interactive World Model"
-  },
-  {
-    "repo": "swc-project/swc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust-based platform for the Web"
-  },
-  {
-    "repo": "pytorch/audio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
-  },
-  {
-    "repo": "ClawdisAI/ClawdisAI",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
-  },
-  {
-    "repo": "wong2/weixin-agent-sdk",
+    "repo": "olucasandrade/youjustneedpostgres",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "craigsc/cmux",
+    "repo": "ericlitman/open-pstack",
     "branch": "main",
-    "language": "Shell",
-    "description": "cmux: tmux for Claude Code"
-  },
-  {
-    "repo": "WalletConnect/walletconnect-monorepo",
-    "branch": "v2.0",
     "language": "TypeScript",
-    "description": "WalletConnect Monorepo"
+    "description": "pstack for Claude Code and Codex, tracking Cursor pstack upstream"
   },
   {
-    "repo": "yargs/yargs",
+    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
+  },
+  {
+    "repo": "sharbelxyz/x-bookmarks",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+  },
+  {
+    "repo": "guanxiaol/WindsurfPoolAPI",
     "branch": "main",
     "language": "JavaScript",
-    "description": "yargs the modern, pirate-themed successor to optimist."
+    "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理"
   },
   {
-    "repo": "Shpigford/chops",
+    "repo": "SamuelQZQ/auto-coding-agent-demo",
     "branch": "main",
-    "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+    "language": "TypeScript",
+    "description": "一个长达 10 小时的 AI 全自动编程实验"
   },
   {
-    "repo": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+    "repo": "obdev/littlesnitch-linux",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
+    "language": "Rust",
+    "description": "Open Source components of Little Snitch for Linux"
   },
   {
-    "repo": "brendanhogan/hermitclaw",
+    "repo": "renatoworks/3dsvg",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
+  },
+  {
+    "repo": "0xMH/fichero-printer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+  },
+  {
+    "repo": "vigorX777/ai-daily-digest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+  },
+  {
+    "repo": "ClawBio/ClawBio",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+  },
+  {
+    "repo": "FireRedTeam/FireRed-Image-Edit",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "elkimek/honcho-self-hosted",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes"
-  },
-  {
-    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
-    "branch": "main",
-    "language": "C",
-    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
-  },
-  {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "hicode002/qualcomm_gbl_exploit_poc",
-    "branch": "main",
-    "language": "C",
-    "description": "Unlocking qualcomm bootloader via gbl exploit."
-  },
-  {
-    "repo": "openperf/brief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Service Agreement"
-  },
-  {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
     "branch": "main",
     "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
   },
   {
-    "repo": "thanos-io/thanos",
+    "repo": "peiyizhi0724/ChatGpt-Image-Studio",
     "branch": "main",
     "language": "Go",
-    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+    "description": ""
   },
   {
-    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
+    "repo": "Frikallo/parakeet.cpp",
+    "branch": "main",
+    "language": "C++",
+    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
+  },
+  {
+    "repo": "juanceresa/sift-kg",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
+  },
+  {
+    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
+  },
+  {
+    "repo": "dnakov/kittyfarm",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "marswei/seaseed-clawerse",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+  },
+  {
+    "repo": "LilanOvO/Auto-Resubmit",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
+  },
+  {
+    "repo": "yanhua1010/zero-to-ai-fullstack",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "repo": "863401402/she-love-me",
+    "branch": "main",
+    "language": "Python",
+    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
+  },
+  {
+    "repo": "Eronred/expo-agent-spinners",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
-  },
-  {
-    "repo": "typicode/json-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
-  },
-  {
-    "repo": "fluent/fluent-bit",
-    "branch": "master",
-    "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
   }
 ]
