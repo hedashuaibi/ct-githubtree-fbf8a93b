@@ -1,146 +1,146 @@
 [
   {
-    "repo": "olucasandrade/youjustneedpostgres",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ericlitman/open-pstack",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "pstack for Claude Code and Codex, tracking Cursor pstack upstream"
-  },
-  {
-    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
-  },
-  {
-    "repo": "sharbelxyz/x-bookmarks",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
-  },
-  {
-    "repo": "guanxiaol/WindsurfPoolAPI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理"
-  },
-  {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
-  },
-  {
-    "repo": "obdev/littlesnitch-linux",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open Source components of Little Snitch for Linux"
-  },
-  {
-    "repo": "renatoworks/3dsvg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The easiest way to turn SVGs into interactive React 3D components"
-  },
-  {
-    "repo": "0xMH/fichero-printer",
+    "repo": "NicholasCone/agnes-ai-video-suite",
     "branch": "main",
     "language": "HTML",
-    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+    "description": "Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles"
   },
   {
-    "repo": "vigorX777/ai-daily-digest",
+    "repo": "antfu/ghfs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
   },
   {
-    "repo": "ClawBio/ClawBio",
+    "repo": "Ta0ing/claude-code_evil",
     "branch": "main",
-    "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+    "language": "TypeScript",
+    "description": "cc完整版，含手册，编译等"
   },
   {
-    "repo": "FireRedTeam/FireRed-Image-Edit",
+    "repo": "golbin/hop",
     "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "repo": "Emanuele-web04/remodex",
     "branch": "main",
-    "language": "C++",
-    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
   },
   {
-    "repo": "peiyizhi0724/ChatGpt-Image-Studio",
+    "repo": "iflytek/iFly-Skills",
     "branch": "main",
+    "language": "Python",
+    "description": "Official collection of iFLYTEK skills for speech, OCR, translation, proofreading, and multimodal AI capabilities."
+  },
+  {
+    "repo": "iterative/dvc",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦉 Data Versioning and ML Experiments"
+  },
+  {
+    "repo": "apollographql/apollo-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+  },
+  {
+    "repo": "finvfamily/finshare",
+    "branch": "main",
+    "language": "Python",
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+  },
+  {
+    "repo": "russelleNVy/three-man-team",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
+  },
+  {
+    "repo": "nrwl/nx",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents."
+  },
+  {
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
+  },
+  {
+    "repo": "vercel/serve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Static file serving and directory listing"
+  },
+  {
+    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+  },
+  {
+    "repo": "CoderLuii/HolyClaude",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
+  },
+  {
+    "repo": "op7418/m5-paper-buddy",
+    "branch": "main",
+    "language": "C++",
+    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
+  },
+  {
+    "repo": "leo-lilinxiao/codex-autoresearch",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "repo": "TheGreatGildo/nerv-ui",
+    "branch": "main",
+    "language": "HTML",
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+  },
+  {
+    "repo": "lich0821/wcfLink",
+    "branch": "master",
     "language": "Go",
     "description": ""
   },
   {
-    "repo": "Frikallo/parakeet.cpp",
-    "branch": "main",
-    "language": "C++",
-    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
-  },
-  {
-    "repo": "juanceresa/sift-kg",
+    "repo": "fancyai-official/skills",
     "branch": "main",
     "language": "Python",
-    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
-  },
-  {
-    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
-  },
-  {
-    "repo": "dnakov/kittyfarm",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "marswei/seaseed-clawerse",
+    "repo": "swc-project/swc",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+    "language": "Rust",
+    "description": "Rust-based platform for the Web"
   },
   {
-    "repo": "LilanOvO/Auto-Resubmit",
+    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
+  },
+  {
+    "repo": "MasterAlanLab/Register",
     "branch": "main",
     "language": "Python",
-    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
-  },
-  {
-    "repo": "yanhua1010/zero-to-ai-fullstack",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
-  },
-  {
-    "repo": "agentscope-ai/CoPaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
-  },
-  {
-    "repo": "863401402/she-love-me",
-    "branch": "main",
-    "language": "Python",
-    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
-  },
-  {
-    "repo": "Eronred/expo-agent-spinners",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "Jakeschincariol/linkedin-agent-skill",
+  "repo": "elijah-semyonov/DuoLikeAnimation",
   "branch": "main",
-  "language": "Python",
-  "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
-  "stars": 146,
-  "forks": 22
+  "language": "Swift",
+  "description": "A featured project on GitHubTree.",
+  "stars": 135,
+  "forks": 29
 }
