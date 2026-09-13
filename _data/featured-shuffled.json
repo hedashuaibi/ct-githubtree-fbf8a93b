@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
+    "repo": "drizzle-team/drizzle-orm",
     "branch": "main",
-    "language": "Python",
-    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
+    "language": "TypeScript",
+    "description": "ORM"
   },
   {
-    "repo": "MME-Benchmarks/Video-MME-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
   },
   {
-    "repo": "Yaolinwang/AITD",
+    "repo": "syv-ai/qwen38-27b-rtx3090",
     "branch": "main",
     "language": "Python",
-    "description": "AI Trading Agent for Everyone"
+    "description": "Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, fp16 DeltaNet state), ~114 tok/s single-user at default sampling / ~124 greedy (MTP drafts, own-output draft vocab, calibrated int4 lm_head, split-KV verify attention), 150k-262k context; patches, requant scripts, benchmarks"
   },
   {
-    "repo": "shobhit99/SuperIsland",
+    "repo": "Cjbuilds/Codex-Orchestration",
     "branch": "main",
+    "language": "Python",
+    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+  },
+  {
+    "repo": "privatenumber/mac-ocr",
+    "branch": "develop",
     "language": "Swift",
-    "description": "Dynamic Island for MacOS — with Extensions"
+    "description": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework."
   },
   {
-    "repo": "compozy/compozy",
-    "branch": "main",
-    "language": "Go",
-    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
-  },
-  {
-    "repo": "atomicmemory/llm-wiki-compiler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
-  },
-  {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
-  },
-  {
-    "repo": "pengchengneo/Claude-Code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "可运行的Claude Code源码"
-  },
-  {
-    "repo": "invertase/react-native-firebase",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "software-mansion/react-native-reanimated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React Native's Animated library reimplemented"
-  },
-  {
-    "repo": "jzOcb/writing-style-skill",
+    "repo": "openai/shap-e",
     "branch": "main",
     "language": "Python",
-    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
+    "description": "Generate 3D objects conditioned on text or images"
   },
   {
-    "repo": "go-micro/go-micro",
+    "repo": "Plaer1/junction",
+    "branch": "checkpoint-20260616-multibridge-firstclass",
+    "language": "TypeScript",
+    "description": "VS Code chat sidebar for local AI coding agents"
+  },
+  {
+    "repo": "deepmind/mujoco",
+    "branch": "main",
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+  },
+  {
+    "repo": "uuidjs/uuid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
+  },
+  {
+    "repo": "genspark-ai/genoffice",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF."
+  },
+  {
+    "repo": "openng-foundation/open-prime",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "stargazerwh/RAG-Lighter",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "juliye2025/evil-read-arxiv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code+Obsidian，邪修读论文就是快"
+  },
+  {
+    "repo": "Spotui/Spotui",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Spotify clone with deep integration"
+  },
+  {
+    "repo": "newideas99/open-dungeon",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud."
+  },
+  {
+    "repo": "intmian/gorm-d1-adapter",
     "branch": "master",
     "language": "Go",
-    "description": "A Go microservices framework"
+    "description": "Make your Go-to-D1 connection 2–18× faster."
   },
   {
-    "repo": "mrdoob/three.wasm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "8x Faster JavaScript 3D Library."
-  },
-  {
-    "repo": "0xquqi/crypto-kol-quant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
-  },
-  {
-    "repo": "rachartier/tiny-cmdline.nvim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system."
-  },
-  {
-    "repo": "LING71671/Open-ClaudeCode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ClaudeCode related repository"
-  },
-  {
-    "repo": "NativeScript/NativeScript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
-  },
-  {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
-  },
-  {
-    "repo": "uton88/dan-binary-releases",
+    "repo": "krisrice/oracle-db-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Public binary-only releases and install scripts for dan"
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
   },
   {
-    "repo": "863401402/she-love-me",
+    "repo": "andforce/Andclaw",
+    "branch": "main",
+    "language": "Java",
+    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
+  },
+  {
+    "repo": "phai-lab/InstantSplatPP",
     "branch": "main",
     "language": "Python",
-    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
+    "description": ""
   },
   {
-    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
-  },
-  {
-    "repo": "YurunChen/repo-docs-skills",
+    "repo": "mnemox-ai/idea-reality-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves."
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
   },
   {
-    "repo": "josephmisiti/awesome-machine-learning",
+    "repo": "Lakr233/vphone-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "joeseesun/markdown-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+  },
+  {
+    "repo": "localai-org/privacy-filter.cpp",
     "branch": "master",
-    "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+    "language": "C++",
+    "description": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime"
   },
   {
-    "repo": "Johnixr/claude-code-wechat-channel",
+    "repo": "0xABCD01/CVE-2026-41089",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
+    "language": "Python",
+    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
   }
 ]
