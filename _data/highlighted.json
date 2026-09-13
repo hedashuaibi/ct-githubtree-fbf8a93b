@@ -1,8 +1,8 @@
 {
-  "repo": "Vodiwalker/vodiwalker_panel",
+  "repo": "Chuloo/mural",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 136,
-  "forks": 367
+  "language": "Swift",
+  "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+  "stars": 179,
+  "forks": 59
 }

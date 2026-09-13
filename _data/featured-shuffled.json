@@ -1,146 +1,146 @@
 [
   {
-    "repo": "drizzle-team/drizzle-orm",
+    "repo": "paid-tw/skills",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "ORM"
-  },
-  {
-    "repo": "phpmyadmin/phpmyadmin",
-    "branch": "master",
     "language": "PHP",
-    "description": "A web interface for MySQL and MariaDB"
+    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
   },
   {
-    "repo": "syv-ai/qwen38-27b-rtx3090",
+    "repo": "jzOcb/writing-style-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, fp16 DeltaNet state), ~114 tok/s single-user at default sampling / ~124 greedy (MTP drafts, own-output draft vocab, calibrated int4 lm_head, split-KV verify attention), 150k-262k context; patches, requant scripts, benchmarks"
+    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
   },
   {
-    "repo": "Cjbuilds/Codex-Orchestration",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
-  },
-  {
-    "repo": "privatenumber/mac-ocr",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework."
-  },
-  {
-    "repo": "openai/shap-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
-  },
-  {
-    "repo": "Plaer1/junction",
-    "branch": "checkpoint-20260616-multibridge-firstclass",
-    "language": "TypeScript",
-    "description": "VS Code chat sidebar for local AI coding agents"
-  },
-  {
-    "repo": "deepmind/mujoco",
-    "branch": "main",
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-  },
-  {
-    "repo": "uuidjs/uuid",
+    "repo": "coollabsio/jean",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
+    "description": "Run AI agents parallel in isolated workspaces."
   },
   {
-    "repo": "genspark-ai/genoffice",
+    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF."
+    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
   },
   {
-    "repo": "openng-foundation/open-prime",
+    "repo": "jaywcjlove/awesome-mac",
     "branch": "master",
-    "language": "TypeScript",
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+  },
+  {
+    "repo": "Polymarket/polymarket-cli",
+    "branch": "main",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "stargazerwh/RAG-Lighter",
+    "repo": "checkcheckzz/system-design-interview",
+    "branch": "master",
+    "language": "Other",
+    "description": "System design interview for IT companies"
+  },
+  {
+    "repo": "achrefelouafi/LinearAbiltyCastingThreeJS",
     "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "juliye2025/evil-read-arxiv",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code+Obsidian，邪修读论文就是快"
-  },
-  {
-    "repo": "Spotui/Spotui",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Spotify clone with deep integration"
-  },
-  {
-    "repo": "newideas99/open-dungeon",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud."
-  },
-  {
-    "repo": "intmian/gorm-d1-adapter",
-    "branch": "master",
-    "language": "Go",
-    "description": "Make your Go-to-D1 connection 2–18× faster."
-  },
-  {
-    "repo": "krisrice/oracle-db-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
-  },
-  {
-    "repo": "andforce/Andclaw",
+    "repo": "youxiandechilun/Guido",
     "branch": "main",
     "language": "Java",
-    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
+    "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。"
   },
   {
-    "repo": "phai-lab/InstantSplatPP",
+    "repo": "r51536391/nhentai-enhanced",
+    "branch": "main",
+    "language": "HTML",
+    "description": "The Best nhentai Unofficial Frontend & Companion Tool 2026"
+  },
+  {
+    "repo": "sunflower-of-parchman/codex-hygiene",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
+  },
+  {
+    "repo": "kuskhan/jetendard",
     "branch": "main",
     "language": "Python",
+    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+  },
+  {
+    "repo": "sosoj92/jarvis-assistant-vocal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python."
+  },
+  {
+    "repo": "zeus-panel/ZEUS-PANEL",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database."
+  },
+  {
+    "repo": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly."
+  },
+  {
+    "repo": "mikiarlo3/ai-copywriter",
+    "branch": "claude/humanizer-copywriting-skill-u5x4vd",
+    "language": "Python",
+    "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone."
+  },
+  {
+    "repo": "izeigerman/claude-thermos",
+    "branch": "main",
+    "language": "Python",
+    "description": "Keeps your Claude session warm for you"
+  },
+  {
+    "repo": "microsoft/skill-recorder",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "mnemox-ai/idea-reality-mcp",
+    "repo": "Red-EAD/FlowBlock",
     "branch": "main",
     "language": "Python",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+    "description": "FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models"
   },
   {
-    "repo": "Lakr233/vphone-cli",
+    "repo": "Kritt-ai/open-kritt",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Orchestrate AI agents to find real vulnerabilities in code."
+  },
+  {
+    "repo": "sanjanvandijk/DataMesh",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Self-Adaptive DataMesh: an AI-Augmented Real-Time Processing Platform for Distributed Ledger Networks with High-Performance architecture"
+  },
+  {
+    "repo": "PipeNetwork/kimi-k3-mlx",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis"
   },
   {
-    "repo": "joeseesun/markdown-proxy",
+    "repo": "wassgha/rescript",
     "branch": "main",
-    "language": "Python",
-    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+    "language": "TypeScript",
+    "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
   },
   {
-    "repo": "localai-org/privacy-filter.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime"
-  },
-  {
-    "repo": "0xABCD01/CVE-2026-41089",
+    "repo": "alexngdev99/rork-medieval-3d-chess",
     "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
+    "language": "TypeScript",
+    "description": "Created by Rork"
   }
 ]
