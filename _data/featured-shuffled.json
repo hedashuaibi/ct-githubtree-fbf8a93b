@@ -1,146 +1,146 @@
 [
   {
-    "repo": "andyhuo520/rf-detr-detection",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
-  },
-  {
-    "repo": "jchultarsky/mirador",
-    "branch": "main",
-    "language": "Rust",
-    "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui."
-  },
-  {
-    "repo": "manojd23625/Steam-Tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "steamtools steam download manifest steamtools manifest steamdb steamtools lua steamtools games steam download manifest steam steam manifest client tool utility script file manager app library pc game"
-  },
-  {
-    "repo": "WaveStoryCourtyard/DiscordFix",
-    "branch": "main",
-    "language": "Batchfile",
-    "description": "РАБОЧИЙ ДИСКОРД ФИКС (29.05.2026)"
-  },
-  {
-    "repo": "nooncheetahstart/Kahoot-tools-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
-  },
-  {
-    "repo": "gelo1231/Pokemon-Pokopia-For-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Pokemon Pokopia PC download fan game RPG Maker Essentials Pokedex battles trainers gym leaders shiny hunting mega evolution regional forms breeding evolution items legendaries starter pokemon custom sprites native port controller support save editor fullscreen widescreen windowed mode textures sprites maps quests NPC dialogs inventory box s"
-  },
-  {
-    "repo": "kerlos/pordee",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
-  },
-  {
-    "repo": "ProjectKumo/KumoApp",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
-  },
-  {
-    "repo": "JUk1-GH/gpt-promo-scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
-  },
-  {
-    "repo": "CodeAbra/iai-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
-  },
-  {
-    "repo": "amanning3390/deepswarm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "alexan0618/zkky",
-    "branch": "main",
-    "language": "Python",
-    "description": "直卡开源"
-  },
-  {
-    "repo": "daimon3332/Outlook-Oauth-GetToken",
-    "branch": "main",
-    "language": "Python",
-    "description": "A standalone OAuth2 refresh_token retrieval tool for existing Outlook / Hotmail accounts. 面向已有 Outlook / Hotmail   账号的独立 OAuth2 refresh_token 获取工具"
-  },
-  {
-    "repo": "Ping89/MT5EA-Forex-Trading",
-    "branch": "main",
-    "language": "MQL5",
-    "description": "download Forex trading stocks futures MQL5 Expert Advisors EA indicators strategy tester charts brokerage terminal algorithmic trading technical analysis signals copy trading multi-asset platform financial markets automated trading trading bot web terminal depth of market economic calendar order execution leverage margin spread pips."
-  },
-  {
-    "repo": "killervillsy/SessionToJson",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "ARMSX2/ARMSX3",
+    "repo": "UditAkhourii/neuroarxiv",
     "branch": "master",
-    "language": "C++",
-    "description": "Proof of concept port of RPCS3 for Android"
+    "language": "TypeScript",
+    "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture."
   },
   {
-    "repo": "ikuV/deident-wasm",
+    "repo": "xjtulyc/MedgeClaw",
     "branch": "main",
-    "language": "Rust",
-    "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy."
+    "language": "HTML",
+    "description": "Medge AI X OpenClaw"
   },
   {
-    "repo": "alefinvest/polymarket-copy-bot",
+    "repo": "halfwhey/claudraband",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Claude Code for the Power User"
+  },
+  {
+    "repo": "infraform/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "nostrband/ServiceGraph",
+    "repo": "rzru/nightingale",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Machine learning powered Karaoke app (with scores!)"
+  },
+  {
+    "repo": "sanbuphy/nanoAgent",
     "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
+    "language": "Python",
+    "description": "If you can read 100 lines of Python, you understand agents."
   },
   {
-    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+    "repo": "THU-SI/Spatial-TTT",
     "branch": "main",
-    "language": "Java",
-    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
+    "language": "Python",
+    "description": "Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training"
   },
   {
-    "repo": "99xAgency/GodModeSkill",
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
     "branch": "main",
-    "language": "Shell",
-    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "mostafamo123/Pragmata-Reframework",
+    "repo": "skottrun/extrateto",
     "branch": "main",
-    "language": "C++",
-    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
+    "language": "TypeScript",
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
   },
   {
-    "repo": "DutchDiederik/AmberConsole",
+    "repo": "khanhduytran0/coruna",
     "branch": "main",
-    "language": "CSS",
-    "description": "A UI design system inspired by the 1970s"
+    "language": "JavaScript",
+    "description": "The leaked exploit toolkit for various iOS versions"
   },
   {
-    "repo": "kvcache-ai/AgentENV",
+    "repo": "autoclaw-cc/xiaohongshu-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "xiaohongshu-skills"
+  },
+  {
+    "repo": "JoshKale/jobs",
+    "branch": "master",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "calesthio/Crucix",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "kitlangton/tailcode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "linuxhsj/openclaw-zero-token",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "免token使用openclaw  Use openclaw without a token"
+  },
+  {
+    "repo": "shuyicc/MathLens",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
+  },
+  {
+    "repo": "paradigmxyz/evmbench",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
+  },
+  {
+    "repo": "haolinwang819-boop/ai-video-generation-workflow",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
+  },
+  {
+    "repo": "3DCF-Labs/safepilot",
     "branch": "main",
     "language": "Rust",
-    "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale."
+    "description": "AI assistant that executes real work, safely."
+  },
+  {
+    "repo": "vicnaum/bun-demincer",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
+  },
+  {
+    "repo": "nagisanzenin/skyclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+  },
+  {
+    "repo": "openperf/brief",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Service Agreement"
+  },
+  {
+    "repo": "Renforce-Dynamics/MultiModalWBC",
+    "branch": "master",
+    "language": "Python",
+    "description": "MultiModalWBC is a fully open-source, IsaacLab-based framework for multi-modal whole-body control, designed for motion imitation, motion tracking, and task-conditioned control in legged robots. The framework unifies robot proprioceptive states and multi-modal human motion conditions into a consistent interface"
+  },
+  {
+    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
   }
 ]
