@@ -1,146 +1,146 @@
 [
   {
-    "repo": "paid-tw/skills",
+    "repo": "andyhuo520/rf-detr-detection",
     "branch": "main",
-    "language": "PHP",
-    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
-  },
-  {
-    "repo": "jzOcb/writing-style-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
-  },
-  {
-    "repo": "coollabsio/jean",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run AI agents parallel in isolated workspaces."
-  },
-  {
-    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
-  },
-  {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
     "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
   },
   {
-    "repo": "Polymarket/polymarket-cli",
+    "repo": "jchultarsky/mirador",
     "branch": "main",
     "language": "Rust",
+    "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui."
+  },
+  {
+    "repo": "manojd23625/Steam-Tools",
+    "branch": "main",
+    "language": "C#",
+    "description": "steamtools steam download manifest steamtools manifest steamdb steamtools lua steamtools games steam download manifest steam steam manifest client tool utility script file manager app library pc game"
+  },
+  {
+    "repo": "WaveStoryCourtyard/DiscordFix",
+    "branch": "main",
+    "language": "Batchfile",
+    "description": "РАБОЧИЙ ДИСКОРД ФИКС (29.05.2026)"
+  },
+  {
+    "repo": "nooncheetahstart/Kahoot-tools-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
+  },
+  {
+    "repo": "gelo1231/Pokemon-Pokopia-For-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Pokemon Pokopia PC download fan game RPG Maker Essentials Pokedex battles trainers gym leaders shiny hunting mega evolution regional forms breeding evolution items legendaries starter pokemon custom sprites native port controller support save editor fullscreen widescreen windowed mode textures sprites maps quests NPC dialogs inventory box s"
+  },
+  {
+    "repo": "kerlos/pordee",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
+  },
+  {
+    "repo": "ProjectKumo/KumoApp",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
+  },
+  {
+    "repo": "JUk1-GH/gpt-promo-scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+  },
+  {
+    "repo": "CodeAbra/iai-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+  },
+  {
+    "repo": "amanning3390/deepswarm",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "checkcheckzz/system-design-interview",
-    "branch": "master",
-    "language": "Other",
-    "description": "System design interview for IT companies"
+    "repo": "alexan0618/zkky",
+    "branch": "main",
+    "language": "Python",
+    "description": "直卡开源"
   },
   {
-    "repo": "achrefelouafi/LinearAbiltyCastingThreeJS",
+    "repo": "daimon3332/Outlook-Oauth-GetToken",
+    "branch": "main",
+    "language": "Python",
+    "description": "A standalone OAuth2 refresh_token retrieval tool for existing Outlook / Hotmail accounts. 面向已有 Outlook / Hotmail   账号的独立 OAuth2 refresh_token 获取工具"
+  },
+  {
+    "repo": "Ping89/MT5EA-Forex-Trading",
+    "branch": "main",
+    "language": "MQL5",
+    "description": "download Forex trading stocks futures MQL5 Expert Advisors EA indicators strategy tester charts brokerage terminal algorithmic trading technical analysis signals copy trading multi-asset platform financial markets automated trading trading bot web terminal depth of market economic calendar order execution leverage margin spread pips."
+  },
+  {
+    "repo": "killervillsy/SessionToJson",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "youxiandechilun/Guido",
-    "branch": "main",
-    "language": "Java",
-    "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。"
+    "repo": "ARMSX2/ARMSX3",
+    "branch": "master",
+    "language": "C++",
+    "description": "Proof of concept port of RPCS3 for Android"
   },
   {
-    "repo": "r51536391/nhentai-enhanced",
+    "repo": "ikuV/deident-wasm",
     "branch": "main",
-    "language": "HTML",
-    "description": "The Best nhentai Unofficial Frontend & Companion Tool 2026"
+    "language": "Rust",
+    "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy."
   },
   {
-    "repo": "sunflower-of-parchman/codex-hygiene",
+    "repo": "alefinvest/polymarket-copy-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+  },
+  {
+    "repo": "nostrband/ServiceGraph",
     "branch": "main",
     "language": "Shell",
-    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
   },
   {
-    "repo": "kuskhan/jetendard",
+    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
     "branch": "main",
-    "language": "Python",
-    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+    "language": "Java",
+    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
   },
   {
-    "repo": "sosoj92/jarvis-assistant-vocal",
+    "repo": "99xAgency/GodModeSkill",
     "branch": "main",
-    "language": "Python",
-    "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python."
+    "language": "Shell",
+    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
   },
   {
-    "repo": "zeus-panel/ZEUS-PANEL",
+    "repo": "mostafamo123/Pragmata-Reframework",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database."
+    "language": "C++",
+    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
   },
   {
-    "repo": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
+    "repo": "DutchDiederik/AmberConsole",
     "branch": "main",
-    "language": "Python",
-    "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly."
+    "language": "CSS",
+    "description": "A UI design system inspired by the 1970s"
   },
   {
-    "repo": "mikiarlo3/ai-copywriter",
-    "branch": "claude/humanizer-copywriting-skill-u5x4vd",
-    "language": "Python",
-    "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone."
-  },
-  {
-    "repo": "izeigerman/claude-thermos",
+    "repo": "kvcache-ai/AgentENV",
     "branch": "main",
-    "language": "Python",
-    "description": "Keeps your Claude session warm for you"
-  },
-  {
-    "repo": "microsoft/skill-recorder",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Red-EAD/FlowBlock",
-    "branch": "main",
-    "language": "Python",
-    "description": "FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models"
-  },
-  {
-    "repo": "Kritt-ai/open-kritt",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Orchestrate AI agents to find real vulnerabilities in code."
-  },
-  {
-    "repo": "sanjanvandijk/DataMesh",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Self-Adaptive DataMesh: an AI-Augmented Real-Time Processing Platform for Distributed Ledger Networks with High-Performance architecture"
-  },
-  {
-    "repo": "PipeNetwork/kimi-k3-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis"
-  },
-  {
-    "repo": "wassgha/rescript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
-  },
-  {
-    "repo": "alexngdev99/rork-medieval-3d-chess",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Created by Rork"
+    "language": "Rust",
+    "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale."
   }
 ]
