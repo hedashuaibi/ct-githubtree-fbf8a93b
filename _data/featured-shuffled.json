@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Oft3r/agentic-trading-desk",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum · Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order."
+    "repo": "rbenv/rbenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Manage your app's Ruby environment"
   },
   {
-    "repo": "BitrigApp/XCDocs",
+    "repo": "nixfred/blip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "iMessage in the Omarchy bar. Read, send, groups, blue dots — your Mac is the gateway, Linux is the client."
+  },
+  {
+    "repo": "antirez/qwen-asr",
+    "branch": "main",
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "repo": "coollabsio/jean",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run AI agents parallel in isolated workspaces."
+  },
+  {
+    "repo": "doocs/leetcode",
+    "branch": "main",
+    "language": "Java",
+    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
+  },
+  {
+    "repo": "OWASP/Amass",
+    "branch": "master",
+    "language": "Go",
+    "description": "In-depth attack surface mapping and asset discovery"
+  },
+  {
+    "repo": "apollographql/apollo-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+  },
+  {
+    "repo": "deepmind/alphafold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
+  },
+  {
+    "repo": "iCHAIT/awesome-macOS",
+    "branch": "master",
+    "language": "Other",
+    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
+  },
+  {
+    "repo": "kdeldycke/awesome-falsehood",
+    "branch": "master",
+    "language": "Other",
+    "description": "😱 Falsehoods Programmers Believe in"
+  },
+  {
+    "repo": "gogs/gogs",
+    "branch": "main",
+    "language": "Go",
+    "description": "Gogs is a painless self-hosted Git service"
+  },
+  {
+    "repo": "missing-semester/missing-semester",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Missing Semester of Your CS Education 📚"
+  },
+  {
+    "repo": "shuaiplus/NodeWarden",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Minimal Bitwarden-compatible server on Cloudflare Workers for personal use"
+  },
+  {
+    "repo": "ConsenSys/teku",
+    "branch": "master",
+    "language": "Java",
+    "description": "🚀 Open-source Ethereum consensus client written in Java"
+  },
+  {
+    "repo": "OpenZeppelin/openzeppelin-contracts",
+    "branch": "master",
+    "language": "Solidity",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
+  },
+  {
+    "repo": "herrbischoff/awesome-macos-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
+  },
+  {
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "stonerl/Thaw",
     "branch": "main",
     "language": "Swift",
-    "description": "Apple's developer docs as a Swift package and CLI."
+    "description": "Menu bar manager for macOS"
   },
   {
-    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "repo": "confluentinc/kafka-rest",
     "branch": "master",
-    "language": "Python",
-    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+    "language": "Java",
+    "description": "Confluent REST Proxy for Kafka"
   },
   {
-    "repo": "XiaomiMiMo/MiMo-V2.5-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "yarnpkg/yarn",
+    "repo": "qinwf/awesome-R",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+    "language": "R",
+    "description": "A curated list of awesome R packages, frameworks and software."
   },
   {
-    "repo": "pyca/cryptography",
+    "repo": "Kylsky/chatgpt-team-helper",
     "branch": "main",
-    "language": "Python",
-    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
+    "language": "Vue",
+    "description": "一站式Team账号管理"
   },
   {
-    "repo": "NVIDIA/NemoClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "NVIDIA plugin for secure installation of OpenClaw"
-  },
-  {
-    "repo": "react-native-device-info/react-native-device-info",
+    "repo": "rclone/rclone",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
+    "language": "Go",
+    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
   },
   {
-    "repo": "actions/checkout",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "deep-learning-indaba/GoodPracticesML",
-    "branch": "main",
-    "language": "Other",
-    "description": "A repository of good practices for developing usable ML products in Africa."
-  },
-  {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
-  },
-  {
-    "repo": "zerobootdev/zeroboot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
-  },
-  {
-    "repo": "datavorous/challenges",
-    "branch": "master",
-    "language": "Python",
-    "description": "Various coding challenges from all around the internet"
-  },
-  {
-    "repo": "node-fetch/node-fetch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A light-weight module that brings the Fetch API to Node.js"
-  },
-  {
-    "repo": "allenai/allennlp",
-    "branch": "main",
-    "language": "Python",
-    "description": "An open-source NLP research library, built on PyTorch."
-  },
-  {
-    "repo": "frank890417/taiwan-md",
-    "branch": "main",
-    "language": "Astro",
-    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
-  },
-  {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
-  },
-  {
-    "repo": "flowapi-net/flow-llm-router",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Ultimate Token Saver"
-  },
-  {
-    "repo": "TanStack/query",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
-  },
-  {
-    "repo": "hussennader/JSON-Mod-Manager-For-Crimson-Desert",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download JSON Mod Manager for Crimson Desert - the easiest way to install, organize, and manage mods. Create and switch mod profiles using JSON files, automatic conflict detection, backups, and one-click installation for .pak mods."
-  },
-  {
-    "repo": "libtv-labs/libtv-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "PaddlePaddle/PaddleNLP",
+    "repo": "nltk/nltk",
     "branch": "develop",
     "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+    "description": "NLTK Source"
   },
   {
-    "repo": "lenxism/dither",
+    "repo": "web3-storage/web3.storage",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
+    "language": "JavaScript",
+    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
   }
 ]
