@@ -1,146 +1,146 @@
 [
   {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "Oft3r/agentic-trading-desk",
     "branch": "main",
     "language": "Python",
-    "description": ":books: Freely available programming books"
+    "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum · Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order."
   },
   {
-    "repo": "Gitlawb/openclaude",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
-  },
-  {
-    "repo": "TylerBoni/headless-airplay-screen-mirror",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "microsoft/generative-ai-for-beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "21 Lessons, Get Started Building with Generative AI"
-  },
-  {
-    "repo": "509992828/grok-register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "dzcmemory-web/bazi-ziwei-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。"
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "trekhleb/javascript-algorithms",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
-  },
-  {
-    "repo": "graphql/dataloader",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
-  },
-  {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "johnmai-dev/ANE-LM",
-    "branch": "main",
-    "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
-  },
-  {
-    "repo": "tanishqkumar/ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
-  },
-  {
-    "repo": "golang/tools",
-    "branch": "master",
-    "language": "Go",
-    "description": "[mirror] Go Tools"
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "codeninja/oauth-cli-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
-  },
-  {
-    "repo": "HackingDave/nightwire",
-    "branch": "main",
-    "language": "Python",
-    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
-  },
-  {
-    "repo": "nyanko3141592/remotion-voicevox-template",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
-  },
-  {
-    "repo": "kubernetes/minikube",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run Kubernetes locally"
-  },
-  {
-    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
-    "branch": "main",
-    "language": "C++",
-    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
-  },
-  {
-    "repo": "jnsahaj/gazectl",
+    "repo": "BitrigApp/XCDocs",
     "branch": "main",
     "language": "Swift",
-    "description": "Head tracking display focus switcher for macOS"
+    "description": "Apple's developer docs as a Swift package and CLI."
   },
   {
-    "repo": "stargazerwh/RAG-Lighter",
+    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "branch": "master",
+    "language": "Python",
+    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+  },
+  {
+    "repo": "XiaomiMiMo/MiMo-V2.5-ASR",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "LeoYeAI/openclaw-guardian",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+    "repo": "yarnpkg/yarn",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
   },
   {
-    "repo": "ringhyacinth/Star-Office-UI",
+    "repo": "pyca/cryptography",
+    "branch": "main",
+    "language": "Python",
+    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
+  },
+  {
+    "repo": "NVIDIA/NemoClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NVIDIA plugin for secure installation of OpenClaw"
+  },
+  {
+    "repo": "react-native-device-info/react-native-device-info",
     "branch": "master",
-    "language": "HTML",
+    "language": "TypeScript",
+    "description": "Device Information for React Native iOS and Android"
+  },
+  {
+    "repo": "actions/checkout",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Action for checking out a repo"
+  },
+  {
+    "repo": "git/git",
+    "branch": "master",
+    "language": "C",
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
+  },
+  {
+    "repo": "deep-learning-indaba/GoodPracticesML",
+    "branch": "main",
+    "language": "Other",
+    "description": "A repository of good practices for developing usable ML products in Africa."
+  },
+  {
+    "repo": "stylelint/stylelint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+  },
+  {
+    "repo": "zerobootdev/zeroboot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+  },
+  {
+    "repo": "datavorous/challenges",
+    "branch": "master",
+    "language": "Python",
+    "description": "Various coding challenges from all around the internet"
+  },
+  {
+    "repo": "node-fetch/node-fetch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A light-weight module that brings the Fetch API to Node.js"
+  },
+  {
+    "repo": "allenai/allennlp",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open-source NLP research library, built on PyTorch."
+  },
+  {
+    "repo": "frank890417/taiwan-md",
+    "branch": "main",
+    "language": "Astro",
+    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+  },
+  {
+    "repo": "elder-plinius/OBLITERATUS",
+    "branch": "main",
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
+  },
+  {
+    "repo": "flowapi-net/flow-llm-router",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Ultimate Token Saver"
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "hussennader/JSON-Mod-Manager-For-Crimson-Desert",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download JSON Mod Manager for Crimson Desert - the easiest way to install, organize, and manage mods. Create and switch mod profiles using JSON files, automatic conflict detection, backups, and one-click installation for .pak mods."
+  },
+  {
+    "repo": "libtv-labs/libtv-skills",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "WecomTeam/wecom-cli",
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "lenxism/dither",
     "branch": "main",
-    "language": "Rust",
-    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+    "language": "TypeScript",
+    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
   }
 ]

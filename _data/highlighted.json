@@ -1,8 +1,8 @@
 {
-  "repo": "danieldeer/seriousdb",
+  "repo": "tqmane/gunshot",
   "branch": "main",
-  "language": "Python",
-  "description": "A simple, yet effective persistent key-value store accessible via HTTP.",
-  "stars": 122,
-  "forks": 55
+  "language": "Objective-C",
+  "description": "Google Photo tweak",
+  "stars": 175,
+  "forks": 12
 }
