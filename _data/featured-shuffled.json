@@ -1,146 +1,146 @@
 [
   {
-    "repo": "UditAkhourii/neuroarxiv",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture."
-  },
-  {
-    "repo": "xjtulyc/MedgeClaw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Medge AI X OpenClaw"
-  },
-  {
-    "repo": "halfwhey/claudraband",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Claude Code for the Power User"
-  },
-  {
-    "repo": "infraform/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "rzru/nightingale",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Machine learning powered Karaoke app (with scores!)"
-  },
-  {
-    "repo": "sanbuphy/nanoAgent",
-    "branch": "main",
-    "language": "Python",
-    "description": "If you can read 100 lines of Python, you understand agents."
-  },
-  {
-    "repo": "THU-SI/Spatial-TTT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training"
-  },
-  {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "repo": "lillian039/ELF",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "skottrun/extrateto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "autoclaw-cc/xiaohongshu-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "xiaohongshu-skills"
-  },
-  {
-    "repo": "JoshKale/jobs",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "kitlangton/tailcode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "linuxhsj/openclaw-zero-token",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "免token使用openclaw  Use openclaw without a token"
-  },
-  {
-    "repo": "shuyicc/MathLens",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
-  },
-  {
-    "repo": "paradigmxyz/evmbench",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
-  },
-  {
-    "repo": "haolinwang819-boop/ai-video-generation-workflow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
-  },
-  {
-    "repo": "3DCF-Labs/safepilot",
+    "repo": "immanuwell/dockerfile-roast",
     "branch": "main",
     "language": "Rust",
-    "description": "AI assistant that executes real work, safely."
+    "description": "a dockerfile linter that actually has opinions 🔥"
   },
   {
-    "repo": "vicnaum/bun-demincer",
+    "repo": "sirupsen/logrus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Structured, pluggable logging for Go."
+  },
+  {
+    "repo": "tailwindlabs/heroicons",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
   },
   {
-    "repo": "nagisanzenin/skyclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
-  },
-  {
-    "repo": "openperf/brief",
-    "branch": "main",
+    "repo": "ethereumjs/ethereumjs-monorepo",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "AI Agent Service Agreement"
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
   },
   {
-    "repo": "Renforce-Dynamics/MultiModalWBC",
+    "repo": "dgreenheck/webgpu-claude-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Claude skill for developing WebGPU applications with Three.js"
+  },
+  {
+    "repo": "flairNLP/flair",
     "branch": "master",
     "language": "Python",
-    "description": "MultiModalWBC is a fully open-source, IsaacLab-based framework for multi-modal whole-body control, designed for motion imitation, motion tracking, and task-conditioned control in legged robots. The framework unifies robot proprioceptive states and multi-modal human motion conditions into a consistent interface"
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
   },
   {
-    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "repo": "ok-oldking/ok-end-field",
+    "branch": "master",
+    "language": "Python",
+    "description": "终末地 End Field Automation 基于ok-script开发的自动化"
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "openai/point-e",
     "branch": "main",
-    "language": "C++",
-    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
+    "language": "Python",
+    "description": "Point cloud diffusion for 3D model synthesis"
+  },
+  {
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+  },
+  {
+    "repo": "ethers-io/ethers.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Complete Ethereum library and wallet implementation in JavaScript."
+  },
+  {
+    "repo": "dropwizard/dropwizard",
+    "branch": "master",
+    "language": "Java",
+    "description": "A damn simple library for building production-ready RESTful web services."
+  },
+  {
+    "repo": "microsoft/fluentui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
+  },
+  {
+    "repo": "deepseek-ai/deepseek-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek Coder: Let the Code Write Itself"
+  },
+  {
+    "repo": "uhub/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
+  },
+  {
+    "repo": "thangchung/awesome-dotnet-core",
+    "branch": "master",
+    "language": "C#",
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+  },
+  {
+    "repo": "SwiftyJSON/SwiftyJSON",
+    "branch": "master",
+    "language": "Swift",
+    "description": "The better way to deal with JSON data in Swift."
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "branch": "main",
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+  },
+  {
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+  },
+  {
+    "repo": "doocs/advanced-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+  },
+  {
+    "repo": "torvalds/linux",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux kernel source tree"
+  },
+  {
+    "repo": "wsargent/docker-cheat-sheet",
+    "branch": "master",
+    "language": "Other",
+    "description": "Docker Cheat Sheet"
   }
 ]

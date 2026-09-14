@@ -1,8 +1,8 @@
 {
-  "repo": "g8row/PhotosBackup",
+  "repo": "danieldeer/seriousdb",
   "branch": "main",
-  "language": "Swift",
-  "description": "PhotosBackup iOS app",
-  "stars": 145,
-  "forks": 16
+  "language": "Python",
+  "description": "A simple, yet effective persistent key-value store accessible via HTTP.",
+  "stars": 114,
+  "forks": 54
 }
