@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Python",
   "description": "A simple, yet effective persistent key-value store accessible via HTTP.",
-  "stars": 114,
-  "forks": 54
+  "stars": 122,
+  "forks": 55
 }

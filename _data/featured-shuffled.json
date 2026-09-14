@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lillian039/ELF",
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "Gitlawb/openclaude",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+  },
+  {
+    "repo": "TylerBoni/headless-airplay-screen-mirror",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "microsoft/generative-ai-for-beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI"
+  },
+  {
+    "repo": "509992828/grok-register",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "immanuwell/dockerfile-roast",
+    "repo": "dzcmemory-web/bazi-ziwei-skill",
     "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
+    "language": "TypeScript",
+    "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。"
   },
   {
-    "repo": "sirupsen/logrus",
+    "repo": "khanhduytran0/coruna",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The leaked exploit toolkit for various iOS versions"
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+  },
+  {
+    "repo": "graphql/dataloader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
+  },
+  {
+    "repo": "bitwarden/clients",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+  },
+  {
+    "repo": "johnmai-dev/ANE-LM",
+    "branch": "main",
+    "language": "C++",
+    "description": "LLM inference on Apple Neural Engine (ANE)"
+  },
+  {
+    "repo": "tanishqkumar/ssd",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
+  },
+  {
+    "repo": "golang/tools",
     "branch": "master",
     "language": "Go",
-    "description": "Structured, pluggable logging for Go."
+    "description": "[mirror] Go Tools"
   },
   {
-    "repo": "tailwindlabs/heroicons",
+    "repo": "mui/material-ui",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
   },
   {
-    "repo": "ethereumjs/ethereumjs-monorepo",
+    "repo": "codeninja/oauth-cli-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
+  },
+  {
+    "repo": "HackingDave/nightwire",
+    "branch": "main",
+    "language": "Python",
+    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
+  },
+  {
+    "repo": "nyanko3141592/remotion-voicevox-template",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
+    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
   },
   {
-    "repo": "dgreenheck/webgpu-claude-skill",
+    "repo": "kubernetes/minikube",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run Kubernetes locally"
+  },
+  {
+    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A Claude skill for developing WebGPU applications with Three.js"
+    "language": "C++",
+    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
   },
   {
-    "repo": "flairNLP/flair",
-    "branch": "master",
-    "language": "Python",
-    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
-  },
-  {
-    "repo": "ok-oldking/ok-end-field",
-    "branch": "master",
-    "language": "Python",
-    "description": "终末地 End Field Automation 基于ok-script开发的自动化"
-  },
-  {
-    "repo": "redis/hiredis",
-    "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
-  },
-  {
-    "repo": "openai/point-e",
+    "repo": "jnsahaj/gazectl",
     "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleOCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
-  },
-  {
-    "repo": "ethers-io/ethers.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Complete Ethereum library and wallet implementation in JavaScript."
-  },
-  {
-    "repo": "dropwizard/dropwizard",
-    "branch": "master",
-    "language": "Java",
-    "description": "A damn simple library for building production-ready RESTful web services."
-  },
-  {
-    "repo": "microsoft/fluentui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
-  },
-  {
-    "repo": "deepseek-ai/deepseek-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
-    "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
-  },
-  {
-    "repo": "SwiftyJSON/SwiftyJSON",
-    "branch": "master",
     "language": "Swift",
-    "description": "The better way to deal with JSON data in Swift."
+    "description": "Head tracking display focus switcher for macOS"
   },
   {
-    "repo": "ImageMagick/ImageMagick",
+    "repo": "stargazerwh/RAG-Lighter",
     "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "doocs/advanced-java",
+    "repo": "LeoYeAI/openclaw-guardian",
     "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
   },
   {
-    "repo": "torvalds/linux",
+    "repo": "ringhyacinth/Star-Office-UI",
     "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "wsargent/docker-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "Docker Cheat Sheet"
+    "repo": "WecomTeam/wecom-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
   }
 ]
