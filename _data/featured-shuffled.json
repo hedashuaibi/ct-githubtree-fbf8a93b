@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rbenv/rbenv",
+    "repo": "xai-org/grok-build",
+    "branch": "main",
+    "language": "Rust",
+    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+  },
+  {
+    "repo": "gradle/gradle",
     "branch": "master",
-    "language": "Shell",
-    "description": "Manage your app's Ruby environment"
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
   },
   {
-    "repo": "nixfred/blip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "iMessage in the Omarchy bar. Read, send, groups, blue dots — your Mac is the gateway, Linux is the client."
-  },
-  {
-    "repo": "antirez/qwen-asr",
-    "branch": "main",
-    "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
-  },
-  {
-    "repo": "coollabsio/jean",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run AI agents parallel in isolated workspaces."
-  },
-  {
-    "repo": "doocs/leetcode",
-    "branch": "main",
-    "language": "Java",
-    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
-  },
-  {
-    "repo": "OWASP/Amass",
-    "branch": "master",
-    "language": "Go",
-    "description": "In-depth attack surface mapping and asset discovery"
-  },
-  {
-    "repo": "apollographql/apollo-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
-  },
-  {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "iCHAIT/awesome-macOS",
-    "branch": "master",
-    "language": "Other",
-    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
-  },
-  {
-    "repo": "kdeldycke/awesome-falsehood",
-    "branch": "master",
-    "language": "Other",
-    "description": "😱 Falsehoods Programmers Believe in"
-  },
-  {
-    "repo": "gogs/gogs",
-    "branch": "main",
-    "language": "Go",
-    "description": "Gogs is a painless self-hosted Git service"
-  },
-  {
-    "repo": "missing-semester/missing-semester",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Missing Semester of Your CS Education 📚"
-  },
-  {
-    "repo": "shuaiplus/NodeWarden",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Minimal Bitwarden-compatible server on Cloudflare Workers for personal use"
-  },
-  {
-    "repo": "ConsenSys/teku",
-    "branch": "master",
-    "language": "Java",
-    "description": "🚀 Open-source Ethereum consensus client written in Java"
-  },
-  {
-    "repo": "OpenZeppelin/openzeppelin-contracts",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
-  },
-  {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
-  },
-  {
-    "repo": "django/django",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
-  },
-  {
-    "repo": "stonerl/Thaw",
+    "repo": "nickustinov/itsytv-macos",
     "branch": "main",
     "language": "Swift",
-    "description": "Menu bar manager for macOS"
+    "description": "The missing Apple TV remote app for macOS"
   },
   {
-    "repo": "confluentinc/kafka-rest",
+    "repo": "drwetter/testssl.sh",
+    "branch": "3.2",
+    "language": "Shell",
+    "description": "Testing TLS/SSL encryption anywhere on any port"
+  },
+  {
+    "repo": "jlevy/the-art-of-command-line",
     "branch": "master",
-    "language": "Java",
-    "description": "Confluent REST Proxy for Kafka"
+    "language": "Other",
+    "description": "Master the command line, in one page"
   },
   {
-    "repo": "qinwf/awesome-R",
-    "branch": "master",
-    "language": "R",
-    "description": "A curated list of awesome R packages, frameworks and software."
-  },
-  {
-    "repo": "Kylsky/chatgpt-team-helper",
+    "repo": "bytecodealliance/wasmtime",
     "branch": "main",
-    "language": "Vue",
-    "description": "一站式Team账号管理"
+    "language": "Rust",
+    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
   },
   {
-    "repo": "rclone/rclone",
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "ory/hydra",
     "branch": "master",
     "language": "Go",
-    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
   },
   {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "web3-storage/web3.storage",
+    "repo": "beeware/briefcase",
     "branch": "main",
+    "language": "Python",
+    "description": "Tools to support converting a Python project into a standalone native application."
+  },
+  {
+    "repo": "GoogleCloudPlatform/golang-samples",
+    "branch": "main",
+    "language": "Go",
+    "description": "Sample apps and code written for Google Cloud in the Go programming language."
+  },
+  {
+    "repo": "vanna-ai/vanna",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
+  },
+  {
+    "repo": "starkware-libs/cairo",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+  },
+  {
+    "repo": "chu2bard/pinion-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+  },
+  {
+    "repo": "ehang-io/nps",
+    "branch": "master",
+    "language": "Go",
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+  },
+  {
+    "repo": "bottlerocket-os/bottlerocket",
+    "branch": "develop",
+    "language": "Rust",
+    "description": "An operating system designed for hosting containers"
+  },
+  {
+    "repo": "google/wire",
+    "branch": "master",
+    "language": "Go",
+    "description": "Compile-time Dependency Injection for Go"
+  },
+  {
+    "repo": "nmap/nmap",
+    "branch": "master",
+    "language": "C",
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
+  },
+  {
+    "repo": "hamelsmu/claude-review-loop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code plugin: automated code review loop with Codex"
+  },
+  {
+    "repo": "zachlatta/freeflow",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+  },
+  {
+    "repo": "poteto/brainmaxxing",
+    "branch": "main",
+    "language": "Python",
+    "description": "stupid simple persistent memory and skill improvement"
+  },
+  {
+    "repo": "dandavison/delta",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "xaskasdf/ntransformer",
+    "branch": "main",
+    "language": "C++",
+    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+  },
+  {
+    "repo": "meteor/meteor",
+    "branch": "devel",
     "language": "JavaScript",
-    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
+    "description": "Meteor, the JavaScript App Platform"
   }
 ]

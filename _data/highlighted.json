@@ -1,8 +1,8 @@
 {
-  "repo": "diva-l/travel-agent-harness",
+  "repo": "fromgof/TridentVision",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 100,
-  "forks": 4
+  "language": "Verilog",
+  "description": "Implement yolov26m using a complete FPGA, without any C language code. Requires 160K LUTs and 386 DSP cores (based on Xilinx XC7K325T).",
+  "stars": 110,
+  "forks": 33
 }
