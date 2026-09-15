@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xai-org/grok-build",
+    "repo": "Dgeloe4-yb/market-pilot",
     "branch": "main",
-    "language": "Rust",
-    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+    "language": "JavaScript",
+    "description": "Evidence-grounded market research prototype with traceable AI workflows."
   },
   {
-    "repo": "gradle/gradle",
-    "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
-  },
-  {
-    "repo": "nickustinov/itsytv-macos",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
-  },
-  {
-    "repo": "drwetter/testssl.sh",
-    "branch": "3.2",
-    "language": "Shell",
-    "description": "Testing TLS/SSL encryption anywhere on any port"
-  },
-  {
-    "repo": "jlevy/the-art-of-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Master the command line, in one page"
-  },
-  {
-    "repo": "bytecodealliance/wasmtime",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
-  },
-  {
-    "repo": "xi-editor/xi-editor",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
-  },
-  {
-    "repo": "ory/hydra",
-    "branch": "master",
-    "language": "Go",
-    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
-  },
-  {
-    "repo": "beeware/briefcase",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tools to support converting a Python project into a standalone native application."
-  },
-  {
-    "repo": "GoogleCloudPlatform/golang-samples",
-    "branch": "main",
-    "language": "Go",
-    "description": "Sample apps and code written for Google Cloud in the Go programming language."
-  },
-  {
-    "repo": "vanna-ai/vanna",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
-  },
-  {
-    "repo": "starkware-libs/cairo",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
-  },
-  {
-    "repo": "chu2bard/pinion-os",
+    "repo": "op7418/Claude-to-IM",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
   },
   {
-    "repo": "ehang-io/nps",
-    "branch": "master",
-    "language": "Go",
-    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
-  },
-  {
-    "repo": "bottlerocket-os/bottlerocket",
-    "branch": "develop",
-    "language": "Rust",
-    "description": "An operating system designed for hosting containers"
-  },
-  {
-    "repo": "google/wire",
-    "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
-  },
-  {
-    "repo": "nmap/nmap",
-    "branch": "master",
-    "language": "C",
-    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
-  },
-  {
-    "repo": "hamelsmu/claude-review-loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
-  },
-  {
-    "repo": "zachlatta/freeflow",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
-  },
-  {
-    "repo": "poteto/brainmaxxing",
+    "repo": "deepseek-ai/TileKernels",
     "branch": "main",
     "language": "Python",
-    "description": "stupid simple persistent memory and skill improvement"
+    "description": "A kernel library written in tilelang"
   },
   {
-    "repo": "dandavison/delta",
+    "repo": "trailofbits/CoBRA",
+    "branch": "master",
+    "language": "C++",
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
     "branch": "main",
-    "language": "Rust",
-    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
+    "language": "Python",
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
   },
   {
-    "repo": "projectdiscovery/nuclei",
+    "repo": "Paidax01/math-curve-loaders",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
+  },
+  {
+    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "chrisryugj/kordoc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
+  },
+  {
+    "repo": "bhope/hedge",
+    "branch": "main",
+    "language": "Go",
+    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
+  },
+  {
+    "repo": "agenticnotetaking/arscontexta",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
+  },
+  {
+    "repo": "marswei/seaseed-clawerse",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+  },
+  {
+    "repo": "caiwuu/web2api",
+    "branch": "master",
+    "language": "Python",
+    "description": "把网页AI转api，如claude2api"
+  },
+  {
+    "repo": "mujocolab/mjviser",
+    "branch": "main",
+    "language": "Python",
+    "description": "Web-based MuJoCo viewer powered by Viser"
+  },
+  {
+    "repo": "AlmogBaku/debug-skill",
     "branch": "master",
     "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+    "description": ""
   },
   {
-    "repo": "xaskasdf/ntransformer",
+    "repo": "wevm/incur",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI framework for agents and humans"
+  },
+  {
+    "repo": "poshan0126/dotclaude",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
+  },
+  {
+    "repo": "RyanCodrai/py-turboquant",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "lenxism/dither",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
+  },
+  {
+    "repo": "hiragram/claude-docker",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "HMAKT99/UnTouchID",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
+  },
+  {
+    "repo": "tanbiralam/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+  },
+  {
+    "repo": "krishnaop/Adobe-CS6-Photoshop-For-PC",
     "branch": "main",
     "language": "C++",
-    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+    "description": "Adobe Photoshop CS6 Extended Full Version 2026 for PC – Professional photo editing software with all advanced tools. Includes layers, masks, brushes, filters, 3D editing, and powerful image manipulation features. Full unlocked Extended edition with no restrictions. Offline installer for Windows 10/11. The best classic Photoshop CS6"
   },
   {
-    "repo": "meteor/meteor",
-    "branch": "devel",
-    "language": "JavaScript",
-    "description": "Meteor, the JavaScript App Platform"
+    "repo": "AprilNEA/claude-code-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code source code recovered from source map"
+  },
+  {
+    "repo": "kapishdima/remocn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
   }
 ]
