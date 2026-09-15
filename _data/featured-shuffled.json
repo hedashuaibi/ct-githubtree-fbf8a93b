@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Dgeloe4-yb/market-pilot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Evidence-grounded market research prototype with traceable AI workflows."
-  },
-  {
-    "repo": "op7418/Claude-to-IM",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
-  },
-  {
-    "repo": "deepseek-ai/TileKernels",
-    "branch": "main",
-    "language": "Python",
-    "description": "A kernel library written in tilelang"
-  },
-  {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
-  },
-  {
-    "repo": "Paidax01/math-curve-loaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
-  },
-  {
-    "repo": "matteorigodanza/cryto-trading-ai-assistant",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
-  },
-  {
-    "repo": "chrisryugj/kordoc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
-  },
-  {
-    "repo": "bhope/hedge",
-    "branch": "main",
-    "language": "Go",
-    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
-  },
-  {
-    "repo": "agenticnotetaking/arscontexta",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
-  },
-  {
-    "repo": "marswei/seaseed-clawerse",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
-  },
-  {
-    "repo": "caiwuu/web2api",
-    "branch": "master",
-    "language": "Python",
-    "description": "把网页AI转api，如claude2api"
-  },
-  {
-    "repo": "mujocolab/mjviser",
-    "branch": "main",
-    "language": "Python",
-    "description": "Web-based MuJoCo viewer powered by Viser"
-  },
-  {
-    "repo": "AlmogBaku/debug-skill",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "wevm/incur",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI framework for agents and humans"
-  },
-  {
-    "repo": "poshan0126/dotclaude",
-    "branch": "main",
-    "language": "Shell",
-    "description": "The standard .claude/  folder structure for everyday development."
-  },
-  {
-    "repo": "RyanCodrai/py-turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lenxism/dither",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
-  },
-  {
-    "repo": "hiragram/claude-docker",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "HMAKT99/UnTouchID",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
-  },
-  {
-    "repo": "tanbiralam/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
-  },
-  {
-    "repo": "krishnaop/Adobe-CS6-Photoshop-For-PC",
+    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
     "branch": "main",
     "language": "C++",
-    "description": "Adobe Photoshop CS6 Extended Full Version 2026 for PC – Professional photo editing software with all advanced tools. Includes layers, masks, brushes, filters, 3D editing, and powerful image manipulation features. Full unlocked Extended edition with no restrictions. Offline installer for Windows 10/11. The best classic Photoshop CS6"
+    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
   },
   {
-    "repo": "AprilNEA/claude-code-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code source code recovered from source map"
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
   },
   {
-    "repo": "kapishdima/remocn",
+    "repo": "eljojo/rememory",
+    "branch": "main",
+    "language": "Go",
+    "description": "have a plan for the worst-case scenario"
+  },
+  {
+    "repo": "Brenonunesx/agent-pilot",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI Agent Toolkit 2026: Smart Device Control for iOS & Android"
+  },
+  {
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
+  },
+  {
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "FuelLabs/fuel-core",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rust full node implementation of the Fuel v2 protocol."
+  },
+  {
+    "repo": "vercel/serve",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+    "description": "Static file serving and directory listing"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "branch": "main",
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+  },
+  {
+    "repo": "redmine/redmine",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp"
+  },
+  {
+    "repo": "leonardomso/33-js-concepts",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "ipython/ipython",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
+  },
+  {
+    "repo": "OWASP/CheatSheetSeries",
+    "branch": "master",
+    "language": "Python",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
+  },
+  {
+    "repo": "winglang/wing",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡"
+  },
+  {
+    "repo": "SortableJS/Sortable",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+  },
+  {
+    "repo": "LedgerHQ/ledger-live",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
+  },
+  {
+    "repo": "google/generative-ai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "This SDK is now deprecated, use the new unified Google GenAI SDK."
+  },
+  {
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A private messenger for Android."
+  },
+  {
+    "repo": "openai/spinningup",
+    "branch": "master",
+    "language": "Python",
+    "description": "An educational resource to help anyone learn deep reinforcement learning."
+  },
+  {
+    "repo": "wagmi-dev/wagmi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive primitives for Ethereum apps"
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "react-navigation/react-navigation",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Routing and navigation for React Native and Web apps"
   }
 ]
