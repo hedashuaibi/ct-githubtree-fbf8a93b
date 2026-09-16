@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cH1LLa/Photoshop-v27.6",
-    "branch": "main",
-    "language": "C++",
-    "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build"
+    "repo": "MunGell/awesome-for-beginners",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of awesome beginners-friendly projects."
   },
   {
-    "repo": "fristork/hyperliquid-trading-bot",
+    "repo": "mistydew/tokenicode-deepseek-alpha",
     "branch": "main",
     "language": "TypeScript",
-    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
+    "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
   },
   {
-    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "repo": "signalapp/Signal-iOS",
     "branch": "main",
-    "language": "Rust",
-    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+    "language": "Swift",
+    "description": "A private messenger for iOS."
   },
   {
-    "repo": "buaochatuqa/open-source-games",
+    "repo": "SortableJS/Sortable",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+  },
+  {
+    "repo": "newrelic/newrelic-java-agent",
     "branch": "main",
-    "language": "Python",
-    "description": "A list of open source games."
+    "language": "Java",
+    "description": "The New Relic Java agent"
   },
   {
-    "repo": "bandyah/uni-mm-trainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A small library for training multimodal LLMs combining text, vision, and audio"
-  },
-  {
-    "repo": "michaelpersonal/goal-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex skill: turn a rough coding idea into a SPEC.md, GOAL.md, and /goal-ready contract."
-  },
-  {
-    "repo": "freq-trades/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "hyperliquid perpetuals grid crypto derivatives dex typescript nodejs automated-trading algorithmic-trading quant api leverage orderbook market-making testnet defi trading-bot blockchain risk OHLCV crypto-bot grid-strategy stop-loss drawdown viem websocket yaml systematic futures spot hedging rebalance liquidation SDK npm opensource observability d"
-  },
-  {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
+    "repo": "emberjs/ember.js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
   },
   {
-    "repo": "Boob025/peace-equalizer-APO",
+    "repo": "aikhe/wrapped.nvim",
+    "branch": "master",
+    "language": "Lua",
+    "description": "View your Neovim configuration insights, history, and heatmaps."
+  },
+  {
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "skibidiskib/ai-codex",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+  },
+  {
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "peace best  audio equalizer apo app pc windows 11 spotify  download audio sound booster bass boost headphones gaming preset config profile realtek parametric eq gui"
-  },
-  {
-    "repo": "stackpathLab/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot"
-  },
-  {
-    "repo": "TYOPxyz/solana-pumpfun-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun Bundler Solana Pumpfun bundler"
-  },
-  {
-    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
-  },
-  {
-    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
-  },
-  {
-    "repo": "SuperJJ007/CSswitch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。"
-  },
-  {
-    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate auto farm trainer for Pet Simulator 99 - automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
-  },
-  {
-    "repo": "windowsMarketLab/polymarket-arbitrage-bot-v2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot V2 to interact with CLOB V2 polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield."
-  },
-  {
-    "repo": "mchughalex/skate3recomp",
-    "branch": "main",
-    "language": "C++",
     "description": ""
   },
   {
-    "repo": "XBuilderLAB/cheat-on-money",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
-  },
-  {
-    "repo": "bvzrays/forza-painter-fh6",
+    "repo": "future-agi/future-agi",
     "branch": "main",
     "language": "Python",
-    "description": "Vinyl Painter Import Tool - FH6 ( Original repository: https://github.com/forza-painter/forza-painter )"
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
   },
   {
-    "repo": "GAwesome-Bot/polymarket-trading-bot-v2",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot"
-  },
-  {
-    "repo": "montez27albert-collab/Arsenal_-_Aimbot___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Aimbot and ESP for Arsenal, the fast-paced FPS with 6.2 billion visits[reference:28]. Dominate every match with perfect aim, wallhacks, and no recoil."
-  },
-  {
-    "repo": "007FirstLight/007-First-Light-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
-  },
-  {
-    "repo": "daehyeonmun2021/react-native-skia-lab",
+    "repo": "vercel/ai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Beautiful react-native-skia demo built by Daehyeon Mun"
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
+  },
+  {
+    "repo": "deepseek-ai/deepseek-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek Coder: Let the Code Write Itself"
+  },
+  {
+    "repo": "microsoft/playwright",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
+  },
+  {
+    "repo": "mitkox/vllm-turboquant",
+    "branch": "main",
+    "language": "Python",
+    "description": "vLLM 0.18.1rc1 with TurboQuant"
+  },
+  {
+    "repo": "amplication/amplication",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
+  },
+  {
+    "repo": "ylytdeng/wechat-decrypt",
+    "branch": "main",
+    "language": "Python",
+    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
+  },
+  {
+    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "dazzyddos/PrivHound",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
+  },
+  {
+    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
+  },
+  {
+    "repo": "cornel-pe/online-casino-platform-backend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This backend powers a modern crypto-enabled betting platform. It is designed for fast gameplay, real-time community, and serious risk control – without sacrificing developer friendliness."
+  },
+  {
+    "repo": "viperrcrypto/Siftly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reference code for the Meta-Harness paper."
   }
 ]
