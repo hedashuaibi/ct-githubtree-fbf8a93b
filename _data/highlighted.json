@@ -1,8 +1,8 @@
 {
-  "repo": "LynnReal-AI/LynnReal-Omni",
+  "repo": "dirkjanm/askWAM",
   "branch": "main",
-  "language": "Python",
-  "description": "LynnReal-Omni brings text-to-video, image-to-video, human- and hand-pose guided generation, structural control, omni-reference generation, style transfer, video editing, degraded-video restoration and streaming long-video generation into a single framework, all at four-step fast generation. ",
-  "stars": 142,
-  "forks": 7
+  "language": "C",
+  "description": "Ask the Web Account Manager (WAM) for Entra ID tokens",
+  "stars": 118,
+  "forks": 13
 }

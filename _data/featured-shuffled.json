@@ -1,105 +1,51 @@
 [
   {
-    "repo": "Ivanro309/Path_of_Exile_Auto-Farm___Loot_Filter",
+    "repo": "Anetedith12807/Ethereum-MEV-Bot",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-farm, loot filter, and currency bot for Path of Exile. Farm maps, filter valuable items, and auto-trade."
+    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
   },
   {
-    "repo": "harshkedia177/axon",
+    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
+  },
+  {
+    "repo": "google-deepmind/alphageometry",
     "branch": "main",
     "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+    "description": "Solving olympiad geometry without human demonstrations."
   },
   {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "fluent/fluent-bit",
-    "branch": "master",
-    "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
-  },
-  {
-    "repo": "fastlane/fastlane",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps"
-  },
-  {
-    "repo": "beeware/toga",
+    "repo": "Robbyant/lingbot-depth",
     "branch": "main",
     "language": "Python",
-    "description": "A Python native, OS native GUI toolkit."
+    "description": ""
   },
   {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "repo": "pierceboggan/primer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Get your repo ready for AI."
+  },
+  {
+    "repo": "pedrohcgs/claude-code-my-workflow",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols."
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
     "branch": "master",
-    "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+    "language": "Go",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
   },
   {
-    "repo": "shanselman/cert-inspector",
+    "repo": "HubSpot/messenger",
     "branch": "master",
     "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "junaid-mahmood/nlsh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn natural language to terminal commands"
-  },
-  {
-    "repo": "browserable/browserable",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source and self-hostable browser automation library for AI agents"
-  },
-  {
-    "repo": "InstaPy/InstaPy",
-    "branch": "master",
-    "language": "Python",
-    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "CompVis/latent-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
-  },
-  {
-    "repo": "terausss/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "zed-industries/zed",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
-  },
-  {
-    "repo": "aws/aws-cdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
-  },
-  {
-    "repo": "composer/composer",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Dependency Manager for PHP"
+    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
   },
   {
     "repo": "openai/openai-python",
@@ -108,39 +54,93 @@
     "description": "The official Python library for the OpenAI API"
   },
   {
-    "repo": "hyperium/hyper",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An HTTP library for Rust"
-  },
-  {
-    "repo": "milvus-io/milvus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
-  },
-  {
-    "repo": "vitejs/vite",
+    "repo": "syncthing/syncthing",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
+    "language": "Go",
+    "description": "Open Source Continuous File Synchronization"
   },
   {
-    "repo": "ehang-io/nps",
+    "repo": "istio/api",
     "branch": "master",
     "language": "Go",
-    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+    "description": "API definitions for the Istio project"
   },
   {
-    "repo": "trycua/launchpad",
+    "repo": "golang/tools",
+    "branch": "master",
+    "language": "Go",
+    "description": "[mirror] Go Tools"
+  },
+  {
+    "repo": "cloudwego/kitex",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Go",
+    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
   },
   {
-    "repo": "labstack/echo",
+    "repo": "docker/docker-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "Supervisor/supervisor",
     "branch": "master",
-    "language": "Go",
-    "description": "High performance, minimalist Go web framework"
+    "language": "Python",
+    "description": "Supervisor process control system for Unix (supervisord)"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "branch": "master",
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "emscripten-core/emscripten",
+    "branch": "main",
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "beeware/toga",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python native, OS native GUI toolkit."
+  },
+  {
+    "repo": "reduxjs/reselect",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Selector library for Redux"
+  },
+  {
+    "repo": "github/copilot-docs",
+    "branch": "main",
+    "language": "Other",
+    "description": "Documentation for GitHub Copilot"
+  },
+  {
+    "repo": "alibaba/FunASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
   }
 ]
