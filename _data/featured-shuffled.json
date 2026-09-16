@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MunGell/awesome-for-beginners",
+    "repo": "Ivanro309/Path_of_Exile_Auto-Farm___Loot_Filter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, loot filter, and currency bot for Path of Exile. Farm maps, filter valuable items, and auto-trade."
+  },
+  {
+    "repo": "harshkedia177/axon",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "repo": "git/git",
+    "branch": "master",
+    "language": "C",
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "branch": "master",
+    "language": "C",
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+  },
+  {
+    "repo": "fastlane/fastlane",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps"
+  },
+  {
+    "repo": "beeware/toga",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python native, OS native GUI toolkit."
+  },
+  {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
     "branch": "master",
     "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
   },
   {
-    "repo": "mistydew/tokenicode-deepseek-alpha",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
-  },
-  {
-    "repo": "signalapp/Signal-iOS",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A private messenger for iOS."
-  },
-  {
-    "repo": "SortableJS/Sortable",
+    "repo": "shanselman/cert-inspector",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
   },
   {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "emberjs/ember.js",
+    "repo": "junaid-mahmood/nlsh",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+    "description": "Turn natural language to terminal commands"
   },
   {
-    "repo": "aikhe/wrapped.nvim",
-    "branch": "master",
-    "language": "Lua",
-    "description": "View your Neovim configuration insights, history, and heatmaps."
-  },
-  {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
+    "repo": "browserable/browserable",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
+    "description": "Open source and self-hostable browser automation library for AI agents"
   },
   {
-    "repo": "skibidiskib/ai-codex",
+    "repo": "InstaPy/InstaPy",
+    "branch": "master",
+    "language": "Python",
+    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+    "description": "Customizable Icons for React Native with support for image source and full styling."
   },
   {
-    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "CompVis/latent-diffusion",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+  },
+  {
+    "repo": "terausss/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+  },
+  {
+    "repo": "aws/aws-cdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+  },
+  {
+    "repo": "composer/composer",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "hyperium/hyper",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An HTTP library for Rust"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+  },
+  {
+    "repo": "vitejs/vite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next generation frontend tooling. It's fast!"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "branch": "master",
+    "language": "Go",
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+  },
+  {
+    "repo": "trycua/launchpad",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "future-agi/future-agi",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
-  },
-  {
-    "repo": "vercel/ai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
-  },
-  {
-    "repo": "deepseek-ai/deepseek-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
-  },
-  {
-    "repo": "microsoft/playwright",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
-  },
-  {
-    "repo": "mitkox/vllm-turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "vLLM 0.18.1rc1 with TurboQuant"
-  },
-  {
-    "repo": "amplication/amplication",
+    "repo": "labstack/echo",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
-  },
-  {
-    "repo": "ylytdeng/wechat-decrypt",
-    "branch": "main",
-    "language": "Python",
-    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
-  },
-  {
-    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
-  },
-  {
-    "repo": "alpinejs/alpine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
-  },
-  {
-    "repo": "dazzyddos/PrivHound",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
-  },
-  {
-    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
-  },
-  {
-    "repo": "cornel-pe/online-casino-platform-backend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This backend powers a modern crypto-enabled betting platform. It is designed for fast gameplay, real-time community, and serious risk control – without sacrificing developer friendliness."
-  },
-  {
-    "repo": "viperrcrypto/Siftly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reference code for the Meta-Harness paper."
+    "language": "Go",
+    "description": "High performance, minimalist Go web framework"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "Made-In-Basement/ember",
+  "repo": "LynnReal-AI/LynnReal-Omni",
   "branch": "main",
-  "language": "Assembly",
-  "description": "An operating system written from scratch: boot sector, FAT filesystem, DOS-compatible interrupts, sound, a 32-bit runtime and a graphical desktop",
-  "stars": 119,
-  "forks": 12
+  "language": "Python",
+  "description": "LynnReal-Omni brings text-to-video, image-to-video, human- and hand-pose guided generation, structural control, omni-reference generation, style transfer, video editing, degraded-video restoration and streaming long-video generation into a single framework, all at four-step fast generation. ",
+  "stars": 142,
+  "forks": 7
 }
