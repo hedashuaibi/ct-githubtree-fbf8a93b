@@ -1,69 +1,15 @@
 [
   {
-    "repo": "ChristosChristofidis/awesome-deep-learning",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
-  },
-  {
-    "repo": "ps5-linux/ps5-linux-loader",
+    "repo": "apache/arrow",
     "branch": "main",
-    "language": "C",
-    "description": "Linux payload implementing the HV exploit and a custom bootloader"
+    "language": "C++",
+    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
   },
   {
-    "repo": "dazzyddos/ClickOnceBlobber",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "kvuong2711/fix-anything",
-    "branch": "main",
-    "language": "Python",
-    "description": "[ECCV 2026] FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors"
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "ochyai/open-japan-politech-platform",
+    "repo": "actions/upload-artifact",
     "branch": "main",
     "language": "TypeScript",
-    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
-  },
-  {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
-  },
-  {
-    "repo": "paritytech/polkadot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polkadot Node Implementation"
-  },
-  {
-    "repo": "Thearas/wechat-db-decrypt-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
-  },
-  {
-    "repo": "apache/commons-lang",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Commons Lang"
+    "description": "Upload artifacts from your workflow"
   },
   {
     "repo": "bumptech/glide",
@@ -72,75 +18,129 @@
     "description": "An image loading and caching library for Android focused on smooth scrolling"
   },
   {
-    "repo": "aaronjmars/MiroShark",
-    "branch": "main",
+    "repo": "pytest-dev/pytest-cov",
+    "branch": "master",
     "language": "Python",
-    "description": "Universal Swarm Intelligence Engine"
+    "description": "Coverage plugin for pytest."
   },
   {
-    "repo": "kaima2022/ABCard",
+    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "meodai/heerich",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
+  },
+  {
+    "repo": "MhmRdd/google-rkp-sw",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "ConsenSys/teku",
+    "repo": "aikhe/wrapped.nvim",
+    "branch": "master",
+    "language": "Lua",
+    "description": "View your Neovim configuration insights, history, and heatmaps."
+  },
+  {
+    "repo": "termux/termux-app",
     "branch": "master",
     "language": "Java",
-    "description": "🚀 Open-source Ethereum consensus client written in Java"
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
   },
   {
-    "repo": "Infatoshi/OpenSquirrel",
-    "branch": "main",
-    "language": "Rust",
-    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
-  },
-  {
-    "repo": "pmndrs/react-three-fiber",
+    "repo": "airbnb/lottie-android",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "🇨🇭 A React renderer for Three.js"
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
   },
   {
-    "repo": "immerjs/immer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Create the next immutable state by mutating the current one"
-  },
-  {
-    "repo": "date-fns/date-fns",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⏳ Modern JavaScript date utility library ⌛️"
-  },
-  {
-    "repo": "typst/typst",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A markup-based typesetting system that is powerful and easy to learn."
-  },
-  {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
-  },
-  {
-    "repo": "FugerQingliu/SlayTheSpire2AutoDrawing",
-    "branch": "main",
-    "language": "HTML",
-    "description": "可以用来在杀戮尖塔2里面自动绘画的小工具！"
-  },
-  {
-    "repo": "openai/openai-python",
+    "repo": "deepseek-ai/DeepSeek-V3",
     "branch": "main",
     "language": "Python",
-    "description": "The official Python library for the OpenAI API"
+    "description": "Vision-language models from DeepSeek research."
   },
   {
-    "repo": "anl331/goey-toast",
+    "repo": "Chanchaldhiman/CANviz",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source browser-based CAN bus analyzer. Works with low cost USB hardware."
+  },
+  {
+    "repo": "randallscott25-star/epstein-forensic-finance",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+  },
+  {
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
+  },
+  {
+    "repo": "pmndrs/zustand",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
+    "description": "🐻 Bear necessities for state management in React"
+  },
+  {
+    "repo": "alefinvest/polymarket-copy-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "branch": "master",
+    "language": "Go",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+  },
+  {
+    "repo": "yargs/yargs",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "yargs the modern, pirate-themed successor to optimist."
+  },
+  {
+    "repo": "rome/tools",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
+  },
+  {
+    "repo": "juliangarnier/anime",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript animation engine"
+  },
+  {
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "encoredev/encore",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+  },
+  {
+    "repo": "moltlaunch/cashclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
   }
 ]
