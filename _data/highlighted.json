@@ -1,8 +1,8 @@
 {
-  "repo": "arsumbris/arsumbris",
+  "repo": "anmolkapil/plexo",
   "branch": "main",
-  "language": "Python",
-  "description": "A malleable, agent-native IDE for typed knowledge.",
-  "stars": 110,
-  "forks": 6
+  "language": "TypeScript",
+  "description": "Speed up downloads by combining multiple network connections in parallel",
+  "stars": 131,
+  "forks": 18
 }

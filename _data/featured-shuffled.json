@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vuejs/awesome-vue",
-    "branch": "master",
-    "language": "Other",
-    "description": "🎉 A curated list of awesome things related to Vue.js"
-  },
-  {
-    "repo": "Albert-Weasker/niubigeo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source AI brand visibility and competitor reports"
-  },
-  {
-    "repo": "cft0808/edict",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
-  },
-  {
-    "repo": "ogham/exa",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
-  },
-  {
-    "repo": "assafelovic/skyll",
+    "repo": "JouJouoo/agent-campus",
     "branch": "main",
     "language": "Python",
-    "description": "A tool for AI agents to discover and learn skills autonomously"
+    "description": "A multi-agent campus social simulation built with LangGraph, featuring memory, RAG, personality evolution, and durable execution."
   },
   {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
+    "repo": "kubernetes-sigs/kustomize",
+    "branch": "master",
+    "language": "Go",
+    "description": "Customization of kubernetes YAML configurations"
   },
   {
-    "repo": "daniel3303/ClaudeCodeStatusLine",
+    "repo": "agenticnotetaking/arscontexta",
     "branch": "main",
     "language": "Shell",
+    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
+  },
+  {
+    "repo": "Robbyant/lingbot-world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advancing Open-source World Models"
+  },
+  {
+    "repo": "cortexproject/cortex",
+    "branch": "master",
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+  },
+  {
+    "repo": "Higangssh/gitcredits",
+    "branch": "main",
+    "language": "Go",
+    "description": "Roll movie-style credits for your git repo — right in the terminal"
+  },
+  {
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Governance for Agentic AI"
+  },
+  {
+    "repo": "theonlyhennygod/zeroclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw done right 🦀"
+  },
+  {
+    "repo": "launchbadge/sqlx",
+    "branch": "main",
+    "language": "Rust",
+    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
+  },
+  {
+    "repo": "Sir-Scuzza/gluetun-webui",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "ColeMurray/background-agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
-  },
-  {
-    "repo": "aws/aws-cdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
-  },
-  {
-    "repo": "ExpondoEgirl/felca-reporter",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
-  },
-  {
-    "repo": "Alfattah07/Acrobat-Editor-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download"
-  },
-  {
-    "repo": "xqnode/codex-helper",
-    "branch": "main",
-    "language": "Rust",
-    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
-  },
-  {
-    "repo": "vibeforge1111/keep-codex-fast",
-    "branch": "main",
-    "language": "Python",
-    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
-  },
-  {
-    "repo": "baidu/ERNIE-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models."
-  },
-  {
-    "repo": "devcraftt/Reddit_Karma_Farmer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-post, comment, and upvote to earn karma on Reddit. Post content, comment on posts, upvote posts, and earn karma automatically. Build your Reddit reputation."
-  },
-  {
-    "repo": "tastyeffectco/sandboxd",
-    "branch": "main",
-    "language": "Go",
-    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
-  },
-  {
-    "repo": "sgup/ai",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Notes and operating profiles for working with AI coding agents."
-  },
-  {
-    "repo": "anchore/syft",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems"
-  },
-  {
-    "repo": "duncatzat/vigils",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3."
-  },
-  {
-    "repo": "openscad/openscad",
+    "repo": "videolan/vlc",
     "branch": "master",
-    "language": "C++",
-    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+    "language": "C",
+    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
   },
   {
-    "repo": "ClaudioDrews/memory-os",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
-  },
-  {
-    "repo": "pnpm/pnpm",
+    "repo": "carlosazaustre/tenacitOS",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fast, disk space efficient package manager"
+    "description": "OpenClaw Mission Control Dashboard"
   },
   {
-    "repo": "jshachm/chronoh",
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
     "branch": "main",
-    "language": "Rust",
-    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
   },
   {
-    "repo": "ATOM00blue/machine-learning-library",
+    "repo": "anthnykr/codex-voice",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "rawwerks/ypi",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A recursive coding agent inpired by RLMs"
+  },
+  {
+    "repo": "argentlabs/argent-contracts",
+    "branch": "develop",
+    "language": "Solidity",
+    "description": "Smart Contracts for Argent Wallet"
+  },
+  {
+    "repo": "KlingAIResearch/X-Dub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
+  },
+  {
+    "repo": "bstnxbt/dflash-mlx",
     "branch": "main",
     "language": "Python",
-    "description": "A hand-curated, topic-organized library of the best ML education — 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning."
+    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "branch": "main",
+    "language": "Go",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+  },
+  {
+    "repo": "tensorflow/datasets",
+    "branch": "master",
+    "language": "Python",
+    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
+  },
+  {
+    "repo": "mohshomis/modo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "immanuwell/dockerfile-roast",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a dockerfile linter that actually has opinions 🔥"
+  },
+  {
+    "repo": "mathiaschu/meta-ads-analyzer",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
   }
 ]
