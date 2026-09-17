@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apache/arrow",
-    "branch": "main",
-    "language": "C++",
-    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
+    "repo": "vuejs/awesome-vue",
+    "branch": "master",
+    "language": "Other",
+    "description": "🎉 A curated list of awesome things related to Vue.js"
   },
   {
-    "repo": "actions/upload-artifact",
+    "repo": "Albert-Weasker/niubigeo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
+    "description": "Open-source AI brand visibility and competitor reports"
   },
   {
-    "repo": "bumptech/glide",
-    "branch": "master",
-    "language": "Java",
-    "description": "An image loading and caching library for Android focused on smooth scrolling"
-  },
-  {
-    "repo": "pytest-dev/pytest-cov",
-    "branch": "master",
-    "language": "Python",
-    "description": "Coverage plugin for pytest."
-  },
-  {
-    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "repo": "cft0808/edict",
     "branch": "main",
-    "language": "C++",
-    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+    "language": "HTML",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
   },
   {
-    "repo": "LeoYeAI/openclaw-guardian",
+    "repo": "ogham/exa",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "assafelovic/skyll",
+    "branch": "main",
+    "language": "Python",
+    "description": "A tool for AI agents to discover and learn skills autonomously"
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "daniel3303/ClaudeCodeStatusLine",
     "branch": "main",
     "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "meodai/heerich",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
-  },
-  {
-    "repo": "MhmRdd/google-rkp-sw",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "aikhe/wrapped.nvim",
-    "branch": "master",
-    "language": "Lua",
-    "description": "View your Neovim configuration insights, history, and heatmaps."
-  },
-  {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
-  },
-  {
-    "repo": "airbnb/lottie-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-V3",
-    "branch": "main",
-    "language": "Python",
-    "description": "Vision-language models from DeepSeek research."
-  },
-  {
-    "repo": "Chanchaldhiman/CANviz",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source browser-based CAN bus analyzer. Works with low cost USB hardware."
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
-  },
-  {
-    "repo": "pyenv/pyenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
-  },
-  {
-    "repo": "pmndrs/zustand",
+    "repo": "ColeMurray/background-agents",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
+    "description": "An open-source background agent coding system"
   },
   {
-    "repo": "alefinvest/polymarket-copy-bot",
+    "repo": "aws/aws-cdk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
   },
   {
-    "repo": "grpc-ecosystem/grpc-gateway",
-    "branch": "master",
-    "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
-  },
-  {
-    "repo": "yargs/yargs",
+    "repo": "ExpondoEgirl/felca-reporter",
     "branch": "main",
     "language": "JavaScript",
-    "description": "yargs the modern, pirate-themed successor to optimist."
+    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
   },
   {
-    "repo": "rome/tools",
+    "repo": "Alfattah07/Acrobat-Editor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download"
+  },
+  {
+    "repo": "xqnode/codex-helper",
     "branch": "main",
     "language": "Rust",
-    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
+    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
   },
   {
-    "repo": "juliangarnier/anime",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript animation engine"
+    "repo": "vibeforge1111/keep-codex-fast",
+    "branch": "main",
+    "language": "Python",
+    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
   },
   {
-    "repo": "xi-editor/xi-editor",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
+    "repo": "baidu/ERNIE-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models."
   },
   {
-    "repo": "encoredev/encore",
+    "repo": "devcraftt/Reddit_Karma_Farmer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-post, comment, and upvote to earn karma on Reddit. Post content, comment on posts, upvote posts, and earn karma automatically. Build your Reddit reputation."
+  },
+  {
+    "repo": "tastyeffectco/sandboxd",
     "branch": "main",
     "language": "Go",
-    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
   },
   {
-    "repo": "moltlaunch/cashclaw",
+    "repo": "sgup/ai",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Notes and operating profiles for working with AI coding agents."
+  },
+  {
+    "repo": "anchore/syft",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems"
+  },
+  {
+    "repo": "duncatzat/vigils",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3."
+  },
+  {
+    "repo": "openscad/openscad",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+  },
+  {
+    "repo": "ClaudioDrews/memory-os",
+    "branch": "main",
+    "language": "Python",
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+  },
+  {
+    "repo": "pnpm/pnpm",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+    "description": "Fast, disk space efficient package manager"
+  },
+  {
+    "repo": "jshachm/chronoh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+  },
+  {
+    "repo": "ATOM00blue/machine-learning-library",
+    "branch": "main",
+    "language": "Python",
+    "description": "A hand-curated, topic-organized library of the best ML education — 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning."
   }
 ]
