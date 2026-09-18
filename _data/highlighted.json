@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "TypeScript",
   "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-  "stars": 109,
+  "stars": 111,
   "forks": 0
 }

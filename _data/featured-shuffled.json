@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Gold",
-    "branch": "main",
-    "language": "Python",
-    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Gold edition comes with extra optimizations for faster farming."
-  },
-  {
-    "repo": "vkhanhqui/figma-mcp-go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code"
-  },
-  {
-    "repo": "large-performance-model/large-performance-model.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "LPM 1.0: Video-based Character Performance Model"
-  },
-  {
-    "repo": "jure/webphysics",
+    "repo": "genspark-ai/genoffice",
     "branch": "main",
     "language": "TypeScript",
-    "description": "WebGPU physics engine based on the AVBD solver"
+    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF."
   },
   {
-    "repo": "patterniha/SNI-Spoofing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bypass DPI with IP/TCP-Header manipulation"
-  },
-  {
-    "repo": "Alex-Gilbert/unredact",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jackwener/boss-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
-  },
-  {
-    "repo": "NanmiCoder/cc-haha",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 泄露源码 - 本地可运行版本"
-  },
-  {
-    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "afumu/openlink",
-    "branch": "main",
-    "language": "Go",
-    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
-  },
-  {
-    "repo": "viplismism/rlm-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
-  },
-  {
-    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
-  },
-  {
-    "repo": "liuxiaopai-ai/raphael-publish",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
-  },
-  {
-    "repo": "adamlyttleapps/notchy",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "ksimback/hermes-ecosystem",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Comprehensive ecosystem map for Hermes Agent by Nous Research — 80+ tools, skills, plugins, and integrations"
-  },
-  {
-    "repo": "datavorous/challenges",
+    "repo": "sympy/sympy",
     "branch": "master",
     "language": "Python",
-    "description": "Various coding challenges from all around the internet"
+    "description": "A computer algebra system written in pure Python"
   },
   {
-    "repo": "math-ai-org/mathcode",
+    "repo": "newrelic/newrelic-python-agent",
     "branch": "main",
     "language": "Python",
-    "description": "MathCode: A Frontier Mathematical Coding Agent"
+    "description": "New Relic Python Agent"
   },
   {
-    "repo": "cv-cat/TaoBaoApis",
-    "branch": "master",
+    "repo": "Rivflyyy/HappyTorch",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+  },
+  {
+    "repo": "DoomVoss/BASpark",
+    "branch": "main",
+    "language": "C#",
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+  },
+  {
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
     "language": "Python",
-    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
   },
   {
-    "repo": "bddicken/tuitter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "tuitter"
-  },
-  {
-    "repo": "chenhg5/cc-connect",
-    "branch": "main",
-    "language": "Go",
-    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
-  },
-  {
-    "repo": "open-pencil/open-pencil",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
-  },
-  {
-    "repo": "filiksyos/gitreverse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reverse engineer any repo into it's original prompt"
-  },
-  {
-    "repo": "haeyupi/hotmail_re_plugin",
+    "repo": "comeonzhj/AutoContents",
     "branch": "main",
     "language": "JavaScript",
+    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+  },
+  {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
+  },
+  {
+    "repo": "beeware/toga",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python native, OS native GUI toolkit."
+  },
+  {
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
+  },
+  {
+    "repo": "Trooped/QuickBars",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
+  },
+  {
+    "repo": "Tencent/wepy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "小程序组件化开发框架"
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "helenigtxu/blooket",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "fspecii/HeartMuLa-Studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "mockk/mockk",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "pypa/pipenv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Development Workflow for Humans."
+  },
+  {
+    "repo": "ConsenSys/teku",
+    "branch": "master",
+    "language": "Java",
+    "description": "🚀 Open-source Ethereum consensus client written in Java"
+  },
+  {
+    "repo": "twwch/AIComicBuilder",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "Lyy-iiis/pMF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+  },
+  {
+    "repo": "collaborator-ai/collab-public",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Collaborator is a place to build with agents."
   }
 ]
