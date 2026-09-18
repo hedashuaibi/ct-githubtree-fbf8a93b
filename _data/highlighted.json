@@ -1,8 +1,8 @@
 {
-  "repo": "p1ass/textlint-rule-preset-ai-words-ja",
+  "repo": "mirkovicdev/HFTENGINE",
   "branch": "main",
   "language": "TypeScript",
-  "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-  "stars": 111,
-  "forks": 0
+  "description": "Replay console for hftbacktest market-making backtests: order book, queue position of every resting order, feed and order latency, fills and the raw feed from the collector, on real recorded Binance Futures data. Rust runner on the hftbacktest crate, text-mode dashboard. A backtester, not a trading bot.",
+  "stars": 175,
+  "forks": 20
 }

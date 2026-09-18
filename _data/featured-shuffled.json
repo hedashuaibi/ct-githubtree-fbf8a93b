@@ -1,146 +1,146 @@
 [
   {
-    "repo": "genspark-ai/genoffice",
+    "repo": "hanxiao/dataroom",
+    "branch": "main",
+    "language": "Python",
+    "description": "Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4."
+  },
+  {
+    "repo": "yande0/Hades-II-Trainer-X",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+  },
+  {
+    "repo": "okturro/asr-rescore-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Benchmark for LLM-based ASR n-best rescoring (ngram, neural-LM, MLM-PLL, LLM-prompt strategies)."
+  },
+  {
+    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF."
+    "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment"
   },
   {
-    "repo": "sympy/sympy",
-    "branch": "master",
-    "language": "Python",
-    "description": "A computer algebra system written in pure Python"
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
+    "repo": "haydenbleasel/files-sdk",
     "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
+    "language": "TypeScript",
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
   },
   {
-    "repo": "Rivflyyy/HappyTorch",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
-  },
-  {
-    "repo": "DoomVoss/BASpark",
+    "repo": "Monke-Manager/MonkeModManager",
     "branch": "main",
     "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+    "description": "monkemodmanager download github gorilla tag mod installer manager bepinex cosmetics quest link steam vr custom maps utility tool windows 11 latest version 2026 free gameplay tutorial update guide fix error"
   },
   {
-    "repo": "Junyi42/LoGeR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
-  },
-  {
-    "repo": "comeonzhj/AutoContents",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
-  },
-  {
-    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "repo": "ngrok/webernetes",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Kubernetes in the browser."
   },
   {
-    "repo": "beeware/toga",
+    "repo": "Julpygo/Claude-Code-AI-Design",
     "branch": "main",
-    "language": "Python",
-    "description": "A Python native, OS native GUI toolkit."
+    "language": "C++",
+    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
   },
   {
-    "repo": "Kaleighc793/freqtrade-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
-  },
-  {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
-  },
-  {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "Tencent/wepy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "小程序组件化开发框架"
-  },
-  {
-    "repo": "flannel-io/flannel",
-    "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "helenigtxu/blooket",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "fspecii/HeartMuLa-Studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
-  },
-  {
-    "repo": "tailwindlabs/headlessui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
-  },
-  {
-    "repo": "mockk/mockk",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
-  },
-  {
-    "repo": "pypa/pipenv",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Development Workflow for Humans."
-  },
-  {
-    "repo": "ConsenSys/teku",
-    "branch": "master",
-    "language": "Java",
-    "description": "🚀 Open-source Ethereum consensus client written in Java"
-  },
-  {
-    "repo": "twwch/AIComicBuilder",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "collaborator-ai/collab-public",
+    "repo": "skydoves/android-testing-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Collaborator is a place to build with agents."
+    "description": "⚡️ A set of skills for Android testing: Compose UI, AndroidX Test, JVM unit tests, and ADB."
+  },
+  {
+    "repo": "432539/plus_gopay_gptp-plus",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355"
+  },
+  {
+    "repo": "TQ-trade/rari-stable-pool-contracts",
+    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
+    "language": "HTML",
+    "description": "Smart contracts for the Rari Stable Pool."
+  },
+  {
+    "repo": "almeidazs/better-drizzle",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ORM, but better"
+  },
+  {
+    "repo": "zjp1997720/wechat-article-search",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required."
+  },
+  {
+    "repo": "Parcle-AI/parcle-memory",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+    "branch": "main",
+    "language": "Python",
+    "description": "Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+  },
+  {
+    "repo": "Parth-Rana-333/Spider-Man_Remastered_Unlimited_Gadgets",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited gadgets, skill points, and all suits for Spider-Man Remastered. God mode, infinite web swing, and instant takedowns."
+  },
+  {
+    "repo": "faldyrd/Auto-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "autocad 2026 free download crack torrent x-force keygen product key activation windows 11 setup guide fix latest version"
+  },
+  {
+    "repo": "chefkannofriend-source/mbbb-baker-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+  },
+  {
+    "repo": "nico81/iContainer",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A native macOS app to manage Apple Container workloads, built with SwiftUI."
+  },
+  {
+    "repo": "sinanata/unity-ui-document-design-system",
+    "branch": "main",
+    "language": "C#",
+    "description": "A drop-in design system for Unity 6 UI Toolkit (UIDocument + UXML + USS). Tokens, components, icons, mobile responsiveness, and a runtime helper — all themed dark, all keyboard-and-touch-ready, all editable from one stylesheet."
+  },
+  {
+    "repo": "md0070/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "jgallego001/Hex_Editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "View and edit raw binary data with a powerful hex editor. Search, replace, modify bytes, and parse data structures. Essential for reverse engineering and debugging."
+  },
+  {
+    "repo": "clarilayer/clarilayer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stop re-explaining your data to your AI every session. The individual-analyst context layer, delivered over MCP (Claude Code / Cursor / Codex)."
   }
 ]
