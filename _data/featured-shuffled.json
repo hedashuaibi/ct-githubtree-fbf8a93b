@@ -1,146 +1,146 @@
 [
   {
-    "repo": "JouJouoo/agent-campus",
+    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Gold",
     "branch": "main",
     "language": "Python",
-    "description": "A multi-agent campus social simulation built with LangGraph, featuring memory, RAG, personality evolution, and durable execution."
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Gold edition comes with extra optimizations for faster farming."
   },
   {
-    "repo": "kubernetes-sigs/kustomize",
-    "branch": "master",
-    "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
-  },
-  {
-    "repo": "agenticnotetaking/arscontexta",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
-  },
-  {
-    "repo": "Robbyant/lingbot-world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advancing Open-source World Models"
-  },
-  {
-    "repo": "cortexproject/cortex",
-    "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
-  },
-  {
-    "repo": "Higangssh/gitcredits",
+    "repo": "vkhanhqui/figma-mcp-go",
     "branch": "main",
     "language": "Go",
-    "description": "Roll movie-style credits for your git repo — right in the terminal"
+    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code"
   },
   {
-    "repo": "vercel-labs/visual-json",
+    "repo": "large-performance-model/large-performance-model.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "LPM 1.0: Video-based Character Performance Model"
+  },
+  {
+    "repo": "jure/webphysics",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+    "description": "WebGPU physics engine based on the AVBD solver"
   },
   {
-    "repo": "cisco-ai-defense/defenseclaw",
+    "repo": "patterniha/SNI-Spoofing",
     "branch": "main",
     "language": "Python",
-    "description": "Security Governance for Agentic AI"
+    "description": "Bypass DPI with IP/TCP-Header manipulation"
   },
   {
-    "repo": "theonlyhennygod/zeroclaw",
+    "repo": "Alex-Gilbert/unredact",
     "branch": "main",
-    "language": "Rust",
-    "description": "claw done right 🦀"
-  },
-  {
-    "repo": "launchbadge/sqlx",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
-  },
-  {
-    "repo": "Sir-Scuzza/gluetun-webui",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "videolan/vlc",
-    "branch": "master",
-    "language": "C",
-    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
+    "repo": "jackwener/boss-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
   },
   {
-    "repo": "carlosazaustre/tenacitOS",
+    "repo": "NanmiCoder/cc-haha",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw Mission Control Dashboard"
+    "description": "Claude Code 泄露源码 - 本地可运行版本"
   },
   {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+  },
+  {
+    "repo": "afumu/openlink",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+  },
+  {
+    "repo": "viplismism/rlm-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+  },
+  {
+    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
     "branch": "main",
     "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
   },
   {
-    "repo": "anthnykr/codex-voice",
+    "repo": "liuxiaopai-ai/raphael-publish",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+  },
+  {
+    "repo": "adamlyttleapps/notchy",
     "branch": "main",
     "language": "Swift",
     "description": ""
   },
   {
-    "repo": "rawwerks/ypi",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A recursive coding agent inpired by RLMs"
+    "repo": "ksimback/hermes-ecosystem",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Comprehensive ecosystem map for Hermes Agent by Nous Research — 80+ tools, skills, plugins, and integrations"
   },
   {
-    "repo": "argentlabs/argent-contracts",
-    "branch": "develop",
-    "language": "Solidity",
-    "description": "Smart Contracts for Argent Wallet"
-  },
-  {
-    "repo": "KlingAIResearch/X-Dub",
+    "repo": "datavorous/challenges",
     "branch": "master",
     "language": "Python",
-    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
+    "description": "Various coding challenges from all around the internet"
   },
   {
-    "repo": "bstnxbt/dflash-mlx",
+    "repo": "math-ai-org/mathcode",
     "branch": "main",
     "language": "Python",
-    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
+    "description": "MathCode: A Frontier Mathematical Coding Agent"
   },
   {
-    "repo": "aquasecurity/trivy",
-    "branch": "main",
-    "language": "Go",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
-  },
-  {
-    "repo": "tensorflow/datasets",
+    "repo": "cv-cat/TaoBaoApis",
     "branch": "master",
     "language": "Python",
-    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
+    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
   },
   {
-    "repo": "mohshomis/modo",
+    "repo": "bddicken/tuitter",
     "branch": "main",
     "language": "TypeScript",
+    "description": "tuitter"
+  },
+  {
+    "repo": "chenhg5/cc-connect",
+    "branch": "main",
+    "language": "Go",
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+  },
+  {
+    "repo": "open-pencil/open-pencil",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AI-native design editor. Open-source Figma alternative."
+  },
+  {
+    "repo": "filiksyos/gitreverse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reverse engineer any repo into it's original prompt"
+  },
+  {
+    "repo": "haeyupi/hotmail_re_plugin",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
-  },
-  {
-    "repo": "immanuwell/dockerfile-roast",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "mathiaschu/meta-ads-analyzer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
   }
 ]

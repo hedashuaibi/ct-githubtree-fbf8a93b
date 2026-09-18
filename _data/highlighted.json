@@ -1,8 +1,8 @@
 {
-  "repo": "anmolkapil/plexo",
+  "repo": "p1ass/textlint-rule-preset-ai-words-ja",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Speed up downloads by combining multiple network connections in parallel",
-  "stars": 131,
-  "forks": 18
+  "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+  "stars": 109,
+  "forks": 0
 }
