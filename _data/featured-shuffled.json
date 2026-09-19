@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dotnet/efcore",
-    "branch": "main",
-    "language": "C#",
-    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
-  },
-  {
-    "repo": "madeye/ad-skipper",
+    "repo": "jakesgoodapps/DuoLauncher",
     "branch": "main",
     "language": "Kotlin",
-    "description": "Local VLM-based Android splash-ad skipper: accessibility service + three-tier detection (node match -> OCR -> llama.cpp GGUF VLM grounding)"
+    "description": "An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages."
   },
   {
-    "repo": "vllm-project/aibrix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
+    "repo": "signalapp/Signal-Desktop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "JupyterLab computational environment."
+    "description": "A private messenger for Windows, macOS, and Linux."
   },
   {
-    "repo": "BytePioneer-AI/moltbot-china",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "typeorm/typeorm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
-  },
-  {
-    "repo": "DioxusLabs/dioxus",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
-  },
-  {
-    "repo": "swc-project/swc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust-based platform for the Web"
-  },
-  {
-    "repo": "wandb/wandb",
+    "repo": "Russell-cell/PPT-Design-Prompt",
     "branch": "main",
     "language": "Python",
-    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
-  },
-  {
-    "repo": "dododook/FlowZ",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "patterniha/MITM-DomainFronting",
-    "branch": "main",
-    "language": "Batchfile",
-    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
-  },
-  {
-    "repo": "sigstore/cosign",
-    "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
-  },
-  {
-    "repo": "apple/swift-nio",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
-  },
-  {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "vercel-labs/webreel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
-  },
-  {
-    "repo": "armadasvc/armada",
-    "branch": "master",
-    "language": "Python",
-    "description": "Kubernetes-native framework for bot and scraper orchestration"
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "TheAlgorithms/Rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "All Algorithms implemented in Rust"
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "hubeiqiao/apple-bento-grid",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
-  },
-  {
-    "repo": "leo-lilinxiao/codex-autoresearch",
+    "repo": "liorwn/claudetop",
     "branch": "main",
     "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
   },
   {
-    "repo": "deepmind/mujoco",
+    "repo": "angel10x/Crash-Frontend",
     "branch": "main",
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
   },
   {
-    "repo": "buildpacks/lifecycle",
+    "repo": "haolinwang819-boop/ai-video-generation-workflow",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "repo": "GreatScott/enject",
+    "branch": "main",
+    "language": "Rust",
+    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+  },
+  {
+    "repo": "afumu/openlink",
     "branch": "main",
     "language": "Go",
-    "description": "Reference implementation of the Cloud Native Buildpacks lifecycle"
+    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+  },
+  {
+    "repo": "cfinke/EpsteIn",
+    "branch": "main",
+    "language": "Python",
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
+  },
+  {
+    "repo": "go-task/task",
+    "branch": "master",
+    "language": "Go",
+    "description": "A task runner / simpler Make alternative written in Go"
+  },
+  {
+    "repo": "olvvier/apple-silicon-accelerometer",
+    "branch": "main",
+    "language": "Python",
+    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+  },
+  {
+    "repo": "carlosazaustre/tenacitOS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw Mission Control Dashboard"
+  },
+  {
+    "repo": "Uniswap/v3-core",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
+  },
+  {
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "xjtulyc/MedgeClaw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Medge AI X OpenClaw"
+  },
+  {
+    "repo": "plotly/plotly.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash"
+  },
+  {
+    "repo": "graphprotocol/graph-node",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
+  },
+  {
+    "repo": "adysec/CForum",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
+  },
+  {
+    "repo": "Uniswap/v2-core",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
+  },
+  {
+    "repo": "Jane-xiaoer/x-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "branch": "main",
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+  },
+  {
+    "repo": "sindresorhus/awesome",
+    "branch": "main",
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "repo": "actions/runner-images",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
   }
 ]
