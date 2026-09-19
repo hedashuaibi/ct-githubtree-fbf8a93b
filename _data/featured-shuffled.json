@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jakesgoodapps/DuoLauncher",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages."
-  },
-  {
-    "repo": "signalapp/Signal-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
-  },
-  {
-    "repo": "Russell-cell/PPT-Design-Prompt",
+    "repo": "amanning3390/deepswarm",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "liorwn/claudetop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
+    "repo": "ahmadawais/chartli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "About Crash game - frontend"
+    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
   },
   {
-    "repo": "haolinwang819-boop/ai-video-generation-workflow",
+    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
+    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
   },
   {
-    "repo": "agentscope-ai/CoPaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
-  },
-  {
-    "repo": "GreatScott/enject",
-    "branch": "main",
-    "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "afumu/openlink",
-    "branch": "main",
-    "language": "Go",
-    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
-  },
-  {
-    "repo": "cfinke/EpsteIn",
-    "branch": "main",
-    "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
-  },
-  {
-    "repo": "go-task/task",
-    "branch": "master",
-    "language": "Go",
-    "description": "A task runner / simpler Make alternative written in Go"
-  },
-  {
-    "repo": "olvvier/apple-silicon-accelerometer",
-    "branch": "main",
-    "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
-  },
-  {
-    "repo": "carlosazaustre/tenacitOS",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw Mission Control Dashboard"
-  },
-  {
-    "repo": "Uniswap/v3-core",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
-  },
-  {
-    "repo": "Flowseal/tg-ws-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
-  },
-  {
-    "repo": "xjtulyc/MedgeClaw",
+    "repo": "alchaincyf/deepseek-v4-deep-dive",
     "branch": "main",
     "language": "HTML",
-    "description": "Medge AI X OpenClaw"
+    "description": "DeepSeek V4 深度解读 · 73 页 PPT + 20 分钟讲稿 + 发布动画 · Designed with huashu-design"
   },
   {
-    "repo": "plotly/plotly.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash"
-  },
-  {
-    "repo": "graphprotocol/graph-node",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
-  },
-  {
-    "repo": "adysec/CForum",
+    "repo": "chekusu/wanman",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
   },
   {
-    "repo": "Uniswap/v2-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
-  },
-  {
-    "repo": "Jane-xiaoer/x-fetcher",
+    "repo": "T3-Content/quipslop",
     "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "XTLS/Xray-core",
+    "repo": "tompftampffern/polyseed-monero",
+    "branch": "main",
+    "language": "C",
+    "description": "Polyseed Monero"
+  },
+  {
+    "repo": "kewonit/aeris",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aeris is a real-time 3D flight radar for the web"
+  },
+  {
+    "repo": "apache/httpcomponents-client",
+    "branch": "master",
+    "language": "Java",
+    "description": "Mirror of Apache HttpClient"
+  },
+  {
+    "repo": "element-hq/element-android",
+    "branch": "develop",
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
+  },
+  {
+    "repo": "browser-use/browser-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-healing browser harness that enables LLMs to complete any task."
+  },
+  {
+    "repo": "badaramoni/wave-field-llm",
+    "branch": "main",
+    "language": "Python",
+    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
+  },
+  {
+    "repo": "jmoiron/sqlx",
+    "branch": "master",
+    "language": "Go",
+    "description": "general purpose extensions to golang's database/sql"
+  },
+  {
+    "repo": "missuo/koe",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "A zero-GUI macOS voice input tool. Press a hotkey, speak, and the corrected text is pasted into whatever app you're using."
+  },
+  {
+    "repo": "honnibal/claude-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skills I'm experimenting with. Please review carefully before use."
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "dezgit2025/auto-memory",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your AI coding agent never forgets — progressive session recall CLI"
+  },
+  {
+    "repo": "lobehub/lobe-chat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+  },
+  {
+    "repo": "xataio/xata",
     "branch": "main",
     "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+    "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
   },
   {
-    "repo": "sindresorhus/awesome",
-    "branch": "main",
-    "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
+    "repo": "matrix-org/synapse",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Synapse: Matrix homeserver written in Python/Twisted."
   },
   {
-    "repo": "actions/runner-images",
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "vector-im/hydrogen-web",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Lightweight matrix client with legacy and mobile browser support"
+  },
+  {
+    "repo": "epiral/weixin-bot",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
+    "language": "Python",
+    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+  },
+  {
+    "repo": "dazzyddos/ClickOnceBlobber",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

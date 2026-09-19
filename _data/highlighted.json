@@ -1,8 +1,8 @@
 {
-  "repo": "jkudish/jev-browser",
+  "repo": "hr98w/jev-visual",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Browser use using Typesafe's Jev model",
-  "stars": 129,
-  "forks": 10
+  "language": "Python",
+  "description": "An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos.",
+  "stars": 141,
+  "forks": 20
 }
