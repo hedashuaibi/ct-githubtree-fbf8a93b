@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chaseleantj/desktop-habitats",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Living ecosystems you can interact with on your desktop"
-  },
-  {
-    "repo": "prisma/graphql-yoga",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "dashersw/gea",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "syncthing/syncthing",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Source Continuous File Synchronization"
-  },
-  {
-    "repo": "galpha-ai/trading-intent",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "kulikov0/whitelist-bypass",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "trekhleb/javascript-algorithms",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
-  },
-  {
-    "repo": "netblue30/firejail",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux namespaces and seccomp-bpf sandbox"
-  },
-  {
-    "repo": "OpenMOSS/MOSS-Audio",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
-  },
-  {
-    "repo": "diandianti/clawInstaller",
+    "repo": "dotnet/efcore",
     "branch": "main",
     "language": "C#",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+  },
+  {
+    "repo": "madeye/ad-skipper",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Local VLM-based Android splash-ad skipper: accessibility service + three-tier detection (node match -> OCR -> llama.cpp GGUF VLM grounding)"
+  },
+  {
+    "repo": "vllm-project/aibrix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "BytePioneer-AI/moltbot-china",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
+  },
+  {
+    "repo": "typeorm/typeorm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
+  },
+  {
+    "repo": "swc-project/swc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "repo": "wandb/wandb",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+  },
+  {
+    "repo": "dododook/FlowZ",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "apache/kafka",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Mirror of Apache Kafka"
-  },
-  {
-    "repo": "tensorflow/models",
-    "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
-  },
-  {
-    "repo": "whisperbit-labs/zemzeme-android",
+    "repo": "patterniha/MITM-DomainFronting",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
+    "language": "Batchfile",
+    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
   },
   {
-    "repo": "olvvier/apple-silicon-accelerometer",
-    "branch": "main",
-    "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
-  },
-  {
-    "repo": "jquery/jquery",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
-  },
-  {
-    "repo": "AFahim02/House-Flipper-2-Multiplayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
-  },
-  {
-    "repo": "kubernetes-sigs/kustomize",
-    "branch": "master",
-    "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
-  },
-  {
-    "repo": "axios/axios",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
-  },
-  {
-    "repo": "docker/compose",
+    "repo": "sigstore/cosign",
     "branch": "main",
     "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
+    "description": "Code signing and transparency for containers and binaries"
   },
   {
-    "repo": "reduxjs/redux",
-    "branch": "master",
+    "repo": "apple/swift-nio",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+  },
+  {
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "vercel-labs/webreel",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
+    "description": "Record scripted browser demos as video"
   },
   {
-    "repo": "qiaoshouqing/drive-escape",
+    "repo": "armadasvc/armada",
+    "branch": "master",
+    "language": "Python",
+    "description": "Kubernetes-native framework for bot and scraper orchestration"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "TheAlgorithms/Rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "All Algorithms implemented in Rust"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "hubeiqiao/apple-bento-grid",
     "branch": "main",
     "language": "HTML",
-    "description": "周末自驾逃离计划 - 交互式驾车时间地图"
+    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
   },
   {
-    "repo": "earendil-works/pi-review",
+    "repo": "leo-lilinxiao/codex-autoresearch",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A review extension for Pi"
+    "language": "Shell",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
   },
   {
-    "repo": "langchain-ai/langchainjs",
+    "repo": "deepmind/mujoco",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🦜🔗 Build context-aware reasoning applications"
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+  },
+  {
+    "repo": "buildpacks/lifecycle",
+    "branch": "main",
+    "language": "Go",
+    "description": "Reference implementation of the Cloud Native Buildpacks lifecycle"
   }
 ]
