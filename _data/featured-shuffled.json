@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
+    "repo": "chaseleantj/desktop-habitats",
     "branch": "main",
-    "language": "HTML",
-    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
+    "language": "JavaScript",
+    "description": "Living ecosystems you can interact with on your desktop"
   },
   {
-    "repo": "lanicer/cve-2026-41940-PoC",
+    "repo": "prisma/graphql-yoga",
     "branch": "main",
-    "language": "Python",
-    "description": "A cPanel and WHM authentication bypassing tool"
+    "language": "TypeScript",
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
   },
   {
-    "repo": "kernelstub/Ferrum",
+    "repo": "glommer/codemogger",
     "branch": "main",
-    "language": "Go",
-    "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration."
+    "language": "TypeScript",
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
   },
   {
-    "repo": "jmmy9609-design/gpt-pp",
+    "repo": "dashersw/gea",
     "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "johndev-robo/Color_Picker_with_Palette_Builder",
+    "repo": "syncthing/syncthing",
     "branch": "main",
-    "language": "Python",
-    "description": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects."
+    "language": "Go",
+    "description": "Open Source Continuous File Synchronization"
   },
   {
-    "repo": "eooce/transfer-api",
+    "repo": "galpha-ai/trading-intent",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
-  },
-  {
-    "repo": "serder8866/Universal_USB_Boot_Maker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
-  },
-  {
-    "repo": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
-  },
-  {
-    "repo": "fajarakpdev/Hades-II-Trainer-Z",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download."
-  },
-  {
-    "repo": "Rohim616/OneDrive_Sync_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-sync files, backup, and version control for OneDrive. Sync folders, restore previous versions, encrypt files, and generate links. Manage OneDrive efficiently."
-  },
-  {
-    "repo": "raheelshakeel953-a11y/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "Neverforgetme/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate auto farm trainer for Pet Simulator 99 - automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
-  },
-  {
-    "repo": "NotASithLord/peerd",
+    "repo": "kulikov0/whitelist-bypass",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry."
+    "description": ""
   },
   {
-    "repo": "tangxu1995/DBD-AutoGrind-Trainer-2026",
+    "repo": "trekhleb/javascript-algorithms",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+  },
+  {
+    "repo": "netblue30/firejail",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux namespaces and seccomp-bpf sandbox"
+  },
+  {
+    "repo": "OpenMOSS/MOSS-Audio",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
   },
   {
-    "repo": "AbdelStark/awesome-jepa",
+    "repo": "diandianti/clawInstaller",
     "branch": "main",
-    "language": "CSS",
-    "description": "Curated resources for JEPA (Joint Embedding Predictive Architecture) world models and self-supervised learning"
+    "language": "C#",
+    "description": ""
   },
   {
-    "repo": "StephenDev0/StikPair",
+    "repo": "apache/kafka",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Mirror of Apache Kafka"
+  },
+  {
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "whisperbit-labs/zemzeme-android",
     "branch": "main",
-    "language": "Swift",
-    "description": "A simple SwiftUI iOS app that creates a pairing file on-device."
+    "language": "Kotlin",
+    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
   },
   {
-    "repo": "emollick/concord",
+    "repo": "olvvier/apple-silicon-accelerometer",
+    "branch": "main",
+    "language": "Python",
+    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+  },
+  {
+    "repo": "jquery/jquery",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder"
+    "description": "jQuery JavaScript Library"
   },
   {
-    "repo": "ravsindong/Nim",
-    "branch": "devel",
-    "language": "Nim",
-    "description": "Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority)."
+    "repo": "AFahim02/House-Flipper-2-Multiplayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
   },
   {
-    "repo": "HMDSimDev/heartmorrow",
+    "repo": "kubernetes-sigs/kustomize",
+    "branch": "master",
+    "language": "Go",
+    "description": "Customization of kubernetes YAML configurations"
+  },
+  {
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
+  },
+  {
+    "repo": "reduxjs/redux",
     "branch": "master",
     "language": "TypeScript",
-    "description": "LLM-powered dating simulator"
+    "description": "A JS library for predictable global state management"
   },
   {
-    "repo": "raheemxghumman/Screen_Recorder_Pro",
+    "repo": "qiaoshouqing/drive-escape",
     "branch": "main",
-    "language": "Python",
-    "description": "Record screen with audio, annotations, and scheduling. Capture full screen, record selected area, record system audio, and schedule recordings. Best for tutorials."
+    "language": "HTML",
+    "description": "周末自驾逃离计划 - 交互式驾车时间地图"
   },
   {
-    "repo": "jose-90/DBD-AutoGrind-Trainer-2026",
+    "repo": "earendil-works/pi-review",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "TypeScript",
+    "description": "A review extension for Pi"
   },
   {
-    "repo": "KBRmau/linkedin-profile-optimizer",
+    "repo": "langchain-ai/langchainjs",
     "branch": "main",
-    "language": "Python",
-    "description": "optimize your linkedin"
+    "language": "TypeScript",
+    "description": "🦜🔗 Build context-aware reasoning applications"
   }
 ]
