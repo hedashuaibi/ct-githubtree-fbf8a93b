@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Autumn-27/ARTEX",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI 自主渗透测试系统"
-  },
-  {
-    "repo": "J2TEAM/vibe.j2team.org",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
-  },
-  {
-    "repo": "jackwener/xiaohongshu-cli",
+    "repo": "nftechie/stonkfly",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+    "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions."
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
-  },
-  {
-    "repo": "alchaincyf/deepseek-v4-deep-dive",
-    "branch": "main",
-    "language": "HTML",
-    "description": "DeepSeek V4 深度解读 · 73 页 PPT + 20 分钟讲稿 + 发布动画 · Designed with huashu-design"
-  },
-  {
-    "repo": "SuperCmdLabs/SuperCmd",
+    "repo": "tailwindlabs/headlessui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "What Apple Intelligence should have been"
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
   },
   {
-    "repo": "nagisanzenin/skyclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "Eronred/expo-agent-spinners",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
-  },
-  {
-    "repo": "Flowseal/tg-ws-proxy",
+    "repo": "sharonubsyq/trading-view-indicator-extension",
     "branch": "main",
     "language": "Python",
-    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+    "description": ""
   },
   {
-    "repo": "yvgude/lean-ctx",
+    "repo": "apkclaw-team/ApkClaw",
     "branch": "main",
-    "language": "Rust",
-    "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies."
+    "language": "Kotlin",
+    "description": ""
   },
   {
-    "repo": "cs50victor/claude-code-teams-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "use claude code's agent teams orchestraction with any harness"
-  },
-  {
-    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
-  },
-  {
-    "repo": "steipete/birdclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
-  },
-  {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
+    "repo": "f/agentlytics",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
   },
   {
-    "repo": "altstackHQ/altstack-data",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
-  },
-  {
-    "repo": "mvanhorn/last30days-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
-  },
-  {
-    "repo": "influxdata/telegraf",
+    "repo": "FiloSottile/mkcert",
     "branch": "master",
     "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
   },
   {
-    "repo": "bitjaru/styleseed",
+    "repo": "HKUDS/OpenHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenHarness: Open Agent Harness"
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
+  },
+  {
+    "repo": "apple/swift-log",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Logging API for Swift"
+  },
+  {
+    "repo": "tw93/Kaku",
+    "branch": "main",
+    "language": "Rust",
+    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+  },
+  {
+    "repo": "glommer/cachebro",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Design engine that makes AI code like a UI/UX designer. Pick any brand skin, get professional UI."
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
   },
   {
-    "repo": "aarondfrancis/counselors",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fan out prompts to multiple AI coding agents in parallel"
-  },
-  {
-    "repo": "drivelineresearch/autoresearch-claude-code",
+    "repo": "Alamofire/Alamofire",
     "branch": "master",
-    "language": "Python",
-    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
+    "language": "Swift",
+    "description": "Elegant HTTP Networking in Swift"
   },
   {
-    "repo": "spotipy-dev/spotipy",
+    "repo": "mosaxiv/clawlet",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight Personal AI Assistant"
+  },
+  {
+    "repo": "jgraph/drawio",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
+  },
+  {
+    "repo": "neovim/neovim",
     "branch": "master",
-    "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
   },
   {
-    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
+    "repo": "761696148/Game-Map-Tracker",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "juliangarnier/anime",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript animation engine"
+  },
+  {
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "alash3al/stash",
+    "branch": "main",
+    "language": "Go",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
+  },
+  {
+    "repo": "wenqingyu/ralphy-openspec",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
+    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
   },
   {
-    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "repo": "mksglu/claude-context-mode",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Stop losing context to large outputs."
+  },
+  {
+    "repo": "phuryn/claude-usage",
     "branch": "main",
     "language": "Python",
-    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
+  },
+  {
+    "repo": "Emanuele-web04/remodex",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
+  },
+  {
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   }
 ]
