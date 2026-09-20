@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nftechie/stonkfly",
-    "branch": "main",
-    "language": "Python",
-    "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions."
-  },
-  {
-    "repo": "tailwindlabs/headlessui",
+    "repo": "ddcat-ai/open-ai-canvas",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+    "description": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。"
   },
   {
-    "repo": "sharonubsyq/trading-view-indicator-extension",
+    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
     "branch": "main",
     "language": "Python",
+    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
+  },
+  {
+    "repo": "gofsnotify/fsnotify",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cross-platform file system notifications for Go."
+  },
+  {
+    "repo": "angieruiz17/claude-fintech-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production"
+  },
+  {
+    "repo": "vorpus/performativeUI",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "apkclaw-team/ApkClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "f/agentlytics",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
-  },
-  {
-    "repo": "FiloSottile/mkcert",
-    "branch": "master",
-    "language": "Go",
-    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
-  },
-  {
-    "repo": "HKUDS/OpenHarness",
+    "repo": "usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm",
     "branch": "main",
     "language": "Python",
-    "description": "OpenHarness: Open Agent Harness"
+    "description": "Auto-place towers, auto-farm, and auto-upgrade for Tower Defense Simulator. Automatically place towers, upgrade, and survive waves."
   },
   {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
+    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+    "branch": "main",
     "language": "Python",
-    "description": "Always know what to expect from your data."
+    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
   },
   {
-    "repo": "apple/swift-log",
+    "repo": "sinanata/unity-ui-document-design-system",
     "branch": "main",
-    "language": "Swift",
-    "description": "A Logging API for Swift"
+    "language": "C#",
+    "description": "A drop-in design system for Unity 6 UI Toolkit (UIDocument + UXML + USS). Tokens, components, icons, mobile responsiveness, and a runtime helper — all themed dark, all keyboard-and-touch-ready, all editable from one stylesheet."
   },
   {
-    "repo": "tw93/Kaku",
+    "repo": "khwarij/DBD-AutoGrind-Trainer-2026-Mega",
     "branch": "main",
-    "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "glommer/cachebro",
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+  },
+  {
+    "repo": "torvalds/ScrollWheel",
+    "branch": "main",
+    "language": "C",
+    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
+  },
+  {
+    "repo": "bytedance/Bernini",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+  },
+  {
+    "repo": "Fullive-AI/Anima",
+    "branch": "main",
+    "language": "Python",
+    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
+  },
+  {
+    "repo": "chaitanyagiri/munder-difflin",
     "branch": "main",
     "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
+    "description": "local multi-agent harness"
   },
   {
-    "repo": "Alamofire/Alamofire",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
-  },
-  {
-    "repo": "mosaxiv/clawlet",
+    "repo": "Jia-Ethan/codex-keysmith",
     "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant"
+    "language": "Python",
+    "description": "Codex CLI instruction-file installer for local configuration"
   },
   {
-    "repo": "jgraph/drawio",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "draw.io is a JavaScript, client-side editor for general diagramming."
+    "repo": "Eynzof/hermes-agent-cn-desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides."
   },
   {
-    "repo": "neovim/neovim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
+    "repo": "contact-daniel-me/FileZilla_FTP_Automation",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-sync local and remote directories via FTP/SFTP. Sync folders, upload at set times, backup remote files, and manage transfer queue. Automate file transfers."
   },
   {
-    "repo": "761696148/Game-Map-Tracker",
+    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "ryancameron555/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Quantum",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your efficiency in Pet Simulator 99 with the Quantum auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
+  },
+  {
+    "repo": "oxbshw/watch-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP."
+  },
+  {
+    "repo": "RennAkira/spicy-monopoly",
+    "branch": "main",
+    "language": "Python",
+    "description": "和你的 AI 一起玩的双人棋盘小游戏 · 18+ （A two-player board game you play with your AI — dice, tiles, spicy tasks, all run by code (18+））"
+  },
+  {
+    "repo": "vannyben7/course-learning-workspace",
     "branch": "main",
     "language": "Python",
     "description": ""
-  },
-  {
-    "repo": "juliangarnier/anime",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript animation engine"
-  },
-  {
-    "repo": "CalyxOS/calyxos",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
-  },
-  {
-    "repo": "alash3al/stash",
-    "branch": "main",
-    "language": "Go",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
-  },
-  {
-    "repo": "wenqingyu/ralphy-openspec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
-  },
-  {
-    "repo": "mksglu/claude-context-mode",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
-  },
-  {
-    "repo": "phuryn/claude-usage",
-    "branch": "main",
-    "language": "Python",
-    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
-  },
-  {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   }
 ]
