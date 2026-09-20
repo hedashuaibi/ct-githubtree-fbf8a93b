@@ -1,146 +1,146 @@
 [
   {
-    "repo": "op7418/logo-generator-skill",
+    "repo": "Autumn-27/ARTEX",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI 自主渗透测试系统"
+  },
+  {
+    "repo": "J2TEAM/vibe.j2team.org",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
+  },
+  {
+    "repo": "jackwener/xiaohongshu-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+  },
+  {
+    "repo": "apple/python-apple-fm-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "alchaincyf/deepseek-v4-deep-dive",
     "branch": "main",
     "language": "HTML",
-    "description": "logo-generator-skill"
+    "description": "DeepSeek V4 深度解读 · 73 页 PPT + 20 分钟讲稿 + 发布动画 · Designed with huashu-design"
   },
   {
-    "repo": "Nai64/Nai64Patches",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Morphe patches: Ads Free Rewards, No Ads, Remove telemetry and more."
-  },
-  {
-    "repo": "apple/swift-algorithms",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
-  },
-  {
-    "repo": "open-webui/open-webui",
-    "branch": "main",
-    "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
-  },
-  {
-    "repo": "trailofbits/algo",
-    "branch": "master",
-    "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
-  },
-  {
-    "repo": "psf/black",
-    "branch": "main",
-    "language": "Python",
-    "description": "The uncompromising Python code formatter"
-  },
-  {
-    "repo": "nextui-org/nextui",
+    "repo": "SuperCmdLabs/SuperCmd",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+    "description": "What Apple Intelligence should have been"
   },
   {
-    "repo": "cilium/hubble",
+    "repo": "nagisanzenin/skyclaw",
     "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+    "language": "Rust",
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
   },
   {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
-  },
-  {
-    "repo": "adobe/react-spectrum",
+    "repo": "rustwasm/wasm-bindgen",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
   },
   {
-    "repo": "software-mansion/react-native-gesture-handler",
+    "repo": "Eronred/expo-agent-spinners",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
   },
   {
-    "repo": "brackets-cont/brackets",
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "yvgude/lean-ctx",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies."
+  },
+  {
+    "repo": "cs50victor/claude-code-teams-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "use claude code's agent teams orchestraction with any harness"
+  },
+  {
+    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
+  },
+  {
+    "repo": "steipete/birdclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stores all your tweets nicely claw-able for agents."
+  },
+  {
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
     "branch": "master",
     "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
   },
   {
-    "repo": "immich-app/immich",
+    "repo": "altstackHQ/altstack-data",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "High performance self-hosted photo and video management solution."
+    "language": "Shell",
+    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
   },
   {
-    "repo": "safe-global/safe-contracts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Safe allows secure management of blockchain assets."
-  },
-  {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
-  },
-  {
-    "repo": "theo-kirby/tmax",
+    "repo": "mvanhorn/last30days-skill",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
   },
   {
-    "repo": "kysely-org/kysely",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A type-safe TypeScript SQL query builder"
-  },
-  {
-    "repo": "vercel/hyper",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
-  },
-  {
-    "repo": "weaviate/weaviate",
+    "repo": "influxdata/telegraf",
     "branch": "master",
     "language": "Go",
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
   },
   {
-    "repo": "Asilcanasil/Hent-AI-Synthesis-Engine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 Ultimate Creative AI Image Generation Toolkit for Artists"
-  },
-  {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
-  },
-  {
-    "repo": "actix/actix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
-  },
-  {
-    "repo": "linkerd/linkerd2",
-    "branch": "main",
-    "language": "Go",
-    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
-  },
-  {
-    "repo": "elder-plinius/T3MP3ST",
+    "repo": "bitjaru/styleseed",
     "branch": "main",
     "language": "TypeScript",
-    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+    "description": "Design engine that makes AI code like a UI/UX designer. Pick any brand skin, get professional UI."
+  },
+  {
+    "repo": "aarondfrancis/counselors",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fan out prompts to multiple AI coding agents in parallel"
+  },
+  {
+    "repo": "drivelineresearch/autoresearch-claude-code",
+    "branch": "master",
+    "language": "Python",
+    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
+  },
+  {
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A light weight Python library for the Spotify Web API"
+  },
+  {
+    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
+  },
+  {
+    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
   }
 ]
