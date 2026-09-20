@@ -1,8 +1,8 @@
 {
-  "repo": "hr98w/jev-visual",
+  "repo": "sutro-sh/jev-align",
   "branch": "main",
   "language": "Python",
-  "description": "An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos.",
-  "stars": 141,
-  "forks": 20
+  "description": "Build calibrated AI classifiers from human feedback using Jev and GEPA.",
+  "stars": 145,
+  "forks": 11
 }

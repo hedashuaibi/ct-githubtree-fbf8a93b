@@ -1,146 +1,146 @@
 [
   {
-    "repo": "amanning3390/deepswarm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ahmadawais/chartli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
-  },
-  {
-    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
-  },
-  {
-    "repo": "alchaincyf/deepseek-v4-deep-dive",
+    "repo": "op7418/logo-generator-skill",
     "branch": "main",
     "language": "HTML",
-    "description": "DeepSeek V4 深度解读 · 73 页 PPT + 20 分钟讲稿 + 发布动画 · Designed with huashu-design"
+    "description": "logo-generator-skill"
   },
   {
-    "repo": "chekusu/wanman",
+    "repo": "Nai64/Nai64Patches",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
-  },
-  {
-    "repo": "T3-Content/quipslop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "tompftampffern/polyseed-monero",
-    "branch": "main",
-    "language": "C",
-    "description": "Polyseed Monero"
-  },
-  {
-    "repo": "kewonit/aeris",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Aeris is a real-time 3D flight radar for the web"
-  },
-  {
-    "repo": "apache/httpcomponents-client",
-    "branch": "master",
-    "language": "Java",
-    "description": "Mirror of Apache HttpClient"
-  },
-  {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
     "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
+    "description": "Morphe patches: Ads Free Rewards, No Ads, Remove telemetry and more."
   },
   {
-    "repo": "browser-use/browser-harness",
+    "repo": "apple/swift-algorithms",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Commonly used sequence and collection algorithms for Swift"
+  },
+  {
+    "repo": "open-webui/open-webui",
     "branch": "main",
     "language": "Python",
-    "description": "Self-healing browser harness that enables LLMs to complete any task."
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
   },
   {
-    "repo": "badaramoni/wave-field-llm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
-  },
-  {
-    "repo": "jmoiron/sqlx",
+    "repo": "trailofbits/algo",
     "branch": "master",
-    "language": "Go",
-    "description": "general purpose extensions to golang's database/sql"
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
   },
   {
-    "repo": "missuo/koe",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "A zero-GUI macOS voice input tool. Press a hotkey, speak, and the corrected text is pasted into whatever app you're using."
-  },
-  {
-    "repo": "honnibal/claude-skills",
+    "repo": "psf/black",
     "branch": "main",
     "language": "Python",
-    "description": "Claude skills I'm experimenting with. Please review carefully before use."
+    "description": "The uncompromising Python code formatter"
   },
   {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
-  },
-  {
-    "repo": "dezgit2025/auto-memory",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your AI coding agent never forgets — progressive session recall CLI"
-  },
-  {
-    "repo": "lobehub/lobe-chat",
+    "repo": "nextui-org/nextui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
   },
   {
-    "repo": "xataio/xata",
+    "repo": "cilium/hubble",
     "branch": "main",
-    "language": "Go",
-    "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
   },
   {
-    "repo": "matrix-org/synapse",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Synapse: Matrix homeserver written in Python/Twisted."
-  },
-  {
-    "repo": "espressif/arduino-esp32",
+    "repo": "sqlite/sqlite",
     "branch": "master",
-    "language": "C++",
-    "description": "Arduino core for the ESP32"
+    "language": "C",
+    "description": "Official Git mirror of the SQLite source tree"
   },
   {
-    "repo": "vector-im/hydrogen-web",
-    "branch": "master",
+    "repo": "adobe/react-spectrum",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Lightweight matrix client with legacy and mobile browser support"
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
   },
   {
-    "repo": "epiral/weixin-bot",
+    "repo": "software-mansion/react-native-gesture-handler",
     "branch": "main",
-    "language": "Python",
-    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
   },
   {
-    "repo": "dazzyddos/ClickOnceBlobber",
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+  },
+  {
+    "repo": "immich-app/immich",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High performance self-hosted photo and video management solution."
+  },
+  {
+    "repo": "safe-global/safe-contracts",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Safe allows secure management of blockchain assets."
+  },
+  {
+    "repo": "0Voice/Expert_Readed_Books",
+    "branch": "master",
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+  },
+  {
+    "repo": "theo-kirby/tmax",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "kysely-org/kysely",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A type-safe TypeScript SQL query builder"
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+  },
+  {
+    "repo": "Asilcanasil/Hent-AI-Synthesis-Engine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "2026 Ultimate Creative AI Image Generation Toolkit for Artists"
+  },
+  {
+    "repo": "kubernetes/kompose",
+    "branch": "master",
+    "language": "Go",
+    "description": "Convert Compose to Kubernetes"
+  },
+  {
+    "repo": "actix/actix",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actor framework for Rust."
+  },
+  {
+    "repo": "linkerd/linkerd2",
+    "branch": "main",
+    "language": "Go",
+    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+  },
+  {
+    "repo": "elder-plinius/T3MP3ST",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
   }
 ]
