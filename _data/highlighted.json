@@ -1,8 +1,8 @@
 {
-  "repo": "logan-markewich/jeff",
+  "repo": "razorback16/openjev",
   "branch": "main",
   "language": "Python",
-  "description": "A self-hosted drop-in replacement for TypeSafe's jev, powered by GliFormer.",
-  "stars": 195,
-  "forks": 12
+  "description": "Open, Jev-compatible System One decision server on DiffusionGemma",
+  "stars": 270,
+  "forks": 23
 }
