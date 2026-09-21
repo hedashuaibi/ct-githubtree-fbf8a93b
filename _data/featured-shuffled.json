@@ -1,146 +1,146 @@
 [
   {
-    "repo": "duoan/TorchCode",
+    "repo": "cnlimiter/codex-register",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "blknoiz0632/CandyDrop",
+    "repo": "LearnPrompt/cc-harness-skills",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill."
+    "language": "Python",
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
   },
   {
-    "repo": "170-carry/codex-tools",
+    "repo": "standardagents/ssh-clipboard",
     "branch": "main",
     "language": "Rust",
-    "description": "快捷切换codex 账号以及监控codex用量的工具"
+    "description": "Native encrypted clipboard sync over SSH for macOS and Linux"
   },
   {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
-    "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
-  },
-  {
-    "repo": "microsoft/calculator",
+    "repo": "zeroclaw-labs/zeroclaw",
     "branch": "main",
-    "language": "C++",
-    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
+    "language": "Rust",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
   },
   {
-    "repo": "requests/requests",
+    "repo": "ochyai/vibe-local",
     "branch": "main",
     "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
+    "description": "Free AI coding environment: Ollama + Python"
   },
   {
-    "repo": "poteto/hiring-without-whiteboards",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "⭐️  Companies that don't have a broken hiring process"
+    "repo": "DatanoiseTV/tinyice",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
   },
   {
-    "repo": "huggingface/trl",
+    "repo": "Nasiko-Labs/nasiko",
     "branch": "main",
     "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
+    "description": "AI-powered development platform for the future"
   },
   {
-    "repo": "GoogleContainerTools/jib",
-    "branch": "master",
-    "language": "Java",
-    "description": "🏗 Build container images for your Java applications."
-  },
-  {
-    "repo": "Shpigford/chops",
+    "repo": "zachlatta/freeflow",
     "branch": "main",
     "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
   },
   {
-    "repo": "Zouuup/landrun",
+    "repo": "IAmUnbounded/devctx",
     "branch": "main",
-    "language": "Go",
-    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
   },
   {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "wasmerio/wasmer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
     "branch": "main",
     "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
   },
   {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
     "branch": "main",
     "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+    "description": ""
   },
   {
-    "repo": "code-yeongyu/not-claude-code-emulator",
-    "branch": "master",
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE"
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
   },
   {
-    "repo": "go-gorm/gorm",
+    "repo": "aikhe/wrapped.nvim",
     "branch": "master",
-    "language": "Go",
-    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+    "language": "Lua",
+    "description": "View your Neovim configuration insights, history, and heatmaps."
   },
   {
-    "repo": "pion/handoff",
-    "branch": "main",
-    "language": "Go",
-    "description": "Start WebRTC in the browser—run it somewhere else"
-  },
-  {
-    "repo": "verialabs/ctf-agent",
+    "repo": "therealXiaomanChu/ex-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+    "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）."
   },
   {
-    "repo": "hashicorp/nomad",
+    "repo": "Johnixr/claude-code-wechat-channel",
     "branch": "main",
-    "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
-  },
-  {
-    "repo": "apache/superset",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
   },
   {
-    "repo": "nathaniel329/polymarket-trading-bot",
+    "repo": "ckckck/UltimateSearchSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+  },
+  {
+    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
+    "branch": "main",
+    "language": "C++",
+    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
+  },
+  {
+    "repo": "slowmist/openclaw-security-practice-guide",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
+  },
+  {
+    "repo": "arvohealth-ai/OpenVitals",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your health never sleeps."
+  },
+  {
+    "repo": "EurekaClaw/EurekaClaw",
     "branch": "main",
     "language": "Python",
-    "description": "polymarket trading bot"
+    "description": "The official repo of EurekaClaw"
   },
   {
-    "repo": "webpack-contrib/style-loader",
-    "branch": "master",
+    "repo": "qaml-ai/pi-worker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "marswei/seaseed-clawerse",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Style Loader"
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+  },
+  {
+    "repo": "NomaDamas/k-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
+  },
+  {
+    "repo": "Infatoshi/metal-mc-terrain",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "logicrw/awesome-jev-projects",
+  "repo": "Heman10x-NGU/openJev-verdict-2.0",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-  "stars": 226,
-  "forks": 19
+  "language": "Python",
+  "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
+  "stars": 225,
+  "forks": 33
 }
