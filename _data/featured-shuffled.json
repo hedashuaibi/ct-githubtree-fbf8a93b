@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ddcat-ai/open-ai-canvas",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。"
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
   },
   {
-    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
-  },
-  {
-    "repo": "gofsnotify/fsnotify",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cross-platform file system notifications for Go."
-  },
-  {
-    "repo": "angieruiz17/claude-fintech-skills",
+    "repo": "blknoiz0632/CandyDrop",
     "branch": "main",
     "language": "JavaScript",
-    "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production"
+    "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill."
   },
   {
-    "repo": "vorpus/performativeUI",
+    "repo": "170-carry/codex-tools",
     "branch": "main",
+    "language": "Rust",
+    "description": "快捷切换codex 账号以及监控codex用量的工具"
+  },
+  {
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
+    "branch": "master",
+    "language": "Python",
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+  },
+  {
+    "repo": "microsoft/calculator",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "poteto/hiring-without-whiteboards",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "⭐️  Companies that don't have a broken hiring process"
+  },
+  {
+    "repo": "huggingface/trl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "GoogleContainerTools/jib",
+    "branch": "master",
+    "language": "Java",
+    "description": "🏗 Build container images for your Java applications."
+  },
+  {
+    "repo": "Shpigford/chops",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+  },
+  {
+    "repo": "Zouuup/landrun",
+    "branch": "main",
+    "language": "Go",
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
+    "branch": "main",
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+  },
+  {
+    "repo": "wasmerio/wasmer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
+  },
+  {
+    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+  },
+  {
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "branch": "main",
+    "language": "Python",
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+  },
+  {
+    "repo": "code-yeongyu/not-claude-code-emulator",
+    "branch": "master",
     "language": "TypeScript",
-    "description": ""
+    "description": "ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE"
   },
   {
-    "repo": "usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm",
+    "repo": "go-gorm/gorm",
+    "branch": "master",
+    "language": "Go",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+  },
+  {
+    "repo": "pion/handoff",
+    "branch": "main",
+    "language": "Go",
+    "description": "Start WebRTC in the browser—run it somewhere else"
+  },
+  {
+    "repo": "verialabs/ctf-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-place towers, auto-farm, and auto-upgrade for Tower Defense Simulator. Automatically place towers, upgrade, and survive waves."
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
   },
   {
-    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+    "repo": "hashicorp/nomad",
     "branch": "main",
-    "language": "Python",
-    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+    "language": "Go",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
   },
   {
-    "repo": "sinanata/unity-ui-document-design-system",
-    "branch": "main",
-    "language": "C#",
-    "description": "A drop-in design system for Unity 6 UI Toolkit (UIDocument + UXML + USS). Tokens, components, icons, mobile responsiveness, and a runtime helper — all themed dark, all keyboard-and-touch-ready, all editable from one stylesheet."
-  },
-  {
-    "repo": "khwarij/DBD-AutoGrind-Trainer-2026-Mega",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
-  },
-  {
-    "repo": "torvalds/ScrollWheel",
-    "branch": "main",
-    "language": "C",
-    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
-  },
-  {
-    "repo": "bytedance/Bernini",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
-  },
-  {
-    "repo": "Fullive-AI/Anima",
-    "branch": "main",
-    "language": "Python",
-    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
-  },
-  {
-    "repo": "chaitanyagiri/munder-difflin",
-    "branch": "main",
+    "repo": "apache/superset",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "local multi-agent harness"
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
   },
   {
-    "repo": "Jia-Ethan/codex-keysmith",
+    "repo": "nathaniel329/polymarket-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "Codex CLI instruction-file installer for local configuration"
+    "description": "polymarket trading bot"
   },
   {
-    "repo": "Eynzof/hermes-agent-cn-desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides."
-  },
-  {
-    "repo": "contact-daniel-me/FileZilla_FTP_Automation",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-sync local and remote directories via FTP/SFTP. Sync folders, upload at set times, backup remote files, and manage transfer queue. Automate file transfers."
-  },
-  {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "ryancameron555/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Quantum",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your efficiency in Pet Simulator 99 with the Quantum auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
-  },
-  {
-    "repo": "oxbshw/watch-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP."
-  },
-  {
-    "repo": "RennAkira/spicy-monopoly",
-    "branch": "main",
-    "language": "Python",
-    "description": "和你的 AI 一起玩的双人棋盘小游戏 · 18+ （A two-player board game you play with your AI — dice, tiles, spicy tasks, all run by code (18+））"
-  },
-  {
-    "repo": "vannyben7/course-learning-workspace",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "webpack-contrib/style-loader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Style Loader"
   }
 ]
