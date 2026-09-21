@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cnlimiter/codex-register",
+    "repo": "JeanDupuis68/polymarket-copytrade",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🌿polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading"
+  },
+  {
+    "repo": "ksimback/hermes-ecosystem",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Comprehensive ecosystem map for Hermes Agent by Nous Research — 80+ tools, skills, plugins, and integrations"
+  },
+  {
+    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "branch": "main",
+    "language": "C",
+    "description": "Unlocking qualcomm bootloader via gbl exploit."
+  },
+  {
+    "repo": "HBAI-Ltd/Toonflow-app",
     "branch": "master",
-    "language": "Python",
-    "description": ""
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
   },
   {
-    "repo": "LearnPrompt/cc-harness-skills",
+    "repo": "openperf/brief",
     "branch": "main",
-    "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
+    "language": "TypeScript",
+    "description": "AI Agent Service Agreement"
   },
   {
-    "repo": "standardagents/ssh-clipboard",
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "graphql/graphql-js",
     "branch": "main",
-    "language": "Rust",
-    "description": "Native encrypted clipboard sync over SSH for macOS and Linux"
+    "language": "TypeScript",
+    "description": "A reference implementation of GraphQL for JavaScript"
   },
   {
-    "repo": "zeroclaw-labs/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
-  },
-  {
-    "repo": "ochyai/vibe-local",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free AI coding environment: Ollama + Python"
-  },
-  {
-    "repo": "DatanoiseTV/tinyice",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
-  },
-  {
-    "repo": "Nasiko-Labs/nasiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered development platform for the future"
-  },
-  {
-    "repo": "zachlatta/freeflow",
+    "repo": "IronsideXXVI/Hacker-News",
     "branch": "main",
     "language": "Swift",
-    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
-  },
-  {
-    "repo": "IAmUnbounded/devctx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
-  },
-  {
-    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
-    "branch": "main",
-    "language": "C++",
-    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
-  },
-  {
-    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "aikhe/wrapped.nvim",
+    "repo": "ponponon/claude_code_src",
     "branch": "master",
-    "language": "Lua",
-    "description": "View your Neovim configuration insights, history, and heatmaps."
-  },
-  {
-    "repo": "therealXiaomanChu/ex-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）."
-  },
-  {
-    "repo": "Johnixr/claude-code-wechat-channel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
-  },
-  {
-    "repo": "ckckck/UltimateSearchSkill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
-  },
-  {
-    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
-    "branch": "main",
-    "language": "C++",
-    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
-  },
-  {
-    "repo": "slowmist/openclaw-security-practice-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
-  },
-  {
-    "repo": "arvohealth-ai/OpenVitals",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your health never sleeps."
-  },
-  {
-    "repo": "EurekaClaw/EurekaClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repo of EurekaClaw"
-  },
-  {
-    "repo": "qaml-ai/pi-worker",
-    "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "marswei/seaseed-clawerse",
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+    "language": "Rust",
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "NomaDamas/k-skill",
+    "repo": "avalontm/openpos",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
+    "language": "TypeScript",
+    "description": "Sistema de punto de venta (POS) basado en terminal (TUI) de código abierto. Construido con Bun, Ink (React para terminal), Zustand y Drizzle ORM."
   },
   {
-    "repo": "Infatoshi/metal-mc-terrain",
+    "repo": "h4ckf0r0day/obscura",
     "branch": "main",
-    "language": "Objective-C",
-    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
+    "language": "Rust",
+    "description": "The headless browser for AI agents and web scraping"
+  },
+  {
+    "repo": "linuxhsj/openclaw-zero-token",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "免token使用openclaw  Use openclaw without a token"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "cloudflare/pingora",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A library for building fast, reliable and evolvable network services."
+  },
+  {
+    "repo": "confluentinc/kafka-rest",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent REST Proxy for Kafka"
+  },
+  {
+    "repo": "rzru/nightingale",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Machine learning powered Karaoke app (with scores!)"
+  },
+  {
+    "repo": "vuejs/vue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  },
+  {
+    "repo": "babel/babel-loader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "📦 Babel loader for webpack"
+  },
+  {
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "xataio/xata",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+  },
+  {
+    "repo": "jasmine/jasmine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Simple JavaScript testing framework for browsers and node.js"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
+    "branch": "main",
+    "language": "ShaderLab",
+    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
   }
 ]
