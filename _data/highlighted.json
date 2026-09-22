@@ -1,8 +1,8 @@
 {
-  "repo": "kloxeld/xscrape",
+  "repo": "Rizzo-AI-Academy/rizzo-flow",
   "branch": "main",
   "language": "Python",
-  "description": "Async Python client for collecting public data from X (Twitter) - search, profiles, threads, replies, and media. Built-in account rotation, adaptive rate limiting, and export to JSON/CSV/SQLite.",
-  "stars": 256,
-  "forks": 34
+  "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+  "stars": 297,
+  "forks": 13
 }

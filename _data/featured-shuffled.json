@@ -1,146 +1,146 @@
 [
   {
-    "repo": "aikorea/awesome-rl",
-    "branch": "master",
-    "language": "Other",
-    "description": "Reinforcement learning resources curated"
-  },
-  {
-    "repo": "zhulin025/Codex-QQ-Skin",
+    "repo": "Capminal/capminal-contracts",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "一款内置复古 QQ 风格外观的 Codex 皮肤生成器。"
+    "language": "Solidity",
+    "description": "Capminal Smart Contracts Repository"
   },
   {
-    "repo": "grafana/grafana",
+    "repo": "opengeos/GeoLibre",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
   },
   {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
+    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
+  },
+  {
+    "repo": "pattieatengco27671636211/kms-pico-latest-m4",
+    "branch": "main",
     "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
   },
   {
-    "repo": "HBAI-Ltd/Toonflow-app",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
-  },
-  {
-    "repo": "knative/eventing",
+    "repo": "trynullsec/nullsec-s1",
     "branch": "main",
-    "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
+    "language": "Python",
+    "description": "Security-native LLM system for AI-generated application security."
   },
   {
-    "repo": "refinedev/refine",
+    "repo": "jdevalk/specification.website",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+  },
+  {
+    "repo": "wojtczyk/trust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "TRUST – Coding Rust like it's 1989"
+  },
+  {
+    "repo": "thebriangao/pebble",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
+  },
+  {
+    "repo": "azura64bit/Hardware_Info_Viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Display detailed hardware information: CPU, motherboard, RAM, GPU, storage, and peripherals. More detailed than built-in system info."
+  },
+  {
+    "repo": "wwe-dog/ppt-image2-editable-rebuild",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
+  },
+  {
+    "repo": "asad7coder/Boot_Time_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Analyze and reduce Windows boot time. See which drivers and services delay startup, and manage them easily. Speed up your computer."
+  },
+  {
+    "repo": "Mak5er/AirCard-iOS",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple Wallet card skins and lock screen passcode themes on iOS 27."
+  },
+  {
+    "repo": "usamafaheemAhmed/Palworld_Buddy_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-capture, infinite pal spheres, and instant breeding for Palworld. Throw spheres automatically, unlimited spheres, breed pals instantly, and collect resources."
+  },
+  {
+    "repo": "serder8866/Universal_USB_Boot_Maker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
+  },
+  {
+    "repo": "deepmind/alphafold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
+  },
+  {
+    "repo": "OpenYSM/OpenYSM",
+    "branch": "main",
+    "language": "Java",
+    "description": "Yes-Steve-Model idea ready."
+  },
+  {
+    "repo": "rohanarun/phoneclaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone."
+  },
+  {
+    "repo": "ant-design/ant-design-pro",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
+    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
   },
   {
-    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "repo": "PenglongHuang/chinese-novelist-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "让 AI 为你写一部完整的中文小说 - AI 驱动的中文小说创作助手 - 超过20章的小说，几分钟全稿完成    Claude Code Skill：自动创作分章节中文小说，每章悬念钩子"
+  },
+  {
+    "repo": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
     "branch": "main",
-    "language": "Shell",
-    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
+    "language": "Python",
+    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
   },
   {
-    "repo": "openscad/openscad",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "apache/groovy",
+    "repo": "rest-assured/rest-assured",
     "branch": "master",
     "language": "Java",
-    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
+    "description": "Java DSL for easy testing of REST services"
   },
   {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "gemini-cli-extensions/ralph",
     "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "HKUDS/nanobot",
-    "branch": "main",
-    "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
-  },
-  {
-    "repo": "bregman-arie/devops-exercises",
-    "branch": "master",
-    "language": "Python",
-    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
-  },
-  {
-    "repo": "PyCQA/flake8",
-    "branch": "main",
-    "language": "Python",
-    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
-  },
-  {
-    "repo": "zsh-users/zsh-syntax-highlighting",
-    "branch": "master",
     "language": "Shell",
-    "description": "Fish shell like syntax highlighting for Zsh."
+    "description": "Gemini CLI extension for Ralph loops"
   },
   {
-    "repo": "surrealdb/surrealdb",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
-  },
-  {
-    "repo": "uber-go/zap",
-    "branch": "master",
-    "language": "Go",
-    "description": "Blazing fast, structured, leveled logging in Go."
-  },
-  {
-    "repo": "FranckyB/Voice-Clone-Studio",
+    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
     "branch": "main",
     "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
   },
   {
-    "repo": "tw93/Kaku",
+    "repo": "Gloridust/WechatOnCloud",
     "branch": "main",
-    "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
-  },
-  {
-    "repo": "Zehong-Ma/PixelGen",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
-  },
-  {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
-  },
-  {
-    "repo": "actix/actix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
-  },
-  {
-    "repo": "zeromicro/go-zero",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+    "language": "TypeScript",
+    "description": "云微WOC，云微信，自由连接"
   }
 ]
