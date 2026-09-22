@@ -1,146 +1,146 @@
 [
   {
-    "repo": "k2-fsa/OmniVoice",
+    "repo": "aikorea/awesome-rl",
     "branch": "master",
-    "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+    "language": "Other",
+    "description": "Reinforcement learning resources curated"
   },
   {
-    "repo": "borkdude/cream",
-    "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
-  },
-  {
-    "repo": "espressif/esp-idf",
-    "branch": "master",
-    "language": "C",
-    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
-  },
-  {
-    "repo": "jarodise/pdf2epub-paddle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "hzm0321/real-time-fund",
+    "repo": "zhulin025/Codex-QQ-Skin",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基金实时估值查看"
+    "description": "一款内置复古 QQ 风格外观的 Codex 皮肤生成器。"
   },
   {
-    "repo": "terausss/polymarket-copy-trading-bot",
+    "repo": "grafana/grafana",
     "branch": "main",
-    "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+    "language": "TypeScript",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
   },
   {
-    "repo": "openclaw/clawsweeper",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
+    "repo": "thangchung/awesome-dotnet-core",
+    "branch": "master",
+    "language": "C#",
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
   },
   {
-    "repo": "xr843/Master-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Chinese Buddhist Master-skill powered by FoJin — 基于佛教经典文献的汉传祖师大德教学角色生成器"
+    "repo": "HBAI-Ltd/Toonflow-app",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
   },
   {
-    "repo": "ford26321works003/sora2API",
-    "branch": "main",
-    "language": "Python",
-    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
-  },
-  {
-    "repo": "facebookresearch/xformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hackable and optimized Transformers building blocks, supporting a composable construction."
-  },
-  {
-    "repo": "perplexityai/numbat",
+    "repo": "knative/eventing",
     "branch": "main",
     "language": "Go",
-    "description": "Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction"
+    "description": "Event-driven application platform for Kubernetes"
   },
   {
-    "repo": "kunchenguid/lavish-axi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
-  },
-  {
-    "repo": "meuttamsharma/RAM_Cleaner___Optimizer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage."
-  },
-  {
-    "repo": "alchaincyf/fanbox",
+    "repo": "refinedev/refine",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "SageClub/hyperliquid-trading-bot",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
+    "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
   },
   {
-    "repo": "basionwang-bot/HermesPet",
+    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
     "branch": "main",
-    "language": "Swift",
-    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）"
+    "language": "Shell",
+    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
   },
   {
-    "repo": "anthropics/cwc-workshops",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Jakubantalik/metal-fx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Animated WebGL liquid-metal effect for React buttons and UI components"
-  },
-  {
-    "repo": "nickvasilescu/hermes-desktop-os1",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts"
-  },
-  {
-    "repo": "Klotzkette/claude-fuer-deutsches-recht",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
-  },
-  {
-    "repo": "0xSero/codex-shim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
-  },
-  {
-    "repo": "ahalpha/Snowbreak-AnitAmend",
+    "repo": "openscad/openscad",
     "branch": "master",
-    "language": "Lua",
-    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
+    "language": "C++",
+    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
   },
   {
-    "repo": "ThisIsDara/mhr-cfw-go",
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "apache/groovy",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+  },
+  {
+    "repo": "bregman-arie/devops-exercises",
+    "branch": "master",
+    "language": "Python",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+  },
+  {
+    "repo": "PyCQA/flake8",
+    "branch": "main",
+    "language": "Python",
+    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+  },
+  {
+    "repo": "zsh-users/zsh-syntax-highlighting",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish shell like syntax highlighting for Zsh."
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+  },
+  {
+    "repo": "uber-go/zap",
     "branch": "master",
     "language": "Go",
-    "description": "A local proxy that runs on your machine and forwards traffic through Google."
+    "description": "Blazing fast, structured, leveled logging in Go."
   },
   {
-    "repo": "OpenSquilla/opensquilla",
+    "repo": "FranckyB/Voice-Clone-Studio",
     "branch": "main",
     "language": "Python",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
+    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+  },
+  {
+    "repo": "tw93/Kaku",
+    "branch": "main",
+    "language": "Rust",
+    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+  },
+  {
+    "repo": "Zehong-Ma/PixelGen",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+  },
+  {
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+  },
+  {
+    "repo": "actix/actix",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actor framework for Rust."
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
   }
 ]

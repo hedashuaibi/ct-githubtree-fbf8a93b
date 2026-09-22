@@ -1,8 +1,8 @@
 {
-  "repo": "razorback16/openjev",
+  "repo": "kloxeld/xscrape",
   "branch": "main",
   "language": "Python",
-  "description": "Open, Jev-compatible System One decision server on DiffusionGemma",
-  "stars": 270,
-  "forks": 23
+  "description": "Async Python client for collecting public data from X (Twitter) - search, profiles, threads, replies, and media. Built-in account rotation, adaptive rate limiting, and export to JSON/CSV/SQLite.",
+  "stars": 256,
+  "forks": 34
 }
