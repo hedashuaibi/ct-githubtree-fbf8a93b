@@ -1,8 +1,8 @@
 {
-  "repo": "Mapika/decider",
+  "repo": "qwdwqfwq/topconf-paper-figure-gallery",
   "branch": "main",
   "language": "Python",
-  "description": "A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.",
-  "stars": 306,
-  "forks": 12
+  "description": "A searchable gallery of 2,730 well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025), tagged with Oral / Spotlight / Best-paper tiers.",
+  "stars": 343,
+  "forks": 24
 }
