@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Capminal/capminal-contracts",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "Capminal Smart Contracts Repository"
-  },
-  {
-    "repo": "opengeos/GeoLibre",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
-  },
-  {
-    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
-  },
-  {
-    "repo": "pattieatengco27671636211/kms-pico-latest-m4",
-    "branch": "main",
-    "language": "C#",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
-  },
-  {
-    "repo": "trynullsec/nullsec-s1",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security-native LLM system for AI-generated application security."
-  },
-  {
-    "repo": "jdevalk/specification.website",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
-  },
-  {
-    "repo": "wojtczyk/trust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "TRUST – Coding Rust like it's 1989"
-  },
-  {
-    "repo": "thebriangao/pebble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
-  },
-  {
-    "repo": "azura64bit/Hardware_Info_Viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Display detailed hardware information: CPU, motherboard, RAM, GPU, storage, and peripherals. More detailed than built-in system info."
-  },
-  {
-    "repo": "wwe-dog/ppt-image2-editable-rebuild",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
-  },
-  {
-    "repo": "asad7coder/Boot_Time_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Analyze and reduce Windows boot time. See which drivers and services delay startup, and manage them easily. Speed up your computer."
-  },
-  {
-    "repo": "Mak5er/AirCard-iOS",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Apple Wallet card skins and lock screen passcode themes on iOS 27."
-  },
-  {
-    "repo": "usamafaheemAhmed/Palworld_Buddy_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-capture, infinite pal spheres, and instant breeding for Palworld. Throw spheres automatically, unlimited spheres, breed pals instantly, and collect resources."
-  },
-  {
-    "repo": "serder8866/Universal_USB_Boot_Maker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
-  },
-  {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "OpenYSM/OpenYSM",
-    "branch": "main",
-    "language": "Java",
-    "description": "Yes-Steve-Model idea ready."
-  },
-  {
-    "repo": "rohanarun/phoneclaw",
+    "repo": "iampedii/WhiteDNS",
     "branch": "main",
     "language": "Kotlin",
-    "description": "A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone."
+    "description": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS."
   },
   {
-    "repo": "ant-design/ant-design-pro",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
-  },
-  {
-    "repo": "PenglongHuang/chinese-novelist-skill",
-    "branch": "master",
-    "language": "Python",
-    "description": "让 AI 为你写一部完整的中文小说 - AI 驱动的中文小说创作助手 - 超过20章的小说，几分钟全稿完成    Claude Code Skill：自动创作分章节中文小说，每章悬念钩子"
-  },
-  {
-    "repo": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+    "repo": "TACOWASA059/katamariio",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
-  },
-  {
-    "repo": "rest-assured/rest-assured",
-    "branch": "master",
     "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
+    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
   },
   {
-    "repo": "gemini-cli-extensions/ralph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
+    "repo": "n8n-io/n8n",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
   },
   {
-    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
-  },
-  {
-    "repo": "Gloridust/WechatOnCloud",
+    "repo": "freeCodeCamp/freeCodeCamp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "云微WOC，云微信，自由连接"
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "loop-uh/yourvpndead",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A refreshingly simple data-driven game engine built in Rust"
+  },
+  {
+    "repo": "kapishdima/remocn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+  },
+  {
+    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+  },
+  {
+    "repo": "dazzyddos/ClickOnceBlobber",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+  },
+  {
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "repo": "Paparusi/legal-ai-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "appsail/Gemini-in-Chrome",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "czl9707/build-your-own-openclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "A step-by-step guide to build your own AI agent."
+  },
+  {
+    "repo": "kevinrgu/autoagent",
+    "branch": "main",
+    "language": "Python",
+    "description": "autonomous harness engineering"
+  },
+  {
+    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
+  },
+  {
+    "repo": "ionic-team/ionic-framework",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "branch": "develop",
+    "language": "Go",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
+  },
+  {
+    "repo": "Holiday-Robot/FlashSAC",
+    "branch": "main",
+    "language": "Python",
+    "description": "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control"
+  },
+  {
+    "repo": "ankitvgupta/mail-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code for your Inbox"
+  },
+  {
+    "repo": "second-state/kitten_tts_rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+  },
+  {
+    "repo": "airbnb/lottie-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+  },
+  {
+    "repo": "grpc/grpc",
+    "branch": "master",
+    "language": "C++",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
   }
 ]

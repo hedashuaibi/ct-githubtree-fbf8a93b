@@ -1,8 +1,8 @@
 {
-  "repo": "Rizzo-AI-Academy/rizzo-flow",
+  "repo": "Mapika/decider",
   "branch": "main",
   "language": "Python",
-  "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
-  "stars": 297,
-  "forks": 13
+  "description": "A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.",
+  "stars": 306,
+  "forks": 12
 }
