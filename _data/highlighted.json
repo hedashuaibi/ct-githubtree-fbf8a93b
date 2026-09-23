@@ -1,8 +1,8 @@
 {
-  "repo": "qwdwqfwq/topconf-paper-figure-gallery",
-  "branch": "main",
+  "repo": "jev-chat/jev-chat-jarvis-mac",
+  "branch": "master",
   "language": "Python",
-  "description": "A searchable gallery of 2,730 well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025), tagged with Oral / Spotlight / Best-paper tiers.",
-  "stars": 343,
-  "forks": 24
+  "description": "微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。",
+  "stars": 217,
+  "forks": 66
 }

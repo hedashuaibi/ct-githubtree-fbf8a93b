@@ -1,146 +1,146 @@
 [
   {
-    "repo": "XiaoDuoYa/codex-with-chatgpt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
-  },
-  {
-    "repo": "altstackHQ/altstack-data",
+    "repo": "xyzthiago/claude-flows",
     "branch": "main",
     "language": "Shell",
-    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks."
   },
   {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
+    "repo": "MSNightmare/ShieldBreak",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows Defender 0day vulnerability"
   },
   {
-    "repo": "Castor6/tactus",
+    "repo": "millionco/spawn-agent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
+    "description": "Spawn available local agents on a user's computer"
   },
   {
-    "repo": "kubernetes-sigs/kustomize",
-    "branch": "master",
+    "repo": "codeany-ai/codeany",
+    "branch": "main",
     "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
+    "description": "Open-source AI-powered terminal agent. Built in Go."
   },
   {
-    "repo": "tj/commander.js",
+    "repo": "ForecastForge/coinbase-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation"
+  },
+  {
+    "repo": "Jakubantalik/transitions.dev",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
+  },
+  {
+    "repo": "chaohong-ai/ai-auto-work",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects."
+  },
+  {
+    "repo": "ChuprinaDaria/Vibecode-Cleaner-Fartrun",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
+    "language": "Python",
+    "description": "Not another AI reviewing AI. Rust-powered code scanner that actually reads your codebase —    zero extra tokens consumed. 29 MCP tools: security vulns, dead code, health checks, save  points, frozen files. Finds problems. Farts at you. Hasselhoff approves."
   },
   {
-    "repo": "BuilderIO/qwik",
+    "repo": "liuup/claude-code-analysis",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Instant-loading web apps, without effort"
+    "description": "The analysis of Claude Code"
   },
   {
-    "repo": "doctrine/orm",
-    "branch": "3.2.x",
-    "language": "PHP",
-    "description": "Doctrine Object Relational Mapper (ORM)"
-  },
-  {
-    "repo": "Shopify/flash-list",
+    "repo": "hpennington/agentswift",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A better list for React Native"
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "argoproj/argo-workflows",
+    "repo": "Fokkyp/SoftwareCopyright-Skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  {
+    "repo": "Mibayy/token-savior",
+    "branch": "main",
+    "language": "Python",
+    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
+  },
+  {
+    "repo": "titanwings/ex-skill",
     "branch": "master",
-    "language": "Go",
-    "description": "Workflow Engine for Kubernetes"
+    "language": "Python",
+    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
   },
   {
-    "repo": "adobe/react-spectrum",
-    "branch": "main",
+    "repo": "warpdot-dev/composio",
+    "branch": "next",
     "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers"
   },
   {
-    "repo": "Uniswap/v3-core",
+    "repo": "aresthehacker/Assassin-s-Creed-Black-Flag",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
+    "language": "C++",
+    "description": "Assassin's Creed Black Flag Resynced Collector's Edition 2026 Edward Kenway Statue PS5 Pro PSSR Ray Tracing High FPS Anvil Engine Caribbean Open World Pirate Simulator PC Download Steam Deck Performance Save Editor Gameplay Reveal July 9 Release Official Roadmap Ubisoft 2026"
   },
   {
-    "repo": "rivet-dev/sandbox-agent",
+    "repo": "yetone/voice-input-dist",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "Kuberwastaken/claurst",
     "branch": "main",
     "language": "Rust",
-    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
+    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
   },
   {
-    "repo": "Tencent/wepy",
-    "branch": "master",
+    "repo": "MasnoNi/Invincible-VS-Game-Release-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support"
+  },
+  {
+    "repo": "alchaincyf/deepseek-v4-deep-dive",
+    "branch": "main",
+    "language": "HTML",
+    "description": "DeepSeek V4 深度解读 · 73 页 PPT + 20 分钟讲稿 + 发布动画 · Designed with huashu-design"
+  },
+  {
+    "repo": "iZiTTMarvin/Claude-code-open-explain",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "小程序组件化开发框架"
+    "description": "针对cc客户端源码的详细讲解，面向新手。"
   },
   {
-    "repo": "Lightning-AI/lightning",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
-  },
-  {
-    "repo": "ansible-collections/community.general",
+    "repo": "madeye/mcp-cli",
     "branch": "main",
-    "language": "Python",
-    "description": "Ansible Community General Collection"
+    "language": "Rust",
+    "description": "save fork/exec overhead of ai code agent"
   },
   {
-    "repo": "depthsecurity/RelayKing-Depth",
-    "branch": "master",
-    "language": "Python",
-    "description": "Dominate the domain. Relay to royalty."
-  },
-  {
-    "repo": "TsingmaoAI/xw-cli",
+    "repo": "darrylmorley/whatcable",
     "branch": "main",
-    "language": "Go",
-    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+    "language": "Swift",
+    "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
   },
   {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "Tencent/tdesign-react",
+    "repo": "Gitlawb/openclaude",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
   },
   {
-    "repo": "redux-saga/redux-saga",
+    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "An alternative side effect model for Redux apps"
-  },
-  {
-    "repo": "sequelize/sequelize",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
-  },
-  {
-    "repo": "nodemailer/nodemailer",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
-  },
-  {
-    "repo": "needle-tools/md-browse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Markdown Browser – See the web like an AI does"
+    "language": "Rust",
+    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
   }
 ]
