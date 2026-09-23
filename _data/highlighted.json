@@ -1,8 +1,8 @@
 {
-  "repo": "jev-chat/jev-chat-jarvis-mac",
-  "branch": "master",
+  "repo": "Zefan-Cai/Open-Jev",
+  "branch": "main",
   "language": "Python",
-  "description": "微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。",
-  "stars": 217,
-  "forks": 66
+  "description": "A featured project on GitHubTree.",
+  "stars": 249,
+  "forks": 21
 }
