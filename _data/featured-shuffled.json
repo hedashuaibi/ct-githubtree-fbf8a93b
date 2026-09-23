@@ -1,146 +1,146 @@
 [
   {
-    "repo": "grafana/loki",
+    "repo": "microsoft/semantic-kernel",
     "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
   },
   {
-    "repo": "hanyi0000/chatgpt-plus-automation-toolkit",
+    "repo": "HarimxChoi/google-surf-mcp",
     "branch": "main",
-    "language": "Python",
-    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板"
+    "language": "TypeScript",
+    "description": "✨Anti-Bot Search MCP: No API Key✨"
   },
   {
-    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
+    "repo": "howmp/dsh-pentest",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs"
   },
   {
-    "repo": "Kuberwastaken/claurst",
+    "repo": "yoheinakajima/graphcon-deck",
     "branch": "main",
-    "language": "Rust",
-    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "nox-project/nox-framework",
-    "branch": "main",
-    "language": "Python",
-    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
-  },
-  {
-    "repo": "Whit1985/Binance-Futures-Signal-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
-  },
-  {
-    "repo": "ussumant/llm-wiki-compiler",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern."
-  },
-  {
-    "repo": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
-    "branch": "main",
-    "language": "C++",
-    "description": "esp32-s3-touch-amoled-1.8"
-  },
-  {
-    "repo": "i12bp8/TagTinker",
+    "repo": "forcequitOS/bad_query",
     "branch": "main",
     "language": "C",
-    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
+    "description": "Sandbox escape PoC for iOS 26 and 27."
   },
   {
-    "repo": "gridex/gridex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS / windows database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface."
-  },
-  {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
-  },
-  {
-    "repo": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "repo": "criptogus/HermesOffice",
     "branch": "main",
     "language": "TypeScript",
-    "description": "将钉钉机器人连接到 Moltbot Gateway 的轻量级 Python和TS 双版本连接器，支持 AI Card 流式响应"
+    "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI"
   },
   {
-    "repo": "larksuite/cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
-  },
-  {
-    "repo": "akullpp/awesome-java",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
-  },
-  {
-    "repo": "snarktank/antfarm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build your agent team in OpenClaw with one command."
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "data-science-on-aws/data-science-on-aws",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
-  },
-  {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "huggingface/tokenizers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
-  },
-  {
-    "repo": "shadcn-ui/ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
-  },
-  {
-    "repo": "Paidax01/math-curve-loaders",
+    "repo": "AIMixer/ComfyUI_MiniMaxH3_Director",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
+    "description": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3"
   },
   {
-    "repo": "getredash/redash",
-    "branch": "master",
-    "language": "Python",
-    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
-  },
-  {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "repo": "cvg/vidmap",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark cleaner pro"
+    "description": "VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion (ECCV 2026)"
+  },
+  {
+    "repo": "miuuyy/codex-chatgpt-web",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits."
+  },
+  {
+    "repo": "leonickson1/Swiftlet",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "2023782whl/Mem-kb",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Self-Evolving Enterprise Knowledge Base"
+  },
+  {
+    "repo": "alishamari/NSystem",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Decentralized Real-Time Data Processing Fabric leveraging Auto-Scaling and Load Balancing for Intelligent Distributed Workload Appliance."
+  },
+  {
+    "repo": "sanjanvandijk/DataMesh",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Self-Adaptive DataMesh: an AI-Augmented Real-Time Processing Platform for Distributed Ledger Networks with High-Performance architecture"
+  },
+  {
+    "repo": "yang13926151198-ai/AI-Photographer-Agent-ROCm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private local AI Photographer Agent on AMD Radeon and ROCm"
+  },
+  {
+    "repo": "hypnguyen1209/CVE-2026-62911",
+    "branch": "main",
+    "language": "Python",
+    "description": "POC pre-auth RCE on Exchange"
+  },
+  {
+    "repo": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control."
+  },
+  {
+    "repo": "0xwilliamortiz/humanizer-cli",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies."
+  },
+  {
+    "repo": "lili0926/player",
+    "branch": "main",
+    "language": "HTML",
+    "description": "一个和机一起玩的飞行棋游戏"
+  },
+  {
+    "repo": "432539/gpt",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "GPT 账号注册机 / 管理  协议  无头 有头 多种模式 , 交流QQ群 19302577"
+  },
+  {
+    "repo": "unicodef1wn/grokbot-field-notes",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go."
+  },
+  {
+    "repo": "alishamari/BlockHub",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Here are six technical descriptors for BlockHub software: scalable, extensible, fault-tolerant, real-time, data-driven, and secure."
+  },
+  {
+    "repo": "Kylin010/tcpfit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点"
+  },
+  {
+    "repo": "okky-x0f/qoder-creator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qoder Automation - Full Automation with UI Interaction (Auto-claim Pro Trial + 300 Credits)"
+  },
+  {
+    "repo": "halofyai/halofy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure."
   }
 ]
