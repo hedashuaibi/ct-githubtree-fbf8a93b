@@ -1,8 +1,8 @@
 {
-  "repo": "jev-chat/jev-chat-jarvis-mac",
-  "branch": "master",
+  "repo": "deepopen-com/deepopen",
+  "branch": "main",
   "language": "Python",
-  "description": "微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。",
-  "stars": 302,
-  "forks": 98
+  "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+  "stars": 535,
+  "forks": 3
 }
