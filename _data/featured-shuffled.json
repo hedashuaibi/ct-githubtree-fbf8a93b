@@ -1,146 +1,146 @@
 [
   {
-    "repo": "saimon4u/Drive-Pool",
+    "repo": "goreleaser/goreleaser",
     "branch": "main",
+    "language": "Go",
+    "description": "Release engineering, simplified"
+  },
+  {
+    "repo": "docker-desktop-windows/docker-desktop",
+    "branch": "main",
+    "language": "Go",
+    "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes"
+  },
+  {
+    "repo": "grpc/grpc-java",
+    "branch": "master",
+    "language": "Java",
+    "description": "The Java gRPC implementation. HTTP/2 based RPC"
+  },
+  {
+    "repo": "optuna/optuna",
+    "branch": "master",
+    "language": "Python",
+    "description": "A hyperparameter optimization framework"
+  },
+  {
+    "repo": "torvalds/linux",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux kernel source tree"
+  },
+  {
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
     "language": "TypeScript",
-    "description": ""
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
   },
   {
-    "repo": "susanudgzf/Aave-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "blixvip/MotionClone",
+    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
     "branch": "main",
     "language": "Python",
-    "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio."
+    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
   },
   {
-    "repo": "509992828/grok-register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "danveloper/flash-moe",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Running a big model on a small laptop"
-  },
-  {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "l3gi0nXXXX/Metis-agent",
-    "branch": "main",
-    "language": "Cangjie",
-    "description": ""
-  },
-  {
-    "repo": "liuup/claude-code-analysis",
+    "repo": "vitejs/vite",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The analysis of Claude Code"
+    "description": "Next generation frontend tooling. It's fast!"
   },
   {
-    "repo": "Michaelliv/markit",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🖍️ Convert anything to markdown. Mark it."
-  },
-  {
-    "repo": "liorwn/claudetop",
+    "repo": "kamranahmedse/claude-statusline",
     "branch": "main",
     "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+    "description": "Minimal Claude Code statusline setup I personally use"
   },
   {
-    "repo": "trevin-creator/autoresearch-mlx",
+    "repo": "heri1845/ai-meme-trading-bot",
     "branch": "main",
-    "language": "Python",
-    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+    "language": "Go",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
   },
   {
-    "repo": "gatelynch/llm-knowledge-base",
-    "branch": "main",
-    "language": "Python",
-    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
-    "branch": "main",
+    "repo": "andrew-kramer-inno/claude-code-source-build",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
-  },
-  {
-    "repo": "Nightmare-Eclipse/UnDefend",
-    "branch": "main",
-    "language": "C++",
-    "description": "Repository hosting windows defender DOS tool"
-  },
-  {
-    "repo": "cisco-ai-defense/defenseclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Governance for Agentic AI"
-  },
-  {
-    "repo": "brendanhogan/loophole",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "openyak/desktop",
+    "repo": "Mathews-Tom/no-magic",
     "branch": "main",
     "language": "Python",
-    "description": "Yak is all you need"
+    "description": "Because `model.fit()` isn't an explanation"
   },
   {
-    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "repo": "Homebrew/brew",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
+  },
+  {
+    "repo": "Eul45/omni-search",
     "branch": "main",
     "language": "C++",
-    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
+    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
   },
   {
-    "repo": "SethGammon/Citadel",
+    "repo": "asz798838958/aBaiAutoplus",
     "branch": "main",
+    "language": "Python",
+    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
+  },
+  {
+    "repo": "dododook/FlowZ",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "airbnb/javascript",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+    "description": "JavaScript Style Guide"
   },
   {
-    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
-    "branch": "main",
-    "language": "Shell",
-    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
-  },
-  {
-    "repo": "chekusu/wanman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
-  },
-  {
-    "repo": "H-EmbodVis/VEGA-3D",
+    "repo": "zarazhangrui/youtube-to-ebook",
     "branch": "main",
     "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
   },
   {
-    "repo": "ClawdisAI/ClawdisAI",
+    "repo": "xgen-universe/Capybara",
     "branch": "main",
-    "language": "Swift",
-    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "corespeed-io/wechatbot",
+    "repo": "thongthaibm/Lossless-Scaling-LSFG",
     "branch": "main",
+    "language": "C#",
+    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
+  },
+  {
+    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
+  },
+  {
+    "repo": "ensdomains/ens-contracts",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
+    "description": "The core contracts of the ENS protocol"
+  },
+  {
+    "repo": "ShiroEirin/comfyui-good-anima",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

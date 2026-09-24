@@ -1,8 +1,8 @@
 {
-  "repo": "Behemothlyaoscillate/RustDeskPro",
+  "repo": "AvenueSnowStep/ClaudePanel",
   "branch": "main",
   "language": "Rust",
-  "description": "Self-hosted remote desktop client for teams",
+  "description": "Desktop panel and toolkit for Claude and AI assistants",
   "stars": 221,
-  "forks": 47
+  "forks": 48
 }
