@@ -1,8 +1,8 @@
 {
-  "repo": "deepopen-com/deepopen",
+  "repo": "Behemothlyaoscillate/RustDeskPro",
   "branch": "main",
-  "language": "Python",
-  "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-  "stars": 535,
-  "forks": 3
+  "language": "Rust",
+  "description": "Self-hosted remote desktop client for teams",
+  "stars": 221,
+  "forks": 47
 }

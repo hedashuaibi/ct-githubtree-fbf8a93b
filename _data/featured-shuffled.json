@@ -1,146 +1,146 @@
 [
   {
-    "repo": "oxbshw/watch-skill",
+    "repo": "saimon4u/Drive-Pool",
     "branch": "main",
-    "language": "Python",
-    "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP."
-  },
-  {
-    "repo": "johnBuffer/StableIndexVector",
-    "branch": "main",
-    "language": "C++",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "ripienaar/free-for-dev",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
-  },
-  {
-    "repo": "styled-components/styled-components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
-  },
-  {
-    "repo": "strapi/strapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
-  },
-  {
-    "repo": "electron/electron",
-    "branch": "main",
-    "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
-  },
-  {
-    "repo": "ReactiveX/RxAndroid",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava bindings for Android"
-  },
-  {
-    "repo": "DaveMoudy/SalesforceDocGen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
-  },
-  {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "lobehub/lobe-chat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
-  },
-  {
-    "repo": "nagisanzenin/skyclaw",
+    "repo": "susanudgzf/Aave-Claw",
     "branch": "main",
     "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
-  },
-  {
-    "repo": "JetBrains/kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "The Kotlin Programming Language."
-  },
-  {
-    "repo": "Guid-Lab/kdecrypt",
-    "branch": "main",
-    "language": "C++",
-    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
-  },
-  {
-    "repo": "opencontainers/image-spec",
-    "branch": "main",
-    "language": "Go",
-    "description": "OCI Image Format"
-  },
-  {
-    "repo": "tensorflow/serving",
-    "branch": "master",
-    "language": "C++",
-    "description": "A flexible, high-performance serving system for machine learning models"
-  },
-  {
-    "repo": "OpenCV/opencv_contrib",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Repository for OpenCV's extra modules"
-  },
-  {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
-  },
-  {
-    "repo": "borkdude/cream",
-    "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "About Crash game - frontend"
-  },
-  {
-    "repo": "validatorjs/validator.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "String validation"
-  },
-  {
-    "repo": "LCEMP/LCEMP",
-    "branch": "main",
-    "language": "C++",
-    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
-  },
-  {
-    "repo": "Anemll/flash-moe",
-    "branch": "m5-nax",
-    "language": "Objective-C",
     "description": ""
   },
   {
-    "repo": "facebook/fresco",
+    "repo": "blixvip/MotionClone",
     "branch": "main",
-    "language": "Java",
-    "description": "An Android library for managing images and the memory they use."
+    "language": "Python",
+    "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio."
+  },
+  {
+    "repo": "509992828/grok-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "danveloper/flash-moe",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Running a big model on a small laptop"
+  },
+  {
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "l3gi0nXXXX/Metis-agent",
+    "branch": "main",
+    "language": "Cangjie",
+    "description": ""
+  },
+  {
+    "repo": "liuup/claude-code-analysis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The analysis of Claude Code"
+  },
+  {
+    "repo": "Michaelliv/markit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "repo": "liorwn/claudetop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+  },
+  {
+    "repo": "trevin-creator/autoresearch-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+  },
+  {
+    "repo": "gatelynch/llm-knowledge-base",
+    "branch": "main",
+    "language": "Python",
+    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
+  },
+  {
+    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "repo": "Nightmare-Eclipse/UnDefend",
+    "branch": "main",
+    "language": "C++",
+    "description": "Repository hosting windows defender DOS tool"
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Governance for Agentic AI"
+  },
+  {
+    "repo": "brendanhogan/loophole",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "openyak/desktop",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yak is all you need"
+  },
+  {
+    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "branch": "main",
+    "language": "C++",
+    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
+  },
+  {
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+    "branch": "main",
+    "language": "Shell",
+    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
+  },
+  {
+    "repo": "chekusu/wanman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
+  },
+  {
+    "repo": "H-EmbodVis/VEGA-3D",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+  },
+  {
+    "repo": "ClawdisAI/ClawdisAI",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
+  },
+  {
+    "repo": "corespeed-io/wechatbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
   }
 ]
