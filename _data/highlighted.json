@@ -1,8 +1,8 @@
 {
-  "repo": "AvenueSnowStep/ClaudePanel",
+  "repo": "AutocratGirder/ClashDesk",
   "branch": "main",
   "language": "Rust",
-  "description": "Desktop panel and toolkit for Claude and AI assistants",
-  "stars": 221,
-  "forks": 48
+  "description": "Modern cross-platform desktop client for proxy workflows",
+  "stars": 223,
+  "forks": 47
 }

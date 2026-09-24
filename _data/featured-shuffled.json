@@ -1,146 +1,146 @@
 [
   {
-    "repo": "goreleaser/goreleaser",
+    "repo": "Leviidev/Husk",
     "branch": "main",
-    "language": "Go",
-    "description": "Release engineering, simplified"
+    "language": "Swift",
+    "description": "Android App Launcher for iOS"
   },
   {
-    "repo": "docker-desktop-windows/docker-desktop",
+    "repo": "mnemox-ai/idea-reality-mcp",
     "branch": "main",
-    "language": "Go",
-    "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes"
-  },
-  {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
-  },
-  {
-    "repo": "optuna/optuna",
-    "branch": "master",
     "language": "Python",
-    "description": "A hyperparameter optimization framework"
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
   },
   {
-    "repo": "torvalds/linux",
+    "repo": "EvolutionAPI/evo-nexus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open source operating system for AI-powered businesses — built on Claude Code"
+  },
+  {
+    "repo": "Abnerla/AI_paper",
+    "branch": "main",
+    "language": "Python",
+    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+  },
+  {
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+  },
+  {
+    "repo": "LoseNine/ruyipage",
+    "branch": "main",
+    "language": "Python",
+    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
+  },
+  {
+    "repo": "AThevon/TokenEater",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
+  },
+  {
+    "repo": "Guovin/IPTV-API",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "TraderAlice/OpenAlice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "File-driven AI trading agent engine for crypto and securities markets"
+  },
+  {
+    "repo": "qemu/qemu",
     "branch": "master",
     "language": "C",
-    "description": "Linux kernel source tree"
+    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
   },
   {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
+    "repo": "chroma-core/chroma",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source search and retrieval database for AI applications."
+  },
+  {
+    "repo": "Infatoshi/OpenSquirrel",
+    "branch": "main",
+    "language": "Rust",
+    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+  },
+  {
+    "repo": "WebAssembly/spec",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "WebAssembly specification, reference interpreter, and test suite."
+  },
+  {
+    "repo": "tilt-dev/tilt",
+    "branch": "master",
+    "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "branch": "master",
+    "language": "Go",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+  },
+  {
+    "repo": "Dhravya/webpull",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+    "description": ""
   },
   {
-    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "repo": "BuilderIO/mitosis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
+  },
+  {
+    "repo": "vercel/geist-font",
     "branch": "main",
     "language": "Python",
-    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+    "description": "Geist is a typeface developed by Vercel."
   },
   {
-    "repo": "vitejs/vite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
+    "repo": "trailofbits/algo",
+    "branch": "master",
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
   },
   {
-    "repo": "kamranahmedse/claude-statusline",
+    "repo": "cv-cat/TaoBaoApis",
+    "branch": "master",
+    "language": "Python",
+    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
+  },
+  {
+    "repo": "curvefi/curve-contract",
+    "branch": "master",
+    "language": "Python",
+    "description": "Vyper contracts used in Curve.fi exchange pools."
+  },
+  {
+    "repo": "ory/hydra",
+    "branch": "master",
+    "language": "Go",
+    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
+  },
+  {
+    "repo": "nexu-io/auto-github-contributor",
     "branch": "main",
     "language": "Shell",
-    "description": "Minimal Claude Code statusline setup I personally use"
-  },
-  {
-    "repo": "heri1845/ai-meme-trading-bot",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
-  },
-  {
-    "repo": "andrew-kramer-inno/claude-code-source-build",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Mathews-Tom/no-magic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "Eul45/omni-search",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
-  },
-  {
-    "repo": "asz798838958/aBaiAutoplus",
-    "branch": "main",
-    "language": "Python",
-    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
-  },
-  {
-    "repo": "dododook/FlowZ",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "airbnb/javascript",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript Style Guide"
-  },
-  {
-    "repo": "zarazhangrui/youtube-to-ebook",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
-  },
-  {
-    "repo": "xgen-universe/Capybara",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "thongthaibm/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
-  },
-  {
-    "repo": "ipfs/js-ipfs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
-  },
-  {
-    "repo": "ensdomains/ens-contracts",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The core contracts of the ENS protocol"
-  },
-  {
-    "repo": "ShiroEirin/comfyui-good-anima",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   }
 ]
