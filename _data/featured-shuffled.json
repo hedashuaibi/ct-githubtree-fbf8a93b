@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Leviidev/Husk",
+    "repo": "MemNixFS/MemNixFS",
     "branch": "main",
-    "language": "Swift",
-    "description": "Android App Launcher for iOS"
+    "language": "C++",
+    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
   },
   {
-    "repo": "mnemox-ai/idea-reality-mcp",
+    "repo": "sablin39/tilelang-cuda-skills",
     "branch": "main",
     "language": "Python",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+    "description": "Skills for writing tilelang and debugging with CUDA toolkits."
   },
   {
-    "repo": "EvolutionAPI/evo-nexus",
+    "repo": "Jane-xiaoer/paper-collage-ad-codex",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
+  },
+  {
+    "repo": "CostaliyA/Flow-OPD",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
+  },
+  {
+    "repo": "slippilaucnherapp/slippi-launcher",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open source operating system for AI-powered businesses — built on Claude Code"
+    "description": "project slippi slippi launcher download free github ssbm super smash bros melee online rollback netcode dolphin emulator windows 11 mac linux setup guide tutorial iso rom matchmaking ranked unranked fix latest version 2026"
   },
   {
-    "repo": "Abnerla/AI_paper",
+    "repo": "rstagit/rstaspoof",
+    "branch": "main",
+    "language": "Go",
+    "description": "ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux"
+  },
+  {
+    "repo": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots."
+  },
+  {
+    "repo": "DARKHOLEUM/VoidStrap-For-Roblox",
+    "branch": "main",
+    "language": "C#",
+    "description": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization."
+  },
+  {
+    "repo": "Astraltenprosper/uncensored-ai-image-video-generator",
     "branch": "main",
     "language": "Python",
-    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+    "description": "AI tool for generating uncensored images and videos (18+)"
   },
   {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "LoseNine/ruyipage",
+    "repo": "threeorz1027-svg/quiztube",
     "branch": "main",
-    "language": "Python",
-    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
-  },
-  {
-    "repo": "AThevon/TokenEater",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
-  },
-  {
-    "repo": "Guovin/IPTV-API",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform"
-  },
-  {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
-  },
-  {
-    "repo": "TraderAlice/OpenAlice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
-  },
-  {
-    "repo": "qemu/qemu",
-    "branch": "master",
-    "language": "C",
-    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
-  },
-  {
-    "repo": "chroma-core/chroma",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source search and retrieval database for AI applications."
-  },
-  {
-    "repo": "Infatoshi/OpenSquirrel",
-    "branch": "main",
-    "language": "Rust",
-    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
-  },
-  {
-    "repo": "WebAssembly/spec",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "WebAssembly specification, reference interpreter, and test suite."
-  },
-  {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
-  },
-  {
-    "repo": "FiloSottile/mkcert",
-    "branch": "master",
-    "language": "Go",
-    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
-  },
-  {
-    "repo": "Dhravya/webpull",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "BuilderIO/mitosis",
+    "repo": "rbrown101010/rilable",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
+    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
   },
   {
-    "repo": "vercel/geist-font",
+    "repo": "WUBING2023/ExamPass-Assistant",
+    "branch": "master",
+    "language": "Python",
+    "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
+  },
+  {
+    "repo": "tgies/klattsch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "primitive parallel-formant speech synth in the browser"
+  },
+  {
+    "repo": "Tencent-Hunyuan/Hy-Embodied-0.5-VLA",
     "branch": "main",
     "language": "Python",
-    "description": "Geist is a typeface developed by Vercel."
+    "description": "From Vision-Language-Action Models to a Real-World Robot Learning Stack"
   },
   {
-    "repo": "trailofbits/algo",
-    "branch": "master",
-    "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
-  },
-  {
-    "repo": "cv-cat/TaoBaoApis",
-    "branch": "master",
-    "language": "Python",
-    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
-  },
-  {
-    "repo": "curvefi/curve-contract",
-    "branch": "master",
-    "language": "Python",
-    "description": "Vyper contracts used in Curve.fi exchange pools."
-  },
-  {
-    "repo": "ory/hydra",
-    "branch": "master",
-    "language": "Go",
-    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
-  },
-  {
-    "repo": "nexu-io/auto-github-contributor",
+    "repo": "Soul-AILab/SoulX-Transcriber",
     "branch": "main",
-    "language": "Shell",
-    "description": ""
+    "language": "Python",
+    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what."
+  },
+  {
+    "repo": "BFanSYe/K12-Space-Automation",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "K12 Space Automation"
+  },
+  {
+    "repo": "Alchemz/solana-pumpfun-token-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler"
+  },
+  {
+    "repo": "nagamasa4089/purffle-cache",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best YouTube & Spotify Converter 2026 — Download Playlists, Video & Music in MP3, MP4 or 4K"
+  },
+  {
+    "repo": "shadcn-labs/agentcn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "shadcn/ui, but for building agents. 🤖"
+  },
+  {
+    "repo": "ThatXliner/rust-but-lisp",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust but LISP"
+  },
+  {
+    "repo": "scheidydude/codeindex",
+    "branch": "main",
+    "language": "Python",
+    "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development."
+  },
+  {
+    "repo": "KenKaneki18/CloakBrowser",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free."
+  },
+  {
+    "repo": "modelscope/Awesome-Vibe-Research",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践"
+  },
+  {
+    "repo": "NicholasCone/agnes-ai-video-suite",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles"
   }
 ]
