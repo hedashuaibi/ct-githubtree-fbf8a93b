@@ -1,8 +1,8 @@
 {
-  "repo": "hirotomasato/yowes",
+  "repo": "ipenywis/laya-ultrafast",
   "branch": "main",
   "language": "Python",
-  "description": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
-  "stars": 175,
-  "forks": 70
+  "description": "Same as jev-ultrafast but using Laya",
+  "stars": 190,
+  "forks": 26
 }

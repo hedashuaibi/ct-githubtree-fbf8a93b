@@ -1,146 +1,146 @@
 [
   {
-    "repo": "haowang02/codex-candy-eval",
+    "repo": "bcurts/agentchattr",
     "branch": "main",
     "language": "Python",
-    "description": "Codex 降智测试"
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
   },
   {
-    "repo": "google/dagger",
+    "repo": "sqlalchemy/sqlalchemy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Database Toolkit for Python"
+  },
+  {
+    "repo": "AgriciDaniel/claude-seo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
+  },
+  {
+    "repo": "owncloud/core",
     "branch": "master",
-    "language": "Java",
-    "description": "A fast dependency injector for Android and Java."
+    "language": "PHP",
+    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
   },
   {
-    "repo": "prometheus-operator/prometheus-operator",
+    "repo": "nevertoday/zhongguo-traditional-colors",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
+  },
+  {
+    "repo": "tmux/tmux",
+    "branch": "master",
+    "language": "C",
+    "description": "tmux source code"
+  },
+  {
+    "repo": "Supervisor/supervisor",
+    "branch": "master",
+    "language": "Python",
+    "description": "Supervisor process control system for Unix (supervisord)"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of the Ethereum protocol"
+  },
+  {
+    "repo": "Leaflet/Leaflet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦"
+  },
+  {
+    "repo": "wandb/wandb",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+  },
+  {
+    "repo": "yangshun/tech-interview-handbook",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Curated coding interview preparation materials for busy software engineers"
+  },
+  {
+    "repo": "Henrygd/Beszel",
     "branch": "main",
     "language": "Go",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
   },
   {
-    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
+    "repo": "ryanmcdermott/clean-code-javascript",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+    "description": "Clean Code concepts adapted for JavaScript"
   },
   {
-    "repo": "Uniswap/interface",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 Open source interfaces for the Uniswap protocol"
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-gateway",
-    "branch": "main",
-    "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
-  },
-  {
-    "repo": "Rabrg/artificial-life",
+    "repo": "Kanaries/pygwalker",
     "branch": "main",
     "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
   },
   {
-    "repo": "f/agentlytics",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
-  },
-  {
-    "repo": "helm/helm-www",
+    "repo": "Fixie-ai/Ultravox",
     "branch": "main",
-    "language": "MDX",
-    "description": "The Helm website for docs, blog and project info."
+    "language": "Python",
+    "description": "A fast multimodal LLM for real-time voice"
   },
   {
-    "repo": "Kotlin/kotlinx.coroutines",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Library support for Kotlin coroutines"
-  },
-  {
-    "repo": "diandianti/clawInstaller",
-    "branch": "main",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
-    "branch": "main",
-    "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
-  },
-  {
-    "repo": "tanbiralam/claude-code",
+    "repo": "vueuse/vueuse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
   },
   {
-    "repo": "paritytech/substrate",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
+    "repo": "pandas-dev/pandas",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
   },
   {
-    "repo": "firebase/firebase-ios-sdk",
+    "repo": "kamranahmedse/developer-roadmap",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "Guovin/IPTV-API",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform"
+  },
+  {
+    "repo": "jashkenas/backbone",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
     "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
+    "description": "Open Source Computer Vision Library"
   },
   {
-    "repo": "directus/directus",
+    "repo": "liu-ziting/ThinkFlowAI",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+    "language": "Vue",
+    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
   },
   {
-    "repo": "Cranot/agi-in-md",
+    "repo": "deepfakes/faceswap",
     "branch": "master",
     "language": "Python",
-    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+    "description": "Deepfakes Software For All"
   },
   {
-    "repo": "MichMich/MagicMirror",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
-  },
-  {
-    "repo": "foyzulkarim/claude-lens",
+    "repo": "openai/sora-prompt-engineering-guide",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "sheeki03/tirith",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
-  },
-  {
-    "repo": "SawyerHood/gitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
-  },
-  {
-    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
-    "branch": "master",
-    "language": "Python",
-    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
   }
 ]
