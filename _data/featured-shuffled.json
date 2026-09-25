@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tanishq-dubey/macos-laguna-s2.1",
+    "repo": "haowang02/codex-candy-eval",
     "branch": "main",
     "language": "Python",
-    "description": "Community benchmarks and scripts for running Poolside Laguna S 2.1"
+    "description": "Codex 降智测试"
   },
   {
-    "repo": "vigorX777/product-design-system",
+    "repo": "google/dagger",
+    "branch": "master",
+    "language": "Java",
+    "description": "A fast dependency injector for Android and Java."
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "branch": "main",
+    "language": "Go",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+  },
+  {
+    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
+  },
+  {
+    "repo": "Emanuele-web04/remodex",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
+  },
+  {
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "Uniswap/interface",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 Open source interfaces for the Uniswap protocol"
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-gateway",
+    "branch": "main",
+    "language": "Java",
+    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+  },
+  {
+    "repo": "Rabrg/artificial-life",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+  },
+  {
+    "repo": "f/agentlytics",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
+  },
+  {
+    "repo": "helm/helm-www",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The Helm website for docs, blog and project info."
+  },
+  {
+    "repo": "Kotlin/kotlinx.coroutines",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Library support for Kotlin coroutines"
+  },
+  {
+    "repo": "diandianti/clawInstaller",
+    "branch": "main",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "branch": "main",
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+  },
+  {
+    "repo": "tanbiralam/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+  },
+  {
+    "repo": "paritytech/substrate",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Substrate: The platform for blockchain innovators"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "Cranot/agi-in-md",
+    "branch": "master",
+    "language": "Python",
+    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+  },
+  {
+    "repo": "MichMich/MagicMirror",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+  },
+  {
+    "repo": "foyzulkarim/claude-lens",
     "branch": "main",
     "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "Introspective-Diffusion/I-DLM",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "HarnessLab/claw-code-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
-  },
-  {
-    "repo": "airbnb/lottie-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "An iOS library to natively render After Effects vector animations"
-  },
-  {
-    "repo": "Wendor/teapod-stream",
-    "branch": "master",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "AFahim02/House-Flipper-2-Multiplayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
-  },
-  {
-    "repo": "ufira-ai/Vibma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
-  },
-  {
-    "repo": "android-bench/android-bench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
-  },
-  {
-    "repo": "XiaomiRobotics/Xiaomi-Robotics-0",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "mysql/mysql-server",
-    "branch": "8.0",
-    "language": "C++",
-    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
-  },
-  {
-    "repo": "tmux/tmux",
-    "branch": "master",
-    "language": "C",
-    "description": "tmux source code"
-  },
-  {
-    "repo": "ythx-101/x-tweet-fetcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
-  },
-  {
-    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
-  },
-  {
-    "repo": "ncvgl/slawk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
-  },
-  {
-    "repo": "jaywcjlove/PermissionFlow",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS library for guiding users through permission setup with System Settings deeplinks and drag-to-authorize support."
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "flamestro/deff",
+    "repo": "sheeki03/tirith",
     "branch": "main",
     "language": "Rust",
-    "description": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
+    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
   },
   {
-    "repo": "botiverse/agent-vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Keep your secrets hidden from AI agents."
-  },
-  {
-    "repo": "appbrewery/Flutter-Course-Resources",
-    "branch": "master",
-    "language": "Other",
-    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
-  },
-  {
-    "repo": "huggingface/transformers",
+    "repo": "SawyerHood/gitclaw",
     "branch": "main",
     "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    "description": "OpenClaw but it runs entirely on github actions"
   },
   {
-    "repo": "tensorflow/tensorflow",
+    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
     "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
-  },
-  {
-    "repo": "rivet-dev/sandbox-agent",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
-  },
-  {
-    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
-    "branch": "main",
     "language": "Python",
-    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
   }
 ]
