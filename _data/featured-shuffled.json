@@ -1,146 +1,146 @@
 [
   {
-    "repo": "syncthing/syncthing",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Source Continuous File Synchronization"
-  },
-  {
-    "repo": "pinchtab/pinchtab",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "typicode/json-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
-  },
-  {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "simonw/showboat",
-    "branch": "main",
-    "language": "Go",
-    "description": "Create executable documents that demonstrate an agent's work"
-  },
-  {
-    "repo": "AtomicBot-ai/Atomic-Chat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "joeseesun/qiaomu-ai-prd",
+    "repo": "tanishq-dubey/macos-laguna-s2.1",
     "branch": "main",
     "language": "Python",
-    "description": "Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts."
+    "description": "Community benchmarks and scripts for running Poolside Laguna S 2.1"
   },
   {
-    "repo": "honnibal/claude-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skills I'm experimenting with. Please review carefully before use."
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "unjs/h3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
-  },
-  {
-    "repo": "andthattoo/structured-cot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Structured Chain-of-Thought"
-  },
-  {
-    "repo": "dnakov/litter",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "brendanhogan/hermitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "standardagents/sip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
-  },
-  {
-    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
-  },
-  {
-    "repo": "iltekin/remove-local-temu",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "sandeco/reversa",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Transform legacy systems into executable specifications for AI coding agents"
-  },
-  {
-    "repo": "BurntSushi/xsv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A fast CSV command line toolkit written in Rust."
-  },
-  {
-    "repo": "agenmod/immortal-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
-  },
-  {
-    "repo": "m1heng/claude-plugin-weixin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "unclebob/swarm-forge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A simple tool for coordinating several AI agents."
-  },
-  {
-    "repo": "AnnaSuSu/TechSpar",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
-  },
-  {
-    "repo": "zolotukhin/zinc",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
-  },
-  {
-    "repo": "0xquqi/crypto-kol-quant",
+    "repo": "vigorX777/product-design-system",
     "branch": "main",
     "language": "HTML",
-    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+  },
+  {
+    "repo": "Introspective-Diffusion/I-DLM",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "HarnessLab/claw-code-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
+  },
+  {
+    "repo": "airbnb/lottie-ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "An iOS library to natively render After Effects vector animations"
+  },
+  {
+    "repo": "Wendor/teapod-stream",
+    "branch": "master",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "AFahim02/House-Flipper-2-Multiplayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
+  },
+  {
+    "repo": "ufira-ai/Vibma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
+  },
+  {
+    "repo": "android-bench/android-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "XiaomiRobotics/Xiaomi-Robotics-0",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "mysql/mysql-server",
+    "branch": "8.0",
+    "language": "C++",
+    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+  },
+  {
+    "repo": "tmux/tmux",
+    "branch": "master",
+    "language": "C",
+    "description": "tmux source code"
+  },
+  {
+    "repo": "ythx-101/x-tweet-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+  },
+  {
+    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
+  },
+  {
+    "repo": "jaywcjlove/PermissionFlow",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS library for guiding users through permission setup with System Settings deeplinks and drag-to-authorize support."
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "flamestro/deff",
+    "branch": "main",
+    "language": "Rust",
+    "description": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
+  },
+  {
+    "repo": "botiverse/agent-vault",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Keep your secrets hidden from AI agents."
+  },
+  {
+    "repo": "appbrewery/Flutter-Course-Resources",
+    "branch": "master",
+    "language": "Other",
+    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "rivet-dev/sandbox-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
+  },
+  {
+    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
   }
 ]

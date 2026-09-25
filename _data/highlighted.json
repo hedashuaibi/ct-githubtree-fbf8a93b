@@ -1,8 +1,8 @@
 {
-  "repo": "BridgeDruidCompress/Moon-FruityLoops26-FileParser",
+  "repo": "yifanzhang-pro/KLPO",
   "branch": "main",
-  "language": "C++",
-  "description": "FLP binary parser for FL Studio project files",
-  "stars": 195,
-  "forks": 70
+  "language": "Python",
+  "description": "Official Project Page for KL-Regularized Policy Optimization for Agentic Reinforcement Learning (KLPO)",
+  "stars": 181,
+  "forks": 16
 }
