@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MemNixFS/MemNixFS",
-    "branch": "main",
-    "language": "C++",
-    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
-  },
-  {
-    "repo": "sablin39/tilelang-cuda-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skills for writing tilelang and debugging with CUDA toolkits."
-  },
-  {
-    "repo": "Jane-xiaoer/paper-collage-ad-codex",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
-  },
-  {
-    "repo": "CostaliyA/Flow-OPD",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
-  },
-  {
-    "repo": "slippilaucnherapp/slippi-launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "project slippi slippi launcher download free github ssbm super smash bros melee online rollback netcode dolphin emulator windows 11 mac linux setup guide tutorial iso rom matchmaking ranked unranked fix latest version 2026"
-  },
-  {
-    "repo": "rstagit/rstaspoof",
+    "repo": "syncthing/syncthing",
     "branch": "main",
     "language": "Go",
-    "description": "ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux"
+    "description": "Open Source Continuous File Synchronization"
   },
   {
-    "repo": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
+    "repo": "pinchtab/pinchtab",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots."
-  },
-  {
-    "repo": "DARKHOLEUM/VoidStrap-For-Roblox",
-    "branch": "main",
-    "language": "C#",
-    "description": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization."
-  },
-  {
-    "repo": "Astraltenprosper/uncensored-ai-image-video-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI tool for generating uncensored images and videos (18+)"
-  },
-  {
-    "repo": "threeorz1027-svg/quiztube",
-    "branch": "main",
-    "language": "HTML",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "rbrown101010/rilable",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
-  },
-  {
-    "repo": "WUBING2023/ExamPass-Assistant",
+    "repo": "typicode/json-server",
     "branch": "master",
-    "language": "Python",
-    "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
-  },
-  {
-    "repo": "tgies/klattsch",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "primitive parallel-formant speech synth in the browser"
+    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
   },
   {
-    "repo": "Tencent-Hunyuan/Hy-Embodied-0.5-VLA",
-    "branch": "main",
-    "language": "Python",
-    "description": "From Vision-Language-Action Models to a Real-World Robot Learning Stack"
-  },
-  {
-    "repo": "Soul-AILab/SoulX-Transcriber",
-    "branch": "main",
-    "language": "Python",
-    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what."
-  },
-  {
-    "repo": "BFanSYe/K12-Space-Automation",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "K12 Space Automation"
-  },
-  {
-    "repo": "Alchemz/solana-pumpfun-token-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler"
-  },
-  {
-    "repo": "nagamasa4089/purffle-cache",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best YouTube & Spotify Converter 2026 — Download Playlists, Video & Music in MP3, MP4 or 4K"
-  },
-  {
-    "repo": "shadcn-labs/agentcn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "shadcn/ui, but for building agents. 🤖"
-  },
-  {
-    "repo": "ThatXliner/rust-but-lisp",
+    "repo": "rust-unofficial/awesome-rust",
     "branch": "main",
     "language": "Rust",
-    "description": "Rust but LISP"
+    "description": "A curated list of Rust code and resources."
   },
   {
-    "repo": "scheidydude/codeindex",
+    "repo": "simonw/showboat",
     "branch": "main",
-    "language": "Python",
-    "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development."
+    "language": "Go",
+    "description": "Create executable documents that demonstrate an agent's work"
   },
   {
-    "repo": "KenKaneki18/CloakBrowser",
+    "repo": "AtomicBot-ai/Atomic-Chat",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free."
+    "description": ""
   },
   {
-    "repo": "modelscope/Awesome-Vibe-Research",
+    "repo": "joeseesun/qiaomu-ai-prd",
     "branch": "main",
     "language": "Python",
-    "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践"
+    "description": "Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts."
   },
   {
-    "repo": "NicholasCone/agnes-ai-video-suite",
+    "repo": "honnibal/claude-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skills I'm experimenting with. Please review carefully before use."
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "unjs/h3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
+  },
+  {
+    "repo": "andthattoo/structured-cot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Structured Chain-of-Thought"
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "standardagents/sip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
+  },
+  {
+    "repo": "iltekin/remove-local-temu",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "sandeco/reversa",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Transform legacy systems into executable specifications for AI coding agents"
+  },
+  {
+    "repo": "BurntSushi/xsv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A fast CSV command line toolkit written in Rust."
+  },
+  {
+    "repo": "agenmod/immortal-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
+  },
+  {
+    "repo": "m1heng/claude-plugin-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "unclebob/swarm-forge",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A simple tool for coordinating several AI agents."
+  },
+  {
+    "repo": "AnnaSuSu/TechSpar",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
+  },
+  {
+    "repo": "zolotukhin/zinc",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
+  },
+  {
+    "repo": "0xquqi/crypto-kol-quant",
     "branch": "main",
     "language": "HTML",
-    "description": "Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles"
+    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
   }
 ]
