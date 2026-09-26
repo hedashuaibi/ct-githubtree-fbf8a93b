@@ -1,8 +1,8 @@
 {
-  "repo": "shhivv/arc-cua",
-  "branch": "master",
-  "language": "Python",
-  "description": "Superfast action layer for computer-use agents",
-  "stars": 140,
-  "forks": 14
+  "repo": "SiliconLabAI/OpenJev",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "OpenSource Jev",
+  "stars": 143,
+  "forks": 33
 }

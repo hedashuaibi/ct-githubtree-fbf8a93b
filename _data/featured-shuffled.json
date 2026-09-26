@@ -1,75 +1,9 @@
 [
   {
-    "repo": "sander110419/lightroom-cc-on-linux",
-    "branch": "main",
-    "language": "C",
-    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
-  },
-  {
-    "repo": "appwrite/appwrite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
-  },
-  {
-    "repo": "jwangkun/hermes-agent-guide",
+    "repo": "fellowgeek/mcp-memory",
     "branch": "main",
     "language": "Python",
-    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
-  },
-  {
-    "repo": "cursor/agent-trace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A standard format for tracing AI-generated code."
-  },
-  {
-    "repo": "heri1845/ai-meme-trading-bot",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
-  },
-  {
-    "repo": "PanJiaChen/vue-element-admin",
-    "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
-  },
-  {
-    "repo": "ShunsukeHayashi/agent-skill-bus",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
-  },
-  {
-    "repo": "seaweedfs/seaweedfs",
-    "branch": "master",
-    "language": "Go",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
-  },
-  {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
-  },
-  {
-    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
-    "branch": "main",
-    "language": "Python",
-    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
-  },
-  {
-    "repo": "kubernetes/kubernetes",
-    "branch": "master",
-    "language": "Go",
-    "description": "Production-Grade Container Scheduling and Management"
-  },
-  {
-    "repo": "videojs/video.js",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
+    "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents."
   },
   {
     "repo": "Synthetixio/synthetix",
@@ -78,69 +12,135 @@
     "description": "Synthetix Solidity smart contracts"
   },
   {
-    "repo": "FlowiseAI/Flowise",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
-  },
-  {
-    "repo": "actions/download-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Download artifacts from your build"
-  },
-  {
-    "repo": "gluon-framework/gluon",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
-  },
-  {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-  },
-  {
-    "repo": "spring-projects/spring-framework",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Framework"
-  },
-  {
-    "repo": "mochajs/mocha",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
-  },
-  {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
-  },
-  {
-    "repo": "Unclecode/Crawl4AI",
+    "repo": "PlamenTSV/plamen",
     "branch": "main",
     "language": "Python",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    "description": "Autonomous Web3 security audit agent for Claude Code"
   },
   {
-    "repo": "localstack/localstack",
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "lens-protocol/lens-protocol",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "The Lens Protocol"
+  },
+  {
+    "repo": "nedbat/coveragepy",
     "branch": "master",
     "language": "Python",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
+    "description": "The code coverage tool for Python"
+  },
+  {
+    "repo": "apache/spark",
+    "branch": "master",
+    "language": "Scala",
+    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "StartupHakk/OpenMonoAgent.ai",
+    "branch": "main",
+    "language": "C#",
+    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
+  },
+  {
+    "repo": "gorilla/mux",
+    "branch": "main",
+    "language": "Go",
+    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
+  },
+  {
+    "repo": "openmax-server/server",
+    "branch": "master",
+    "language": "Python",
+    "description": "Открытый сервер для MAX"
+  },
+  {
+    "repo": "allenai/allennlp",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open-source NLP research library, built on PyTorch."
+  },
+  {
+    "repo": "mattermost/mattermost-server",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
+  },
+  {
+    "repo": "mediastormDev/dream-to-video-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
+  },
+  {
+    "repo": "android-bench/android-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "TraderAlice/OpenAlice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "File-driven AI trading agent engine for crypto and securities markets"
+  },
+  {
+    "repo": "instructkr/claw-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
+  },
+  {
+    "repo": "mermaid-js/mermaid",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
+  },
+  {
+    "repo": "boratanrikulu/gecit",
+    "branch": "main",
+    "language": "Go",
+    "description": "DPI bypass tool - eBPF on Linux, TUN on macOS/Windows."
+  },
+  {
+    "repo": "williamchristian273/Reason-Studio-Rack-Toolkit",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Top Reason Studios Rack DAW Plugins & Workflow Tools 2026"
+  },
+  {
+    "repo": "StrucksTech/Zelda-TP-Native-Port",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
+  },
+  {
+    "repo": "ni5arga/deanonymizer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deanonymize anyone based on their public commenting or posting history & pattern."
+  },
+  {
+    "repo": "EKKOLearnAI/hermes-web-ui",
+    "branch": "main",
+    "language": "Vue",
+    "description": ""
+  },
+  {
+    "repo": "vapor/vapor",
+    "branch": "main",
+    "language": "Swift",
+    "description": "💧 A server-side Swift HTTP web framework."
   }
 ]
