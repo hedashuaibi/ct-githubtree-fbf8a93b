@@ -1,8 +1,8 @@
 {
-  "repo": "ipenywis/laya-ultrafast",
-  "branch": "main",
+  "repo": "shhivv/arc-cua",
+  "branch": "master",
   "language": "Python",
-  "description": "Same as jev-ultrafast but using Laya",
-  "stars": 190,
-  "forks": 26
+  "description": "Superfast action layer for computer-use agents",
+  "stars": 140,
+  "forks": 14
 }

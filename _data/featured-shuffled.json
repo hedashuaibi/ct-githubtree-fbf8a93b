@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bcurts/agentchattr",
+    "repo": "sander110419/lightroom-cc-on-linux",
     "branch": "main",
-    "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
-  },
-  {
-    "repo": "sqlalchemy/sqlalchemy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Database Toolkit for Python"
-  },
-  {
-    "repo": "AgriciDaniel/claude-seo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
-  },
-  {
-    "repo": "owncloud/core",
-    "branch": "master",
-    "language": "PHP",
-    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
-  },
-  {
-    "repo": "nevertoday/zhongguo-traditional-colors",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
-  },
-  {
-    "repo": "tmux/tmux",
-    "branch": "master",
     "language": "C",
-    "description": "tmux source code"
+    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
   },
   {
-    "repo": "Supervisor/supervisor",
-    "branch": "master",
-    "language": "Python",
-    "description": "Supervisor process control system for Unix (supervisord)"
-  },
-  {
-    "repo": "ethereum/go-ethereum",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go implementation of the Ethereum protocol"
-  },
-  {
-    "repo": "Leaflet/Leaflet",
+    "repo": "appwrite/appwrite",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦"
-  },
-  {
-    "repo": "wandb/wandb",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
-  },
-  {
-    "repo": "yangshun/tech-interview-handbook",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Curated coding interview preparation materials for busy software engineers"
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "Henrygd/Beszel",
+    "repo": "jwangkun/hermes-agent-guide",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
+  },
+  {
+    "repo": "cursor/agent-trace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A standard format for tracing AI-generated code."
+  },
+  {
+    "repo": "heri1845/ai-meme-trading-bot",
     "branch": "main",
     "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
   },
   {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "Kanaries/pygwalker",
-    "branch": "main",
-    "language": "Python",
-    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
-  },
-  {
-    "repo": "Fixie-ai/Ultravox",
-    "branch": "main",
-    "language": "Python",
-    "description": "A fast multimodal LLM for real-time voice"
-  },
-  {
-    "repo": "vueuse/vueuse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
+    "repo": "PanJiaChen/vue-element-admin",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "Guovin/IPTV-API",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform"
-  },
-  {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Open Source Computer Vision Library"
-  },
-  {
-    "repo": "liu-ziting/ThinkFlowAI",
-    "branch": "main",
     "language": "Vue",
-    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
   },
   {
-    "repo": "deepfakes/faceswap",
+    "repo": "ShunsukeHayashi/agent-skill-bus",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "branch": "master",
+    "language": "Go",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+  },
+  {
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "branch": "main",
+    "language": "Python",
+    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "branch": "master",
+    "language": "Go",
+    "description": "Production-Grade Container Scheduling and Management"
+  },
+  {
+    "repo": "videojs/video.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Video.js - open source HTML5 video player"
+  },
+  {
+    "repo": "Synthetixio/synthetix",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Synthetix Solidity smart contracts"
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build AI Agents, Visually"
+  },
+  {
+    "repo": "actions/download-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Download artifacts from your build"
+  },
+  {
+    "repo": "gluon-framework/gluon",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+  },
+  {
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Framework"
+  },
+  {
+    "repo": "mochajs/mocha",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
+  },
+  {
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
+  },
+  {
+    "repo": "Unclecode/Crawl4AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+  },
+  {
+    "repo": "localstack/localstack",
     "branch": "master",
     "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "openai/sora-prompt-engineering-guide",
-    "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
   }
 ]
