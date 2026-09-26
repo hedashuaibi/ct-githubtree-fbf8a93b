@@ -1,146 +1,146 @@
 [
   {
-    "repo": "machinarii/hypervibe",
-    "branch": "main",
-    "language": "Swift",
-    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
-  },
-  {
-    "repo": "pancreations/Halo-MCC-VR",
-    "branch": "master",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "kitft/natural_language_autoencoders",
+    "repo": "andthattoo/structured-cot",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Structured Chain-of-Thought"
   },
   {
-    "repo": "zzzhhh1/Sing-Flare-Auto",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
-  },
-  {
-    "repo": "ForgetMeAI/FreeDeepseekAPI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI"
-  },
-  {
-    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+    "repo": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
     "branch": "main",
     "language": "Python",
-    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+    "description": "DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks"
   },
   {
-    "repo": "sandro2211/powerbi-ml-insight-engine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "PowerBI AI Pipeline: 101% Target Achieved 2026 – Automated ETL & Insights"
-  },
-  {
-    "repo": "johnbean393/KeyType",
-    "branch": "main",
-    "language": "Swift",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
-  },
-  {
-    "repo": "CWS6206/EasySSDTester",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Easy SSD Tester - Portable Windows 11 utility for checking SSD health, SMART data and simple sequential read/write performance."
-  },
-  {
-    "repo": "asz798838958/aBaiAutoplus",
-    "branch": "main",
-    "language": "Python",
-    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
-  },
-  {
-    "repo": "Firewalkeroffear/satisfactory-mod-manager",
-    "branch": "main",
-    "language": "C++",
-    "description": "satisfactory mod manager ficsit smm satisfactory mods github mod installer load order profile manager plugins dependencies game modding coffee stain studios desktop utility pc gaming factory simulation automation blueprint organizer clean build stable version modpack manager satisfactory calculator unreal engine modding game launcher update checker"
-  },
-  {
-    "repo": "vercel-labs/zero-native",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Build native desktop + mobile apps with web UI and Zig"
-  },
-  {
-    "repo": "denny11301/veox-cortex",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Rust Autonomous Cognition Engine 2026"
-  },
-  {
-    "repo": "xqnode/codex-helper",
-    "branch": "main",
-    "language": "Rust",
-    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
-  },
-  {
-    "repo": "kennethkhoocy/lit-review-orchestrator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Document-driven literature-review pipeline with an anti-hallucination verification stage (confirm-or-drop against OpenAlex/Crossref/Semantic Scholar)."
-  },
-  {
-    "repo": "Ritikrai09/Escape_Tsunami_For_Brainrots_-_Auto-Survive___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-survive and ESP for Escape Tsunami For Brainrots, the disaster survival game with 225K+ concurrent players[reference:43]. Survive the tsunami, find shelter, and escape."
-  },
-  {
-    "repo": "edmicho/mm-probe-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
-  },
-  {
-    "repo": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+    "repo": "MeisnerDan/mission-control",
     "branch": "main",
     "language": "TypeScript",
-    "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment"
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
   },
   {
-    "repo": "docmd-io/docmd",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
-  },
-  {
-    "repo": "jangafx/FMAG",
-    "branch": "main",
-    "language": "C",
-    "description": "A single-instruction GPU virtual machine and toolchain"
-  },
-  {
-    "repo": "maaslalani/fast",
+    "repo": "pinchtab/pinchtab",
     "branch": "main",
     "language": "Go",
-    "description": "Internet speed test in your terminal"
+    "description": ""
   },
   {
-    "repo": "Maset22/Instagram_Hashtag_Generator___Scheduler",
+    "repo": "earthly/earthly",
+    "branch": "main",
+    "language": "Go",
+    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
+  },
+  {
+    "repo": "eonsystemspbc/fly-brain",
     "branch": "main",
     "language": "Python",
-    "description": "Generate relevant hashtags for Instagram and schedule them with your posts. Improve your reach and engagement."
+    "description": "Emulation of the Drosophila Fly brain: Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips"
   },
   {
-    "repo": "Allanlv5324F/Lossless-Scaling-Github",
+    "repo": "peiyizhi0724/ChatGpt-Image-Studio",
     "branch": "main",
-    "language": "C#",
-    "description": "lossless scaling steam github lsfg frame generation"
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "jgallego001/Hex_Editor",
+    "repo": "microsoft/LlamaSharp",
+    "branch": "main",
+    "language": "Other",
+    "description": ".NET library for Llama model inference."
+  },
+  {
+    "repo": "GalaxyGeneralRobotics/LATENT",
+    "branch": "master",
+    "language": "Python",
+    "description": "Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"
+  },
+  {
+    "repo": "PolyPulse-Analytics/hyperliquid-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "View and edit raw binary data with a powerful hex editor. Search, replace, modify bytes, and parse data structures. Essential for reverse engineering and debugging."
+    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
+  },
+  {
+    "repo": "taf2/mdvi",
+    "branch": "master",
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
+  },
+  {
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "launchbadge/sqlx",
+    "branch": "main",
+    "language": "Rust",
+    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
+  },
+  {
+    "repo": "webadderall/Recordly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
+  },
+  {
+    "repo": "BuluBulugege/Free-BAI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Henrygd/Beszel",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+  },
+  {
+    "repo": "jquery-validation/jquery-validation",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "jQuery Validation Plugin library sources"
+  },
+  {
+    "repo": "virattt/ai-hedge-fund",
+    "branch": "main",
+    "language": "Python",
+    "description": "An AI Hedge Fund Team"
+  },
+  {
+    "repo": "alefinvest/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot"
+  },
+  {
+    "repo": "veyliss/ai-localbase",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+  },
+  {
+    "repo": "kzhrknt/awesome-design-md-jp",
+    "branch": "main",
+    "language": "HTML",
+    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+  },
+  {
+    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
+  },
+  {
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "fjb040911/ai-rules",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
   }
 ]

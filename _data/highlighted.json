@@ -1,8 +1,8 @@
 {
-  "repo": "AgriciDaniel/jev-seo",
+  "repo": "win4r/MuseAI-Skills",
   "branch": "main",
-  "language": "Python",
-  "description": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.",
-  "stars": 139,
-  "forks": 31
+  "language": "HTML",
+  "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+  "stars": 242,
+  "forks": 87
 }
