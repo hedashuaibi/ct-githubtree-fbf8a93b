@@ -1,146 +1,146 @@
 [
   {
-    "repo": "fellowgeek/mcp-memory",
+    "repo": "machinarii/hypervibe",
     "branch": "main",
-    "language": "Python",
-    "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents."
+    "language": "Swift",
+    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
   },
   {
-    "repo": "Synthetixio/synthetix",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Synthetix Solidity smart contracts"
-  },
-  {
-    "repo": "PlamenTSV/plamen",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autonomous Web3 security audit agent for Claude Code"
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "nedbat/coveragepy",
+    "repo": "pancreations/Halo-MCC-VR",
     "branch": "master",
-    "language": "Python",
-    "description": "The code coverage tool for Python"
-  },
-  {
-    "repo": "apache/spark",
-    "branch": "master",
-    "language": "Scala",
-    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
-  },
-  {
-    "repo": "vercel/hyper",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
-  },
-  {
-    "repo": "StartupHakk/OpenMonoAgent.ai",
-    "branch": "main",
-    "language": "C#",
-    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
-  },
-  {
-    "repo": "gorilla/mux",
-    "branch": "main",
-    "language": "Go",
-    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
-  },
-  {
-    "repo": "openmax-server/server",
-    "branch": "master",
-    "language": "Python",
-    "description": "Открытый сервер для MAX"
-  },
-  {
-    "repo": "allenai/allennlp",
-    "branch": "main",
-    "language": "Python",
-    "description": "An open-source NLP research library, built on PyTorch."
-  },
-  {
-    "repo": "mattermost/mattermost-server",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
-  },
-  {
-    "repo": "mediastormDev/dream-to-video-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
-  },
-  {
-    "repo": "android-bench/android-bench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
-  },
-  {
-    "repo": "TraderAlice/OpenAlice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
-  },
-  {
-    "repo": "instructkr/claw-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
-  },
-  {
-    "repo": "boratanrikulu/gecit",
-    "branch": "main",
-    "language": "Go",
-    "description": "DPI bypass tool - eBPF on Linux, TUN on macOS/Windows."
-  },
-  {
-    "repo": "williamchristian273/Reason-Studio-Rack-Toolkit",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Top Reason Studios Rack DAW Plugins & Workflow Tools 2026"
-  },
-  {
-    "repo": "StrucksTech/Zelda-TP-Native-Port",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
-  },
-  {
-    "repo": "ni5arga/deanonymizer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deanonymize anyone based on their public commenting or posting history & pattern."
-  },
-  {
-    "repo": "EKKOLearnAI/hermes-web-ui",
-    "branch": "main",
-    "language": "Vue",
+    "language": "C++",
     "description": ""
   },
   {
-    "repo": "vapor/vapor",
+    "repo": "kitft/natural_language_autoencoders",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "zzzhhh1/Sing-Flare-Auto",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
+  },
+  {
+    "repo": "ForgetMeAI/FreeDeepseekAPI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI"
+  },
+  {
+    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+  },
+  {
+    "repo": "sandro2211/powerbi-ml-insight-engine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "PowerBI AI Pipeline: 101% Target Achieved 2026 – Automated ETL & Insights"
+  },
+  {
+    "repo": "johnbean393/KeyType",
     "branch": "main",
     "language": "Swift",
-    "description": "💧 A server-side Swift HTTP web framework."
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "repo": "CWS6206/EasySSDTester",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Easy SSD Tester - Portable Windows 11 utility for checking SSD health, SMART data and simple sequential read/write performance."
+  },
+  {
+    "repo": "asz798838958/aBaiAutoplus",
+    "branch": "main",
+    "language": "Python",
+    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
+  },
+  {
+    "repo": "Firewalkeroffear/satisfactory-mod-manager",
+    "branch": "main",
+    "language": "C++",
+    "description": "satisfactory mod manager ficsit smm satisfactory mods github mod installer load order profile manager plugins dependencies game modding coffee stain studios desktop utility pc gaming factory simulation automation blueprint organizer clean build stable version modpack manager satisfactory calculator unreal engine modding game launcher update checker"
+  },
+  {
+    "repo": "vercel-labs/zero-native",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Build native desktop + mobile apps with web UI and Zig"
+  },
+  {
+    "repo": "denny11301/veox-cortex",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Rust Autonomous Cognition Engine 2026"
+  },
+  {
+    "repo": "xqnode/codex-helper",
+    "branch": "main",
+    "language": "Rust",
+    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
+  },
+  {
+    "repo": "kennethkhoocy/lit-review-orchestrator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Document-driven literature-review pipeline with an anti-hallucination verification stage (confirm-or-drop against OpenAlex/Crossref/Semantic Scholar)."
+  },
+  {
+    "repo": "Ritikrai09/Escape_Tsunami_For_Brainrots_-_Auto-Survive___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-survive and ESP for Escape Tsunami For Brainrots, the disaster survival game with 225K+ concurrent players[reference:43]. Survive the tsunami, find shelter, and escape."
+  },
+  {
+    "repo": "edmicho/mm-probe-kit",
+    "branch": "main",
+    "language": "Python",
+    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
+  },
+  {
+    "repo": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment"
+  },
+  {
+    "repo": "docmd-io/docmd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
+  },
+  {
+    "repo": "jangafx/FMAG",
+    "branch": "main",
+    "language": "C",
+    "description": "A single-instruction GPU virtual machine and toolchain"
+  },
+  {
+    "repo": "maaslalani/fast",
+    "branch": "main",
+    "language": "Go",
+    "description": "Internet speed test in your terminal"
+  },
+  {
+    "repo": "Maset22/Instagram_Hashtag_Generator___Scheduler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate relevant hashtags for Instagram and schedule them with your posts. Improve your reach and engagement."
+  },
+  {
+    "repo": "Allanlv5324F/Lossless-Scaling-Github",
+    "branch": "main",
+    "language": "C#",
+    "description": "lossless scaling steam github lsfg frame generation"
+  },
+  {
+    "repo": "jgallego001/Hex_Editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "View and edit raw binary data with a powerful hex editor. Search, replace, modify bytes, and parse data structures. Essential for reverse engineering and debugging."
   }
 ]
