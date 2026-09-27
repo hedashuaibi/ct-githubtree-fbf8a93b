@@ -1,8 +1,8 @@
 {
-  "repo": "sunkeke-ai/Life-Compass-Obsidian-CN",
+  "repo": "angel291592/Intent-Router",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Compass 的非官方简体中文本地化；原项目由 Daniel Agrici（@AgriciDaniel）创建。",
-  "stars": 130,
-  "forks": 13
+  "language": "Python",
+  "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+  "stars": 147,
+  "forks": 17
 }

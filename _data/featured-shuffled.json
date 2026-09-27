@@ -1,146 +1,146 @@
 [
   {
-    "repo": "skydoves/nowinandroid-kmp",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "📱 Now in Android KMP is a full Kotlin Multiplatform port of Google's Now in Android sample."
-  },
-  {
-    "repo": "DeepSeek-TUI/DeepSeek-TUI",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
-  },
-  {
-    "repo": "littledivy/mimic",
+    "repo": "openai/glide-text2im",
     "branch": "main",
     "language": "Python",
-    "description": "Intercept any app, then call it from Python like a library"
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
   },
   {
-    "repo": "craftzdog/tmux-claude-session-manager",
+    "repo": "Eronred/aso-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Run many Claude Code sessions across your projects, each in its own tmux session — then list them, see which are done vs. still working, and jump to one from a single popup."
+    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
   },
   {
-    "repo": "zyn26/minimax-m3-desktop-app-free-api",
+    "repo": "HKUDS/FastCode",
+    "branch": "main",
+    "language": "Python",
+    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+  },
+  {
+    "repo": "SunJaycy/GoldenEye-Recomp",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "pood1e/wa-app",
     "branch": "main",
     "language": "Go",
-    "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference"
+    "description": ""
   },
   {
-    "repo": "six-ddc/livecaption",
+    "repo": "HEJustinSun/my-girlfriend-jingtian-latex",
+    "branch": "main",
+    "language": "TeX",
+    "description": ""
+  },
+  {
+    "repo": "Juwluuu/Subnautica-2-Release",
+    "branch": "main",
+    "language": "C++",
+    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
+  },
+  {
+    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
+  },
+  {
+    "repo": "Quant-Alpha-Forge/Multichain-Casino-Game",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A decentralized multichain casino platform supporting games such as Crash, Coinflip, Mines, and Blackjack across multiple blockchain networks including Ethereum, Solana, Base, Bitcoin, and Injective."
+  },
+  {
+    "repo": "xw7872081123/wallpaper-engine-steam",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver,"
+  },
+  {
+    "repo": "sitodowubb/spatial-vqa-bench",
     "branch": "main",
     "language": "Python",
-    "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud."
+    "description": "Spatial-VQA-Bench: a focused benchmark of spatial visual reasoning for multimodal LLMs."
   },
   {
-    "repo": "jawadashraf772/Windows_System_Optimizer",
+    "repo": "ForgetMeAI/FreeDeepseekAPI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI"
+  },
+  {
+    "repo": "AresLeVrai/celestial-launcher-releases",
+    "branch": "main",
+    "language": "C#",
+    "description": "celestial launcher releases league of legends  download custom skins mod manager lol client windows 11 config profile"
+  },
+  {
+    "repo": "bytedance/Lance",
     "branch": "main",
     "language": "Python",
-    "description": "Clean junk files, optimize registry, and boost performance. Remove temp files, fix registry, manage startup, and free up memory. Speed up your PC."
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
   },
   {
-    "repo": "baidu/Unlimited-OCR",
+    "repo": "amanning3390/deepswarm",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+    "description": ""
   },
   {
-    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+    "repo": "NirDiamant/Agent_Memory_Techniques",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns."
+  },
+  {
+    "repo": "Sophomoresty/gemini-search-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+    "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key."
   },
   {
-    "repo": "lvy010/AI-wiki",
+    "repo": "deeplethe/forkd",
     "branch": "main",
     "language": "Rust",
-    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms."
   },
   {
-    "repo": "deltabarbershopofficial-cloud/Rocket_League_Auto-Aim___Speed_Hack",
+    "repo": "6-robot/jie_3d_nav",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-aim, speed hack, and unlimited boost for Rocket League. Perfect shots, faster cars, and infinite boost. Dominate every match."
+    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
   },
   {
-    "repo": "AbdulWasay13/TradingView-Pipe-Executor",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Automated MT5 Trading Bot with AI Alerts & Webhook Bridge 2026"
-  },
-  {
-    "repo": "majidmanzarpour/threejs-game-skills",
+    "repo": "Cjbuilds/Codex-Orchestration",
     "branch": "main",
     "language": "Python",
-    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
+    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
   },
   {
-    "repo": "dicord-better/Better-Discord",
+    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "clash-windows-download/Clash-for-Windows",
     "branch": "main",
     "language": "TypeScript",
-    "description": "better discord betterdiscord discord client download modification enhancement tool themes plugins custom css installer download link windows 11 windows 10 macos linux desktop utility user interface customization css editor server folders security configurations them"
+    "description": "clash for windows download github official client backup mirror archive proxy utility client rule based routing yaml config subscription url profile import subconverter setup guide tutorial tun mode service mode uwp loopback helper system proxy clash verge rev clash nyanpasu mihomo party v2rayn alternatives migration shadowsocks v2ray xray sing"
   },
   {
-    "repo": "smileyprathu/Color_Picker",
+    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
     "branch": "main",
     "language": "Python",
-    "description": "Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers."
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
   },
   {
-    "repo": "aresyn/codex-control-plane-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Durable MCP control plane for long-running Codex Desktop tasks"
-  },
-  {
-    "repo": "jose-90/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "lightningnull/Discord_Auto-Reaction___Moderation_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automatically add reactions to messages and perform basic moderation (delete spam, warn users) on Discord servers."
-  },
-  {
-    "repo": "darialebedev8/Crypto-Clipper",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cross-platform cryptocurrency clipboard utility with multi-chain address detection and validation for BTC, ETH, SOL, TRX, LTC, and DOGE. Supports regex-based matching, EIP-55, Base58, SegWit, and Taproot formats, activity logging, custom rules, clipboard history, and Windows, Linux, and macOS compatibility for wallet address management."
-  },
-  {
-    "repo": "WAYLON/ashare-quant-strategies",
-    "branch": "main",
-    "language": "Python",
-    "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
-  },
-  {
-    "repo": "nawras15/File_Integrity_Checker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Check integrity of files by computing and verifying hashes (MD5, SHA1, SHA256). Detect file corruption and ensure data integrity."
-  },
-  {
-    "repo": "ruvnet/agent-harness-generator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox)."
-  },
-  {
-    "repo": "opencoredev/login-with-chatgpt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A simple SDK that lets your users log in with their ChatGPT account."
-  },
-  {
-    "repo": "dtnewman/burn-baby-burn",
+    "repo": "nikvpn-iran/nikvpn-codespace",
     "branch": "main",
     "language": "Shell",
-    "description": "Be the most productive engineer on your team 🚀🚀🚀"
+    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
   }
 ]
