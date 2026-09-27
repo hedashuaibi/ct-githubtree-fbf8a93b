@@ -1,146 +1,146 @@
 [
   {
-    "repo": "andthattoo/structured-cot",
+    "repo": "skydoves/nowinandroid-kmp",
     "branch": "main",
-    "language": "Python",
-    "description": "Structured Chain-of-Thought"
+    "language": "Kotlin",
+    "description": "📱 Now in Android KMP is a full Kotlin Multiplatform port of Google's Now in Android sample."
   },
   {
-    "repo": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks"
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "pinchtab/pinchtab",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "earthly/earthly",
-    "branch": "main",
-    "language": "Go",
-    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
-  },
-  {
-    "repo": "eonsystemspbc/fly-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "Emulation of the Drosophila Fly brain: Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips"
-  },
-  {
-    "repo": "peiyizhi0724/ChatGpt-Image-Studio",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "GalaxyGeneralRobotics/LATENT",
-    "branch": "master",
-    "language": "Python",
-    "description": "Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"
-  },
-  {
-    "repo": "PolyPulse-Analytics/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
-  },
-  {
-    "repo": "taf2/mdvi",
-    "branch": "master",
-    "language": "Rust",
-    "description": "cli based Markdown viewer"
-  },
-  {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "launchbadge/sqlx",
+    "repo": "DeepSeek-TUI/DeepSeek-TUI",
     "branch": "main",
     "language": "Rust",
-    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
+    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
   },
   {
-    "repo": "webadderall/Recordly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
-  },
-  {
-    "repo": "BuluBulugege/Free-BAI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Henrygd/Beszel",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
-  },
-  {
-    "repo": "jquery-validation/jquery-validation",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "jQuery Validation Plugin library sources"
-  },
-  {
-    "repo": "virattt/ai-hedge-fund",
+    "repo": "littledivy/mimic",
     "branch": "main",
     "language": "Python",
-    "description": "An AI Hedge Fund Team"
+    "description": "Intercept any app, then call it from Python like a library"
   },
   {
-    "repo": "alefinvest/polymarket-arbitrage-bot",
+    "repo": "craftzdog/tmux-claude-session-manager",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot"
+    "language": "Shell",
+    "description": "Run many Claude Code sessions across your projects, each in its own tmux session — then list them, see which are done vs. still working, and jump to one from a single popup."
   },
   {
-    "repo": "veyliss/ai-localbase",
+    "repo": "zyn26/minimax-m3-desktop-app-free-api",
     "branch": "main",
     "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+    "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference"
   },
   {
-    "repo": "kzhrknt/awesome-design-md-jp",
+    "repo": "six-ddc/livecaption",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud."
+  },
+  {
+    "repo": "jawadashraf772/Windows_System_Optimizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Clean junk files, optimize registry, and boost performance. Remove temp files, fix registry, manage startup, and free up memory. Speed up your PC."
+  },
+  {
+    "repo": "baidu/Unlimited-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+  },
+  {
+    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+  },
+  {
+    "repo": "lvy010/AI-wiki",
+    "branch": "main",
+    "language": "Rust",
+    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
+  },
+  {
+    "repo": "deltabarbershopofficial-cloud/Rocket_League_Auto-Aim___Speed_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-aim, speed hack, and unlimited boost for Rocket League. Perfect shots, faster cars, and infinite boost. Dominate every match."
+  },
+  {
+    "repo": "AbdulWasay13/TradingView-Pipe-Executor",
     "branch": "main",
     "language": "HTML",
-    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+    "description": "Automated MT5 Trading Bot with AI Alerts & Webhook Bridge 2026"
   },
   {
-    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
-  },
-  {
-    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "repo": "majidmanzarpour/threejs-game-skills",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
   },
   {
-    "repo": "fjb040911/ai-rules",
+    "repo": "dicord-better/Better-Discord",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+    "language": "TypeScript",
+    "description": "better discord betterdiscord discord client download modification enhancement tool themes plugins custom css installer download link windows 11 windows 10 macos linux desktop utility user interface customization css editor server folders security configurations them"
+  },
+  {
+    "repo": "smileyprathu/Color_Picker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers."
+  },
+  {
+    "repo": "aresyn/codex-control-plane-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Durable MCP control plane for long-running Codex Desktop tasks"
+  },
+  {
+    "repo": "jose-90/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "lightningnull/Discord_Auto-Reaction___Moderation_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automatically add reactions to messages and perform basic moderation (delete spam, warn users) on Discord servers."
+  },
+  {
+    "repo": "darialebedev8/Crypto-Clipper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cross-platform cryptocurrency clipboard utility with multi-chain address detection and validation for BTC, ETH, SOL, TRX, LTC, and DOGE. Supports regex-based matching, EIP-55, Base58, SegWit, and Taproot formats, activity logging, custom rules, clipboard history, and Windows, Linux, and macOS compatibility for wallet address management."
+  },
+  {
+    "repo": "WAYLON/ashare-quant-strategies",
+    "branch": "main",
+    "language": "Python",
+    "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
+  },
+  {
+    "repo": "nawras15/File_Integrity_Checker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Check integrity of files by computing and verifying hashes (MD5, SHA1, SHA256). Detect file corruption and ensure data integrity."
+  },
+  {
+    "repo": "ruvnet/agent-harness-generator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox)."
+  },
+  {
+    "repo": "opencoredev/login-with-chatgpt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A simple SDK that lets your users log in with their ChatGPT account."
+  },
+  {
+    "repo": "dtnewman/burn-baby-burn",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Be the most productive engineer on your team 🚀🚀🚀"
   }
 ]

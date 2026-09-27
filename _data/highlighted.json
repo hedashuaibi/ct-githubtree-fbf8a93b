@@ -1,8 +1,8 @@
 {
-  "repo": "win4r/MuseAI-Skills",
+  "repo": "sunkeke-ai/Life-Compass-Obsidian-CN",
   "branch": "main",
-  "language": "HTML",
-  "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
-  "stars": 242,
-  "forks": 87
+  "language": "JavaScript",
+  "description": "Compass 的非官方简体中文本地化；原项目由 Daniel Agrici（@AgriciDaniel）创建。",
+  "stars": 130,
+  "forks": 13
 }
