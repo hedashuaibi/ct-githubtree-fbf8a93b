@@ -1,146 +1,146 @@
 [
   {
-    "repo": "openai/glide-text2im",
+    "repo": "wesbos/JSON-Alexander",
     "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+    "language": "TypeScript",
+    "description": "A really good JSON viewer browser Extension"
   },
   {
-    "repo": "Eronred/aso-skills",
+    "repo": "apechurch/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymar"
+  },
+  {
+    "repo": "yifanzhang-pro/KLPO",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Project Page for KL-Regularized Policy Optimization for Agentic Reinforcement Learning (KLPO)"
+  },
+  {
+    "repo": "ericboy0224/learn-docker-and-k8s",
     "branch": "main",
     "language": "Shell",
-    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
+    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
   },
   {
-    "repo": "HKUDS/FastCode",
+    "repo": "JudyaiLab/ai-night-shift",
     "branch": "main",
-    "language": "Python",
-    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
   },
   {
-    "repo": "SunJaycy/GoldenEye-Recomp",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "pood1e/wa-app",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "HEJustinSun/my-girlfriend-jingtian-latex",
-    "branch": "main",
-    "language": "TeX",
-    "description": ""
-  },
-  {
-    "repo": "Juwluuu/Subnautica-2-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
-  },
-  {
-    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
-  },
-  {
-    "repo": "Quant-Alpha-Forge/Multichain-Casino-Game",
+    "repo": "snoglobe/helios",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A decentralized multichain casino platform supporting games such as Crash, Coinflip, Mines, and Blackjack across multiple blockchain networks including Ethereum, Solana, Base, Bitcoin, and Injective."
-  },
-  {
-    "repo": "xw7872081123/wallpaper-engine-steam",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver,"
-  },
-  {
-    "repo": "sitodowubb/spatial-vqa-bench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Spatial-VQA-Bench: a focused benchmark of spatial visual reasoning for multimodal LLMs."
-  },
-  {
-    "repo": "ForgetMeAI/FreeDeepseekAPI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI"
-  },
-  {
-    "repo": "AresLeVrai/celestial-launcher-releases",
-    "branch": "main",
-    "language": "C#",
-    "description": "celestial launcher releases league of legends  download custom skins mod manager lol client windows 11 config profile"
-  },
-  {
-    "repo": "bytedance/Lance",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
-  },
-  {
-    "repo": "amanning3390/deepswarm",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "NirDiamant/Agent_Memory_Techniques",
+    "repo": "qiuzhi2046/Qclaw",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns."
+    "language": "TypeScript",
+    "description": "不用命令行，小白也能轻松玩转 OpenClaw"
   },
   {
-    "repo": "Sophomoresty/gemini-search-mcp",
+    "repo": "poshan0126/dotclaude",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
+  },
+  {
+    "repo": "HughYau/qiushi-skill",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "求是Skill——从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。"
+  },
+  {
+    "repo": "OldJobobo/omarchy-lumon-theme",
+    "branch": "master",
+    "language": "CSS",
+    "description": "A cold corporate Omarchy theme inspired by Lumon Industries and the terminal palettes of *Severance*"
+  },
+  {
+    "repo": "spool-lab/spool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The missing search engine for your own data."
+  },
+  {
+    "repo": "lauraevz6y70/gnark-crypto",
     "branch": "main",
     "language": "Python",
-    "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key."
+    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
   },
   {
-    "repo": "deeplethe/forkd",
+    "repo": "marswaveai/ColaMD",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Agent Native Markdown Editor."
+  },
+  {
+    "repo": "ItsUnknown555/Dandy_s_World_-_Auto-Survive___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-survive and ESP for Dandy's World, the horror survival game. See all monsters through walls, auto-heal, and survive every floor."
+  },
+  {
+    "repo": "TonyGuo30/PDF_Editor_Suite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Merge, split, compress, and watermark PDF files. Combine PDFs, split pages, reduce file size, add text/image watermark. Complete PDF solution."
+  },
+  {
+    "repo": "FULU-Foundation/OrcaSlicer-bambulab",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "jmerelnyc/Talos",
+    "branch": "main",
+    "language": "Python",
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
+  },
+  {
+    "repo": "JudoChinX/rangarr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+  },
+  {
+    "repo": "formulahendry/wechat-acp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
+  },
+  {
+    "repo": "cellebrite-labs/ghidra-rpc",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Ghidra agentic reverse engineering skill."
+  },
+  {
+    "repo": "silverstein/minutes",
     "branch": "main",
     "language": "Rust",
-    "description": "Fork microVMs sandbox from a warmed parent in 101 ms."
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
   },
   {
-    "repo": "6-robot/jie_3d_nav",
+    "repo": "remorses/usecomputer",
     "branch": "main",
-    "language": "Python",
-    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
+    "language": "Zig",
+    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
   },
   {
-    "repo": "Cjbuilds/Codex-Orchestration",
+    "repo": "TheGreatGildo/nerv-ui",
     "branch": "main",
-    "language": "Python",
-    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+    "language": "HTML",
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
   },
   {
-    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
+    "repo": "HaochengLu/contextvc",
     "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "clash-windows-download/Clash-for-Windows",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "clash for windows download github official client backup mirror archive proxy utility client rule based routing yaml config subscription url profile import subconverter setup guide tutorial tun mode service mode uwp loopback helper system proxy clash verge rev clash nyanpasu mihomo party v2rayn alternatives migration shadowsocks v2ray xray sing"
-  },
-  {
-    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
-    "branch": "main",
-    "language": "Python",
-    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
-  },
-  {
-    "repo": "nikvpn-iran/nikvpn-codespace",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
+    "language": "Rust",
+    "description": "Git-native context control plane for AI coding agents"
   }
 ]

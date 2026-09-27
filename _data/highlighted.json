@@ -1,8 +1,8 @@
 {
-  "repo": "angel291592/Intent-Router",
+  "repo": "merijjeyn/jive",
   "branch": "main",
   "language": "Python",
-  "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
-  "stars": 147,
-  "forks": 17
+  "description": "A terminal coding agent that plans work as executable graphs",
+  "stars": 137,
+  "forks": 12
 }
