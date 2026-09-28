@@ -1,39 +1,69 @@
 [
   {
-    "repo": "retlehs/quien",
+    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
+  },
+  {
+    "repo": "gpasquero/voog",
+    "branch": "main",
+    "language": "Python",
+    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+  },
+  {
+    "repo": "primefaces/primereact",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Most Complete React UI Component Library"
+  },
+  {
+    "repo": "actions/setup-node",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
+  },
+  {
+    "repo": "Homebrew/brew",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
+  },
+  {
+    "repo": "SnapKit/SnapKit",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A Swift Autolayout DSL for iOS & OS X"
+  },
+  {
+    "repo": "apache/spark",
+    "branch": "master",
+    "language": "Scala",
+    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "microsoft/playwright",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
+  },
+  {
+    "repo": "grafana/tempo",
     "branch": "main",
     "language": "Go",
-    "description": "A better WHOIS lookup tool"
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend."
   },
   {
-    "repo": "HaseebKhalid1507/Myx",
+    "repo": "facebookresearch/dino",
     "branch": "main",
-    "language": "Rust",
-    "description": "Spotify player for the terminal. With reactive themes."
-  },
-  {
-    "repo": "encode/django-rest-framework",
-    "branch": "master",
     "language": "Python",
-    "description": "Web APIs for Django. 🎸"
-  },
-  {
-    "repo": "trinodb/trino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
-  },
-  {
-    "repo": "raspberrypi/firmware",
-    "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
-  },
-  {
-    "repo": "Koenkk/zigbee2mqtt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
   },
   {
     "repo": "tensorflow/probability",
@@ -42,100 +72,70 @@
     "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
   },
   {
-    "repo": "open-telemetry/opentelemetry-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
-  },
-  {
-    "repo": "barrosyan/PINNeAPPle",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
-  },
-  {
-    "repo": "stanford-oval/storm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
-  },
-  {
-    "repo": "hapijs/hapi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The Simple, Secure Framework Developers Trust"
-  },
-  {
-    "repo": "amplication/amplication",
+    "repo": "wasmerio/wasmer",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
-  },
-  {
-    "repo": "mochajs/mocha",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
-  },
-  {
-    "repo": "rvm/rvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Ruby enVironment Manager (RVM)"
-  },
-  {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
-  },
-  {
-    "repo": "gulpjs/gulp",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A toolkit to automate & enhance your workflow"
-  },
-  {
-    "repo": "TryGhost/Ghost",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
-  },
-  {
-    "repo": "makerdao/dss",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "Dai Stablecoin System"
-  },
-  {
-    "repo": "Unclecode/Crawl4AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
-  },
-  {
-    "repo": "brunch/brunch",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
-  },
-  {
-    "repo": "emberjs/ember.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
-  },
-  {
-    "repo": "vercel/pkg",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Package your Node.js project into an executable"
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
-    "branch": "main",
     "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+  },
+  {
+    "repo": "Stability-AI/stablediffusion",
+    "branch": "main",
+    "language": "Other",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
+  },
+  {
+    "repo": "grafana/mimir",
+    "branch": "main",
+    "language": "Go",
+    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
+  },
+  {
+    "repo": "JakeWharton/butterknife",
+    "branch": "master",
+    "language": "Java",
+    "description": "Bind Android views and callbacks to fields and methods."
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "nrwl/nx",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents."
+  },
+  {
+    "repo": "docker/cli",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Docker CLI"
+  },
+  {
+    "repo": "jae-jae/fetcher-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MCP server for fetch web page content using Playwright headless browser."
+  },
+  {
+    "repo": "actions/checkout",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Action for checking out a repo"
+  },
+  {
+    "repo": "vercel/ai-chatbot-svelte",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
+  },
+  {
+    "repo": "uuidjs/uuid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
   },
   {
     "repo": "mermaid-js/mermaid",
