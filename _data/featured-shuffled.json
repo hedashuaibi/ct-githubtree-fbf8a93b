@@ -1,87 +1,15 @@
 [
   {
-    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
-  },
-  {
-    "repo": "gpasquero/voog",
+    "repo": "dboudreau00/NocTORnal",
     "branch": "main",
     "language": "Python",
-    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+    "description": "NocTORnal is a full-stack, Cybercrime specific investigative toolset from case to conviction. Including case-notes and communications evidence gathering, malware sample analysis and full stack RBAC for local host. Enabling law enforcement and vigilantes since 2022."
   },
   {
-    "repo": "primefaces/primereact",
+    "repo": "mantinedev/mantine",
     "branch": "master",
-    "language": "CSS",
-    "description": "The Most Complete React UI Component Library"
-  },
-  {
-    "repo": "actions/setup-node",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
-  },
-  {
-    "repo": "apache/spark",
-    "branch": "master",
-    "language": "Scala",
-    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "microsoft/playwright",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
-  },
-  {
-    "repo": "grafana/tempo",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend."
-  },
-  {
-    "repo": "facebookresearch/dino",
-    "branch": "main",
-    "language": "Python",
-    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
-  },
-  {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "wasmerio/wasmer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
-  },
-  {
-    "repo": "Stability-AI/stablediffusion",
-    "branch": "main",
-    "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
+    "description": "A fully featured React components library"
   },
   {
     "repo": "grafana/mimir",
@@ -90,57 +18,129 @@
     "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
   },
   {
-    "repo": "JakeWharton/butterknife",
+    "repo": "data-science-on-aws/data-science-on-aws",
     "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
+    "language": "Jupyter Notebook",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
   },
   {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
-  },
-  {
-    "repo": "nrwl/nx",
-    "branch": "master",
+    "repo": "wagmi-dev/viem",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents."
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "docker/cli",
+    "repo": "lance0/xfr",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
+  },
+  {
+    "repo": "github/super-linter",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Combination of multiple linters to install as a GitHub Action"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
+  },
+  {
+    "repo": "ktorio/ktor",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+  },
+  {
+    "repo": "metauto-ai/NeuralComputer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🖥 Neural Computers' Data Engine"
+  },
+  {
+    "repo": "titanwings/colleague-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
+  },
+  {
+    "repo": "v2ray/v2ray-core",
     "branch": "master",
     "language": "Go",
-    "description": "The Docker CLI"
+    "description": "A platform for building proxies to bypass network restrictions."
   },
   {
-    "repo": "jae-jae/fetcher-mcp",
+    "repo": "elastic/kibana",
     "branch": "main",
     "language": "TypeScript",
-    "description": "MCP server for fetch web page content using Playwright headless browser."
+    "description": "Your window into all of your data"
   },
   {
-    "repo": "actions/checkout",
+    "repo": "XTLS/Xray-core",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
   },
   {
-    "repo": "vercel/ai-chatbot-svelte",
+    "repo": "AQBot-Desktop/AQBot",
     "branch": "main",
-    "language": "Svelte",
-    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
+    "language": "Rust",
+    "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端"
   },
   {
-    "repo": "uuidjs/uuid",
+    "repo": "confluentinc/schema-registry",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent Schema Registry for Kafka"
+  },
+  {
+    "repo": "WebAssembly/wabt",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
+    "language": "C++",
+    "description": "The WebAssembly Binary Toolkit"
   },
   {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
+    "repo": "derailed/k9s",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+  },
+  {
+    "repo": "metallb/metallb",
+    "branch": "main",
+    "language": "Go",
+    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
+  },
+  {
+    "repo": "0xSteph/pentest-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+  },
+  {
+    "repo": "scalessec/Toast-Swift",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A Swift extension that adds toast notifications to the UIView object class."
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "branch": "main",
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+  },
+  {
+    "repo": "material-components/material-components-web",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "repo": "deusyu/translate-book",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
   }
 ]
