@@ -1,8 +1,8 @@
 {
-  "repo": "JoinArtisanVent/x-scraper-no-api",
+  "repo": "Kaixxrua/excel-codex-bridge",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.",
-  "stars": 166,
-  "forks": 6
+  "language": "Python",
+  "description": "防降智插件",
+  "stars": 151,
+  "forks": 26
 }
