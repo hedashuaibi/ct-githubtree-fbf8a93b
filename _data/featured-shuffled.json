@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
-  },
-  {
-    "repo": "wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, and factor attribution."
-  },
-  {
-    "repo": "CyrilPeng/FlowScroll",
-    "branch": "main",
-    "language": "Python",
-    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
-  },
-  {
-    "repo": "CapeAga/bai-it",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
-  },
-  {
-    "repo": "dev-protocol/polymarket-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket copytrading bot || polymarket copy trading bot || polymarket copy bot ||"
-  },
-  {
-    "repo": "saltstack/salt",
-    "branch": "master",
-    "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
-  },
-  {
-    "repo": "cnlimiter/codex-manager",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jackwener/opencli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
-  },
-  {
-    "repo": "schibsted/videofy_minimal",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
-  },
-  {
-    "repo": "zarazhangrui/youtube-to-ebook",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-  },
-  {
-    "repo": "mfornos/awesome-microservices",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of Microservice Architecture related principles and technologies."
-  },
-  {
-    "repo": "yangshun/tech-interview-handbook",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Curated coding interview preparation materials for busy software engineers"
-  },
-  {
-    "repo": "kossisoroyce/timber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
-  },
-  {
-    "repo": "grpc/grpc-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
-  },
-  {
-    "repo": "cypress-io/cypress",
+    "repo": "great-expectations/great_expectations",
     "branch": "develop",
-    "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    "language": "Python",
+    "description": "Always know what to expect from your data."
   },
   {
-    "repo": "plausible/analytics",
-    "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
-  },
-  {
-    "repo": "istio/api",
-    "branch": "master",
-    "language": "Go",
-    "description": "API definitions for the Istio project"
-  },
-  {
-    "repo": "open-pencil/open-pencil",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
-  },
-  {
-    "repo": "airbnb/lottie-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "An iOS library to natively render After Effects vector animations"
-  },
-  {
-    "repo": "openobserve/openobserve",
+    "repo": "Rizzo-AI-Academy/rizzo-flow",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+    "language": "Python",
+    "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token"
   },
   {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "LeoYeAI/openclaw-backup",
+    "repo": "chatgptprojects/clear-code",
     "branch": "main",
     "language": "Shell",
-    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+    "description": "See your claude code logs in clear details in your dashboard"
+  },
+  {
+    "repo": "dnakov/kittyfarm",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "k2-fsa/OmniVoice",
+    "branch": "master",
+    "language": "Python",
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+  },
+  {
+    "repo": "zilliztech/memsearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+  },
+  {
+    "repo": "browser-use/video-use",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "outcomeops/context-engineering",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "RevylAI/app-explorer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
+  },
+  {
+    "repo": "zoontek/react-native-permissions",
+    "branch": "master",
+    "language": "Objective-C++",
+    "description": "An unified permissions API for React Native on iOS, Android and Windows."
+  },
+  {
+    "repo": "ramda/ramda",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":ram: Practical functional Javascript"
+  },
+  {
+    "repo": "udacity/reactnd-contacts-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The backend server for the in-class Contacts project."
+  },
+  {
+    "repo": "zolotukhin/zinc",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
+  },
+  {
+    "repo": "wireshark/wireshark",
+    "branch": "master",
+    "language": "C",
+    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead."
+  },
+  {
+    "repo": "momenbasel/PureMac",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
+  },
+  {
+    "repo": "golbin/agent-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Reusable agent skills for Codex and compatible tools"
+  },
+  {
+    "repo": "herrbischoff/awesome-macos-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
+  },
+  {
+    "repo": "evanphi7/lighthouse-router",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
+  },
+  {
+    "repo": "GoAdminGroup/go-admin",
+    "branch": "master",
+    "language": "Go",
+    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
+  },
+  {
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+  },
+  {
+    "repo": "1-dr-eam/RecommenderSystem",
+    "branch": "RecommenderSystem",
+    "language": "Python",
+    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API"
+  },
+  {
+    "repo": "THUDM/CogVLM",
+    "branch": "main",
+    "language": "Python",
+    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
+  },
+  {
+    "repo": "RyanCodrai/py-turboquant",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

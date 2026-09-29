@@ -1,8 +1,8 @@
 {
-  "repo": "seamusc/papermono-shopping-list",
+  "repo": "yasinozmeen/animasyon-stil-katalogu",
   "branch": "main",
-  "language": "C++",
-  "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
-  "stars": 147,
-  "forks": 4
+  "language": "HTML",
+  "description": "irticalen videoları için 20 animasyon tarzı: her biri kendi kısa filmiyle. Tarzı README'den seç.",
+  "stars": 141,
+  "forks": 10
 }
