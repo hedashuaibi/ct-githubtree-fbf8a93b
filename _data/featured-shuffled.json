@@ -1,146 +1,146 @@
 [
   {
-    "repo": "go-micro/go-micro",
-    "branch": "master",
-    "language": "Go",
-    "description": "A Go microservices framework"
-  },
-  {
-    "repo": "RongleCat/grok-go",
+    "repo": "Harkirat1462/claude-code-cli",
     "branch": "main",
-    "language": "Rust",
-    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
+    "language": "TypeScript",
+    "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**"
   },
   {
-    "repo": "NVIDIA/NeMo",
+    "repo": "rccyx/thyx",
     "branch": "main",
-    "language": "Python",
-    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+    "language": "QML",
+    "description": "Exquisite SDDM greeter for Linux (highly customizable theming, already ships with 5 presets + atomic install/uninstall)"
   },
   {
-    "repo": "apple/swift-protobuf",
+    "repo": "pixel-point/media-downloader",
     "branch": "main",
     "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
+    "description": "Beautiful native macOS video downloader. Download and trim in one app."
   },
   {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+    "repo": "BitrigApp/XCDocs",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple's developer docs as a Swift package and CLI."
   },
   {
-    "repo": "baidu-baige/LoongForge",
+    "repo": "arduino/Arduino",
     "branch": "master",
-    "language": "Python",
-    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
   },
   {
-    "repo": "sanbuphy/nanoAgent",
+    "repo": "google-research/google-research",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Google Research"
+  },
+  {
+    "repo": "YannGotti/NS-FW-AI-Adult-Gen",
+    "branch": "main",
+    "language": "C#",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
+  },
+  {
+    "repo": "openai/point-e",
     "branch": "main",
     "language": "Python",
-    "description": "If you can read 100 lines of Python, you understand agents."
+    "description": "Point cloud diffusion for 3D model synthesis"
   },
   {
-    "repo": "babel/babel-loader",
+    "repo": "kunchenguid/lavish-axi",
     "branch": "main",
     "language": "JavaScript",
-    "description": "📦 Babel loader for webpack"
+    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
   },
   {
-    "repo": "newrelic/newrelic-python-agent",
+    "repo": "wagmi-dev/wagmi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive primitives for Ethereum apps"
+  },
+  {
+    "repo": "stretchr/testify",
+    "branch": "master",
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+  },
+  {
+    "repo": "restic/restic",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast, secure, efficient backup program"
+  },
+  {
+    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
     "branch": "main",
     "language": "Python",
-    "description": "New Relic Python Agent"
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
   },
   {
-    "repo": "aave/aave-v2",
-    "branch": "master",
-    "language": "Other",
-    "description": "Aave Protocol V2"
+    "repo": "modelscope/Awesome-Vibe-Research",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践"
   },
   {
-    "repo": "wisher567/Portpal",
+    "repo": "killervillsy/SessionToJson",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "angular/angular",
     "branch": "main",
     "language": "TypeScript",
-    "description": "See exactly what’s using your ports — and kill it in one click."
+    "description": "Deliver web apps with confidence 🚀"
   },
   {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
-  },
-  {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
-  },
-  {
-    "repo": "apollographql/apollo-server",
+    "repo": "microsoft/onnxruntime",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
   },
   {
-    "repo": "DataDog/datadog-agent",
+    "repo": "d3/d3",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+  },
+  {
+    "repo": "explosion/spaCy",
+    "branch": "master",
+    "language": "Python",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+  },
+  {
+    "repo": "yaojingang/yao-open-prompts",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+  },
+  {
+    "repo": "bjarneo/ku",
     "branch": "main",
     "language": "Go",
-    "description": "Main repository for Datadog Agent"
+    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit."
   },
   {
-    "repo": "open-telemetry/opentelemetry-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
-  },
-  {
-    "repo": "verialabs/ctf-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
-  },
-  {
-    "repo": "kapishdima/remocn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
-  },
-  {
-    "repo": "griffinmartin/opencode-claude-auth",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
-  },
-  {
-    "repo": "openssl/openssl",
+    "repo": "starship/starship",
     "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "openabdev/openab",
-    "branch": "main",
     "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
   },
   {
-    "repo": "0xMH/fichero-printer",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "marcelpanse/youtube-guitar-tab-parser",
     "branch": "main",
-    "language": "HTML",
-    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
-  },
-  {
-    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
-  },
-  {
-    "repo": "MariaDB/server",
-    "branch": "11.4",
-    "language": "C++",
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
+    "language": "TypeScript",
+    "description": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab."
   }
 ]
