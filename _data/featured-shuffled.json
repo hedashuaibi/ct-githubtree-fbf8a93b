@@ -1,146 +1,146 @@
 [
   {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Always know what to expect from your data."
-  },
-  {
-    "repo": "Rizzo-AI-Academy/rizzo-flow",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token"
-  },
-  {
-    "repo": "chatgptprojects/clear-code",
-    "branch": "main",
-    "language": "Shell",
-    "description": "See your claude code logs in clear details in your dashboard"
-  },
-  {
-    "repo": "dnakov/kittyfarm",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "k2-fsa/OmniVoice",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
-  },
-  {
-    "repo": "zilliztech/memsearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
-  },
-  {
-    "repo": "browser-use/video-use",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "outcomeops/context-engineering",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "RevylAI/app-explorer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
-  },
-  {
-    "repo": "zoontek/react-native-permissions",
-    "branch": "master",
-    "language": "Objective-C++",
-    "description": "An unified permissions API for React Native on iOS, Android and Windows."
-  },
-  {
-    "repo": "ramda/ramda",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
-  },
-  {
-    "repo": "udacity/reactnd-contacts-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The backend server for the in-class Contacts project."
-  },
-  {
-    "repo": "zolotukhin/zinc",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
-  },
-  {
-    "repo": "wireshark/wireshark",
-    "branch": "master",
-    "language": "C",
-    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead."
-  },
-  {
-    "repo": "momenbasel/PureMac",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
-  },
-  {
-    "repo": "golbin/agent-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Reusable agent skills for Codex and compatible tools"
-  },
-  {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
-  },
-  {
-    "repo": "evanphi7/lighthouse-router",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
-  },
-  {
-    "repo": "GoAdminGroup/go-admin",
+    "repo": "go-micro/go-micro",
     "branch": "master",
     "language": "Go",
-    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
+    "description": "A Go microservices framework"
   },
   {
-    "repo": "HELPMEEADICE/doge-code",
+    "repo": "RongleCat/grok-go",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
+  },
+  {
+    "repo": "NVIDIA/NeMo",
+    "branch": "main",
+    "language": "Python",
+    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
+  },
+  {
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "baidu-baige/LoongForge",
+    "branch": "master",
+    "language": "Python",
+    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
+  },
+  {
+    "repo": "sanbuphy/nanoAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "If you can read 100 lines of Python, you understand agents."
+  },
+  {
+    "repo": "babel/babel-loader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "📦 Babel loader for webpack"
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "New Relic Python Agent"
+  },
+  {
+    "repo": "aave/aave-v2",
+    "branch": "master",
+    "language": "Other",
+    "description": "Aave Protocol V2"
+  },
+  {
+    "repo": "wisher567/Portpal",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+    "description": "See exactly what’s using your ports — and kill it in one click."
   },
   {
-    "repo": "1-dr-eam/RecommenderSystem",
-    "branch": "RecommenderSystem",
-    "language": "Python",
-    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API"
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
   },
   {
-    "repo": "THUDM/CogVLM",
+    "repo": "serde-rs/serde",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Serialization framework for Rust"
+  },
+  {
+    "repo": "apollographql/apollo-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": "Main repository for Datadog Agent"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
     "branch": "main",
     "language": "Python",
-    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
+    "description": "OpenTelemetry Python API and SDK"
   },
   {
-    "repo": "RyanCodrai/py-turboquant",
+    "repo": "verialabs/ctf-agent",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+  },
+  {
+    "repo": "kapishdima/remocn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+  },
+  {
+    "repo": "griffinmartin/opencode-claude-auth",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
+  },
+  {
+    "repo": "openssl/openssl",
+    "branch": "master",
+    "language": "C",
+    "description": "TLS/SSL and crypto library"
+  },
+  {
+    "repo": "openabdev/openab",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+  },
+  {
+    "repo": "0xMH/fichero-printer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+  },
+  {
+    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+  },
+  {
+    "repo": "MariaDB/server",
+    "branch": "11.4",
+    "language": "C++",
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "yasinozmeen/animasyon-stil-katalogu",
+  "repo": "richard1208/parallio",
   "branch": "main",
-  "language": "HTML",
-  "description": "irticalen videoları için 20 animasyon tarzı: her biri kendi kısa filmiyle. Tarzı README'den seç.",
-  "stars": 141,
-  "forks": 10
+  "language": "TypeScript",
+  "description": "Open-source multi-model desktop group chat and Chrome extension",
+  "stars": 164,
+  "forks": 7
 }
