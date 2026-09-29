@@ -1,146 +1,146 @@
 [
   {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
-  },
-  {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
-  },
-  {
-    "repo": "EcZachly/databricks-lakebase-app-day-1",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "google/benchmark",
-    "branch": "main",
-    "language": "C++",
-    "description": "A microbenchmark support library"
-  },
-  {
-    "repo": "andyhuo520/rf-detr-detection",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
-  },
-  {
-    "repo": "pinchtab/pinchtab",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "WeianMao/triattention",
-    "branch": "main",
-    "language": "Python",
-    "description": "TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs."
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "shenhao-stu/ohmycaptcha",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
-  },
-  {
-    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "spinnaker/spinnaker",
-    "branch": "master",
-    "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
-  },
-  {
-    "repo": "virattt/ai-hedge-fund",
-    "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
-  },
-  {
-    "repo": "spotipy-dev/spotipy",
-    "branch": "master",
-    "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
-  },
-  {
-    "repo": "formulahendry/wechat-acp",
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
   },
   {
-    "repo": "nextcloud/android",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "📱 Nextcloud Android app"
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
+    "repo": "wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
     "branch": "main",
-    "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+    "language": "Jupyter Notebook",
+    "description": "Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, and factor attribution."
   },
   {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
-    "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
-  },
-  {
-    "repo": "panyiwei-home/Freedeck",
+    "repo": "CyrilPeng/FlowScroll",
     "branch": "main",
     "language": "Python",
-    "description": "学习版游戏一站式平台"
+    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
   },
   {
-    "repo": "Timeverse/My-TW-Coverage",
+    "repo": "CapeAga/bai-it",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
+  },
+  {
+    "repo": "dev-protocol/polymarket-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket copytrading bot || polymarket copy trading bot || polymarket copy bot ||"
+  },
+  {
+    "repo": "saltstack/salt",
     "branch": "master",
     "language": "Python",
-    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
+    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
   },
   {
-    "repo": "wsargent/docker-cheat-sheet",
+    "repo": "cnlimiter/codex-manager",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jackwener/opencli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
+  },
+  {
+    "repo": "schibsted/videofy_minimal",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+  },
+  {
+    "repo": "zarazhangrui/youtube-to-ebook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "mfornos/awesome-microservices",
     "branch": "master",
     "language": "Other",
-    "description": "Docker Cheat Sheet"
+    "description": "A curated list of Microservice Architecture related principles and technologies."
   },
   {
-    "repo": "RhysSullivan/nextjs-mobile-app-template",
+    "repo": "yangshun/tech-interview-handbook",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Curated coding interview preparation materials for busy software engineers"
+  },
+  {
+    "repo": "kossisoroyce/timber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+  },
+  {
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+  },
+  {
+    "repo": "plausible/analytics",
+    "branch": "master",
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+  },
+  {
+    "repo": "istio/api",
+    "branch": "master",
+    "language": "Go",
+    "description": "API definitions for the Istio project"
+  },
+  {
+    "repo": "open-pencil/open-pencil",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AI-native design editor. Open-source Figma alternative."
+  },
+  {
+    "repo": "airbnb/lottie-ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "An iOS library to natively render After Effects vector animations"
+  },
+  {
+    "repo": "openobserve/openobserve",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+  },
+  {
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "branch": "main",
+    "language": "Dart",
     "description": ""
   },
   {
-    "repo": "huggingface/diffusers",
+    "repo": "LeoYeAI/openclaw-backup",
     "branch": "main",
-    "language": "Python",
-    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
-  },
-  {
-    "repo": "test-time-training/discover",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "magnum6actual/flipoff",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+    "language": "Shell",
+    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
   }
 ]

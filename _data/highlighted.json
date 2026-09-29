@@ -1,8 +1,8 @@
 {
-  "repo": "Kaixxrua/excel-codex-bridge",
+  "repo": "seamusc/papermono-shopping-list",
   "branch": "main",
-  "language": "Python",
-  "description": "防降智插件",
-  "stars": 151,
-  "forks": 26
+  "language": "C++",
+  "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
+  "stars": 147,
+  "forks": 4
 }
