@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+    "repo": "surrealdb/surrealdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
+  },
+  {
+    "repo": "lnkiai/m3e-canvas",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
+  },
+  {
+    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
+  },
+  {
+    "repo": "facebookresearch/llama",
     "branch": "main",
     "language": "Python",
-    "description": "Open-source end-to-end omni interaction agent for natural full-duplex voice collaboration, continuous audio-visual perception, and asynchronous long-horizon agentic execution."
+    "description": "Inference code for Llama models"
   },
   {
-    "repo": "iamzifei/bookmark-is-learned",
+    "repo": "ultraworkers/claw-code-parity",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+    "language": "Rust",
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
   },
   {
-    "repo": "Fokkyp/SoftwareCopyright-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
-  },
-  {
-    "repo": "openlibrecommunity/olcrtc",
-    "branch": "master",
-    "language": "Python",
-    "description": "olc - using side channels to access web outside the whitelist"
-  },
-  {
-    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
-  },
-  {
-    "repo": "steven2358/awesome-generative-ai",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
-  },
-  {
-    "repo": "JudoChinX/rangarr",
-    "branch": "main",
-    "language": "Python",
-    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
-  },
-  {
-    "repo": "AnnaSuSu/TechSpar",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
-  },
-  {
-    "repo": "fikrikarim/parlor",
-    "branch": "main",
-    "language": "HTML",
-    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
-  },
-  {
-    "repo": "snarktank/compound-product",
+    "repo": "zhu1090093659/spec_driven_develop",
     "branch": "main",
     "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
   },
   {
-    "repo": "MoyangLi00/DROID-W",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026] DROID-SLAM in the Wild"
-  },
-  {
-    "repo": "mqudsi/monospace-ocr",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "saif0200/notchprompt",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "honojs/hono",
+    "repo": "jamiepine/voicebox",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Web framework built on Web Standards"
+    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
   },
   {
-    "repo": "facebookresearch/dino",
-    "branch": "main",
-    "language": "Python",
-    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
-  },
-  {
-    "repo": "airbytehq/airbyte",
-    "branch": "master",
-    "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
-  },
-  {
-    "repo": "VoltAgent/awesome-design-md",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
-  },
-  {
-    "repo": "Ta0ing/claude-code_evil",
+    "repo": "Eronred/expo-agent-spinners",
     "branch": "main",
     "language": "TypeScript",
-    "description": "cc完整版，含手册，编译等"
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
   },
   {
-    "repo": "akitaonrails/FrankSherlock",
+    "repo": "react-native-maps/react-native-maps",
     "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+    "language": "TypeScript",
+    "description": "React Native Mapview component for iOS + Android"
   },
   {
-    "repo": "aquasecurity/kube-bench",
+    "repo": "babel/babel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
+  },
+  {
+    "repo": "alibaba-damo-academy/RynnBrain",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
+  },
+  {
+    "repo": "DatanoiseTV/tinyice",
     "branch": "main",
     "language": "Go",
-    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
   },
   {
-    "repo": "marswaveai/TypeNo",
+    "repo": "steipete/discrawl",
     "branch": "main",
-    "language": "Swift",
-    "description": "A free, open source, privacy-first voice input app for macOS."
+    "language": "Go",
+    "description": "cli for discord with sqlite backend"
   },
   {
-    "repo": "diesel-rs/diesel",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
+    "repo": "adamveld12/ghost",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Git is the coding agent"
   },
   {
-    "repo": "drivelineresearch/autoresearch-claude-code",
-    "branch": "master",
-    "language": "Python",
-    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
-  },
-  {
-    "repo": "Janlaywss/cloud-code",
+    "repo": "freestylefly/openclaw-wechat",
     "branch": "master",
     "language": "TypeScript",
-    "description": "cloud-code"
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using AI for high quality writing"
+  },
+  {
+    "repo": "vignesh07/babyshark",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+  },
+  {
+    "repo": "hilash/cabinet",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-first knowledge base and startup OS"
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "humanloop/awesome-chatgpt",
+    "branch": "main",
+    "language": "Other",
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "repo": "backstage/backstage",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Backstage is an open framework for building developer portals"
+  },
+  {
+    "repo": "k2-fsa/OmniVoice",
+    "branch": "master",
+    "language": "Python",
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
   }
 ]

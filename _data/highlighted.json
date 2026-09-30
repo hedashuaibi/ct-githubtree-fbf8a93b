@@ -1,8 +1,8 @@
 {
-  "repo": "Louis-CFM/coucou",
+  "repo": "YeJe-cpu/SeeCut",
   "branch": "main",
-  "language": "Swift",
-  "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
-  "stars": 474,
-  "forks": 65
+  "language": "JavaScript",
+  "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+  "stars": 174,
+  "forks": 29
 }
