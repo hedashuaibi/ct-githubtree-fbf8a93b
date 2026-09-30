@@ -1,8 +1,8 @@
 {
-  "repo": "ANDRETRIPOL/OpenGhost",
+  "repo": "Louis-CFM/coucou",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Open desktop agent for Windows, macOS and Linux",
-  "stars": 129,
-  "forks": 11
+  "language": "Swift",
+  "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+  "stars": 474,
+  "forks": 65
 }

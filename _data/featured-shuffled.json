@@ -1,146 +1,146 @@
 [
   {
-    "repo": "furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions",
-    "branch": "main",
-    "language": "C++",
-    "description": "Create Aeronautics is an advanced aviation expansion for the Create Mod. It introduces real-world physics and aerodynamics to Minecraft. Build functional airships and planes with realistic lift and mechanical integration. Experience the ultimate engineering challenge in the skies of 2026."
-  },
-  {
-    "repo": "bikini/exploitarium",
+    "repo": "Omni-Interaction-Gander/Omni-Interaction-Agent",
     "branch": "main",
     "language": "Python",
-    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz"
+    "description": "Open-source end-to-end omni interaction agent for natural full-duplex voice collaboration, continuous audio-visual perception, and asynchronous long-horizon agentic execution."
   },
   {
-    "repo": "therealaleph/MasterHttpRelayVPN-RUST",
+    "repo": "iamzifei/bookmark-is-learned",
     "branch": "main",
-    "language": "Rust",
-    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
+    "language": "JavaScript",
+    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
   },
   {
-    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
-  },
-  {
-    "repo": "apkclaw-team/ApkClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "cloudflare/vinext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
-  },
-  {
-    "repo": "leigest519/OpenGame",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenGame: Open Agentic Coding for Games"
-  },
-  {
-    "repo": "lux-db/lux",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "Julpygo/Claude-Code-AI-Design",
-    "branch": "main",
-    "language": "C++",
-    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
-  },
-  {
-    "repo": "jxnxts/mcp-brasil",
+    "repo": "Fokkyp/SoftwareCopyright-Skill",
     "branch": "main",
     "language": "Python",
-    "description": "MCP Server para 27 APIs públicas brasileiras"
+    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
   },
   {
-    "repo": "lauraevz6y70/gnark-crypto",
-    "branch": "main",
-    "language": "Python",
-    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
-  },
-  {
-    "repo": "anthnykr/codex-voice",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "ConardLi/web-design-skill",
-    "branch": "main",
-    "language": "CSS",
-    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
-  },
-  {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
-    "branch": "main",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "TianyiDataScience/openclaw-control-center",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "lardissone/ansi-saver",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
-  },
-  {
-    "repo": "benqi-finance/legalmarkdown",
+    "repo": "openlibrecommunity/olcrtc",
     "branch": "master",
-    "language": "Go",
-    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
+    "language": "Python",
+    "description": "olc - using side channels to access web outside the whitelist"
   },
   {
-    "repo": "raskolnikov90/Beatrice.py",
+    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
     "branch": "main",
     "language": "Python",
-    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
+    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
   },
   {
-    "repo": "TQ-trade/defidollar-core",
-    "branch": "decentralized-stable-index",
-    "language": "JavaScript",
-    "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin."
-  },
-  {
-    "repo": "simoncirstoiu/alice",
+    "repo": "steven2358/awesome-generative-ai",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+    "language": "Other",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
   },
   {
-    "repo": "jackwener/rdt-cli",
+    "repo": "JudoChinX/rangarr",
     "branch": "main",
     "language": "Python",
-    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
   },
   {
-    "repo": "tigerabrodi/neiro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
-  },
-  {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "repo": "AnnaSuSu/TechSpar",
     "branch": "main",
     "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
   },
   {
-    "repo": "Justineo/working-with-ai",
+    "repo": "fikrikarim/parlor",
     "branch": "main",
     "language": "HTML",
-    "description": "Working with AI - presentation slides"
+    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
+  },
+  {
+    "repo": "snarktank/compound-product",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "repo": "MoyangLi00/DROID-W",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026] DROID-SLAM in the Wild"
+  },
+  {
+    "repo": "mqudsi/monospace-ocr",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "saif0200/notchprompt",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "honojs/hono",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web framework built on Web Standards"
+  },
+  {
+    "repo": "facebookresearch/dino",
+    "branch": "main",
+    "language": "Python",
+    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "VoltAgent/awesome-design-md",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+  },
+  {
+    "repo": "Ta0ing/claude-code_evil",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cc完整版，含手册，编译等"
+  },
+  {
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "branch": "main",
+    "language": "Go",
+    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
+  },
+  {
+    "repo": "marswaveai/TypeNo",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A free, open source, privacy-first voice input app for macOS."
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "drivelineresearch/autoresearch-claude-code",
+    "branch": "master",
+    "language": "Python",
+    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
+  },
+  {
+    "repo": "Janlaywss/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "cloud-code"
   }
 ]
