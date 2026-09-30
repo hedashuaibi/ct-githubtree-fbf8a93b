@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CompVis/latent-diffusion",
+    "repo": "furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    "language": "C++",
+    "description": "Create Aeronautics is an advanced aviation expansion for the Create Mod. It introduces real-world physics and aerodynamics to Minecraft. Build functional airships and planes with realistic lift and mechanical integration. Experience the ultimate engineering challenge in the skies of 2026."
   },
   {
-    "repo": "m00grin/ph-intercept",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
-  },
-  {
-    "repo": "FireRedTeam/FireRed-Image-Edit",
+    "repo": "bikini/exploitarium",
     "branch": "main",
     "language": "Python",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz"
+  },
+  {
+    "repo": "therealaleph/MasterHttpRelayVPN-RUST",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
+  },
+  {
+    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
+  },
+  {
+    "repo": "apkclaw-team/ApkClaw",
+    "branch": "main",
+    "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "ryan26craf/Hbar-Wallet-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "A secure, open-source desktop wallet for Hedera HBAR cryptocurrency built with C++ and Qt6."
-  },
-  {
-    "repo": "CodeSeven/toastr",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple javascript toast notifications"
-  },
-  {
-    "repo": "cfinke/EpsteIn",
-    "branch": "main",
-    "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
-  },
-  {
-    "repo": "Robbyant/lingbot-vla",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Pragmatic VLA Foundation Model"
-  },
-  {
-    "repo": "nikolinakovacevic1/MLB-The-Show-26-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "MLB The Show 26 PC: Modding tools, roster editors & Diamond Dynasty API. Automation scripts, market analytics, and save utilities for ultimate gameplay."
-  },
-  {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "deepmind/dm-haiku",
-    "branch": "main",
-    "language": "Python",
-    "description": "JAX-based neural network library"
-  },
-  {
-    "repo": "thu-ml/Causal-Forcing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
-  },
-  {
-    "repo": "ghostwright/phantom",
+    "repo": "cloudflare/vinext",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
   },
   {
-    "repo": "THUDM/CogVLM",
-    "branch": "main",
-    "language": "Python",
-    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
-  },
-  {
-    "repo": "cdppcorp/KESE-KIT",
-    "branch": "main",
-    "language": "Python",
-    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
-  },
-  {
-    "repo": "better-auth/better-icons",
+    "repo": "leigest519/OpenGame",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
+    "description": "OpenGame: Open Agentic Coding for Games"
   },
   {
-    "repo": "m0at/rvllm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "dev-protocol/polymarket-sports-trading-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Sports trading bot that bet on sport pool. polymarket sports trading | polymarket sport betting | polymarket sports bot"
-  },
-  {
-    "repo": "cosmicstack-labs/mercury-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "repo": "lux-db/lux",
     "branch": "main",
     "language": "Rust",
     "description": ""
   },
   {
-    "repo": "localstack/localstack",
-    "branch": "master",
-    "language": "Python",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
+    "repo": "Julpygo/Claude-Code-AI-Design",
+    "branch": "main",
+    "language": "C++",
+    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
   },
   {
-    "repo": "jasonkneen/openclicky",
+    "repo": "jxnxts/mcp-brasil",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP Server para 27 APIs públicas brasileiras"
+  },
+  {
+    "repo": "lauraevz6y70/gnark-crypto",
+    "branch": "main",
+    "language": "Python",
+    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
+  },
+  {
+    "repo": "anthnykr/codex-voice",
     "branch": "main",
     "language": "Swift",
-    "description": "openclicky -- the open source version of clicky"
+    "description": ""
   },
   {
-    "repo": "appwrite/appwrite",
+    "repo": "ConardLi/web-design-skill",
+    "branch": "main",
+    "language": "CSS",
+    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
+  },
+  {
+    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "branch": "main",
+    "language": "Java",
+    "description": ""
+  },
+  {
+    "repo": "TianyiDataScience/openclaw-control-center",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "description": ""
+  },
+  {
+    "repo": "lardissone/ansi-saver",
+    "branch": "main",
+    "language": "Swift",
+    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
+  },
+  {
+    "repo": "benqi-finance/legalmarkdown",
+    "branch": "master",
+    "language": "Go",
+    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
+  },
+  {
+    "repo": "raskolnikov90/Beatrice.py",
+    "branch": "main",
+    "language": "Python",
+    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
+  },
+  {
+    "repo": "TQ-trade/defidollar-core",
+    "branch": "decentralized-stable-index",
+    "language": "JavaScript",
+    "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin."
+  },
+  {
+    "repo": "simoncirstoiu/alice",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+  },
+  {
+    "repo": "jackwener/rdt-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+  },
+  {
+    "repo": "tigerabrodi/neiro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
+  },
+  {
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+  },
+  {
+    "repo": "Justineo/working-with-ai",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Working with AI - presentation slides"
   }
 ]
