@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Harkirat1462/claude-code-cli",
+    "repo": "CompVis/latent-diffusion",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**"
-  },
-  {
-    "repo": "rccyx/thyx",
-    "branch": "main",
-    "language": "QML",
-    "description": "Exquisite SDDM greeter for Linux (highly customizable theming, already ships with 5 presets + atomic install/uninstall)"
-  },
-  {
-    "repo": "pixel-point/media-downloader",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app."
-  },
-  {
-    "repo": "BitrigApp/XCDocs",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Apple's developer docs as a Swift package and CLI."
-  },
-  {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "google-research/google-research",
-    "branch": "master",
     "language": "Jupyter Notebook",
-    "description": "Google Research"
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
   },
   {
-    "repo": "YannGotti/NS-FW-AI-Adult-Gen",
-    "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "kunchenguid/lavish-axi",
+    "repo": "m00grin/ph-intercept",
     "branch": "main",
     "language": "JavaScript",
-    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
+    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
   },
   {
-    "repo": "wagmi-dev/wagmi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive primitives for Ethereum apps"
-  },
-  {
-    "repo": "stretchr/testify",
-    "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
-  },
-  {
-    "repo": "restic/restic",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
-  },
-  {
-    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
+    "repo": "FireRedTeam/FireRed-Image-Edit",
     "branch": "main",
     "language": "Python",
-    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
-  },
-  {
-    "repo": "modelscope/Awesome-Vibe-Research",
-    "branch": "main",
-    "language": "Python",
-    "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践"
-  },
-  {
-    "repo": "killervillsy/SessionToJson",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "angular/angular",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
-  },
-  {
-    "repo": "microsoft/onnxruntime",
+    "repo": "ryan26craf/Hbar-Wallet-Desktop",
     "branch": "main",
     "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    "description": "A secure, open-source desktop wallet for Hedera HBAR cryptocurrency built with C++ and Qt6."
   },
   {
-    "repo": "d3/d3",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
-  },
-  {
-    "repo": "explosion/spaCy",
+    "repo": "CodeSeven/toastr",
     "branch": "master",
-    "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+    "language": "JavaScript",
+    "description": "Simple javascript toast notifications"
   },
   {
-    "repo": "yaojingang/yao-open-prompts",
+    "repo": "cfinke/EpsteIn",
     "branch": "main",
     "language": "Python",
-    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
   },
   {
-    "repo": "bjarneo/ku",
+    "repo": "Robbyant/lingbot-vla",
     "branch": "main",
-    "language": "Go",
-    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit."
+    "language": "Python",
+    "description": "A Pragmatic VLA Foundation Model"
   },
   {
-    "repo": "starship/starship",
-    "branch": "master",
+    "repo": "nikolinakovacevic1/MLB-The-Show-26-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLB The Show 26 PC: Modding tools, roster editors & Diamond Dynasty API. Automation scripts, market analytics, and save utilities for ultimate gameplay."
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
     "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
+    "repo": "deepmind/dm-haiku",
+    "branch": "main",
+    "language": "Python",
+    "description": "JAX-based neural network library"
   },
   {
-    "repo": "marcelpanse/youtube-guitar-tab-parser",
+    "repo": "thu-ml/Causal-Forcing",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
+  },
+  {
+    "repo": "ghostwright/phantom",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab."
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+  },
+  {
+    "repo": "THUDM/CogVLM",
+    "branch": "main",
+    "language": "Python",
+    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
+  },
+  {
+    "repo": "cdppcorp/KESE-KIT",
+    "branch": "main",
+    "language": "Python",
+    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
+  },
+  {
+    "repo": "better-auth/better-icons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "repo": "m0at/rvllm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+  },
+  {
+    "repo": "Lyy-iiis/pMF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+  },
+  {
+    "repo": "dev-protocol/polymarket-sports-trading-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Sports trading bot that bet on sport pool. polymarket sports trading | polymarket sport betting | polymarket sports bot"
+  },
+  {
+    "repo": "cosmicstack-labs/mercury-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+  },
+  {
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "localstack/localstack",
+    "branch": "master",
+    "language": "Python",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
+  },
+  {
+    "repo": "jasonkneen/openclicky",
+    "branch": "main",
+    "language": "Swift",
+    "description": "openclicky -- the open source version of clicky"
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   }
 ]

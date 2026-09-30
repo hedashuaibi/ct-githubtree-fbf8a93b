@@ -1,8 +1,8 @@
 {
-  "repo": "seamusc/papermono-shopping-list",
+  "repo": "Jiarui-0410/multimodal-product-discovery",
   "branch": "main",
-  "language": "C++",
-  "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
-  "stars": 165,
+  "language": "Python",
+  "description": "Full-stack multimodal product retrieval and personalized reranking with CLIP, FAISS, Spring Boot, FastAPI, and PostgreSQL.",
+  "stars": 131,
   "forks": 5
 }
