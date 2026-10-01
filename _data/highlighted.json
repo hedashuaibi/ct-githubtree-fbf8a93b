@@ -1,8 +1,8 @@
 {
-  "repo": "springvoiceswell/semrush-ai-tool",
+  "repo": "alpcanaydin/tusk",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
-  "stars": 26,
-  "forks": 0
+  "language": "Rust",
+  "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+  "stars": 240,
+  "forks": 12
 }
