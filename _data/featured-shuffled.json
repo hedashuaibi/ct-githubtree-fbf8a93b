@@ -1,146 +1,146 @@
 [
   {
-    "repo": "surrealdb/surrealdb",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
-  },
-  {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Always know what to expect from your data."
-  },
-  {
-    "repo": "lnkiai/m3e-canvas",
+    "repo": "RyensX/OpenCodex",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
+    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
   },
   {
-    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
-  },
-  {
-    "repo": "facebookresearch/llama",
-    "branch": "main",
-    "language": "Python",
-    "description": "Inference code for Llama models"
-  },
-  {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "zhu1090093659/spec_driven_develop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
-  },
-  {
-    "repo": "jamiepine/voicebox",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
-  },
-  {
-    "repo": "Eronred/expo-agent-spinners",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
-  },
-  {
-    "repo": "react-native-maps/react-native-maps",
+    "repo": "ThisIsDara/mhr-cfw-go",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Mapview component for iOS + Android"
-  },
-  {
-    "repo": "babel/babel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
-  },
-  {
-    "repo": "alibaba-damo-academy/RynnBrain",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
-  },
-  {
-    "repo": "DatanoiseTV/tinyice",
-    "branch": "main",
     "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+    "description": "A local proxy that runs on your machine and forwards traffic through Google."
   },
   {
-    "repo": "steipete/discrawl",
-    "branch": "main",
-    "language": "Go",
-    "description": "cli for discord with sqlite backend"
-  },
-  {
-    "repo": "adamveld12/ghost",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Git is the coding agent"
-  },
-  {
-    "repo": "freestylefly/openclaw-wechat",
+    "repo": "bazelbuild/bazel",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
   },
   {
-    "repo": "mgks/GitHubTree",
+    "repo": "hiteshchoudhary/gitbackup",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
+  },
+  {
+    "repo": "fancyai-official/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tw93/Kami",
+    "branch": "main",
+    "language": "HTML",
+    "description": "👩‍🚒 Good content deserves good paper."
+  },
+  {
+    "repo": "areofyl/fetch",
+    "branch": "main",
+    "language": "C",
+    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+  },
+  {
+    "repo": "preactjs/preact",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
   },
   {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
     "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
+    "language": "C++",
+    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
   },
   {
-    "repo": "vignesh07/babyshark",
+    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
     "branch": "main",
-    "language": "Rust",
-    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+    "language": "C++",
+    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
   },
   {
-    "repo": "hilash/cabinet",
+    "repo": "tensorflow/tensorboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TensorFlow's Visualization Toolkit"
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI-first knowledge base and startup OS"
+    "description": "Full-sized drag & drop event calendar in JavaScript"
   },
   {
-    "repo": "jquery/jquery",
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "vueuse/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent Skills for VueUse"
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "Karmacoke/chargen",
     "branch": "main",
     "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
+    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs."
   },
   {
-    "repo": "humanloop/awesome-chatgpt",
+    "repo": "432539/gpt2api",
     "branch": "main",
-    "language": "Other",
-    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+    "language": "Go",
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
   },
   {
-    "repo": "backstage/backstage",
-    "branch": "master",
+    "repo": "Hainrixz/open-carrusel",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
   },
   {
-    "repo": "k2-fsa/OmniVoice",
+    "repo": "dsd2077/CyberVerse",
+    "branch": "main",
+    "language": "Python",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
+  },
+  {
+    "repo": "unicodeveloper/globalthreatmap",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
+  },
+  {
+    "repo": "keras-team/keras-cv",
     "branch": "master",
     "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+    "description": "Industry-strength Computer Vision workflows with Keras"
+  },
+  {
+    "repo": "chaohong-ai/ai-auto-work",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects."
+  },
+  {
+    "repo": "samvallad33/vestige",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
+  },
+  {
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
   }
 ]

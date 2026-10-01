@@ -1,8 +1,8 @@
 {
-  "repo": "YeJe-cpu/SeeCut",
+  "repo": "disler/ten-levels-of-jev",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
-  "stars": 174,
-  "forks": 29
+  "language": "TypeScript",
+  "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
+  "stars": 130,
+  "forks": 42
 }
