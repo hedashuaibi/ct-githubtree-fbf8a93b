@@ -1,8 +1,8 @@
 {
-  "repo": "disler/ten-levels-of-jev",
+  "repo": "springvoiceswell/semrush-ai-tool",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
-  "stars": 130,
-  "forks": 42
+  "language": "JavaScript",
+  "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
+  "stars": 26,
+  "forks": 0
 }

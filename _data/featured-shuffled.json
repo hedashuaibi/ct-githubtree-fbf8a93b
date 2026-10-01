@@ -1,146 +1,146 @@
 [
   {
-    "repo": "RyensX/OpenCodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
-  },
-  {
-    "repo": "ThisIsDara/mhr-cfw-go",
+    "repo": "yearn/yearn-finance",
     "branch": "master",
-    "language": "Go",
-    "description": "A local proxy that runs on your machine and forwards traffic through Google."
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
   },
   {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "hiteshchoudhary/gitbackup",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
-  },
-  {
-    "repo": "fancyai-official/skills",
+    "repo": "AMAP-ML/MathForge",
     "branch": "main",
     "language": "Python",
+    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "branch": "master",
+    "language": "Python",
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
+  },
+  {
+    "repo": "vignesh07/babyshark",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+  },
+  {
+    "repo": "slackhq/nebula",
+    "branch": "master",
+    "language": "Go",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+  },
+  {
+    "repo": "lhfer/claude-howto-zh-cn",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Source Continuous File Synchronization"
+  },
+  {
+    "repo": "6551Team/claude-code-design-guide",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "tw93/Kami",
-    "branch": "main",
-    "language": "HTML",
-    "description": "👩‍🚒 Good content deserves good paper."
-  },
-  {
-    "repo": "areofyl/fetch",
-    "branch": "main",
-    "language": "C",
-    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
-  },
-  {
-    "repo": "preactjs/preact",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
-  },
-  {
-    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
-    "branch": "main",
-    "language": "C++",
-    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
-  },
-  {
-    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
-  },
-  {
-    "repo": "tensorflow/tensorboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TensorFlow's Visualization Toolkit"
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "vueuse/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
-  },
-  {
-    "repo": "Koenkk/zigbee2mqtt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
-  },
-  {
-    "repo": "Karmacoke/chargen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs."
-  },
-  {
-    "repo": "432539/gpt2api",
-    "branch": "main",
-    "language": "Go",
-    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
-  },
-  {
-    "repo": "Hainrixz/open-carrusel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
-  },
-  {
-    "repo": "dsd2077/CyberVerse",
-    "branch": "main",
-    "language": "Python",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
-  },
-  {
-    "repo": "unicodeveloper/globalthreatmap",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
-  },
-  {
-    "repo": "keras-team/keras-cv",
-    "branch": "master",
-    "language": "Python",
-    "description": "Industry-strength Computer Vision workflows with Keras"
-  },
-  {
-    "repo": "chaohong-ai/ai-auto-work",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects."
-  },
-  {
-    "repo": "samvallad33/vestige",
+    "repo": "yologdev/yoyo-evolve",
     "branch": "main",
     "language": "Rust",
-    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
+    "description": "A coding agent that evolves itself. One commit per day."
   },
   {
-    "repo": "kubernetes-sigs/kubespray",
+    "repo": "Shopify/react-native-skia",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High-performance React Native Graphics using Skia"
+  },
+  {
+    "repo": "MasnoNi/Invincible-VS-Game-Release-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support"
+  },
+  {
+    "repo": "thepartly/gatehouse",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
+  },
+  {
+    "repo": "symbolica-ai/arcgentica",
+    "branch": "main",
+    "language": "Python",
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
+  },
+  {
+    "repo": "RasaHQ/rasa",
+    "branch": "main",
+    "language": "Python",
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+  },
+  {
+    "repo": "gpasquero/voog",
+    "branch": "main",
+    "language": "Python",
+    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+  },
+  {
+    "repo": "Infatoshi/metal-mc-terrain",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
+  },
+  {
+    "repo": "andrewjiang/palantir-for-family-trips",
     "branch": "master",
-    "language": "Jinja",
-    "description": "Deploy a Production Ready Kubernetes Cluster"
+    "language": "JavaScript",
+    "description": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "repo": "3DCF-Labs/safepilot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "AI assistant that executes real work, safely."
+  },
+  {
+    "repo": "BabylonJS/Babylon.js",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+  },
+  {
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+  },
+  {
+    "repo": "arpitg1304/robotics-agent-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
+  },
+  {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+  },
+  {
+    "repo": "pynecone-io/pynecone",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "jmuncor/sherlock",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
   }
 ]
