@@ -1,146 +1,146 @@
 [
   {
-    "repo": "metavault-fi/solana-pumpfun-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun Bundler Solana Pumpfun bundler"
+    "repo": "rust-embedded/discovery",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Discover the world of microcontrollers through Rust!"
   },
   {
-    "repo": "outcomeops/context-engineering",
+    "repo": "0x5uo2hen/codex_register",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器"
+  },
+  {
+    "repo": "AI45Lab/TrinityGuard",
+    "branch": "master",
+    "language": "Python",
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
+  },
+  {
+    "repo": "serder8866/Universal_USB_Boot_Maker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
+  },
+  {
+    "repo": "mysghiii/Email_Extractor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Extract email addresses from websites, social media, and text files. Find leads for marketing campaigns."
+  },
+  {
+    "repo": "furkan-bayrak/lg-tv-blocklist",
+    "branch": "main",
+    "language": "Python",
+    "description": "Curated DNS blocklist for LG webOS TV telemetry, ads and phone-home traffic (safe + strict tiers)"
+  },
+  {
+    "repo": "jdshfhds/northcinder",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
+  },
+  {
+    "repo": "aigclink/geolook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
+  },
+  {
+    "repo": "ni5arga/protestchat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Encrypted messaging with no internet, no cell tower, and no server. Phones relay for each other over Bluetooth mesh, so it keeps working during internet shutdowns and inside cellular jammers"
+  },
+  {
+    "repo": "NextWeb4/official-document-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local official-document review, formatting repair, and compliant export desktop assistant."
+  },
+  {
+    "repo": "ZinkLu/Orca-Orchestration",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "NikoDemon80/ComfyUI-H3-Motion-Context",
+    "branch": "main",
+    "language": "Python",
+    "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins"
+  },
+  {
+    "repo": "d4ncboz/qoder-workflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem."
+  },
+  {
+    "repo": "Invaro/opentax-engine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)"
+  },
+  {
+    "repo": "willwefind/mufy-batch-export",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "把 mufy 的聊天记录批量导出成 Markdown + JSON 的油猴脚本"
+  },
+  {
+    "repo": "timj-code/bc7215_ac_matter",
+    "branch": "main",
+    "language": "C++",
+    "description": "Matter protocol universal AC controller on an ESP32, works with all the brands, no App install, no account creating, works directly with Apple Home, Google Home, and Home Assistant."
+  },
+  {
+    "repo": "iximiuz/shellgym",
+    "branch": "main",
+    "language": "Go",
+    "description": "Shell Gym - an Interactive Linux Command-Line Trainer"
+  },
+  {
+    "repo": "Loki200399/india-itr-copilot",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "mgks/GitHubTree",
+    "repo": "50kg/image-to-slice",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS"
   },
   {
-    "repo": "SamNet-dev/conduit-manager",
+    "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
     "branch": "main",
-    "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+    "language": "C",
+    "description": "Unlocking _everything_ on the CPU with DRAM scrambling"
   },
   {
-    "repo": "vansh-nagar/ascii-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
-  },
-  {
-    "repo": "go-pg/pg",
-    "branch": "master",
-    "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
-  },
-  {
-    "repo": "tailwindlabs/heroicons",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
-  },
-  {
-    "repo": "goharbor/community",
-    "branch": "main",
-    "language": "Other",
-    "description": "Harbor community-related material"
-  },
-  {
-    "repo": "bjarneo/cliamp",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terminal Winamp"
-  },
-  {
-    "repo": "tanishqkumar/ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
-  },
-  {
-    "repo": "honojs/hono",
+    "repo": "cursorgrok4-5free/Cursor-Grok-4.5-xAI-free",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Web framework built on Web Standards"
+    "description": "Cursor Grok 4.5 free desktop for Windows, macOS and Linux without X Premium. Grok 4.5 free on Cursor, grok 4.5 free API key and free tier, grok 4.5 vs Opus 5 vs GPT-5.6, grok 4.5 EU release, grok 4.5 app download, grok 4.5 benchmark. No X Premium needed. Real-time web search and coding. Download Cursor Grok 4.5 desktop free 2026."
   },
   {
-    "repo": "raspberrypi/firmware",
-    "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
-  },
-  {
-    "repo": "SVProgressHUD/SVProgressHUD",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
-  },
-  {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "Syngnat/GoNavi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
-  },
-  {
-    "repo": "ohmyzsh/ohmyzsh",
-    "branch": "master",
-    "language": "Shell",
-    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
-  },
-  {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
-  },
-  {
-    "repo": "FireRedTeam/FireRed-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "parcel-bundler/parcel",
-    "branch": "v2",
-    "language": "JavaScript",
-    "description": "The zero configuration build tool for the web. 📦🚀"
-  },
-  {
-    "repo": "simonw/cia-world-factbook-2020",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
-  },
-  {
-    "repo": "hang-in/seCall",
+    "repo": "hsusul/lore",
     "branch": "main",
     "language": "Rust",
-    "description": "recall your second brain"
-  },
-  {
-    "repo": "dev-protocol/polymarket-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket copytrading bot || polymarket copy trading bot || polymarket copy bot ||"
-  },
-  {
-    "repo": "codeany-ai/open-agent-sdk-typescript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
-  },
-  {
-    "repo": "traderwillhu/market_dashboard",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
+  },
+  {
+    "repo": "sgnihttcejbo/chainlink-example",
+    "branch": "main",
+    "language": "Solidity",
+    "description": ""
+  },
+  {
+    "repo": "NulightJens/humanizer-stack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306"
   }
 ]

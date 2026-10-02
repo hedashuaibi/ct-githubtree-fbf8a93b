@@ -1,8 +1,8 @@
 {
-  "repo": "alpcanaydin/tusk",
+  "repo": "guanmo-ai/awesome-ai-motion",
   "branch": "main",
-  "language": "Rust",
-  "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-  "stars": 240,
-  "forks": 12
+  "language": "JavaScript",
+  "description": "精选 AI 动画与视频：作品封面、可播放案例、作者原始提示词与来源。Curated AI motion & video with original prompts. Focused on Claude Opus 5.5.",
+  "stars": 117,
+  "forks": 18
 }
