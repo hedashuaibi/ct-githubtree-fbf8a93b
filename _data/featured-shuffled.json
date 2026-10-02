@@ -1,146 +1,146 @@
 [
   {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
-    "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+    "repo": "apechurch/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
   },
   {
-    "repo": "brendazure/balena-simple",
+    "repo": "Lutschippi/DEHUB",
     "branch": "main",
-    "language": "Solidity",
+    "language": "TypeScript",
+    "description": "The Ultimate Data Engineering Hub — 500+ Resources, 50+ Tools, Roadmaps & Community for Data Engineers Worldwide"
+  },
+  {
+    "repo": "bedriyan/medkit-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+  },
+  {
+    "repo": "mem9-ai/mem9",
+    "branch": "main",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "PauliusOS/pallet-town-3d",
+    "repo": "Dataherald/dataherald",
+    "branch": "main",
+    "language": "Python",
+    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
+  },
+  {
+    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
+  },
+  {
+    "repo": "Higangssh/gitcredits",
+    "branch": "main",
+    "language": "Go",
+    "description": "Roll movie-style credits for your git repo — right in the terminal"
+  },
+  {
+    "repo": "TanStack/router",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
+  },
+  {
+    "repo": "zscole/model-hierarchy-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
+  },
+  {
+    "repo": "asdfgh1445/ctf-super-hub",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "branch": "main",
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+  },
+  {
+    "repo": "pypa/pipx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Install and Run Python Applications in Isolated Environments"
+  },
+  {
+    "repo": "deepchem/deepchem",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Pallet Town — a first-person, modern 3D cartoon reimagining of the opening of Pokemon LeafGreen, built in Three.js with zero binary art assets"
+    "language": "Python",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
   },
   {
-    "repo": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak."
-  },
-  {
-    "repo": "fufankeji/deepseek-harness-studio",
+    "repo": "antfu/ghfs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。"
+    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
   },
   {
-    "repo": "cinderline/northcinder",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
-  },
-  {
-    "repo": "programasweights/claudish",
+    "repo": "openai/openai-python",
     "branch": "main",
     "language": "Python",
-    "description": "Translate between English and Claudish with tiny ProgramAsWeights functions."
+    "description": "The official Python library for the OpenAI API"
   },
   {
-    "repo": "SaladDay/pi-from-scratch",
+    "repo": "Yu9191/sub-store-workers",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版"
+  },
+  {
+    "repo": "datawhalechina/hello-claw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾"
+  },
+  {
+    "repo": "jarodise/pdf2epub-paddle",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "samyns/Unit-3",
+    "branch": "main",
+    "language": "QML",
+    "description": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed"
+  },
+  {
+    "repo": "EvanBacon/serve-sim",
     "branch": "main",
     "language": "TypeScript",
-    "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent"
+    "description": "The `npx serve` of Apple Simulators."
   },
   {
-    "repo": "yizhiyanhua-ai/fireworks-open-eli5",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Evidence-aware interactive visual explainers for Codex and Claude Code."
-  },
-  {
-    "repo": "daimon3332/Outlook-Oauth-GetToken",
-    "branch": "main",
-    "language": "Python",
-    "description": "A standalone OAuth2 refresh_token retrieval tool for existing Outlook / Hotmail accounts. 面向已有 Outlook / Hotmail   账号的独立 OAuth2 refresh_token 获取工具"
-  },
-  {
-    "repo": "KKKKhazix/human-writing",
-    "branch": "main",
-    "language": "Python",
-    "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。"
-  },
-  {
-    "repo": "ArchAstro/scopey",
+    "repo": "huggingface/tokenizers",
     "branch": "main",
     "language": "Rust",
-    "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope"
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
   },
   {
-    "repo": "benjitaylor/drawesome",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Drawing toolbar for React."
-  },
-  {
-    "repo": "wonderfulearth/primitive-operation-painter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autoregressive primitive-operation painter with GPU image-to-sequence converter"
-  },
-  {
-    "repo": "qwen38maxfree/Qwen-3.8-Max-Uncensored-Free",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Qwen 3.8 Max Uncensored Free - Alibaba 2.4T params, 95B active MoE. 1M context, no filters, offline Ollama. Apache 2.0. Free desktop client Windows/Mac/Linux 2026."
-  },
-  {
-    "repo": "ShawnPana/phone-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "let your agent control your phone"
-  },
-  {
-    "repo": "Rimagination/h3lite",
-    "branch": "main",
-    "language": "Python",
-    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
-  },
-  {
-    "repo": "tobi/omasnap",
-    "branch": "main",
-    "language": "C++",
-    "description": "Native Wayland screenshot and annotation editor for Omarchy and Hyprland"
-  },
-  {
-    "repo": "PostmanReminisce/Wisp-VPN",
-    "branch": "main",
-    "language": "C#",
-    "description": "Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без логов, без ограничений по трафику, полностью open-source. В активной разработке. Обходим блокировки в РФ."
-  },
-  {
-    "repo": "lilvli/portable-vna",
-    "branch": "main",
-    "language": "Verilog",
-    "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration."
-  },
-  {
-    "repo": "Nagi-ovo/dsh-find-plugins",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins"
-  },
-  {
-    "repo": "Ashlixy17/PCB_lightgraph_Portable",
-    "branch": "main",
-    "language": "HTML",
-    "description": "此项目是与 PCB_lightgraph 功能完全相同点击即用的Web网页便捷版，无需下载安装。"
-  },
-  {
-    "repo": "ikuV/deident-wasm",
+    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
     "branch": "main",
     "language": "Rust",
-    "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy."
+    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
   },
   {
-    "repo": "0xwilliamortiz/claude-red",
-    "branch": "main",
+    "repo": "Textualize/rich",
+    "branch": "master",
     "language": "Python",
-    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+  },
+  {
+    "repo": "encoredev/encore",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
   }
 ]

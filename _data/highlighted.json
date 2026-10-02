@@ -1,8 +1,8 @@
 {
-  "repo": "Gild-org/gild-contract",
+  "repo": "CluvexStudio/ZedSecure",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-  "stars": 133,
-  "forks": 313
+  "language": "Kotlin",
+  "description": "Multi-core VPN client for Android and desktop: Xray, sing-box, Psiphon, Tor, DNS tunnels, WireGuard/AmneziaWG, OpenConnect, IKEv2",
+  "stars": 143,
+  "forks": 5
 }
