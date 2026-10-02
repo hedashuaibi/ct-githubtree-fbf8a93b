@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rust-embedded/discovery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
-  },
-  {
-    "repo": "0x5uo2hen/codex_register",
+    "repo": "networkx/networkx",
     "branch": "main",
     "language": "Python",
-    "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器"
+    "description": "Network Analysis in Python"
   },
   {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
-    "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
-  },
-  {
-    "repo": "serder8866/Universal_USB_Boot_Maker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
-  },
-  {
-    "repo": "mysghiii/Email_Extractor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Extract email addresses from websites, social media, and text files. Find leads for marketing campaigns."
-  },
-  {
-    "repo": "furkan-bayrak/lg-tv-blocklist",
-    "branch": "main",
-    "language": "Python",
-    "description": "Curated DNS blocklist for LG webOS TV telemetry, ads and phone-home traffic (safe + strict tiers)"
-  },
-  {
-    "repo": "jdshfhds/northcinder",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
-  },
-  {
-    "repo": "aigclink/geolook",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
-  },
-  {
-    "repo": "ni5arga/protestchat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Encrypted messaging with no internet, no cell tower, and no server. Phones relay for each other over Bluetooth mesh, so it keeps working during internet shutdowns and inside cellular jammers"
-  },
-  {
-    "repo": "NextWeb4/official-document-ai-assistant",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local official-document review, formatting repair, and compliant export desktop assistant."
-  },
-  {
-    "repo": "ZinkLu/Orca-Orchestration",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "NikoDemon80/ComfyUI-H3-Motion-Context",
-    "branch": "main",
-    "language": "Python",
-    "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins"
-  },
-  {
-    "repo": "d4ncboz/qoder-workflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem."
-  },
-  {
-    "repo": "Invaro/opentax-engine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)"
-  },
-  {
-    "repo": "willwefind/mufy-batch-export",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "把 mufy 的聊天记录批量导出成 Markdown + JSON 的油猴脚本"
-  },
-  {
-    "repo": "timj-code/bc7215_ac_matter",
+    "repo": "localai-org/motion-bricks.cpp",
     "branch": "main",
     "language": "C++",
-    "description": "Matter protocol universal AC controller on an ESP32, works with all the brands, no App install, no account creating, works directly with Apple Home, Google Home, and Home Assistant."
+    "description": "NVIDIA MotionBricks ported to GGML/C++; dynamically generates animations from keyframes using a neural network. Can be used in games or with robots"
   },
   {
-    "repo": "iximiuz/shellgym",
+    "repo": "DanMcInerney/architect-loop",
     "branch": "main",
-    "language": "Go",
-    "description": "Shell Gym - an Interactive Linux Command-Line Trainer"
+    "language": "HTML",
+    "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop"
   },
   {
-    "repo": "Loki200399/india-itr-copilot",
+    "repo": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
     "branch": "main",
     "language": "Python",
+    "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass."
+  },
+  {
+    "repo": "opengram-server/opengram",
+    "branch": "main",
+    "language": "C#",
     "description": ""
   },
   {
-    "repo": "50kg/image-to-slice",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS"
-  },
-  {
-    "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
-    "branch": "main",
-    "language": "C",
-    "description": "Unlocking _everything_ on the CPU with DRAM scrambling"
-  },
-  {
-    "repo": "cursorgrok4-5free/Cursor-Grok-4.5-xAI-free",
+    "repo": "enmanuelmag/agent-harness-kit",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cursor Grok 4.5 free desktop for Windows, macOS and Linux without X Premium. Grok 4.5 free on Cursor, grok 4.5 free API key and free tier, grok 4.5 vs Opus 5 vs GPT-5.6, grok 4.5 EU release, grok 4.5 app download, grok 4.5 benchmark. No X Premium needed. Real-time web search and coding. Download Cursor Grok 4.5 desktop free 2026."
+    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase."
   },
   {
-    "repo": "hsusul/lore",
+    "repo": "alfiyahkamilah1239298/WallpaperDownloader-26",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "TypeScript",
+    "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
   },
   {
-    "repo": "sgnihttcejbo/chainlink-example",
+    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
     "branch": "main",
-    "language": "Solidity",
-    "description": ""
+    "language": "Java",
+    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
   },
   {
-    "repo": "NulightJens/humanizer-stack",
+    "repo": "pixel-point/media-downloader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Beautiful native macOS video downloader. Download and trim in one app."
+  },
+  {
+    "repo": "khrisat/text-humanizer",
     "branch": "main",
     "language": "Python",
-    "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306"
+    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services."
+  },
+  {
+    "repo": "Jadoox3/Mina-The-Hollower-Release",
+    "branch": "main",
+    "language": "C#",
+    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
+  },
+  {
+    "repo": "anthropics/cwc-long-running-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "apple/foundation-models-utilities",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Emerging and experimental patterns for building with the Foundation Models framework"
+  },
+  {
+    "repo": "nv-tlabs/PiD",
+    "branch": "main",
+    "language": "Python",
+    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
+  },
+  {
+    "repo": "NuvioMedia/NuvioDesktop",
+    "branch": "Dev",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "tools-lua/steam-tools",
+    "branch": "main",
+    "language": "C#",
+    "description": "steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。"
+  },
+  {
+    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
+  },
+  {
+    "repo": "workos/auth.md",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
+  },
+  {
+    "repo": "YuriCrystal/ai-avatar-bot",
+    "branch": "main",
+    "language": "HTML",
+    "description": "可一行嵌入任何網站的 Live2D 語音 AI 虛擬人元件 — 皮肉分離、零金鑰、神經語音可選"
+  },
+  {
+    "repo": "Unicornronote/Microsoft-Office-Activated",
+    "branch": "main",
+    "language": "C++",
+    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
+  },
+  {
+    "repo": "baydarerhan/Sora-2-App-No-Watermark",
+    "branch": "main",
+    "language": "HTML",
+    "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool."
+  },
+  {
+    "repo": "GOROman/nullevi03",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "Binarylunanotice/blooket",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "blooket gui || blooket || blooket api"
+  },
+  {
+    "repo": "viitor-ai/viitor-voice-nar",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
