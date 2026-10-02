@@ -1,8 +1,8 @@
 {
   "repo": "Gild-org/gild-contract",
   "branch": "main",
-  "language": "Solidity",
-  "description": "A featured project on GitHubTree.",
-  "stars": 127,
+  "language": "TypeScript",
+  "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
+  "stars": 133,
   "forks": 313
 }

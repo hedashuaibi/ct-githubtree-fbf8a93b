@@ -1,146 +1,146 @@
 [
   {
-    "repo": "networkx/networkx",
-    "branch": "main",
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
+    "branch": "master",
     "language": "Python",
-    "description": "Network Analysis in Python"
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
   },
   {
-    "repo": "localai-org/motion-bricks.cpp",
+    "repo": "brendazure/balena-simple",
     "branch": "main",
-    "language": "C++",
-    "description": "NVIDIA MotionBricks ported to GGML/C++; dynamically generates animations from keyframes using a neural network. Can be used in games or with robots"
-  },
-  {
-    "repo": "DanMcInerney/architect-loop",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop"
-  },
-  {
-    "repo": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass."
-  },
-  {
-    "repo": "opengram-server/opengram",
-    "branch": "main",
-    "language": "C#",
+    "language": "Solidity",
     "description": ""
   },
   {
-    "repo": "enmanuelmag/agent-harness-kit",
-    "branch": "main",
+    "repo": "PauliusOS/pallet-town-3d",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase."
+    "description": "Pallet Town — a first-person, modern 3D cartoon reimagining of the opening of Pokemon LeafGreen, built in Three.js with zero binary art assets"
   },
   {
-    "repo": "alfiyahkamilah1239298/WallpaperDownloader-26",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
-  },
-  {
-    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
-    "branch": "main",
-    "language": "Java",
-    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
-  },
-  {
-    "repo": "pixel-point/media-downloader",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app."
-  },
-  {
-    "repo": "khrisat/text-humanizer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services."
-  },
-  {
-    "repo": "Jadoox3/Mina-The-Hollower-Release",
-    "branch": "main",
-    "language": "C#",
-    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
-  },
-  {
-    "repo": "anthropics/cwc-long-running-agents",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "apple/foundation-models-utilities",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Emerging and experimental patterns for building with the Foundation Models framework"
-  },
-  {
-    "repo": "nv-tlabs/PiD",
-    "branch": "main",
-    "language": "Python",
-    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
-  },
-  {
-    "repo": "NuvioMedia/NuvioDesktop",
-    "branch": "Dev",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "tools-lua/steam-tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。"
-  },
-  {
-    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
-  },
-  {
-    "repo": "workos/auth.md",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
-  },
-  {
-    "repo": "YuriCrystal/ai-avatar-bot",
-    "branch": "main",
-    "language": "HTML",
-    "description": "可一行嵌入任何網站的 Live2D 語音 AI 虛擬人元件 — 皮肉分離、零金鑰、神經語音可選"
-  },
-  {
-    "repo": "Unicornronote/Microsoft-Office-Activated",
-    "branch": "main",
-    "language": "C++",
-    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
-  },
-  {
-    "repo": "baydarerhan/Sora-2-App-No-Watermark",
-    "branch": "main",
-    "language": "HTML",
-    "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool."
-  },
-  {
-    "repo": "GOROman/nullevi03",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "Binarylunanotice/blooket",
+    "repo": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "blooket gui || blooket || blooket api"
+    "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak."
   },
   {
-    "repo": "viitor-ai/viitor-voice-nar",
+    "repo": "fufankeji/deepseek-harness-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。"
+  },
+  {
+    "repo": "cinderline/northcinder",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
+  },
+  {
+    "repo": "programasweights/claudish",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Translate between English and Claudish with tiny ProgramAsWeights functions."
+  },
+  {
+    "repo": "SaladDay/pi-from-scratch",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent"
+  },
+  {
+    "repo": "yizhiyanhua-ai/fireworks-open-eli5",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Evidence-aware interactive visual explainers for Codex and Claude Code."
+  },
+  {
+    "repo": "daimon3332/Outlook-Oauth-GetToken",
+    "branch": "main",
+    "language": "Python",
+    "description": "A standalone OAuth2 refresh_token retrieval tool for existing Outlook / Hotmail accounts. 面向已有 Outlook / Hotmail   账号的独立 OAuth2 refresh_token 获取工具"
+  },
+  {
+    "repo": "KKKKhazix/human-writing",
+    "branch": "main",
+    "language": "Python",
+    "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。"
+  },
+  {
+    "repo": "ArchAstro/scopey",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope"
+  },
+  {
+    "repo": "benjitaylor/drawesome",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Drawing toolbar for React."
+  },
+  {
+    "repo": "wonderfulearth/primitive-operation-painter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autoregressive primitive-operation painter with GPU image-to-sequence converter"
+  },
+  {
+    "repo": "qwen38maxfree/Qwen-3.8-Max-Uncensored-Free",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Qwen 3.8 Max Uncensored Free - Alibaba 2.4T params, 95B active MoE. 1M context, no filters, offline Ollama. Apache 2.0. Free desktop client Windows/Mac/Linux 2026."
+  },
+  {
+    "repo": "ShawnPana/phone-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "let your agent control your phone"
+  },
+  {
+    "repo": "Rimagination/h3lite",
+    "branch": "main",
+    "language": "Python",
+    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
+  },
+  {
+    "repo": "tobi/omasnap",
+    "branch": "main",
+    "language": "C++",
+    "description": "Native Wayland screenshot and annotation editor for Omarchy and Hyprland"
+  },
+  {
+    "repo": "PostmanReminisce/Wisp-VPN",
+    "branch": "main",
+    "language": "C#",
+    "description": "Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без логов, без ограничений по трафику, полностью open-source. В активной разработке. Обходим блокировки в РФ."
+  },
+  {
+    "repo": "lilvli/portable-vna",
+    "branch": "main",
+    "language": "Verilog",
+    "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration."
+  },
+  {
+    "repo": "Nagi-ovo/dsh-find-plugins",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins"
+  },
+  {
+    "repo": "Ashlixy17/PCB_lightgraph_Portable",
+    "branch": "main",
+    "language": "HTML",
+    "description": "此项目是与 PCB_lightgraph 功能完全相同点击即用的Web网页便捷版，无需下载安装。"
+  },
+  {
+    "repo": "ikuV/deident-wasm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy."
+  },
+  {
+    "repo": "0xwilliamortiz/claude-red",
+    "branch": "main",
+    "language": "Python",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
   }
 ]
