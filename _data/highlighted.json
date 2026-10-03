@@ -1,8 +1,8 @@
 {
-  "repo": "OmniJev/OneJev",
+  "repo": "storytold/photocraft",
   "branch": "main",
-  "language": "Python",
-  "description": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
-  "stars": 113,
-  "forks": 12
+  "language": "Rust",
+  "description": "A featured project on GitHubTree.",
+  "stars": 316,
+  "forks": 36
 }
