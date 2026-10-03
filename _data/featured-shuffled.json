@@ -1,146 +1,146 @@
 [
   {
-    "repo": "peridotfoundation/MT5-Directional-Flow-Dashboard",
-    "branch": "main",
-    "language": "HTML",
-    "description": "MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts"
-  },
-  {
-    "repo": "GongChang2020/ollama-gui-manager",
-    "branch": "main",
-    "language": "Vue",
-    "description": "Desktop GUI for managing local Ollama models and proxy access. Built with Electron + Vue 3."
-  },
-  {
-    "repo": "Doorman11991/smallcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
-  },
-  {
-    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
+    "repo": "tangxu1995/DBD-AutoGrind-Trainer-2026-Elite",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "OpenSquilla/opensquilla",
+    "repo": "reflex-dev/reflex",
     "branch": "main",
     "language": "Python",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
+    "description": "🕸️ Web apps in pure Python 🐍"
   },
   {
-    "repo": "FULU-Foundation/OrcaSlicer-bambulab",
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
     "branch": "main",
-    "language": "C++",
-    "description": ""
+    "language": "TypeScript",
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
   },
   {
-    "repo": "blitzdotdev/blitzos",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed"
-  },
-  {
-    "repo": "tmchow/illo-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered."
-  },
-  {
-    "repo": "ajayprabhuraj/institutional-orderflow-mt5",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 SMC Trading Toolkit: Real-Time Order Blocks & Fair Value Gaps for MT5"
-  },
-  {
-    "repo": "m00grin/ph-intercept",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
-  },
-  {
-    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
     "language": "Rust",
-    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+    "repo": "facebookresearch/actionmesh",
     "branch": "main",
     "language": "Python",
-    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
   },
   {
-    "repo": "stormzhang/token-tracker",
+    "repo": "AgriciDaniel/claude-ads",
+    "branch": "main",
+    "language": "Python",
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
+  },
+  {
+    "repo": "sirupsen/logrus",
     "branch": "master",
-    "language": "Python",
-    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
-  },
-  {
-    "repo": "xsser/codex-jailbreak-guide",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex CLI jailbreak guide — customizing system prompt via model_instructions_file config"
-  },
-  {
-    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "JimLiu/science-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "QuantumByteOSS/quantumbyte",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source app builder engine — intent to working app"
-  },
-  {
-    "repo": "CostaliyA/Flow-OPD",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
-  },
-  {
-    "repo": "SrihanReddy06/JSON_Editor___Validator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Edit, validate, and format JSON files with a user-friendly interface. Syntax highlighting, error detection, and tree view. Perfect for API development and configuration."
-  },
-  {
-    "repo": "vadimsemenykv/saboteur",
-    "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "Structured, pluggable logging for Go."
   },
   {
-    "repo": "mrh000mrh/MRH-G2Ray-2",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "martinkoutecky/tine",
+    "repo": "Pylons/pyramid",
     "branch": "master",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "Pyramid - A Python web framework"
   },
   {
-    "repo": "PlaceNL2026/best-of-algorithmic-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
+    "repo": "npm/cli",
+    "branch": "latest",
+    "language": "JavaScript",
+    "description": "the package manager for JavaScript"
   },
   {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
+    "repo": "Olshansk/interview",
+    "branch": "master",
+    "language": "Other",
+    "description": "Everything you need to prepare for your technical interview"
+  },
+  {
+    "repo": "Haleclipse/CodexDesktop-Rebuild",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Codex Desktop App - Cross-platform Rebuild"
+  },
+  {
+    "repo": "lib/pq",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go PostgreSQL driver for database/sql"
+  },
+  {
+    "repo": "Lissy93/awesome-privacy",
+    "branch": "main",
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
+  },
+  {
+    "repo": "barrosyan/PINNeAPPle",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
+  },
+  {
+    "repo": "ruanyf/weekly",
+    "branch": "master",
+    "language": "Other",
+    "description": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "repo": "shadowsocks/shadowsocks-windows",
+    "branch": "master",
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
+  },
+  {
+    "repo": "Uniswap/interface",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
+    "description": "🦄 Open source interfaces for the Uniswap protocol"
+  },
+  {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "A framework for few-shot evaluation of language models."
+  },
+  {
+    "repo": "akullpp/awesome-java",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "repo": "enaqx/awesome-react",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "Neovim config for the lazy"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "REST API for any Postgres database"
+  },
+  {
+    "repo": "bigcode-project/starcoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Home of StarCoder: fine-tuning & inference!"
+  },
+  {
+    "repo": "rest-assured/rest-assured",
+    "branch": "master",
+    "language": "Java",
+    "description": "Java DSL for easy testing of REST services"
   }
 ]
