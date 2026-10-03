@@ -1,146 +1,146 @@
 [
   {
-    "repo": "slvDev/esp32-ai",
+    "repo": "peridotfoundation/MT5-Directional-Flow-Dashboard",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "HTML",
+    "description": "MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts"
   },
   {
-    "repo": "OnlyTerp/UltraCode-Shim",
+    "repo": "GongChang2020/ollama-gui-manager",
     "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+    "language": "Vue",
+    "description": "Desktop GUI for managing local Ollama models and proxy access. Built with Electron + Vue 3."
   },
   {
-    "repo": "jdevalk/specification.website",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
-  },
-  {
-    "repo": "AITabby/opencodex",
+    "repo": "Doorman11991/smallcode",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
+    "language": "JavaScript",
+    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
   },
   {
-    "repo": "InsiderX-Pro/LogicCut",
+    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Poya88/MultipleRobloxInstances-",
-    "branch": "main",
-    "language": "C#",
-    "description": "multiple roblox instances multi account launcher github download bloxstrap roblox alt manager ram multi client singletons mutex tool alt account farming concurrent instances pc gaming gameplay background runner open source desktop utility multitaskingsingle client"
-  },
-  {
-    "repo": "stagas/hallucinate",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Massively Multiplayer Online Rave"
-  },
-  {
-    "repo": "uu201/character-arc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
-  },
-  {
-    "repo": "lawrencewzen/imgen",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Codex 图片生成 CLI（文生图 + 图生图）"
-  },
-  {
-    "repo": "Jabo1209/CC-Gen-Checker",
-    "branch": "main",
-    "language": "C#",
-    "description": "A safe and educational tool for generating and validating credit card number formats."
-  },
-  {
-    "repo": "recursive-org/first-steps-toward-automated-ai-research",
+    "repo": "OpenSquilla/opensquilla",
     "branch": "main",
     "language": "Python",
-    "description": "Research artifacts from Recursive's automated AI research system"
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
   },
   {
-    "repo": "tamnd/kage",
-    "branch": "main",
-    "language": "Go",
-    "description": "Shadow any website for offline viewing, with the JavaScript stripped out"
-  },
-  {
-    "repo": "jackquelineheth08161673473/discord-server-booster-2",
+    "repo": "FULU-Foundation/OrcaSlicer-bambulab",
     "branch": "main",
     "language": "C++",
-    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
-  },
-  {
-    "repo": "Jadoox3/Mina-The-Hollower-Release",
-    "branch": "main",
-    "language": "C#",
-    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
-  },
-  {
-    "repo": "GOROman/nullevi03",
-    "branch": "main",
-    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
-  },
-  {
-    "repo": "Tencent-Hunyuan/UniRL",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
-  },
-  {
-    "repo": "BlackCandleLab/polymarket-trading-bot",
+    "repo": "blitzdotdev/blitzos",
     "branch": "main",
     "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,"
+    "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed"
   },
   {
-    "repo": "mikubaka88/CCFA-Skills",
-    "branch": "main",
-    "language": "TeX",
-    "description": ""
-  },
-  {
-    "repo": "YangyangQu/research-idea-scout",
+    "repo": "tmchow/illo-skill",
     "branch": "main",
     "language": "Python",
+    "description": "illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered."
+  },
+  {
+    "repo": "ajayprabhuraj/institutional-orderflow-mt5",
+    "branch": "main",
+    "language": "HTML",
+    "description": "2026 SMC Trading Toolkit: Real-Time Order Blocks & Fair Value Gaps for MT5"
+  },
+  {
+    "repo": "m00grin/ph-intercept",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style."
+  },
+  {
+    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+  },
+  {
+    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+  },
+  {
+    "repo": "stormzhang/token-tracker",
+    "branch": "master",
+    "language": "Python",
+    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
+  },
+  {
+    "repo": "xsser/codex-jailbreak-guide",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex CLI jailbreak guide — customizing system prompt via model_instructions_file config"
+  },
+  {
+    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "JimLiu/science-skills",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "Dharyen/ryujinx-emu",
+    "repo": "QuantumByteOSS/quantumbyte",
     "branch": "main",
-    "language": "C#",
-    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+    "language": "Python",
+    "description": "Open-source app builder engine — intent to working app"
   },
   {
-    "repo": "Sinotrade/shioaji-pro-app",
+    "repo": "CostaliyA/Flow-OPD",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
+  },
+  {
+    "repo": "SrihanReddy06/JSON_Editor___Validator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Edit, validate, and format JSON files with a user-friendly interface. Syntax highlighting, error detection, and tree view. Perfect for API development and configuration."
+  },
+  {
+    "repo": "vadimsemenykv/saboteur",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "mrh000mrh/MRH-G2Ray-2",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "martinkoutecky/tine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "PlaceNL2026/best-of-algorithmic-trading",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trade & drag-to-reprice, flash order ladder, stop/take-profit triggers, customizable drag-and-drop workspace"
+    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
   },
   {
-    "repo": "tony-cote/walletgen",
+    "repo": "devdriveLLM/polymarket-copy-trading-bot",
     "branch": "main",
-    "language": "C++",
-    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
-  },
-  {
-    "repo": "Orange2019220/ReluPruner",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
   }
 ]
