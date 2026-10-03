@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apechurch/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "Lutschippi/DEHUB",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Ultimate Data Engineering Hub — 500+ Resources, 50+ Tools, Roadmaps & Community for Data Engineers Worldwide"
-  },
-  {
-    "repo": "bedriyan/medkit-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
-  },
-  {
-    "repo": "mem9-ai/mem9",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "Dataherald/dataherald",
-    "branch": "main",
-    "language": "Python",
-    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
-  },
-  {
-    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
-  },
-  {
-    "repo": "Higangssh/gitcredits",
-    "branch": "main",
-    "language": "Go",
-    "description": "Roll movie-style credits for your git repo — right in the terminal"
-  },
-  {
-    "repo": "TanStack/router",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
-  },
-  {
-    "repo": "zscole/model-hierarchy-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
-  },
-  {
-    "repo": "asdfgh1445/ctf-super-hub",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式"
-  },
-  {
-    "repo": "XTLS/Xray-core",
-    "branch": "main",
-    "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
-  },
-  {
-    "repo": "pypa/pipx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Install and Run Python Applications in Isolated Environments"
-  },
-  {
-    "repo": "deepchem/deepchem",
-    "branch": "master",
-    "language": "Python",
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
-  },
-  {
-    "repo": "antfu/ghfs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "Yu9191/sub-store-workers",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版"
-  },
-  {
-    "repo": "datawhalechina/hello-claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾"
-  },
-  {
-    "repo": "jarodise/pdf2epub-paddle",
+    "repo": "slvDev/esp32-ai",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "samyns/Unit-3",
+    "repo": "OnlyTerp/UltraCode-Shim",
     "branch": "main",
-    "language": "QML",
-    "description": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed"
+    "language": "Python",
+    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
   },
   {
-    "repo": "EvanBacon/serve-sim",
+    "repo": "jdevalk/specification.website",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The `npx serve` of Apple Simulators."
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
   },
   {
-    "repo": "huggingface/tokenizers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
-  },
-  {
-    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
-  },
-  {
-    "repo": "Textualize/rich",
+    "repo": "AITabby/opencodex",
     "branch": "master",
-    "language": "Python",
-    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+    "language": "TypeScript",
+    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
   },
   {
-    "repo": "encoredev/encore",
+    "repo": "InsiderX-Pro/LogicCut",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Poya88/MultipleRobloxInstances-",
+    "branch": "main",
+    "language": "C#",
+    "description": "multiple roblox instances multi account launcher github download bloxstrap roblox alt manager ram multi client singletons mutex tool alt account farming concurrent instances pc gaming gameplay background runner open source desktop utility multitaskingsingle client"
+  },
+  {
+    "repo": "stagas/hallucinate",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Massively Multiplayer Online Rave"
+  },
+  {
+    "repo": "uu201/character-arc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
+  },
+  {
+    "repo": "lawrencewzen/imgen",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Codex 图片生成 CLI（文生图 + 图生图）"
+  },
+  {
+    "repo": "Jabo1209/CC-Gen-Checker",
+    "branch": "main",
+    "language": "C#",
+    "description": "A safe and educational tool for generating and validating credit card number formats."
+  },
+  {
+    "repo": "recursive-org/first-steps-toward-automated-ai-research",
+    "branch": "main",
+    "language": "Python",
+    "description": "Research artifacts from Recursive's automated AI research system"
+  },
+  {
+    "repo": "tamnd/kage",
     "branch": "main",
     "language": "Go",
-    "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    "description": "Shadow any website for offline viewing, with the JavaScript stripped out"
+  },
+  {
+    "repo": "jackquelineheth08161673473/discord-server-booster-2",
+    "branch": "main",
+    "language": "C++",
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
+  },
+  {
+    "repo": "Jadoox3/Mina-The-Hollower-Release",
+    "branch": "main",
+    "language": "C#",
+    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
+  },
+  {
+    "repo": "GOROman/nullevi03",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
+  },
+  {
+    "repo": "Tencent-Hunyuan/UniRL",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+  },
+  {
+    "repo": "BlackCandleLab/polymarket-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,"
+  },
+  {
+    "repo": "mikubaka88/CCFA-Skills",
+    "branch": "main",
+    "language": "TeX",
+    "description": ""
+  },
+  {
+    "repo": "YangyangQu/research-idea-scout",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Dharyen/ryujinx-emu",
+    "branch": "main",
+    "language": "C#",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "repo": "Sinotrade/shioaji-pro-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trade & drag-to-reprice, flash order ladder, stop/take-profit triggers, customizable drag-and-drop workspace"
+  },
+  {
+    "repo": "tony-cote/walletgen",
+    "branch": "main",
+    "language": "C++",
+    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
+  },
+  {
+    "repo": "Orange2019220/ReluPruner",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
