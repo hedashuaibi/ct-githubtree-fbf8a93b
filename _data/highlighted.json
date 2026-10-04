@@ -1,8 +1,8 @@
 {
-  "repo": "storytold/photocraft",
+  "repo": "jayleaton/glm53-tensorfold-spark",
   "branch": "main",
-  "language": "Rust",
-  "description": "A featured project on GitHubTree.",
-  "stars": 316,
-  "forks": 36
+  "language": "Python",
+  "description": "GLM-5.3-Flash (abliterated EXL3) on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8x faster decode than vLLM, 4x256k concurrent threads, byte-exact speculative decoding. Work in progress.",
+  "stars": 104,
+  "forks": 10
 }

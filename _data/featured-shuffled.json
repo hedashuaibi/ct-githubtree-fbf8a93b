@@ -1,146 +1,146 @@
 [
   {
-    "repo": "marshallrichards/ClawPhone",
+    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
     "branch": "main",
-    "language": "Python",
-    "description": "Tweaks for running OpenClaw on a Android smartphone"
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
   },
   {
-    "repo": "wonderfulearth/primitive-operation-painter",
-    "branch": "main",
+    "repo": "sudoingX/qwen38-mtp",
+    "branch": "master",
     "language": "Python",
-    "description": "Autoregressive primitive-operation painter with GPU image-to-sequence converter"
+    "description": "One llama.cpp flag unlocks +33-39% decode speed for Qwen3.8-27B on consumer GPUs. The MTP head already ships inside your GGUF. Recipe, paired benchmarks, probe tool."
   },
   {
-    "repo": "patterniha/Free-Configs",
+    "repo": "6551Team/opennews-mcp",
     "branch": "main",
     "language": "Python",
+    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "repo": "h9zdev/WireTapper",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
+  },
+  {
+    "repo": "DangJin/pdf2video",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Transform PDF documents into engaging video presentations with smooth animations."
+  },
+  {
+    "repo": "terausss/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+  },
+  {
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "jasperan/picooraclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "PicoClaw that works with Oracle AI Database"
+  },
+  {
+    "repo": "vigorX777/product-design-system",
+    "branch": "main",
+    "language": "HTML",
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+  },
+  {
+    "repo": "xiaotianfotos/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "视频中分享的方法论代码参考"
+  },
+  {
+    "repo": "sndrec/WebMonkeyBall",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Super Monkey Ball on Web Broser."
+  },
+  {
+    "repo": "teamchong/turboquant-wasm",
+    "branch": "main",
+    "language": "Zig",
+    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
+  },
+  {
+    "repo": "ysharma3501/LuxTTS",
+    "branch": "master",
+    "language": "Python",
+    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
+  },
+  {
+    "repo": "OpenRaiser/NanoResearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant"
+  },
+  {
+    "repo": "openmax-server/server",
+    "branch": "master",
+    "language": "Python",
+    "description": "Открытый сервер для MAX"
+  },
+  {
+    "repo": "ZeroAd-06/MAACodex",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "CaptureGrubEnchant/SolidWorks",
+    "repo": "TheCSir/TerminalStart",
     "branch": "main",
     "language": "TypeScript",
-    "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros."
+    "description": "Chromium Extension for Tech Bros"
   },
   {
-    "repo": "liyue-aigc/seedance-2-5-video-director",
+    "repo": "facebookresearch/actionmesh",
     "branch": "main",
     "language": "Python",
-    "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导"
+    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
   },
   {
-    "repo": "Sateezg/codex-bridge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key."
-  },
-  {
-    "repo": "NikolayS/PGSimCity",
+    "repo": "dev-protocol/polymarket-ai-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An explorable 3D city that shows how Postgres actually works"
+    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
   },
   {
-    "repo": "digimata/quill",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Ultraminimalist macOS recording + transcription."
-  },
-  {
-    "repo": "duty1g/x64dbg-mcp-server",
-    "branch": "main",
-    "language": "Zig",
-    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros"
-  },
-  {
-    "repo": "tabtin-ai/TabTin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A workspace where people and multiple AI agents work together."
-  },
-  {
-    "repo": "harrietbrooke/NeuralEdge",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Dynamically parallel data ingestion and adaptive analytics converge in real-time, forging resilient enterprise intelligence."
-  },
-  {
-    "repo": "rustyharbor308774/Ethereum-bot",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle."
-  },
-  {
-    "repo": "PauliusOS/pallet-town-3d",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Pallet Town — a first-person, modern 3D cartoon reimagining of the opening of Pokemon LeafGreen, built in Three.js with zero binary art assets"
-  },
-  {
-    "repo": "acryldev/acryl",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent."
-  },
-  {
-    "repo": "Hebbian-Robotics/hflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source SDK for building data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI."
-  },
-  {
-    "repo": "yizhiyanhua-ai/fireworks-open-eli5",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Evidence-aware interactive visual explainers for Codex and Claude Code."
-  },
-  {
-    "repo": "disler/fixing-smartass-opus-5",
-    "branch": "main",
-    "language": "Just",
-    "description": "Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner."
-  },
-  {
-    "repo": "d4ncboz/qoder-workflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem."
-  },
-  {
-    "repo": "NanmiCoder/open-image-prompts",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open, local-first visual prompt archive with traceable prompt-image references and installable Agent Skills."
-  },
-  {
-    "repo": "rome-os/rome",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Rome is the agentic OS."
-  },
-  {
-    "repo": "Nanako0129/sepia",
-    "branch": "main",
-    "language": "Shell",
-    "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136)."
-  },
-  {
-    "repo": "Tencent/WeMM-Embedding",
-    "branch": "main",
-    "language": "Python",
-    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval."
-  },
-  {
-    "repo": "thebuggeddev/football-stadium",
+    "repo": "teorth/optimizationproblems",
     "branch": "main",
     "language": "HTML",
-    "description": "A 3D football stadium to visualize where you sit in the seat before you buy it"
+    "description": "A collection of optimization problems in mathematics"
   },
   {
-    "repo": "Bartates/lunar-client-minecraft",
+    "repo": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "lunar client minecraft download launcher fps boost pvp mods sodium optifine cosmetics windows 11 latest version 2026 free setup guide fix"
+    "language": "TypeScript",
+    "description": "Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts."
+  },
+  {
+    "repo": "maile456/qq-farm-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+  },
+  {
+    "repo": "barrosyan/PINNeAPPle",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
   }
 ]
