@@ -1,146 +1,146 @@
 [
   {
-    "repo": "TristanH/wikiwise",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "LSPosed/DirtySepolicy",
-    "branch": "master",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "eooce/transfer-api",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
-  },
-  {
-    "repo": "Jakeschincariol/linkedin-agent-skill",
+    "repo": "Vibhav11Krishna/Application_Uninstaller_Pro",
     "branch": "main",
     "language": "Python",
-    "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out."
+    "description": "Uninstall applications completely, including leftover files and registry entries. Remove stubborn software."
   },
   {
-    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
+    "repo": "tongxuluo/gamecraft-bench",
     "branch": "main",
-    "language": "C#",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
+    "language": "Shell",
+    "description": "Code and Data for paper GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?"
   },
   {
-    "repo": "MatixYo/ESP32-Plane-Radar",
-    "branch": "main",
-    "language": "C++",
-    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar."
-  },
-  {
-    "repo": "dexhorthy/shannon",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "alternative to claude -p that lifecycles interactive sessions in tmux"
-  },
-  {
-    "repo": "NabilAziz99/agent-runtime",
+    "repo": "ksimback/looper",
     "branch": "main",
     "language": "Python",
-    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
+    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
   },
   {
-    "repo": "elder-plinius/ENTHEA",
-    "branch": "main",
-    "language": "HTML",
-    "description": "real-time psychedelic visual synthesizer and pro-grade music visualizer"
-  },
-  {
-    "repo": "anomalyco/rift",
-    "branch": "dev",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "rotejin/tomari-guruguru",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター"
-  },
-  {
-    "repo": "jdevalk/specification.website",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
-  },
-  {
-    "repo": "FengZi1221/proxy-installer",
+    "repo": "Charles-0509/Grok-Register",
     "branch": "main",
     "language": "Go",
-    "description": "一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接"
+    "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
   },
   {
-    "repo": "kerlos/pordee",
+    "repo": "nateherkai/snagtime",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
+    "language": "TypeScript",
+    "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments."
   },
   {
-    "repo": "Jasionf/smart-home-button",
+    "repo": "NVIDIA-NeMo/labs-OO-Agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "labs-OO-agents"
+  },
+  {
+    "repo": "fl25freedaw/FL-25.2.5",
     "branch": "main",
     "language": "C++",
+    "description": "FL 25.2.5 free download full DAW for Windows 10 and 11. Piano roll, Edison, Maximus, VST and VST3 support for beat making, mixing and mastering. FL 25 free all plugins edition, FL 25 vs 24, FL  themes,  fix, latest version download. Best music production software 2026. Download FL 25.2.5 setup free."
+  },
+  {
+    "repo": "0xwilliamortiz/claude-red",
+    "branch": "main",
+    "language": "Python",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+  },
+  {
+    "repo": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
+  },
+  {
+    "repo": "lihaoyun6/ComfyUI-H3VAE_TRT",
+    "branch": "main",
+    "language": "Python",
+    "description": "Running ONNX/TRT version of the MiniMax-H3 VAE in ComfyUI, which increase speed by up to 1.7x"
+  },
+  {
+    "repo": "PC2005-cloud/dsh-pet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline"
+  },
+  {
+    "repo": "luvrix/fluxmend",
+    "branch": "master",
+    "language": "Python",
+    "description": "Streaming FSM validation + layered repair for LLM outputs with embedded structured components"
+  },
+  {
+    "repo": "vibeinging/deepseek-harness-desktop-app",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts."
+  },
+  {
+    "repo": "MSNightmare/ShieldBreak",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows Defender 0day vulnerability"
+  },
+  {
+    "repo": "erikwb/blueferry",
+    "branch": "main",
+    "language": "Python",
+    "description": "iMessage/SMS over Bluetooth to Linux. No proxy or cloud!"
+  },
+  {
+    "repo": "Electricitysheep/dsh-handbook",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）"
+  },
+  {
+    "repo": "iamlukethedev/Hermes3D",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications."
+  },
+  {
+    "repo": "mufengyuan666/Breaker",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "Nightmare-Eclipse/MiniPlasma",
-    "branch": "main",
-    "language": "C#",
-    "description": "CVE-2020-17103 supposedly still works"
-  },
-  {
-    "repo": "Mr-Un1k0d3r/AzureRedOps",
+    "repo": "Tommy-yw/RunbookHermes",
     "branch": "main",
     "language": "Python",
-    "description": "Azure RedOps is a offensive security toolkit for assessing the security posture of Microsoft Entra ID"
+    "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning."
   },
   {
-    "repo": "six-ddc/livecaption",
+    "repo": "lynaghk/vibe",
     "branch": "main",
-    "language": "Python",
-    "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud."
+    "language": "Rust",
+    "description": "Easy Linux virtual machine on MacOS to sandbox LLM agents."
   },
   {
-    "repo": "skydoves/compose-nav-graph",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions."
-  },
-  {
-    "repo": "dzcmemory-web/bazi-ziwei-skill",
+    "repo": "Aidenybai/React-Scan",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。"
+    "description": "Scan for React performance issues and eliminate slow renders in your app"
   },
   {
-    "repo": "virgo777/buddyme",
-    "branch": "master",
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+  },
+  {
+    "repo": "deepika-builds/liquid-glass",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Apple-style liquid glass for the web — real refraction via SVG displacement, one file, zero dependencies"
+  },
+  {
+    "repo": "Icex0/wp2shell-poc",
+    "branch": "main",
     "language": "Python",
-    "description": "Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system."
-  },
-  {
-    "repo": "AdrianNavaG/Polymarket-Arbitrage-Crypto-Trading-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "Doriandarko/texts-to-transformer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac."
-  },
-  {
-    "repo": "kunchenguid/dotfiles",
-    "branch": "main",
-    "language": "Nix",
-    "description": "Kun's dotfiles for agentic engineering"
+    "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain"
   }
 ]
