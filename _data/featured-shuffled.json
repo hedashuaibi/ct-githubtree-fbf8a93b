@@ -1,146 +1,146 @@
 [
   {
-    "repo": "shipfastlabs/parsel",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A fast, helpful, and open-source document parser for PHP"
-  },
-  {
-    "repo": "Unknow-human/Anime_Defenders_-_Auto-Place___Auto-Farm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-place and auto-farm for Anime Defenders, the anime tower defense game[reference:49]. Place defenders, farm gems, and beat every wave."
-  },
-  {
-    "repo": "littlepeachs/NaturePanelForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
-  },
-  {
-    "repo": "MORTEN-BUUR/nordef-matrix-open-control",
-    "branch": "master",
-    "language": "Python",
-    "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank"
-  },
-  {
-    "repo": "edison-land/paragravity",
-    "branch": "main",
-    "language": "Python",
-    "description": "Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity"
-  },
-  {
-    "repo": "x4gpanell/SuperJinX",
+    "repo": "TristanH/wikiwise",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "adonis-singh/re4",
+    "repo": "LSPosed/DirtySepolicy",
     "branch": "master",
-    "language": "C++",
-    "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++"
-  },
-  {
-    "repo": "kdbhalala/avdslim",
-    "branch": "main",
-    "language": "Go",
-    "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim."
-  },
-  {
-    "repo": "kerpopule/hermes-jev-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)"
-  },
-  {
-    "repo": "ctdal/cve-2026-41940-PoC",
-    "branch": "main",
-    "language": "Python",
-    "description": "A cPanel and WHM authentication bypassing tool"
-  },
-  {
-    "repo": "jaredpalmer/kev",
-    "branch": "main",
-    "language": "Python",
-    "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook"
-  },
-  {
-    "repo": "LSPosed/ZygiskNext",
-    "branch": "main",
-    "language": "C",
-    "description": "Standalone implementation of Zygisk"
-  },
-  {
-    "repo": "SpikeCalls/FlyDrones",
-    "branch": "main",
-    "language": "Python",
-    "description": "A fruit fly connectome as a drone pilot. Camera -> fly eyes -> spiking brain -> descending neurons -> drone. Live 3D demo in your browser."
-  },
-  {
-    "repo": "Mak5er/AirCard",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)"
-  },
-  {
-    "repo": "nMaas8388/github-ranking-audit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Audit your GitHub repository search ranking signals. Checks name, description, topics, README, stars, forks, and activity."
-  },
-  {
-    "repo": "githubnext/localjev",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Java",
     "description": ""
   },
   {
-    "repo": "fatwang2/awesome-jev",
+    "repo": "eooce/transfer-api",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A source-backed Jev project directory with a reusable Jev-only GitHub review workflow."
+    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
   },
   {
-    "repo": "Mak5er/AirCard-iOS",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Apple Wallet card skins and lock screen passcode themes on iOS 27."
-  },
-  {
-    "repo": "mizorewww/laya-mlx",
+    "repo": "Jakeschincariol/linkedin-agent-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
+    "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out."
   },
   {
-    "repo": "Epic0522/REGTA-3DSPort-Complete",
+    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
+    "branch": "main",
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
+  },
+  {
+    "repo": "MatixYo/ESP32-Plane-Radar",
     "branch": "main",
     "language": "C++",
-    "description": "GTA III, VC, LCS ports for New Nintendo 3DS family."
+    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar."
   },
   {
-    "repo": "kitze/unclutter",
+    "repo": "dexhorthy/shannon",
     "branch": "main",
     "language": "TypeScript",
-    "description": "WXT browser extension: Jev-powered page clutter removal with reusable template rules."
+    "description": "alternative to claude -p that lifecycles interactive sessions in tmux"
   },
   {
-    "repo": "arvindear/wp2shell-PoC",
+    "repo": "NabilAziz99/agent-runtime",
     "branch": "main",
     "language": "Python",
-    "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept"
+    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
   },
   {
-    "repo": "webprodigies-org/flute",
+    "repo": "elder-plinius/ENTHEA",
+    "branch": "main",
+    "language": "HTML",
+    "description": "real-time psychedelic visual synthesizer and pro-grade music visualizer"
+  },
+  {
+    "repo": "anomalyco/rift",
+    "branch": "dev",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "rotejin/tomari-guruguru",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター"
+  },
+  {
+    "repo": "jdevalk/specification.website",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cinematic 3D scenes from your live React UI. Flute by Web Prodigies."
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
   },
   {
-    "repo": "featherless-ai/simple-jev",
+    "repo": "FengZi1221/proxy-installer",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接"
+  },
+  {
+    "repo": "kerlos/pordee",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
+  },
+  {
+    "repo": "Jasionf/smart-home-button",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "Nightmare-Eclipse/MiniPlasma",
+    "branch": "main",
+    "language": "C#",
+    "description": "CVE-2020-17103 supposedly still works"
+  },
+  {
+    "repo": "Mr-Un1k0d3r/AzureRedOps",
     "branch": "main",
     "language": "Python",
-    "description": "Turn any open model into a classifier/jev endpoint"
+    "description": "Azure RedOps is a offensive security toolkit for assessing the security posture of Microsoft Entra ID"
+  },
+  {
+    "repo": "six-ddc/livecaption",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud."
+  },
+  {
+    "repo": "skydoves/compose-nav-graph",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions."
+  },
+  {
+    "repo": "dzcmemory-web/bazi-ziwei-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。"
+  },
+  {
+    "repo": "virgo777/buddyme",
+    "branch": "master",
+    "language": "Python",
+    "description": "Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system."
+  },
+  {
+    "repo": "AdrianNavaG/Polymarket-Arbitrage-Crypto-Trading-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "Doriandarko/texts-to-transformer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac."
+  },
+  {
+    "repo": "kunchenguid/dotfiles",
+    "branch": "main",
+    "language": "Nix",
+    "description": "Kun's dotfiles for agentic engineering"
   }
 ]
