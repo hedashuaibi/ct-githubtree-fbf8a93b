@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+    "repo": "shipfastlabs/parsel",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
+    "language": "PHP",
+    "description": "A fast, helpful, and open-source document parser for PHP"
   },
   {
-    "repo": "sudoingX/qwen38-mtp",
+    "repo": "Unknow-human/Anime_Defenders_-_Auto-Place___Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-place and auto-farm for Anime Defenders, the anime tower defense game[reference:49]. Place defenders, farm gems, and beat every wave."
+  },
+  {
+    "repo": "littlepeachs/NaturePanelForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
+  },
+  {
+    "repo": "MORTEN-BUUR/nordef-matrix-open-control",
     "branch": "master",
     "language": "Python",
-    "description": "One llama.cpp flag unlocks +33-39% decode speed for Qwen3.8-27B on consumer GPUs. The MTP head already ships inside your GGUF. Recipe, paired benchmarks, probe tool."
+    "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank"
   },
   {
-    "repo": "6551Team/opennews-mcp",
+    "repo": "edison-land/paragravity",
     "branch": "main",
     "language": "Python",
-    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+    "description": "Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity"
   },
   {
-    "repo": "h9zdev/WireTapper",
+    "repo": "x4gpanell/SuperJinX",
     "branch": "main",
     "language": "HTML",
-    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
-  },
-  {
-    "repo": "DangJin/pdf2video",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Transform PDF documents into engaging video presentations with smooth animations."
-  },
-  {
-    "repo": "terausss/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "deepset-ai/haystack",
-    "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
-  },
-  {
-    "repo": "nextcloud/ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
-  },
-  {
-    "repo": "jasperan/picooraclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "PicoClaw that works with Oracle AI Database"
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
-  },
-  {
-    "repo": "sndrec/WebMonkeyBall",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
-  },
-  {
-    "repo": "teamchong/turboquant-wasm",
-    "branch": "main",
-    "language": "Zig",
-    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
-  },
-  {
-    "repo": "ysharma3501/LuxTTS",
-    "branch": "master",
-    "language": "Python",
-    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
-  },
-  {
-    "repo": "OpenRaiser/NanoResearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant"
-  },
-  {
-    "repo": "openmax-server/server",
-    "branch": "master",
-    "language": "Python",
-    "description": "Открытый сервер для MAX"
-  },
-  {
-    "repo": "ZeroAd-06/MAACodex",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "TheCSir/TerminalStart",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
+    "repo": "adonis-singh/re4",
+    "branch": "master",
+    "language": "C++",
+    "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++"
   },
   {
-    "repo": "facebookresearch/actionmesh",
+    "repo": "kdbhalala/avdslim",
+    "branch": "main",
+    "language": "Go",
+    "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim."
+  },
+  {
+    "repo": "kerpopule/hermes-jev-skills",
     "branch": "main",
     "language": "Python",
-    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
+    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)"
   },
   {
-    "repo": "dev-protocol/polymarket-ai-trading-bot",
+    "repo": "ctdal/cve-2026-41940-PoC",
+    "branch": "main",
+    "language": "Python",
+    "description": "A cPanel and WHM authentication bypassing tool"
+  },
+  {
+    "repo": "jaredpalmer/kev",
+    "branch": "main",
+    "language": "Python",
+    "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook"
+  },
+  {
+    "repo": "LSPosed/ZygiskNext",
+    "branch": "main",
+    "language": "C",
+    "description": "Standalone implementation of Zygisk"
+  },
+  {
+    "repo": "SpikeCalls/FlyDrones",
+    "branch": "main",
+    "language": "Python",
+    "description": "A fruit fly connectome as a drone pilot. Camera -> fly eyes -> spiking brain -> descending neurons -> drone. Live 3D demo in your browser."
+  },
+  {
+    "repo": "Mak5er/AirCard",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)"
+  },
+  {
+    "repo": "nMaas8388/github-ranking-audit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Audit your GitHub repository search ranking signals. Checks name, description, topics, README, stars, forks, and activity."
+  },
+  {
+    "repo": "githubnext/localjev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
+    "description": ""
   },
   {
-    "repo": "teorth/optimizationproblems",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of optimization problems in mathematics"
-  },
-  {
-    "repo": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts."
-  },
-  {
-    "repo": "maile456/qq-farm-bot",
+    "repo": "fatwang2/awesome-jev",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+    "description": "A source-backed Jev project directory with a reusable Jev-only GitHub review workflow."
   },
   {
-    "repo": "barrosyan/PINNeAPPle",
+    "repo": "Mak5er/AirCard-iOS",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple Wallet card skins and lock screen passcode themes on iOS 27."
+  },
+  {
+    "repo": "mizorewww/laya-mlx",
     "branch": "main",
     "language": "Python",
-    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
+  },
+  {
+    "repo": "Epic0522/REGTA-3DSPort-Complete",
+    "branch": "main",
+    "language": "C++",
+    "description": "GTA III, VC, LCS ports for New Nintendo 3DS family."
+  },
+  {
+    "repo": "kitze/unclutter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "WXT browser extension: Jev-powered page clutter removal with reusable template rules."
+  },
+  {
+    "repo": "arvindear/wp2shell-PoC",
+    "branch": "main",
+    "language": "Python",
+    "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept"
+  },
+  {
+    "repo": "webprodigies-org/flute",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic 3D scenes from your live React UI. Flute by Web Prodigies."
+  },
+  {
+    "repo": "featherless-ai/simple-jev",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any open model into a classifier/jev endpoint"
   }
 ]

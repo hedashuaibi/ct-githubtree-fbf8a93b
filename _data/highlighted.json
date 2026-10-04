@@ -1,8 +1,8 @@
 {
-  "repo": "jayleaton/glm53-tensorfold-spark",
+  "repo": "adityajha2005/yc-outreach",
   "branch": "main",
   "language": "Python",
-  "description": "GLM-5.3-Flash (abliterated EXL3) on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8x faster decode than vLLM, 4x256k concurrent threads, byte-exact speculative decoding. Work in progress.",
-  "stars": 104,
-  "forks": 10
+  "description": "Pick a YC batch, get founders and likely emails, write personalised cold emails from one template. Free, stdlib Python + one HTML file, deploys on Vercel.",
+  "stars": 120,
+  "forks": 40
 }
