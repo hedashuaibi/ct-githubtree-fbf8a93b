@@ -1,146 +1,146 @@
 [
   {
-    "repo": "OpenMOSS/MOSS-TTS-Nano",
+    "repo": "NVlabs/Sana",
     "branch": "main",
     "language": "Python",
-    "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration."
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
   },
   {
-    "repo": "Nagi-ovo/dsh-ads",
+    "repo": "Gitlawb/openclaude",
     "branch": "main",
     "language": "TypeScript",
-    "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。"
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
   },
   {
-    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
+    "repo": "NamKhoa-07/wallet-recovery-seed",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
+    "language": "Python",
+    "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers"
   },
   {
-    "repo": "NanoFlow-io/engram",
+    "repo": "totec448-spec/chat-on-steroids",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
+    "description": "Local Windows coding and computer-use bridge for ChatGPT over MCP, limited to folders and capabilities you approve."
   },
   {
-    "repo": "barretlee/agent-pulse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs."
-  },
-  {
-    "repo": "mbflabs/Steam_Auto-Buy_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated purchasing of limited items, market sniping, and wallet top-up. Purchase items instantly, buy underpriced items, add funds automatically, and manage inventory. Best for Steam traders."
-  },
-  {
-    "repo": "couragec/LLMInternSkill",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout. 大模型实习简历与求职工具箱。"
-  },
-  {
-    "repo": "metallb/metallb",
-    "branch": "main",
-    "language": "Go",
-    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
-  },
-  {
-    "repo": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot,"
-  },
-  {
-    "repo": "deeplethe/ForgeRAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-Ready RAG with Structure-Aware Reasoning"
-  },
-  {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "petergpt/bullshit-benchmark",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "benqi-finance/legalmarkdown",
-    "branch": "master",
-    "language": "Go",
-    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
-  },
-  {
-    "repo": "FlavioAdamo/openfit",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop dashboard and Codex-powered assistant for Fitbit data"
-  },
-  {
-    "repo": "coredns/coredns",
-    "branch": "master",
-    "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
-  },
-  {
-    "repo": "GOROman/nullevi03",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+    "repo": "wangyingqi-x/workflow-showcase-platform",
     "branch": "main",
     "language": "Java",
-    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
-  },
-  {
-    "repo": "SzeDaSa/Tomodachi-Share-Mii",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tomodachi Share: Mii community hub. Share QR codes, export characters, import island data. Social multiplayer features, StreetPass relay, furniture swap, friendship statistics. Photo gallery, item gifting, save transfer, SpotPass online, Miiverse revival, collective island news, Mii library."
-  },
-  {
-    "repo": "nova452/ComfyUI-Conditioning-Rebalance",
-    "branch": "main",
-    "language": "Python",
-    "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model."
-  },
-  {
-    "repo": "mnapoli/vibephp",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A PHP engine that runs on vibes, not code."
-  },
-  {
-    "repo": "ivorpad/mercadona-cli",
-    "branch": "main",
-    "language": "Go",
     "description": ""
   },
   {
-    "repo": "Haleclipse/CodexDesktop-Rebuild",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Codex Desktop App - Cross-platform Rebuild"
+    "repo": "ApodexAI/FrontierAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency."
   },
   {
-    "repo": "zoontek/react-native-bootsplash",
+    "repo": "binggandata/bggg-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source Codex skills from BGGG"
+  },
+  {
+    "repo": "hxu296/tariff",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repository for tariff"
+  },
+  {
+    "repo": "homer66/Windows-Xbox-Mode",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
+  },
+  {
+    "repo": "Ariescar/anyCreature",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "postgres/postgres",
     "branch": "master",
+    "language": "C",
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+  },
+  {
+    "repo": "ZSeven-W/dsh-android",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
+    "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."
+  },
+  {
+    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "WeaveMindAI/weft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A programming language for AI systems"
+  },
+  {
+    "repo": "jaredrhod/fullstack-agent",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Give your AI a full stack: memory, voice, face, and hands. This is the I want an AI agent shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "branch": "main",
+    "language": "Go",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+  },
+  {
+    "repo": "crunz-ai/nativePDF-structurer",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。"
+  },
+  {
+    "repo": "diggerhq/shipvideo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it."
+  },
+  {
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "Mondo-Robotics/DiT4DiT",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
+  },
+  {
+    "repo": "showlab/Show-Harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "Just a VLM Agent Can Play Robots 🦾"
+  },
+  {
+    "repo": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Tomodachi Life: Living the Dream PC — optimized Windows version of the popular life simulation game. Create Miis, build relationships, host concerts and live your dream island life with improved performance and modern display support."
+  },
+  {
+    "repo": "SamadhiFire/xinqingnian-maoxuan-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "毛选Skill/新青年Skill/新青年/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
   }
 ]
