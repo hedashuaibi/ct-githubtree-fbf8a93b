@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Vibhav11Krishna/Application_Uninstaller_Pro",
+    "repo": "OpenMOSS/MOSS-TTS-Nano",
     "branch": "main",
     "language": "Python",
-    "description": "Uninstall applications completely, including leftover files and registry entries. Remove stubborn software."
+    "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration."
   },
   {
-    "repo": "tongxuluo/gamecraft-bench",
+    "repo": "Nagi-ovo/dsh-ads",
     "branch": "main",
-    "language": "Shell",
-    "description": "Code and Data for paper GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?"
+    "language": "TypeScript",
+    "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。"
   },
   {
-    "repo": "ksimback/looper",
+    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
+  },
+  {
+    "repo": "NanoFlow-io/engram",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧠 Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
+  },
+  {
+    "repo": "barretlee/agent-pulse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs."
+  },
+  {
+    "repo": "mbflabs/Steam_Auto-Buy_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
+    "description": "Automated purchasing of limited items, market sniping, and wallet top-up. Purchase items instantly, buy underpriced items, add funds automatically, and manage inventory. Best for Steam traders."
   },
   {
-    "repo": "Charles-0509/Grok-Register",
+    "repo": "couragec/LLMInternSkill",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout. 大模型实习简历与求职工具箱。"
+  },
+  {
+    "repo": "metallb/metallb",
     "branch": "main",
     "language": "Go",
-    "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
+    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
   },
   {
-    "repo": "nateherkai/snagtime",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments."
-  },
-  {
-    "repo": "NVIDIA-NeMo/labs-OO-Agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "labs-OO-agents"
-  },
-  {
-    "repo": "fl25freedaw/FL-25.2.5",
-    "branch": "main",
-    "language": "C++",
-    "description": "FL 25.2.5 free download full DAW for Windows 10 and 11. Piano roll, Edison, Maximus, VST and VST3 support for beat making, mixing and mastering. FL 25 free all plugins edition, FL 25 vs 24, FL  themes,  fix, latest version download. Best music production software 2026. Download FL 25.2.5 setup free."
-  },
-  {
-    "repo": "0xwilliamortiz/claude-red",
-    "branch": "main",
-    "language": "Python",
-    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
-  },
-  {
-    "repo": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
-  },
-  {
-    "repo": "lihaoyun6/ComfyUI-H3VAE_TRT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Running ONNX/TRT version of the MiniMax-H3 VAE in ComfyUI, which increase speed by up to 1.7x"
-  },
-  {
-    "repo": "PC2005-cloud/dsh-pet",
+    "repo": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline"
+    "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot,"
   },
   {
-    "repo": "luvrix/fluxmend",
+    "repo": "deeplethe/ForgeRAG",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-Ready RAG with Structure-Aware Reasoning"
+  },
+  {
+    "repo": "Automattic/mongoose",
     "branch": "master",
-    "language": "Python",
-    "description": "Streaming FSM validation + layered repair for LLM outputs with embedded structured components"
-  },
-  {
-    "repo": "vibeinging/deepseek-harness-desktop-app",
-    "branch": "dev",
     "language": "JavaScript",
-    "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts."
+    "description": "MongoDB object modeling designed to work in an asynchronous environment."
   },
   {
-    "repo": "MSNightmare/ShieldBreak",
-    "branch": "main",
-    "language": "C++",
-    "description": "Windows Defender 0day vulnerability"
-  },
-  {
-    "repo": "erikwb/blueferry",
+    "repo": "openai/point-e",
     "branch": "main",
     "language": "Python",
-    "description": "iMessage/SMS over Bluetooth to Linux. No proxy or cloud!"
+    "description": "Point cloud diffusion for 3D model synthesis"
   },
   {
-    "repo": "Electricitysheep/dsh-handbook",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）"
-  },
-  {
-    "repo": "iamlukethedev/Hermes3D",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications."
-  },
-  {
-    "repo": "mufengyuan666/Breaker",
+    "repo": "petergpt/bullshit-benchmark",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Tommy-yw/RunbookHermes",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning."
+    "repo": "benqi-finance/legalmarkdown",
+    "branch": "master",
+    "language": "Go",
+    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
   },
   {
-    "repo": "lynaghk/vibe",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Easy Linux virtual machine on MacOS to sandbox LLM agents."
-  },
-  {
-    "repo": "Aidenybai/React-Scan",
+    "repo": "FlavioAdamo/openfit",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Scan for React performance issues and eliminate slow renders in your app"
+    "description": "Desktop dashboard and Codex-powered assistant for Fitbit data"
   },
   {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+    "repo": "coredns/coredns",
+    "branch": "master",
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
   },
   {
-    "repo": "deepika-builds/liquid-glass",
+    "repo": "GOROman/nullevi03",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Apple-style liquid glass for the web — real refraction via SVG displacement, one file, zero dependencies"
+    "language": "Shell",
+    "description": ""
   },
   {
-    "repo": "Icex0/wp2shell-poc",
+    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+    "branch": "main",
+    "language": "Java",
+    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
+  },
+  {
+    "repo": "SzeDaSa/Tomodachi-Share-Mii",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Tomodachi Share: Mii community hub. Share QR codes, export characters, import island data. Social multiplayer features, StreetPass relay, furniture swap, friendship statistics. Photo gallery, item gifting, save transfer, SpotPass online, Miiverse revival, collective island news, Mii library."
+  },
+  {
+    "repo": "nova452/ComfyUI-Conditioning-Rebalance",
     "branch": "main",
     "language": "Python",
-    "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain"
+    "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model."
+  },
+  {
+    "repo": "mnapoli/vibephp",
+    "branch": "main",
+    "language": "PHP",
+    "description": "A PHP engine that runs on vibes, not code."
+  },
+  {
+    "repo": "ivorpad/mercadona-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "Haleclipse/CodexDesktop-Rebuild",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Codex Desktop App - Cross-platform Rebuild"
+  },
+  {
+    "repo": "zoontek/react-native-bootsplash",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
   }
 ]

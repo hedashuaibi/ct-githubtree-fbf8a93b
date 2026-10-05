@@ -1,8 +1,8 @@
 {
-  "repo": "adityajha2005/yc-outreach",
+  "repo": "kargulstudio/sales-crm",
   "branch": "main",
-  "language": "Python",
-  "description": "Pick a YC batch, get founders and likely emails, write personalised cold emails from one template. Free, stdlib Python + one HTML file, deploys on Vercel.",
-  "stars": 128,
-  "forks": 41
+  "language": "TypeScript",
+  "description": "A featured project on GitHubTree.",
+  "stars": 928,
+  "forks": 189
 }
