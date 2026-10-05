@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NVlabs/Sana",
+    "repo": "Jia-Ethan/grok-keysmith",
     "branch": "main",
     "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+    "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall."
   },
   {
-    "repo": "Gitlawb/openclaude",
+    "repo": "shadcn-ui/ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
   },
   {
-    "repo": "NamKhoa-07/wallet-recovery-seed",
-    "branch": "main",
-    "language": "Python",
-    "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers"
-  },
-  {
-    "repo": "totec448-spec/chat-on-steroids",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local Windows coding and computer-use bridge for ChatGPT over MCP, limited to folders and capabilities you approve."
-  },
-  {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
-    "branch": "main",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "ApodexAI/FrontierAgent",
-    "branch": "main",
-    "language": "Python",
-    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency."
-  },
-  {
-    "repo": "binggandata/bggg-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source Codex skills from BGGG"
-  },
-  {
-    "repo": "hxu296/tariff",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repository for tariff"
-  },
-  {
-    "repo": "homer66/Windows-Xbox-Mode",
-    "branch": "main",
-    "language": "C++",
-    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
-  },
-  {
-    "repo": "Ariescar/anyCreature",
+    "repo": "marswei/seaseed-clawerse",
     "branch": "main",
     "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+  },
+  {
+    "repo": "operator-framework/operator-sdk",
+    "branch": "master",
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+  },
+  {
+    "repo": "wandb/wandb",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+  },
+  {
+    "repo": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "branch": "main",
+    "language": "C++",
+    "description": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
+  },
+  {
+    "repo": "nextlevelbuilder/goclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels."
+  },
+  {
+    "repo": "albertobeiz/kindergrimm",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Procedural doodle characters drawn as if by hand on cream paper — and Kindergrimm, the game they live in"
+  },
+  {
+    "repo": "wizenheimer/canary",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
+  },
+  {
+    "repo": "AmazingAng/old-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob."
+  },
+  {
+    "repo": "LYL1015/JarvisX-Cowork",
+    "branch": "main",
+    "language": "Python",
+    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
+  },
+  {
+    "repo": "mshumer/Claude-of-Duty",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt."
+  },
+  {
+    "repo": "Autumn-27/ARTEX",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI 自主渗透测试系统"
+  },
+  {
+    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+  },
+  {
+    "repo": "jsdom/jsdom",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript implementation of various web standards, for use with Node.js"
+  },
+  {
+    "repo": "XYZ-AI-Lab/axrl",
+    "branch": "main",
+    "language": "Python",
+    "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows."
+  },
+  {
+    "repo": "bashalarmistalt/decimen-optical-transfer",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
-  },
-  {
-    "repo": "ZSeven-W/dsh-android",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."
-  },
-  {
-    "repo": "Nareshkkkk/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Lossless Scaling — Windows tool for upscaling and frame generation with LSFG and integer scaling. Helps achieve sharper visuals and smoother gameplay in games and applications."
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-  },
-  {
-    "repo": "WeaveMindAI/weft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A programming language for AI systems"
-  },
-  {
-    "repo": "jaredrhod/fullstack-agent",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Give your AI a full stack: memory, voice, face, and hands. This is the I want an AI agent shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!"
-  },
-  {
-    "repo": "danielmiessler/fabric",
+    "repo": "MengMengCode/CLICD",
     "branch": "main",
     "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    "description": "CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。"
   },
   {
-    "repo": "crunz-ai/nativePDF-structurer",
+    "repo": "Parth-Rana-333/Spider-Man_Remastered_Unlimited_Gadgets",
     "branch": "main",
     "language": "Python",
-    "description": "一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。"
+    "description": "Unlimited gadgets, skill points, and all suits for Spider-Man Remastered. God mode, infinite web swing, and instant takedowns."
   },
   {
-    "repo": "diggerhq/shipvideo",
+    "repo": "kata-containers/kata-containers",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it."
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
   },
   {
-    "repo": "CalyxOS/calyxos",
+    "repo": "bbaudio-2025/Comfyui-MMH3-UltimateUpscale",
+    "branch": "main",
+    "language": "Python",
+    "description": "Upscale long, high-resolution MiniMax H3 video on a VRAM-limited GPU in a single node."
+  },
+  {
+    "repo": "facebookresearch/llama",
+    "branch": "main",
+    "language": "Python",
+    "description": "Inference code for Llama models"
+  },
+  {
+    "repo": "XYZ-AI-Lab/AxisAgentic",
+    "branch": "main",
+    "language": "Python",
+    "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents."
+  },
+  {
+    "repo": "williamchristian273/Reason-Studio-Rack-Toolkit",
     "branch": "main",
     "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
-  },
-  {
-    "repo": "Mondo-Robotics/DiT4DiT",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
-  },
-  {
-    "repo": "showlab/Show-Harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Just a VLM Agent Can Play Robots 🦾"
-  },
-  {
-    "repo": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Tomodachi Life: Living the Dream PC — optimized Windows version of the popular life simulation game. Create Miis, build relationships, host concerts and live your dream island life with improved performance and modern display support."
-  },
-  {
-    "repo": "SamadhiFire/xinqingnian-maoxuan-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "毛选Skill/新青年Skill/新青年/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
+    "description": "Top Reason Studios Rack DAW Plugins & Workflow Tools 2026"
   }
 ]
