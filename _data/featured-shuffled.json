@@ -1,63 +1,99 @@
 [
   {
-    "repo": "ccbkkb/MicroWARP",
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "cilium/cilium",
+    "branch": "main",
+    "language": "Go",
+    "description": "eBPF-based Networking, Security, and Observability"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "branch": "main",
+    "language": "C++",
+    "description": "A library for efficient similarity search and clustering of dense vectors."
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "llvm/llvm-project",
+    "branch": "main",
+    "language": "LLVM",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+  },
+  {
+    "repo": "tashfeenahmed/freellmapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only."
+  },
+  {
+    "repo": "aiming-lab/AutoHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+  },
+  {
+    "repo": "Yaolinwang/AITD",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Trading Agent for Everyone"
+  },
+  {
+    "repo": "tgies/klattsch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "primitive parallel-formant speech synth in the browser"
+  },
+  {
+    "repo": "openai/CLIP",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
+  },
+  {
+    "repo": "jquery-validation/jquery-validation",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "jQuery Validation Plugin library sources"
+  },
+  {
+    "repo": "standardagents/sip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "sdyckjq-lab/llm-wiki-skill",
     "branch": "main",
     "language": "Shell",
-    "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker"
+    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
   },
   {
-    "repo": "cneuralnetwork/kharcha",
+    "repo": "supermalparit/Towns",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Private spending ledger from bank SMS, built with Expo and optional encrypted Render backup."
+    "language": "Java",
+    "description": "Repository for the Towns game"
   },
   {
-    "repo": "ktorio/ktor",
+    "repo": "jd-opensource/JoyAI-Image",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+    "language": "Python",
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
   },
   {
-    "repo": "rebornix/Agmente",
+    "repo": "vinzdg/codenotch",
     "branch": "main",
     "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "peteromallet/desloppify",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
-  },
-  {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "shallowdream204/BitDance",
-    "branch": "main",
-    "language": "Python",
-    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
-  },
-  {
-    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
-  },
-  {
-    "repo": "v0id4real/Void-Tools",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge."
   },
   {
     "repo": "antirez/tgterm",
@@ -66,81 +102,45 @@
     "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
   },
   {
-    "repo": "amlalabs/amla-sandbox",
+    "repo": "gorhom/react-native-bottom-sheet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+  },
+  {
+    "repo": "T-Lab-CUHKSZ/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+  },
+  {
+    "repo": "iamfakeguru/claude-md",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Production-grade agent directives for Claude Code"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-Math",
     "branch": "main",
     "language": "Python",
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  {
+    "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "branch": "main",
+    "language": "Python",
+    "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "branch": "main",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "K-Dense-AI/k-dense-byok",
+    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop."
-  },
-  {
-    "repo": "KlingAIResearch/X-Dub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
-  },
-  {
-    "repo": "calebwin/pgclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
-  },
-  {
-    "repo": "Dimillian/PokeSwift",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI"
-  },
-  {
-    "repo": "stong/gradscii-art",
-    "branch": "master",
-    "language": "Python",
-    "description": "An extremely good ASCII art generator, based on machine learning"
-  },
-  {
-    "repo": "FranckyB/Voice-Clone-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
-  },
-  {
-    "repo": "metric-anything/metric-anything",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lqs/retrotick",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
-  },
-  {
-    "repo": "elixir-volt/quickbeam",
-    "branch": "master",
-    "language": "C",
-    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
-  },
-  {
-    "repo": "r1cA18/screen-commentator",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
-  },
-  {
-    "repo": "samvallad33/vestige",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
-  },
-  {
-    "repo": "Karmacoke/chargen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs."
+    "language": "C++",
+    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "gatewai-dev/framefields",
+  "repo": "Vincentwei1021/mg-styles-15",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Code-first video, rendered natively on WebGPU.",
-  "stars": 222,
-  "forks": 5
+  "language": "Python",
+  "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+  "stars": 333,
+  "forks": 61
 }
