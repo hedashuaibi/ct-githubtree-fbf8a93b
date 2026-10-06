@@ -1,8 +1,8 @@
 {
-  "repo": "hugelton/Felucca",
+  "repo": "gatewai-dev/framefields",
   "branch": "main",
-  "language": "C",
-  "description": "Custom firmware for M-VAVE FM-1",
-  "stars": 239,
-  "forks": 22
+  "language": "TypeScript",
+  "description": "Code-first video, rendered natively on WebGPU.",
+  "stars": 222,
+  "forks": 5
 }
