@@ -1,111 +1,15 @@
 [
   {
-    "repo": "HMDSimDev/heartmorrow",
+    "repo": "Wendor/teapod-stream",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "LLM-powered dating simulator"
+    "language": "Dart",
+    "description": ""
   },
   {
-    "repo": "ahalpha/Snowbreak-AnitAmend",
-    "branch": "master",
-    "language": "Lua",
-    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
-  },
-  {
-    "repo": "lyra81604/zhengxi-views",
+    "repo": "CluvexStudio/Aether",
     "branch": "main",
-    "language": "Python",
-    "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
-  },
-  {
-    "repo": "K-Dense-AI/science-superpowers",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
-  },
-  {
-    "repo": "kepengxu/PRISM-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
-  },
-  {
-    "repo": "ace-trump-tech/DeltaForce-OBS-Locker",
-    "branch": "main",
-    "language": "Python",
-    "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass."
-  },
-  {
-    "repo": "007FirstLight/007-First-Light-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
-  },
-  {
-    "repo": "zhouyoukang1234-spec/windsurf-assistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损."
-  },
-  {
-    "repo": "dockur/proxmox",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Proxmox inside a Docker container."
-  },
-  {
-    "repo": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-    "branch": "main",
-    "language": "C#",
-    "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026"
-  },
-  {
-    "repo": "AlephAITech/WorkBuddyGuide",
-    "branch": "main",
-    "language": "Python",
-    "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。"
-  },
-  {
-    "repo": "Haleclipse/CodexDesktop-Rebuild",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Codex Desktop App - Cross-platform Rebuild"
-  },
-  {
-    "repo": "Alice53211/auth-codex-plugin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Auth codex plugin for opencode with local dashboard, force mode, and etc. Codex plugin"
-  },
-  {
-    "repo": "Julpygo/Claude-Code-AI-Design",
-    "branch": "main",
-    "language": "C++",
-    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
-  },
-  {
-    "repo": "lxh77721/k12-reg",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "多线程全自动注册free 强上K12空间 gmail版"
-  },
-  {
-    "repo": "johndev-robo/Color_Picker_with_Palette_Builder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects."
-  },
-  {
-    "repo": "appium/appium",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "hydra-node/polymarket-weather-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot"
+    "language": "Rust",
+    "description": ""
   },
   {
     "repo": "fancyai-official/skills",
@@ -114,33 +18,129 @@
     "description": ""
   },
   {
-    "repo": "golang/go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go programming language"
-  },
-  {
-    "repo": "incursi0n/BlueSAM",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
-  },
-  {
-    "repo": "Allanlv5324F/Lossless-Scaling-Github",
-    "branch": "main",
-    "language": "C#",
-    "description": "lossless scaling steam github lsfg frame generation"
-  },
-  {
-    "repo": "nexu-io/motion-anything",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation."
-  },
-  {
-    "repo": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
+    "repo": "peteromallet/desloppify",
     "branch": "main",
     "language": "Python",
-    "description": "Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+    "description": ""
+  },
+  {
+    "repo": "InfinityLoop1308/PipePipe-X",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Modern designed PipePipe"
+  },
+  {
+    "repo": "1837620622/cloudflare-bypass-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
+  },
+  {
+    "repo": "activetheory/activeframe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
+  },
+  {
+    "repo": "johnBuffer/StableIndexVector",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "callstackincubator/agent-device",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI to control iOS and Android devices for AI agents"
+  },
+  {
+    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "branch": "master",
+    "language": "Python",
+    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+  },
+  {
+    "repo": "imxv/Pretty-mermaid-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
+  },
+  {
+    "repo": "aikorea/awesome-rl",
+    "branch": "master",
+    "language": "Other",
+    "description": "Reinforcement learning resources curated"
+  },
+  {
+    "repo": "AdeleZhu/teacher-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。"
+  },
+  {
+    "repo": "kothari-nikunj/llm-wiki",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Personal Wiki"
+  },
+  {
+    "repo": "SortableJS/Sortable",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+  },
+  {
+    "repo": "Y-Peng-Dev/Watchdog",
+    "branch": "master",
+    "language": "C#",
+    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
+  },
+  {
+    "repo": "QwenLM/Qwen3-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
+  },
+  {
+    "repo": "openai/gym",
+    "branch": "master",
+    "language": "Python",
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+  },
+  {
+    "repo": "34306/FilzaJailedDS",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+  },
+  {
+    "repo": "starccy/doubaoime-asr",
+    "branch": "main",
+    "language": "Python",
+    "description": "豆包输入法语音识别的非官方 Python 客户端"
+  },
+  {
+    "repo": "ajeetdsouza/zoxide",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A smarter cd command. Supports all major shells."
+  },
+  {
+    "repo": "sterlingcrispin/nothing-ever-happens",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "gravitational/teleport",
+    "branch": "master",
+    "language": "Go",
+    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
   }
 ]

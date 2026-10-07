@@ -1,8 +1,8 @@
 {
-  "repo": "Zhou-Yujing114514/deepseek-harness-linux",
-  "branch": "master",
-  "language": "TypeScript",
-  "description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
-  "stars": 116,
-  "forks": 13
+  "repo": "google-deepmind/alphaprotein-novo",
+  "branch": "main",
+  "language": "Python",
+  "description": "AlphaProtein Novo",
+  "stars": 140,
+  "forks": 18
 }
