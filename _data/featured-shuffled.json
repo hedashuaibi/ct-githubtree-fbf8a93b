@@ -1,146 +1,146 @@
 [
   {
-    "repo": "django/django",
+    "repo": "HMDSimDev/heartmorrow",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "LLM-powered dating simulator"
+  },
+  {
+    "repo": "ahalpha/Snowbreak-AnitAmend",
+    "branch": "master",
+    "language": "Lua",
+    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
+  },
+  {
+    "repo": "lyra81604/zhengxi-views",
     "branch": "main",
     "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
+    "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
   },
   {
-    "repo": "cilium/cilium",
+    "repo": "K-Dense-AI/science-superpowers",
     "branch": "main",
-    "language": "Go",
-    "description": "eBPF-based Networking, Security, and Observability"
+    "language": "Shell",
+    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
   },
   {
-    "repo": "facebookresearch/faiss",
+    "repo": "kepengxu/PRISM-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
+  },
+  {
+    "repo": "ace-trump-tech/DeltaForce-OBS-Locker",
+    "branch": "main",
+    "language": "Python",
+    "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass."
+  },
+  {
+    "repo": "007FirstLight/007-First-Light-Release",
     "branch": "main",
     "language": "C++",
-    "description": "A library for efficient similarity search and clustering of dense vectors."
+    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
   },
   {
-    "repo": "cporter202/video-scraping-apis",
+    "repo": "zhouyoukang1234-spec/windsurf-assistant",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+    "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损."
   },
   {
-    "repo": "llvm/llvm-project",
+    "repo": "dockur/proxmox",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Proxmox inside a Docker container."
+  },
+  {
+    "repo": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
     "branch": "main",
-    "language": "LLVM",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+    "language": "C#",
+    "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026"
   },
   {
-    "repo": "tashfeenahmed/freellmapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only."
-  },
-  {
-    "repo": "aiming-lab/AutoHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
-  },
-  {
-    "repo": "Yaolinwang/AITD",
+    "repo": "AlephAITech/WorkBuddyGuide",
     "branch": "main",
     "language": "Python",
-    "description": "AI Trading Agent for Everyone"
+    "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。"
   },
   {
-    "repo": "tgies/klattsch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "primitive parallel-formant speech synth in the browser"
-  },
-  {
-    "repo": "openai/CLIP",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
-  },
-  {
-    "repo": "jquery-validation/jquery-validation",
+    "repo": "Haleclipse/CodexDesktop-Rebuild",
     "branch": "master",
     "language": "JavaScript",
-    "description": "jQuery Validation Plugin library sources"
+    "description": "Codex Desktop App - Cross-platform Rebuild"
   },
   {
-    "repo": "standardagents/sip",
+    "repo": "Alice53211/auth-codex-plugin",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+    "description": "Auth codex plugin for opencode with local dashboard, force mode, and etc. Codex plugin"
   },
   {
-    "repo": "sdyckjq-lab/llm-wiki-skill",
+    "repo": "Julpygo/Claude-Code-AI-Design",
     "branch": "main",
-    "language": "Shell",
-    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
+    "language": "C++",
+    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
   },
   {
-    "repo": "supermalparit/Towns",
-    "branch": "main",
-    "language": "Java",
-    "description": "Repository for the Towns game"
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
-  },
-  {
-    "repo": "vinzdg/codenotch",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge."
-  },
-  {
-    "repo": "antirez/tgterm",
-    "branch": "main",
-    "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
-  },
-  {
-    "repo": "gorhom/react-native-bottom-sheet",
+    "repo": "lxh77721/k12-reg",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+    "description": "多线程全自动注册free 强上K12空间 gmail版"
   },
   {
-    "repo": "T-Lab-CUHKSZ/claude-code",
+    "repo": "johndev-robo/Color_Picker_with_Palette_Builder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects."
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+  },
+  {
+    "repo": "hydra-node/polymarket-weather-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+    "description": "Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot"
   },
   {
-    "repo": "iamfakeguru/claude-md",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Production-grade agent directives for Claude Code"
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-Math",
+    "repo": "fancyai-official/skills",
     "branch": "main",
     "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "branch": "main",
-    "language": "Python",
-    "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
-  },
-  {
-    "repo": "yohey-w/multi-agent-shogun",
-    "branch": "main",
-    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
+    "repo": "golang/go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go programming language"
+  },
+  {
+    "repo": "incursi0n/BlueSAM",
     "branch": "main",
-    "language": "C++",
-    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
+    "language": "C",
+    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
+  },
+  {
+    "repo": "Allanlv5324F/Lossless-Scaling-Github",
+    "branch": "main",
+    "language": "C#",
+    "description": "lossless scaling steam github lsfg frame generation"
+  },
+  {
+    "repo": "nexu-io/motion-anything",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation."
+  },
+  {
+    "repo": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
+    "branch": "main",
+    "language": "Python",
+    "description": "Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
   }
 ]

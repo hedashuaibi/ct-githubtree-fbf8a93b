@@ -1,8 +1,8 @@
 {
-  "repo": "Vincentwei1021/mg-styles-15",
-  "branch": "main",
-  "language": "Python",
-  "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
-  "stars": 333,
-  "forks": 61
+  "repo": "Zhou-Yujing114514/deepseek-harness-linux",
+  "branch": "master",
+  "language": "TypeScript",
+  "description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+  "stars": 116,
+  "forks": 13
 }
