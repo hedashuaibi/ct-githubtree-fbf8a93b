@@ -1,8 +1,8 @@
 {
-  "repo": "google-deepmind/alphaprotein-novo",
+  "repo": "JinHo-von-Choi/iron-laws",
   "branch": "main",
   "language": "Python",
-  "description": "AlphaProtein Novo",
-  "stars": 140,
-  "forks": 18
+  "description": "오철칙(Iron Laws) - AI가 만든 코드의 보안·구조·유지보수 문제를 짚어 주는 소스코드 점검 CLI",
+  "stars": 127,
+  "forks": 23
 }

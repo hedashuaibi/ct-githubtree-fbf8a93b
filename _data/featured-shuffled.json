@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Wendor/teapod-stream",
-    "branch": "master",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "CluvexStudio/Aether",
+    "repo": "NotProtonNot/NotProton",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "Swift",
+    "description": "Steam Play for macOS"
   },
   {
-    "repo": "fancyai-official/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "peteromallet/desloppify",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "InfinityLoop1308/PipePipe-X",
+    "repo": "pcruz1905/hls-restream-proxy",
     "branch": "main",
     "language": "Shell",
-    "description": "Modern designed PipePipe"
+    "description": "Lightweight HLS restream proxy for Jellyfin/Emby/Plex — injects headers, rewrites playlists, auto-refreshes tokens"
   },
   {
-    "repo": "1837620622/cloudflare-bypass-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
-  },
-  {
-    "repo": "activetheory/activeframe",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
-  },
-  {
-    "repo": "johnBuffer/StableIndexVector",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "soimy/openclaw-channel-dingtalk",
+    "repo": "vercel/ai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
   },
   {
-    "repo": "callstackincubator/agent-device",
+    "repo": "openai/triton",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI to control iOS and Android devices for AI agents"
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
   },
   {
-    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "repo": "OpenZeppelin/openzeppelin-contracts",
     "branch": "master",
-    "language": "Python",
-    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+    "language": "Solidity",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
   },
   {
-    "repo": "imxv/Pretty-mermaid-skills",
+    "repo": "bytedance/semi-design",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
-  },
-  {
-    "repo": "aikorea/awesome-rl",
-    "branch": "master",
     "language": "Other",
-    "description": "Reinforcement learning resources curated"
+    "description": "A modern, comprehensive, flexible design system and React UI library."
   },
   {
-    "repo": "AdeleZhu/teacher-skill",
+    "repo": "Kaleighc793/freqtrade-bot",
     "branch": "main",
     "language": "Python",
-    "description": "蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。"
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
   },
   {
-    "repo": "kothari-nikunj/llm-wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Personal Wiki"
-  },
-  {
-    "repo": "SortableJS/Sortable",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
-  },
-  {
-    "repo": "Y-Peng-Dev/Watchdog",
-    "branch": "master",
-    "language": "C#",
-    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
-  },
-  {
-    "repo": "QwenLM/Qwen3-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
-  },
-  {
-    "repo": "openai/gym",
-    "branch": "master",
-    "language": "Python",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
-  },
-  {
-    "repo": "34306/FilzaJailedDS",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
-  },
-  {
-    "repo": "starccy/doubaoime-asr",
-    "branch": "main",
-    "language": "Python",
-    "description": "豆包输入法语音识别的非官方 Python 客户端"
-  },
-  {
-    "repo": "ajeetdsouza/zoxide",
+    "repo": "NVlabs/cutile-rs",
     "branch": "main",
     "language": "Rust",
-    "description": "A smarter cd command. Supports all major shells."
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
   },
   {
-    "repo": "sterlingcrispin/nothing-ever-happens",
+    "repo": "HKUDS-AI/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
+  },
+  {
+    "repo": "coollabsio/jean",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run AI agents parallel in isolated workspaces."
+  },
+  {
+    "repo": "millionco/cli-to-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn any CLI into a JavaScript API"
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "jasmine/jasmine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Simple JavaScript testing framework for browsers and node.js"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "repo": "WecomTeam/wecom-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+  },
+  {
+    "repo": "pynecone-io/pynecone",
     "branch": "main",
     "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "amadeusprotocol/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "gravitational/teleport",
+    "repo": "id-Software/DOOM",
+    "branch": "master",
+    "language": "C++",
+    "description": "DOOM Open Source Release"
+  },
+  {
+    "repo": "liangdabiao/Fashion-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
+  },
+  {
+    "repo": "ramsey/uuid",
+    "branch": "4.7",
+    "language": "PHP",
+    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
+  },
+  {
+    "repo": "restic/restic",
     "branch": "master",
     "language": "Go",
-    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
+    "description": "Fast, secure, efficient backup program"
+  },
+  {
+    "repo": "google-research/bert",
+    "branch": "master",
+    "language": "Python",
+    "description": "TensorFlow code and pre-trained models for BERT"
+  },
+  {
+    "repo": "nakagami/grdpwasm",
+    "branch": "master",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "grapeot/context-infrastructure",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reference implementation: a context infrastructure system for pulling LLM out of consensus"
   }
 ]
