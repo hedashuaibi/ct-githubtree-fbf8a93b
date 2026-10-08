@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NotProtonNot/NotProton",
+    "repo": "wallpapers-engine/Wallpaper-Engine",
     "branch": "main",
-    "language": "Swift",
-    "description": "Steam Play for macOS"
+    "language": "TypeScript",
+    "description": "wallpaper engine pc  free download steam windows 11 workshop live wallpaper creator dynamic animated backgrounds custom themes 4k 8k interactive desktop"
   },
   {
-    "repo": "pcruz1905/hls-restream-proxy",
+    "repo": "Paresh-Maheshwari/morphe-ai",
     "branch": "main",
     "language": "Shell",
-    "description": "Lightweight HLS restream proxy for Jellyfin/Emby/Plex — injects headers, rewrites playlists, auto-refreshes tokens"
+    "description": "Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment."
   },
   {
-    "repo": "vercel/ai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "OpenZeppelin/openzeppelin-contracts",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
-  },
-  {
-    "repo": "bytedance/semi-design",
-    "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
-  },
-  {
-    "repo": "Kaleighc793/freqtrade-bot",
+    "repo": "alexantaluo0/ACoT-VLA-WM",
     "branch": "main",
     "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+    "description": ""
   },
   {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "HKUDS-AI/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
-  },
-  {
-    "repo": "coollabsio/jean",
+    "repo": "openai/mcp-extensions",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run AI agents parallel in isolated workspaces."
+    "description": "Build plugins that feel like native, first-class features of ChatGPT."
   },
   {
-    "repo": "millionco/cli-to-js",
+    "repo": "CylinderFoal/MecchaUltraCheat",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn any CLI into a JavaScript API"
+    "language": "Python",
+    "description": "🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
   },
   {
-    "repo": "vercel/hyper",
+    "repo": "biheto/DevAgent-Studio",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
+    "language": "Python",
+    "description": "面向开发者的多智能体任务工作站"
   },
   {
-    "repo": "jasmine/jasmine",
+    "repo": "IvanSobolev/Neo3dEngine",
+    "branch": "main",
+    "language": "C#",
+    "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs."
+  },
+  {
+    "repo": "Forsy-AI/forsy-trace-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open skill for capturing AI agent work as structured traces."
+  },
+  {
+    "repo": "Frank-Masciopinto/no-kings",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
+    "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the Big Three index-fund giants hold — plus who actually has voting control when it isn't them."
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "WecomTeam/wecom-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
-  },
-  {
-    "repo": "pynecone-io/pynecone",
+    "repo": "ShiroEirin/comfyui-good-anima",
     "branch": "main",
     "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
+    "description": ""
   },
   {
-    "repo": "amadeusprotocol/polymarket-trading-bot",
+    "repo": "mila89/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot"
+  },
+  {
+    "repo": "Robbyant/lingbot-video",
+    "branch": "master",
+    "language": "Python",
+    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+  },
+  {
+    "repo": "kunchenguid/dotfiles",
+    "branch": "main",
+    "language": "Nix",
+    "description": "Kun's dotfiles for agentic engineering"
+  },
+  {
+    "repo": "EthanXiang777/circuit-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "Circuit Framework — multi-agent LLM trading research system"
+  },
+  {
+    "repo": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+    "branch": "main",
+    "language": "Python",
+    "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model."
+  },
+  {
+    "repo": "luatools-steam/lua-steam-tools",
+    "branch": "main",
+    "language": "C++",
+    "description": "steam lua tools luatools lua tools steam millennium plugin opensteamtool steamtools lua scripts manifests game fixes fakeappid automatic downloader library management installer download link windows 11 desktop utility setup configuration guide tutorial troubleshooting license error fix"
+  },
+  {
+    "repo": "AbishakeC/Escape_from_Tarkov_ESP___Radar",
+    "branch": "main",
+    "language": "Python",
+    "description": "ESP and radar hack for Escape from Tarkov. See players, loot, and exits through walls. Avoid ambushes and extract successfully."
+  },
+  {
+    "repo": "pfwjrfp5hh-byte/WorkMesh",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "id-Software/DOOM",
-    "branch": "master",
+    "repo": "marcj/papernews",
+    "branch": "main",
+    "language": "Python",
+    "description": "news and articles nicely rendered as calm pdf for readers"
+  },
+  {
+    "repo": "Ymsniper/KTO",
+    "branch": "main",
+    "language": "Python",
+    "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect."
+  },
+  {
+    "repo": "redteamfortress/PhantomKiller",
+    "branch": "main",
     "language": "C++",
-    "description": "DOOM Open Source Release"
+    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
   },
   {
-    "repo": "liangdabiao/Fashion-AI",
+    "repo": "snehachaturvedi17/Firewall_Rules_Editor",
     "branch": "main",
     "language": "Python",
-    "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
+    "description": "Edit and manage Windows Firewall rules with a user-friendly GUI. Create inbound/outbound rules, block specific apps, and organize by profiles."
   },
   {
-    "repo": "ramsey/uuid",
-    "branch": "4.7",
-    "language": "PHP",
-    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
-  },
-  {
-    "repo": "restic/restic",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
-  },
-  {
-    "repo": "google-research/bert",
-    "branch": "master",
-    "language": "Python",
-    "description": "TensorFlow code and pre-trained models for BERT"
-  },
-  {
-    "repo": "nakagami/grdpwasm",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "grapeot/context-infrastructure",
+    "repo": "Hassanjan49/File_Association_Manager",
     "branch": "main",
     "language": "Python",
-    "description": "Reference implementation: a context infrastructure system for pulling LLM out of consensus"
+    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
+  },
+  {
+    "repo": "agutinbaigo28/financial-agent-api",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "financial agent api with multi-agent framework for scalable AI systems focusing on financial intelligence, RAG pipelines, observability, and secure governance. ACP Openclaw, Gemini CLI, Opencode"
   }
 ]
