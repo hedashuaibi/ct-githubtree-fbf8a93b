@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wallpapers-engine/Wallpaper-Engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "wallpaper engine pc  free download steam windows 11 workshop live wallpaper creator dynamic animated backgrounds custom themes 4k 8k interactive desktop"
-  },
-  {
-    "repo": "Paresh-Maheshwari/morphe-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment."
-  },
-  {
-    "repo": "alexantaluo0/ACoT-VLA-WM",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "openai/mcp-extensions",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build plugins that feel like native, first-class features of ChatGPT."
-  },
-  {
-    "repo": "CylinderFoal/MecchaUltraCheat",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
-  },
-  {
-    "repo": "biheto/DevAgent-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向开发者的多智能体任务工作站"
-  },
-  {
-    "repo": "IvanSobolev/Neo3dEngine",
-    "branch": "main",
-    "language": "C#",
-    "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs."
-  },
-  {
-    "repo": "Forsy-AI/forsy-trace-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open skill for capturing AI agent work as structured traces."
-  },
-  {
-    "repo": "Frank-Masciopinto/no-kings",
+    "repo": "pewdiepie-archdaemon/odysseus",
     "branch": "main",
     "language": "JavaScript",
-    "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the Big Three index-fund giants hold — plus who actually has voting control when it isn't them."
+    "description": "Self-hosted AI workspace."
   },
   {
-    "repo": "ShiroEirin/comfyui-good-anima",
+    "repo": "34306/FilzaJailedDS",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+  },
+  {
+    "repo": "networkx/networkx",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Network Analysis in Python"
   },
   {
-    "repo": "mila89/polymarket-trading-bot",
+    "repo": "spring-projects/spring-security",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Security"
+  },
+  {
+    "repo": "angular/angular",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot"
+    "description": "Deliver web apps with confidence 🚀"
   },
   {
-    "repo": "Robbyant/lingbot-video",
+    "repo": "1837620622/cloudflare-bypass-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
+  },
+  {
+    "repo": "reduxjs/reselect",
     "branch": "master",
-    "language": "Python",
-    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+    "language": "TypeScript",
+    "description": "Selector library for Redux"
   },
   {
-    "repo": "kunchenguid/dotfiles",
-    "branch": "main",
-    "language": "Nix",
-    "description": "Kun's dotfiles for agentic engineering"
-  },
-  {
-    "repo": "EthanXiang777/circuit-framework",
-    "branch": "main",
-    "language": "Python",
-    "description": "Circuit Framework — multi-agent LLM trading research system"
-  },
-  {
-    "repo": "nova452/ComfyUI-ConditioningKrea2Rebalance",
-    "branch": "main",
-    "language": "Python",
-    "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model."
-  },
-  {
-    "repo": "luatools-steam/lua-steam-tools",
-    "branch": "main",
-    "language": "C++",
-    "description": "steam lua tools luatools lua tools steam millennium plugin opensteamtool steamtools lua scripts manifests game fixes fakeappid automatic downloader library management installer download link windows 11 desktop utility setup configuration guide tutorial troubleshooting license error fix"
-  },
-  {
-    "repo": "AbishakeC/Escape_from_Tarkov_ESP___Radar",
-    "branch": "main",
-    "language": "Python",
-    "description": "ESP and radar hack for Escape from Tarkov. See players, loot, and exits through walls. Avoid ambushes and extract successfully."
-  },
-  {
-    "repo": "pfwjrfp5hh-byte/WorkMesh",
+    "repo": "aws/aws-cdk",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
   },
   {
-    "repo": "marcj/papernews",
+    "repo": "python-attrs/attrs",
     "branch": "main",
     "language": "Python",
-    "description": "news and articles nicely rendered as calm pdf for readers"
+    "description": "Python Classes Without Boilerplate"
   },
   {
-    "repo": "Ymsniper/KTO",
+    "repo": "detekt/detekt",
     "branch": "main",
+    "language": "Kotlin",
+    "description": "Static code analysis for Kotlin"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
     "language": "Python",
-    "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect."
+    "description": "Free, open source crypto trading bot"
   },
   {
-    "repo": "redteamfortress/PhantomKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
-  },
-  {
-    "repo": "snehachaturvedi17/Firewall_Rules_Editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Edit and manage Windows Firewall rules with a user-friendly GUI. Create inbound/outbound rules, block specific apps, and organize by profiles."
-  },
-  {
-    "repo": "Hassanjan49/File_Association_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
-  },
-  {
-    "repo": "agutinbaigo28/financial-agent-api",
+    "repo": "vitejs/vite",
     "branch": "main",
     "language": "TypeScript",
-    "description": "financial agent api with multi-agent framework for scalable AI systems focusing on financial intelligence, RAG pipelines, observability, and secure governance. ACP Openclaw, Gemini CLI, Opencode"
+    "description": "Next generation frontend tooling. It's fast!"
+  },
+  {
+    "repo": "sigstore/cosign",
+    "branch": "main",
+    "language": "Go",
+    "description": "Code signing and transparency for containers and binaries"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A refreshingly simple data-driven game engine built in Rust"
+  },
+  {
+    "repo": "airbnb/javascript",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript Style Guide"
+  },
+  {
+    "repo": "roboflow/rf-detr",
+    "branch": "main",
+    "language": "Python",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "drwetter/testssl.sh",
+    "branch": "3.2",
+    "language": "Shell",
+    "description": "Testing TLS/SSL encryption anywhere on any port"
+  },
+  {
+    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
+  },
+  {
+    "repo": "sooryathejas/METATRON",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
+  },
+  {
+    "repo": "graphprotocol/graph-node",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-V3",
+    "branch": "main",
+    "language": "Python",
+    "description": "Vision-language models from DeepSeek research."
+  },
+  {
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
   }
 ]

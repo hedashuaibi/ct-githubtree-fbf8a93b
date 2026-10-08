@@ -1,8 +1,8 @@
 {
-  "repo": "RecordSlayerIdentify/shotcut-download",
+  "repo": "mushigaite/short-video-maker",
   "branch": "main",
   "language": "Python",
-  "description": "Shotcut v26.9.27 — Shotcut is a free, open source, cross-platform video editor. Info page and download link. Third-party software; all rights belong to the original authors.",
-  "stars": 142,
-  "forks": 0
+  "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+  "stars": 196,
+  "forks": 60
 }
