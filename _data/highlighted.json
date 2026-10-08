@@ -1,8 +1,8 @@
 {
-  "repo": "mushigaite/short-video-maker",
+  "repo": "fxgl/steamac",
   "branch": "main",
-  "language": "Python",
-  "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-  "stars": 196,
-  "forks": 60
+  "language": "Swift",
+  "description": "Valve's official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun + Venus + MoltenVK, controllers, CoreAudio sound",
+  "stars": 236,
+  "forks": 9
 }

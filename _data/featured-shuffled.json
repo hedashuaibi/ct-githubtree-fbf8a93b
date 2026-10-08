@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pewdiepie-archdaemon/odysseus",
+    "repo": "mediastormDev/dream-to-video-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
+  },
+  {
+    "repo": "imxv/Pretty-mermaid-skills",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Self-hosted AI workspace."
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
   },
   {
-    "repo": "34306/FilzaJailedDS",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
-  },
-  {
-    "repo": "networkx/networkx",
+    "repo": "jev-chat/jev-chat-windows",
     "branch": "main",
     "language": "Python",
-    "description": "Network Analysis in Python"
+    "description": "微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动"
   },
   {
-    "repo": "spring-projects/spring-security",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Security"
-  },
-  {
-    "repo": "angular/angular",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
-  },
-  {
-    "repo": "1837620622/cloudflare-bypass-2026",
+    "repo": "pypa/setuptools",
     "branch": "main",
     "language": "Python",
-    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
+    "description": "Official project repository for the Setuptools build system"
   },
   {
-    "repo": "reduxjs/reselect",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Selector library for Redux"
-  },
-  {
-    "repo": "aws/aws-cdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
-  },
-  {
-    "repo": "python-attrs/attrs",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Classes Without Boilerplate"
-  },
-  {
-    "repo": "detekt/detekt",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Static code analysis for Kotlin"
-  },
-  {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "vitejs/vite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
-  },
-  {
-    "repo": "sigstore/cosign",
-    "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
-  },
-  {
-    "repo": "bevyengine/bevy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A refreshingly simple data-driven game engine built in Rust"
-  },
-  {
-    "repo": "airbnb/javascript",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript Style Guide"
-  },
-  {
-    "repo": "roboflow/rf-detr",
-    "branch": "main",
-    "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
-  },
-  {
-    "repo": "facebook/react",
+    "repo": "tonyqinatcmu/SlideBot-AI",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
   },
   {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "drwetter/testssl.sh",
-    "branch": "3.2",
-    "language": "Shell",
-    "description": "Testing TLS/SSL encryption anywhere on any port"
-  },
-  {
-    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
-  },
-  {
-    "repo": "sooryathejas/METATRON",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
-  },
-  {
-    "repo": "graphprotocol/graph-node",
+    "repo": "f/textream",
     "branch": "master",
-    "language": "Rust",
-    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
+    "language": "Swift",
+    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
   },
   {
-    "repo": "deepseek-ai/DeepSeek-V3",
+    "repo": "TryGhost/Ghost",
     "branch": "main",
-    "language": "Python",
-    "description": "Vision-language models from DeepSeek research."
+    "language": "JavaScript",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
   },
   {
-    "repo": "jlevy/the-art-of-command-line",
+    "repo": "qazbnm456/awesome-web-security",
     "branch": "master",
     "language": "Other",
-    "description": "Master the command line, in one page"
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "sndrec/WebMonkeyBall",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Super Monkey Ball on Web Broser."
+  },
+  {
+    "repo": "localstack/localstack",
+    "branch": "master",
+    "language": "Python",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
+  },
+  {
+    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
+    "branch": "main",
+    "language": "C",
+    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
+  },
+  {
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+  },
+  {
+    "repo": "googleapis/python-storage",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python SDK for GCS (Google Cloud Storage)"
+  },
+  {
+    "repo": "aeromomo/claw-compactor",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+  },
+  {
+    "repo": "iFurySt/open-codex-computer-use",
+    "branch": "main",
+    "language": "Swift",
+    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
+  },
+  {
+    "repo": "InterviewReady/system-design-resources",
+    "branch": "main",
+    "language": "Other",
+    "description": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "repo": "dodo-reach/hermes-desktop",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
+  },
+  {
+    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
+  },
+  {
+    "repo": "waybarrios/opencode-power-pack",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin."
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An open source harness for generating CAD models"
+  },
+  {
+    "repo": "JustLikeCheese/LGBT-Prompt",
+    "branch": "main",
+    "language": "HTML",
+    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
+  },
+  {
+    "repo": "williamcachamwri/zalo-tg",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "nhost/nhost",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Open Source Firebase Alternative with GraphQL."
+  },
+  {
+    "repo": "pydantic/FastUI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build better UIs faster."
   }
 ]
