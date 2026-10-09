@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jankeesvw/omarchy-meeting-recorder",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player."
-  },
-  {
-    "repo": "mofouly/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Platinum",
-    "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Platinum version offers enhanced performance and reliability."
-  },
-  {
-    "repo": "Alisa0808/vox-director",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill."
-  },
-  {
-    "repo": "hanlinwenyuan/hlwy-ai-checker",
-    "branch": "main",
-    "language": "HTML",
-    "description": "检查第三方AI API是否掺假以及渠道一致"
-  },
-  {
-    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
-  },
-  {
-    "repo": "JimLiu/baocut",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents"
-  },
-  {
-    "repo": "docmd-io/docmd",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
-  },
-  {
-    "repo": "d-samaun/Tomodachi-Share-Mii",
-    "branch": "main",
-    "language": "C#",
-    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
-  },
-  {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
-  },
-  {
-    "repo": "Mochocyang/QMAI",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。"
-  },
-  {
-    "repo": "cpaczek/skylight",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed."
-  },
-  {
-    "repo": "johnmiddleton12/my-whoop",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "BJTUpupil/AscendFHE",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "glad47/Folder_Size_Analyzer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Analyze folder sizes and see disk usage breakdown. Visualize with pie chart or tree map."
-  },
-  {
-    "repo": "xiaolongbao0709/ai-virtual-phone",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "RayceAnderson/tomodachi-pc",
-    "branch": "main",
-    "language": "C#",
-    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
-  },
-  {
-    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "facebookresearch/vggt-omega",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026 Oral] VGGT Omega"
-  },
-  {
-    "repo": "razr001/align-dev",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
-  },
-  {
-    "repo": "neuralCPL/polymarket-trading-bot",
+    "repo": "Vasco0x4/AIDA",
     "branch": "main",
     "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,"
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
   },
   {
-    "repo": "agentic-in/elephant-agent",
+    "repo": "knative/eventing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Event-driven application platform for Kubernetes"
+  },
+  {
+    "repo": "thepartly/gatehouse",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
+  },
+  {
+    "repo": "inbrainfun/inbrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "opf/openproject",
+    "branch": "dev",
+    "language": "Ruby",
+    "description": "OpenProject is the leading open source project management software."
+  },
+  {
+    "repo": "Anxcye/anx-reader",
+    "branch": "main",
+    "language": "Dart",
+    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
+  },
+  {
+    "repo": "preactjs/preact",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+  },
+  {
+    "repo": "codeninja/oauth-cli-coder",
     "branch": "main",
     "language": "Python",
-    "description": "Personal-Model First Self Evolving AI Agent 🐘"
+    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
   },
   {
-    "repo": "DEsu2111/File_Diff___Merge_Tool",
+    "repo": "Eronred/expo-agent-spinners",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+  },
+  {
+    "repo": "JeanDupuis68/polymarket-arbitrage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo"
+  },
+  {
+    "repo": "hao-ji-xing/openclaw-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "openclaw-weixin"
+  },
+  {
+    "repo": "github/super-linter",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Combination of multiple linters to install as a GitHub Action"
+  },
+  {
+    "repo": "yaojingang/yao-open-prompts",
     "branch": "main",
     "language": "Python",
-    "description": "Compare two files or folders and merge differences. See side-by-side diff, highlight changes, and merge selectively. Useful for code reviews and sync."
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
   },
   {
-    "repo": "raheemxghumman/Screen_Recorder_Pro",
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "Kanaries/pygwalker",
     "branch": "main",
     "language": "Python",
-    "description": "Record screen with audio, annotations, and scheduling. Capture full screen, record selected area, record system audio, and schedule recordings. Best for tutorials."
+    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
   },
   {
-    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
+    "repo": "github/hub",
+    "branch": "master",
+    "language": "Go",
+    "description": "A command-line tool that makes git easier to use with GitHub."
+  },
+  {
+    "repo": "creationix/rx",
     "branch": "main",
-    "language": "C#",
-    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
+    "language": "TypeScript",
+    "description": "RX encoder, decoder, and CLI data tool"
+  },
+  {
+    "repo": "InternLM/WildClawBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
+  },
+  {
+    "repo": "Lightning-AI/lightning",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
+  },
+  {
+    "repo": "CookSleep/gpt_image_playground",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+  },
+  {
+    "repo": "plausible/analytics",
+    "branch": "master",
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+  },
+  {
+    "repo": "AlphaBrainGroup/AlphaBrain",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Comprehensive Toolkit for Embodied AI Models"
+  },
+  {
+    "repo": "kamranahmedse/claude-statusline",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Minimal Claude Code statusline setup I personally use"
+  },
+  {
+    "repo": "Dimillian/PokeSwift",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI"
   }
 ]

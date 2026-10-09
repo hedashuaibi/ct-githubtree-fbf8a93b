@@ -1,8 +1,8 @@
 {
-  "repo": "Local-Settle/local-settle-frontend",
+  "repo": "Local-Settle/local-settle-backend",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Open-source peer-to-peer payments on Stellar and Soroban. Connect a wallet, trade USDC, and coordinate local settlement.",
+  "description": "Open-source Stellar and Soroban API for peer-to-peer USDC settlement, wallet authentication, orders, and escrow coordination.",
   "stars": 132,
-  "forks": 132
+  "forks": 129
 }
