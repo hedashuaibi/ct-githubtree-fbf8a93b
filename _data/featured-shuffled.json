@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mediastormDev/dream-to-video-skill",
+    "repo": "inclusionAI/Choruz",
     "branch": "main",
-    "language": "Python",
-    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "imxv/Pretty-mermaid-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
-  },
-  {
-    "repo": "jev-chat/jev-chat-windows",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动"
-  },
-  {
-    "repo": "pypa/setuptools",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official project repository for the Setuptools build system"
-  },
-  {
-    "repo": "tonyqinatcmu/SlideBot-AI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
-  },
-  {
-    "repo": "f/textream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
-  },
-  {
-    "repo": "TryGhost/Ghost",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
-  },
-  {
-    "repo": "qazbnm456/awesome-web-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
-  },
-  {
-    "repo": "sndrec/WebMonkeyBall",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
-  },
-  {
-    "repo": "localstack/localstack",
-    "branch": "master",
-    "language": "Python",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
-  },
-  {
-    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
-    "branch": "main",
-    "language": "C",
-    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
-  },
-  {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
-  },
-  {
-    "repo": "googleapis/python-storage",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python SDK for GCS (Google Cloud Storage)"
-  },
-  {
-    "repo": "aeromomo/claw-compactor",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
-  },
-  {
-    "repo": "iFurySt/open-codex-computer-use",
-    "branch": "main",
-    "language": "Swift",
-    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
-  },
-  {
-    "repo": "InterviewReady/system-design-resources",
-    "branch": "main",
-    "language": "Other",
-    "description": "These are the best resources for System Design on the Internet"
-  },
-  {
-    "repo": "dodo-reach/hermes-desktop",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
-  },
-  {
-    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
-  },
-  {
-    "repo": "waybarrios/opencode-power-pack",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin."
-  },
-  {
-    "repo": "earthtojake/text-to-cad",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "An open source harness for generating CAD models"
-  },
-  {
-    "repo": "JustLikeCheese/LGBT-Prompt",
-    "branch": "main",
-    "language": "HTML",
-    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
-  },
-  {
-    "repo": "williamcachamwri/zalo-tg",
+    "repo": "rauchg/gdp-ts",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "nhost/nhost",
+    "repo": "ironsh/iron-sensor",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The Open Source Firebase Alternative with GraphQL."
+    "language": "C",
+    "description": "An eBPF-based behavioral monitor for AI coding agents."
   },
   {
-    "repo": "pydantic/FastUI",
+    "repo": "burakgon/stop-stutter",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT."
+  },
+  {
+    "repo": "depreciating/DoodleCloud",
     "branch": "main",
     "language": "Python",
-    "description": "Build better UIs faster."
+    "description": "Cloud Storage using Instagram."
+  },
+  {
+    "repo": "ctdal/cve-2026-41940-PoC",
+    "branch": "main",
+    "language": "Python",
+    "description": "A cPanel and WHM authentication bypassing tool"
+  },
+  {
+    "repo": "bedriyan/medkit-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "branch": "main",
+    "language": "Java",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
+  },
+  {
+    "repo": "fhshaik/typesafe-mario",
+    "branch": "main",
+    "language": "Python",
+    "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state."
+  },
+  {
+    "repo": "arikchakma/gpu-time",
+    "branch": "main",
+    "language": "Python",
+    "description": "A small neural model for parsing date & time"
+  },
+  {
+    "repo": "paramiko/paramiko",
+    "branch": "main",
+    "language": "Python",
+    "description": "The leading native Python SSHv2 protocol library."
+  },
+  {
+    "repo": "renatoworks/3dsvg",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
+  },
+  {
+    "repo": "Kaleidoscope-XinFang/ai-video-ad-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "alvinunreal/awesome-submitlist",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io."
+  },
+  {
+    "repo": "lnkiai/m3e-canvas",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
+  },
+  {
+    "repo": "asen-goat-mine/boujoy-harness",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A knowledge-linked local AI harness with macOS support and a Windows Beta launcher."
+  },
+  {
+    "repo": "anchore/grype",
+    "branch": "main",
+    "language": "Go",
+    "description": "A vulnerability scanner for container images and filesystems"
+  },
+  {
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "GangTailorUpgrade/undress-service",
+    "branch": "main",
+    "language": "Python",
+    "description": "Dress AI Sponsor"
+  },
+  {
+    "repo": "fayazara/portfolio-site-template",
+    "branch": "main",
+    "language": "Astro",
+    "description": "A fun little personal portfolio site template"
+  },
+  {
+    "repo": "joe-bell/skills",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Skills for me (and you)"
+  },
+  {
+    "repo": "Ademking/MD-This-Page",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Convert any web page to clean, readable Markdown with just one click."
+  },
+  {
+    "repo": "EKKOLearnAI/hermes-web-ui",
+    "branch": "main",
+    "language": "Vue",
+    "description": ""
+  },
+  {
+    "repo": "kydlikebtc/awesome-grokbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site."
   }
 ]
