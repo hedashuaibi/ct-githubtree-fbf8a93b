@@ -1,8 +1,8 @@
 {
-  "repo": "Funny-Bones/ELDEN-RING-Combat-Rewrite",
+  "repo": "Local-Settle/local-settle-frontend",
   "branch": "main",
-  "language": "Rust",
-  "description": "A featured project on GitHubTree.",
-  "stars": 135,
-  "forks": 23
+  "language": "TypeScript",
+  "description": "Open-source peer-to-peer payments on Stellar and Soroban. Connect a wallet, trade USDC, and coordinate local settlement.",
+  "stars": 132,
+  "forks": 132
 }

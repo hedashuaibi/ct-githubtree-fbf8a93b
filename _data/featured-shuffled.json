@@ -1,146 +1,146 @@
 [
   {
-    "repo": "inclusionAI/Choruz",
+    "repo": "jankeesvw/omarchy-meeting-recorder",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player."
   },
   {
-    "repo": "rauchg/gdp-ts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ironsh/iron-sensor",
-    "branch": "main",
-    "language": "C",
-    "description": "An eBPF-based behavioral monitor for AI coding agents."
-  },
-  {
-    "repo": "burakgon/stop-stutter",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT."
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
+    "repo": "mofouly/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Platinum",
     "branch": "main",
     "language": "Python",
-    "description": "Cloud Storage using Instagram."
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Platinum version offers enhanced performance and reliability."
   },
   {
-    "repo": "ctdal/cve-2026-41940-PoC",
+    "repo": "Alisa0808/vox-director",
     "branch": "main",
     "language": "Python",
-    "description": "A cPanel and WHM authentication bypassing tool"
+    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill."
   },
   {
-    "repo": "bedriyan/medkit-app",
+    "repo": "hanlinwenyuan/hlwy-ai-checker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+    "language": "HTML",
+    "description": "检查第三方AI API是否掺假以及渠道一致"
   },
   {
-    "repo": "elastic/elasticsearch",
-    "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
-  },
-  {
-    "repo": "fhshaik/typesafe-mario",
+    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
     "branch": "main",
     "language": "Python",
-    "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state."
+    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
   },
   {
-    "repo": "arikchakma/gpu-time",
+    "repo": "JimLiu/baocut",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents"
+  },
+  {
+    "repo": "docmd-io/docmd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
+  },
+  {
+    "repo": "d-samaun/Tomodachi-Share-Mii",
+    "branch": "main",
+    "language": "C#",
+    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
+  },
+  {
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
     "branch": "main",
     "language": "Python",
-    "description": "A small neural model for parsing date & time"
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
   },
   {
-    "repo": "paramiko/paramiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
-  },
-  {
-    "repo": "renatoworks/3dsvg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The easiest way to turn SVGs into interactive React 3D components"
-  },
-  {
-    "repo": "Kaleidoscope-XinFang/ai-video-ad-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "alvinunreal/awesome-submitlist",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io."
-  },
-  {
-    "repo": "lnkiai/m3e-canvas",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
-  },
-  {
-    "repo": "asen-goat-mine/boujoy-harness",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A knowledge-linked local AI harness with macOS support and a Windows Beta launcher."
-  },
-  {
-    "repo": "anchore/grype",
-    "branch": "main",
-    "language": "Go",
-    "description": "A vulnerability scanner for container images and filesystems"
-  },
-  {
-    "repo": "tensorflow/models",
+    "repo": "Mochocyang/QMAI",
     "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
+    "language": "TypeScript",
+    "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。"
   },
   {
-    "repo": "GangTailorUpgrade/undress-service",
-    "branch": "main",
-    "language": "Python",
-    "description": "Dress AI Sponsor"
-  },
-  {
-    "repo": "fayazara/portfolio-site-template",
-    "branch": "main",
-    "language": "Astro",
-    "description": "A fun little personal portfolio site template"
-  },
-  {
-    "repo": "joe-bell/skills",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Skills for me (and you)"
-  },
-  {
-    "repo": "Ademking/MD-This-Page",
+    "repo": "cpaczek/skylight",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Convert any web page to clean, readable Markdown with just one click."
+    "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed."
   },
   {
-    "repo": "EKKOLearnAI/hermes-web-ui",
+    "repo": "johnmiddleton12/my-whoop",
     "branch": "main",
-    "language": "Vue",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "kydlikebtc/awesome-grokbot",
+    "repo": "BJTUpupil/AscendFHE",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "glad47/Folder_Size_Analyzer",
     "branch": "main",
     "language": "Python",
-    "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site."
+    "description": "Analyze folder sizes and see disk usage breakdown. Visualize with pie chart or tree map."
+  },
+  {
+    "repo": "xiaolongbao0709/ai-virtual-phone",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "RayceAnderson/tomodachi-pc",
+    "branch": "main",
+    "language": "C#",
+    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
+  },
+  {
+    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "facebookresearch/vggt-omega",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026 Oral] VGGT Omega"
+  },
+  {
+    "repo": "razr001/align-dev",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
+  },
+  {
+    "repo": "neuralCPL/polymarket-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,"
+  },
+  {
+    "repo": "agentic-in/elephant-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Personal-Model First Self Evolving AI Agent 🐘"
+  },
+  {
+    "repo": "DEsu2111/File_Diff___Merge_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compare two files or folders and merge differences. See side-by-side diff, highlight changes, and merge selectively. Useful for code reviews and sync."
+  },
+  {
+    "repo": "raheemxghumman/Screen_Recorder_Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "Record screen with audio, annotations, and scheduling. Capture full screen, record selected area, record system audio, and schedule recordings. Best for tutorials."
+  },
+  {
+    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
   }
 ]
