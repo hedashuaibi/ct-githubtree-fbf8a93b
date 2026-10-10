@@ -1,45 +1,111 @@
 [
   {
-    "repo": "CrystaIlDEA/CrystalIDEA-uninstall-tool",
+    "repo": "bjarneo/kli",
     "branch": "main",
-    "language": "C#",
-    "description": "crystalidea uninstall tool uninstaller crystalidea software complete removal stubborn apps uninstall wizard install tracker installation monitor force removal batch uninstall startup manager registry cleaner leftover files portable mode clean pc windows 11 windows 10 desktop utility setup guide configuration tutorial troubleshooting download link"
+    "language": "Go",
+    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit."
   },
   {
-    "repo": "millionco/isolet",
+    "repo": "gemini-cli-extensions/ralph",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Package any component into a self-contained, isolated widget"
+    "language": "Shell",
+    "description": "Gemini CLI extension for Ralph loops"
   },
   {
-    "repo": "apache/kafka",
-    "branch": "trunk",
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "JakeWharton/butterknife",
+    "branch": "master",
     "language": "Java",
-    "description": "Mirror of Apache Kafka"
+    "description": "Bind Android views and callbacks to fields and methods."
   },
   {
-    "repo": "signalapp/Signal-Desktop",
+    "repo": "amirmushichge/tribeV2_ViralAnalyser",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "material-components/material-components-web",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "repo": "scosman/cursed_browser",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page."
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "earendil-works/pi-review",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
+    "description": "A review extension for Pi"
   },
   {
-    "repo": "nocodb/nocodb",
-    "branch": "develop",
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "hiteshchoudhary/gitbackup",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
   },
   {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
-    "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
+    "repo": "bcurts/agentchattr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
   },
   {
-    "repo": "JaredStewart/coderlm",
+    "repo": "Udacity-ai/pumpfun-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading"
+  },
+  {
+    "repo": "infinition/waveshare-watch-rs",
     "branch": "main",
     "language": "Rust",
-    "description": "Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context."
+    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
+  },
+  {
+    "repo": "romus204/tree-sitter-manager.nvim",
+    "branch": "main",
+    "language": "Tree-sitter Query",
+    "description": "A lightweight Tree-sitter parser manager for Neovim."
+  },
+  {
+    "repo": "Supervisor/supervisor",
+    "branch": "master",
+    "language": "Python",
+    "description": "Supervisor process control system for Unix (supervisord)"
   },
   {
     "repo": "pmndrs/jotai",
@@ -48,99 +114,33 @@
     "description": "👻 Primitive and flexible state management for React"
   },
   {
-    "repo": "yargs/yargs",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "yargs the modern, pirate-themed successor to optimist."
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
   },
   {
-    "repo": "apple/swift-algorithms",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
-  },
-  {
-    "repo": "termux/termux-packages",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A package build system for Termux."
-  },
-  {
-    "repo": "github/docs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
-  },
-  {
-    "repo": "nuxt/ui",
-    "branch": "dev",
-    "language": "Vue",
-    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
-  },
-  {
-    "repo": "kyutai-labs/hibiki-zero",
+    "repo": "EbookFoundation/free-programming-books",
     "branch": "main",
     "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
+    "description": ":books: Freely available programming books"
   },
   {
-    "repo": "tensorflow/serving",
-    "branch": "master",
-    "language": "C++",
-    "description": "A flexible, high-performance serving system for machine learning models"
+    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
   },
   {
-    "repo": "m1heng/clawdbot-feishu",
+    "repo": "sndrec/WebMonkeyBall",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Super Monkey Ball on Web Broser."
   },
   {
-    "repo": "amplication/amplication",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
-  },
-  {
-    "repo": "npm/cli",
-    "branch": "latest",
-    "language": "JavaScript",
-    "description": "the package manager for JavaScript"
-  },
-  {
-    "repo": "mo1app/pipemagic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
-  },
-  {
-    "repo": "nyanko3141592/remotion-voicevox-template",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
-  },
-  {
-    "repo": "kubernetes/client-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go client for Kubernetes."
-  },
-  {
-    "repo": "kubernetes-sigs/kubespray",
-    "branch": "master",
-    "language": "Jinja",
-    "description": "Deploy a Production Ready Kubernetes Cluster"
-  },
-  {
-    "repo": "Tencent/cherry-markdown",
+    "repo": "cporter202/video-scraping-apis",
     "branch": "main",
     "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
-  },
-  {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
   }
 ]
