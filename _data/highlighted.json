@@ -1,8 +1,8 @@
 {
-  "repo": "Stellar-Sentinel/sentinel-contracts",
+  "repo": "t4t5/omdrop-owl",
   "branch": "main",
-  "language": "Rust",
-  "description": "Soroban contract for authorized Stellar Sentinel flags, configurable thresholds, and latest-flag records.",
-  "stars": 131,
-  "forks": 131
+  "language": "Shell",
+  "description": "airdrop for non-apple devices",
+  "stars": 918,
+  "forks": 59
 }

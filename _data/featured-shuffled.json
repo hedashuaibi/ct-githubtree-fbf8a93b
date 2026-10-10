@@ -1,146 +1,146 @@
 [
   {
-    "repo": "logseq/logseq",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
+    "repo": "programmersd21/flow",
+    "branch": "main",
+    "language": "Go",
+    "description": "🌊 see your network breathe"
   },
   {
-    "repo": "lux-db/lux",
+    "repo": "glommer/cachebro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
+  },
+  {
+    "repo": "nikzad-avasam/downloader",
+    "branch": "main",
+    "language": "HTML",
+    "description": "for 🇮🇷 🪄 download files + 🌐 browse websites"
+  },
+  {
+    "repo": "ActiveTK/VRAMDISK",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "VRAMDISK: Create VRAM disk on Windows"
   },
   {
-    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
-    "branch": "main",
-    "language": "Python",
-    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
-  },
-  {
-    "repo": "TheTom/vllm-swift",
-    "branch": "main",
-    "language": "Python",
-    "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
-  },
-  {
-    "repo": "gorhom/react-native-bottom-sheet",
+    "repo": "actix/actix",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+    "language": "Rust",
+    "description": "Actor framework for Rust."
   },
   {
-    "repo": "bendrape1-byte/silk-design",
-    "branch": "main",
-    "language": "CSS",
-    "description": "A Claude Code skill for building web interfaces that move well. Motion, smooth scroll, and design tokens by default."
-  },
-  {
-    "repo": "Lelemon-studio/compliance-cl",
+    "repo": "large-performance-model/large-performance-model.github.io",
     "branch": "main",
     "language": "HTML",
-    "description": "🇨🇱 Skill de Claude Code: auditoría y cumplimiento Ley 21.719 (datos) + 21.595 (delitos económicos) — contra el texto oficial, nada inventado."
+    "description": "LPM 1.0: Video-based Character Performance Model"
   },
   {
-    "repo": "Robbyant/lingbot-video",
+    "repo": "Evokoa/pgContext",
     "branch": "master",
-    "language": "Python",
-    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+    "language": "Rust",
+    "description": "A full AI search engine, built into Postgres."
   },
   {
-    "repo": "zerosupercycIe/risk-free-sniper",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "AdriBuho/playfront",
-    "branch": "main",
-    "language": "C#",
-    "description": "A console-style shell for Windows handhelds, built for the ASUS ROG Xbox Ally."
-  },
-  {
-    "repo": "chef/chef",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
-  },
-  {
-    "repo": "lobehub/lobe-chat",
+    "repo": "cosmicstack-labs/mercury-agent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
   },
   {
-    "repo": "qiskit-community/qgss-2026",
+    "repo": "nomic-ai/gpt4all",
     "branch": "main",
-    "language": "Jupyter Notebook",
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+  },
+  {
+    "repo": "amircloner/g2ray",
+    "branch": "main",
+    "language": "Dockerfile",
     "description": ""
   },
   {
-    "repo": "youcefito/mt5-quiet-automata",
+    "repo": "s0912758806p/agentic-sop-to-work",
     "branch": "main",
-    "language": "HTML",
-    "description": "Run MT5 as Stealth Windows Service for Automated Trading, 2026"
+    "language": "Python",
+    "description": "Turn human SOPs into deterministic, gated agentic workflows — a Claude Code plugin."
   },
   {
-    "repo": "yuhuangerdi/InduSecAgent",
+    "repo": "SafeRL-Lab/nano-claude-code",
     "branch": "main",
-    "language": "Vue",
+    "language": "Python",
+    "description": "Nano Claude Code: A Fast, Easy-to-Use Python Reimplementation of Claude Code Supporting Any Model."
+  },
+  {
+    "repo": "earendil-works/pi-review",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A review extension for Pi"
+  },
+  {
+    "repo": "thedaviddias/Front-End-Checklist",
+    "branch": "master",
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "repo": "Nightmare-Eclipse/GreenPlasma",
+    "branch": "main",
+    "language": "C++",
+    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+  },
+  {
+    "repo": "b-nnett/goose",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Goose Swift proof-of-concept README"
+  },
+  {
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
+    "language": "Go",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
+  },
+  {
+    "repo": "pocket-stack/pocketjs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+  },
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+  },
+  {
+    "repo": "YangyangQu/research-idea-scout",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "downclash/clash",
+    "repo": "MiniMax-AI/MSA",
     "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "win4r/free-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+  },
+  {
+    "repo": "priyanshu14077/Horizon_Zero_Dawn_Unlimited_Resources",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited health, ammo, resources, and all skills for Horizon Zero Dawn. God mode, infinite crafting, and stealth. Dominate the machines."
+  },
+  {
+    "repo": "Finderchangchang/codex-autoskin",
+    "branch": "master",
     "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "RopemakerEnd/ds4windows-lab-2026",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense."
-  },
-  {
-    "repo": "duxweb/ReTheme",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT"
-  },
-  {
-    "repo": "sunny-glow/Auto-BenchMax",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-vote and fashion helper for Dress to Impress, the fashion competition game with the highest approval rating on the chart (70K-100K concurrent)[reference:15]. Get votes, unlock all items, and win every round."
-  },
-  {
-    "repo": "MarshallBear1/react-native-system-thumbnails",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
-  },
-  {
-    "repo": "mateusdcc/pi-gpt-search",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine."
-  },
-  {
-    "repo": "HITsz-TMG/KnowAct",
-    "branch": "main",
-    "language": "Python",
-    "description": "Recursive Self-Improvement GUI Assistant"
-  },
-  {
-    "repo": "FeiZhuLulu/real-api-pricing",
-    "branch": "main",
-    "language": "HTML",
-    "description": "真实 API 定价：订阅月费 ÷ 实际可用 token，含额度、单价与分榜帕累托图。Real API pricing: subscription fee ÷ usable tokens, with allowance, unit-price, and leaderboard Pareto charts."
+    "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app."
   }
 ]
