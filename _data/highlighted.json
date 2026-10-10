@@ -1,8 +1,8 @@
 {
-  "repo": "Local-Settle/local-settle-backend",
+  "repo": "Stellar-Sentinel/sentinel-contracts",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Open-source Stellar and Soroban API for peer-to-peer USDC settlement, wallet authentication, orders, and escrow coordination.",
-  "stars": 132,
-  "forks": 129
+  "language": "Rust",
+  "description": "Soroban contract for authorized Stellar Sentinel flags, configurable thresholds, and latest-flag records.",
+  "stars": 131,
+  "forks": 131
 }

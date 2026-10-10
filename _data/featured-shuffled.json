@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+    "repo": "logseq/logseq",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
   },
   {
-    "repo": "knative/eventing",
-    "branch": "main",
-    "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
-  },
-  {
-    "repo": "thepartly/gatehouse",
+    "repo": "lux-db/lux",
     "branch": "main",
     "language": "Rust",
-    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
-  },
-  {
-    "repo": "inbrainfun/inbrain",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "opf/openproject",
-    "branch": "dev",
-    "language": "Ruby",
-    "description": "OpenProject is the leading open source project management software."
-  },
-  {
-    "repo": "Anxcye/anx-reader",
+    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
     "branch": "main",
-    "language": "Dart",
-    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
+    "language": "Python",
+    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
   },
   {
-    "repo": "preactjs/preact",
+    "repo": "TheTom/vllm-swift",
+    "branch": "main",
+    "language": "Python",
+    "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
+  },
+  {
+    "repo": "gorhom/react-native-bottom-sheet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+  },
+  {
+    "repo": "bendrape1-byte/silk-design",
+    "branch": "main",
+    "language": "CSS",
+    "description": "A Claude Code skill for building web interfaces that move well. Motion, smooth scroll, and design tokens by default."
+  },
+  {
+    "repo": "Lelemon-studio/compliance-cl",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🇨🇱 Skill de Claude Code: auditoría y cumplimiento Ley 21.719 (datos) + 21.595 (delitos económicos) — contra el texto oficial, nada inventado."
+  },
+  {
+    "repo": "Robbyant/lingbot-video",
+    "branch": "master",
+    "language": "Python",
+    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+  },
+  {
+    "repo": "zerosupercycIe/risk-free-sniper",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "AdriBuho/playfront",
+    "branch": "main",
+    "language": "C#",
+    "description": "A console-style shell for Windows handhelds, built for the ASUS ROG Xbox Ally."
+  },
+  {
+    "repo": "chef/chef",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
+  },
+  {
+    "repo": "lobehub/lobe-chat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+  },
+  {
+    "repo": "qiskit-community/qgss-2026",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "youcefito/mt5-quiet-automata",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Run MT5 as Stealth Windows Service for Automated Trading, 2026"
+  },
+  {
+    "repo": "yuhuangerdi/InduSecAgent",
+    "branch": "main",
+    "language": "Vue",
+    "description": ""
+  },
+  {
+    "repo": "downclash/clash",
     "branch": "main",
     "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+    "description": ""
   },
   {
-    "repo": "codeninja/oauth-cli-coder",
+    "repo": "RopemakerEnd/ds4windows-lab-2026",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense."
+  },
+  {
+    "repo": "duxweb/ReTheme",
+    "branch": "main",
+    "language": "Rust",
+    "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT"
+  },
+  {
+    "repo": "sunny-glow/Auto-BenchMax",
     "branch": "main",
     "language": "Python",
-    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
+    "description": ""
   },
   {
-    "repo": "Eronred/expo-agent-spinners",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
-  },
-  {
-    "repo": "JeanDupuis68/polymarket-arbitrage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo"
-  },
-  {
-    "repo": "hao-ji-xing/openclaw-weixin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "openclaw-weixin"
-  },
-  {
-    "repo": "github/super-linter",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Combination of multiple linters to install as a GitHub Action"
-  },
-  {
-    "repo": "yaojingang/yao-open-prompts",
+    "repo": "anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper",
     "branch": "main",
     "language": "Python",
-    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+    "description": "Auto-vote and fashion helper for Dress to Impress, the fashion competition game with the highest approval rating on the chart (70K-100K concurrent)[reference:15]. Get votes, unlock all items, and win every round."
   },
   {
-    "repo": "Koenkk/zigbee2mqtt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
-  },
-  {
-    "repo": "Kanaries/pygwalker",
+    "repo": "MarshallBear1/react-native-system-thumbnails",
     "branch": "main",
-    "language": "Python",
-    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
+    "language": "Kotlin",
+    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
   },
   {
-    "repo": "github/hub",
-    "branch": "master",
-    "language": "Go",
-    "description": "A command-line tool that makes git easier to use with GitHub."
-  },
-  {
-    "repo": "creationix/rx",
+    "repo": "mateusdcc/pi-gpt-search",
     "branch": "main",
     "language": "TypeScript",
-    "description": "RX encoder, decoder, and CLI data tool"
+    "description": "Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine."
   },
   {
-    "repo": "InternLM/WildClawBench",
+    "repo": "HITsz-TMG/KnowAct",
     "branch": "main",
     "language": "Python",
-    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
+    "description": "Recursive Self-Improvement GUI Assistant"
   },
   {
-    "repo": "Lightning-AI/lightning",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
-  },
-  {
-    "repo": "CookSleep/gpt_image_playground",
+    "repo": "FeiZhuLulu/real-api-pricing",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
-  },
-  {
-    "repo": "plausible/analytics",
-    "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
-  },
-  {
-    "repo": "AlphaBrainGroup/AlphaBrain",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Comprehensive Toolkit for Embodied AI Models"
-  },
-  {
-    "repo": "kamranahmedse/claude-statusline",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Minimal Claude Code statusline setup I personally use"
-  },
-  {
-    "repo": "Dimillian/PokeSwift",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI"
+    "language": "HTML",
+    "description": "真实 API 定价：订阅月费 ÷ 实际可用 token，含额度、单价与分榜帕累托图。Real API pricing: subscription fee ÷ usable tokens, with allowance, unit-price, and leaderboard Pareto charts."
   }
 ]
