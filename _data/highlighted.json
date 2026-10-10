@@ -1,8 +1,8 @@
 {
-  "repo": "t4t5/omdrop-owl",
+  "repo": "anthropics/oss-scanner",
   "branch": "main",
-  "language": "Shell",
-  "description": "airdrop for non-apple devices",
-  "stars": 918,
-  "forks": 59
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 594,
+  "forks": 309
 }

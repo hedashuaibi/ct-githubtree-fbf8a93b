@@ -1,146 +1,146 @@
 [
   {
-    "repo": "programmersd21/flow",
+    "repo": "CrystaIlDEA/CrystalIDEA-uninstall-tool",
     "branch": "main",
-    "language": "Go",
-    "description": "🌊 see your network breathe"
+    "language": "C#",
+    "description": "crystalidea uninstall tool uninstaller crystalidea software complete removal stubborn apps uninstall wizard install tracker installation monitor force removal batch uninstall startup manager registry cleaner leftover files portable mode clean pc windows 11 windows 10 desktop utility setup guide configuration tutorial troubleshooting download link"
   },
   {
-    "repo": "glommer/cachebro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
-  },
-  {
-    "repo": "nikzad-avasam/downloader",
-    "branch": "main",
-    "language": "HTML",
-    "description": "for 🇮🇷 🪄 download files + 🌐 browse websites"
-  },
-  {
-    "repo": "ActiveTK/VRAMDISK",
-    "branch": "main",
-    "language": "Rust",
-    "description": "VRAMDISK: Create VRAM disk on Windows"
-  },
-  {
-    "repo": "actix/actix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
-  },
-  {
-    "repo": "large-performance-model/large-performance-model.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "LPM 1.0: Video-based Character Performance Model"
-  },
-  {
-    "repo": "Evokoa/pgContext",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A full AI search engine, built into Postgres."
-  },
-  {
-    "repo": "cosmicstack-labs/mercury-agent",
+    "repo": "millionco/isolet",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+    "description": "Package any component into a self-contained, isolated widget"
   },
   {
-    "repo": "nomic-ai/gpt4all",
-    "branch": "main",
-    "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+    "repo": "apache/kafka",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Mirror of Apache Kafka"
   },
   {
-    "repo": "amircloner/g2ray",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "s0912758806p/agentic-sop-to-work",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn human SOPs into deterministic, gated agentic workflows — a Claude Code plugin."
-  },
-  {
-    "repo": "SafeRL-Lab/nano-claude-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Nano Claude Code: A Fast, Easy-to-Use Python Reimplementation of Claude Code Supporting Any Model."
-  },
-  {
-    "repo": "earendil-works/pi-review",
+    "repo": "signalapp/Signal-Desktop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A review extension for Pi"
+    "description": "A private messenger for Windows, macOS, and Linux."
   },
   {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+    "repo": "nocodb/nocodb",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
   },
   {
-    "repo": "Nightmare-Eclipse/GreenPlasma",
-    "branch": "main",
-    "language": "C++",
-    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+    "repo": "element-hq/element-android",
+    "branch": "develop",
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
   },
   {
-    "repo": "b-nnett/goose",
+    "repo": "JaredStewart/coderlm",
     "branch": "main",
     "language": "Rust",
-    "description": "Goose Swift proof-of-concept README"
+    "description": "Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context."
   },
   {
-    "repo": "tinygo-org/tinygo",
-    "branch": "release",
-    "language": "Go",
-    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
-  },
-  {
-    "repo": "pocket-stack/pocketjs",
+    "repo": "pmndrs/jotai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+    "description": "👻 Primitive and flexible state management for React"
   },
   {
-    "repo": "Zackriya-Solutions/meeting-minutes",
+    "repo": "yargs/yargs",
     "branch": "main",
-    "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
-  },
-  {
-    "repo": "YangyangQu/research-idea-scout",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "MiniMax-AI/MSA",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "win4r/free-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
-  },
-  {
-    "repo": "priyanshu14077/Horizon_Zero_Dawn_Unlimited_Resources",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited health, ammo, resources, and all skills for Horizon Zero Dawn. God mode, infinite crafting, and stealth. Dominate the machines."
-  },
-  {
-    "repo": "Finderchangchang/codex-autoskin",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app."
+    "description": "yargs the modern, pirate-themed successor to optimist."
+  },
+  {
+    "repo": "apple/swift-algorithms",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Commonly used sequence and collection algorithms for Swift"
+  },
+  {
+    "repo": "termux/termux-packages",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A package build system for Termux."
+  },
+  {
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
+  },
+  {
+    "repo": "nuxt/ui",
+    "branch": "dev",
+    "language": "Vue",
+    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
+  },
+  {
+    "repo": "kyutai-labs/hibiki-zero",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "tensorflow/serving",
+    "branch": "master",
+    "language": "C++",
+    "description": "A flexible, high-performance serving system for machine learning models"
+  },
+  {
+    "repo": "m1heng/clawdbot-feishu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "amplication/amplication",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
+  },
+  {
+    "repo": "npm/cli",
+    "branch": "latest",
+    "language": "JavaScript",
+    "description": "the package manager for JavaScript"
+  },
+  {
+    "repo": "mo1app/pipemagic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
+  },
+  {
+    "repo": "nyanko3141592/remotion-voicevox-template",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
+  },
+  {
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
+  },
+  {
+    "repo": "Tencent/cherry-markdown",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A Markdown Editor"
+  },
+  {
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
   }
 ]
