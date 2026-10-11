@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kvuong2711/fix-anything",
-    "branch": "main",
-    "language": "Python",
-    "description": "[ECCV 2026] FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors"
-  },
-  {
-    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
-  },
-  {
-    "repo": "pvpoxx/PrismLauncherCrackedEly",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
-  },
-  {
-    "repo": "skottrun/extrateto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
-  },
-  {
-    "repo": "Xuanwo/xurl",
+    "repo": "HaidarJbeily7/cargo-frisk",
     "branch": "main",
     "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
+    "description": ""
   },
   {
-    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-    "branch": "main",
-    "language": "TeX",
-    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
-  },
-  {
-    "repo": "Jiangzy520/DreamleStockRadar",
-    "branch": "main",
-    "language": "Python",
-    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
-  },
-  {
-    "repo": "hangsman/claude-code-source",
+    "repo": "injaneity/pi-computer-use",
     "branch": "main",
     "language": "TypeScript",
-    "description": "claude code source map v2.1.88"
+    "description": "control your applications using pi-coding-agent. fully invisible."
   },
   {
-    "repo": "ghboke/claude-code-reverse",
+    "repo": "chekusu/mails",
     "branch": "main",
     "language": "TypeScript",
-    "description": "claude code源码分析报告"
+    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
   },
   {
-    "repo": "maria-rcks/miri",
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
+  },
+  {
+    "repo": "storybookjs/testing-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+  },
+  {
+    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Open Source Computer Vision Library"
+  },
+  {
+    "repo": "v1r3n/dinesh-gilfoyle",
+    "branch": "main",
+    "language": "HTML",
+    "description": "What if Dinesh and Gilfoyle reviewed your code?"
+  },
+  {
+    "repo": "jackwener/wx-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "repo": "klsf/codex-register",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
+  },
+  {
+    "repo": "apechurch/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymar"
+  },
+  {
+    "repo": "ListerOvO1211/LazyEnv",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "openai/codex-plugin-cc",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Use Codex from Claude Code to review code or delegate tasks."
+  },
+  {
+    "repo": "imbue-ai/bouncer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Heal your social media feeds"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "branch": "master",
+    "language": "Go",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+  },
+  {
+    "repo": "Tencent/omi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Web Components Framework - Web组件框架"
+  },
+  {
+    "repo": "leon-ai/leon",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🧠 Leon is your open-source personal assistant."
+  },
+  {
+    "repo": "EthanLipnik/Loom",
     "branch": "main",
     "language": "Swift",
-    "description": "Niri-ish, keyboard-first window manager for macOS."
+    "description": "Easy peer to peer networking for Apple devices"
   },
   {
-    "repo": "validatorjs/validator.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "String validation"
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "branch": "main",
+    "language": "MDX",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
   },
   {
-    "repo": "honojs/hono",
+    "repo": "iad1tya/EchoTube",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
+  },
+  {
+    "repo": "Mondo-Robotics/DiT4DiT",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "picoclaw"
+  },
+  {
+    "repo": "lzhgus/Capso",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+  },
+  {
+    "repo": "jasonkneen/agent-simulator",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Web framework built on Web Standards"
-  },
-  {
-    "repo": "appium/appium",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "tgies/copy-fail-c",
-    "branch": "main",
-    "language": "C",
-    "description": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
-  },
-  {
-    "repo": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
-    "branch": "work",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket copytradingbot polymarket copytrading bot"
-  },
-  {
-    "repo": "alexandercodes4/AirTrain",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed ML training across Apple Silicon Macs"
-  },
-  {
-    "repo": "FFmpeg/FFmpeg",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
-  },
-  {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "val1813/kwcode",
-    "branch": "master",
-    "language": "Python",
-    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
-  },
-  {
-    "repo": "MME-Benchmarks/Video-MME-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
-  },
-  {
-    "repo": "rest-assured/rest-assured",
-    "branch": "master",
-    "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
-  },
-  {
-    "repo": "privacyguides/privacyguides.org",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Protect your data against global mass surveillance programs."
-  },
-  {
-    "repo": "creationix/rx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "RX encoder, decoder, and CLI data tool"
-  },
-  {
-    "repo": "anvie/evonic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Agentic AI Platform - The home your agents deserve"
+    "description": "An iOS simulator in a browser you can inspect"
   }
 ]
