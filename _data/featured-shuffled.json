@@ -1,146 +1,146 @@
 [
   {
-    "repo": "HaidarJbeily7/cargo-frisk",
+    "repo": "remorses/usecomputer",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "Zig",
+    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
   },
   {
-    "repo": "injaneity/pi-computer-use",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "control your applications using pi-coding-agent. fully invisible."
-  },
-  {
-    "repo": "chekusu/mails",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
-  },
-  {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
-  },
-  {
-    "repo": "storybookjs/testing-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
-  },
-  {
-    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
-  },
-  {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Open Source Computer Vision Library"
-  },
-  {
-    "repo": "v1r3n/dinesh-gilfoyle",
+    "repo": "HAMMADZAFAR3636/CineBlog-Template-Vault",
     "branch": "main",
     "language": "HTML",
-    "description": "What if Dinesh and Gilfoyle reviewed your code?"
+    "description": "Premium Movie Blogger Template 2026 for SEO & Fast Performance"
   },
   {
-    "repo": "jackwener/wx-cli",
+    "repo": "QihanZhao/cc-prune",
     "branch": "main",
-    "language": "Rust",
-    "description": "WeChat local data CLI with daemon architecture"
-  },
-  {
-    "repo": "klsf/codex-register",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
-  },
-  {
-    "repo": "apechurch/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymar"
-  },
-  {
-    "repo": "ListerOvO1211/LazyEnv",
-    "branch": "main",
-    "language": "C++",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "openai/codex-plugin-cc",
+    "repo": "erdwin90/crypto-bar-mac",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Use Codex from Claude Code to review code or delegate tasks."
+    "language": "Objective-C++",
+    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
   },
   {
-    "repo": "imbue-ai/bouncer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Heal your social media feeds"
-  },
-  {
-    "repo": "go-gorm/gorm",
-    "branch": "master",
-    "language": "Go",
-    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
-  },
-  {
-    "repo": "Tencent/omi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Web Components Framework - Web组件框架"
-  },
-  {
-    "repo": "leon-ai/leon",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🧠 Leon is your open-source personal assistant."
-  },
-  {
-    "repo": "EthanLipnik/Loom",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
-  },
-  {
-    "repo": "dair-ai/Prompt-Engineering-Guide",
-    "branch": "main",
-    "language": "MDX",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-  },
-  {
-    "repo": "iad1tya/EchoTube",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
-  },
-  {
-    "repo": "Mondo-Robotics/DiT4DiT",
+    "repo": "dama-cyber/Casting-Workflow",
     "branch": "main",
     "language": "Python",
-    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
+    "description": ""
   },
   {
-    "repo": "sipeed/picoclaw",
+    "repo": "thinkpixelIab/polymarket-ai-trading",
     "branch": "main",
-    "language": "Go",
-    "description": "picoclaw"
+    "language": "HTML",
+    "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto"
   },
   {
-    "repo": "lzhgus/Capso",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
-  },
-  {
-    "repo": "jasonkneen/agent-simulator",
+    "repo": "agent-quality-controls/slopless",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An iOS simulator in a browser you can inspect"
+    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown"
+  },
+  {
+    "repo": "aayan555/DS4Windows",
+    "branch": "main",
+    "language": "C#",
+    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
+  },
+  {
+    "repo": "umacloud/umadev",
+    "branch": "main",
+    "language": "Rust",
+    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline."
+  },
+  {
+    "repo": "dikurdikur/palmier-pro-windows",
+    "branch": "main",
+    "language": "C#",
+    "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx"
+  },
+  {
+    "repo": "LUPUL64348/NTE-cheat",
+    "branch": "main",
+    "language": "C#",
+    "description": "nte Neverness To Everness cheat download pc auto fish ray tracing bot teleport esp speedhack  macro script unlocker config windows 11"
+  },
+  {
+    "repo": "amplifthq/opentag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "repo": "samuto69/claude-ai-desktop-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant"
+  },
+  {
+    "repo": "Ymsniper/KTO",
+    "branch": "main",
+    "language": "Python",
+    "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect."
+  },
+  {
+    "repo": "manojd23625/Steam-Tools",
+    "branch": "main",
+    "language": "C#",
+    "description": "steamtools steam download manifest steamtools manifest steamdb steamtools lua steamtools games steam download manifest steam steam manifest client tool utility script file manager app library pc game"
+  },
+  {
+    "repo": "Tong89/smartNode",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "MoonshotAI/kimi-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Starting Point for Next-Gen Agents"
+  },
+  {
+    "repo": "Multichain-Bot-Lab/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot"
+  },
+  {
+    "repo": "simplifaisoul/osiris",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative"
+  },
+  {
+    "repo": "bonny1220/solana-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
+  },
+  {
+    "repo": "agentic-in/elephant-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Personal-Model First Self Evolving AI Agent 🐘"
+  },
+  {
+    "repo": "QuantML-Research/wq-alpha-research",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Our Free Solana Sniper for Pumpfun with multiple strategies"
+  },
+  {
+    "repo": "ip-arch/NESLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "Educational materials for Embedded systems with NES"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "binwu1/drama-series-agent",
+  "repo": "mrzh7/scam-with-your-friends-web",
   "branch": "main",
-  "language": "Python",
-  "description": "一句话出片的短剧系列 Agent（A short drama series Agent that produces a film in one sentence）",
-  "stars": 160,
-  "forks": 5
+  "language": "TypeScript",
+  "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+  "stars": 229,
+  "forks": 19
 }
