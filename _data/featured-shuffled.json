@@ -1,146 +1,146 @@
 [
   {
-    "repo": "itcaat/mtproto-installer",
+    "repo": "kvuong2711/fix-anything",
     "branch": "main",
-    "language": "Shell",
-    "description": "Ускоритель телеграм =)"
+    "language": "Python",
+    "description": "[ECCV 2026] FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors"
   },
   {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
+    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
+    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
   },
   {
-    "repo": "openai/glide-text2im",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
-  },
-  {
-    "repo": "MichaelCade/90DaysOfDevOps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
-  },
-  {
-    "repo": "littlelelephant/literature-review-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "A LangGraph-powered agent for literature search, evidence screening, outline generation, and evidence-grounded review writing."
-  },
-  {
-    "repo": "minix3/minix",
-    "branch": "master",
-    "language": "Other",
-    "description": "Redirection to the real github page only."
-  },
-  {
-    "repo": "vakovalskii/codedash",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
-  },
-  {
-    "repo": "nomic-ai/gpt4all",
+    "repo": "pvpoxx/PrismLauncherCrackedEly",
     "branch": "main",
     "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
   },
   {
-    "repo": "ForecastForge/binance-trading-bot",
+    "repo": "skottrun/extrateto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
   },
   {
-    "repo": "agarrharr/awesome-cli-apps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
-  },
-  {
-    "repo": "OpenMOSS/MOSS-TTS-Nano",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration."
-  },
-  {
-    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
-  },
-  {
-    "repo": "AIScientists-Dev/WorldSeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
-  },
-  {
-    "repo": "suborbital/sat",
-    "branch": "main",
-    "language": "Go",
-    "description": "Tiny & fast WebAssembly edge compute server"
-  },
-  {
-    "repo": "Morgensonne/EditDeck",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lukiIabs/trading-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS"
-  },
-  {
-    "repo": "chroma-core/chroma",
+    "repo": "Xuanwo/xurl",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source search and retrieval database for AI applications."
+    "description": "xURL: Client for AI Agents URLs"
   },
   {
-    "repo": "pacifio/cersei",
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "branch": "main",
-    "language": "Rust",
-    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+    "language": "TeX",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
   },
   {
-    "repo": "endevco/aube",
+    "repo": "Jiangzy520/DreamleStockRadar",
     "branch": "main",
-    "language": "Rust",
-    "description": "A fast Node.js package manager"
+    "language": "Python",
+    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
   },
   {
-    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
+    "repo": "hangsman/claude-code-source",
     "branch": "main",
     "language": "TypeScript",
-    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
+    "description": "claude code source map v2.1.88"
   },
   {
-    "repo": "brendanhogan/loophole",
+    "repo": "ghboke/claude-code-reverse",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "claude code源码分析报告"
   },
   {
-    "repo": "nuxt/ui",
-    "branch": "dev",
-    "language": "Vue",
-    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
+    "repo": "maria-rcks/miri",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Niri-ish, keyboard-first window manager for macOS."
   },
   {
-    "repo": "dotcl/dotcl",
-    "branch": "master",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "ramda/ramda",
+    "repo": "validatorjs/validator.js",
     "branch": "master",
     "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
+    "description": "String validation"
+  },
+  {
+    "repo": "honojs/hono",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web framework built on Web Standards"
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+  },
+  {
+    "repo": "tgies/copy-fail-c",
+    "branch": "main",
+    "language": "C",
+    "description": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
+  },
+  {
+    "repo": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
+    "branch": "work",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket copytradingbot polymarket copytrading bot"
+  },
+  {
+    "repo": "alexandercodes4/AirTrain",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed ML training across Apple Silicon Macs"
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  },
+  {
+    "repo": "karatelabs/karate",
+    "branch": "master",
+    "language": "Java",
+    "description": "Test Automation Made Simple"
+  },
+  {
+    "repo": "val1813/kwcode",
+    "branch": "master",
+    "language": "Python",
+    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+  },
+  {
+    "repo": "MME-Benchmarks/Video-MME-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+  },
+  {
+    "repo": "rest-assured/rest-assured",
+    "branch": "master",
+    "language": "Java",
+    "description": "Java DSL for easy testing of REST services"
+  },
+  {
+    "repo": "privacyguides/privacyguides.org",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Protect your data against global mass surveillance programs."
+  },
+  {
+    "repo": "creationix/rx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "RX encoder, decoder, and CLI data tool"
+  },
+  {
+    "repo": "anvie/evonic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Agentic AI Platform - The home your agents deserve"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "ARahim3/DigUp",
+  "repo": "binwu1/drama-series-agent",
   "branch": "main",
-  "language": "Swift",
-  "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-  "stars": 222,
-  "forks": 19
+  "language": "Python",
+  "description": "一句话出片的短剧系列 Agent（A short drama series Agent that produces a film in one sentence）",
+  "stars": 179,
+  "forks": 5
 }
