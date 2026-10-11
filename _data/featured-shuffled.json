@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bjarneo/kli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit."
-  },
-  {
-    "repo": "gemini-cli-extensions/ralph",
+    "repo": "itcaat/mtproto-installer",
     "branch": "main",
     "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
+    "description": "Ускоритель телеграм =)"
   },
   {
-    "repo": "pypa/pip",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "openai/glide-text2im",
     "branch": "main",
     "language": "Python",
-    "description": "The Python package installer"
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
   },
   {
-    "repo": "JakeWharton/butterknife",
+    "repo": "MichaelCade/90DaysOfDevOps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+  },
+  {
+    "repo": "littlelelephant/literature-review-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "A LangGraph-powered agent for literature search, evidence screening, outline generation, and evidence-grounded review writing."
+  },
+  {
+    "repo": "minix3/minix",
     "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
+    "language": "Other",
+    "description": "Redirection to the real github page only."
   },
   {
-    "repo": "amirmushichge/tribeV2_ViralAnalyser",
+    "repo": "vakovalskii/codedash",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "branch": "main",
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+  },
+  {
+    "repo": "ForecastForge/binance-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+  },
+  {
+    "repo": "agarrharr/awesome-cli-apps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+  },
+  {
+    "repo": "OpenMOSS/MOSS-TTS-Nano",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration."
+  },
+  {
+    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
+  },
+  {
+    "repo": "AIScientists-Dev/WorldSeed",
+    "branch": "main",
+    "language": "Python",
+    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
+  },
+  {
+    "repo": "suborbital/sat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Tiny & fast WebAssembly edge compute server"
+  },
+  {
+    "repo": "Morgensonne/EditDeck",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "material-components/material-components-web",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
-  },
-  {
-    "repo": "scosman/cursed_browser",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page."
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
+    "repo": "lukiIabs/trading-agents",
     "branch": "main",
     "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+    "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS"
   },
   {
-    "repo": "earendil-works/pi-review",
+    "repo": "chroma-core/chroma",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source search and retrieval database for AI applications."
+  },
+  {
+    "repo": "pacifio/cersei",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+  },
+  {
+    "repo": "endevco/aube",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A fast Node.js package manager"
+  },
+  {
+    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A review extension for Pi"
+    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
   },
   {
-    "repo": "lodash/lodash",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
-  },
-  {
-    "repo": "diesel-rs/diesel",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
-  },
-  {
-    "repo": "dnakov/litter",
+    "repo": "brendanhogan/loophole",
     "branch": "main",
-    "language": "Swift",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "hiteshchoudhary/gitbackup",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
+    "repo": "nuxt/ui",
+    "branch": "dev",
+    "language": "Vue",
+    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
   },
   {
-    "repo": "bcurts/agentchattr",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
-  },
-  {
-    "repo": "Udacity-ai/pumpfun-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading"
-  },
-  {
-    "repo": "infinition/waveshare-watch-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
-  },
-  {
-    "repo": "romus204/tree-sitter-manager.nvim",
-    "branch": "main",
-    "language": "Tree-sitter Query",
-    "description": "A lightweight Tree-sitter parser manager for Neovim."
-  },
-  {
-    "repo": "Supervisor/supervisor",
+    "repo": "dotcl/dotcl",
     "branch": "master",
-    "language": "Python",
-    "description": "Supervisor process control system for Unix (supervisord)"
+    "language": "C#",
+    "description": ""
   },
   {
-    "repo": "pmndrs/jotai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "👻 Primitive and flexible state management for React"
-  },
-  {
-    "repo": "boto/boto",
-    "branch": "develop",
-    "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
-  },
-  {
-    "repo": "sndrec/WebMonkeyBall",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
+    "repo": "ramda/ramda",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+    "description": ":ram: Practical functional Javascript"
   }
 ]
