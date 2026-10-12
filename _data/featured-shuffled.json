@@ -1,146 +1,146 @@
 [
   {
-    "repo": "remorses/usecomputer",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
-  },
-  {
-    "repo": "HAMMADZAFAR3636/CineBlog-Template-Vault",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Premium Movie Blogger Template 2026 for SEO & Fast Performance"
-  },
-  {
-    "repo": "QihanZhao/cc-prune",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "erdwin90/crypto-bar-mac",
-    "branch": "main",
-    "language": "Objective-C++",
-    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
-  },
-  {
-    "repo": "dama-cyber/Casting-Workflow",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "thinkpixelIab/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto"
-  },
-  {
-    "repo": "agent-quality-controls/slopless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown"
-  },
-  {
-    "repo": "aayan555/DS4Windows",
-    "branch": "main",
-    "language": "C#",
-    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
-  },
-  {
-    "repo": "umacloud/umadev",
-    "branch": "main",
-    "language": "Rust",
-    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline."
-  },
-  {
-    "repo": "dikurdikur/palmier-pro-windows",
-    "branch": "main",
-    "language": "C#",
-    "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx"
-  },
-  {
-    "repo": "LUPUL64348/NTE-cheat",
-    "branch": "main",
-    "language": "C#",
-    "description": "nte Neverness To Everness cheat download pc auto fish ray tracing bot teleport esp speedhack  macro script unlocker config windows 11"
-  },
-  {
-    "repo": "amplifthq/opentag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
-  },
-  {
-    "repo": "samuto69/claude-ai-desktop-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant"
-  },
-  {
-    "repo": "Ymsniper/KTO",
-    "branch": "main",
-    "language": "Python",
-    "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect."
-  },
-  {
-    "repo": "manojd23625/Steam-Tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "steamtools steam download manifest steamtools manifest steamdb steamtools lua steamtools games steam download manifest steam steam manifest client tool utility script file manager app library pc game"
-  },
-  {
-    "repo": "Tong89/smartNode",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "MoonshotAI/kimi-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Starting Point for Next-Gen Agents"
-  },
-  {
-    "repo": "Multichain-Bot-Lab/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot"
-  },
-  {
-    "repo": "simplifaisoul/osiris",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative"
-  },
-  {
-    "repo": "bonny1220/solana-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
-  },
-  {
-    "repo": "agentic-in/elephant-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Personal-Model First Self Evolving AI Agent 🐘"
-  },
-  {
-    "repo": "QuantML-Research/wq-alpha-research",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
+    "repo": "zhouyoukang1234-spec/windsurf-assistant",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Our Free Solana Sniper for Pumpfun with multiple strategies"
+    "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损."
   },
   {
-    "repo": "ip-arch/NESLab",
+    "repo": "arduino/Arduino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
+  },
+  {
+    "repo": "AndrewVos/endless-toil",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hear your agent suffer through your code"
+  },
+  {
+    "repo": "Aircoookie/WLED",
     "branch": "main",
     "language": "C++",
-    "description": "Educational materials for Embedded systems with NES"
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+  },
+  {
+    "repo": "hammerjs/hammer.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
+  },
+  {
+    "repo": "Supervisor/supervisor",
+    "branch": "master",
+    "language": "Python",
+    "description": "Supervisor process control system for Unix (supervisord)"
+  },
+  {
+    "repo": "SortableJS/Sortable",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+  },
+  {
+    "repo": "missing-semester/missing-semester",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Missing Semester of Your CS Education 📚"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Source Continuous File Synchronization"
+  },
+  {
+    "repo": "libp2p/go-libp2p",
+    "branch": "master",
+    "language": "Go",
+    "description": "libp2p implementation in Go"
+  },
+  {
+    "repo": "starkware-libs/cairo",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+  },
+  {
+    "repo": "cursor/agent-trace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A standard format for tracing AI-generated code."
+  },
+  {
+    "repo": "chalk/chalk",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🖍 Terminal string styling done right"
+  },
+  {
+    "repo": "ramitsurana/awesome-kubernetes",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A curated list for awesome kubernetes sources :ship::tada:"
+  },
+  {
+    "repo": "python-poetry/poetry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Python packaging and dependency management made easy"
+  },
+  {
+    "repo": "sb-ocr/cmdeck",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "actions/checkout",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Action for checking out a repo"
+  },
+  {
+    "repo": "ula7i921011/React2Shell-Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "React2Shell Scanner"
+  },
+  {
+    "repo": "labstack/echo",
+    "branch": "master",
+    "language": "Go",
+    "description": "High performance, minimalist Go web framework"
+  },
+  {
+    "repo": "jmuncor/sherlock",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "encode/uvicorn",
+    "branch": "master",
+    "language": "Python",
+    "description": "An ASGI web server, for Python. 🦄"
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+  },
+  {
+    "repo": "NVIDIA/cudnn-frontend",
+    "branch": "main",
+    "language": "C++",
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
   }
 ]

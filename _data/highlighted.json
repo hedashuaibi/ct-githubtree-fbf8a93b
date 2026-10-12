@@ -1,8 +1,8 @@
 {
-  "repo": "mrzh7/scam-with-your-friends-web",
+  "repo": "nikgrbn/finder-menu",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
-  "stars": 229,
-  "forks": 19
+  "language": "Swift",
+  "description": "Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder",
+  "stars": 233,
+  "forks": 14
 }
