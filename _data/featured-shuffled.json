@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zhouyoukang1234-spec/windsurf-assistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损."
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
   },
   {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "AndrewVos/endless-toil",
+    "repo": "sqlfluff/sqlfluff",
     "branch": "main",
     "language": "Python",
-    "description": "Hear your agent suffer through your code"
+    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
   },
   {
-    "repo": "Aircoookie/WLED",
+    "repo": "google/googletest",
     "branch": "main",
     "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+    "description": "GoogleTest - Google Testing and Mocking Framework"
   },
   {
-    "repo": "hammerjs/hammer.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
+    "repo": "sohu-mptc/FlashRec",
+    "branch": "main",
+    "language": "Python",
+    "description": "FlashRec is a CUDA-graph engine for generative recommendation: wide beam search (3–5 SID steps, n=50–512+) over a trie-constrained catalog, in-process FP8 serving, and ranked beams on /v1/chat/completions."
   },
   {
-    "repo": "Supervisor/supervisor",
+    "repo": "celery/celery",
     "branch": "master",
     "language": "Python",
-    "description": "Supervisor process control system for Unix (supervisord)"
+    "description": "Distributed Task Queue (development branch)"
   },
   {
-    "repo": "SortableJS/Sortable",
+    "repo": "udacity/deep-learning",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+    "language": "Jupyter Notebook",
+    "description": "Repo for the Deep Learning Nanodegree Foundations program."
   },
   {
-    "repo": "missing-semester/missing-semester",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Missing Semester of Your CS Education 📚"
-  },
-  {
-    "repo": "syncthing/syncthing",
+    "repo": "Lissy93/awesome-privacy",
     "branch": "main",
-    "language": "Go",
-    "description": "Open Source Continuous File Synchronization"
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
   },
   {
-    "repo": "libp2p/go-libp2p",
-    "branch": "master",
-    "language": "Go",
-    "description": "libp2p implementation in Go"
-  },
-  {
-    "repo": "starkware-libs/cairo",
+    "repo": "Shopify/javy",
     "branch": "main",
     "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+    "description": "JS to WebAssembly toolchain"
   },
   {
-    "repo": "cursor/agent-trace",
+    "repo": "formik/formik",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A standard format for tracing AI-generated code."
+    "description": "Build forms in React, without the tears 😭"
   },
   {
-    "repo": "chalk/chalk",
+    "repo": "beeware/toga",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🖍 Terminal string styling done right"
-  },
-  {
-    "repo": "ramitsurana/awesome-kubernetes",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A curated list for awesome kubernetes sources :ship::tada:"
-  },
-  {
-    "repo": "python-poetry/poetry",
-    "branch": "master",
     "language": "Python",
-    "description": "Python packaging and dependency management made easy"
+    "description": "A Python native, OS native GUI toolkit."
   },
   {
-    "repo": "sb-ocr/cmdeck",
+    "repo": "godotengine/godot-docs",
+    "branch": "master",
+    "language": "reStructuredText",
+    "description": "Godot Engine official documentation"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
+    "language": "Go",
+    "description": "Lightweight Kubernetes"
+  },
+  {
+    "repo": "logseq/logseq",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
+  },
+  {
+    "repo": "AssemblyScript/assemblyscript",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "A TypeScript-like language for WebAssembly."
+  },
+  {
+    "repo": "confluentinc/kafka-rest",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent REST Proxy for Kafka"
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "jazzband/django-debug-toolbar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A configurable set of panels that display various debug information about the current request/response."
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+  },
+  {
+    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+    "branch": "main",
+    "language": "Shell",
+    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
+  },
+  {
+    "repo": "listyantidewi1/your-everyday-tools",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "actions/checkout",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
-  },
-  {
-    "repo": "ula7i921011/React2Shell-Scanner",
+    "repo": "xiaotianfotos/skills",
     "branch": "main",
     "language": "Python",
-    "description": "React2Shell Scanner"
+    "description": "视频中分享的方法论代码参考"
   },
   {
-    "repo": "labstack/echo",
+    "repo": "Morgensonne/EditDeck",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
     "branch": "master",
     "language": "Go",
-    "description": "High performance, minimalist Go web framework"
-  },
-  {
-    "repo": "jmuncor/sherlock",
-    "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "encode/uvicorn",
-    "branch": "master",
-    "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
-  },
-  {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "openobserve/openobserve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
-  },
-  {
-    "repo": "NVIDIA/cudnn-frontend",
-    "branch": "main",
-    "language": "C++",
-    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
   }
 ]

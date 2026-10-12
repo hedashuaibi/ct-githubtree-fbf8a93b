@@ -1,8 +1,8 @@
 {
-  "repo": "nikgrbn/finder-menu",
+  "repo": "fayazara/robot-heads",
   "branch": "main",
-  "language": "Swift",
-  "description": "Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder",
-  "stars": 233,
-  "forks": 14
+  "language": "TypeScript",
+  "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+  "stars": 264,
+  "forks": 45
 }
