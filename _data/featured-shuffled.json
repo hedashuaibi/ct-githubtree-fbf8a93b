@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Lyy-iiis/pMF",
+    "repo": "QW-AI-Code/Aether",
     "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "missuo/kumone",
-    "branch": "main",
-    "language": "Swift",
-    "description": "雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI"
-  },
-  {
-    "repo": "SharifiZarchi/janfadaa",
-    "branch": "main",
-    "language": "HTML",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "vmware-tanzu/velero",
-    "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
-  },
-  {
-    "repo": "date-fns/date-fns",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⏳ Modern JavaScript date utility library ⌛️"
-  },
-  {
-    "repo": "cloudwego/kitex",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
-  },
-  {
-    "repo": "operator-framework/operator-sdk",
-    "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-  },
-  {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
-  },
-  {
-    "repo": "deepseek-ai/deepseek-coder",
+    "repo": "FlagOpen/InsertAny3D",
     "branch": "main",
     "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
+    "description": ""
   },
   {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "go-delve/delve",
-    "branch": "master",
-    "language": "Go",
-    "description": "Delve is a debugger for the Go programming language."
-  },
-  {
-    "repo": "spring-guides/gs-spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
-  },
-  {
-    "repo": "actions/upload-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "laravel/laravel",
-    "branch": "11.x",
-    "language": "Blade",
-    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "Fishaudio/Fish-Speech",
-    "branch": "main",
-    "language": "Python",
-    "description": "SOTA Open Source TTS"
-  },
-  {
-    "repo": "tensorflow/tensorboard",
+    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
     "branch": "master",
     "language": "TypeScript",
-    "description": "TensorFlow's Visualization Toolkit"
+    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
   },
   {
-    "repo": "zed-industries/zed",
+    "repo": "iampedii/WhiteDNS-Wizard",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows."
+  },
+  {
+    "repo": "tonbistudio/hermes-multi-agent-workflow",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Nightmare-Eclipse/MiniPlasma",
+    "branch": "main",
+    "language": "C#",
+    "description": "CVE-2020-17103 supposedly still works"
+  },
+  {
+    "repo": "Ademking/SkillPrompts",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions."
+  },
+  {
+    "repo": "actuallyaridan/linux-devmgmt",
+    "branch": "main",
+    "language": "C++",
+    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
+  },
+  {
+    "repo": "mikubaka88/CCFA-Skills",
+    "branch": "main",
+    "language": "TeX",
+    "description": ""
+  },
+  {
+    "repo": "kouhxp/yapsnap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
+  },
+  {
+    "repo": "thepartly/gatehouse",
     "branch": "main",
     "language": "Rust",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
   },
   {
-    "repo": "actions/download-artifact",
+    "repo": "JimLiu/baoyu-design",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+  },
+  {
+    "repo": "ATOM00blue/machine-learning-library",
+    "branch": "main",
+    "language": "Python",
+    "description": "A hand-curated, topic-organized library of the best ML education — 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning."
+  },
+  {
+    "repo": "Evokoa/pgGraph",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source graph database superpowers for your existing Postgres data."
+  },
+  {
+    "repo": "ryan26craf/Hbar-Wallet-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "A secure, open-source desktop wallet for Hedera HBAR cryptocurrency built with C++ and Qt6."
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "remix-run/remix",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Download artifacts from your build"
+    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals."
   },
   {
-    "repo": "micronaut-projects/micronaut-core",
-    "branch": "4.3.x",
-    "language": "Java",
-    "description": "Micronaut Application Framework"
+    "repo": "yeuxuan/openclaw-docs",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "openclaw 剖析、拆解、教程在线文档"
   },
   {
-    "repo": "openobserve/openobserve",
+    "repo": "kernullist/PseudoForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "robinebers/openusage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
   },
   {
-    "repo": "minio/minio",
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "traefik/traefik",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Application Proxy"
+    "repo": "cellebrite-labs/ghidra-rpc",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Ghidra agentic reverse engineering skill."
   }
 ]

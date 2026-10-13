@@ -1,8 +1,8 @@
 {
-  "repo": "AIPMAndy/how-to-survive-unemployment",
+  "repo": "LingCore/WinShun",
   "branch": "main",
-  "language": "HTML",
-  "description": "失业自救开源手册：N/N+1/2N、失业金、医保、社保、公积金、求职与现金流。50项行动任务、6份实操SOP，附北京上海政策原文。",
-  "stars": 285,
-  "forks": 21
+  "language": "C++",
+  "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
+  "stars": 273,
+  "forks": 22
 }
