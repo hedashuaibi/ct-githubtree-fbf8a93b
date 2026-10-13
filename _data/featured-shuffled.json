@@ -1,146 +1,146 @@
 [
   {
-    "repo": "QW-AI-Code/Aether",
+    "repo": "gsd-build/gsd-2",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "FlagOpen/InsertAny3D",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
   },
   {
-    "repo": "iampedii/WhiteDNS-Wizard",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows."
-  },
-  {
-    "repo": "tonbistudio/hermes-multi-agent-workflow",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Nightmare-Eclipse/MiniPlasma",
+    "repo": "uktrash/LSFG-Desktop",
     "branch": "main",
     "language": "C#",
-    "description": "CVE-2020-17103 supposedly still works"
+    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
   },
   {
-    "repo": "Ademking/SkillPrompts",
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
+    "language": "Rust",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+  },
+  {
+    "repo": "payloadcms/payload",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions."
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
   },
   {
-    "repo": "actuallyaridan/linux-devmgmt",
+    "repo": "facebook/docusaurus",
     "branch": "main",
-    "language": "C++",
-    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
   },
   {
-    "repo": "mikubaka88/CCFA-Skills",
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "deepset-ai/haystack",
     "branch": "main",
-    "language": "TeX",
+    "language": "MDX",
+    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+  },
+  {
+    "repo": "RasaHQ/rasa",
+    "branch": "main",
+    "language": "Python",
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+  },
+  {
+    "repo": "deepinfra/deepinfra",
+    "branch": "main",
+    "language": "Other",
+    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "eze-is/web-access",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治"
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "branch": "master",
+    "language": "Python",
+    "description": "Graph Neural Network Library for PyTorch"
+  },
+  {
+    "repo": "TheGreatGildo/nerv-ui",
+    "branch": "main",
+    "language": "HTML",
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
+  },
+  {
+    "repo": "Automattic/mongoose",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MongoDB object modeling designed to work in an asynchronous environment."
+  },
+  {
+    "repo": "509992828/grok-register",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "kouhxp/yapsnap",
-    "branch": "main",
-    "language": "Python",
-    "description": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
-  },
-  {
-    "repo": "thepartly/gatehouse",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
-  },
-  {
-    "repo": "JimLiu/baoyu-design",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
-  },
-  {
-    "repo": "ATOM00blue/machine-learning-library",
-    "branch": "main",
-    "language": "Python",
-    "description": "A hand-curated, topic-organized library of the best ML education — 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning."
-  },
-  {
-    "repo": "Evokoa/pgGraph",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source graph database superpowers for your existing Postgres data."
-  },
-  {
-    "repo": "ryan26craf/Hbar-Wallet-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "A secure, open-source desktop wallet for Hedera HBAR cryptocurrency built with C++ and Qt6."
-  },
-  {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
-  },
-  {
-    "repo": "boto/boto3",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
-  },
-  {
-    "repo": "remix-run/remix",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals."
-  },
-  {
-    "repo": "yeuxuan/openclaw-docs",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "openclaw 剖析、拆解、教程在线文档"
-  },
-  {
-    "repo": "kernullist/PseudoForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
-  },
-  {
-    "repo": "Koenkk/zigbee2mqtt",
+    "repo": "yarnpkg/berry",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+    "description": "📦🐈 Active development trunk for Yarn ⚒"
   },
   {
-    "repo": "robinebers/openusage",
+    "repo": "snoglobe/helios",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
+    "description": ""
   },
   {
-    "repo": "getify/You-Dont-Know-JS",
+    "repo": "go-pg/pg",
     "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "language": "Go",
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
   },
   {
-    "repo": "cellebrite-labs/ghidra-rpc",
+    "repo": "hashicorp/consul",
     "branch": "main",
-    "language": "Python",
-    "description": "A Ghidra agentic reverse engineering skill."
+    "language": "Go",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+  },
+  {
+    "repo": "nclamvn/Viet-ERP",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "VietERP Platform — Open-source ERP for Vietnamese enterprises"
+  },
+  {
+    "repo": "stevibe/ToolCall-15",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Kuberwastaken/claurst",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
   }
 ]
