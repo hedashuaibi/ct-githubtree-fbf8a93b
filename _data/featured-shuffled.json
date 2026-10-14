@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lvy010/AI-wiki",
+    "repo": "udayanwalvekar/clearshot",
     "branch": "main",
-    "language": "Rust",
-    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
+    "language": "Shell",
+    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
   },
   {
-    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
+    "repo": "AuvroIslam/Nongor",
     "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
+    "language": "Kotlin",
+    "description": "Offline crisis companion for Bangladesh floods. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid and emergency translation for six languages Google Translate doesn't carry — no internet, no server, no account. Gemma 4 runs on the handset."
   },
   {
-    "repo": "jasonkneen/openclicky",
+    "repo": "maybe-finance/maybe",
     "branch": "main",
-    "language": "Swift",
-    "description": "openclicky -- the open source version of clicky"
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
   },
   {
-    "repo": "fastai/course-v3",
+    "repo": "thedaviddias/Front-End-Checklist",
+    "branch": "master",
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "repo": "Rivflyyy/HappyTorch",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+  },
+  {
+    "repo": "helm/helm-www",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The Helm website for docs, blog and project info."
+  },
+  {
+    "repo": "fastai/fastbook",
     "branch": "master",
     "language": "Jupyter Notebook",
-    "description": "The 3rd edition of course.fast.ai"
+    "description": "The fastai book, published as Jupyter Notebooks"
   },
   {
-    "repo": "russellromney/honker",
-    "branch": "main",
-    "language": "Python",
-    "description": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler"
-  },
-  {
-    "repo": "Junyi42/LoGeR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
-  },
-  {
-    "repo": "mkdocs/mkdocs",
+    "repo": "bazelbuild/bazel",
     "branch": "master",
-    "language": "Python",
-    "description": "Project documentation with Markdown."
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
   },
   {
-    "repo": "adanto/EtwTiViewer",
+    "repo": "OffchainLabs/arbitrum",
+    "branch": "master",
+    "language": "Other",
+    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
+  },
+  {
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "repo": "mnemox-ai/idea-reality-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+  },
+  {
+    "repo": "animate-css/animate.css",
+    "branch": "main",
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+  },
+  {
+    "repo": "altair-viz/altair",
+    "branch": "main",
+    "language": "Python",
+    "description": "Declarative visualization library for Python"
+  },
+  {
+    "repo": "saltpi/Aria.X",
     "branch": "main",
     "language": "C++",
-    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
+    "description": "AriaX: The Ultimate Download Manager for Apple Users"
   },
   {
-    "repo": "sqlalchemy/alembic",
+    "repo": "bcefghj/ai-agent-interview-guide",
     "branch": "main",
     "language": "Python",
-    "description": "A database migrations tool for SQLAlchemy."
+    "description": "AI Agent 面试全攻略：从零到Offer，包含200+面试题、企业级项目(Python/Java/Go)、简历模板、STAR面试稿、哆啦A梦漫画图解"
   },
   {
-    "repo": "codeany-ai/codeany",
+    "repo": "OpenCV/opencv_contrib",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Repository for OpenCV's extra modules"
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+  },
+  {
+    "repo": "adysec/CForum",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
+  },
+  {
+    "repo": "containerd/containerd",
     "branch": "main",
     "language": "Go",
-    "description": "Open-source AI-powered terminal agent. Built in Go."
+    "description": "An open and reliable container runtime"
   },
   {
-    "repo": "diandianti/clawInstaller",
-    "branch": "main",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "crafter-station/petdex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Public gallery of animated Codex pets"
-  },
-  {
-    "repo": "encode/uvicorn",
+    "repo": "microsoft/winget-cli",
     "branch": "master",
-    "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
+    "language": "C++",
+    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
   },
   {
-    "repo": "xiaohuailabs/xiaohu-video-translate",
+    "repo": "ByteDance/monolith",
     "branch": "main",
     "language": "Python",
-    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
+    "description": "A Lightweight Recommendation System"
   },
   {
-    "repo": "triggerdotdev/trigger.dev",
+    "repo": "lzhgus/Capso",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+    "language": "Swift",
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
   },
   {
-    "repo": "HarimxChoi/google-surf-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "✨Anti-Bot Search MCP: No API Key✨"
-  },
-  {
-    "repo": "Einsia/OpenChronicle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Ian-Kiprotich/Code_Formatter___Beautifier",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automatically format and beautify code in various languages: Python, JavaScript, HTML, CSS, JSON, and more. Supports configurable indentation, spacing, and line wrapping."
-  },
-  {
-    "repo": "anadim/AdderBoard",
-    "branch": "main",
-    "language": "Python",
-    "description": "Smallest transformer that can add two 10-digit numbers"
-  },
-  {
-    "repo": "haywhy1759/Stardew_Valley_Automation_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-water, auto-harvest, fish bot, and infinite energy for Stardew. Water crops, harvest, catch fish, and never run out of energy. Perfect for farming and fishing."
-  },
-  {
-    "repo": "rociiu/talorys",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry."
-  },
-  {
-    "repo": "raspberrypi/documentation",
+    "repo": "redis/hiredis",
     "branch": "master",
-    "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
   },
   {
-    "repo": "lxh77721/k12-reg",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "多线程全自动注册free 强上K12空间 gmail版"
-  },
-  {
-    "repo": "juliye2025/evil-read-arxiv",
+    "repo": "TeleHuman/humanoid_skateboarding",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code+Obsidian，邪修读论文就是快"
+    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
   }
 ]
