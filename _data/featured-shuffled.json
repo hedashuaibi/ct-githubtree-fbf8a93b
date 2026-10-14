@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cinderline/northcinder",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
-  },
-  {
-    "repo": "chef/chef",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
-  },
-  {
-    "repo": "laravel/laravel",
-    "branch": "11.x",
-    "language": "Blade",
-    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
-  },
-  {
-    "repo": "apollographql/apollo-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
-  },
-  {
-    "repo": "facebookresearch/segment-anything",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
-  },
-  {
-    "repo": "liu-ziting/ThinkFlowAI",
-    "branch": "main",
-    "language": "Vue",
-    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
-  },
-  {
-    "repo": "susanudgzf/Aave-Claw",
+    "repo": "lvy010/AI-wiki",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
   },
   {
-    "repo": "denuitt1/mhr-cfw",
+    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "C++",
+    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
   },
   {
-    "repo": "huggingface/datasets",
+    "repo": "jasonkneen/openclicky",
     "branch": "main",
-    "language": "Python",
-    "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
+    "language": "Swift",
+    "description": "openclicky -- the open source version of clicky"
   },
   {
-    "repo": "CodeSeven/toastr",
+    "repo": "fastai/course-v3",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple javascript toast notifications"
-  },
-  {
-    "repo": "jasonkneen/tiny-world-builder",
-    "branch": "main",
-    "language": "HTML",
-    "description": "tiny-world-builder"
-  },
-  {
-    "repo": "jenkinsci/jenkins",
-    "branch": "master",
-    "language": "Java",
-    "description": "Jenkins automation server"
-  },
-  {
-    "repo": "karpathy/nanoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
-  },
-  {
-    "repo": "orchetron/storm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
-  },
-  {
-    "repo": "amircloner/g2ray",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
-  },
-  {
-    "repo": "openlibrecommunity/olcrtc",
-    "branch": "master",
-    "language": "Python",
-    "description": "olc - using side channels to access web outside the whitelist"
-  },
-  {
-    "repo": "argoproj/argo-rollouts",
-    "branch": "master",
-    "language": "Go",
-    "description": "Progressive Delivery for Kubernetes"
-  },
-  {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
-  },
-  {
-    "repo": "bryllim/workout-guide",
-    "branch": "main",
-    "language": "Astro",
-    "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim"
-  },
-  {
-    "repo": "lukeed/comptime",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
-  },
-  {
-    "repo": "sachaa/openbrowserclaw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
-  },
-  {
-    "repo": "openai/CLIP",
-    "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
+    "description": "The 3rd edition of course.fast.ai"
   },
   {
-    "repo": "buaacyw/code-world-model",
+    "repo": "russellromney/honker",
     "branch": "main",
     "language": "Python",
-    "description": "Code World Model  Official Repo"
+    "description": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler"
+  },
+  {
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "repo": "mkdocs/mkdocs",
+    "branch": "master",
+    "language": "Python",
+    "description": "Project documentation with Markdown."
+  },
+  {
+    "repo": "adanto/EtwTiViewer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
+  },
+  {
+    "repo": "sqlalchemy/alembic",
+    "branch": "main",
+    "language": "Python",
+    "description": "A database migrations tool for SQLAlchemy."
+  },
+  {
+    "repo": "codeany-ai/codeany",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open-source AI-powered terminal agent. Built in Go."
+  },
+  {
+    "repo": "diandianti/clawInstaller",
+    "branch": "main",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "crafter-station/petdex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Public gallery of animated Codex pets"
+  },
+  {
+    "repo": "encode/uvicorn",
+    "branch": "master",
+    "language": "Python",
+    "description": "An ASGI web server, for Python. 🦄"
+  },
+  {
+    "repo": "xiaohuailabs/xiaohu-video-translate",
+    "branch": "main",
+    "language": "Python",
+    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "HarimxChoi/google-surf-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "✨Anti-Bot Search MCP: No API Key✨"
+  },
+  {
+    "repo": "Einsia/OpenChronicle",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Ian-Kiprotich/Code_Formatter___Beautifier",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automatically format and beautify code in various languages: Python, JavaScript, HTML, CSS, JSON, and more. Supports configurable indentation, spacing, and line wrapping."
+  },
+  {
+    "repo": "anadim/AdderBoard",
+    "branch": "main",
+    "language": "Python",
+    "description": "Smallest transformer that can add two 10-digit numbers"
+  },
+  {
+    "repo": "haywhy1759/Stardew_Valley_Automation_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-water, auto-harvest, fish bot, and infinite energy for Stardew. Water crops, harvest, catch fish, and never run out of energy. Perfect for farming and fishing."
+  },
+  {
+    "repo": "rociiu/talorys",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry."
+  },
+  {
+    "repo": "raspberrypi/documentation",
+    "branch": "master",
+    "language": "Python",
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
+  },
+  {
+    "repo": "lxh77721/k12-reg",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "多线程全自动注册free 强上K12空间 gmail版"
+  },
+  {
+    "repo": "juliye2025/evil-read-arxiv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code+Obsidian，邪修读论文就是快"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "swiftvm-app/swiftvm",
+  "repo": "leolobato/playden-ps5",
   "branch": "main",
-  "language": "Swift",
-  "description": "Native macOS app for running virtual machines",
-  "stars": 168,
-  "forks": 7
+  "language": "C++",
+  "description": "Play your Steam library's Windows games on a jailbroken PS5.",
+  "stars": 214,
+  "forks": 13
 }
