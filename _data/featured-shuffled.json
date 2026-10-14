@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gsd-build/gsd-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
-  },
-  {
-    "repo": "uktrash/LSFG-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
-  },
-  {
-    "repo": "facebook/react",
+    "repo": "ZeroAd-06/MAACodex",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
+    "description": ""
   },
   {
-    "repo": "tauri-apps/tauri",
-    "branch": "dev",
+    "repo": "opentokenz/mcpx",
+    "branch": "main",
+    "language": "Go",
+    "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。"
+  },
+  {
+    "repo": "pydantic/FastUI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build better UIs faster."
+  },
+  {
+    "repo": "Nightmare-Eclipse/UnDefend",
+    "branch": "main",
+    "language": "C++",
+    "description": "Repository hosting windows defender DOS tool"
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+  },
+  {
+    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "chrisnch/reADHD",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "为 ADHD 人群设计的 Obsidian 视觉强调阅读插件，支持中文智能分词（jieba-wasm）。基于 Boninall 的 Obsidian-Better-Reading-Mode 改进。"
+  },
+  {
+    "repo": "timhartmann7/omnyssh",
+    "branch": "main",
     "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
   },
   {
-    "repo": "payloadcms/payload",
+    "repo": "renatoworks/3dsvg",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
   },
   {
-    "repo": "facebook/docusaurus",
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+  },
+  {
+    "repo": "MrFadiAi/openclaw-manager",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
+    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
   },
   {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "deepset-ai/haystack",
-    "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
-  },
-  {
-    "repo": "RasaHQ/rasa",
-    "branch": "main",
-    "language": "Python",
-    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
-  },
-  {
-    "repo": "deepinfra/deepinfra",
-    "branch": "main",
-    "language": "Other",
-    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
+    "repo": "gin-gonic/gin",
     "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
   },
   {
-    "repo": "eze-is/web-access",
+    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治"
+    "language": "C++",
+    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
   },
   {
-    "repo": "pyg-team/pytorch_geometric",
-    "branch": "master",
-    "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
+    "repo": "mitsuhiko/pi-llamacpp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An experimental pi extension that runs and manages qwen with llama.cpp"
   },
   {
-    "repo": "TheGreatGildo/nerv-ui",
+    "repo": "teorth/optimizationproblems",
     "branch": "main",
     "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+    "description": "A collection of optimization problems in mathematics"
   },
   {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
+    "repo": "sean-brydon/devl.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "Automattic/mongoose",
+    "repo": "ant-design/ant-design",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
+  },
+  {
+    "repo": "serverless/serverless",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
+    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
   },
   {
-    "repo": "509992828/grok-register",
+    "repo": "cH1LLa/Photoshop-v27.6",
+    "branch": "main",
+    "language": "C++",
+    "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build"
+  },
+  {
+    "repo": "ZJU-REAL/SkillZero",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Official code for SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"
   },
   {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
-  },
-  {
-    "repo": "snoglobe/helios",
+    "repo": "homer66/Windows-Xbox-Mode",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "C++",
+    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
   },
   {
-    "repo": "go-pg/pg",
-    "branch": "master",
-    "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
-  },
-  {
-    "repo": "hashicorp/consul",
+    "repo": "LilanOvO/Auto-Resubmit",
     "branch": "main",
-    "language": "Go",
-    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+    "language": "Python",
+    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
   },
   {
-    "repo": "nclamvn/Viet-ERP",
+    "repo": "incursi0n/GodPotatoBOF",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "VietERP Platform — Open-source ERP for Vietnamese enterprises"
-  },
-  {
-    "repo": "stevibe/ToolCall-15",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Kuberwastaken/claurst",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+    "language": "C",
+    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
   }
 ]
