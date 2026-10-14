@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ZeroAd-06/MAACodex",
+    "repo": "cinderline/northcinder",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
   },
   {
-    "repo": "opentokenz/mcpx",
+    "repo": "chef/chef",
     "branch": "main",
-    "language": "Go",
-    "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。"
+    "language": "Ruby",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
   },
   {
-    "repo": "pydantic/FastUI",
+    "repo": "laravel/laravel",
+    "branch": "11.x",
+    "language": "Blade",
+    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
+  },
+  {
+    "repo": "apollographql/apollo-server",
     "branch": "main",
-    "language": "Python",
-    "description": "Build better UIs faster."
+    "language": "TypeScript",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
   },
   {
-    "repo": "Nightmare-Eclipse/UnDefend",
-    "branch": "main",
-    "language": "C++",
-    "description": "Repository hosting windows defender DOS tool"
-  },
-  {
-    "repo": "facebookresearch/audiocraft",
+    "repo": "facebookresearch/segment-anything",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
   },
   {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "repo": "liu-ziting/ThinkFlowAI",
     "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+    "language": "Vue",
+    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
   },
   {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "chrisnch/reADHD",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "为 ADHD 人群设计的 Obsidian 视觉强调阅读插件，支持中文智能分词（jieba-wasm）。基于 Boninall 的 Obsidian-Better-Reading-Mode 改进。"
-  },
-  {
-    "repo": "timhartmann7/omnyssh",
+    "repo": "susanudgzf/Aave-Claw",
     "branch": "main",
     "language": "Rust",
-    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
-  },
-  {
-    "repo": "renatoworks/3dsvg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The easiest way to turn SVGs into interactive React 3D components"
-  },
-  {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "MrFadiAi/openclaw-manager",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
-  },
-  {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
-    "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
-  },
-  {
-    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
-  },
-  {
-    "repo": "mitsuhiko/pi-llamacpp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An experimental pi extension that runs and manages qwen with llama.cpp"
-  },
-  {
-    "repo": "teorth/optimizationproblems",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of optimization problems in mathematics"
-  },
-  {
-    "repo": "sean-brydon/devl.dev",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "ant-design/ant-design",
+    "repo": "denuitt1/mhr-cfw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "huggingface/datasets",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
+  },
+  {
+    "repo": "CodeSeven/toastr",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple javascript toast notifications"
+  },
+  {
+    "repo": "jasonkneen/tiny-world-builder",
+    "branch": "main",
+    "language": "HTML",
+    "description": "tiny-world-builder"
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "branch": "master",
+    "language": "Java",
+    "description": "Jenkins automation server"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "orchetron/storm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
+  },
+  {
+    "repo": "amircloner/g2ray",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
+  },
+  {
+    "repo": "openlibrecommunity/olcrtc",
+    "branch": "master",
+    "language": "Python",
+    "description": "olc - using side channels to access web outside the whitelist"
+  },
+  {
+    "repo": "argoproj/argo-rollouts",
+    "branch": "master",
+    "language": "Go",
+    "description": "Progressive Delivery for Kubernetes"
+  },
+  {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+  },
+  {
+    "repo": "bryllim/workout-guide",
+    "branch": "main",
+    "language": "Astro",
+    "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim"
+  },
+  {
+    "repo": "lukeed/comptime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
     "branch": "master",
     "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
   },
   {
-    "repo": "serverless/serverless",
+    "repo": "openai/CLIP",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
+    "language": "Jupyter Notebook",
+    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
   },
   {
-    "repo": "cH1LLa/Photoshop-v27.6",
-    "branch": "main",
-    "language": "C++",
-    "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build"
-  },
-  {
-    "repo": "ZJU-REAL/SkillZero",
+    "repo": "buaacyw/code-world-model",
     "branch": "main",
     "language": "Python",
-    "description": "Official code for SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"
-  },
-  {
-    "repo": "homer66/Windows-Xbox-Mode",
-    "branch": "main",
-    "language": "C++",
-    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
-  },
-  {
-    "repo": "LilanOvO/Auto-Resubmit",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
-  },
-  {
-    "repo": "incursi0n/GodPotatoBOF",
-    "branch": "main",
-    "language": "C",
-    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
+    "description": "Code World Model  Official Repo"
   }
 ]
