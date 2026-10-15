@@ -1,33 +1,129 @@
 [
   {
-    "repo": "go-kit/kit",
-    "branch": "master",
-    "language": "Go",
-    "description": "A standard library for microservices."
-  },
-  {
-    "repo": "tolibear/goal-maker",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Supercharge Codex Goals"
-  },
-  {
-    "repo": "calebwin/pgclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
-  },
-  {
-    "repo": "stellarlinkco/myclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "alibaba/landmark-tokenized-dit",
+    "repo": "facebookresearch/actionmesh",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
+  },
+  {
+    "repo": "jamespolyakov9829/captcha-api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves."
+  },
+  {
+    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
+  },
+  {
+    "repo": "babel/babel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
+  },
+  {
+    "repo": "electron/electron",
+    "branch": "main",
+    "language": "C++",
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "branch": "master",
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
+  },
+  {
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "facebook/stylex",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "StyleX is the styling system for ambitious user interfaces."
+  },
+  {
+    "repo": "openai/sora-prompt-engineering-guide",
+    "branch": "main",
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
+  },
+  {
+    "repo": "google/wire",
+    "branch": "master",
+    "language": "Go",
+    "description": "Compile-time Dependency Injection for Go"
+  },
+  {
+    "repo": "hyperium/hyper",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An HTTP library for Rust"
+  },
+  {
+    "repo": "laravel/laravel",
+    "branch": "11.x",
+    "language": "Blade",
+    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "serverless/serverless",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
+  },
+  {
+    "repo": "junit-team/junit4",
+    "branch": "main",
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "branch": "master",
+    "language": "Go",
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+  },
+  {
+    "repo": "mockito/mockito",
+    "branch": "main",
+    "language": "Java",
+    "description": "Most popular Mocking framework for unit tests written in Java"
+  },
+  {
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+  },
+  {
+    "repo": "cortexproject/cortex",
+    "branch": "master",
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native Mermaid diagram renderer for Swift"
   },
   {
     "repo": "metric-anything/metric-anything",
@@ -36,111 +132,15 @@
     "description": ""
   },
   {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
-  },
-  {
-    "repo": "milvus-io/milvus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
-  },
-  {
-    "repo": "mosaxiv/clawlet",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant"
-  },
-  {
-    "repo": "zeroclaw-labs/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
-  },
-  {
-    "repo": "mimurchison/claude-chief-of-staff",
+    "repo": "yohey-w/multi-agent-shogun",
     "branch": "main",
     "language": "Shell",
-    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
+    "description": ""
   },
   {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
-  },
-  {
-    "repo": "50kg/image-to-slice",
+    "repo": "ryanmcdermott/clean-code-javascript",
     "branch": "main",
     "language": "JavaScript",
-    "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS"
-  },
-  {
-    "repo": "TianhangZhuzth/Fundamental-Ava",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
-  },
-  {
-    "repo": "BasZ4ll/Stable-Diffusion-WebUI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta"
-  },
-  {
-    "repo": "XiaomiMiMo/MiMo-Code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "macton/differentiable-collisions-optc",
-    "branch": "main",
-    "language": "C",
-    "description": ""
-  },
-  {
-    "repo": "baoweise-bot/aimili-vpngate",
-    "branch": "main",
-    "language": "Python",
-    "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。"
-  },
-  {
-    "repo": "ddperso/Password_Generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate strong, random passwords with custom length and character sets. Create secure passwords for all your accounts."
-  },
-  {
-    "repo": "KashafBatoool/IP_Changer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Change your IP address quickly with one click. Use proxy or VPN integration. Perfect for anonymity and bypassing geo-blocks."
-  },
-  {
-    "repo": "dair-ai/ML-Papers-Explained",
-    "branch": "gh-pages",
-    "language": "Other",
-    "description": "Explanation to key concepts in ML"
-  },
-  {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "rohunvora/x-research-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+    "description": "Clean Code concepts adapted for JavaScript"
   }
 ]
