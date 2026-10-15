@@ -1,146 +1,146 @@
 [
   {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
+    "repo": "memovai/mimiclaw",
     "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "openssl/openssl",
-    "branch": "master",
     "language": "C",
-    "description": "TLS/SSL and crypto library"
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
   },
   {
-    "repo": "cloudwego/hertz",
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
+    "language": "C++",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+  },
+  {
+    "repo": "paragonie/awesome-appsec",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A curated list of resources for learning about application security"
+  },
+  {
+    "repo": "apple/swift-algorithms",
     "branch": "main",
+    "language": "Swift",
+    "description": "Commonly used sequence and collection algorithms for Swift"
+  },
+  {
+    "repo": "wenqingyu/ralphy-openspec",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
+  },
+  {
+    "repo": "CylinderFoal/MecchaUltraCheat",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
+  },
+  {
+    "repo": "mostafamo123/Pragmata-Reframework",
+    "branch": "main",
+    "language": "C++",
+    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
+  },
+  {
+    "repo": "nv-tlabs/PiD",
+    "branch": "main",
+    "language": "Python",
+    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
+  },
+  {
+    "repo": "go-kit/kit",
+    "branch": "master",
     "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+    "description": "A standard library for microservices."
   },
   {
-    "repo": "docker/docker-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python library for the Docker Engine API"
+    "repo": "apache/pulsar",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Pulsar - distributed pub-sub messaging system"
   },
   {
-    "repo": "OpenBB-finance/OpenBBTerminal",
-    "branch": "main",
-    "language": "Python",
-    "description": "Financial data platform for analysts, quants and AI agents."
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
   },
   {
-    "repo": "moylajuwoonrs1971-crypto/manga-vault-stream",
+    "repo": "SirBlondieDK/HADocs",
     "branch": "main",
     "language": "HTML",
-    "description": "Top Manga & Webcomic Reader App for Windows & Mac 2026"
+    "description": "HADocs automatically documents, analyzes, and visualizes your Home Assistant installation. Generate comprehensive documentation, calculate a meaningful Health Score, discover configuration issues, detect unused entities, and gain deep insights into your smart home architecture."
   },
   {
-    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
+    "repo": "tensorflow/tensorboard",
     "branch": "master",
     "language": "TypeScript",
-    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
+    "description": "TensorFlow's Visualization Toolkit"
   },
   {
-    "repo": "tritano/ultraviewer",
+    "repo": "GuyWithTwoCats/TheGallery",
+    "branch": "main",
+    "language": "CSS",
+    "description": "Fifty Fable-generated websites that you can use as style examples for your vibe-coded website designs."
+  },
+  {
+    "repo": "gerardapennant96075336582/CapC-Pro-2",
+    "branch": "main",
+    "language": "C++",
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
+  },
+  {
+    "repo": "davebcn87/pi-autoresearch",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+    "description": "Autonomous experiment loop extension for pi"
   },
   {
-    "repo": "stackpathLab/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot"
-  },
-  {
-    "repo": "admin8800/s-ui",
-    "branch": "main",
-    "language": "Vue",
-    "description": "s-ui 最后一个完整版本。A complete backup of the last version of s-ui."
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "PenglongHuang/chinese-novelist-skill",
-    "branch": "master",
-    "language": "Python",
-    "description": "让 AI 为你写一部完整的中文小说 - AI 驱动的中文小说创作助手 - 超过20章的小说，几分钟全稿完成    Claude Code Skill：自动创作分章节中文小说，每章悬念钩子"
-  },
-  {
-    "repo": "epiral/weixin-bot",
+    "repo": "Git-creat7/grokRegister-cpa",
     "branch": "main",
     "language": "Python",
-    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
   },
   {
-    "repo": "Badtheorylabs/interference-search",
+    "repo": "liseami/CCBaga",
     "branch": "main",
-    "language": "Python",
-    "description": "Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance together."
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-gateway",
-    "branch": "main",
-    "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
-  },
-  {
-    "repo": "uktrash/LSFG-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
-  },
-  {
-    "repo": "AICoderTudou/claude-code-tudou",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "dockur/proxmox",
+    "repo": "m-novotny/memguard-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries"
+  },
+  {
+    "repo": "HeroicLauncher/HeroicGamesLauncher",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
+  },
+  {
+    "repo": "InstaPy/InstaPy",
     "branch": "master",
-    "language": "Shell",
-    "description": "Proxmox inside a Docker container."
+    "language": "Python",
+    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
   },
   {
-    "repo": "LocoreMind/locoagent",
+    "repo": "blakeshao/kool-brushez",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered social media agent with real browser automation"
+    "language": "JavaScript",
+    "description": "cool p5js brushes"
   },
   {
-    "repo": "Predictly-Poly/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
-  },
-  {
-    "repo": "activepieces/activepieces",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
-  },
-  {
-    "repo": "dach6/ExaltHelper",
-    "branch": "main",
-    "language": "C#",
-    "description": "A C# Windows companion for Realm of the Mad God Exalt featuring real-time DPS tracking, player/party overlays, ability & loot logs, and gameplay utilities with updated combat calculation fixes."
-  },
-  {
-    "repo": "demtmeder/audio-vis-align",
+    "repo": "mujocolab/mjviser",
     "branch": "main",
     "language": "Python",
-    "description": "Training and evaluation toolkit for audio-visual contrastive representation alignment (CLIP-style, but for audio + video)."
+    "description": "Web-based MuJoCo viewer powered by Viser"
+  },
+  {
+    "repo": "nv-tlabs/ardy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation (SIGGRAPH 2026)."
   }
 ]
