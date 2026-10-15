@@ -1,146 +1,146 @@
 [
   {
-    "repo": "facebookresearch/actionmesh",
-    "branch": "main",
-    "language": "Python",
-    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
+    "repo": "compound-finance/compound-protocol",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Compound On-Chain Protocol"
   },
   {
-    "repo": "jamespolyakov9829/captcha-api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves."
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
+    "repo": "firecracker-microvm/firecracker",
     "branch": "main",
     "language": "Rust",
-    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
+    "description": "Secure and fast microVMs for serverless computing."
   },
   {
-    "repo": "babel/babel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
-  },
-  {
-    "repo": "electron/electron",
-    "branch": "main",
-    "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
+    "repo": "openssl/openssl",
     "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
+    "language": "C",
+    "description": "TLS/SSL and crypto library"
   },
   {
-    "repo": "jlevy/the-art-of-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Master the command line, in one page"
-  },
-  {
-    "repo": "microsoft/vscode",
+    "repo": "cloudwego/hertz",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual Studio Code"
-  },
-  {
-    "repo": "facebook/stylex",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "StyleX is the styling system for ambitious user interfaces."
-  },
-  {
-    "repo": "openai/sora-prompt-engineering-guide",
-    "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
-  },
-  {
-    "repo": "google/wire",
-    "branch": "master",
     "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
   },
   {
-    "repo": "hyperium/hyper",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An HTTP library for Rust"
-  },
-  {
-    "repo": "laravel/laravel",
-    "branch": "11.x",
-    "language": "Blade",
-    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
-  },
-  {
-    "repo": "espressif/arduino-esp32",
-    "branch": "master",
-    "language": "C++",
-    "description": "Arduino core for the ESP32"
-  },
-  {
-    "repo": "serverless/serverless",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
-  },
-  {
-    "repo": "junit-team/junit4",
-    "branch": "main",
-    "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
-  },
-  {
-    "repo": "ehang-io/nps",
-    "branch": "master",
-    "language": "Go",
-    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
-  },
-  {
-    "repo": "mockito/mockito",
-    "branch": "main",
-    "language": "Java",
-    "description": "Most popular Mocking framework for unit tests written in Java"
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "cortexproject/cortex",
-    "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native Mermaid diagram renderer for Swift"
-  },
-  {
-    "repo": "metric-anything/metric-anything",
+    "repo": "docker/docker-py",
     "branch": "main",
     "language": "Python",
+    "description": "A Python library for the Docker Engine API"
+  },
+  {
+    "repo": "OpenBB-finance/OpenBBTerminal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Financial data platform for analysts, quants and AI agents."
+  },
+  {
+    "repo": "moylajuwoonrs1971-crypto/manga-vault-stream",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Top Manga & Webcomic Reader App for Windows & Mac 2026"
+  },
+  {
+    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
+  },
+  {
+    "repo": "tritano/ultraviewer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+  },
+  {
+    "repo": "stackpathLab/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot"
+  },
+  {
+    "repo": "admin8800/s-ui",
+    "branch": "main",
+    "language": "Vue",
+    "description": "s-ui 最后一个完整版本。A complete backup of the last version of s-ui."
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
+  },
+  {
+    "repo": "PenglongHuang/chinese-novelist-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "让 AI 为你写一部完整的中文小说 - AI 驱动的中文小说创作助手 - 超过20章的小说，几分钟全稿完成    Claude Code Skill：自动创作分章节中文小说，每章悬念钩子"
+  },
+  {
+    "repo": "epiral/weixin-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+  },
+  {
+    "repo": "Badtheorylabs/interference-search",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance together."
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-gateway",
+    "branch": "main",
+    "language": "Java",
+    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+  },
+  {
+    "repo": "uktrash/LSFG-Desktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
+  },
+  {
+    "repo": "AICoderTudou/claude-code-tudou",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "yohey-w/multi-agent-shogun",
-    "branch": "main",
+    "repo": "dockur/proxmox",
+    "branch": "master",
     "language": "Shell",
-    "description": ""
+    "description": "Proxmox inside a Docker container."
   },
   {
-    "repo": "ryanmcdermott/clean-code-javascript",
+    "repo": "LocoreMind/locoagent",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
+    "language": "TypeScript",
+    "description": "AI-powered social media agent with real browser automation"
+  },
+  {
+    "repo": "Predictly-Poly/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+  },
+  {
+    "repo": "dach6/ExaltHelper",
+    "branch": "main",
+    "language": "C#",
+    "description": "A C# Windows companion for Realm of the Mad God Exalt featuring real-time DPS tracking, player/party overlays, ability & loot logs, and gameplay utilities with updated combat calculation fixes."
+  },
+  {
+    "repo": "demtmeder/audio-vis-align",
+    "branch": "main",
+    "language": "Python",
+    "description": "Training and evaluation toolkit for audio-visual contrastive representation alignment (CLIP-style, but for audio + video)."
   }
 ]
