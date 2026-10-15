@@ -1,146 +1,146 @@
 [
   {
-    "repo": "udayanwalvekar/clearshot",
-    "branch": "main",
-    "language": "Shell",
-    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
-  },
-  {
-    "repo": "AuvroIslam/Nongor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Offline crisis companion for Bangladesh floods. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid and emergency translation for six languages Google Translate doesn't carry — no internet, no server, no account. Gemma 4 runs on the handset."
-  },
-  {
-    "repo": "maybe-finance/maybe",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "The personal finance app for everyone"
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
+    "repo": "go-kit/kit",
     "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+    "language": "Go",
+    "description": "A standard library for microservices."
   },
   {
-    "repo": "Rivflyyy/HappyTorch",
+    "repo": "tolibear/goal-maker",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
-  },
-  {
-    "repo": "helm/helm-www",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The Helm website for docs, blog and project info."
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "OffchainLabs/arbitrum",
-    "branch": "master",
-    "language": "Other",
-    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
-  },
-  {
-    "repo": "Michaelliv/pi-generative-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
-  },
-  {
-    "repo": "mnemox-ai/idea-reality-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
-  },
-  {
-    "repo": "animate-css/animate.css",
-    "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
-  },
-  {
-    "repo": "altair-viz/altair",
-    "branch": "main",
-    "language": "Python",
-    "description": "Declarative visualization library for Python"
-  },
-  {
-    "repo": "saltpi/Aria.X",
-    "branch": "main",
-    "language": "C++",
-    "description": "AriaX: The Ultimate Download Manager for Apple Users"
-  },
-  {
-    "repo": "bcefghj/ai-agent-interview-guide",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Agent 面试全攻略：从零到Offer，包含200+面试题、企业级项目(Python/Java/Go)、简历模板、STAR面试稿、哆啦A梦漫画图解"
-  },
-  {
-    "repo": "OpenCV/opencv_contrib",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Repository for OpenCV's extra modules"
-  },
-  {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
     "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+    "description": "Supercharge Codex Goals"
   },
   {
-    "repo": "adysec/CForum",
+    "repo": "calebwin/pgclaw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
+    "language": "Rust",
+    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
   },
   {
-    "repo": "containerd/containerd",
+    "repo": "stellarlinkco/myclaw",
     "branch": "main",
     "language": "Go",
-    "description": "An open and reliable container runtime"
+    "description": ""
   },
   {
-    "repo": "microsoft/winget-cli",
-    "branch": "master",
-    "language": "C++",
-    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
-  },
-  {
-    "repo": "ByteDance/monolith",
+    "repo": "alibaba/landmark-tokenized-dit",
     "branch": "main",
     "language": "Python",
-    "description": "A Lightweight Recommendation System"
+    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
   },
   {
-    "repo": "lzhgus/Capso",
+    "repo": "metric-anything/metric-anything",
     "branch": "main",
-    "language": "Swift",
-    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "redis/hiredis",
+    "repo": "Vasco0x4/AIDA",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+  },
+  {
+    "repo": "milvus-io/milvus",
     "branch": "master",
+    "language": "Go",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+  },
+  {
+    "repo": "mosaxiv/clawlet",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight Personal AI Assistant"
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
+  },
+  {
+    "repo": "better-auth/better-icons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "repo": "mimurchison/claude-chief-of-staff",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
+  },
+  {
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "50kg/image-to-slice",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS"
+  },
+  {
+    "repo": "TianhangZhuzth/Fundamental-Ava",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "repo": "BasZ4ll/Stable-Diffusion-WebUI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta"
+  },
+  {
+    "repo": "XiaomiMiMo/MiMo-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "macton/differentiable-collisions-optc",
+    "branch": "main",
     "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
+    "description": ""
   },
   {
-    "repo": "TeleHuman/humanoid_skateboarding",
+    "repo": "baoweise-bot/aimili-vpngate",
     "branch": "main",
     "language": "Python",
-    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
+    "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。"
+  },
+  {
+    "repo": "ddperso/Password_Generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate strong, random passwords with custom length and character sets. Create secure passwords for all your accounts."
+  },
+  {
+    "repo": "KashafBatoool/IP_Changer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Change your IP address quickly with one click. Use proxy or VPN integration. Perfect for anonymity and bypassing geo-blocks."
+  },
+  {
+    "repo": "dair-ai/ML-Papers-Explained",
+    "branch": "gh-pages",
+    "language": "Other",
+    "description": "Explanation to key concepts in ML"
+  },
+  {
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "repo": "rohunvora/x-research-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "leolobato/playden-ps5",
-  "branch": "main",
-  "language": "C++",
-  "description": "Play your Steam library's Windows games on a jailbroken PS5.",
-  "stars": 225,
-  "forks": 16
+  "repo": "pLabs5/pLinux5-NG",
+  "branch": "master",
+  "language": "C",
+  "description": "PS5 Linux for high FW's (8.xx, 9.xx, 10.xx, 11.xx, 12.xx, 13.xx)",
+  "stars": 159,
+  "forks": 18
 }
