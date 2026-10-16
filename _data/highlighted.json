@@ -1,8 +1,8 @@
 {
-  "repo": "TG-Twilight/c001apk",
+  "repo": "ChiefGyk3D/Clouds-Against-Humanity",
   "branch": "main",
-  "language": "Dart",
-  "description": "一个轻量的非官方酷安客户端",
-  "stars": 236,
-  "forks": 3
+  "language": "HCL",
+  "description": "OpenTofu + DigitalOcean + Spacelift + Doppler + Twingate: a zero-trust cloud lab, built in costed stages.",
+  "stars": 211,
+  "forks": 10
 }

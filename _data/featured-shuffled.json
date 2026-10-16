@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LB623/no-negative-echo",
+    "repo": "jaredpalmer/kev",
     "branch": "main",
     "language": "Python",
-    "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。"
+    "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook"
   },
   {
-    "repo": "JudyaiLab/ai-night-shift",
+    "repo": "wy51ai/moltbotCNAPP",
     "branch": "main",
-    "language": "Shell",
-    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
-  },
-  {
-    "repo": "silverstein/minutes",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
-  },
-  {
-    "repo": "motiful/cc-gateway",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying"
-  },
-  {
-    "repo": "petergpt/bullshit-benchmark",
-    "branch": "main",
-    "language": "Python",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "J-Pster/Psters_AI_Workflow",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
-  },
-  {
-    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
-    "branch": "main",
+    "repo": "element-hq/element-web",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+    "description": "A glossy Matrix collaboration client for the web."
   },
   {
-    "repo": "ethanweber/posterskill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-assisted academic posters."
-  },
-  {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "bron1e/fnos-rce-chain",
+    "repo": "win4r/ClawTeam-OpenClaw",
     "branch": "main",
     "language": "Python",
-    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
+    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
   },
   {
-    "repo": "fabricjs/fabric.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
-  },
-  {
-    "repo": "LucidAkshay/kavach",
+    "repo": "immich-app/immich",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Tactical AI Workspace Monitor & EDR"
+    "description": "High performance self-hosted photo and video management solution."
   },
   {
-    "repo": "nightwatchjs/nightwatch",
+    "repo": "NVIDIA/NeMo",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+    "language": "Python",
+    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
   },
   {
-    "repo": "influxdata/telegraf",
-    "branch": "master",
+    "repo": "gorilla/mux",
+    "branch": "main",
     "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
   },
   {
-    "repo": "paperclipai/paperclip",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Open-source orchestration for zero-human companies"
-  },
-  {
-    "repo": "hakimel/reveal.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The HTML Presentation Framework"
-  },
-  {
-    "repo": "fabro-sh/fabro",
+    "repo": "cursor/cookbook",
     "branch": "main",
-    "language": "Rust",
-    "description": "⚒️ The open source dark software factory for expert engineers."
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "id-Software/DOOM",
+    "repo": "grpc/grpc",
     "branch": "master",
     "language": "C++",
-    "description": "DOOM Open Source Release"
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
   },
   {
-    "repo": "Jiangzy520/DreamleStockRadar",
+    "repo": "Axion-Trading-Labs/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "apple/swift",
+    "branch": "main",
+    "language": "C++",
+    "description": "The Swift Programming Language"
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "Kotlin/kotlinx.serialization",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Kotlin multiplatform / multi-format serialization"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": "Main repository for Datadog Agent"
+  },
+  {
+    "repo": "microsoft/DeepSpeed",
+    "branch": "master",
+    "language": "Python",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+  },
+  {
+    "repo": "google/leveldb",
+    "branch": "main",
+    "language": "C++",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."
+  },
+  {
+    "repo": "explosion/spaCy",
+    "branch": "master",
+    "language": "Python",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+  },
+  {
+    "repo": "refinedev/refine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
+  },
+  {
+    "repo": "arrow-kt/arrow",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming"
+  },
+  {
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "omnimind-ai/OmniInfer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Cross-platform LLM inference framework for efficient edge deployment"
+  },
+  {
+    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+    "branch": "main",
+    "language": "Shell",
+    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
+  },
+  {
+    "repo": "actions/virtual-environments",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "poteto/brainmaxxing",
     "branch": "main",
     "language": "Python",
-    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
-  },
-  {
-    "repo": "mochajs/mocha",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
-  },
-  {
-    "repo": "argoproj/argo-events",
-    "branch": "master",
-    "language": "Go",
-    "description": "Event-driven Automation Framework for Kubernetes"
-  },
-  {
-    "repo": "jquery-validation/jquery-validation",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "jQuery Validation Plugin library sources"
-  },
-  {
-    "repo": "win4r/memory-lancedb-pro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
-  },
-  {
-    "repo": "cloudflare/vinext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+    "description": "stupid simple persistent memory and skill improvement"
   }
 ]
