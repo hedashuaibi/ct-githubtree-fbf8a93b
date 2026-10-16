@@ -1,8 +1,8 @@
 {
-  "repo": "CarterT27/scion",
+  "repo": "Fengzdadi/memory-bench-registry",
   "branch": "main",
-  "language": "Rust",
-  "description": "Implementation of Anthropic's version control system",
-  "stars": 191,
-  "forks": 11
+  "language": "HTML",
+  "description": "Structured registry of agent memory benchmarks, with every field traced to its source",
+  "stars": 193,
+  "forks": 10
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xuanxuan321/xuanxuan-prompts",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站"
-  },
-  {
-    "repo": "xixu-me/awesome-persona-distill-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
-  },
-  {
-    "repo": "Lcharvol/MacSift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
-  },
-  {
-    "repo": "joeseesun/qiaomu-blog-opensource",
+    "repo": "qwen38maxfree/Qwen-3.8-Max-Uncensored-Free",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
+    "description": "Qwen 3.8 Max Uncensored Free - Alibaba 2.4T params, 95B active MoE. 1M context, no filters, offline Ollama. Apache 2.0. Free desktop client Windows/Mac/Linux 2026."
   },
   {
-    "repo": "nakagami/grdpwasm",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
-  },
-  {
-    "repo": "openclaw/clawsweeper",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
-  },
-  {
-    "repo": "Alfattah07/Acrobat-Editor-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download"
-  },
-  {
-    "repo": "nostrband/ServiceGraph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
-  },
-  {
-    "repo": "PIPIKAI/auto-painter-win",
-    "branch": "main",
-    "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
-  },
-  {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "CodeAbra/iai-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
-  },
-  {
-    "repo": "vxcozy/tome",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
-  },
-  {
-    "repo": "nexu-io/html-anything",
-    "branch": "main",
-    "language": "HTML",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
-  },
-  {
-    "repo": "friendlymatthew/gabagool",
+    "repo": "duxweb/ReTheme",
     "branch": "main",
     "language": "Rust",
-    "description": "Snapshotable WebAssembly interpreter from scratch"
+    "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT"
   },
   {
-    "repo": "michelleoincx/zeroclaw-grok",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+    "repo": "frecodecasti/polymarket-weather-trading-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot"
   },
   {
-    "repo": "trevin-creator/autoresearch-mlx",
+    "repo": "hanyi0000/chatgpt-plus-automation-toolkit",
     "branch": "main",
     "language": "Python",
-    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板"
   },
   {
-    "repo": "hiragram/agent-workspace",
+    "repo": "Niranjan266/Euro_Truck_Simulator_2_Money___Speed_Hack",
     "branch": "main",
-    "language": "Go",
-    "description": ""
+    "language": "Python",
+    "description": "Unlimited money, speed hack, and no damage for ETS2. Max money, go faster, and never damage your truck. Become a trucking tycoon."
   },
   {
-    "repo": "Blueemi/codex-eu-patcher",
+    "repo": "tandpfun/wardrobe",
     "branch": "main",
     "language": "JavaScript",
+    "description": "Your clothes, extracted and organized with gpt-image."
+  },
+  {
+    "repo": "buynao/aipath",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+  },
+  {
+    "repo": "AuvroIslam/Nongor",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Offline crisis companion for Bangladesh floods. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid and emergency translation for six languages Google Translate doesn't carry — no internet, no server, no account. Gemma 4 runs on the handset."
+  },
+  {
+    "repo": "JFGAtlas/aethergate-pro",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "PlaceNL2026/best-of-algorithmic-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
-  },
-  {
-    "repo": "tvytlx/claude-code-deep-dive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 源码深度研究报告"
-  },
-  {
-    "repo": "jasonkneen/tiny-world-builder",
+    "repo": "plannotator/effective-html",
     "branch": "main",
     "language": "HTML",
-    "description": "tiny-world-builder"
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of."
   },
   {
-    "repo": "wesbos/JSON-Alexander",
+    "repo": "Selva-rc/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "BuilderIO/skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Skills for coding agents"
+  },
+  {
+    "repo": "usamafaheemAhmed/Palworld_Buddy_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-capture, infinite pal spheres, and instant breeding for Palworld. Throw spheres automatically, unlimited spheres, breed pals instantly, and collect resources."
+  },
+  {
+    "repo": "worenbudaoni/rag-study-helper",
+    "branch": "main",
+    "language": "Java",
+    "description": "一个学习检索增强生成的全流程助手"
+  },
+  {
+    "repo": "LearnPrompt/luban-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
+  },
+  {
+    "repo": "wizenheimer/canary",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
+    "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
   },
   {
-    "repo": "wesm/agentsview",
+    "repo": "littlepeachs/NaturePanelForge",
     "branch": "main",
-    "language": "Go",
-    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
+    "language": "Python",
+    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
+  },
+  {
+    "repo": "Weebapp003/tradingview-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "tradingview mcp which connect claude code via chrome devtools protocol"
+  },
+  {
+    "repo": "TianhangZhuzth/Fundamental-Ava",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "repo": "awaisaleem1/Mass_Effect_Legendary_Edition_Unlimited_Credits",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited credits, skill points, and all weapons for Mass Effect LE. God mode, infinite ammo, and max paragon/renegade."
+  },
+  {
+    "repo": "microsoft/skill-recorder",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "apple/foundation-models-utilities",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Emerging and experimental patterns for building with the Foundation Models framework"
+  },
+  {
+    "repo": "Akash123201akashp/Stock_Market_Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-time stock scanner with alerts and auto-buy triggers. Find breakout stocks, price alerts, buy when conditions met, and test strategies. Trade smarter."
+  },
+  {
+    "repo": "SunJaycy/GoldenEye-Recomp",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
   }
 ]
