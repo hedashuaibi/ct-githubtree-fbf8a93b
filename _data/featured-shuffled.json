@@ -1,146 +1,146 @@
 [
   {
-    "repo": "qwen38maxfree/Qwen-3.8-Max-Uncensored-Free",
+    "repo": "LB623/no-negative-echo",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Qwen 3.8 Max Uncensored Free - Alibaba 2.4T params, 95B active MoE. 1M context, no filters, offline Ollama. Apache 2.0. Free desktop client Windows/Mac/Linux 2026."
+    "language": "Python",
+    "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。"
   },
   {
-    "repo": "duxweb/ReTheme",
+    "repo": "JudyaiLab/ai-night-shift",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+  },
+  {
+    "repo": "silverstein/minutes",
     "branch": "main",
     "language": "Rust",
-    "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT"
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
   },
   {
-    "repo": "frecodecasti/polymarket-weather-trading-bot",
-    "branch": "master",
+    "repo": "motiful/cc-gateway",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot"
+    "description": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying"
   },
   {
-    "repo": "hanyi0000/chatgpt-plus-automation-toolkit",
-    "branch": "main",
-    "language": "Python",
-    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板"
-  },
-  {
-    "repo": "Niranjan266/Euro_Truck_Simulator_2_Money___Speed_Hack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited money, speed hack, and no damage for ETS2. Max money, go faster, and never damage your truck. Become a trucking tycoon."
-  },
-  {
-    "repo": "tandpfun/wardrobe",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Your clothes, extracted and organized with gpt-image."
-  },
-  {
-    "repo": "buynao/aipath",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
-  },
-  {
-    "repo": "AuvroIslam/Nongor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Offline crisis companion for Bangladesh floods. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid and emergency translation for six languages Google Translate doesn't carry — no internet, no server, no account. Gemma 4 runs on the handset."
-  },
-  {
-    "repo": "JFGAtlas/aethergate-pro",
+    "repo": "petergpt/bullshit-benchmark",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "plannotator/effective-html",
+    "repo": "J-Pster/Psters_AI_Workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+  },
+  {
+    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+  },
+  {
+    "repo": "ethanweber/posterskill",
     "branch": "main",
     "language": "HTML",
-    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of."
+    "description": "AI-assisted academic posters."
   },
   {
-    "repo": "Selva-rc/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "bron1e/fnos-rce-chain",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
   },
   {
-    "repo": "BuilderIO/skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Skills for coding agents"
-  },
-  {
-    "repo": "usamafaheemAhmed/Palworld_Buddy_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-capture, infinite pal spheres, and instant breeding for Palworld. Throw spheres automatically, unlimited spheres, breed pals instantly, and collect resources."
-  },
-  {
-    "repo": "worenbudaoni/rag-study-helper",
-    "branch": "main",
-    "language": "Java",
-    "description": "一个学习检索增强生成的全流程助手"
-  },
-  {
-    "repo": "LearnPrompt/luban-skill",
+    "repo": "fabricjs/fabric.js",
     "branch": "master",
-    "language": "Shell",
-    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
+    "language": "TypeScript",
+    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
   },
   {
-    "repo": "wizenheimer/canary",
+    "repo": "LucidAkshay/kavach",
     "branch": "main",
     "language": "TypeScript",
-    "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
+    "description": "Tactical AI Workspace Monitor & EDR"
   },
   {
-    "repo": "littlepeachs/NaturePanelForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
-  },
-  {
-    "repo": "Weebapp003/tradingview-mcp",
+    "repo": "nightwatchjs/nightwatch",
     "branch": "main",
     "language": "JavaScript",
-    "description": "tradingview mcp which connect claude code via chrome devtools protocol"
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
   },
   {
-    "repo": "TianhangZhuzth/Fundamental-Ava",
+    "repo": "influxdata/telegraf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open-source orchestration for zero-human companies"
+  },
+  {
+    "repo": "hakimel/reveal.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The HTML Presentation Framework"
+  },
+  {
+    "repo": "fabro-sh/fabro",
+    "branch": "main",
+    "language": "Rust",
+    "description": "⚒️ The open source dark software factory for expert engineers."
+  },
+  {
+    "repo": "id-Software/DOOM",
+    "branch": "master",
+    "language": "C++",
+    "description": "DOOM Open Source Release"
+  },
+  {
+    "repo": "Jiangzy520/DreamleStockRadar",
     "branch": "main",
     "language": "Python",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
   },
   {
-    "repo": "awaisaleem1/Mass_Effect_Legendary_Edition_Unlimited_Credits",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited credits, skill points, and all weapons for Mass Effect LE. God mode, infinite ammo, and max paragon/renegade."
+    "repo": "mochajs/mocha",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
   },
   {
-    "repo": "microsoft/skill-recorder",
+    "repo": "argoproj/argo-events",
+    "branch": "master",
+    "language": "Go",
+    "description": "Event-driven Automation Framework for Kubernetes"
+  },
+  {
+    "repo": "jquery-validation/jquery-validation",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "jQuery Validation Plugin library sources"
+  },
+  {
+    "repo": "win4r/memory-lancedb-pro",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
   },
   {
-    "repo": "apple/foundation-models-utilities",
+    "repo": "cloudflare/vinext",
     "branch": "main",
-    "language": "Swift",
-    "description": "Emerging and experimental patterns for building with the Foundation Models framework"
-  },
-  {
-    "repo": "Akash123201akashp/Stock_Market_Scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Real-time stock scanner with alerts and auto-buy triggers. Find breakout stocks, price alerts, buy when conditions met, and test strategies. Trade smarter."
-  },
-  {
-    "repo": "SunJaycy/GoldenEye-Recomp",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
   }
 ]
