@@ -1,146 +1,146 @@
 [
   {
-    "repo": "memovai/mimiclaw",
+    "repo": "xuanxuan321/xuanxuan-prompts",
     "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+    "language": "Shell",
+    "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站"
   },
   {
-    "repo": "prusa3d/PrusaSlicer",
-    "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+    "repo": "xixu-me/awesome-persona-distill-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
   },
   {
-    "repo": "paragonie/awesome-appsec",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
-  },
-  {
-    "repo": "apple/swift-algorithms",
+    "repo": "Lcharvol/MacSift",
     "branch": "main",
     "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
   },
   {
-    "repo": "wenqingyu/ralphy-openspec",
+    "repo": "joeseesun/qiaomu-blog-opensource",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
+    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
   },
   {
-    "repo": "CylinderFoal/MecchaUltraCheat",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
-  },
-  {
-    "repo": "mostafamo123/Pragmata-Reframework",
-    "branch": "main",
-    "language": "C++",
-    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
-  },
-  {
-    "repo": "nv-tlabs/PiD",
-    "branch": "main",
-    "language": "Python",
-    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
-  },
-  {
-    "repo": "go-kit/kit",
+    "repo": "nakagami/grdpwasm",
     "branch": "master",
     "language": "Go",
-    "description": "A standard library for microservices."
-  },
-  {
-    "repo": "apache/pulsar",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Pulsar - distributed pub-sub messaging system"
-  },
-  {
-    "repo": "standard/standard",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
-  },
-  {
-    "repo": "SirBlondieDK/HADocs",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HADocs automatically documents, analyzes, and visualizes your Home Assistant installation. Generate comprehensive documentation, calculate a meaningful Health Score, discover configuration issues, detect unused entities, and gain deep insights into your smart home architecture."
-  },
-  {
-    "repo": "tensorflow/tensorboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TensorFlow's Visualization Toolkit"
-  },
-  {
-    "repo": "GuyWithTwoCats/TheGallery",
-    "branch": "main",
-    "language": "CSS",
-    "description": "Fifty Fable-generated websites that you can use as style examples for your vibe-coded website designs."
-  },
-  {
-    "repo": "gerardapennant96075336582/CapC-Pro-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
-  },
-  {
-    "repo": "davebcn87/pi-autoresearch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Autonomous experiment loop extension for pi"
-  },
-  {
-    "repo": "Git-creat7/grokRegister-cpa",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
-  },
-  {
-    "repo": "liseami/CCBaga",
-    "branch": "main",
-    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "m-novotny/memguard-rs",
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
     "branch": "main",
-    "language": "Rust",
-    "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries"
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
   },
   {
-    "repo": "HeroicLauncher/HeroicGamesLauncher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
-  },
-  {
-    "repo": "InstaPy/InstaPy",
-    "branch": "master",
-    "language": "Python",
-    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
-  },
-  {
-    "repo": "blakeshao/kool-brushez",
+    "repo": "openclaw/clawsweeper",
     "branch": "main",
     "language": "JavaScript",
-    "description": "cool p5js brushes"
+    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
   },
   {
-    "repo": "mujocolab/mjviser",
+    "repo": "Alfattah07/Acrobat-Editor-2026",
     "branch": "main",
-    "language": "Python",
-    "description": "Web-based MuJoCo viewer powered by Viser"
+    "language": "C++",
+    "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download"
   },
   {
-    "repo": "nv-tlabs/ardy",
+    "repo": "nostrband/ServiceGraph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
+  },
+  {
+    "repo": "PIPIKAI/auto-painter-win",
     "branch": "main",
     "language": "Python",
-    "description": "Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation (SIGGRAPH 2026)."
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+  },
+  {
+    "repo": "Trooped/QuickBars",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
+  },
+  {
+    "repo": "CodeAbra/iai-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+  },
+  {
+    "repo": "vxcozy/tome",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
+  },
+  {
+    "repo": "nexu-io/html-anything",
+    "branch": "main",
+    "language": "HTML",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
+  },
+  {
+    "repo": "friendlymatthew/gabagool",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Snapshotable WebAssembly interpreter from scratch"
+  },
+  {
+    "repo": "michelleoincx/zeroclaw-grok",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+  },
+  {
+    "repo": "trevin-creator/autoresearch-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+  },
+  {
+    "repo": "hiragram/agent-workspace",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "Blueemi/codex-eu-patcher",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "PlaceNL2026/best-of-algorithmic-trading",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
+  },
+  {
+    "repo": "tvytlx/claude-code-deep-dive",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 源码深度研究报告"
+  },
+  {
+    "repo": "jasonkneen/tiny-world-builder",
+    "branch": "main",
+    "language": "HTML",
+    "description": "tiny-world-builder"
+  },
+  {
+    "repo": "wesbos/JSON-Alexander",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A really good JSON viewer browser Extension"
+  },
+  {
+    "repo": "wesm/agentsview",
+    "branch": "main",
+    "language": "Go",
+    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
   }
 ]
