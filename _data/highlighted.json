@@ -1,8 +1,8 @@
 {
-  "repo": "OutThisLife/azeroth-survivors-re",
+  "repo": "OpenPort-Labs/Galaxy-Android",
   "branch": "main",
-  "language": "Rust",
-  "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy).",
-  "stars": 190,
-  "forks": 83
+  "language": "C++",
+  "description": "Native 100% ARM64 Android port of the 2007 cosmic gravity platformer with OpenGL ES 3.2, AAudio, Hor+ ultrawide, and touch controls.",
+  "stars": 195,
+  "forks": 19
 }

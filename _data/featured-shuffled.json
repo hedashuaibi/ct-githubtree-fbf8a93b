@@ -1,146 +1,146 @@
 [
   {
-    "repo": "russelleNVy/three-man-team",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
-  },
-  {
-    "repo": "tree-sitter/tree-sitter",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An incremental parsing system for programming tools"
-  },
-  {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
-    "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
-  },
-  {
-    "repo": "nmatt0/mithril",
-    "branch": "master",
-    "language": "C++",
-    "description": "IoT static scanner for secrets, SBOM, CVEs and more."
-  },
-  {
-    "repo": "rawwerks/ypi",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A recursive coding agent inpired by RLMs"
-  },
-  {
-    "repo": "RevylAI/greenlight",
-    "branch": "main",
-    "language": "Go",
-    "description": "Pre-submission compliance scanner for the Apple App Store"
-  },
-  {
-    "repo": "react-native-device-info/react-native-device-info",
-    "branch": "master",
+    "repo": "portainer/portainer",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
+    "description": "Making Docker and Kubernetes management easy."
   },
   {
-    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
+    "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "HTML",
+    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects."
   },
   {
-    "repo": "jgarzik/apython",
+    "repo": "ZCodium-project/ZCodium",
     "branch": "main",
-    "language": "Assembly",
-    "description": "Accelerated Asm Python"
+    "language": "TypeScript",
+    "description": "ZCodium，Independent audit fork of ZCode (ZCode → ZCodium). All monitoring and telemetry removed; upstream commits reviewed one by one. ZCode 的独立审计分支（ZCode → ZCodium）：已移除监控与遥测，上游改动逐提交审阅。"
   },
   {
-    "repo": "by-sonic/unblock-pro",
+    "repo": "bussnessman8/youtube-dl-frontend-lite",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
+    "language": "HTML",
+    "description": "Best YouTube Video & Audio Saver Tool 2026 for PC"
   },
   {
-    "repo": "codecrafters-io/build-your-own-x",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "Master programming by recreating your favorite technologies from scratch."
-  },
-  {
-    "repo": "apple/swift-algorithms",
+    "repo": "mistydew/tokenicode-deepseek-alpha",
     "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
+    "language": "TypeScript",
+    "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
   },
   {
-    "repo": "qazbnm456/awesome-web-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
-  },
-  {
-    "repo": "ansible-collections/community.general",
+    "repo": "jgallego001/Hex_Editor",
     "branch": "main",
     "language": "Python",
-    "description": "Ansible Community General Collection"
+    "description": "View and edit raw binary data with a powerful hex editor. Search, replace, modify bytes, and parse data structures. Essential for reverse engineering and debugging."
   },
   {
-    "repo": "goldbergyoni/nodebestpractices",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
-  },
-  {
-    "repo": "raspberrypi/firmware",
-    "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
+    "repo": "Asosa809/File_Recovery_Tool",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark remover"
+    "description": "Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use."
   },
   {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "timuronlinq/messari-crack",
+    "repo": "UGELSbba/File_Type_Detective",
     "branch": "main",
     "language": "Python",
-    "description": "Messari crack"
+    "description": "Identify file types by analyzing their signatures (magic bytes). Useful for unknown or corrupted files. Show extension and MIME type."
   },
   {
-    "repo": "LeCoupa/awesome-cheatsheets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
-  },
-  {
-    "repo": "jazzband/django-debug-toolbar",
+    "repo": "shivaansh0610-LUFFY/Group_Policy_Editor__GUI_",
     "branch": "main",
     "language": "Python",
-    "description": "A configurable set of panels that display various debug information about the current request/response."
+    "description": "Graphical interface for Windows Group Policy settings. Easily enable/disable policies without digging through the registry. Great for system admins."
   },
   {
-    "repo": "testcontainers/testcontainers-java",
+    "repo": "awaisaleem1/Mass_Effect_Legendary_Edition_Unlimited_Credits",
     "branch": "main",
-    "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+    "language": "Python",
+    "description": "Unlimited credits, skill points, and all weapons for Mass Effect LE. God mode, infinite ammo, and max paragon/renegade."
   },
   {
-    "repo": "nats-io/nats-server",
+    "repo": "FractalFir/crustc",
+    "branch": "main",
+    "language": "C",
+    "description": "Entirety of `rustc`, translated to C."
+  },
+  {
+    "repo": "Vimal-Balaji/Hide_And_Seek_Extreme_-_Auto-Hide___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-hide and ESP for Hide And Seek Extreme, the classic hide and seek game[reference:51]. Find the best hiding spots, see seekers through walls, and win every round."
+  },
+  {
+    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
+  },
+  {
+    "repo": "JokiTsien/App_Store_Play_Store_Review_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility."
+  },
+  {
+    "repo": "Narankhuu1/Audio_Normalizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Normalize audio volume across multiple files to the same level. Reduce loudness variation for albums or playlists."
+  },
+  {
+    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
+  },
+  {
+    "repo": "TianhangZhuzth/Fundamental-Ava",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "repo": "Selva-rc/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "AbishakeC/Escape_from_Tarkov_ESP___Radar",
+    "branch": "main",
+    "language": "Python",
+    "description": "ESP and radar hack for Escape from Tarkov. See players, loot, and exits through walls. Avoid ambushes and extract successfully."
+  },
+  {
+    "repo": "LewdM3at/PC-Cartridge-System",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
+  },
+  {
+    "repo": "lopopolo/harness-engineering",
+    "branch": "trunk",
+    "language": "Python",
+    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
+  },
+  {
+    "repo": "zhaixiansen1023-cpu/QR_Code_Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Scan QR codes and barcodes from images, webcam, or screenshots. Decode instantly and copy to clipboard."
+  },
+  {
+    "repo": "theswerd/brainless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code, Codex, and Grok interfaces as shadcn components"
+  },
+  {
+    "repo": "nethical6/conversation-steganography",
     "branch": "main",
     "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
-  },
-  {
-    "repo": "vinta/awesome-python",
-    "branch": "master",
-    "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+    "description": "Use LLMS to hide secret messages inside normal-looking chat text"
   }
 ]
