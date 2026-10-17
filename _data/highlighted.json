@@ -1,8 +1,8 @@
 {
-  "repo": "ChiefGyk3D/Clouds-Against-Humanity",
+  "repo": "OutThisLife/azeroth-survivors-re",
   "branch": "main",
-  "language": "HCL",
-  "description": "OpenTofu + DigitalOcean + Spacelift + Doppler + Twingate: a zero-trust cloud lab, built in costed stages.",
-  "stars": 211,
-  "forks": 10
+  "language": "Rust",
+  "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy).",
+  "stars": 184,
+  "forks": 80
 }
