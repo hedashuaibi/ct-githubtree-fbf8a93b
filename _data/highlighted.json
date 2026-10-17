@@ -1,8 +1,8 @@
 {
-  "repo": "OutThisLife/azeroth-survivors-re",
+  "repo": "Spark198rus/black-pc",
   "branch": "main",
-  "language": "Rust",
-  "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy).",
-  "stars": 184,
-  "forks": 80
+  "language": "C++",
+  "description": "Unofficial native Windows port of BLACK (Xbox, NTSC-U). Runs your own copy of the game's code on the PC; no game data included.",
+  "stars": 178,
+  "forks": 14
 }

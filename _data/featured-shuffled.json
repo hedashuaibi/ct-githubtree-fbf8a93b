@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jangafx/FMAG",
+    "repo": "NamKhoa-07/Voidstrap",
     "branch": "main",
-    "language": "C",
-    "description": "A single-instruction GPU virtual machine and toolchain"
+    "language": "C#",
+    "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements."
   },
   {
-    "repo": "EricLengyel/Slug",
-    "branch": "main",
-    "language": "HLSL",
-    "description": "Reference code for the Slug Algorithm."
-  },
-  {
-    "repo": "Viedie/BongoCat-Windows",
-    "branch": "main",
-    "language": "C++",
-    "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard."
-  },
-  {
-    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
-  },
-  {
-    "repo": "jorgebucaran/hyperapp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "1kB-ish JavaScript framework for building hypertext applications"
-  },
-  {
-    "repo": "joeseesun/lennys-podcast-newsletter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Lenny Rachitsky 播客与 Newsletter 知识库。搜索、阅读、学习 Lenny 的 638 篇内容（289 播客转录 + 349 篇 Newsletter）。 涵盖产品管理、增长、设计、工程、AI、创业、领导力等 17 个主题。 触发词：Lenny、Lenny's Newslet"
-  },
-  {
-    "repo": "codetrybe/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copytrading bot"
-  },
-  {
-    "repo": "RightNow-AI/picolm",
-    "branch": "main",
-    "language": "C",
-    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
-  },
-  {
-    "repo": "explosion/spaCy",
-    "branch": "master",
-    "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
-  },
-  {
-    "repo": "ericosiu/ai-marketing-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
-  },
-  {
-    "repo": "KeyID-AI/sdk-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "ayush-that/jiang-clips",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
-  },
-  {
-    "repo": "PrathamLearnsToCode/paper2code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skill to turn any arxiv paper into a working implementation"
-  },
-  {
-    "repo": "airbnb/lottie-web",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
-  },
-  {
-    "repo": "ula7i921011/React2Shell-Scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "React2Shell Scanner"
-  },
-  {
-    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "repo": "peteromallet/dataclaw",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "BuilderIO/qwik",
+    "repo": "yifangao112/Camyla",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Instant-loading web apps, without effort"
+    "language": "Python",
+    "description": "Scaling Autonomous Research in Medical Image Segmentation"
   },
   {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
-  },
-  {
-    "repo": "jkudish/librarium",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
-  },
-  {
-    "repo": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
-    "branch": "work",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket copytradingbot polymarket copytrading bot"
-  },
-  {
-    "repo": "samvallad33/vestige",
+    "repo": "silverstein/minutes",
     "branch": "main",
     "language": "Rust",
-    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
   },
   {
-    "repo": "Narcooo/inkos",
-    "branch": "master",
+    "repo": "jd-opensource/JoyAI-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
+  },
+  {
+    "repo": "Fokkyp/SoftwareCopyright-Skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  {
+    "repo": "Morgensonne/EditDeck",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "haydenbleasel/files-sdk",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
   },
   {
-    "repo": "MapleShaw/yt-dlp-downloader-skill",
-    "branch": "master",
+    "repo": "he-yufeng/CoreCoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
+  },
+  {
+    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
+  },
+  {
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+  },
+  {
+    "repo": "chiefautism/privacy-parser",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking."
+  },
+  {
+    "repo": "math-ai-org/mathcode",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathCode: A Frontier Mathematical Coding Agent"
+  },
+  {
+    "repo": "dsd2077/CyberVerse",
+    "branch": "main",
+    "language": "Python",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
+  },
+  {
+    "repo": "chekusu/mails",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
+  },
+  {
+    "repo": "evanklem/evanflow",
+    "branch": "main",
     "language": "Shell",
-    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
+    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+  },
+  {
+    "repo": "AERT-7Y/kiro-auto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kiro自动注册机"
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An open source harness for generating CAD models"
+  },
+  {
+    "repo": "jzOcb/writing-style-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
+  },
+  {
+    "repo": "blairxu13/persona3-website",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "madeye/mcp-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "save fork/exec overhead of ai code agent"
+  },
+  {
+    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "stevibe/ToolCall-15",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "stainlu/hermes-labyrinth",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
   }
 ]
