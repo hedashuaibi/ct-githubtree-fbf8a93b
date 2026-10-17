@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NamKhoa-07/Voidstrap",
-    "branch": "main",
-    "language": "C#",
-    "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements."
-  },
-  {
-    "repo": "peteromallet/dataclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "yifangao112/Camyla",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scaling Autonomous Research in Medical Image Segmentation"
-  },
-  {
-    "repo": "silverstein/minutes",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
-  },
-  {
-    "repo": "Fokkyp/SoftwareCopyright-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
-  },
-  {
-    "repo": "Morgensonne/EditDeck",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "haydenbleasel/files-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
-  },
-  {
-    "repo": "he-yufeng/CoreCoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
-  },
-  {
-    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
-  },
-  {
-    "repo": "vansh-nagar/ascii-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
-  },
-  {
-    "repo": "chiefautism/privacy-parser",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking."
-  },
-  {
-    "repo": "math-ai-org/mathcode",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathCode: A Frontier Mathematical Coding Agent"
-  },
-  {
-    "repo": "dsd2077/CyberVerse",
-    "branch": "main",
-    "language": "Python",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
-  },
-  {
-    "repo": "chekusu/mails",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
-  },
-  {
-    "repo": "evanklem/evanflow",
+    "repo": "russelleNVy/three-man-team",
     "branch": "main",
     "language": "Shell",
-    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
   },
   {
-    "repo": "AERT-7Y/kiro-auto",
+    "repo": "tree-sitter/tree-sitter",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An incremental parsing system for programming tools"
+  },
+  {
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
+  },
+  {
+    "repo": "nmatt0/mithril",
+    "branch": "master",
+    "language": "C++",
+    "description": "IoT static scanner for secrets, SBOM, CVEs and more."
+  },
+  {
+    "repo": "rawwerks/ypi",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A recursive coding agent inpired by RLMs"
+  },
+  {
+    "repo": "RevylAI/greenlight",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "kiro自动注册机"
+    "language": "Go",
+    "description": "Pre-submission compliance scanner for the Apple App Store"
   },
   {
-    "repo": "earthtojake/text-to-cad",
+    "repo": "react-native-device-info/react-native-device-info",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Device Information for React Native iOS and Android"
+  },
+  {
+    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
     "branch": "main",
     "language": "JavaScript",
-    "description": "An open source harness for generating CAD models"
+    "description": ""
   },
   {
-    "repo": "jzOcb/writing-style-skill",
+    "repo": "jgarzik/apython",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Accelerated Asm Python"
+  },
+  {
+    "repo": "by-sonic/unblock-pro",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
+  },
+  {
+    "repo": "codecrafters-io/build-your-own-x",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "repo": "apple/swift-algorithms",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Commonly used sequence and collection algorithms for Swift"
+  },
+  {
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "ansible-collections/community.general",
     "branch": "main",
     "language": "Python",
-    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
+    "description": "Ansible Community General Collection"
   },
   {
-    "repo": "blairxu13/persona3-website",
+    "repo": "goldbergyoni/nodebestpractices",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
+  },
+  {
+    "repo": "raspberrypi/firmware",
+    "branch": "master",
+    "language": "Other",
+    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+  },
+  {
+    "repo": "uedk9p/sora2-watermark-remover",
     "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
+  },
+  {
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "LeCoupa/awesome-cheatsheets",
+    "branch": "master",
     "language": "JavaScript",
-    "description": ""
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
   },
   {
-    "repo": "madeye/mcp-cli",
+    "repo": "jazzband/django-debug-toolbar",
     "branch": "main",
-    "language": "Rust",
-    "description": "save fork/exec overhead of ai code agent"
+    "language": "Python",
+    "description": "A configurable set of panels that display various debug information about the current request/response."
   },
   {
-    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "repo": "testcontainers/testcontainers-java",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+    "language": "Java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
   },
   {
-    "repo": "stevibe/ToolCall-15",
+    "repo": "nats-io/nats-server",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
   },
   {
-    "repo": "stainlu/hermes-labyrinth",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
   }
 ]
