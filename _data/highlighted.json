@@ -1,8 +1,8 @@
 {
-  "repo": "SebasKitten/Grand-V",
+  "repo": "reason-machines/reason-network",
   "branch": "main",
   "language": "Rust",
-  "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
-  "stars": 289,
-  "forks": 62
+  "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+  "stars": 397,
+  "forks": 30
 }

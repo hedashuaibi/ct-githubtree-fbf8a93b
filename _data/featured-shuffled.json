@@ -1,146 +1,146 @@
 [
   {
-    "repo": "knostic/OpenAnt",
+    "repo": "NullLatency/FlowDriver",
     "branch": "master",
-    "language": "Python",
-    "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real."
+    "language": "Go",
+    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
   },
   {
-    "repo": "alibaba-damo-academy/RynnBrain",
+    "repo": "infinition/waveshare-watch-rs",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
+    "language": "Rust",
+    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
   },
   {
-    "repo": "huang-sir1/radiology-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "kitlangton/rolling-number",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter."
-  },
-  {
-    "repo": "mufengyuan666/Gazette",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Accio-Lab/Dressage",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scalable RL framework for Any Agent and Sandbox."
-  },
-  {
-    "repo": "QuantML-Research/wq-alpha-research",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "amplifthq/opentag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
-  },
-  {
-    "repo": "fcompc4/ecommerce-kushi",
-    "branch": "main",
+    "repo": "kenowong/math-mastery",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "E-commerce roupa"
+    "description": "中小学数学方法融会贯通 · 纯前端零依赖 · 参数化随机出题引擎"
   },
   {
-    "repo": "TestSprite/testsprite-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Official TestSprite CLI — AI-powered automated testing from your terminal"
-  },
-  {
-    "repo": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+    "repo": "jzOcb/writing-style-skill",
     "branch": "main",
     "language": "Python",
-    "description": "X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
   },
   {
-    "repo": "chengtx007/fuckoai",
+    "repo": "shenhao-stu/ohmycaptcha",
     "branch": "main",
     "language": "Python",
-    "description": "Linux container registration control panel"
+    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
   },
   {
-    "repo": "AI-Abdullah/EA_Sports_FC_Ultimate_Team_Bot",
+    "repo": "NousResearch/hermes-agent-self-evolution",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-buy, snipe, and squad builder for EA Sports FC (FIFA). Snipes cheap players, optimizes chemistry, earns coins, and opens packs automatically."
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
   },
   {
-    "repo": "SkyBlue997/enableMacosAI",
-    "branch": "main",
-    "language": "Shell",
-    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
-  },
-  {
-    "repo": "Leonxlnx/lumenshaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
-  },
-  {
-    "repo": "Tencent-Hunyuan/UniRL",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
-  },
-  {
-    "repo": "jose-90/Deltarune-Chapter5-Ultimate-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Complete Deltarune Chapter 5 trainer with infinite HP, max stats, unlimited items, and god mode. Dominate every battle and explore the full story with our undetected 2026 cheat tool."
-  },
-  {
-    "repo": "humblebanana/open-record-replay",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Open-source macOS record-and-replay workflow recorder for computer use agents. Captures mouse, keyboard, and UI events as structured traces so agents can learn, replay, and automate real desktop tasks."
-  },
-  {
-    "repo": "Git-creat7/grokRegister-cpa",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
-  },
-  {
-    "repo": "letorig/video-generator-client",
-    "branch": "main",
-    "language": "Python",
-    "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI"
-  },
-  {
-    "repo": "newliver666/apk-reverse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Suitable for Android APK reverse engineering analysis"
-  },
-  {
-    "repo": "Floxu1/UAC-SNI-Spoofer-Windows",
+    "repo": "xjtulyc/MedgeClaw",
     "branch": "main",
     "language": "HTML",
+    "description": "Medge AI X OpenClaw"
+  },
+  {
+    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
+  },
+  {
+    "repo": "Nuzair46/Monarch",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Detach, restore, and switch monitor layouts without touching cables."
+  },
+  {
+    "repo": "Adityaraj0421/design-studio",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
+  },
+  {
+    "repo": "Mouseww/anything-analyzer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
+  },
+  {
+    "repo": "SentiAvatar/SentiAvatar",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "KyThuatUAV/ESP32_FC",
+    "repo": "sujitagarwal/multigravity-cli",
     "branch": "main",
-    "language": "C++",
-    "description": "nghiên cứu và phát triển bộ điều khiển bay drone dựa trên esp32"
+    "language": "Shell",
+    "description": "Run multiple Antigravity IDE profiles at the same time — each with its own accounts, settings, and extensions.  No more logging in and out. Just switch profiles instantly or use them all at once!"
   },
   {
-    "repo": "moguzbulbul/blueprint-animation",
+    "repo": "gorkem-bwl/animated-icons",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul."
+    "description": ""
+  },
+  {
+    "repo": "KeyID-AI/sdk-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+  },
+  {
+    "repo": "761696148/Game-Map-Tracker",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "alchaincyf/darwin-skill",
+    "branch": "master",
+    "language": "HTML",
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+  },
+  {
+    "repo": "poshan0126/dotclaude",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
+  },
+  {
+    "repo": "pithings/coderaft",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)"
+  },
+  {
+    "repo": "large-performance-model/large-performance-model.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "LPM 1.0: Video-based Character Performance Model"
+  },
+  {
+    "repo": "halfwhey/claudraband",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Claude Code for the Power User"
+  },
+  {
+    "repo": "nagisanzenin/skyclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+  },
+  {
+    "repo": "juntoku9/claude_immigration_attorney",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude code environment for laywers"
+  },
+  {
+    "repo": "ynsmroztas/AndroHunter",
+    "branch": "main",
+    "language": "Java",
+    "description": "AndroHunter"
   }
 ]
