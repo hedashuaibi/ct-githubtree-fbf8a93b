@@ -1,146 +1,146 @@
 [
   {
-    "repo": "prisma/prisma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    "repo": "knostic/OpenAnt",
+    "branch": "master",
+    "language": "Python",
+    "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real."
   },
   {
-    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026",
+    "repo": "alibaba-damo-academy/RynnBrain",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
+  },
+  {
+    "repo": "huang-sir1/radiology-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate auto farm trainer for Pet Simulator 99 - automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
-  },
-  {
-    "repo": "m1heng/clawdbot-feishu",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "jaegertracing/jaeger",
+    "repo": "kitlangton/rolling-number",
     "branch": "main",
-    "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+    "language": "TypeScript",
+    "description": "Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter."
   },
   {
-    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
-  },
-  {
-    "repo": "optuna/optuna",
-    "branch": "master",
-    "language": "Python",
-    "description": "A hyperparameter optimization framework"
-  },
-  {
-    "repo": "microsoft/cascadia-code",
+    "repo": "mufengyuan666/Gazette",
     "branch": "main",
     "language": "Python",
-    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+    "description": ""
   },
   {
-    "repo": "freestylefly/wechat-cli",
+    "repo": "Accio-Lab/Dressage",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
+    "description": "Scalable RL framework for Any Agent and Sandbox."
   },
   {
-    "repo": "tqdm/tqdm",
-    "branch": "master",
+    "repo": "QuantML-Research/wq-alpha-research",
+    "branch": "main",
     "language": "Python",
-    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
+    "description": ""
   },
   {
-    "repo": "apple/swift-argument-parser",
+    "repo": "amplifthq/opentag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "repo": "fcompc4/ecommerce-kushi",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "E-commerce roupa"
+  },
+  {
+    "repo": "TestSprite/testsprite-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Official TestSprite CLI — AI-powered automated testing from your terminal"
+  },
+  {
+    "repo": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+    "branch": "main",
+    "language": "Python",
+    "description": "X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+  },
+  {
+    "repo": "chengtx007/fuckoai",
+    "branch": "main",
+    "language": "Python",
+    "description": "Linux container registration control panel"
+  },
+  {
+    "repo": "AI-Abdullah/EA_Sports_FC_Ultimate_Team_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-buy, snipe, and squad builder for EA Sports FC (FIFA). Snipes cheap players, optimizes chemistry, earns coins, and opens packs automatically."
+  },
+  {
+    "repo": "SkyBlue997/enableMacosAI",
+    "branch": "main",
+    "language": "Shell",
+    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
+  },
+  {
+    "repo": "Leonxlnx/lumenshaders",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
+  },
+  {
+    "repo": "Tencent-Hunyuan/UniRL",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+  },
+  {
+    "repo": "jose-90/Deltarune-Chapter5-Ultimate-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Complete Deltarune Chapter 5 trainer with infinite HP, max stats, unlimited items, and god mode. Dominate every battle and explore the full story with our undetected 2026 cheat tool."
+  },
+  {
+    "repo": "humblebanana/open-record-replay",
     "branch": "main",
     "language": "Swift",
-    "description": "Straightforward, type-safe argument parsing for Swift"
+    "description": "Open-source macOS record-and-replay workflow recorder for computer use agents. Captures mouse, keyboard, and UI events as structured traces so agents can learn, replay, and automate real desktop tasks."
   },
   {
-    "repo": "apollographql/apollo-client",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development."
-  },
-  {
-    "repo": "buildpacks/pack",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-python",
+    "repo": "Git-creat7/grokRegister-cpa",
     "branch": "main",
     "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
+    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
   },
   {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "golbin/hop",
+    "repo": "letorig/video-generator-client",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
+    "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI"
+  },
+  {
+    "repo": "newliver666/apk-reverse",
+    "branch": "main",
+    "language": "Python",
+    "description": "Suitable for Android APK reverse engineering analysis"
+  },
+  {
+    "repo": "Floxu1/UAC-SNI-Spoofer-Windows",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "filecoin-project/lotus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Reference implementation of the Filecoin protocol, written in Go"
-  },
-  {
-    "repo": "Doryoku1223/lunwen-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
-  },
-  {
-    "repo": "opidora2245/Skeetcc-CS2-Cheat-DMA-2026",
+    "repo": "KyThuatUAV/ESP32_FC",
     "branch": "main",
     "language": "C++",
-    "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification."
+    "description": "nghiên cứu và phát triển bộ điều khiển bay drone dựa trên esp32"
   },
   {
-    "repo": "google/jax",
+    "repo": "moguzbulbul/blueprint-animation",
     "branch": "main",
-    "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
-  },
-  {
-    "repo": "fafathops152/Pokemon-Pokopia-For-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Pokémon Pokopia For PC 2026 is the complete Windows edition of the beloved creature-collecting adventure game. Explore the beautiful Pokopia region, catch and train unique Pokémon, battle powerful trainers, and become the ultimate Champion. Now fully playable on PC with enhanced graphics, smooth performance"
-  },
-  {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
-  },
-  {
-    "repo": "j3h4ck/PoisonKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
-  },
-  {
-    "repo": "AFahim02/House-Flipper-2-Multiplayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
+    "language": "JavaScript",
+    "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "seedds/nxnative",
+  "repo": "SebasKitten/Grand-V",
   "branch": "main",
-  "language": "C",
-  "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
-  "stars": 351,
-  "forks": 91
+  "language": "Rust",
+  "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
+  "stars": 289,
+  "forks": 62
 }
