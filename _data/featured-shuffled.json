@@ -1,146 +1,146 @@
 [
   {
-    "repo": "portainer/portainer",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Making Docker and Kubernetes management easy."
-  },
-  {
-    "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "repo": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
     "branch": "main",
-    "language": "HTML",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects."
+    "language": "C#",
+    "description": "dsx steam dualsensex download free ps5 dualsens controller pc adaptive triggers haptic feedback ds4windows emulation windows 11 fix 2026"
   },
   {
-    "repo": "ZCodium-project/ZCodium",
+    "repo": "lsm1103/CC",
     "branch": "main",
     "language": "TypeScript",
-    "description": "ZCodium，Independent audit fork of ZCode (ZCode → ZCodium). All monitoring and telemetry removed; upstream commits reviewed one by one. ZCode 的独立审计分支（ZCode → ZCodium）：已移除监控与遥测，上游改动逐提交审阅。"
+    "description": ""
   },
   {
-    "repo": "bussnessman8/youtube-dl-frontend-lite",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best YouTube Video & Audio Saver Tool 2026 for PC"
-  },
-  {
-    "repo": "mistydew/tokenicode-deepseek-alpha",
+    "repo": "vercel/serve",
     "branch": "main",
     "language": "TypeScript",
-    "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
+    "description": "Static file serving and directory listing"
   },
   {
-    "repo": "jgallego001/Hex_Editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "View and edit raw binary data with a powerful hex editor. Search, replace, modify bytes, and parse data structures. Essential for reverse engineering and debugging."
-  },
-  {
-    "repo": "Asosa809/File_Recovery_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use."
-  },
-  {
-    "repo": "UGELSbba/File_Type_Detective",
-    "branch": "main",
-    "language": "Python",
-    "description": "Identify file types by analyzing their signatures (magic bytes). Useful for unknown or corrupted files. Show extension and MIME type."
-  },
-  {
-    "repo": "shivaansh0610-LUFFY/Group_Policy_Editor__GUI_",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graphical interface for Windows Group Policy settings. Easily enable/disable policies without digging through the registry. Great for system admins."
-  },
-  {
-    "repo": "awaisaleem1/Mass_Effect_Legendary_Edition_Unlimited_Credits",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited credits, skill points, and all weapons for Mass Effect LE. God mode, infinite ammo, and max paragon/renegade."
-  },
-  {
-    "repo": "FractalFir/crustc",
-    "branch": "main",
-    "language": "C",
-    "description": "Entirety of `rustc`, translated to C."
-  },
-  {
-    "repo": "Vimal-Balaji/Hide_And_Seek_Extreme_-_Auto-Hide___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-hide and ESP for Hide And Seek Extreme, the classic hide and seek game[reference:51]. Find the best hiding spots, see seekers through walls, and win every round."
-  },
-  {
-    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
-  },
-  {
-    "repo": "JokiTsien/App_Store_Play_Store_Review_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility."
-  },
-  {
-    "repo": "Narankhuu1/Audio_Normalizer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Normalize audio volume across multiple files to the same level. Reduce loudness variation for albums or playlists."
-  },
-  {
-    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
-  },
-  {
-    "repo": "TianhangZhuzth/Fundamental-Ava",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
-  },
-  {
-    "repo": "Selva-rc/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "AbishakeC/Escape_from_Tarkov_ESP___Radar",
-    "branch": "main",
-    "language": "Python",
-    "description": "ESP and radar hack for Escape from Tarkov. See players, loot, and exits through walls. Avoid ambushes and extract successfully."
-  },
-  {
-    "repo": "LewdM3at/PC-Cartridge-System",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
-  },
-  {
-    "repo": "lopopolo/harness-engineering",
-    "branch": "trunk",
-    "language": "Python",
-    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
-  },
-  {
-    "repo": "zhaixiansen1023-cpu/QR_Code_Scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scan QR codes and barcodes from images, webcam, or screenshots. Decode instantly and copy to clipboard."
-  },
-  {
-    "repo": "theswerd/brainless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code, Codex, and Grok interfaces as shadcn components"
-  },
-  {
-    "repo": "nethical6/conversation-steganography",
+    "repo": "cloudwego/hertz",
     "branch": "main",
     "language": "Go",
-    "description": "Use LLMS to hide secret messages inside normal-looking chat text"
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+  },
+  {
+    "repo": "jshachm/chronoh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+  },
+  {
+    "repo": "Gustavo1900/bevy-atmosphere",
+    "branch": "master",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "Tencent/wepy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "小程序组件化开发框架"
+  },
+  {
+    "repo": "maybe-finance/maybe",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+  },
+  {
+    "repo": "h4ckf0r0day/obscura",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The headless browser for AI agents and web scraping"
+  },
+  {
+    "repo": "future-agi/future-agi",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "repo": "pagel-s/termcraft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Terminal-only 2D sandbox survival in Rust."
+  },
+  {
+    "repo": "Barath19/Boxer3D",
+    "branch": "main",
+    "language": "Swift",
+    "description": "AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting"
+  },
+  {
+    "repo": "brunch/brunch",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🍴 Web applications made easy. Since 2011."
+  },
+  {
+    "repo": "haydenbleasel/files-sdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
+  },
+  {
+    "repo": "iamlukethedev/Claw3D",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications."
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+  },
+  {
+    "repo": "flame-engine/flame",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
+  },
+  {
+    "repo": "KlingAIResearch/X-Dub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
+  },
+  {
+    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Visual Dexscreener terminal CLI + MCP scanner"
+  },
+  {
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "branch": "master",
+    "language": "Python",
+    "description": "All Algorithms implemented in Python"
+  },
+  {
+    "repo": "EveryInc/proof-sdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
   }
 ]
