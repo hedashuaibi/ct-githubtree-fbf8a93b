@@ -1,146 +1,146 @@
 [
   {
-    "repo": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
+    "repo": "prisma/prisma",
     "branch": "main",
-    "language": "C#",
-    "description": "dsx steam dualsensex download free ps5 dualsens controller pc adaptive triggers haptic feedback ds4windows emulation windows 11 fix 2026"
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
   },
   {
-    "repo": "lsm1103/CC",
+    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate auto farm trainer for Pet Simulator 99 - automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
+  },
+  {
+    "repo": "m1heng/clawdbot-feishu",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
-  },
-  {
-    "repo": "cloudwego/hertz",
+    "repo": "jaegertracing/jaeger",
     "branch": "main",
     "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
   },
   {
-    "repo": "hashicorp/terraform",
+    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
     "branch": "main",
-    "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
   },
   {
-    "repo": "jshachm/chronoh",
-    "branch": "main",
-    "language": "Rust",
-    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
-  },
-  {
-    "repo": "Gustavo1900/bevy-atmosphere",
+    "repo": "optuna/optuna",
     "branch": "master",
-    "language": "Rust",
-    "description": ""
+    "language": "Python",
+    "description": "A hyperparameter optimization framework"
   },
   {
-    "repo": "Tencent/wepy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "小程序组件化开发框架"
-  },
-  {
-    "repo": "maybe-finance/maybe",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "The personal finance app for everyone"
-  },
-  {
-    "repo": "pandas-dev/pandas",
+    "repo": "microsoft/cascadia-code",
     "branch": "main",
     "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
   },
   {
-    "repo": "h4ckf0r0day/obscura",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The headless browser for AI agents and web scraping"
-  },
-  {
-    "repo": "future-agi/future-agi",
+    "repo": "freestylefly/wechat-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
   },
   {
-    "repo": "pagel-s/termcraft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Terminal-only 2D sandbox survival in Rust."
+    "repo": "tqdm/tqdm",
+    "branch": "master",
+    "language": "Python",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
   },
   {
-    "repo": "Barath19/Boxer3D",
+    "repo": "apple/swift-argument-parser",
     "branch": "main",
     "language": "Swift",
-    "description": "AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting"
+    "description": "Straightforward, type-safe argument parsing for Swift"
   },
   {
-    "repo": "brunch/brunch",
+    "repo": "apollographql/apollo-client",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development."
+  },
+  {
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenTelemetry Python API and SDK"
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
   },
   {
-    "repo": "haydenbleasel/files-sdk",
+    "repo": "golbin/hop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
+    "description": ""
   },
   {
-    "repo": "iamlukethedev/Claw3D",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications."
-  },
-  {
-    "repo": "jayminwest/overstory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
-  },
-  {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "KlingAIResearch/X-Dub",
+    "repo": "filecoin-project/lotus",
     "branch": "master",
-    "language": "Python",
-    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
+    "language": "Go",
+    "description": "Reference implementation of the Filecoin protocol, written in Go"
   },
   {
-    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
+    "repo": "Doryoku1223/lunwen-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Visual Dexscreener terminal CLI + MCP scanner"
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
   },
   {
-    "repo": "timuronlinq/messari-crack",
+    "repo": "opidora2245/Skeetcc-CS2-Cheat-DMA-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification."
+  },
+  {
+    "repo": "google/jax",
     "branch": "main",
     "language": "Python",
-    "description": "Messari crack"
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
   },
   {
-    "repo": "TheAlgorithms/Python",
-    "branch": "master",
-    "language": "Python",
-    "description": "All Algorithms implemented in Python"
-  },
-  {
-    "repo": "EveryInc/proof-sdk",
+    "repo": "fafathops152/Pokemon-Pokopia-For-PC",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+    "language": "C++",
+    "description": "Pokémon Pokopia For PC 2026 is the complete Windows edition of the beloved creature-collecting adventure game. Explore the beautiful Pokopia region, catch and train unique Pokémon, battle powerful trainers, and become the ultimate Champion. Now fully playable on PC with enhanced graphics, smooth performance"
+  },
+  {
+    "repo": "DoomVoss/BASpark",
+    "branch": "main",
+    "language": "C#",
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+  },
+  {
+    "repo": "j3h4ck/PoisonKiller",
+    "branch": "main",
+    "language": "C++",
+    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
+  },
+  {
+    "repo": "AFahim02/House-Flipper-2-Multiplayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
   }
 ]
