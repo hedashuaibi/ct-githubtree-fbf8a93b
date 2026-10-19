@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kerpopule/hermes-jev-skills",
+    "repo": "nyblnet/bento",
     "branch": "main",
-    "language": "Python",
-    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)"
-  },
-  {
-    "repo": "Code-Leafy/G2rayXCodeLeafy",
-    "branch": "main",
-    "language": "Shell",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "dongshuyan/compass-skills",
-    "branch": "master",
-    "language": "Python",
-    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents"
-  },
-  {
-    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
-  },
-  {
-    "repo": "disintegr8te/teams-policy-export",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "PowerShell tool to export Microsoft Teams policies and generate stakeholder decision workbooks"
-  },
-  {
-    "repo": "cclank/x-algorithm-wiki",
+    "repo": "aref-vc/tufte-claude-skill",
     "branch": "main",
     "language": "HTML",
-    "description": "Architecture wiki for the open-sourced X For You recommendation algorithm (xai-org/x-algorithm) — 21 source-anchored pages"
+    "description": "Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books."
   },
   {
-    "repo": "sweriko/ai4anim-webgpu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
-  },
-  {
-    "repo": "uluckyXH/OpenMOSS",
+    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
     "branch": "main",
     "language": "Python",
-    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
   },
   {
-    "repo": "buynao/aipath",
+    "repo": "murkantor/Project-Midas",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+    "language": "C",
+    "description": "PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development."
   },
   {
-    "repo": "filecoin-project/lotus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Reference implementation of the Filecoin protocol, written in Go"
-  },
-  {
-    "repo": "YangyangQu/research-idea-scout",
+    "repo": "sander110419/lightroom-cc-on-linux",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "C",
+    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
   },
   {
-    "repo": "duckdb/duckdb",
+    "repo": "pedrodg28/yuzu-emu",
     "branch": "main",
     "language": "C++",
-    "description": "DuckDB is an analytical in-process SQL database management system"
+    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix."
   },
   {
-    "repo": "tamnd/kage",
+    "repo": "nekename/emergent",
     "branch": "main",
-    "language": "Go",
-    "description": "Shadow any website for offline viewing, with the JavaScript stripped out"
+    "language": "Svelte",
+    "description": "Emergent is an open-source web-based game engine and editor."
   },
   {
-    "repo": "leaked-claude-code/leaked-claude-code",
+    "repo": "danking6/veltoc",
+    "branch": "main",
+    "language": "C++",
+    "description": "Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an E-Ink display. It can monitor temperature, humidity and air pressure. Connect to wifi to also display the current time."
+  },
+  {
+    "repo": "FerroxLabs/wayland",
     "branch": "main",
     "language": "TypeScript",
-    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
+    "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
   },
   {
-    "repo": "quoroom-ai/room",
+    "repo": "Signal-Probability-Engine/weather-prediction",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet."
+    "description": "Polymarket weather trading bot Polymarket weather trading bot Polymarket weather trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot"
   },
   {
-    "repo": "libressl/portable",
-    "branch": "master",
-    "language": "C",
-    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
-  },
-  {
-    "repo": "AIchovy/vibe-observer",
+    "repo": "onfable/onfable",
     "branch": "main",
-    "language": "Rust",
-    "description": "Claude Code Tracer & Observer"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "Tyxy-R/codex-referral-risk-research",
+    "repo": "synacktiv/DCOMIllusionist",
+    "branch": "main",
+    "language": "C#",
+    "description": "DCOM in memory and fileless lateral movement techniques through .Net deserilization"
+  },
+  {
+    "repo": "tiantianGPU/reg-factory",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "microsoft/autogen",
+    "repo": "LUPUL64348/NTE-cheat",
+    "branch": "main",
+    "language": "C#",
+    "description": "nte Neverness To Everness cheat download pc auto fish ray tracing bot teleport esp speedhack  macro script unlocker config windows 11"
+  },
+  {
+    "repo": "XBuilderLAB/cheat-on-money",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
+  },
+  {
+    "repo": "ApodexAI/AgentHarness",
     "branch": "main",
     "language": "Python",
-    "description": "A programming framework for agentic AI"
+    "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks."
   },
   {
-    "repo": "nicedreamzapp/claude-code-local",
-    "branch": "main",
-    "language": "Python",
-    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees."
-  },
-  {
-    "repo": "boogu-project/Boogu-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data."
-  },
-  {
-    "repo": "kdn251/interviews",
-    "branch": "master",
-    "language": "Java",
-    "description": "Everything you need to know to get the job."
-  },
-  {
-    "repo": "Polymarket-Trading-kit/sports-trading-bot",
+    "repo": "Houseofmvps/codesight",
     "branch": "main",
     "language": "TypeScript",
-    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
+    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+  },
+  {
+    "repo": "ronaldo-avalos/Maya",
+    "branch": "main",
+    "language": "Swift",
+    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
+  },
+  {
+    "repo": "kppox/video-frame-sampler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Content-aware frame sampling strategies for video-LLMs."
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "sablin39/tilelang-cuda-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skills for writing tilelang and debugging with CUDA toolkits."
+  },
+  {
+    "repo": "simonw/rodney",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for interacting with the web"
+  },
+  {
+    "repo": "kubeedge/kubeedge",
+    "branch": "master",
+    "language": "Go",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+  },
+  {
+    "repo": "0xSero/codex-shim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
   }
 ]

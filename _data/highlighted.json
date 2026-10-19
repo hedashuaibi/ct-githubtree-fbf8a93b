@@ -1,8 +1,8 @@
 {
-  "repo": "OverkillLabs3/driveclub-recomp",
+  "repo": "EL4CTEO/blender-skills",
   "branch": "main",
-  "language": "C++",
-  "description": "DriveClub (PS4, version 1.28) running natively on Windows",
-  "stars": 246,
-  "forks": 10
+  "language": "Python",
+  "description": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+  "stars": 250,
+  "forks": 28
 }
