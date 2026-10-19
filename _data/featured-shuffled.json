@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NullLatency/FlowDriver",
+    "repo": "kerpopule/hermes-jev-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)"
+  },
+  {
+    "repo": "Code-Leafy/G2rayXCodeLeafy",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "dongshuyan/compass-skills",
+    "branch": "master",
+    "language": "Python",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents"
+  },
+  {
+    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
+  },
+  {
+    "repo": "disintegr8te/teams-policy-export",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "PowerShell tool to export Microsoft Teams policies and generate stakeholder decision workbooks"
+  },
+  {
+    "repo": "cclank/x-algorithm-wiki",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Architecture wiki for the open-sourced X For You recommendation algorithm (xai-org/x-algorithm) — 21 source-anchored pages"
+  },
+  {
+    "repo": "sweriko/ai4anim-webgpu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "PMTraderAdam/500-per-day-polymarket-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "$500 Per Day Polymarket Trading Bot - PMTraderAdam"
+  },
+  {
+    "repo": "uluckyXH/OpenMOSS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+  },
+  {
+    "repo": "buynao/aipath",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+  },
+  {
+    "repo": "filecoin-project/lotus",
     "branch": "master",
     "language": "Go",
-    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
+    "description": "Reference implementation of the Filecoin protocol, written in Go"
   },
   {
-    "repo": "infinition/waveshare-watch-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
-  },
-  {
-    "repo": "kenowong/math-mastery",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "中小学数学方法融会贯通 · 纯前端零依赖 · 参数化随机出题引擎"
-  },
-  {
-    "repo": "jzOcb/writing-style-skill",
+    "repo": "YangyangQu/research-idea-scout",
     "branch": "main",
     "language": "Python",
-    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
+    "description": ""
   },
   {
-    "repo": "shenhao-stu/ohmycaptcha",
+    "repo": "duckdb/duckdb",
     "branch": "main",
-    "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+    "language": "C++",
+    "description": "DuckDB is an analytical in-process SQL database management system"
   },
   {
-    "repo": "NousResearch/hermes-agent-self-evolution",
+    "repo": "tamnd/kage",
     "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+    "language": "Go",
+    "description": "Shadow any website for offline viewing, with the JavaScript stripped out"
   },
   {
-    "repo": "xjtulyc/MedgeClaw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Medge AI X OpenClaw"
-  },
-  {
-    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
-  },
-  {
-    "repo": "Nuzair46/Monarch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Detach, restore, and switch monitor layouts without touching cables."
-  },
-  {
-    "repo": "Adityaraj0421/design-studio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
-  },
-  {
-    "repo": "Mouseww/anything-analyzer",
+    "repo": "leaked-claude-code/leaked-claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
+    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
   },
   {
-    "repo": "SentiAvatar/SentiAvatar",
+    "repo": "quoroom-ai/room",
     "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "sujitagarwal/multigravity-cli",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Run multiple Antigravity IDE profiles at the same time — each with its own accounts, settings, and extensions.  No more logging in and out. Just switch profiles instantly or use them all at once!"
-  },
-  {
-    "repo": "gorkem-bwl/animated-icons",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "KeyID-AI/sdk-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
-  },
-  {
-    "repo": "761696148/Game-Map-Tracker",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "alchaincyf/darwin-skill",
-    "branch": "master",
-    "language": "HTML",
-    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
-  },
-  {
-    "repo": "poshan0126/dotclaude",
-    "branch": "main",
-    "language": "Shell",
-    "description": "The standard .claude/  folder structure for everyday development."
-  },
-  {
-    "repo": "pithings/coderaft",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)"
-  },
-  {
-    "repo": "large-performance-model/large-performance-model.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "LPM 1.0: Video-based Character Performance Model"
-  },
-  {
-    "repo": "halfwhey/claudraband",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Claude Code for the Power User"
+    "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet."
   },
   {
-    "repo": "nagisanzenin/skyclaw",
+    "repo": "libressl/portable",
+    "branch": "master",
+    "language": "C",
+    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
+  },
+  {
+    "repo": "AIchovy/vibe-observer",
     "branch": "main",
     "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+    "description": "Claude Code Tracer & Observer"
   },
   {
-    "repo": "juntoku9/claude_immigration_attorney",
+    "repo": "Tyxy-R/codex-referral-risk-research",
     "branch": "main",
-    "language": "Shell",
-    "description": "Claude code environment for laywers"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "ynsmroztas/AndroHunter",
+    "repo": "microsoft/autogen",
     "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "nicedreamzapp/claude-code-local",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees."
+  },
+  {
+    "repo": "boogu-project/Boogu-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data."
+  },
+  {
+    "repo": "kdn251/interviews",
+    "branch": "master",
     "language": "Java",
-    "description": "AndroHunter"
+    "description": "Everything you need to know to get the job."
+  },
+  {
+    "repo": "Polymarket-Trading-kit/sports-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot on polymarket sports trading bot"
   }
 ]

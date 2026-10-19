@@ -1,8 +1,8 @@
 {
-  "repo": "reason-machines/reason-network",
+  "repo": "OverkillLabs3/driveclub-recomp",
   "branch": "main",
-  "language": "Rust",
-  "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-  "stars": 397,
-  "forks": 30
+  "language": "C++",
+  "description": "DriveClub (PS4, version 1.28) running natively on Windows",
+  "stars": 246,
+  "forks": 10
 }
