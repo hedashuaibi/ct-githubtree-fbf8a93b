@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nyblnet/bento",
+    "repo": "zhengzihaoPKU/KERV",
+    "branch": "master",
+    "language": "Python",
+    "description": "Code of paper KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models accepted by DAC 2026."
+  },
+  {
+    "repo": "badsectorlabs/copyfail-go",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "A Go implementation of copyfail (CVE-2026-31431)"
+  },
+  {
+    "repo": "Narcooo/inkos",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
+  },
+  {
+    "repo": "josephmisiti/awesome-machine-learning",
+    "branch": "master",
+    "language": "Python",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
   },
   {
-    "repo": "aref-vc/tufte-claude-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books."
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
+    "repo": "llmsresearch/paperbanana",
     "branch": "main",
     "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
   },
   {
-    "repo": "murkantor/Project-Midas",
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
     "branch": "main",
-    "language": "C",
-    "description": "PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development."
-  },
-  {
-    "repo": "sander110419/lightroom-cc-on-linux",
-    "branch": "main",
-    "language": "C",
-    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
-  },
-  {
-    "repo": "pedrodg28/yuzu-emu",
-    "branch": "main",
-    "language": "C++",
-    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix."
-  },
-  {
-    "repo": "nekename/emergent",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "Emergent is an open-source web-based game engine and editor."
-  },
-  {
-    "repo": "danking6/veltoc",
-    "branch": "main",
-    "language": "C++",
-    "description": "Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an E-Ink display. It can monitor temperature, humidity and air pressure. Connect to wifi to also display the current time."
-  },
-  {
-    "repo": "FerroxLabs/wayland",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
-  },
-  {
-    "repo": "Signal-Probability-Engine/weather-prediction",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket weather trading bot Polymarket weather trading bot Polymarket weather trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot"
-  },
-  {
-    "repo": "onfable/onfable",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Dart",
     "description": ""
   },
   {
-    "repo": "synacktiv/DCOMIllusionist",
-    "branch": "main",
-    "language": "C#",
-    "description": "DCOM in memory and fileless lateral movement techniques through .Net deserilization"
-  },
-  {
-    "repo": "tiantianGPU/reg-factory",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "LUPUL64348/NTE-cheat",
-    "branch": "main",
-    "language": "C#",
-    "description": "nte Neverness To Everness cheat download pc auto fish ray tracing bot teleport esp speedhack  macro script unlocker config windows 11"
-  },
-  {
-    "repo": "XBuilderLAB/cheat-on-money",
-    "branch": "main",
+    "repo": "pugjs/pug",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
+    "description": "Pug – robust, elegant, feature rich template engine for Node.js"
   },
   {
-    "repo": "ApodexAI/AgentHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks."
-  },
-  {
-    "repo": "Houseofmvps/codesight",
+    "repo": "sass/sass",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+    "description": "Sass makes CSS fun!"
   },
   {
-    "repo": "ronaldo-avalos/Maya",
+    "repo": "tvytlx/ai-agent-deep-dive",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Agent 源码深度研究报告"
+  },
+  {
+    "repo": "Percepta-Core/transformer-vm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+  },
+  {
+    "repo": "EthanLipnik/Loom",
     "branch": "main",
     "language": "Swift",
-    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
+    "description": "Easy peer to peer networking for Apple devices"
   },
   {
-    "repo": "kppox/video-frame-sampler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Content-aware frame sampling strategies for video-LLMs."
-  },
-  {
-    "repo": "projectdiscovery/nuclei",
+    "repo": "prompt-toolkit/python-prompt-toolkit",
     "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "sablin39/tilelang-cuda-skills",
-    "branch": "main",
     "language": "Python",
-    "description": "Skills for writing tilelang and debugging with CUDA toolkits."
+    "description": "Library for building powerful interactive command line applications in Python"
   },
   {
-    "repo": "simonw/rodney",
+    "repo": "actions/runner-images",
     "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for interacting with the web"
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
   },
   {
-    "repo": "kubeedge/kubeedge",
+    "repo": "es617/claude-replay",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays"
+  },
+  {
+    "repo": "goldbergyoni/nodebestpractices",
     "branch": "master",
-    "language": "Go",
-    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+    "language": "Dockerfile",
+    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
   },
   {
-    "repo": "0xSero/codex-shim",
+    "repo": "fjh1997/Linux.do-Accelerator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
+  },
+  {
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+  },
+  {
+    "repo": "wangziqi06/724-office",
+    "branch": "master",
+    "language": "Python",
+    "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
+  },
+  {
+    "repo": "PyCQA/bandit",
     "branch": "main",
     "language": "Python",
-    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
+    "description": "Bandit is a tool designed to find common security issues in Python code."
+  },
+  {
+    "repo": "JudyaiLab/ai-night-shift",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+  },
+  {
+    "repo": "Veirt/weathr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a terminal weather app with ascii animation"
+  },
+  {
+    "repo": "rawwerks/ypi",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A recursive coding agent inpired by RLMs"
+  },
+  {
+    "repo": "juliye2025/evil-read-arxiv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code+Obsidian，邪修读论文就是快"
   }
 ]
