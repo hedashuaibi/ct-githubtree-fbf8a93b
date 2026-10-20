@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ai-twinkle/rlhf-book-zh-tw",
+    "repo": "n0de-sudo/Cloudflare-Tools",
     "branch": "main",
-    "language": "HTML",
-    "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs"
+    "language": "Batchfile",
+    "description": "Cloudflare WARP代理节点的一些工具。"
   },
   {
-    "repo": "onehumanbeing/esp32-iphone-agent",
+    "repo": "openai/NavierStokesAndEuler",
+    "branch": "main",
+    "language": "Lean",
+    "description": "Lean certificates accompanying Navier-Stokes and Euler results"
+  },
+  {
+    "repo": "MariusOTB/OpenTrade-Agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source trading harness for agents"
+  },
+  {
+    "repo": "Tencent/WeMM-Embedding",
     "branch": "main",
     "language": "Python",
-    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval."
   },
   {
-    "repo": "htooayelwinict/Agentic-AI-Book",
+    "repo": "programasweights/claudish",
+    "branch": "main",
+    "language": "Python",
+    "description": "Translate between English and Claudish with tiny ProgramAsWeights functions."
+  },
+  {
+    "repo": "storytold/deckcraft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps."
+  },
+  {
+    "repo": "shadcn-ui/cn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster."
+  },
+  {
+    "repo": "inclusionAI/LLaDA-Image",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Tong89/smartNode",
+    "repo": "liyue-aigc/seedance-2-5-video-director",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导"
   },
   {
-    "repo": "IRNova/NovaRadar",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group."
-  },
-  {
-    "repo": "tony-cote/walletgen",
-    "branch": "main",
-    "language": "C++",
-    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
-  },
-  {
-    "repo": "fristork/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
-  },
-  {
-    "repo": "zarazhangrui/beautiful-feishu-whiteboard",
-    "branch": "main",
-    "language": "Shell",
-    "description": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill."
-  },
-  {
-    "repo": "joeseesun/qiaomu-artist-style",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "zigabratun/Umbrella-HWID-Tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
-  },
-  {
-    "repo": "Glazenovatag/hyperliquid-whale-order-tracking",
+    "repo": "itshen/source-reading-methodology",
     "branch": "main",
     "language": "Python",
-    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live."
+    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行"
   },
   {
-    "repo": "chefkannofriend-source/mbbb-baker-agent",
+    "repo": "richiemcilroy/chippytea",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+    "language": "Rust",
+    "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust."
   },
   {
-    "repo": "cclank/x-algorithm-wiki",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Architecture wiki for the open-sourced X For You recommendation algorithm (xai-org/x-algorithm) — 21 source-anchored pages"
-  },
-  {
-    "repo": "Brandon030722/ark-ui-skill",
-    "branch": "main",
-    "language": "CSS",
-    "description": "Evidence-based Codex skill for five Ark-adjacent UI families and four application depths"
-  },
-  {
-    "repo": "ShinyaTomitsuka/arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
-  },
-  {
-    "repo": "KillerM1000/MedDev-Forecast-Infra",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Supply Chain Forecast Accuracy 2026: MAPE, Bias & FVA Dashboard"
-  },
-  {
-    "repo": "Qwilxy/paralives-release",
-    "branch": "main",
-    "language": "C#",
-    "description": "paralives release date early access steam download pc windows 11 gameplay trailer paramaker life simulation sims alternative free updates system requirements character creator build mode"
-  },
-  {
-    "repo": "jevispourmoi/Hearts_of_Iron_IV_Unlimited_Resources",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited resources, instant research, and god mode for Hearts of Iron IV. Never run out of oil, steel, or rubber. Win WWII instantly."
-  },
-  {
-    "repo": "pood1e/wa-app",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "233i/ore-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "DeepSeek-first desktop coding agent workbench"
-  },
-  {
-    "repo": "amiralibg/unstream",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "paste a Spotify / Deezer / Apple Music / YouTube / SoundCloud track, album or playlist URL — or search every catalog at once — and get tagged mp3 files. No accounts, no API keys, nothing paid."
-  },
-  {
-    "repo": "xt4d/GameBlocks",
+    "repo": "niawjunior/aipass-bridge",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
+    "description": "make aipass great again"
   },
   {
-    "repo": "MirroS-Lab/HarnessEval-W",
+    "repo": "siknet/FreePEP",
     "branch": "main",
     "language": "Python",
-    "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds"
+    "description": "人教社电子教材下载器"
   },
   {
-    "repo": "Akash123201akashp/Stock_Market_Scanner",
+    "repo": "PhiloLabs/fable51-worlds",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "worlds via code, from fable 5.1"
+  },
+  {
+    "repo": "fanhao375/microduck-replica",
+    "branch": "master",
+    "language": "Python",
+    "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck"
+  },
+  {
+    "repo": "AlLHHH/ALH-Pro",
+    "branch": "main",
+    "language": "C#",
+    "description": "图片视频等增强工具"
+  },
+  {
+    "repo": "spring-guides/gs-spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
+  },
+  {
+    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
+  },
+  {
+    "repo": "coleam00/ai-software-factory",
     "branch": "main",
     "language": "Python",
-    "description": "Real-time stock scanner with alerts and auto-buy triggers. Find breakout stocks, price alerts, buy when conditions met, and test strategies. Trade smarter."
+    "description": "A repository that ships without anyone reading the diff: GitHub issues in, merged pull requests out, with the gates that make that defensible."
+  },
+  {
+    "repo": "kharmanskyi/open-steps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT."
+  },
+  {
+    "repo": "1bananachicken/MaaNTE",
+    "branch": "main",
+    "language": "Python",
+    "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319"
+  },
+  {
+    "repo": "Belucking/HashBazaar",
+    "branch": "main",
+    "language": "Python",
+    "description": "HashBazaar is a distributed, intelligent data processing framework that auto-scaling for dynamic workload management on a scalable platform."
+  },
+  {
+    "repo": "ahujasid/camera-to-blender",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Take a photo of real objects, and paste them in Blender"
+  },
+  {
+    "repo": "jundizhou/easy-stock",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
   }
 ]
