@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Happy-Chen-CH/Educational_RAG_System",
+    "repo": "ai-twinkle/rlhf-book-zh-tw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs"
+  },
+  {
+    "repo": "onehumanbeing/esp32-iphone-agent",
     "branch": "main",
     "language": "Python",
-    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中"
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
   },
   {
-    "repo": "zimingttkx/QuantumFlow",
+    "repo": "htooayelwinict/Agentic-AI-Book",
     "branch": "main",
     "language": "Python",
-    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+    "description": ""
   },
   {
-    "repo": "bennjordan/Wavest",
+    "repo": "Tong89/smartNode",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "yapeth/MaaNTE",
+    "repo": "IRNova/NovaRadar",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "maante neverness to everness nte automation assistant maa framework github download free bot auto fishing skip dialogue daily rewards windows 11 MaaNTE 异环小助手，由 MAAFramework 强力驱动！QQ交流群: 713114598"
+    "language": "Go",
+    "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group."
   },
   {
-    "repo": "VAENPP/solana-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
-  },
-  {
-    "repo": "Bhojendra-dev/LSFG-Desktop",
+    "repo": "tony-cote/walletgen",
     "branch": "main",
     "language": "C++",
-    "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup"
+    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
   },
   {
-    "repo": "tools-lua/steam-tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。"
-  },
-  {
-    "repo": "HeroicLauncher/HeroicGamesLauncher",
+    "repo": "fristork/hyperliquid-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
+    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
   },
   {
-    "repo": "yeet-src/sigwire",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR."
-  },
-  {
-    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
+    "repo": "zarazhangrui/beautiful-feishu-whiteboard",
     "branch": "main",
-    "language": "Python",
-    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
+    "language": "Shell",
+    "description": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill."
   },
   {
-    "repo": "Vincentwei1021/video-shotcraft",
+    "repo": "joeseesun/qiaomu-artist-style",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
-  },
-  {
-    "repo": "stephenlthorn/auto-identity-remove",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule"
-  },
-  {
-    "repo": "flaviodesa/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "hallieongibson4690/R6S-D-M-A-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive open-source framework for analyzing Rainbow Six Siege game mechanics, operator interactions, and developing advanced defensive strategies."
-  },
-  {
-    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
-  },
-  {
-    "repo": "kitlangton/terminal-control",
-    "branch": "main",
-    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "thesysdev/appless",
+    "repo": "zigabratun/Umbrella-HWID-Tool",
     "branch": "main",
     "language": "TypeScript",
-    "description": "What if your phone had no apps"
+    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
   },
   {
-    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "repo": "Glazenovatag/hyperliquid-whale-order-tracking",
     "branch": "main",
     "language": "Python",
-    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live."
   },
   {
-    "repo": "iamumeransari/claude-show-your-work",
+    "repo": "chefkannofriend-source/mbbb-baker-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+  },
+  {
+    "repo": "cclank/x-algorithm-wiki",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Architecture wiki for the open-sourced X For You recommendation algorithm (xai-org/x-algorithm) — 21 source-anchored pages"
+  },
+  {
+    "repo": "Brandon030722/ark-ui-skill",
+    "branch": "main",
+    "language": "CSS",
+    "description": "Evidence-based Codex skill for five Ark-adjacent UI families and four application depths"
+  },
+  {
+    "repo": "ShinyaTomitsuka/arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code shows images and plays videos right in your terminal: screenshots, Playwright recordings, and synced before/after QA. Ghostty & kitty."
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
   },
   {
-    "repo": "asistentededireccion-cmd/Doors_-_Auto-Survive___ESP",
+    "repo": "KillerM1000/MedDev-Forecast-Infra",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Supply Chain Forecast Accuracy 2026: MAPE, Bias & FVA Dashboard"
+  },
+  {
+    "repo": "Qwilxy/paralives-release",
+    "branch": "main",
+    "language": "C#",
+    "description": "paralives release date early access steam download pc windows 11 gameplay trailer paramaker life simulation sims alternative free updates system requirements character creator build mode"
+  },
+  {
+    "repo": "jevispourmoi/Hearts_of_Iron_IV_Unlimited_Resources",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-survive and ESP for Doors, the horror game with daily runs. See all entities through walls, auto-heal, and survive every floor."
+    "description": "Unlimited resources, instant research, and god mode for Hearts of Iron IV. Never run out of oil, steel, or rubber. Win WWII instantly."
   },
   {
-    "repo": "quarqlabs/agent-oss",
+    "repo": "pood1e/wa-app",
     "branch": "main",
-    "language": "Python",
-    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "MarvinSchwaibold/mri-grid-viewer",
+    "repo": "233i/ore-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "DeepSeek-first desktop coding agent workbench"
+  },
+  {
+    "repo": "amiralibg/unstream",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "paste a Spotify / Deezer / Apple Music / YouTube / SoundCloud track, album or playlist URL — or search every catalog at once — and get tagged mp3 files. No accounts, no API keys, nothing paid."
+  },
+  {
+    "repo": "xt4d/GameBlocks",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
+    "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
   },
   {
-    "repo": "zjp1997720/codex-model-routing-team",
+    "repo": "MirroS-Lab/HarnessEval-W",
     "branch": "main",
     "language": "Python",
-    "description": "Route complex Codex tasks to model-specific background workers with bounded concurrency and lead-agent verification."
+    "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds"
   },
   {
-    "repo": "cursor/minisqlite",
+    "repo": "Akash123201akashp/Stock_Market_Scanner",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "Python",
+    "description": "Real-time stock scanner with alerts and auto-buy triggers. Find breakout stocks, price alerts, buy when conditions met, and test strategies. Trade smarter."
   }
 ]

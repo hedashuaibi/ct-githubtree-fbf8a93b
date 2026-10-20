@@ -1,8 +1,8 @@
 {
-  "repo": "soumatheusgomes/editonny",
+  "repo": "Agent2API/agent2api",
   "branch": "main",
-  "language": "Python",
-  "description": "Local video editing through conversation. Created by Matheus Gomes.",
-  "stars": 224,
-  "forks": 17
+  "language": "Rust",
+  "description": "Agent2API - 多提供商本地网关：把 WorkBuddy / 小浣熊 / CatPaw / AutoClaw 等客户端登录态包装成 OpenAI 兼容接口，附带账号管理、出站指纹脱敏与请求报表",
+  "stars": 0,
+  "forks": 0
 }
