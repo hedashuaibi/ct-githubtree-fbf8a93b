@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zhengzihaoPKU/KERV",
-    "branch": "master",
-    "language": "Python",
-    "description": "Code of paper KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models accepted by DAC 2026."
-  },
-  {
-    "repo": "badsectorlabs/copyfail-go",
+    "repo": "Happy-Chen-CH/Educational_RAG_System",
     "branch": "main",
-    "language": "Assembly",
-    "description": "A Go implementation of copyfail (CVE-2026-31431)"
-  },
-  {
-    "repo": "Narcooo/inkos",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
-  },
-  {
-    "repo": "josephmisiti/awesome-machine-learning",
-    "branch": "master",
     "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中"
   },
   {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
+    "repo": "zimingttkx/QuantumFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+  },
+  {
+    "repo": "bennjordan/Wavest",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption."
+  },
+  {
+    "repo": "yapeth/MaaNTE",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+    "description": "maante neverness to everness nte automation assistant maa framework github download free bot auto fishing skip dialogue daily rewards windows 11 MaaNTE 异环小助手，由 MAAFramework 强力驱动！QQ交流群: 713114598"
   },
   {
-    "repo": "llmsresearch/paperbanana",
+    "repo": "VAENPP/solana-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
+  },
+  {
+    "repo": "Bhojendra-dev/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup"
+  },
+  {
+    "repo": "tools-lua/steam-tools",
+    "branch": "main",
+    "language": "C#",
+    "description": "steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。"
+  },
+  {
+    "repo": "HeroicLauncher/HeroicGamesLauncher",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
+  },
+  {
+    "repo": "yeet-src/sigwire",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR."
+  },
+  {
+    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
   },
   {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "repo": "Vincentwei1021/video-shotcraft",
     "branch": "main",
-    "language": "Dart",
+    "language": "TypeScript",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
+  },
+  {
+    "repo": "stephenlthorn/auto-identity-remove",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule"
+  },
+  {
+    "repo": "flaviodesa/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "hallieongibson4690/R6S-D-M-A-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A comprehensive open-source framework for analyzing Rainbow Six Siege game mechanics, operator interactions, and developing advanced defensive strategies."
+  },
+  {
+    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
+  },
+  {
+    "repo": "kitlangton/terminal-control",
+    "branch": "main",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "pugjs/pug",
-    "branch": "master",
+    "repo": "thesysdev/appless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "What if your phone had no apps"
+  },
+  {
+    "repo": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+  },
+  {
+    "repo": "iamumeransari/claude-show-your-work",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code shows images and plays videos right in your terminal: screenshots, Playwright recordings, and synced before/after QA. Ghostty & kitty."
+  },
+  {
+    "repo": "asistentededireccion-cmd/Doors_-_Auto-Survive___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-survive and ESP for Doors, the horror game with daily runs. See all entities through walls, auto-heal, and survive every floor."
+  },
+  {
+    "repo": "quarqlabs/agent-oss",
+    "branch": "main",
+    "language": "Python",
+    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
+  },
+  {
+    "repo": "MarvinSchwaibold/mri-grid-viewer",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Pug – robust, elegant, feature rich template engine for Node.js"
+    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
   },
   {
-    "repo": "sass/sass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sass makes CSS fun!"
-  },
-  {
-    "repo": "tvytlx/ai-agent-deep-dive",
+    "repo": "zjp1997720/codex-model-routing-team",
     "branch": "main",
     "language": "Python",
-    "description": "AI Agent 源码深度研究报告"
+    "description": "Route complex Codex tasks to model-specific background workers with bounded concurrency and lead-agent verification."
   },
   {
-    "repo": "Percepta-Core/transformer-vm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
-  },
-  {
-    "repo": "EthanLipnik/Loom",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
-  },
-  {
-    "repo": "prompt-toolkit/python-prompt-toolkit",
-    "branch": "master",
-    "language": "Python",
-    "description": "Library for building powerful interactive command line applications in Python"
-  },
-  {
-    "repo": "actions/runner-images",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "es617/claude-replay",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays"
-  },
-  {
-    "repo": "goldbergyoni/nodebestpractices",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
-  },
-  {
-    "repo": "fjh1997/Linux.do-Accelerator",
+    "repo": "cursor/minisqlite",
     "branch": "main",
     "language": "Rust",
-    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "wangziqi06/724-office",
-    "branch": "master",
-    "language": "Python",
-    "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
-  },
-  {
-    "repo": "PyCQA/bandit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bandit is a tool designed to find common security issues in Python code."
-  },
-  {
-    "repo": "JudyaiLab/ai-night-shift",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
-  },
-  {
-    "repo": "Veirt/weathr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
-  },
-  {
-    "repo": "rawwerks/ypi",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A recursive coding agent inpired by RLMs"
-  },
-  {
-    "repo": "juliye2025/evil-read-arxiv",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code+Obsidian，邪修读论文就是快"
+    "description": ""
   }
 ]
