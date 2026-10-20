@@ -1,146 +1,146 @@
 [
   {
-    "repo": "n0de-sudo/Cloudflare-Tools",
-    "branch": "main",
-    "language": "Batchfile",
-    "description": "Cloudflare WARP代理节点的一些工具。"
-  },
-  {
-    "repo": "openai/NavierStokesAndEuler",
-    "branch": "main",
-    "language": "Lean",
-    "description": "Lean certificates accompanying Navier-Stokes and Euler results"
-  },
-  {
-    "repo": "MariusOTB/OpenTrade-Agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source trading harness for agents"
-  },
-  {
-    "repo": "Tencent/WeMM-Embedding",
-    "branch": "main",
-    "language": "Python",
-    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval."
-  },
-  {
-    "repo": "programasweights/claudish",
-    "branch": "main",
-    "language": "Python",
-    "description": "Translate between English and Claudish with tiny ProgramAsWeights functions."
-  },
-  {
-    "repo": "storytold/deckcraft",
+    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
     "branch": "main",
     "language": "Rust",
-    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps."
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
   },
   {
-    "repo": "shadcn-ui/cn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster."
-  },
-  {
-    "repo": "inclusionAI/LLaDA-Image",
+    "repo": "Parcle-AI/parcle-memory",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "liyue-aigc/seedance-2-5-video-director",
-    "branch": "main",
-    "language": "Python",
-    "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导"
-  },
-  {
-    "repo": "itshen/source-reading-methodology",
-    "branch": "main",
-    "language": "Python",
-    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行"
-  },
-  {
-    "repo": "richiemcilroy/chippytea",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust."
-  },
-  {
-    "repo": "niawjunior/aipass-bridge",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "make aipass great again"
-  },
-  {
-    "repo": "siknet/FreePEP",
-    "branch": "main",
-    "language": "Python",
-    "description": "人教社电子教材下载器"
-  },
-  {
-    "repo": "PhiloLabs/fable51-worlds",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "worlds via code, from fable 5.1"
-  },
-  {
-    "repo": "fanhao375/microduck-replica",
-    "branch": "master",
-    "language": "Python",
-    "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck"
-  },
-  {
-    "repo": "AlLHHH/ALH-Pro",
-    "branch": "main",
-    "language": "C#",
-    "description": "图片视频等增强工具"
-  },
-  {
-    "repo": "spring-guides/gs-spring-boot",
+    "repo": "krahets/hello-algo",
     "branch": "main",
     "language": "Java",
-    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
   },
   {
-    "repo": "Unclecheng-li/AI-Animation-Skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
-  },
-  {
-    "repo": "coleam00/ai-software-factory",
-    "branch": "main",
-    "language": "Python",
-    "description": "A repository that ships without anyone reading the diff: GitHub issues in, merged pull requests out, with the gates that make that defensible."
-  },
-  {
-    "repo": "kharmanskyi/open-steps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT."
-  },
-  {
-    "repo": "1bananachicken/MaaNTE",
-    "branch": "main",
-    "language": "Python",
-    "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319"
-  },
-  {
-    "repo": "Belucking/HashBazaar",
-    "branch": "main",
-    "language": "Python",
-    "description": "HashBazaar is a distributed, intelligent data processing framework that auto-scaling for dynamic workload management on a scalable platform."
-  },
-  {
-    "repo": "ahujasid/camera-to-blender",
+    "repo": "ygwyg/agent-experience",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Take a photo of real objects, and paste them in Blender"
+    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
   },
   {
-    "repo": "jundizhou/easy-stock",
-    "branch": "main",
+    "repo": "moby/buildkit",
+    "branch": "master",
     "language": "Go",
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+  },
+  {
+    "repo": "Tencent/tdesign-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
+  },
+  {
+    "repo": "jesselau76/cigen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive root/affix vocabulary memory web app"
+  },
+  {
+    "repo": "Mrack/TInjector_Symbi",
+    "branch": "master",
+    "language": "C++",
+    "description": "更稳定的劫持Zygote在App启动前注入so"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "element-hq/element-android",
+    "branch": "develop",
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
+  },
+  {
+    "repo": "OpenImagingLab/AnyRecon",
+    "branch": "main",
+    "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "Ahmad-progr/claude-leaked-files",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
+  },
+  {
+    "repo": "nathaniel329/polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket trading bot"
+  },
+  {
+    "repo": "YeQing17-2026/OmniAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "An agent capable of self-evolving and dynamically hardening security"
+  },
+  {
+    "repo": "MunGell/awesome-for-beginners",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "repo": "sorrycc/awesome-javascript",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
+  },
+  {
+    "repo": "azl397985856/leetcode",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+  },
+  {
+    "repo": "future-agi/future-agi",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "repo": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
+    "branch": "main",
+    "language": "C++",
+    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support."
+  },
+  {
+    "repo": "tianxingleo/ACGTI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+  },
+  {
+    "repo": "tradesdontlie/tradingview-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+  },
+  {
+    "repo": "nmap/nmap",
+    "branch": "master",
+    "language": "C",
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
+  },
+  {
+    "repo": "agents-io/PokeClaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
   }
 ]
