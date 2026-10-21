@@ -1,8 +1,8 @@
 {
-  "repo": "VantaCode420/SmartHdrManager",
+  "repo": "TamaribaEmu/OpenPS2BIOS",
   "branch": "main",
-  "language": "C#",
-  "description": "Automatic Windows HDR switching for games, YouTube HDR and RTX Video HDR",
-  "stars": 208,
-  "forks": 2
+  "language": "C",
+  "description": "Experimental open-source replacement PlayStation 2 BIOS for emulators. MIT licensed.",
+  "stars": 238,
+  "forks": 6
 }
