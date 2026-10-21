@@ -1,39 +1,75 @@
 [
   {
-    "repo": "MikoVelascoRamirez/Roblox_Adopt_Me_Pet_Farm",
+    "repo": "QuantML-Research/wq-alpha-research",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-raise pets, trade bot, and legendary pet sniper for Adopt Me. Raise pets to full grown, automate trades, and claim legendary pets instantly. Best for Roblox players."
+    "description": ""
   },
   {
-    "repo": "rust-alert/ra2.exe",
-    "branch": "master",
+    "repo": "RayceAnderson/tomodachi-pc",
+    "branch": "main",
+    "language": "C#",
+    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
+  },
+  {
+    "repo": "SrihanReddy06/JSON_Editor___Validator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Edit, validate, and format JSON files with a user-friendly interface. Syntax highlighting, error detection, and tree view. Perfect for API development and configuration."
+  },
+  {
+    "repo": "build-poe2/PathOfBuilding-PoE2",
+    "branch": "main",
+    "language": "Lua",
+    "description": "path of building poe2 build 0.5 pob community fork path of exile 2 build planner dps calculator github download  portable  pobb in league starter passive tree ascendancy gems"
+  },
+  {
+    "repo": "lvy010/AI-wiki",
+    "branch": "main",
     "language": "Rust",
-    "description": "使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。"
+    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
   },
   {
-    "repo": "ahmedemad3/arch-wiki",
+    "repo": "hydra-db/open-glean",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done."
+  },
+  {
+    "repo": "ronaldo-avalos/Maya",
+    "branch": "main",
+    "language": "Swift",
+    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
+  },
+  {
+    "repo": "dbgucci1017/MT5-Equity-Guardian-Trailing-Pro",
+    "branch": "main",
+    "language": "HTML",
+    "description": "MQL5 Advanced Risk Manager EA 2026 – Breakeven, Trailing Stop & Partial Close"
+  },
+  {
+    "repo": "aayan555/DS4Windows",
+    "branch": "main",
+    "language": "C#",
+    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
+  },
+  {
+    "repo": "quarqlabs/agent-oss",
+    "branch": "main",
+    "language": "Python",
+    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
+  },
+  {
+    "repo": "MoonshotAI/kimi-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Starting Point for Next-Gen Agents"
+  },
+  {
+    "repo": "x4gKing/X4G",
     "branch": "main",
     "language": "Python",
     "description": ""
-  },
-  {
-    "repo": "JFGAtlas/aethergate-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "workos/auth.md",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
-  },
-  {
-    "repo": "daehyeonmun2021/react-native-skia-lab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Beautiful react-native-skia demo built by Daehyeon Mun"
   },
   {
     "repo": "tantara/openbrief",
@@ -42,31 +78,7 @@
     "description": ""
   },
   {
-    "repo": "sander110419/lightroom-cc-on-linux",
-    "branch": "main",
-    "language": "C",
-    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
-  },
-  {
-    "repo": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment"
-  },
-  {
-    "repo": "lceminecraft-launcher/LCE-Emerald-Launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "lce emerald launcher minecraft  github Download minecraft legacy console edition"
-  },
-  {
-    "repo": "WUBING2023/PaperSpine",
-    "branch": "main",
-    "language": "Python",
-    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
-  },
-  {
-    "repo": "Tencent-Hunyuan/Hy-MT2",
+    "repo": "leochlon/ntkmirror",
     "branch": "main",
     "language": "Python",
     "description": ""
@@ -78,69 +90,57 @@
     "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "LUPUL64348/NTE-cheat",
+    "repo": "buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm and money hack for Berry Avenue RP, the popular roleplay game. Farm money, unlock all houses and vehicles, and dominate the social experience."
+  },
+  {
+    "repo": "RyensX/OpenCodex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
+  },
+  {
+    "repo": "007FirstLight/007-First-Light-Release",
+    "branch": "main",
+    "language": "C++",
+    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
+  },
+  {
+    "repo": "loyal-studio/Honami-Animation-System",
     "branch": "main",
     "language": "C#",
-    "description": "nte Neverness To Everness cheat download pc auto fish ray tracing bot teleport esp speedhack  macro script unlocker config windows 11"
+    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
   },
   {
-    "repo": "saadansha/tts-prosody-probe",
+    "repo": "xuanxuan321/xuanxuan-prompts",
     "branch": "main",
-    "language": "Python",
-    "description": "Probe and compare the prosody (pitch / energy / duration) of TTS outputs."
+    "language": "Shell",
+    "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站"
   },
   {
-    "repo": "jackson-video-resources/markov-hedge-fund-method",
-    "branch": "main",
-    "language": "Python",
-    "description": "Markov regime detection skill + one-shot install prompt + Pine indicator. Companion to Quant Series video 1. Framework by Roan (@RohOnChain)."
-  },
-  {
-    "repo": "haaarshsingh/halftone-dots",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "zhongweiv/hermes-edu-skills",
+    "repo": "majidmanzarpour/threejs-procedural-dungeon",
     "branch": "main",
     "language": "JavaScript",
-    "description": "中文教育 Agent Skill Pack：教材同步、备考复习、拍照答疑、错题复盘、亲子陪学、阅读写作和教师工具，Hermes Agent 可直接使用，也可导出到 OpenClaw/Codex/Cursor/Claude Code。"
+    "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline."
   },
   {
-    "repo": "cslol-manager/ltk-manager",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ltk manager league of legends lol custom skins mod manager github download free cslol manager cslol manager runeforge  divine skins  not working successor modpkg fantome runeforge overlay patcher windows 11 setup guide tutorial error fix latest version 2026"
-  },
-  {
-    "repo": "bandyah/uni-mm-trainer",
+    "repo": "Dev-MohamedGad/Fisch_-_Auto-Fish___Instant_Catch",
     "branch": "main",
     "language": "Python",
-    "description": "A small library for training multimodal LLMs combining text, vision, and audio"
+    "description": "Auto-fish and instant catch for Fisch, the addictive fishing simulator with 130K+ concurrent players[reference:33]. Catch every fish instantly, get unlimited bait, and complete your collection."
   },
   {
-    "repo": "VoidSignals/Polymarket-trading-bot",
+    "repo": "5-m0cftvuvif/stake-monthly",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,"
+    "language": "HTML",
+    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
   },
   {
-    "repo": "xzf-thu/Mega-ASR",
+    "repo": "hallieongibson4690/R6S-D-M-A-2026",
     "branch": "main",
-    "language": "Python",
-    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
-  },
-  {
-    "repo": "veryyoldman/undress-ai-image-video-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI tool for generating uncensored images and videos"
-  },
-  {
-    "repo": "hoolulu/deep-research",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenCode 深度调研报告生成 Skill — 一个命令，六分钟，一份深度专业的调研报告"
+    "language": "C#",
+    "description": "A comprehensive open-source framework for analyzing Rainbow Six Siege game mechanics, operator interactions, and developing advanced defensive strategies."
   }
 ]

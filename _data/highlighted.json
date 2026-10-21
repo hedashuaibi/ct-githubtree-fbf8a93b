@@ -1,8 +1,8 @@
 {
-  "repo": "TamaribaEmu/OpenPS2BIOS",
+  "repo": "solidsf-inc/solidcv",
   "branch": "main",
-  "language": "C",
-  "description": "Experimental open-source replacement PlayStation 2 BIOS for emulators. MIT licensed.",
-  "stars": 238,
-  "forks": 6
+  "language": "Rust",
+  "description": "A featured project on GitHubTree.",
+  "stars": 243,
+  "forks": 21
 }
