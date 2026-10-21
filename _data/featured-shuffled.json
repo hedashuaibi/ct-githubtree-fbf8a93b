@@ -1,146 +1,146 @@
 [
   {
-    "repo": "QuantML-Research/wq-alpha-research",
+    "repo": "MiniMax-AI/skills",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "RayceAnderson/tomodachi-pc",
-    "branch": "main",
-    "language": "C#",
-    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
-  },
-  {
-    "repo": "SrihanReddy06/JSON_Editor___Validator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Edit, validate, and format JSON files with a user-friendly interface. Syntax highlighting, error detection, and tree view. Perfect for API development and configuration."
-  },
-  {
-    "repo": "build-poe2/PathOfBuilding-PoE2",
-    "branch": "main",
-    "language": "Lua",
-    "description": "path of building poe2 build 0.5 pob community fork path of exile 2 build planner dps calculator github download  portable  pobb in league starter passive tree ascendancy gems"
-  },
-  {
-    "repo": "lvy010/AI-wiki",
-    "branch": "main",
-    "language": "Rust",
-    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
-  },
-  {
-    "repo": "hydra-db/open-glean",
-    "branch": "main",
+    "repo": "warpdot-dev/composio",
+    "branch": "next",
     "language": "TypeScript",
-    "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done."
+    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers"
   },
   {
-    "repo": "ronaldo-avalos/Maya",
-    "branch": "main",
-    "language": "Swift",
-    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
-  },
-  {
-    "repo": "dbgucci1017/MT5-Equity-Guardian-Trailing-Pro",
-    "branch": "main",
-    "language": "HTML",
-    "description": "MQL5 Advanced Risk Manager EA 2026 – Breakeven, Trailing Stop & Partial Close"
-  },
-  {
-    "repo": "aayan555/DS4Windows",
-    "branch": "main",
-    "language": "C#",
-    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
-  },
-  {
-    "repo": "quarqlabs/agent-oss",
-    "branch": "main",
-    "language": "Python",
-    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
-  },
-  {
-    "repo": "MoonshotAI/kimi-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Starting Point for Next-Gen Agents"
-  },
-  {
-    "repo": "x4gKing/X4G",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "tantara/openbrief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "leochlon/ntkmirror",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Outcome-Signal-Forge/trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm and money hack for Berry Avenue RP, the popular roleplay game. Farm money, unlock all houses and vehicles, and dominate the social experience."
-  },
-  {
-    "repo": "RyensX/OpenCodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
-  },
-  {
-    "repo": "007FirstLight/007-First-Light-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
-  },
-  {
-    "repo": "loyal-studio/Honami-Animation-System",
-    "branch": "main",
-    "language": "C#",
-    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
-  },
-  {
-    "repo": "xuanxuan321/xuanxuan-prompts",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站"
-  },
-  {
-    "repo": "majidmanzarpour/threejs-procedural-dungeon",
+    "repo": "iamzifei/bookmark-is-learned",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline."
+    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
   },
   {
-    "repo": "Dev-MohamedGad/Fisch_-_Auto-Fish___Instant_Catch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-fish and instant catch for Fisch, the addictive fishing simulator with 130K+ concurrent players[reference:33]. Catch every fish instantly, get unlimited bait, and complete your collection."
-  },
-  {
-    "repo": "5-m0cftvuvif/stake-monthly",
+    "repo": "Doriandarko/webmcp-starter",
     "branch": "main",
     "language": "HTML",
-    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
+    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
   },
   {
-    "repo": "hallieongibson4690/R6S-D-M-A-2026",
+    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Mega auto farm trainer for Pet Simulator 99 – automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
+  },
+  {
+    "repo": "deepcon3/Binance-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
+  },
+  {
+    "repo": "DoomVoss/BASpark",
     "branch": "main",
     "language": "C#",
-    "description": "A comprehensive open-source framework for analyzing Rainbow Six Siege game mechanics, operator interactions, and developing advanced defensive strategies."
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+  },
+  {
+    "repo": "select2/select2",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+  },
+  {
+    "repo": "expo/expo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+  },
+  {
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "repo": "hangsman/claude-code-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude code source map v2.1.88"
+  },
+  {
+    "repo": "lukeed/comptime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
+  },
+  {
+    "repo": "0xsouravm/oxichrome",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+  },
+  {
+    "repo": "1bananachicken/MaaNTE",
+    "branch": "main",
+    "language": "Python",
+    "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319"
+  },
+  {
+    "repo": "vadimsemenykv/saboteur",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "RhysSullivan/fastergh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
+  },
+  {
+    "repo": "primefaces/primeng",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Most Complete Angular UI Component Library"
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
+  },
+  {
+    "repo": "GRVYDEV/marky",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A lightweight easy to use markdown viewer"
+  },
+  {
+    "repo": "GreenSheep01201/claw-empire",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+  },
+  {
+    "repo": "machinepulse-ai/world2agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+  },
+  {
+    "repo": "RightNow-AI/picolm",
+    "branch": "main",
+    "language": "C",
+    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
+  },
+  {
+    "repo": "antirez/llama.cpp-deepseek-v4-flash",
+    "branch": "main",
+    "language": "C++",
+    "description": "Experimental implementation of DeepSeek v4 flaash in llama.cpp"
   }
 ]

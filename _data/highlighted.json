@@ -1,8 +1,8 @@
 {
-  "repo": "solidsf-inc/solidcv",
+  "repo": "NeuroVision-Studio/NeuraVision",
   "branch": "main",
-  "language": "Rust",
-  "description": "A featured project on GitHubTree.",
-  "stars": 243,
-  "forks": 21
+  "language": "PHP",
+  "description": "NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)",
+  "stars": 205,
+  "forks": 0
 }
