@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
+    "repo": "eternityspring/reelbench-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill"
+  },
+  {
+    "repo": "GreatScott/enveil",
     "branch": "main",
     "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
   },
   {
-    "repo": "Parcle-AI/parcle-memory",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "krahets/hello-algo",
-    "branch": "main",
-    "language": "Java",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
-  },
-  {
-    "repo": "ygwyg/agent-experience",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
-  },
-  {
-    "repo": "moby/buildkit",
+    "repo": "jaywcjlove/awesome-mac",
     "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
-  },
-  {
-    "repo": "Tencent/tdesign-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "jesselau76/cigen",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
   },
   {
-    "repo": "Mrack/TInjector_Symbi",
-    "branch": "master",
-    "language": "C++",
-    "description": "更稳定的劫持Zygote在App启动前注入so"
+    "repo": "nushell/nushell",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A new type of shell"
   },
   {
-    "repo": "tailwindlabs/headlessui",
+    "repo": "huggingface/optimum",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools"
+  },
+  {
+    "repo": "Castor6/tactus",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+    "description": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
   },
   {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
-    "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
-  },
-  {
-    "repo": "OpenImagingLab/AnyRecon",
+    "repo": "dair-ai/Prompt-Engineering-Guide",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "MDX",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
   },
   {
-    "repo": "Ahmad-progr/claude-leaked-files",
+    "repo": "bbylw/clawdbot-cn",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
+    "language": "HTML",
+    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
   },
   {
-    "repo": "apple/swift-protobuf",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
-  },
-  {
-    "repo": "nathaniel329/polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket trading bot"
-  },
-  {
-    "repo": "YeQing17-2026/OmniAgent",
-    "branch": "main",
-    "language": "Python",
-    "description": "An agent capable of self-evolving and dynamically hardening security"
-  },
-  {
-    "repo": "MunGell/awesome-for-beginners",
+    "repo": "Olshansk/interview",
     "branch": "master",
     "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
+    "description": "Everything you need to prepare for your technical interview"
   },
   {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "azl397985856/leetcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
-  },
-  {
-    "repo": "future-agi/future-agi",
+    "repo": "chaohong-ai/ai-auto-work",
     "branch": "main",
-    "language": "Python",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+    "language": "Shell",
+    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects."
   },
   {
-    "repo": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
+    "repo": "StartupHakk/OpenMonoAgent.ai",
+    "branch": "main",
+    "language": "C#",
+    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
+  },
+  {
+    "repo": "exomi29zikzak/Valo-Vision-26",
     "branch": "main",
     "language": "C++",
-    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support."
+    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
   },
   {
-    "repo": "tianxingleo/ACGTI",
+    "repo": "yearn/yearn-finance",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
+  },
+  {
+    "repo": "datasciencemasters/go",
+    "branch": "master",
+    "language": "Other",
+    "description": "The Open Source Data Science Masters"
+  },
+  {
+    "repo": "komunite/kalfa",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+  },
+  {
+    "repo": "TheCaspianAI/Caspian",
     "branch": "main",
     "language": "TypeScript",
-    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
   },
   {
-    "repo": "tradesdontlie/tradingview-mcp",
+    "repo": "jazzband/django-debug-toolbar",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+    "language": "Python",
+    "description": "A configurable set of panels that display various debug information about the current request/response."
   },
   {
-    "repo": "nmap/nmap",
+    "repo": "THUDM/ChatGLM-6B",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+  },
+  {
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+  },
+  {
+    "repo": "thedaviddias/Front-End-Checklist",
     "branch": "master",
-    "language": "C",
-    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   },
   {
-    "repo": "agents-io/PokeClaw",
+    "repo": "ramitsurana/awesome-kubernetes",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A curated list for awesome kubernetes sources :ship::tada:"
+  },
+  {
+    "repo": "BuilderIO/qwik",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
+    "language": "TypeScript",
+    "description": "Instant-loading web apps, without effort"
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
   }
 ]

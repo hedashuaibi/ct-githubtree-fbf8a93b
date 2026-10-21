@@ -1,8 +1,8 @@
 {
-  "repo": "soumatheusgomes/editonny",
+  "repo": "VantaCode420/SmartHdrManager",
   "branch": "main",
-  "language": "Python",
-  "description": "Local video editing through conversation. Created by Matheus Gomes.",
-  "stars": 271,
-  "forks": 24
+  "language": "C#",
+  "description": "Automatic Windows HDR switching for games, YouTube HDR and RTX Video HDR",
+  "stars": 208,
+  "forks": 2
 }
