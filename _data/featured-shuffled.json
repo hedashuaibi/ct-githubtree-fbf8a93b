@@ -1,129 +1,123 @@
 [
   {
-    "repo": "MiniMax-AI/skills",
+    "repo": "roboflow/rf-detr",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
   },
   {
-    "repo": "warpdot-dev/composio",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers"
-  },
-  {
-    "repo": "iamzifei/bookmark-is-learned",
+    "repo": "zigabratun/Umbrella-HWID-Tool",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+    "language": "TypeScript",
+    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
   },
   {
-    "repo": "Doriandarko/webmcp-starter",
+    "repo": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+    "branch": "main",
+    "language": "C++",
+    "description": "esp32-s3-touch-amoled-1.8"
+  },
+  {
+    "repo": "aquace/CVE-2026-41940-PoC",
+    "branch": "main",
+    "language": "Python",
+    "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept"
+  },
+  {
+    "repo": "iFurySt/open-codex-computer-use",
+    "branch": "main",
+    "language": "Swift",
+    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
+  },
+  {
+    "repo": "deepinfra/deepinfra",
+    "branch": "main",
+    "language": "Other",
+    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
+  },
+  {
+    "repo": "rexa-developer/tiks",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Procedural UI sounds for the web. Zero audio files. Pure synthesis."
+  },
+  {
+    "repo": "perkfly/ex-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "前女友 skill"
+  },
+  {
+    "repo": "FeSens/auto-arch-tournament",
     "branch": "main",
     "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Mega auto farm trainer for Pet Simulator 99 – automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
-  },
-  {
-    "repo": "deepcon3/Binance-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
-  },
-  {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
-  },
-  {
-    "repo": "expo/expo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
-  },
-  {
-    "repo": "nektos/act",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
-  },
-  {
-    "repo": "hangsman/claude-code-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude code source map v2.1.88"
-  },
-  {
-    "repo": "lukeed/comptime",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
-  },
-  {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "1bananachicken/MaaNTE",
-    "branch": "main",
-    "language": "Python",
-    "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319"
-  },
-  {
-    "repo": "vadimsemenykv/saboteur",
-    "branch": "main",
-    "language": "Go",
     "description": ""
   },
   {
-    "repo": "RhysSullivan/fastergh",
+    "repo": "0xSteph/pentest-ai",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Shell",
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+  },
+  {
+    "repo": "hashicorp/consul",
+    "branch": "main",
+    "language": "Go",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+  },
+  {
+    "repo": "the-hidden-fish/advisor-ledger",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
   },
   {
-    "repo": "primefaces/primeng",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Most Complete Angular UI Component Library"
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
+    "repo": "leigest519/OpenGame",
     "branch": "main",
     "language": "TypeScript",
-    "description": "About Crash game - frontend"
+    "description": "OpenGame: Open Agentic Coding for Games"
   },
   {
-    "repo": "GRVYDEV/marky",
+    "repo": "Okyumi/OverTrack",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A lightweight easy to use markdown viewer"
+    "description": "Overland travel route planner — from Tokyo to Antarctica, no flights required."
   },
   {
-    "repo": "GreenSheep01201/claw-empire",
+    "repo": "sdyckjq-lab/llm-wiki-skill",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+    "language": "Shell",
+    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
+  },
+  {
+    "repo": "op7418/m5-paper-buddy",
+    "branch": "main",
+    "language": "C++",
+    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
+  },
+  {
+    "repo": "shareAI-lab/claw0",
+    "branch": "main",
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+  },
+  {
+    "repo": "homer66/Windows-Xbox-Mode",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
   },
   {
     "repo": "machinepulse-ai/world2agent",
@@ -132,15 +126,21 @@
     "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
   },
   {
-    "repo": "RightNow-AI/picolm",
+    "repo": "kellyvv/PhoneClaw",
     "branch": "main",
-    "language": "C",
-    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
+    "language": "Swift",
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
   },
   {
-    "repo": "antirez/llama.cpp-deepseek-v4-flash",
+    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
     "branch": "main",
-    "language": "C++",
-    "description": "Experimental implementation of DeepSeek v4 flaash in llama.cpp"
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
+  },
+  {
+    "repo": "alejandrobalderas/claude-code-from-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps"
   }
 ]
