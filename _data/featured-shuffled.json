@@ -1,146 +1,146 @@
 [
   {
-    "repo": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "repo": "spiritov/ds.css",
     "branch": "main",
-    "language": "HTML",
-    "description": "Smart Promise Tracker AI 2026 – Commit Memory Engine"
+    "language": "CSS",
+    "description": "A css framework recreating the DS / DS Lite's UI"
   },
   {
-    "repo": "jupyterlab/jupyterlab",
+    "repo": "mockito/mockito",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
+    "language": "Java",
+    "description": "Most popular Mocking framework for unit tests written in Java"
   },
   {
-    "repo": "rome/tools",
+    "repo": "ecto/vcad",
     "branch": "main",
     "language": "Rust",
-    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
+    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
   },
   {
-    "repo": "vueuse/vueuse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
-  },
-  {
-    "repo": "Shubhamsaboo/awesome-llm-apps",
-    "branch": "main",
-    "language": "Python",
-    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
-  },
-  {
-    "repo": "ory/oathkeeper",
+    "repo": "jesseduffield/lazydocker",
     "branch": "master",
     "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
+    "description": "The lazier way to manage everything docker"
   },
   {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
-    "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
-  },
-  {
-    "repo": "antfu/tsnapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Library public API snapshot testing for runtime exports and type declarations."
-  },
-  {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "joeseesun/markdown-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
-  },
-  {
-    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
-  },
-  {
-    "repo": "requirejs/requirejs",
+    "repo": "encode/httpx",
     "branch": "master",
+    "language": "Python",
+    "description": "A next generation HTTP client for Python. 🦋"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "branch": "master",
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "supermemoryai/clawdbot-supermemory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "apache/echarts",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "branch": "master",
+    "language": "Python",
+    "description": "🦜🔗 The platform for reliable agents."
+  },
+  {
+    "repo": "hzm0321/real-time-fund",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
+    "description": "基金实时估值查看"
   },
   {
-    "repo": "python-poetry/poetry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Python packaging and dependency management made easy"
-  },
-  {
-    "repo": "SakanaAI/AI-Scientist-v2",
+    "repo": "gradio-app/gradio",
     "branch": "main",
     "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
   },
   {
-    "repo": "MangoLion/stretchystudio",
+    "repo": "termux/termux-app",
     "branch": "master",
+    "language": "Java",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+  },
+  {
+    "repo": "astro/astro",
+    "branch": "main",
+    "language": "Other",
+    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
+  },
+  {
+    "repo": "shobhit99/SuperIsland",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Dynamic Island for MacOS — with Extensions"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Empowering everyone to build reliable and efficient software."
+  },
+  {
+    "repo": "userland-run/nano",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
   },
   {
-    "repo": "garrytan/gbrain",
+    "repo": "reakjra/omikuji",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qt/QML based game launcher for Linux"
+  },
+  {
+    "repo": "joelbqz/writer-computer",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Garry's Opinionated OpenClaw Brain"
+    "description": "Local-first desktop markdown editor"
   },
   {
-    "repo": "expo/expo",
+    "repo": "ArcaneNibble/awawausb",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+    "language": "Rust",
+    "description": "WebUSB for fopses"
   },
   {
-    "repo": "onnx/onnx",
+    "repo": "WenXiaoWendy/cyberboss",
     "branch": "main",
-    "language": "Python",
-    "description": "Open standard for machine learning interoperability"
-  },
-  {
-    "repo": "inspatio/inspatio-world",
-    "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "freq-trades/hyperliquid-trading-bot",
+    "repo": "xixu-me/awesome-persona-distill-skills",
     "branch": "main",
-    "language": "Python",
-    "description": "hyperliquid perpetuals grid crypto derivatives dex typescript nodejs automated-trading algorithmic-trading quant api leverage orderbook market-making testnet defi trading-bot blockchain risk OHLCV crypto-bot grid-strategy stop-loss drawdown viem websocket yaml systematic futures spot hedging rebalance liquidation SDK npm opensource observability d"
+    "language": "JavaScript",
+    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
   },
   {
-    "repo": "Developer-Y/cs-video-courses",
+    "repo": "audacity/audacity",
     "branch": "master",
-    "language": "Other",
-    "description": "List of Computer Science courses with video lectures."
+    "language": "C++",
+    "description": "Audio Editor"
   },
   {
-    "repo": "ierror/synaps-cad",
+    "repo": "axios/axios",
     "branch": "main",
-    "language": "Rust",
-    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
   },
   {
-    "repo": "skottrun/extrateto",
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
   }
 ]
