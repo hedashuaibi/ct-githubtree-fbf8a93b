@@ -1,146 +1,146 @@
 [
   {
-    "repo": "roboflow/rf-detr",
-    "branch": "main",
-    "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
-  },
-  {
-    "repo": "zigabratun/Umbrella-HWID-Tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
-  },
-  {
-    "repo": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
-    "branch": "main",
-    "language": "C++",
-    "description": "esp32-s3-touch-amoled-1.8"
-  },
-  {
-    "repo": "aquace/CVE-2026-41940-PoC",
-    "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept"
-  },
-  {
-    "repo": "iFurySt/open-codex-computer-use",
-    "branch": "main",
-    "language": "Swift",
-    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
-  },
-  {
-    "repo": "deepinfra/deepinfra",
-    "branch": "main",
-    "language": "Other",
-    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
-  },
-  {
-    "repo": "BigBodyCobain/Shadowbroker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
-  },
-  {
-    "repo": "rexa-developer/tiks",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Procedural UI sounds for the web. Zero audio files. Pure synthesis."
-  },
-  {
-    "repo": "perkfly/ex-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "前女友 skill"
-  },
-  {
-    "repo": "FeSens/auto-arch-tournament",
+    "repo": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "Smart Promise Tracker AI 2026 – Commit Memory Engine"
   },
   {
-    "repo": "0xSteph/pentest-ai",
+    "repo": "jupyterlab/jupyterlab",
     "branch": "main",
-    "language": "Shell",
-    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
   },
   {
-    "repo": "hashicorp/consul",
+    "repo": "rome/tools",
     "branch": "main",
-    "language": "Go",
-    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+    "language": "Rust",
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
   },
   {
-    "repo": "the-hidden-fish/advisor-ledger",
+    "repo": "vueuse/vueuse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
   },
   {
-    "repo": "rancher/k3d",
-    "branch": "main",
+    "repo": "ory/oathkeeper",
+    "branch": "master",
     "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
   },
   {
-    "repo": "leigest519/OpenGame",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenGame: Open Agentic Coding for Games"
-  },
-  {
-    "repo": "Okyumi/OverTrack",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Overland travel route planner — from Tokyo to Antarctica, no flights required."
-  },
-  {
-    "repo": "sdyckjq-lab/llm-wiki-skill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
-  },
-  {
-    "repo": "op7418/m5-paper-buddy",
-    "branch": "main",
-    "language": "C++",
-    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
-  },
-  {
-    "repo": "shareAI-lab/claw0",
+    "repo": "OmniSVG/OmniSVG",
     "branch": "main",
     "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
   },
   {
-    "repo": "homer66/Windows-Xbox-Mode",
-    "branch": "main",
-    "language": "C++",
-    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
   },
   {
-    "repo": "machinepulse-ai/world2agent",
+    "repo": "antfu/tsnapi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+    "description": "Library public API snapshot testing for runtime exports and type declarations."
   },
   {
-    "repo": "kellyvv/PhoneClaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
   },
   {
-    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
+    "repo": "joeseesun/markdown-proxy",
     "branch": "main",
+    "language": "Python",
+    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+  },
+  {
+    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
+  },
+  {
+    "repo": "requirejs/requirejs",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
+    "description": "A file and module loader for JavaScript"
   },
   {
-    "repo": "alejandrobalderas/claude-code-from-source",
+    "repo": "python-poetry/poetry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Python packaging and dependency management made easy"
+  },
+  {
+    "repo": "SakanaAI/AI-Scientist-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+  },
+  {
+    "repo": "garrytan/gbrain",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Garry's Opinionated OpenClaw Brain"
+  },
+  {
+    "repo": "expo/expo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps"
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+  },
+  {
+    "repo": "onnx/onnx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open standard for machine learning interoperability"
+  },
+  {
+    "repo": "inspatio/inspatio-world",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "freq-trades/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "hyperliquid perpetuals grid crypto derivatives dex typescript nodejs automated-trading algorithmic-trading quant api leverage orderbook market-making testnet defi trading-bot blockchain risk OHLCV crypto-bot grid-strategy stop-loss drawdown viem websocket yaml systematic futures spot hedging rebalance liquidation SDK npm opensource observability d"
+  },
+  {
+    "repo": "Developer-Y/cs-video-courses",
+    "branch": "master",
+    "language": "Other",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "repo": "ierror/synaps-cad",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
+  },
+  {
+    "repo": "skottrun/extrateto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
   }
 ]
