@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MoonshotAI/MoonEP",
+    "repo": "actuallyepic/background-computer-use",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "sqlmapproject/sqlmap",
     "branch": "master",
     "language": "Python",
-    "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts"
+    "description": "Automatic SQL injection and database takeover tool"
   },
   {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+    "repo": "yapeth/MaaNTE",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "maante neverness to everness nte automation assistant maa framework github download free bot auto fishing skip dialogue daily rewards windows 11 MaaNTE 异环小助手，由 MAAFramework 强力驱动！QQ交流群: 713114598"
   },
   {
-    "repo": "KAOPU-XiaoPu/web-design",
+    "repo": "aeromomo/claw-compactor",
     "branch": "main",
     "language": "Python",
-    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second."
+    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
   },
   {
-    "repo": "ingegroeneveld0620/fps-tweaks-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
-  },
-  {
-    "repo": "mverschu/adwsdomaindump",
-    "branch": "main",
-    "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
-  },
-  {
-    "repo": "scrya-com/rotorquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
-  },
-  {
-    "repo": "kiwifs/kiwifs",
-    "branch": "main",
-    "language": "Go",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config."
-  },
-  {
-    "repo": "QLHazyCoder/codex-oauth-automation-extension",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
-  },
-  {
-    "repo": "1186258278/OpenClawChineseTranslation",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
-  },
-  {
-    "repo": "miuda-ai/lele",
+    "repo": "pola-rs/polars",
     "branch": "main",
     "language": "Rust",
-    "description": "Bare-Metal Rust Audio AI Framework"
+    "description": "Extremely fast Query Engine for DataFrames, written in Rust"
   },
   {
-    "repo": "deusyu/translate-book",
+    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+  },
+  {
+    "repo": "apple/swift",
+    "branch": "main",
+    "language": "C++",
+    "description": "The Swift Programming Language"
+  },
+  {
+    "repo": "locustio/locust",
+    "branch": "master",
+    "language": "Python",
+    "description": "Write scalable load tests in plain Python 🚗💨"
+  },
+  {
+    "repo": "ReactiveX/RxPY",
+    "branch": "master",
+    "language": "Python",
+    "description": "ReactiveX for Python"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "goldbergyoni/nodebestpractices",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
+  },
+  {
+    "repo": "PowerShell/vscode-powershell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Full-sized drag & drop event calendar in JavaScript"
+  },
+  {
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
+  },
+  {
+    "repo": "OpenBB-finance/OpenBBTerminal",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
+    "description": "Financial data platform for analysts, quants and AI agents."
   },
   {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+    "repo": "vueuse/vueuse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
   },
   {
-    "repo": "yaofeino1/tech-distiller",
+    "repo": "microsoft/terminal",
+    "branch": "main",
+    "language": "C++",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
     "branch": "main",
     "language": "Python",
-    "description": "把公司技术文档蒸馏成按职位方向过滤的结构化技术报告 | Inspired by colleague-skill & ex-skill"
+    "description": "sora2 watermark cleaner pro"
   },
   {
-    "repo": "Houseofmvps/codesight",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
-  },
-  {
-    "repo": "thcp/stemdeck",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface"
-  },
-  {
-    "repo": "kessler/gemma-gem",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
-  },
-  {
-    "repo": "shuyu-labs/BigBanana-AI-Director",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
-  },
-  {
-    "repo": "Ledger-Wallet-LLC/ledgerwallet",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Official Ledger Wallet Repository"
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-Embodied",
+    "repo": "TheAlgorithms/Rust",
     "branch": "master",
+    "language": "Rust",
+    "description": "All Algorithms implemented in Rust"
+  },
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader"
+  },
+  {
+    "repo": "Jane-xiaoer/x-fetcher",
+    "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "ironsh/iron-sensor",
-    "branch": "main",
-    "language": "C",
-    "description": "An eBPF-based behavioral monitor for AI coding agents."
-  },
-  {
-    "repo": "ConardLi/rag-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Skill dedicated to local knowledge base retrieval"
-  },
-  {
-    "repo": "freestylefly/wechat-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration."
-  },
-  {
-    "repo": "simular-ai/simulang",
+    "repo": "better-auth/better-icons",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "saadansha/tts-prosody-probe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Probe and compare the prosody (pitch / energy / duration) of TTS outputs."
+    "description": "Skill and MCP server for searching and retrieving icons"
   }
 ]

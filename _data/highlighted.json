@@ -1,8 +1,8 @@
 {
-  "repo": "kailashsr38/ascii-magic-art",
+  "repo": "MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
-  "stars": 269,
-  "forks": 8
+  "language": "Shell",
+  "description": "DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold",
+  "stars": 246,
+  "forks": 41
 }
