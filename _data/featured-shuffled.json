@@ -1,146 +1,146 @@
 [
   {
-    "repo": "actuallyepic/background-computer-use",
+    "repo": "cha0upup/LeoAI",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "Java",
+    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
   },
   {
-    "repo": "sqlmapproject/sqlmap",
+    "repo": "nateherkai/hyperframes-student-kit",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
+  },
+  {
+    "repo": "OctoPrint/OctoPrint",
     "branch": "master",
     "language": "Python",
-    "description": "Automatic SQL injection and database takeover tool"
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
   },
   {
-    "repo": "yapeth/MaaNTE",
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
+  },
+  {
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "btahir/react-kino",
     "branch": "main",
     "language": "TypeScript",
-    "description": "maante neverness to everness nte automation assistant maa framework github download free bot auto fishing skip dialogue daily rewards windows 11 MaaNTE 异环小助手，由 MAAFramework 强力驱动！QQ交流群: 713114598"
+    "description": "Cinematic scroll-driven storytelling for React"
   },
   {
-    "repo": "aeromomo/claw-compactor",
+    "repo": "phuryn/pm-skills",
     "branch": "main",
     "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
   },
   {
-    "repo": "pola-rs/polars",
+    "repo": "Percepta-Core/transformer-vm",
     "branch": "main",
-    "language": "Rust",
-    "description": "Extremely fast Query Engine for DataFrames, written in Rust"
-  },
-  {
-    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "apple/swift",
-    "branch": "main",
-    "language": "C++",
-    "description": "The Swift Programming Language"
-  },
-  {
-    "repo": "locustio/locust",
-    "branch": "master",
     "language": "Python",
-    "description": "Write scalable load tests in plain Python 🚗💨"
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
   },
   {
-    "repo": "ReactiveX/RxPY",
-    "branch": "master",
-    "language": "Python",
-    "description": "ReactiveX for Python"
-  },
-  {
-    "repo": "microsoft/vscode",
+    "repo": "ghboke/claude-code-reverse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "claude code源码分析报告"
   },
   {
-    "repo": "goldbergyoni/nodebestpractices",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
+    "repo": "ryanmcdermott/clean-code-javascript",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+    "language": "JavaScript",
+    "description": "Clean Code concepts adapted for JavaScript"
   },
   {
-    "repo": "fullcalendar/fullcalendar",
+    "repo": "mgks/GitHubTree",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "ReactiveX/RxSwift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
-  },
-  {
-    "repo": "OpenBB-finance/OpenBBTerminal",
+    "repo": "joeseesun/markdown-proxy",
     "branch": "main",
     "language": "Python",
-    "description": "Financial data platform for analysts, quants and AI agents."
+    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
   },
   {
-    "repo": "vueuse/vueuse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
-  },
-  {
-    "repo": "microsoft/terminal",
-    "branch": "main",
-    "language": "C++",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
-  },
-  {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark cleaner pro"
-  },
-  {
-    "repo": "TheAlgorithms/Rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "All Algorithms implemented in Rust"
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "yt-dlp/yt-dlp",
+    "repo": "titanwings/ex-skill",
     "branch": "master",
     "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
+    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
   },
   {
-    "repo": "Jane-xiaoer/x-fetcher",
+    "repo": "scrya-com/rotorquant",
+    "branch": "main",
+    "language": "Python",
+    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
+  },
+  {
+    "repo": "cdppcorp/KESE-KIT",
+    "branch": "main",
+    "language": "Python",
+    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-Math",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  {
+    "repo": "poleHansen/baibaiAIGC",
+    "branch": "main",
+    "language": "Python",
+    "description": "baibaiAIGC"
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Framework"
+  },
+  {
+    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "better-auth/better-icons",
+    "repo": "ansible-collections/community.general",
     "branch": "main",
+    "language": "Python",
+    "description": "Ansible Community General Collection"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
+  },
+  {
+    "repo": "MhmRdd/google-rkp-sw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "vector-im/hydrogen-web",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
+    "description": "Lightweight matrix client with legacy and mobile browser support"
   }
 ]

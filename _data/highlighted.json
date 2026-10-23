@@ -1,8 +1,8 @@
 {
-  "repo": "MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks",
+  "repo": "zita-ch/supermimic_vibed",
   "branch": "main",
-  "language": "Shell",
-  "description": "DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold",
-  "stars": 246,
-  "forks": 41
+  "language": "Python",
+  "description": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
+  "stars": 381,
+  "forks": 36
 }
