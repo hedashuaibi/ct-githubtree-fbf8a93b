@@ -1,8 +1,8 @@
 {
-  "repo": "rossark0/rossark-motion-skill",
+  "repo": "Zagitta/gpu-unlock",
   "branch": "main",
-  "language": "Swift",
-  "description": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
-  "stars": 368,
-  "forks": 28
+  "language": "C",
+  "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+  "stars": 487,
+  "forks": 71
 }

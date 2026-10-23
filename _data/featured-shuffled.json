@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Robbyant/lingbot-vision",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-supervised learning for spatial perception"
-  },
-  {
-    "repo": "ossu/computer-science",
-    "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
-  },
-  {
-    "repo": "math-ai-org/mathcode",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathCode: A Frontier Mathematical Coding Agent"
-  },
-  {
-    "repo": "lukiIabs/skills",
+    "repo": "BradGroux/veritas-kanban",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
+    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
   },
   {
-    "repo": "shelljs/shelljs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":shell: Portable Unix shell commands for Node.js"
-  },
-  {
-    "repo": "matrix-org/synapse",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Synapse: Matrix homeserver written in Python/Twisted."
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "About Crash game - frontend"
-  },
-  {
-    "repo": "InternLM/WildClawBench",
-    "branch": "main",
-    "language": "Python",
-    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
-  },
-  {
-    "repo": "verialabs/ctf-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
-  },
-  {
-    "repo": "Anemll/flash-moe",
-    "branch": "m5-nax",
-    "language": "Objective-C",
-    "description": ""
-  },
-  {
-    "repo": "Maoleio/CPA-Codex-Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
-  },
-  {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "LoseNine/ruyipage",
-    "branch": "main",
-    "language": "Python",
-    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
-  },
-  {
-    "repo": "SumeLabs/clawra",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawra - Openclaw as your girlfriend"
-  },
-  {
-    "repo": "yifangao112/Camyla",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scaling Autonomous Research in Medical Image Segmentation"
-  },
-  {
-    "repo": "opa334/darksword-kexploit",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
-  },
-  {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "fffaraz/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
-  },
-  {
-    "repo": "ajeetdsouza/zoxide",
+    "repo": "Shopify/javy",
     "branch": "main",
     "language": "Rust",
-    "description": "A smarter cd command. Supports all major shells."
+    "description": "JS to WebAssembly toolchain"
   },
   {
-    "repo": "0xSero/pi-brain",
+    "repo": "ReactiveX/RxPY",
+    "branch": "master",
+    "language": "Python",
+    "description": "ReactiveX for Python"
+  },
+  {
+    "repo": "d4ncboz/qoder-workflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem."
+  },
+  {
+    "repo": "akullpp/awesome-java",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "repo": "jitsi/jitsi-meet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+  },
+  {
+    "repo": "arduino/Arduino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
+  },
+  {
+    "repo": "pallets/werkzeug",
+    "branch": "main",
+    "language": "Python",
+    "description": "The comprehensive WSGI web application library."
+  },
+  {
+    "repo": "XyhTender/qq-farm-automation-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "QQ农场全自动脚本"
+  },
+  {
+    "repo": "yaojingang/geo-citation-lab",
+    "branch": "main",
+    "language": "Python",
+    "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations."
+  },
+  {
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "LYL1015/JarvisX-Cowork",
+    "branch": "main",
+    "language": "Python",
+    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
+  },
+  {
+    "repo": "ygwyg/MAHORAGA",
     "branch": "main",
     "language": "TypeScript",
+    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
+  },
+  {
+    "repo": "nhevers/MoltBrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+  },
+  {
+    "repo": "Lyy-iiis/pMF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+  },
+  {
+    "repo": "dotnet/aspnetcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+  },
+  {
+    "repo": "stylelint/stylelint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+  },
+  {
+    "repo": "poteto/brainmaxxing",
+    "branch": "main",
+    "language": "Python",
+    "description": "stupid simple persistent memory and skill improvement"
+  },
+  {
+    "repo": "appergb/openless",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  {
+    "repo": "letmutex/gitas",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Git Account Switch"
+  },
+  {
+    "repo": "Heartflabrace/Doubao-Claw",
+    "branch": "main",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "apache/flink",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Flink"
+    "repo": "lqs/retrotick",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
   },
   {
-    "repo": "guokaigdg/animal-island-ui",
+    "repo": "wevm/incur",
     "branch": "main",
-    "language": "Less",
-    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
+    "language": "TypeScript",
+    "description": "CLI framework for agents and humans"
   },
   {
-    "repo": "ksimback/hermes-ecosystem",
+    "repo": "ierror/synaps-cad",
     "branch": "main",
-    "language": "HTML",
-    "description": "Comprehensive ecosystem map for Hermes Agent by Nous Research — 80+ tools, skills, plugins, and integrations"
-  },
-  {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+    "language": "Rust",
+    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
   }
 ]
