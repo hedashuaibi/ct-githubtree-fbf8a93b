@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cha0upup/LeoAI",
+    "repo": "Robbyant/lingbot-vision",
     "branch": "main",
-    "language": "Java",
-    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
+    "language": "Python",
+    "description": "Self-supervised learning for spatial perception"
   },
   {
-    "repo": "nateherkai/hyperframes-student-kit",
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "math-ai-org/mathcode",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathCode: A Frontier Mathematical Coding Agent"
+  },
+  {
+    "repo": "lukiIabs/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
+  },
+  {
+    "repo": "shelljs/shelljs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":shell: Portable Unix shell commands for Node.js"
+  },
+  {
+    "repo": "matrix-org/synapse",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Synapse: Matrix homeserver written in Python/Twisted."
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
+  },
+  {
+    "repo": "InternLM/WildClawBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
+  },
+  {
+    "repo": "verialabs/ctf-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+  },
+  {
+    "repo": "Anemll/flash-moe",
+    "branch": "m5-nax",
+    "language": "Objective-C",
+    "description": ""
+  },
+  {
+    "repo": "Maoleio/CPA-Codex-Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
+  },
+  {
+    "repo": "nodejs/node",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+  },
+  {
+    "repo": "LoseNine/ruyipage",
+    "branch": "main",
+    "language": "Python",
+    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
+  },
+  {
+    "repo": "SumeLabs/clawra",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawra - Openclaw as your girlfriend"
+  },
+  {
+    "repo": "yifangao112/Camyla",
+    "branch": "main",
+    "language": "Python",
+    "description": "Scaling Autonomous Research in Medical Image Segmentation"
+  },
+  {
+    "repo": "opa334/darksword-kexploit",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
+  },
+  {
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
+  },
+  {
+    "repo": "fffaraz/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "repo": "ajeetdsouza/zoxide",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A smarter cd command. Supports all major shells."
+  },
+  {
+    "repo": "0xSero/pi-brain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "apache/flink",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Flink"
+  },
+  {
+    "repo": "guokaigdg/animal-island-ui",
+    "branch": "main",
+    "language": "Less",
+    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
+  },
+  {
+    "repo": "ksimback/hermes-ecosystem",
     "branch": "main",
     "language": "HTML",
-    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
+    "description": "Comprehensive ecosystem map for Hermes Agent by Nous Research — 80+ tools, skills, plugins, and integrations"
   },
   {
-    "repo": "OctoPrint/OctoPrint",
-    "branch": "master",
-    "language": "Python",
-    "description": "OctoPrint is the snappy web interface for your 3D printer!"
-  },
-  {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Always know what to expect from your data."
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "phuryn/pm-skills",
+    "repo": "TQZHR/grok2api",
     "branch": "main",
     "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
-  },
-  {
-    "repo": "Percepta-Core/transformer-vm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
-  },
-  {
-    "repo": "ghboke/claude-code-reverse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude code源码分析报告"
-  },
-  {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "joeseesun/markdown-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
-  },
-  {
-    "repo": "titanwings/ex-skill",
-    "branch": "master",
-    "language": "Python",
-    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
-  },
-  {
-    "repo": "scrya-com/rotorquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
-  },
-  {
-    "repo": "cdppcorp/KESE-KIT",
-    "branch": "main",
-    "language": "Python",
-    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
-  },
-  {
-    "repo": "gradio-app/gradio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-Math",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "poleHansen/baibaiAIGC",
-    "branch": "main",
-    "language": "Python",
-    "description": "baibaiAIGC"
-  },
-  {
-    "repo": "spring-projects/spring-framework",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Framework"
-  },
-  {
-    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ansible-collections/community.general",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ansible Community General Collection"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "MhmRdd/google-rkp-sw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "vector-im/hydrogen-web",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Lightweight matrix client with legacy and mobile browser support"
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
   }
 ]
