@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Liuziyu77/Valen",
-    "branch": "main",
-    "language": "Python",
-    "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision."
-  },
-  {
-    "repo": "skycryptsite/SkyCrypt",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
-  },
-  {
-    "repo": "simonw/rodney",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for interacting with the web"
-  },
-  {
-    "repo": "lukasHoel/video_to_world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
-  },
-  {
-    "repo": "soongenwong/claudecode",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free."
-  },
-  {
-    "repo": "AndrewVos/endless-toil",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hear your agent suffer through your code"
-  },
-  {
-    "repo": "cloudwego/kitex",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
-  },
-  {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
-  },
-  {
-    "repo": "6551Team/daily-news",
-    "branch": "main",
-    "language": "Python",
-    "description": "Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category."
-  },
-  {
-    "repo": "vercel-labs/emulate",
+    "repo": "vxcozy/tome",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Local API emulation for CI and no-network sandboxes"
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
   },
   {
-    "repo": "curvefi/curve-contract",
-    "branch": "master",
-    "language": "Python",
-    "description": "Vyper contracts used in Curve.fi exchange pools."
-  },
-  {
-    "repo": "microsoft/wslg",
+    "repo": "Fei2411/DeepSeek-Bot",
     "branch": "main",
-    "language": "C++",
-    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+    "language": "JavaScript",
+    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats."
   },
   {
-    "repo": "async-rs/async-std",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Async version of the Rust standard library"
-  },
-  {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
+    "repo": "contatomegasign/finance-account-tool",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
+    "description": "financial account tool designed to help organizations evaluate controls, accounting discipline, and compliance maturity"
   },
   {
-    "repo": "Juwluuu/Subnautica-2-Release",
+    "repo": "skerry699/agent-symphony",
     "branch": "main",
-    "language": "C++",
-    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
+    "language": "HTML",
+    "description": "Multi-Agent AI Task Orchestrator 2026"
   },
   {
-    "repo": "spring-projects/spring-framework",
+    "repo": "wassermanproductions/motion-previs-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization."
+  },
+  {
+    "repo": "hanlinwenyuan/hlwy-ai-checker",
+    "branch": "main",
+    "language": "HTML",
+    "description": "检查第三方AI API是否掺假以及渠道一致"
+  },
+  {
+    "repo": "itsbalihere/Barry_s_Prison_Run_-_Auto-Escape___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-escape and ESP for Barry's Prison Run, the prison escape game[reference:42]. Escape prison, avoid guards, and survive every round."
+  },
+  {
+    "repo": "synacktiv/DCOMIllusionist",
+    "branch": "main",
+    "language": "C#",
+    "description": "DCOM in memory and fileless lateral movement techniques through .Net deserilization"
+  },
+  {
+    "repo": "nationaldesignstudio/rampart",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "johndev-robo/Color_Picker_with_Palette_Builder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects."
+  },
+  {
+    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
+  },
+  {
+    "repo": "ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included."
+  },
+  {
+    "repo": "OStudi/short-video-generator-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
+  },
+  {
+    "repo": "elder-plinius/T3MP3ST",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+  },
+  {
+    "repo": "bytedance/Bernini",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+  },
+  {
+    "repo": "Happy-Chen-CH/Educational_RAG_System",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中"
+  },
+  {
+    "repo": "TanStack/charts",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives."
+  },
+  {
+    "repo": "aws/context-ontology-accelerator",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
+  },
+  {
+    "repo": "catsing/oot-pc-port",
+    "branch": "main",
+    "language": "C#",
+    "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement"
+  },
+  {
+    "repo": "kennethkhoocy/lit-review-orchestrator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Document-driven literature-review pipeline with an anti-hallucination verification stage (confirm-or-drop against OpenAlex/Crossref/Semantic Scholar)."
+  },
+  {
+    "repo": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
+  },
+  {
+    "repo": "joeseesun/qiaomu-ai-prd",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts."
+  },
+  {
+    "repo": "6537445/jenny-mod-minecraft-",
     "branch": "main",
     "language": "Java",
-    "description": "Spring Framework"
+    "description": "jenny mod minecraft mod de jenny download video curseforge 1.21 forge fabric tlauncher java edition bedrock mcpe virtual girlfriend addon skins gameplay setup guide latest version 26.1.2 windows 11 free update config tutorial"
   },
   {
-    "repo": "TraderAlice/Auto-Quant",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "vector-im/hydrogen-web",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Lightweight matrix client with legacy and mobile browser support"
-  },
-  {
-    "repo": "argoproj/argo-rollouts",
-    "branch": "master",
-    "language": "Go",
-    "description": "Progressive Delivery for Kubernetes"
-  },
-  {
-    "repo": "nexu-io/auto-github-contributor",
+    "repo": "l0ng-ai/papr",
     "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "golbin/hop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "tanbiralam/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
-  },
-  {
-    "repo": "delta-io/delta",
-    "branch": "master",
-    "language": "Scala",
-    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
-  },
-  {
-    "repo": "YunjueTech/Yunjue-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
+    "language": "Rust",
+    "description": "A fast, native RSS reader for the desktop."
   }
 ]
