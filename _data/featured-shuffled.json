@@ -1,146 +1,146 @@
 [
   {
-    "repo": "prometheus/client_python",
+    "repo": "Liuziyu77/Valen",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision."
+  },
+  {
+    "repo": "skycryptsite/SkyCrypt",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
+  },
+  {
+    "repo": "simonw/rodney",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for interacting with the web"
+  },
+  {
+    "repo": "lukasHoel/video_to_world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
+  },
+  {
+    "repo": "soongenwong/claudecode",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free."
+  },
+  {
+    "repo": "AndrewVos/endless-toil",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hear your agent suffer through your code"
+  },
+  {
+    "repo": "cloudwego/kitex",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+  },
+  {
+    "repo": "6551Team/daily-news",
+    "branch": "main",
+    "language": "Python",
+    "description": "Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category."
+  },
+  {
+    "repo": "vercel-labs/emulate",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local API emulation for CI and no-network sandboxes"
+  },
+  {
+    "repo": "curvefi/curve-contract",
     "branch": "master",
     "language": "Python",
-    "description": "Prometheus instrumentation library for Python applications"
+    "description": "Vyper contracts used in Curve.fi exchange pools."
   },
   {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "vinzdg/codenotch",
+    "repo": "microsoft/wslg",
     "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge."
+    "language": "C++",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
   },
   {
-    "repo": "brackets-cont/brackets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
-  },
-  {
-    "repo": "ExpondoEgirl/felca-reporter",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
-  },
-  {
-    "repo": "grpc-ecosystem/grpc-gateway",
-    "branch": "master",
-    "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
-  },
-  {
-    "repo": "rust-lang/rust",
+    "repo": "async-rs/async-std",
     "branch": "master",
     "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
+    "description": "Async version of the Rust standard library"
   },
   {
-    "repo": "mostafamo123/Pragmata-Reframework",
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A Vue3.x UI components lib for TDesign."
+  },
+  {
+    "repo": "Juwluuu/Subnautica-2-Release",
     "branch": "main",
     "language": "C++",
-    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
+    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
   },
   {
-    "repo": "microsoft/ML-For-Beginners",
+    "repo": "spring-projects/spring-framework",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+    "language": "Java",
+    "description": "Spring Framework"
   },
   {
-    "repo": "AdguardTeam/AdGuardHome",
+    "repo": "TraderAlice/Auto-Quant",
     "branch": "master",
-    "language": "Go",
-    "description": "Network-wide ads & trackers blocking DNS server"
-  },
-  {
-    "repo": "hzm0321/real-time-fund",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基金实时估值查看"
-  },
-  {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
-    "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
-  },
-  {
-    "repo": "antirez/ds4",
-    "branch": "main",
-    "language": "C",
-    "description": "DeepSeek 4 Flash local inference engine for Metal"
-  },
-  {
-    "repo": "upper-up/meta-lobbying-and-other-findings",
-    "branch": "main",
-    "language": "HTML",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "jasonkneen/openclicky",
-    "branch": "main",
-    "language": "Swift",
-    "description": "openclicky -- the open source version of clicky"
-  },
-  {
-    "repo": "zacdcook/openclaw-billing-proxy",
+    "repo": "vector-im/hydrogen-web",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
-  },
-  {
-    "repo": "Snaplii-Inc/agent-to-merchant-payments",
-    "branch": "main",
-    "language": "Python",
-    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "About Crash game - frontend"
+    "description": "Lightweight matrix client with legacy and mobile browser support"
   },
   {
-    "repo": "kicad/kicad",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
-  },
-  {
-    "repo": "k3s-io/k3s",
+    "repo": "argoproj/argo-rollouts",
     "branch": "master",
     "language": "Go",
-    "description": "Lightweight Kubernetes"
+    "description": "Progressive Delivery for Kubernetes"
   },
   {
-    "repo": "understudy-ai/understudy",
+    "repo": "nexu-io/auto-github-contributor",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "golbin/hop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An understudy watches. Then performs."
+    "description": ""
   },
   {
-    "repo": "pypa/pipenv",
+    "repo": "tanbiralam/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+  },
+  {
+    "repo": "delta-io/delta",
+    "branch": "master",
+    "language": "Scala",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
+  },
+  {
+    "repo": "YunjueTech/Yunjue-Agent",
     "branch": "main",
     "language": "Python",
-    "description": "Python Development Workflow for Humans."
-  },
-  {
-    "repo": "jsdom/jsdom",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript implementation of various web standards, for use with Node.js"
-  },
-  {
-    "repo": "espressif/esp-claw",
-    "branch": "master",
-    "language": "C",
-    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
   }
 ]
