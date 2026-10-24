@@ -1,8 +1,8 @@
 {
-  "repo": "Zagitta/gpu-unlock",
+  "repo": "nichochar/ari",
   "branch": "main",
-  "language": "C",
-  "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-  "stars": 487,
-  "forks": 71
+  "language": "TypeScript",
+  "description": "learn stuff with pen + paper + AI",
+  "stars": 198,
+  "forks": 17
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "BradGroux/veritas-kanban",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
+    "repo": "prometheus/client_python",
+    "branch": "master",
+    "language": "Python",
+    "description": "Prometheus instrumentation library for Python applications"
   },
   {
-    "repo": "Shopify/javy",
+    "repo": "bitwarden/clients",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+  },
+  {
+    "repo": "vinzdg/codenotch",
     "branch": "main",
+    "language": "Swift",
+    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge."
+  },
+  {
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+  },
+  {
+    "repo": "ExpondoEgirl/felca-reporter",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "branch": "master",
+    "language": "Go",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "branch": "master",
     "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
+    "description": "Empowering everyone to build reliable and efficient software."
   },
   {
-    "repo": "ReactiveX/RxPY",
-    "branch": "master",
-    "language": "Python",
-    "description": "ReactiveX for Python"
-  },
-  {
-    "repo": "d4ncboz/qoder-workflow",
+    "repo": "mostafamo123/Pragmata-Reframework",
     "branch": "main",
-    "language": "Python",
-    "description": "Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem."
+    "language": "C++",
+    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
   },
   {
-    "repo": "akullpp/awesome-java",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
-  },
-  {
-    "repo": "jitsi/jitsi-meet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-  },
-  {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "pallets/werkzeug",
+    "repo": "microsoft/ML-For-Beginners",
     "branch": "main",
-    "language": "Python",
-    "description": "The comprehensive WSGI web application library."
+    "language": "Jupyter Notebook",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
   },
   {
-    "repo": "XyhTender/qq-farm-automation-bot",
+    "repo": "AdguardTeam/AdGuardHome",
+    "branch": "master",
+    "language": "Go",
+    "description": "Network-wide ads & trackers blocking DNS server"
+  },
+  {
+    "repo": "hzm0321/real-time-fund",
     "branch": "main",
     "language": "JavaScript",
-    "description": "QQ农场全自动脚本"
+    "description": "基金实时估值查看"
   },
   {
-    "repo": "yaojingang/geo-citation-lab",
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+  },
+  {
+    "repo": "antirez/ds4",
     "branch": "main",
-    "language": "Python",
-    "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations."
+    "language": "C",
+    "description": "DeepSeek 4 Flash local inference engine for Metal"
   },
   {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "LYL1015/JarvisX-Cowork",
-    "branch": "main",
-    "language": "Python",
-    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
-  },
-  {
-    "repo": "ygwyg/MAHORAGA",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
-  },
-  {
-    "repo": "nhevers/MoltBrain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "dotnet/aspnetcore",
-    "branch": "main",
-    "language": "C#",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
-  },
-  {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
-  },
-  {
-    "repo": "poteto/brainmaxxing",
-    "branch": "main",
-    "language": "Python",
-    "description": "stupid simple persistent memory and skill improvement"
-  },
-  {
-    "repo": "appergb/openless",
+    "repo": "upper-up/meta-lobbying-and-other-findings",
     "branch": "main",
     "language": "HTML",
-    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
-  },
-  {
-    "repo": "letmutex/gitas",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Git Account Switch"
-  },
-  {
-    "repo": "Heartflabrace/Doubao-Claw",
-    "branch": "main",
-    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "lqs/retrotick",
+    "repo": "jasonkneen/openclicky",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
+    "language": "Swift",
+    "description": "openclicky -- the open source version of clicky"
   },
   {
-    "repo": "wevm/incur",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI framework for agents and humans"
+    "repo": "zacdcook/openclaw-billing-proxy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
   },
   {
-    "repo": "ierror/synaps-cad",
+    "repo": "Snaplii-Inc/agent-to-merchant-payments",
     "branch": "main",
-    "language": "Rust",
-    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
+    "language": "Python",
+    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
+  },
+  {
+    "repo": "kicad/kicad",
+    "branch": "master",
+    "language": "C++",
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
+    "language": "Go",
+    "description": "Lightweight Kubernetes"
+  },
+  {
+    "repo": "understudy-ai/understudy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An understudy watches. Then performs."
+  },
+  {
+    "repo": "pypa/pipenv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Development Workflow for Humans."
+  },
+  {
+    "repo": "jsdom/jsdom",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript implementation of various web standards, for use with Node.js"
+  },
+  {
+    "repo": "espressif/esp-claw",
+    "branch": "master",
+    "language": "C",
+    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
   }
 ]
