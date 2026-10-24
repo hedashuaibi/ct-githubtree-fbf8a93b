@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vxcozy/tome",
+    "repo": "NikolayS/PGSimCity",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
+    "description": "An explorable 3D city that shows how Postgres actually works"
   },
   {
-    "repo": "Fei2411/DeepSeek-Bot",
+    "repo": "prometheus/prometheus",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats."
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
   },
   {
-    "repo": "contatomegasign/finance-account-tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "financial account tool designed to help organizations evaluate controls, accounting discipline, and compliance maturity"
-  },
-  {
-    "repo": "skerry699/agent-symphony",
+    "repo": "L1AD/claude-task-viewer",
     "branch": "main",
     "language": "HTML",
-    "description": "Multi-Agent AI Task Orchestrator 2026"
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
   },
   {
-    "repo": "wassermanproductions/motion-previs-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization."
-  },
-  {
-    "repo": "hanlinwenyuan/hlwy-ai-checker",
-    "branch": "main",
-    "language": "HTML",
-    "description": "检查第三方AI API是否掺假以及渠道一致"
-  },
-  {
-    "repo": "itsbalihere/Barry_s_Prison_Run_-_Auto-Escape___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-escape and ESP for Barry's Prison Run, the prison escape game[reference:42]. Escape prison, avoid guards, and survive every round."
-  },
-  {
-    "repo": "synacktiv/DCOMIllusionist",
-    "branch": "main",
-    "language": "C#",
-    "description": "DCOM in memory and fileless lateral movement techniques through .Net deserilization"
-  },
-  {
-    "repo": "nationaldesignstudio/rampart",
+    "repo": "prysmaticlabs/prysm",
     "branch": "master",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Go",
+    "description": "Go implementation of Ethereum proof of stake"
   },
   {
-    "repo": "johndev-robo/Color_Picker_with_Palette_Builder",
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
+  },
+  {
+    "repo": "SudoPlz/spicetify-cli",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command-line tool to customize Spotify client."
+  },
+  {
+    "repo": "borkdude/cream",
+    "branch": "main",
+    "language": "Clojure",
+    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+  },
+  {
+    "repo": "pytest-dev/pytest",
     "branch": "main",
     "language": "Python",
-    "description": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects."
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
   },
   {
-    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
+    "repo": "nateherkai/hyperframes-student-kit",
     "branch": "main",
+    "language": "HTML",
+    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
+  },
+  {
+    "repo": "explosion/spaCy",
+    "branch": "master",
     "language": "Python",
-    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
   },
   {
-    "repo": "ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included."
+    "repo": "MariaDB/server",
+    "branch": "11.4",
+    "language": "C++",
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
   },
   {
-    "repo": "OStudi/short-video-generator-AI",
+    "repo": "Minecraft-Community-Edition/client",
     "branch": "main",
-    "language": "Python",
-    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
+    "language": "C++",
+    "description": "Whispers LCE Client"
   },
   {
-    "repo": "elder-plinius/T3MP3ST",
+    "repo": "bjarneo/cliamp",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+    "language": "Go",
+    "description": "Terminal Winamp"
   },
   {
-    "repo": "bytedance/Bernini",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+    "repo": "hammerjs/hammer.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
   },
   {
-    "repo": "Happy-Chen-CH/Educational_RAG_System",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中"
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
   },
   {
-    "repo": "TanStack/charts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives."
-  },
-  {
-    "repo": "aws/context-ontology-accelerator",
-    "branch": "main",
-    "language": "Python",
-    "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
-  },
-  {
-    "repo": "catsing/oot-pc-port",
-    "branch": "main",
-    "language": "C#",
-    "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement"
-  },
-  {
-    "repo": "kennethkhoocy/lit-review-orchestrator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Document-driven literature-review pipeline with an anti-hallucination verification stage (confirm-or-drop against OpenAlex/Crossref/Semantic Scholar)."
-  },
-  {
-    "repo": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
-  },
-  {
-    "repo": "joeseesun/qiaomu-ai-prd",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts."
-  },
-  {
-    "repo": "6537445/jenny-mod-minecraft-",
-    "branch": "main",
-    "language": "Java",
-    "description": "jenny mod minecraft mod de jenny download video curseforge 1.21 forge fabric tlauncher java edition bedrock mcpe virtual girlfriend addon skins gameplay setup guide latest version 26.1.2 windows 11 free update config tutorial"
-  },
-  {
-    "repo": "l0ng-ai/papr",
-    "branch": "main",
+    "repo": "fish-shell/fish-shell",
+    "branch": "master",
     "language": "Rust",
-    "description": "A fast, native RSS reader for the desktop."
+    "description": "The user-friendly command line shell."
+  },
+  {
+    "repo": "rclone/rclone",
+    "branch": "master",
+    "language": "Go",
+    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+  },
+  {
+    "repo": "mastodon/mastodon",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Your self-hosted, globally interconnected microblogging community"
+  },
+  {
+    "repo": "hubeiqiao/apple-bento-grid",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "branch": "main",
+    "language": "Python",
+    "description": "matplotlib: plotting with Python"
+  },
+  {
+    "repo": "andreisss/KslDump",
+    "branch": "main",
+    "language": "Python",
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+  },
+  {
+    "repo": "antfu/ghfs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
+  },
+  {
+    "repo": "saltstack/salt",
+    "branch": "master",
+    "language": "Python",
+    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
+  },
+  {
+    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
+    "branch": "main",
+    "language": "C++",
+    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
   }
 ]

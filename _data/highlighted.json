@@ -1,8 +1,8 @@
 {
-  "repo": "tombkeeper/BitKindle",
+  "repo": "soniciso1/ps5-linux-loader",
   "branch": "main",
   "language": "C",
-  "description": "A featured project on GitHubTree.",
-  "stars": 204,
-  "forks": 24
+  "description": "Run Linux on PS5 - with 13.60 support including PS5 Pro (fork of ps5-linux/ps5-linux-loader)",
+  "stars": 224,
+  "forks": 26
 }
