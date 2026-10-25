@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zeromicro/go-zero",
+    "repo": "react-native-webview/react-native-webview",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Cross-Platform WebView"
+  },
+  {
+    "repo": "Eronred/expo-agent-spinners",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "branch": "main",
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "yoge7388095s/eth-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Automated trading bot for Ethereum with gas preview, router support and terminal menu."
+  },
+  {
+    "repo": "ZimengXiong/tinyTouch",
+    "branch": "main",
+    "language": "C",
+    "description": "authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security"
+  },
+  {
+    "repo": "shibadogcap/dpgk",
+    "branch": "main",
+    "language": "Go",
+    "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ"
+  },
+  {
+    "repo": "zerosupercycIe/risk-free-sniper",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "yoheinakajima/graphcon-deck",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "70478581-max/bamboohr-desktop-integration-hub",
+    "branch": "main",
+    "language": "HTML",
+    "description": "BambooHR Desktop App 2026 for Windows HR Management"
+  },
+  {
+    "repo": "TryCaspian/caspian-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI."
+  },
+  {
+    "repo": "tandpfun/wardrobe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Your clothes, extracted and organized with gpt-image."
+  },
+  {
+    "repo": "codejunkie99/meridian-company-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "HITsz-TMG/KnowAct",
+    "branch": "main",
+    "language": "Python",
+    "description": "Recursive Self-Improvement GUI Assistant"
+  },
+  {
+    "repo": "joeynyc/Grok-UI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local-first live command center for Grok Build — runtime, ACP control, session history, and Git changes."
+  },
+  {
+    "repo": "jcranokc/app-monitor",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Local-first macOS app usage, storage, cleanup, update, and uninstall monitor."
+  },
+  {
+    "repo": "livetennisapi/livetennisapi-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability"
+  },
+  {
+    "repo": "Upanshi-Mittal/Hades_II_Trainer_X",
+    "branch": "main",
+    "language": "Python",
+    "description": "God mode, unlimited resources, and one-hit kill for Hades II. Take zero damage, infinite health and mana, one-shot all enemies."
+  },
+  {
+    "repo": "Capminal/capminal-contracts",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "Capminal Smart Contracts Repository"
+  },
+  {
+    "repo": "imohammedyasin/steam-tools",
+    "branch": "main",
+    "language": "C#",
+    "description": "Steam Tools lua steamtools  download manifest generator Steam library manager achievement  ArchiSteamFarm ASF idlemaster Watt Toolkit"
+  },
+  {
+    "repo": "MooseGoose0701/skill-compose",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+  },
+  {
+    "repo": "AriPath/AriMando",
+    "branch": "main",
+    "language": "Python",
+    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+  },
+  {
+    "repo": "argoproj/argo-workflows",
     "branch": "master",
     "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+    "description": "Workflow Engine for Kubernetes"
   },
   {
-    "repo": "qa10devteam/behive",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality."
-  },
-  {
-    "repo": "Leonxlnx/claw-dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "juntoku9/claude_immigration_attorney",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude code environment for laywers"
-  },
-  {
-    "repo": "HarnessLab/claw-code-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
-  },
-  {
-    "repo": "nyanko3141592/remotion-voicevox-template",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
-  },
-  {
-    "repo": "Johnixr/claude-code-wechat-channel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
-  },
-  {
-    "repo": "alibaba-damo-academy/RynnBrain",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
-  },
-  {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "zhangbo2008/claude_code_annotated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claudecode泄露部分的代码解析"
-  },
-  {
-    "repo": "cypress-io/cypress",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
-  },
-  {
-    "repo": "surrealdb/surrealdb",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
-  },
-  {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
-    "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
-  },
-  {
-    "repo": "jae-jae/fetcher-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MCP server for fetch web page content using Playwright headless browser."
-  },
-  {
-    "repo": "LimHyungTae/Awesome-PhD-CV",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants."
-  },
-  {
-    "repo": "DevTechJr/turboquant-gpu",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "WebAssembly/wabt",
+    "repo": "jackquelineheth08161673473/discord-server-booster-2",
     "branch": "main",
     "language": "C++",
-    "description": "The WebAssembly Binary Toolkit"
-  },
-  {
-    "repo": "fastclaw-ai/weclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Connect to any agents with WeChat ClawBot."
-  },
-  {
-    "repo": "joeseesun/lennys-podcast-newsletter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Lenny Rachitsky 播客与 Newsletter 知识库。搜索、阅读、学习 Lenny 的 638 篇内容（289 播客转录 + 349 篇 Newsletter）。 涵盖产品管理、增长、设计、工程、AI、创业、领导力等 17 个主题。 触发词：Lenny、Lenny's Newslet"
-  },
-  {
-    "repo": "uton88/dan-binary-releases",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Public binary-only releases and install scripts for dan"
-  },
-  {
-    "repo": "cnlimiter/codex-manager-v3",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Abnerla/AI_paper",
-    "branch": "main",
-    "language": "Python",
-    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
-  },
-  {
-    "repo": "cnitlrt/AutoTeam",
-    "branch": "dev",
-    "language": "Python",
-    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
-  },
-  {
-    "repo": "Housetan218/claude-code-haha",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude-code-hahahhhhhhhhhhhhh"
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
   }
 ]
