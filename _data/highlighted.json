@@ -1,8 +1,8 @@
 {
-  "repo": "Charonyuu/whatsmyagentdoing",
+  "repo": "kukemc/bili-cli",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
-  "stars": 211,
-  "forks": 14
+  "language": "Python",
+  "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
+  "stars": 224,
+  "forks": 13
 }

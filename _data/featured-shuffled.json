@@ -1,146 +1,146 @@
 [
   {
-    "repo": "react-native-webview/react-native-webview",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Cross-Platform WebView"
-  },
-  {
-    "repo": "Eronred/expo-agent-spinners",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
-  },
-  {
-    "repo": "n8n-io/n8n",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
-  },
-  {
-    "repo": "quarkusio/quarkus",
-    "branch": "main",
-    "language": "Java",
-    "description": "Quarkus: Supersonic Subatomic Java."
-  },
-  {
-    "repo": "yoge7388095s/eth-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Automated trading bot for Ethereum with gas preview, router support and terminal menu."
-  },
-  {
-    "repo": "ZimengXiong/tinyTouch",
-    "branch": "main",
-    "language": "C",
-    "description": "authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security"
-  },
-  {
-    "repo": "shibadogcap/dpgk",
-    "branch": "main",
-    "language": "Go",
-    "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ"
-  },
-  {
-    "repo": "zerosupercycIe/risk-free-sniper",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "yoheinakajima/graphcon-deck",
+    "repo": "anonymous-report-421/GPT-as-Policy",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "GPT as Policy"
   },
   {
-    "repo": "70478581-max/bamboohr-desktop-integration-hub",
-    "branch": "main",
-    "language": "HTML",
-    "description": "BambooHR Desktop App 2026 for Windows HR Management"
-  },
-  {
-    "repo": "TryCaspian/caspian-sdk",
-    "branch": "main",
+    "repo": "python-poetry/poetry",
+    "branch": "master",
     "language": "Python",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI."
+    "description": "Python packaging and dependency management made easy"
   },
   {
-    "repo": "tandpfun/wardrobe",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Your clothes, extracted and organized with gpt-image."
-  },
-  {
-    "repo": "codejunkie99/meridian-company-os",
+    "repo": "zzzzshawn/matrix",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "HITsz-TMG/KnowAct",
-    "branch": "main",
-    "language": "Python",
-    "description": "Recursive Self-Improvement GUI Assistant"
-  },
-  {
-    "repo": "joeynyc/Grok-UI",
+    "repo": "jzOcb/xhs-note-health-checker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Local-first live command center for Grok Build — runtime, ACP control, session history, and Git changes."
+    "description": "Chrome 扩展：一眼看清小红书笔记限流状态 🩺"
   },
   {
-    "repo": "jcranokc/app-monitor",
+    "repo": "0xGF/boneyard",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Auto generated skeleton loading framework"
+  },
+  {
+    "repo": "lbjlaq/Antigravity-Tools-LS",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE."
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
+  },
+  {
+    "repo": "THUDM/CogVLM",
+    "branch": "main",
+    "language": "Python",
+    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
+  },
+  {
+    "repo": "kellyvv/PhoneClaw",
     "branch": "main",
     "language": "Swift",
-    "description": "Local-first macOS app usage, storage, cleanup, update, and uninstall monitor."
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
   },
   {
-    "repo": "livetennisapi/livetennisapi-mcp",
+    "repo": "Sir-Scuzza/gluetun-webui",
     "branch": "main",
     "language": "JavaScript",
-    "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability"
+    "description": ""
   },
   {
-    "repo": "Upanshi-Mittal/Hades_II_Trainer_X",
+    "repo": "rust-unofficial/awesome-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A curated list of Rust code and resources."
+  },
+  {
+    "repo": "pola-rs/polars",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Extremely fast Query Engine for DataFrames, written in Rust"
+  },
+  {
+    "repo": "AICoderTudou/claude-code-tudou",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
+  },
+  {
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
+  },
+  {
+    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "God mode, unlimited resources, and one-hit kill for Hades II. Take zero damage, infinite health and mana, one-shot all enemies."
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "Capminal/capminal-contracts",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "Capminal Smart Contracts Repository"
-  },
-  {
-    "repo": "imohammedyasin/steam-tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "Steam Tools lua steamtools  download manifest generator Steam library manager achievement  ArchiSteamFarm ASF idlemaster Watt Toolkit"
-  },
-  {
-    "repo": "MooseGoose0701/skill-compose",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
-  },
-  {
-    "repo": "AriPath/AriMando",
-    "branch": "main",
-    "language": "Python",
-    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
-  },
-  {
-    "repo": "argoproj/argo-workflows",
+    "repo": "keithnull/TeachYourselfCS-CN",
     "branch": "master",
-    "language": "Go",
-    "description": "Workflow Engine for Kubernetes"
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
   },
   {
-    "repo": "jackquelineheth08161673473/discord-server-booster-2",
+    "repo": "hehehai/voxt",
     "branch": "main",
-    "language": "C++",
-    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+  },
+  {
+    "repo": "mroboff/vm-curator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "nushell/nushell",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A new type of shell"
+  },
+  {
+    "repo": "google/trax",
+    "branch": "master",
+    "language": "Python",
+    "description": "Trax — Deep Learning with Clear Code and Speed"
+  },
+  {
+    "repo": "CyC2018/CS-Notes",
+    "branch": "master",
+    "language": "Other",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "repo": "duriantaco/fyn",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows."
   }
 ]
