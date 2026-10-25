@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pointfreeco/swift-composable-architecture",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
-  },
-  {
-    "repo": "pro-vi/cc-stretch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it"
-  },
-  {
-    "repo": "dotnet/aspnetcore",
-    "branch": "main",
-    "language": "C#",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
-  },
-  {
-    "repo": "godotengine/godot",
+    "repo": "zeromicro/go-zero",
     "branch": "master",
-    "language": "C++",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+    "language": "Go",
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
   },
   {
-    "repo": "Jane-xiaoer/x-fetcher",
+    "repo": "qa10devteam/behive",
     "branch": "main",
     "language": "Python",
+    "description": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality."
+  },
+  {
+    "repo": "Leonxlnx/claw-dev",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "starship/starship",
+    "repo": "juntoku9/claude_immigration_attorney",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude code environment for laywers"
+  },
+  {
+    "repo": "HarnessLab/claw-code-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
+  },
+  {
+    "repo": "nyanko3141592/remotion-voicevox-template",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+  },
+  {
+    "repo": "Johnixr/claude-code-wechat-channel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
+  },
+  {
+    "repo": "alibaba-damo-academy/RynnBrain",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "branch": "main",
     "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+    "description": "A curated list of Rust code and resources."
   },
   {
-    "repo": "starccy/doubaoime-asr",
-    "branch": "main",
-    "language": "Python",
-    "description": "豆包输入法语音识别的非官方 Python 客户端"
-  },
-  {
-    "repo": "google-deepmind/graphcast",
-    "branch": "main",
-    "language": "Python",
-    "description": "Deep learning weather model from Google DeepMind."
-  },
-  {
-    "repo": "triggerdotdev/trigger.dev",
+    "repo": "zhangbo2008/claude_code_annotated",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+    "description": "claudecode泄露部分的代码解析"
   },
   {
-    "repo": "RyanCodrai/py-turboquant",
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+  },
+  {
+    "repo": "dateutil/dateutil",
+    "branch": "master",
+    "language": "Python",
+    "description": "Useful extensions to the standard Python datetime features"
+  },
+  {
+    "repo": "jae-jae/fetcher-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MCP server for fetch web page content using Playwright headless browser."
+  },
+  {
+    "repo": "LimHyungTae/Awesome-PhD-CV",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants."
+  },
+  {
+    "repo": "DevTechJr/turboquant-gpu",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "esaradev/icarus-daedalus",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
-  },
-  {
-    "repo": "0xSero/moe-compress",
-    "branch": "main",
-    "language": "Python",
-    "description": "Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantization/benchmark/publish stages, and render auditable reports."
-  },
-  {
-    "repo": "pytorch/audio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
-  },
-  {
-    "repo": "airbnb/lottie-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
-  },
-  {
-    "repo": "tj/n",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node version management"
-  },
-  {
-    "repo": "microsoft/autogen",
-    "branch": "main",
-    "language": "Python",
-    "description": "A programming framework for agentic AI"
-  },
-  {
-    "repo": "limesupporterdoor/LockDown-Browser-Bypass-Tool",
-    "branch": "main",
-    "language": "C#",
-    "description": "Enables window switching and tab navigation in restricted browser environments"
-  },
-  {
-    "repo": "zacdcook/openclaw-billing-proxy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
-  },
-  {
-    "repo": "antonmedv/fx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Terminal JSON viewer & processor"
-  },
-  {
-    "repo": "ryanstephen/lil-agents",
-    "branch": "main",
-    "language": "Swift",
-    "description": "tiny AI companions that live on your macOS dock"
-  },
-  {
-    "repo": "mosaxiv/clawlet",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant"
-  },
-  {
-    "repo": "magnum6actual/flipoff",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
-  },
-  {
-    "repo": "n8n-io/n8n",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
-  },
-  {
-    "repo": "Juwluuu/Subnautica-2-Release",
+    "repo": "WebAssembly/wabt",
     "branch": "main",
     "language": "C++",
-    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
+    "description": "The WebAssembly Binary Toolkit"
+  },
+  {
+    "repo": "fastclaw-ai/weclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "Connect to any agents with WeChat ClawBot."
+  },
+  {
+    "repo": "joeseesun/lennys-podcast-newsletter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Lenny Rachitsky 播客与 Newsletter 知识库。搜索、阅读、学习 Lenny 的 638 篇内容（289 播客转录 + 349 篇 Newsletter）。 涵盖产品管理、增长、设计、工程、AI、创业、领导力等 17 个主题。 触发词：Lenny、Lenny's Newslet"
+  },
+  {
+    "repo": "uton88/dan-binary-releases",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Public binary-only releases and install scripts for dan"
+  },
+  {
+    "repo": "cnlimiter/codex-manager-v3",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Abnerla/AI_paper",
+    "branch": "main",
+    "language": "Python",
+    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+  },
+  {
+    "repo": "cnitlrt/AutoTeam",
+    "branch": "dev",
+    "language": "Python",
+    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
+  },
+  {
+    "repo": "Housetan218/claude-code-haha",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude-code-hahahhhhhhhhhhhhh"
   }
 ]

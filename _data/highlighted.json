@@ -1,8 +1,8 @@
 {
-  "repo": "xMazaki/unbloat-android-tv",
-  "branch": "main",
-  "language": "Java",
-  "description": "Slim down any Android TV (ads, telemetry) + minimalist Apple TV-style home screen. Reversible, one double-click. 🇫🇷 Allégez n'importe quelle TV Android (pubs, télémétrie) + écran d'accueil minimaliste façon Apple TV. Réversible, en un double-clic.",
-  "stars": 185,
-  "forks": 14
+  "repo": "EricJujianZou/rederive",
+  "branch": "master",
+  "language": "Python",
+  "description": "Learn a codebase by re-deriving its design decisions yourself. A Claude Code skill.",
+  "stars": 198,
+  "forks": 6
 }
