@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NikolayS/PGSimCity",
+    "repo": "pointfreeco/swift-composable-architecture",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+  },
+  {
+    "repo": "pro-vi/cc-stretch",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An explorable 3D city that shows how Postgres actually works"
+    "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it"
   },
   {
-    "repo": "prometheus/prometheus",
+    "repo": "dotnet/aspnetcore",
     "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
   },
   {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
-  },
-  {
-    "repo": "prysmaticlabs/prysm",
+    "repo": "godotengine/godot",
     "branch": "master",
-    "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "SudoPlz/spicetify-cli",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command-line tool to customize Spotify client."
-  },
-  {
-    "repo": "borkdude/cream",
-    "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
-  },
-  {
-    "repo": "pytest-dev/pytest",
-    "branch": "main",
-    "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
-  },
-  {
-    "repo": "nateherkai/hyperframes-student-kit",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
-  },
-  {
-    "repo": "explosion/spaCy",
-    "branch": "master",
-    "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
-  },
-  {
-    "repo": "MariaDB/server",
-    "branch": "11.4",
     "language": "C++",
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
   },
   {
-    "repo": "Minecraft-Community-Edition/client",
+    "repo": "Jane-xiaoer/x-fetcher",
     "branch": "main",
-    "language": "C++",
-    "description": "Whispers LCE Client"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "bjarneo/cliamp",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terminal Winamp"
-  },
-  {
-    "repo": "hammerjs/hammer.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
-  },
-  {
-    "repo": "ossu/computer-science",
-    "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
-  },
-  {
-    "repo": "fish-shell/fish-shell",
+    "repo": "starship/starship",
     "branch": "master",
     "language": "Rust",
-    "description": "The user-friendly command line shell."
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
   },
   {
-    "repo": "rclone/rclone",
-    "branch": "master",
-    "language": "Go",
-    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
-  },
-  {
-    "repo": "mastodon/mastodon",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Your self-hosted, globally interconnected microblogging community"
-  },
-  {
-    "repo": "hubeiqiao/apple-bento-grid",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
-  },
-  {
-    "repo": "matplotlib/matplotlib",
+    "repo": "starccy/doubaoime-asr",
     "branch": "main",
     "language": "Python",
-    "description": "matplotlib: plotting with Python"
+    "description": "豆包输入法语音识别的非官方 Python 客户端"
   },
   {
-    "repo": "andreisss/KslDump",
+    "repo": "google-deepmind/graphcast",
     "branch": "main",
     "language": "Python",
-    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+    "description": "Deep learning weather model from Google DeepMind."
   },
   {
-    "repo": "antfu/ghfs",
+    "repo": "triggerdotdev/trigger.dev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
   },
   {
-    "repo": "saltstack/salt",
-    "branch": "master",
+    "repo": "RyanCodrai/py-turboquant",
+    "branch": "main",
     "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
+    "description": ""
   },
   {
-    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
+    "repo": "esaradev/icarus-daedalus",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
+  },
+  {
+    "repo": "0xSero/moe-compress",
+    "branch": "main",
+    "language": "Python",
+    "description": "Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantization/benchmark/publish stages, and render auditable reports."
+  },
+  {
+    "repo": "pytorch/audio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
+  },
+  {
+    "repo": "airbnb/lottie-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+  },
+  {
+    "repo": "tj/n",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node version management"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "limesupporterdoor/LockDown-Browser-Bypass-Tool",
+    "branch": "main",
+    "language": "C#",
+    "description": "Enables window switching and tab navigation in restricted browser environments"
+  },
+  {
+    "repo": "zacdcook/openclaw-billing-proxy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
+  },
+  {
+    "repo": "antonmedv/fx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Terminal JSON viewer & processor"
+  },
+  {
+    "repo": "ryanstephen/lil-agents",
+    "branch": "main",
+    "language": "Swift",
+    "description": "tiny AI companions that live on your macOS dock"
+  },
+  {
+    "repo": "mosaxiv/clawlet",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight Personal AI Assistant"
+  },
+  {
+    "repo": "magnum6actual/flipoff",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+  },
+  {
+    "repo": "Juwluuu/Subnautica-2-Release",
     "branch": "main",
     "language": "C++",
-    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
+    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
   }
 ]
