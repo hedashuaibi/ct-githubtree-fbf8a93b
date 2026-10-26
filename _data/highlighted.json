@@ -1,8 +1,8 @@
 {
-  "repo": "Tencent/WeVisOne-VL",
+  "repo": "openmathmodel/open-math-harness",
   "branch": "main",
-  "language": "Jupyter Notebook",
-  "description": "WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.",
-  "stars": 207,
-  "forks": 15
+  "language": "Rust",
+  "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
+  "stars": 190,
+  "forks": 24
 }
