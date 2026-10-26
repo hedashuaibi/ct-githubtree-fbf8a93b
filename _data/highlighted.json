@@ -1,8 +1,8 @@
 {
-  "repo": "openmathmodel/open-math-harness",
+  "repo": "free-dam-man/homeline-residential-exit-skill",
   "branch": "main",
-  "language": "Rust",
-  "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
-  "stars": 190,
-  "forks": 24
+  "language": "Shell",
+  "description": "A featured project on GitHubTree.",
+  "stars": 177,
+  "forks": 36
 }

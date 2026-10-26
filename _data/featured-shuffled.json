@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "KORAYTEACHER/fintech-advisor",
+    "repo": "CaptainCodex/Among_Us_Ghost_Mode",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "ai fintech financial advisor for your portfolio"
+    "language": "Python",
+    "description": "See all roles, tasks, and chat logs in Among Us. Ghost vision, task tracker, role reveal, and chat logger. Host or client."
   },
   {
-    "repo": "miuuyy/Astra-Ares",
+    "repo": "shallowdream204/BitDance",
+    "branch": "main",
+    "language": "Python",
+    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage."
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
   },
   {
-    "repo": "ventex-vives/claude-autonomous-deployment",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Claude 2026: The Developer’s Smartest AI for Long-Context Code & Writing"
-  },
-  {
-    "repo": "afumu/openteam",
-    "branch": "main",
+    "repo": "refinedev/refine",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "A Chrome extension for orchestrating local AI-agent team workflows across web AI services."
+    "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
   },
   {
-    "repo": "pingmike2/freebuff2api-wokers",
+    "repo": "jitsi/jitsi-meet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+  },
+  {
+    "repo": "rome/tools",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
+  },
+  {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+  },
+  {
+    "repo": "harlan-zw/vue-ecosystem-skills",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+  },
+  {
+    "repo": "NOBB2333/ClipCascade_go",
+    "branch": "main",
+    "language": "Go",
+    "description": "ClipCascade go语言重制版"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+  },
+  {
+    "repo": "PinchToDebug/EverythingQuickSearch",
+    "branch": "master",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "vava-nessa/free-coding-models",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "2aronS/Duel-Agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI, SDK, and IDE plugins for Duel Agents"
+    "repo": "longhorn/longhorn",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Cloud-Native distributed storage built on and for Kubernetes"
   },
   {
-    "repo": "zargarkhan1/quorum-alpha-dash",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Advanced Multi-Agent AI Crude Oil Trading System with Adversarial Validation 2026"
-  },
-  {
-    "repo": "tahzeeb031/harmonize-ffmpeg-pipeline",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Self-Hosted 24/7 Media Hub with AI Playlist Curation & Smart Transcoding 2026"
-  },
-  {
-    "repo": "imohammedyasin/steam-tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "Steam Tools lua steamtools  download manifest generator Steam library manager achievement  ArchiSteamFarm ASF idlemaster Watt Toolkit"
-  },
-  {
-    "repo": "generaltech094-create/bamboo-hr-employee-flow",
-    "branch": "main",
-    "language": "HTML",
-    "description": "BambooHR Performance Manager 2026: Track Goals & Automate HR Workflows"
-  },
-  {
-    "repo": "MarshallBear1/react-native-system-thumbnails",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
-  },
-  {
-    "repo": "Rohim616/OneDrive_Sync_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-sync files, backup, and version control for OneDrive. Sync folders, restore previous versions, encrypt files, and generate links. Manage OneDrive efficiently."
-  },
-  {
-    "repo": "simonmakzon/GitDeepSearch",
+    "repo": "nodejs/node",
     "branch": "main",
     "language": "JavaScript",
-    "description": "GitDeepSearch - Deep search repository"
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
   },
   {
-    "repo": "arcships/light-ocr",
+    "repo": "fluxcd/flux2",
     "branch": "main",
-    "language": "C++",
-    "description": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter"
+    "language": "Go",
+    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit."
   },
   {
-    "repo": "colebemis/notion-workers",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "My Notion Workers"
-  },
-  {
-    "repo": "v-modal/vmodal_sdk_android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Multimodal Video Search SDK for Android Kotlin"
-  },
-  {
-    "repo": "mocasus/Auto-FreeCF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes"
-  },
-  {
-    "repo": "Noumena-Network/code",
+    "repo": "AERT-7Y/kiro-auto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack"
+    "description": "kiro自动注册机"
   },
   {
-    "repo": "xoreaxeaxeax/asm-hall-of-shame",
+    "repo": "hamelsmu/claude-review-loop",
     "branch": "main",
-    "language": "C",
-    "description": "Racing to the bottom of CPU performance"
+    "language": "Shell",
+    "description": "Claude Code plugin: automated code review loop with Codex"
   },
   {
-    "repo": "HKUDS/OpenHarness",
+    "repo": "reduxjs/redux-toolkit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
+  },
+  {
+    "repo": "tonyqinatcmu/SlideBot-AI",
     "branch": "main",
-    "language": "Python",
-    "description": "OpenHarness: Open Agent Harness"
+    "language": "JavaScript",
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
   },
   {
-    "repo": "immanuwell/dockerfile-roast",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "lukasHoel/video_to_world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
-  },
-  {
-    "repo": "bschoepke/ableton-live-mcp",
+    "repo": "v4nsh0x/InstaTrace",
     "branch": "main",
     "language": "Python",
-    "description": "General-purpose MCP bridge for Ableton Live"
+    "description": "Private Instagram Post URL Extractor (Research POC)"
+  },
+  {
+    "repo": "daymonio/daymon",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
+  },
+  {
+    "repo": "zhuyansen/wx-favorites-report",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+  },
+  {
+    "repo": "ethanweber/posterskill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-assisted academic posters."
+  },
+  {
+    "repo": "EurekaClaw/EurekaClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repo of EurekaClaw"
   }
 ]
