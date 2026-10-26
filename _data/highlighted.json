@@ -1,8 +1,8 @@
 {
-  "repo": "kukemc/bili-cli",
+  "repo": "Tencent/WeVisOne-VL",
   "branch": "main",
-  "language": "Python",
-  "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
-  "stars": 224,
-  "forks": 13
+  "language": "Jupyter Notebook",
+  "description": "WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.",
+  "stars": 207,
+  "forks": 15
 }
