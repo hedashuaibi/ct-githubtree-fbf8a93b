@@ -1,8 +1,8 @@
 {
-  "repo": "man15h/tellyscope",
+  "repo": "wlnhnoqefoxt/adult-ai-video",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.",
-  "stars": 277,
-  "forks": 7
+  "language": "Python",
+  "description": "AI adult video generator: text-to-clip diffusion, image-to-video motion, 4K NSFW output, uncensored model presets",
+  "stars": 206,
+  "forks": 102
 }
