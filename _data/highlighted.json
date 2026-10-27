@@ -1,8 +1,8 @@
 {
-  "repo": "free-dam-man/homeline-residential-exit-skill",
+  "repo": "martinkeith700/ruyiJS",
   "branch": "main",
-  "language": "Shell",
-  "description": "A featured project on GitHubTree.",
-  "stars": 177,
-  "forks": 36
+  "language": "C++",
+  "description": "A new-generation, minimalist browser purpose-built for AI-driven automation. The authentic Firefox JavaScript engine and networking stack, with no window and no renderer — made for web scraping, JS reverse engineering, data collection, and getting past bot checks.",
+  "stars": 217,
+  "forks": 89
 }
