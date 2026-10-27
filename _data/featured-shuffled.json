@@ -1,146 +1,146 @@
 [
   {
-    "repo": "google/dopamine",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
-  },
-  {
-    "repo": "zimingttkx/QuantumFlow",
-    "branch": "main",
-    "language": "Python",
-    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
-  },
-  {
-    "repo": "sqlalchemy/sqlalchemy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Database Toolkit for Python"
-  },
-  {
-    "repo": "Git-creat7/grokRegister-cpa",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
-  },
-  {
-    "repo": "hoangnb24/harness-experimental",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "hxu296/tariff",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repository for tariff"
-  },
-  {
-    "repo": "cypress-io/cypress",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
-  },
-  {
-    "repo": "apache/httpcomponents-client",
-    "branch": "master",
-    "language": "Java",
-    "description": "Mirror of Apache HttpClient"
-  },
-  {
-    "repo": "apache/groovy",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
-  },
-  {
-    "repo": "xarbit/plasma6-applet-appgrid",
-    "branch": "main",
-    "language": "QML",
-    "description": "A modern  application launcher for KDE Plasma, inspired by macOS  and COSMIC."
-  },
-  {
-    "repo": "AERT-7Y/kiro-auto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kiro自动注册机"
-  },
-  {
-    "repo": "autoclaw-cc/xiaohongshu-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "xiaohongshu-skills"
-  },
-  {
-    "repo": "amadeusprotocol/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
+    "repo": "emscripten-core/emscripten",
     "branch": "main",
     "language": "C++",
-    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
   },
   {
-    "repo": "xuanyuanzhifeng/easytshark",
-    "branch": "main",
-    "language": "C",
-    "description": "一款开源的简洁好用的网络抓包分析软件"
+    "repo": "jamesob/local-llm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Everything I know about running LLMs locally"
   },
   {
-    "repo": "DanOps-1/gpt-pp-team",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+    "repo": "docker/buildx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
   },
   {
-    "repo": "radix-ui/primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-gateway",
-    "branch": "main",
+    "repo": "Anuken/Mindustry",
+    "branch": "master",
     "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+    "description": "The automation tower defense RTS"
   },
   {
-    "repo": "obsidianmd/obsidian-releases",
+    "repo": "nteract/nteract",
     "branch": "master",
-    "language": "Other",
-    "description": "Community plugins list, theme list, and releases of Obsidian."
-  },
-  {
-    "repo": "appium/appium",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
-  },
-  {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
+    "description": "📘 The interactive computing suite for you!  ✨"
   },
   {
-    "repo": "logseq/logseq",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
   },
   {
-    "repo": "TraderAlice/Auto-Quant",
+    "repo": "deepchem/deepchem",
     "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+  },
+  {
+    "repo": "huxiuhan/civ-finish-quotes",
+    "branch": "main",
+    "language": "Python",
+    "description": "A skilll for agent to add a Civilization-style ceremonial quote when a substantial multi-step task is truly complete."
+  },
+  {
+    "repo": "jazzband/django-debug-toolbar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A configurable set of panels that display various debug information about the current request/response."
+  },
+  {
+    "repo": "GoogleContainerTools/kaniko",
+    "branch": "main",
+    "language": "Go",
+    "description": "Build Container Images In Kubernetes"
+  },
+  {
+    "repo": "viperrcrypto/Siftly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+  },
+  {
+    "repo": "actions/runner",
+    "branch": "main",
+    "language": "C#",
+    "description": "The Runner for GitHub Actions :rocket:"
+  },
+  {
+    "repo": "dapr/dapr",
+    "branch": "master",
+    "language": "Go",
+    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+  },
+  {
+    "repo": "googleworkspace/cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+  },
+  {
+    "repo": "Rohit24567/HyperLiquid-Claw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
+  },
+  {
+    "repo": "aidenybai/element-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid"
+  },
+  {
+    "repo": "actions/setup-python",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
+  },
+  {
+    "repo": "go-micro/go-micro",
+    "branch": "master",
+    "language": "Go",
+    "description": "A Go microservices framework"
+  },
+  {
+    "repo": "google/flax",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Flax is a neural network library for JAX that is designed for flexibility."
+  },
+  {
+    "repo": "andreisss/KslDump",
+    "branch": "main",
+    "language": "Python",
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+  },
+  {
+    "repo": "elixir-volt/quickbeam",
+    "branch": "master",
+    "language": "C",
+    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
+  },
+  {
+    "repo": "MayersScott/rkn-block-checker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)"
+  },
+  {
+    "repo": "waybarrios/opencode-power-pack",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin."
+  },
+  {
+    "repo": "facebookresearch/detr",
+    "branch": "main",
+    "language": "Python",
+    "description": "End-to-End Object Detection with Transformers"
   }
 ]

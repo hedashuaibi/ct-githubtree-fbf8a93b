@@ -1,8 +1,8 @@
 {
-  "repo": "wcoxptzhhdbo/solana-sniper-bot",
+  "repo": "man15h/tellyscope",
   "branch": "main",
-  "language": "Python",
-  "description": "Solana sniper bot: pump.fun launch sniping, mempool/geyser monitoring, instant buy, auto sell, Jito MEV bundles",
-  "stars": 210,
-  "forks": 99
+  "language": "Kotlin",
+  "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.",
+  "stars": 277,
+  "forks": 7
 }
