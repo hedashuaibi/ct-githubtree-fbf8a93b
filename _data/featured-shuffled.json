@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bufbuild/buf",
-    "branch": "main",
-    "language": "Go",
-    "description": "The best way of working with Protocol Buffers."
-  },
-  {
-    "repo": "fjb040911/ai-rules",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
-  },
-  {
-    "repo": "dev-protocol/polymarket-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
-  },
-  {
-    "repo": "WebAssembly/spec",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "WebAssembly specification, reference interpreter, and test suite."
-  },
-  {
-    "repo": "ray-project/ray",
-    "branch": "master",
-    "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
-  },
-  {
-    "repo": "Nuzair46/Monarch",
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
     "branch": "main",
     "language": "Rust",
-    "description": "Detach, restore, and switch monitor layouts without touching cables."
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
   },
   {
-    "repo": "immanuwell/dockerfile-roast",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "writetoaniketparihar-collab/claude-spend",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "zju3dv/Scal3R",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "tiago1982santos-design/Hotkey_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create global hotkeys to launch applications, open files, or perform custom actions. Improve productivity by reducing mouse clicks."
-  },
-  {
-    "repo": "webpack-contrib/style-loader",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Style Loader"
-  },
-  {
-    "repo": "Neighbor-Z/SwiftMTP",
+    "repo": "wesbos/3d-model-anything",
     "branch": "main",
     "language": "Swift",
-    "description": "A modern MTP device management tool for macOS."
+    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser."
   },
   {
-    "repo": "zhilin1112/YellowKey-Bitlocker",
+    "repo": "owenlejeune/ArrMatey",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "YellowKey BitLocker Bypass Vulnerability : Zero-day exploit, proof-of-concept PoC, Chaotic Eclipse GitHub. Windows 11 bypass, Windows Server 2022 2025. WinRE recovery image, FsTx directory, System Volume Information, USB drive files, winpeshl.ini deletion, Transactional NTFS flaw, CTRL key shell, TPM-only backdoor."
-  },
-  {
-    "repo": "prusa3d/PrusaSlicer",
-    "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
-  },
-  {
-    "repo": "cosmiciron/vmprint",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
-  },
-  {
-    "repo": "vuciv/artblock",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections."
-  },
-  {
-    "repo": "molefrog/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
-  },
-  {
-    "repo": "AppleOnFire/JennyMod-All-Versions",
-    "branch": "main",
-    "language": "Java",
-    "description": "jenny mod minecraft pe mc video download pc java curseforge forge fabric  girlfriend addon pocket edition download .jar mediafire link realistic animations render pass bed interaction companion skin texture bedrock edition mcpack free portable zip apk mobile character custom dialogue chat adult content"
-  },
-  {
-    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
-  },
-  {
-    "repo": "testcontainers/testcontainers-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-OCR-2",
-    "branch": "main",
-    "language": "Python",
+    "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "MarlinFirmware/Marlin",
-    "branch": "bugfix-2.1.x",
-    "language": "C++",
-    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
+    "repo": "minix3/minix",
+    "branch": "master",
+    "language": "Other",
+    "description": "Redirection to the real github page only."
+  },
+  {
+    "repo": "hanxiao/claudecode-telegram",
+    "branch": "main",
+    "language": "Python",
+    "description": "Telegram bridge for Claude Code"
+  },
+  {
+    "repo": "go-kit/kit",
+    "branch": "master",
+    "language": "Go",
+    "description": "A standard library for microservices."
+  },
+  {
+    "repo": "adithya-s-k/manim_skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
+  },
+  {
+    "repo": "azl397985856/leetcode",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+  },
+  {
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
+  },
+  {
+    "repo": "derailed/k9s",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+  },
+  {
+    "repo": "sndrec/WebMonkeyBall",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Super Monkey Ball on Web Broser."
+  },
+  {
+    "repo": "stong/gradscii-art",
+    "branch": "master",
+    "language": "Python",
+    "description": "An extremely good ASCII art generator, based on machine learning"
+  },
+  {
+    "repo": "GoogleContainerTools/skaffold",
+    "branch": "main",
+    "language": "Go",
+    "description": "Easy and Repeatable Kubernetes Development"
+  },
+  {
+    "repo": "ogham/exa",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "sqlfluff/sqlfluff",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+  },
+  {
+    "repo": "sqlalchemy/alembic",
+    "branch": "main",
+    "language": "Python",
+    "description": "A database migrations tool for SQLAlchemy."
+  },
+  {
+    "repo": "qufei1993/skills-hub",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
+  },
+  {
+    "repo": "QwenLM/Qwen3-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning."
+  },
+  {
+    "repo": "zarazhangrui/youtube-to-ebook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
+  },
+  {
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "branch": "main",
+    "language": "MDX",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "branch": "master",
+    "language": "Go",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+  },
+  {
+    "repo": "fatedier/frp",
+    "branch": "dev",
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  {
+    "repo": "GokuMohandas/Made-With-ML",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications."
   }
 ]
