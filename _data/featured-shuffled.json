@@ -1,146 +1,146 @@
 [
   {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "wesbos/3d-model-anything",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser."
-  },
-  {
-    "repo": "owenlejeune/ArrMatey",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "minix3/minix",
-    "branch": "master",
-    "language": "Other",
-    "description": "Redirection to the real github page only."
-  },
-  {
-    "repo": "hanxiao/claudecode-telegram",
+    "repo": "zaidoonkamil/TikTok_Follower_Farm",
     "branch": "main",
     "language": "Python",
-    "description": "Telegram bridge for Claude Code"
+    "description": "Auto-view, like, follow, and comment for TikTok. Get followers, increase views, add likes, and auto-comment. Grow your TikTok presence rapidly."
   },
   {
-    "repo": "go-kit/kit",
-    "branch": "master",
-    "language": "Go",
-    "description": "A standard library for microservices."
-  },
-  {
-    "repo": "adithya-s-k/manim_skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
-  },
-  {
-    "repo": "azl397985856/leetcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
-  },
-  {
-    "repo": "rancher/k3d",
-    "branch": "main",
-    "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
-  },
-  {
-    "repo": "derailed/k9s",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
-  },
-  {
-    "repo": "sndrec/WebMonkeyBall",
+    "repo": "afar1/fieldtheory-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
+    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
   },
   {
-    "repo": "stong/gradscii-art",
-    "branch": "master",
+    "repo": "opencmit/alphora",
+    "branch": "main",
     "language": "Python",
-    "description": "An extremely good ASCII art generator, based on machine learning"
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
   },
   {
-    "repo": "GoogleContainerTools/skaffold",
+    "repo": "prisma/prisma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+  },
+  {
+    "repo": "puppetlabs/puppet",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Server automation framework and application"
+  },
+  {
+    "repo": "apache/maven",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Maven core"
+  },
+  {
+    "repo": "grafana/loki",
     "branch": "main",
     "language": "Go",
-    "description": "Easy and Repeatable Kubernetes Development"
+    "description": "Like Prometheus, but for logs."
   },
   {
-    "repo": "ogham/exa",
+    "repo": "jashkenas/backbone",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
+  },
+  {
+    "repo": "umijs/umi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A framework in react community ✨"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "lsd-rs/lsd",
     "branch": "master",
     "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
+    "description": "The next gen ls command"
   },
   {
-    "repo": "sqlfluff/sqlfluff",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
-  },
-  {
-    "repo": "sqlalchemy/alembic",
-    "branch": "main",
-    "language": "Python",
-    "description": "A database migrations tool for SQLAlchemy."
-  },
-  {
-    "repo": "qufei1993/skills-hub",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
-  },
-  {
-    "repo": "QwenLM/Qwen3-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning."
-  },
-  {
-    "repo": "zarazhangrui/youtube-to-ebook",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
-  },
-  {
-    "repo": "dair-ai/Prompt-Engineering-Guide",
-    "branch": "main",
-    "language": "MDX",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "FiloSottile/mkcert",
+    "repo": "n8n-io/n8n",
     "branch": "master",
-    "language": "Go",
-    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+    "language": "TypeScript",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
   },
   {
-    "repo": "fatedier/frp",
-    "branch": "dev",
-    "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-  },
-  {
-    "repo": "GokuMohandas/Made-With-ML",
+    "repo": "webpack/webpack",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications."
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+  },
+  {
+    "repo": "SwiftyJSON/SwiftyJSON",
+    "branch": "master",
+    "language": "Swift",
+    "description": "The better way to deal with JSON data in Swift."
+  },
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "branch": "master",
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "opencontainers/runc",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
+  },
+  {
+    "repo": "keras-team/keras",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deep Learning for humans"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+  },
+  {
+    "repo": "blender/blender",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official mirror of Blender"
+  },
+  {
+    "repo": "SudoPlz/spicetify-cli",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command-line tool to customize Spotify client."
+  },
+  {
+    "repo": "backstage/backstage",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Backstage is an open framework for building developer portals"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-server",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
   }
 ]
