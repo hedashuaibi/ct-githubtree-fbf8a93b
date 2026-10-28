@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zaidoonkamil/TikTok_Follower_Farm",
+    "repo": "caxete/crypto-tax-calculator",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-view, like, follow, and comment for TikTok. Get followers, increase views, add likes, and auto-comment. Grow your TikTok presence rapidly."
+    "description": "A comprehensive crypto tax solution supporting leading wallets, exchanges, and blockchain explorers."
   },
   {
-    "repo": "afar1/fieldtheory-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
-  },
-  {
-    "repo": "opencmit/alphora",
+    "repo": "Tencent-Hunyuan/UniRL",
     "branch": "main",
     "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
   },
   {
-    "repo": "prisma/prisma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
-  },
-  {
-    "repo": "puppetlabs/puppet",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Server automation framework and application"
-  },
-  {
-    "repo": "apache/maven",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Maven core"
-  },
-  {
-    "repo": "grafana/loki",
-    "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
-  },
-  {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "umijs/umi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A framework in react community ✨"
-  },
-  {
-    "repo": "mgks/GitHubTree",
+    "repo": "FFF686868/proxypin-wloc-spoofer",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
   },
   {
-    "repo": "pyenv/pyenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
-  },
-  {
-    "repo": "nltk/nltk",
-    "branch": "develop",
+    "repo": "OnlyTerp/UltraCode-Shim",
+    "branch": "main",
     "language": "Python",
-    "description": "NLTK Source"
+    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
   },
   {
-    "repo": "lsd-rs/lsd",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The next gen ls command"
+    "repo": "nnecrkvenuOX/formcms",
+    "branch": "main",
+    "language": "C#",
+    "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer."
   },
   {
-    "repo": "n8n-io/n8n",
+    "repo": "MstKail/wc2026-crypto-sportsbook",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook"
   },
   {
-    "repo": "webpack/webpack",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
-  },
-  {
-    "repo": "SwiftyJSON/SwiftyJSON",
-    "branch": "master",
-    "language": "Swift",
-    "description": "The better way to deal with JSON data in Swift."
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
-    "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
-  },
-  {
-    "repo": "opencontainers/runc",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
-  },
-  {
-    "repo": "keras-team/keras",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deep Learning for humans"
-  },
-  {
-    "repo": "rustdesk/rustdesk",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
-  },
-  {
-    "repo": "blender/blender",
+    "repo": "MohammdKopa/discord-server-booster-2026",
     "branch": "main",
     "language": "C++",
-    "description": "Official mirror of Blender"
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
   },
   {
-    "repo": "SudoPlz/spicetify-cli",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command-line tool to customize Spotify client."
+    "repo": "gerardapennant96075336582/CapC-Pro-2",
+    "branch": "main",
+    "language": "C++",
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
   },
   {
-    "repo": "backstage/backstage",
-    "branch": "master",
+    "repo": "stagas/hallucinate",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
+    "description": "Massively Multiplayer Online Rave"
   },
   {
-    "repo": "rabbitmq/rabbitmq-server",
+    "repo": "borhen68/TokenTamer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know."
+  },
+  {
+    "repo": "Tonnyspiel/Easy_Backup_Scheduler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles."
+  },
+  {
+    "repo": "Evianis/travel-photo-abstraction",
+    "branch": "main",
+    "language": "Python",
+    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions."
+  },
+  {
+    "repo": "amanayayatu-tech/Alaya",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "flow everything"
+  },
+  {
+    "repo": "xiaolongbao0709/ai-virtual-phone",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "JimLiu/baoyu-design",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+  },
+  {
+    "repo": "sneakers-the-rat/ImportantCode",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation"
+  },
+  {
+    "repo": "loc567/loc567",
+    "branch": "main",
+    "language": "C",
+    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+  },
+  {
+    "repo": "x4gKing/3x-ui",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
+    "branch": "main",
+    "language": "Python",
+    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
+  },
+  {
+    "repo": "Honey911143/Bulk-Image-Gatherer-Android",
+    "branch": "main",
+    "language": "HTML",
+    "description": "2026 Best Twitter X Bulk Media Saver Tool For Android"
+  },
+  {
+    "repo": "tastyeffectco/sandboxes",
+    "branch": "main",
+    "language": "Go",
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
+  },
+  {
+    "repo": "r3xmax/PhantomCtx",
+    "branch": "main",
+    "language": "C",
+    "description": "Activation Context Hijacking Evasion Tool"
+  },
+  {
+    "repo": "funador/claude-code-merge-queue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The local merge queue for parallel Claude Code agents."
+  },
+  {
+    "repo": "alfiyahkamilah1239298/WallpaperDownloader-26",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
   }
 ]
