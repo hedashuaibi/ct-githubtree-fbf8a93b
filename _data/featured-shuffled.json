@@ -1,146 +1,146 @@
 [
   {
-    "repo": "eyalgolan/statecraft-israel",
+    "repo": "angular/components",
     "branch": "main",
-    "language": "C#",
-    "description": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim."
+    "language": "TypeScript",
+    "description": "Component infrastructure and Material Design components for Angular"
   },
   {
-    "repo": "ReinerBRO/grok-register",
+    "repo": "SafeBreach-Labs/CVE-2026-24061",
     "branch": "main",
     "language": "Python",
-    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
+    "description": "Exploitation of CVE-2026-24061"
   },
   {
-    "repo": "taylorarndt/perspective-cuts",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A text-based language for writing Apple Shortcuts. Experimental."
-  },
-  {
-    "repo": "trufflesuite/truffle",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
-  },
-  {
-    "repo": "phai-lab/InstantSplatPP",
-    "branch": "main",
+    "repo": "waltstephen/ArgusBot",
+    "branch": "publish",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "nexu-io/auto-github-contributor",
+    "repo": "actions/virtual-environments",
     "branch": "main",
-    "language": "Shell",
-    "description": ""
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
   },
   {
-    "repo": "skydoves/compose-performance-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
-  },
-  {
-    "repo": "hamelsmu/claude-review-loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
-  },
-  {
-    "repo": "viperrcrypto/Siftly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
-  },
-  {
-    "repo": "thinkpixelIab/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto"
-  },
-  {
-    "repo": "Perkins729/OmniXtreme",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "grp06/openclaw-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "wh1te4ever/super-tart-vphone-writeup",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "TheSashaDev/girl-agent",
+    "repo": "apache/superset",
     "branch": "master",
     "language": "TypeScript",
-    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
   },
   {
-    "repo": "stephenlthorn/auto-identity-remove",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule"
-  },
-  {
-    "repo": "World-Open-Graph/br-acc",
+    "repo": "jmerelnyc/Talos",
     "branch": "main",
     "language": "Python",
-    "description": "World Transparency Graph public codebase"
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
   },
   {
-    "repo": "dievus/ADPulse",
+    "repo": "BurntSushi/ripgrep",
+    "branch": "master",
+    "language": "Rust",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+  },
+  {
+    "repo": "iJackUA/awesome-vagrant",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things."
+  },
+  {
+    "repo": "lauraevz6y70/gnark-crypto",
     "branch": "main",
     "language": "Python",
-    "description": "Active Directory Vulnerability Scanner"
+    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
   },
   {
-    "repo": "bitcoin/bitcoin",
+    "repo": "Mrack/TInjector_Symbi",
     "branch": "master",
     "language": "C++",
-    "description": "Bitcoin Core integration/staging tree"
+    "description": "更稳定的劫持Zygote在App启动前注入so"
   },
   {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "tddworks/baguette",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
-  },
-  {
-    "repo": "HKUDS/ClawTeam",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
-  },
-  {
-    "repo": "geekjourneyx/jina-cli",
+    "repo": "klawsh/klaw.sh",
     "branch": "main",
     "language": "Go",
-    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
+    "description": "kubectl for AI Agents"
   },
   {
-    "repo": "dododook/FlowZ",
+    "repo": "ythx-101/ask-search",
+    "branch": "master",
+    "language": "Python",
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+  },
+  {
+    "repo": "daehyeonmun2021/react-native-skia-lab",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Beautiful react-native-skia demo built by Daehyeon Mun"
+  },
+  {
+    "repo": "zsh-users/zsh-syntax-highlighting",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish shell like syntax highlighting for Zsh."
+  },
+  {
+    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
+  },
+  {
+    "repo": "NVIDIA/apex",
+    "branch": "master",
+    "language": "Python",
+    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
+  },
+  {
+    "repo": "QwenLM/Qwen3-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
+  },
+  {
+    "repo": "pmndrs/zustand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐻 Bear necessities for state management in React"
+  },
+  {
+    "repo": "zy-zmc/tianming-novel-ai-writer",
+    "branch": "main",
+    "language": "C#",
+    "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写"
+  },
+  {
+    "repo": "trimstray/the-book-of-secret-knowledge",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "repo": "AMAP-ML/RL3DEdit",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "infiniflow/ragflow",
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "repo": "prompt-security/clawsec",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+  },
+  {
+    "repo": "yanhua1010/zero-to-ai-fullstack",
     "branch": "main",
     "language": "Python",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
+    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
   }
 ]
