@@ -1,146 +1,146 @@
 [
   {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
-  },
-  {
-    "repo": "sliverp/qqbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "qqbot"
-  },
-  {
-    "repo": "rabbitmq/rabbitmq-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
-  },
-  {
-    "repo": "webprodigies-org/flute",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic 3D scenes from your live React UI. Flute by Web Prodigies."
-  },
-  {
-    "repo": "pocket-stack/pocketjs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
-  },
-  {
-    "repo": "AmmarkoV/SAM3DBody-cpp",
-    "branch": "main",
-    "language": "C",
-    "description": "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands."
-  },
-  {
-    "repo": "FoundZiGu/SMSBazaar",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板"
-  },
-  {
-    "repo": "plannotator/effective-html",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of."
-  },
-  {
-    "repo": "openclaw/agent-skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Useful skills for agents and claws."
-  },
-  {
-    "repo": "shipfastlabs/parsel",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A fast, helpful, and open-source document parser for PHP"
-  },
-  {
-    "repo": "osulazerdownload/osulazer",
+    "repo": "eyalgolan/statecraft-israel",
     "branch": "main",
     "language": "C#",
-    "description": "osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free"
+    "description": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim."
   },
   {
-    "repo": "hieunc229/mailflare",
+    "repo": "ReinerBRO/grok-register",
     "branch": "main",
+    "language": "Python",
+    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
+  },
+  {
+    "repo": "taylorarndt/perspective-cuts",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A text-based language for writing Apple Shortcuts. Experimental."
+  },
+  {
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "Email client with custom domain based on Cloudflare"
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
   },
   {
-    "repo": "Vanquishervohonor25/Zapret-4.0",
+    "repo": "phai-lab/InstantSplatPP",
     "branch": "main",
     "language": "Python",
-    "description": "Обход блокировок YouTube, Discord, Telegram и других сервисов на уровне сети - без VPN, без сторонних серверов, без потери скорости."
-  },
-  {
-    "repo": "taisly/agent",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly."
-  },
-  {
-    "repo": "andraiming/speech-tokenizer-arena",
-    "branch": "main",
-    "language": "Python",
-    "description": "A side-by-side benchmarking playground for discrete speech tokenizers (EnCodec, HuBERT-units, SpeechTokenizer, etc.)."
-  },
-  {
-    "repo": "GordenSun/GordenSuperPPTSkills",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。"
-  },
-  {
-    "repo": "kitlangton/terminal-control",
-    "branch": "main",
-    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "Jane-xiaoer/xiaoer-videolab",
+    "repo": "nexu-io/auto-github-contributor",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。"
+    "language": "Shell",
+    "description": ""
   },
   {
-    "repo": "Jadoox3/Mina-The-Hollower-Release",
+    "repo": "skydoves/compose-performance-skills",
     "branch": "main",
-    "language": "C#",
-    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
+    "language": "Shell",
+    "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
   },
   {
-    "repo": "LiteLLM-Labs/litellm-rust",
+    "repo": "hamelsmu/claude-review-loop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code plugin: automated code review loop with Codex"
+  },
+  {
+    "repo": "viperrcrypto/Siftly",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A minimal Rust gateway built for coding agents (LiteLLM-Compatible)"
+    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
   },
   {
-    "repo": "StephenDev0/StikPair",
+    "repo": "thinkpixelIab/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto"
+  },
+  {
+    "repo": "Perkins729/OmniXtreme",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "grp06/openclaw-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "wh1te4ever/super-tart-vphone-writeup",
     "branch": "main",
     "language": "Swift",
-    "description": "A simple SwiftUI iOS app that creates a pairing file on-device."
+    "description": ""
   },
   {
-    "repo": "ruvnet/agent-harness-generator",
+    "repo": "TheSashaDev/girl-agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
+  },
+  {
+    "repo": "stephenlthorn/auto-identity-remove",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule"
+  },
+  {
+    "repo": "World-Open-Graph/br-acc",
+    "branch": "main",
+    "language": "Python",
+    "description": "World Transparency Graph public codebase"
+  },
+  {
+    "repo": "dievus/ADPulse",
+    "branch": "main",
+    "language": "Python",
+    "description": "Active Directory Vulnerability Scanner"
+  },
+  {
+    "repo": "bitcoin/bitcoin",
+    "branch": "master",
+    "language": "C++",
+    "description": "Bitcoin Core integration/staging tree"
+  },
+  {
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "tddworks/baguette",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
+  },
+  {
+    "repo": "HKUDS/ClawTeam",
+    "branch": "main",
+    "language": "Python",
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+  },
+  {
+    "repo": "geekjourneyx/jina-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
+  },
+  {
+    "repo": "dododook/FlowZ",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox)."
+    "description": ""
   },
   {
-    "repo": "jeantimex/threejs-water",
+    "repo": "infiniflow/ragflow",
     "branch": "main",
-    "language": "GLSL",
-    "description": "A real-time water simulation with Three.js, featuring raytraced reflections, refractions, caustics, and interactive objects."
-  },
-  {
-    "repo": "Manavarya09/public-apis-live",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search."
+    "language": "Python",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
   }
 ]
