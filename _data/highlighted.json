@@ -1,8 +1,8 @@
 {
-  "repo": "Bodila51/reverse-engineer-Wi-Fi-router",
+  "repo": "qybaihe/bla",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 209,
-  "forks": 12
+  "language": "TypeScript",
+  "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+  "stars": 202,
+  "forks": 57
 }

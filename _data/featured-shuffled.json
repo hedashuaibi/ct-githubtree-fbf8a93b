@@ -1,146 +1,146 @@
 [
   {
-    "repo": "caxete/crypto-tax-calculator",
-    "branch": "main",
-    "language": "Python",
-    "description": "A comprehensive crypto tax solution supporting leading wallets, exchanges, and blockchain explorers."
-  },
-  {
-    "repo": "Tencent-Hunyuan/UniRL",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
-  },
-  {
-    "repo": "FFF686868/proxypin-wloc-spoofer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
-  },
-  {
-    "repo": "OnlyTerp/UltraCode-Shim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
-  },
-  {
-    "repo": "nnecrkvenuOX/formcms",
-    "branch": "main",
-    "language": "C#",
-    "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer."
-  },
-  {
-    "repo": "MstKail/wc2026-crypto-sportsbook",
+    "repo": "termux/termux-app",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook"
+    "language": "Java",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
   },
   {
-    "repo": "MohammdKopa/discord-server-booster-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
-  },
-  {
-    "repo": "gerardapennant96075336582/CapC-Pro-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
-  },
-  {
-    "repo": "stagas/hallucinate",
+    "repo": "sliverp/qqbot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Massively Multiplayer Online Rave"
+    "description": "qqbot"
   },
   {
-    "repo": "borhen68/TokenTamer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know."
-  },
-  {
-    "repo": "Tonnyspiel/Easy_Backup_Scheduler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles."
-  },
-  {
-    "repo": "Evianis/travel-photo-abstraction",
-    "branch": "main",
-    "language": "Python",
-    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions."
-  },
-  {
-    "repo": "amanayayatu-tech/Alaya",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "flow everything"
-  },
-  {
-    "repo": "xiaolongbao0709/ai-virtual-phone",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "JimLiu/baoyu-design",
+    "repo": "rabbitmq/rabbitmq-server",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
   },
   {
-    "repo": "sneakers-the-rat/ImportantCode",
+    "repo": "webprodigies-org/flute",
     "branch": "main",
-    "language": "Python",
-    "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation"
+    "language": "TypeScript",
+    "description": "Cinematic 3D scenes from your live React UI. Flute by Web Prodigies."
   },
   {
-    "repo": "loc567/loc567",
+    "repo": "pocket-stack/pocketjs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+  },
+  {
+    "repo": "AmmarkoV/SAM3DBody-cpp",
     "branch": "main",
     "language": "C",
-    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+    "description": "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands."
   },
   {
-    "repo": "x4gKing/3x-ui",
+    "repo": "FoundZiGu/SMSBazaar",
     "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
+    "language": "JavaScript",
+    "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板"
   },
   {
-    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
-    "branch": "main",
-    "language": "Python",
-    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
-  },
-  {
-    "repo": "Honey911143/Bulk-Image-Gatherer-Android",
+    "repo": "plannotator/effective-html",
     "branch": "main",
     "language": "HTML",
-    "description": "2026 Best Twitter X Bulk Media Saver Tool For Android"
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of."
   },
   {
-    "repo": "tastyeffectco/sandboxes",
-    "branch": "main",
-    "language": "Go",
-    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
-  },
-  {
-    "repo": "r3xmax/PhantomCtx",
-    "branch": "main",
-    "language": "C",
-    "description": "Activation Context Hijacking Evasion Tool"
-  },
-  {
-    "repo": "funador/claude-code-merge-queue",
+    "repo": "openclaw/agent-skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The local merge queue for parallel Claude Code agents."
+    "description": "Useful skills for agents and claws."
   },
   {
-    "repo": "alfiyahkamilah1239298/WallpaperDownloader-26",
+    "repo": "shipfastlabs/parsel",
+    "branch": "main",
+    "language": "PHP",
+    "description": "A fast, helpful, and open-source document parser for PHP"
+  },
+  {
+    "repo": "osulazerdownload/osulazer",
+    "branch": "main",
+    "language": "C#",
+    "description": "osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free"
+  },
+  {
+    "repo": "hieunc229/mailflare",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
+    "description": "Email client with custom domain based on Cloudflare"
+  },
+  {
+    "repo": "Vanquishervohonor25/Zapret-4.0",
+    "branch": "main",
+    "language": "Python",
+    "description": "Обход блокировок YouTube, Discord, Telegram и других сервисов на уровне сети - без VPN, без сторонних серверов, без потери скорости."
+  },
+  {
+    "repo": "taisly/agent",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly."
+  },
+  {
+    "repo": "andraiming/speech-tokenizer-arena",
+    "branch": "main",
+    "language": "Python",
+    "description": "A side-by-side benchmarking playground for discrete speech tokenizers (EnCodec, HuBERT-units, SpeechTokenizer, etc.)."
+  },
+  {
+    "repo": "GordenSun/GordenSuperPPTSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。"
+  },
+  {
+    "repo": "kitlangton/terminal-control",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "Jane-xiaoer/xiaoer-videolab",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。"
+  },
+  {
+    "repo": "Jadoox3/Mina-The-Hollower-Release",
+    "branch": "main",
+    "language": "C#",
+    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
+  },
+  {
+    "repo": "LiteLLM-Labs/litellm-rust",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A minimal Rust gateway built for coding agents (LiteLLM-Compatible)"
+  },
+  {
+    "repo": "StephenDev0/StikPair",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A simple SwiftUI iOS app that creates a pairing file on-device."
+  },
+  {
+    "repo": "ruvnet/agent-harness-generator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox)."
+  },
+  {
+    "repo": "jeantimex/threejs-water",
+    "branch": "main",
+    "language": "GLSL",
+    "description": "A real-time water simulation with Three.js, featuring raytraced reflections, refractions, caustics, and interactive objects."
+  },
+  {
+    "repo": "Manavarya09/public-apis-live",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search."
   }
 ]
