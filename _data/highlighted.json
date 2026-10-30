@@ -1,8 +1,8 @@
 {
-  "repo": "BryceYuuu/RUN",
+  "repo": "brainstormity/LightPost",
   "branch": "main",
   "language": "Python",
-  "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-  "stars": 353,
-  "forks": 18
+  "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+  "stars": 280,
+  "forks": 61
 }

@@ -1,93 +1,45 @@
 [
   {
-    "repo": "flannel-io/flannel",
+    "repo": "john-rocky/coreai-model-zoo",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner"
+  },
+  {
+    "repo": "gorhom/react-native-bottom-sheet",
     "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "chuspeeism/iphone-duo",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive iPhone Duo fold animation with projected screen UI, progressive blur, and custom image uploads. Built with Three.js."
-  },
-  {
-    "repo": "moxailoo/univ3-pool-lens",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
   },
   {
-    "repo": "30-seconds/30-seconds-of-code",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Coding articles to level up your development skills"
-  },
-  {
-    "repo": "rohitg00/awesome-claude-code-toolkit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "operator-framework/operator-sdk",
-    "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-  },
-  {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "facebookresearch/detr",
+    "repo": "huggingface/trl",
     "branch": "main",
     "language": "Python",
-    "description": "End-to-End Object Detection with Transformers"
+    "description": "Train transformer language models with reinforcement learning."
   },
   {
-    "repo": "sindresorhus/awesome-electron",
+    "repo": "johnBuffer/StableIndexVector",
     "branch": "main",
-    "language": "Other",
-    "description": "Useful resources for creating apps with Electron"
-  },
-  {
-    "repo": "sass/libsass",
-    "branch": "master",
     "language": "C++",
-    "description": "A C/C++ implementation of a Sass compiler"
+    "description": ""
   },
   {
-    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "repo": "jarodise/pdf2epub-paddle",
     "branch": "main",
-    "language": "Java",
-    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "istio/api",
+    "repo": "guardrailsio/awesome-python-security",
     "branch": "master",
+    "language": "Other",
+    "description": "Awesome Python Security resources 🕶🐍🔐"
+  },
+  {
+    "repo": "helm/helm",
+    "branch": "main",
     "language": "Go",
-    "description": "API definitions for the Istio project"
-  },
-  {
-    "repo": "grafana/grafana",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
-  },
-  {
-    "repo": "Tencent/omi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Web Components Framework - Web组件框架"
+    "description": "The Kubernetes Package Manager"
   },
   {
     "repo": "CalyxOS/calyxos",
@@ -96,51 +48,99 @@
     "description": "CalyxOS - Google-free Android"
   },
   {
-    "repo": "radix-ui/primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
-  },
-  {
-    "repo": "wagoodman/dive",
-    "branch": "master",
-    "language": "Go",
-    "description": "A tool for exploring each layer in a docker image"
-  },
-  {
-    "repo": "ory/hydra",
-    "branch": "master",
-    "language": "Go",
-    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
-  },
-  {
-    "repo": "istio/istio.io",
+    "repo": "lijigang/ljg-skill-explain-words",
     "branch": "master",
     "language": "HTML",
-    "description": "Source for the istio.io site"
+    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
   },
   {
-    "repo": "apache/groovy",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
   },
   {
-    "repo": "lauris/awesome-scala",
+    "repo": "donnemartin/system-design-primer",
     "branch": "master",
     "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
   },
   {
-    "repo": "aave/aave-v2",
+    "repo": "ant-design/ant-design",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
+  },
+  {
+    "repo": "1jehuang/mermaid-rs-renderer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "Zouuup/landrun",
+    "branch": "main",
+    "language": "Go",
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+  },
+  {
+    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "CyC2018/CS-Notes",
     "branch": "master",
     "language": "Other",
-    "description": "Aave Protocol V2"
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
   },
   {
-    "repo": "PanJiaChen/vue-element-admin",
+    "repo": "karanb192/claude-code-hooks",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
+  },
+  {
+    "repo": "SamNet-dev/conduit-manager",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+  },
+  {
+    "repo": "MichaelCade/90DaysOfDevOps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+  },
+  {
+    "repo": "pallets/flask",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
+  },
+  {
+    "repo": "goharbor/community",
+    "branch": "main",
+    "language": "Other",
+    "description": "Harbor community-related material"
+  },
+  {
+    "repo": "stong/gradscii-art",
     "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+    "language": "Python",
+    "description": "An extremely good ASCII art generator, based on machine learning"
+  },
+  {
+    "repo": "YunjueTech/Yunjue-Agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
   }
 ]
