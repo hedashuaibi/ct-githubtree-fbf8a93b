@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sharkdp/fd",
-    "branch": "master",
+    "repo": "AgriciDaniel/jev-seo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports."
+  },
+  {
+    "repo": "mikehasa/agentacct",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard."
+  },
+  {
+    "repo": "zaydmulani09/mnemo",
+    "branch": "main",
     "language": "Rust",
-    "description": "A simple, fast and user-friendly alternative to 'find'"
+    "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend."
   },
   {
-    "repo": "bbylw/rea-cn",
+    "repo": "GreyGunG/grokbuild-proxy",
     "branch": "main",
-    "language": "Astro",
-    "description": "REA：逆向一切 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。 看到喜欢的功能，弄清它的工作原理，深入到二进制层面。"
+    "language": "Go",
+    "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy"
   },
   {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "Conway-Research/automaton",
+    "repo": "Adel-Ayoub/rabbet",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
-  },
-  {
-    "repo": "TraderAlice/OpenAlice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
-  },
-  {
-    "repo": "GENEXIS-AI/chromex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
-  },
-  {
-    "repo": "bitcoin/bitcoin",
-    "branch": "master",
     "language": "C++",
-    "description": "Bitcoin Core integration/staging tree"
+    "description": "A from scratch C++ game engine"
   },
   {
-    "repo": "THU-SI/Spatial-TTT",
+    "repo": "Playa-0v0/Cyrene-Agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory."
+  },
+  {
+    "repo": "Szili1994/create-aeronautics-minecraft-mod",
+    "branch": "main",
+    "language": "Java",
+    "description": "aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash**"
+  },
+  {
+    "repo": "Dharyen/ryujinx-emu",
+    "branch": "main",
+    "language": "C#",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "repo": "sophiamyang/finger-frame-effect-ai",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "RongleCat/grok-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)"
+  },
+  {
+    "repo": "adamholter/hive-mind-landing-page",
+    "branch": "main",
+    "language": "CSS",
+    "description": "CHORUS Hive Mind landing page — source, prompts, frontend skills, generated design reference, and sanitized Codex build trace"
+  },
+  {
+    "repo": "yc-software/qm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multiplayer agent harness for work"
+  },
+  {
+    "repo": "GOROman/famicom-rf-hackrf-decoder",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "hasoftware/WinTrash",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "All-in-one PowerShell toolkit that scans 16 types of Windows app leftovers (dead PATH entries, orphan folders, ghost services, broken registry, startup junk...) and cleans them interactively with per-item backups. UI in Vietnamese, English, Chinese, Russian."
+  },
+  {
+    "repo": "nnecrkvenuOX/formcms",
+    "branch": "main",
+    "language": "C#",
+    "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer."
+  },
+  {
+    "repo": "maxucheng0/grok-auto-register",
     "branch": "main",
     "language": "Python",
-    "description": "Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training"
+    "description": ""
   },
   {
-    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "repo": "open-gigaai/giga-world-1",
     "branch": "main",
     "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+    "description": "A Roadmap to Build World Models for Robot Policy Evaluation"
   },
   {
-    "repo": "BitrigApp/XCDocs",
+    "repo": "shlgd/SuperDictate",
     "branch": "main",
     "language": "Swift",
-    "description": "Apple's developer docs as a Swift package and CLI."
+    "description": "Fast, private, local dictation for Apple Silicon Macs."
   },
   {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
+    "repo": "FlashML-org/flashlib",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fast and memory-efficient classical machine learning operators"
+  },
+  {
+    "repo": "nhevers/project-r0x",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+    "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain."
   },
   {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
-  },
-  {
-    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
+    "repo": "RongleCat/grok-go",
     "branch": "main",
     "language": "Rust",
-    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
+    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
   },
   {
-    "repo": "joeseesun/knowledge-site-creator",
-    "branch": "main",
-    "language": "Shell",
-    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
-  },
-  {
-    "repo": "signalapp/Signal-Android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "A private messenger for Android."
-  },
-  {
-    "repo": "hiragram/agent-workspace",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "lerna/lerna",
+    "repo": "Elias569/fintech-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+    "description": "fintech app"
   },
   {
-    "repo": "blairxu13/persona3-website",
+    "repo": "Shadow-Weave/HMS",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "yt-dlp/yt-dlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
-  },
-  {
-    "repo": "Tencent/cherry-markdown",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
-  },
-  {
-    "repo": "heygen-com/hyperframes-launch-video",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "geekjourneyx/jina-cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
-  },
-  {
-    "repo": "TraderAlice/Auto-Quant",
-    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "sentrux/sentrux",
+    "repo": "Jadoox3/Mina-The-Hollower-Release",
     "branch": "main",
-    "language": "Rust",
-    "description": "See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust."
+    "language": "C#",
+    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
   }
 ]
