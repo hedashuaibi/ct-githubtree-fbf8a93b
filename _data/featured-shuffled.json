@@ -1,146 +1,146 @@
 [
   {
-    "repo": "angular/components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Component infrastructure and Material Design components for Angular"
-  },
-  {
-    "repo": "SafeBreach-Labs/CVE-2026-24061",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exploitation of CVE-2026-24061"
-  },
-  {
-    "repo": "waltstephen/ArgusBot",
-    "branch": "publish",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "actions/virtual-environments",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "apache/superset",
+    "repo": "flannel-io/flannel",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
-  },
-  {
-    "repo": "jmerelnyc/Talos",
-    "branch": "main",
-    "language": "Python",
-    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
-  },
-  {
-    "repo": "BurntSushi/ripgrep",
-    "branch": "master",
-    "language": "Rust",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
-  },
-  {
-    "repo": "iJackUA/awesome-vagrant",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things."
-  },
-  {
-    "repo": "lauraevz6y70/gnark-crypto",
-    "branch": "main",
-    "language": "Python",
-    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
-  },
-  {
-    "repo": "Mrack/TInjector_Symbi",
-    "branch": "master",
-    "language": "C++",
-    "description": "更稳定的劫持Zygote在App启动前注入so"
-  },
-  {
-    "repo": "klawsh/klaw.sh",
-    "branch": "main",
     "language": "Go",
-    "description": "kubectl for AI Agents"
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
   },
   {
-    "repo": "ythx-101/ask-search",
-    "branch": "master",
-    "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+    "repo": "chuspeeism/iphone-duo",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive iPhone Duo fold animation with projected screen UI, progressive blur, and custom image uploads. Built with Three.js."
   },
   {
-    "repo": "daehyeonmun2021/react-native-skia-lab",
+    "repo": "moxailoo/univ3-pool-lens",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Beautiful react-native-skia demo built by Daehyeon Mun"
+    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
   },
   {
-    "repo": "zsh-users/zsh-syntax-highlighting",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish shell like syntax highlighting for Zsh."
-  },
-  {
-    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
-  },
-  {
-    "repo": "NVIDIA/apex",
-    "branch": "master",
-    "language": "Python",
-    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
-  },
-  {
-    "repo": "QwenLM/Qwen3-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
-  },
-  {
-    "repo": "pmndrs/zustand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
-  },
-  {
-    "repo": "zy-zmc/tianming-novel-ai-writer",
-    "branch": "main",
-    "language": "C#",
-    "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写"
-  },
-  {
-    "repo": "trimstray/the-book-of-secret-knowledge",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
-  },
-  {
-    "repo": "AMAP-ML/RL3DEdit",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "lodash/lodash",
+    "repo": "30-seconds/30-seconds-of-code",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+    "description": "Coding articles to level up your development skills"
   },
   {
-    "repo": "prompt-security/clawsec",
+    "repo": "rohitg00/awesome-claude-code-toolkit",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+    "language": "JavaScript",
+    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
   },
   {
-    "repo": "yanhua1010/zero-to-ai-fullstack",
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "operator-framework/operator-sdk",
+    "branch": "master",
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+  },
+  {
+    "repo": "solana-labs/solana",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+  },
+  {
+    "repo": "facebookresearch/detr",
     "branch": "main",
     "language": "Python",
-    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
+    "description": "End-to-End Object Detection with Transformers"
+  },
+  {
+    "repo": "sindresorhus/awesome-electron",
+    "branch": "main",
+    "language": "Other",
+    "description": "Useful resources for creating apps with Electron"
+  },
+  {
+    "repo": "sass/libsass",
+    "branch": "master",
+    "language": "C++",
+    "description": "A C/C++ implementation of a Sass compiler"
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "branch": "main",
+    "language": "Java",
+    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+  },
+  {
+    "repo": "istio/api",
+    "branch": "master",
+    "language": "Go",
+    "description": "API definitions for the Istio project"
+  },
+  {
+    "repo": "grafana/grafana",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+  },
+  {
+    "repo": "Tencent/omi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Web Components Framework - Web组件框架"
+  },
+  {
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+  },
+  {
+    "repo": "wagoodman/dive",
+    "branch": "master",
+    "language": "Go",
+    "description": "A tool for exploring each layer in a docker image"
+  },
+  {
+    "repo": "ory/hydra",
+    "branch": "master",
+    "language": "Go",
+    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
+  },
+  {
+    "repo": "istio/istio.io",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Source for the istio.io site"
+  },
+  {
+    "repo": "apache/groovy",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
+  },
+  {
+    "repo": "lauris/awesome-scala",
+    "branch": "master",
+    "language": "Python",
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
+  },
+  {
+    "repo": "aave/aave-v2",
+    "branch": "master",
+    "language": "Other",
+    "description": "Aave Protocol V2"
+  },
+  {
+    "repo": "PanJiaChen/vue-element-admin",
+    "branch": "master",
+    "language": "Vue",
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
   }
 ]

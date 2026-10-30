@@ -1,8 +1,8 @@
 {
-  "repo": "JunWan666/astrbot-for-android",
+  "repo": "BryceYuuu/RUN",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-  "stars": 257,
-  "forks": 11
+  "language": "Python",
+  "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+  "stars": 353,
+  "forks": 18
 }
