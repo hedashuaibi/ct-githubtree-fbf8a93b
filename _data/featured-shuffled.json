@@ -1,63 +1,15 @@
 [
   {
-    "repo": "john-rocky/coreai-model-zoo",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner"
-  },
-  {
-    "repo": "gorhom/react-native-bottom-sheet",
+    "repo": "sharkdp/fd",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+    "language": "Rust",
+    "description": "A simple, fast and user-friendly alternative to 'find'"
   },
   {
-    "repo": "huggingface/trl",
+    "repo": "bbylw/rea-cn",
     "branch": "main",
-    "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
-  },
-  {
-    "repo": "johnBuffer/StableIndexVector",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "jarodise/pdf2epub-paddle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "guardrailsio/awesome-python-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "Awesome Python Security resources 🕶🐍🔐"
-  },
-  {
-    "repo": "helm/helm",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Kubernetes Package Manager"
-  },
-  {
-    "repo": "CalyxOS/calyxos",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
-  },
-  {
-    "repo": "lijigang/ljg-skill-explain-words",
-    "branch": "master",
-    "language": "HTML",
-    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
+    "language": "Astro",
+    "description": "REA：逆向一切 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。 看到喜欢的功能，弄清它的工作原理，深入到二进制层面。"
   },
   {
     "repo": "donnemartin/system-design-primer",
@@ -66,81 +18,129 @@
     "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
   },
   {
-    "repo": "ant-design/ant-design",
+    "repo": "Conway-Research/automaton",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
+  },
+  {
+    "repo": "TraderAlice/OpenAlice",
     "branch": "master",
     "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
+    "description": "File-driven AI trading agent engine for crypto and securities markets"
   },
   {
-    "repo": "1jehuang/mermaid-rs-renderer",
+    "repo": "GENEXIS-AI/chromex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
+  },
+  {
+    "repo": "bitcoin/bitcoin",
     "branch": "master",
-    "language": "Rust",
-    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
+    "language": "C++",
+    "description": "Bitcoin Core integration/staging tree"
   },
   {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "THU-SI/Spatial-TTT",
     "branch": "main",
     "language": "Python",
-    "description": ":books: Freely available programming books"
+    "description": "Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training"
   },
   {
-    "repo": "Zouuup/landrun",
+    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "BitrigApp/XCDocs",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple's developer docs as a Swift package and CLI."
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+  },
+  {
+    "repo": "stylelint/stylelint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+  },
+  {
+    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
+  },
+  {
+    "repo": "joeseesun/knowledge-site-creator",
+    "branch": "main",
+    "language": "Shell",
+    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
+  },
+  {
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A private messenger for Android."
+  },
+  {
+    "repo": "hiragram/agent-workspace",
     "branch": "main",
     "language": "Go",
-    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+    "description": ""
   },
   {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "repo": "lerna/lerna",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+  },
+  {
+    "repo": "blairxu13/persona3-website",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader"
+  },
+  {
+    "repo": "Tencent/cherry-markdown",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A Markdown Editor"
+  },
+  {
+    "repo": "heygen-com/hyperframes-launch-video",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "geekjourneyx/jina-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
+  },
+  {
+    "repo": "TraderAlice/Auto-Quant",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
-  },
-  {
-    "repo": "karanb192/claude-code-hooks",
+    "repo": "sentrux/sentrux",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
-  },
-  {
-    "repo": "SamNet-dev/conduit-manager",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
-  },
-  {
-    "repo": "MichaelCade/90DaysOfDevOps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "goharbor/community",
-    "branch": "main",
-    "language": "Other",
-    "description": "Harbor community-related material"
-  },
-  {
-    "repo": "stong/gradscii-art",
-    "branch": "master",
-    "language": "Python",
-    "description": "An extremely good ASCII art generator, based on machine learning"
-  },
-  {
-    "repo": "YunjueTech/Yunjue-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
+    "language": "Rust",
+    "description": "See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust."
   }
 ]
