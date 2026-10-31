@@ -1,8 +1,8 @@
 {
-  "repo": "shipwords-dev/shipwords",
+  "repo": "changhaoting1998-star/manufacturing-wechat-miniapp-starter",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-  "stars": 296,
-  "forks": 196
+  "language": "JavaScript",
+  "description": "Privacy-first WeChat Mini Program starter for manufacturing employee self-service and auditable MES integration.",
+  "stars": 199,
+  "forks": 8
 }

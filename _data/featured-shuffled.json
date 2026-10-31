@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AgriciDaniel/jev-seo",
+    "repo": "chefkannofriend-source/mbbb-baker-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports."
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
   },
   {
-    "repo": "mikehasa/agentacct",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard."
-  },
-  {
-    "repo": "zaydmulani09/mnemo",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend."
-  },
-  {
-    "repo": "GreyGunG/grokbuild-proxy",
-    "branch": "main",
-    "language": "Go",
-    "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy"
-  },
-  {
-    "repo": "Adel-Ayoub/rabbet",
-    "branch": "main",
-    "language": "C++",
-    "description": "A from scratch C++ game engine"
-  },
-  {
-    "repo": "Playa-0v0/Cyrene-Agent",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory."
-  },
-  {
-    "repo": "Szili1994/create-aeronautics-minecraft-mod",
-    "branch": "main",
-    "language": "Java",
-    "description": "aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash**"
-  },
-  {
-    "repo": "Dharyen/ryujinx-emu",
-    "branch": "main",
-    "language": "C#",
-    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
-  },
-  {
-    "repo": "sophiamyang/finger-frame-effect-ai",
+    "repo": "alchaincyf/huashu-art-motion",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
   },
   {
-    "repo": "RongleCat/grok-app",
+    "repo": "sharptoolbox/ontology-driven-dev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)"
+    "description": "本体驱动业务系统开发技能：需求探索→本体建模→应用构建三步法，基于七模型本体 YAML 与 code-paas 技术底座。支持 WorkBuddy / Claude Code / Codex。"
   },
   {
-    "repo": "adamholter/hive-mind-landing-page",
+    "repo": "GradientRL/Gradient",
     "branch": "main",
-    "language": "CSS",
-    "description": "CHORUS Hive Mind landing page — source, prompts, frontend skills, generated design reference, and sanitized Codex build trace"
+    "language": "Python",
+    "description": "Gradient"
   },
   {
-    "repo": "yc-software/qm",
+    "repo": "Zyrexnn/Cybermes",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration."
+  },
+  {
+    "repo": "azrtydxb/procoder",
+    "branch": "main",
+    "language": "Go",
+    "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents."
+  },
+  {
+    "repo": "Sui-IB/InternalBeyond-Mobile",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Internal Beyond 的移动端同源版本：一个离线运行的单文件个人网站式应用项目，旨于维系情感的连续性。"
+  },
+  {
+    "repo": "Awaker-OTE/readingspace-mn",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Reading Space MN — a reading workflow plugin for MarginNote 4."
+  },
+  {
+    "repo": "elie222/botdirectory.ai",
+    "branch": "main",
+    "language": "Astro",
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai"
+  },
+  {
+    "repo": "MarcoG-h/DSH-Launcher",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Multiplayer agent harness for work"
+    "description": "最全面的DeepSeek Harness🐋启动器  *首创多实例管理中枢* | 多开并行 | 整合包下载 | 一键部署 | 插件管理 |"
   },
   {
-    "repo": "GOROman/famicom-rf-hackrf-decoder",
+    "repo": "bawadou/ai-data-extractor",
     "branch": "main",
-    "language": "C++",
-    "description": ""
+    "language": "Python",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more."
   },
   {
-    "repo": "hasoftware/WinTrash",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "All-in-one PowerShell toolkit that scans 16 types of Windows app leftovers (dead PATH entries, orphan folders, ghost services, broken registry, startup junk...) and cleans them interactively with per-item backups. UI in Vietnamese, English, Chinese, Russian."
-  },
-  {
-    "repo": "nnecrkvenuOX/formcms",
-    "branch": "main",
-    "language": "C#",
-    "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer."
-  },
-  {
-    "repo": "maxucheng0/grok-auto-register",
+    "repo": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "open-gigaai/giga-world-1",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Roadmap to Build World Models for Robot Policy Evaluation"
-  },
-  {
-    "repo": "shlgd/SuperDictate",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Fast, private, local dictation for Apple Silicon Macs."
-  },
-  {
-    "repo": "FlashML-org/flashlib",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fast and memory-efficient classical machine learning operators"
-  },
-  {
-    "repo": "nhevers/project-r0x",
+    "repo": "NanmiCoder/dsh-agent-teams",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain."
+    "description": "AgentTeams plugin for DeepSeek Harness"
   },
   {
-    "repo": "RongleCat/grok-go",
+    "repo": "beryl09/Explainable-Multi-Modal-Breast-Cancer-Prediction",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "SMNETSTUDIO/StarLive",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "StarLive System - 星播系统"
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Gold",
+    "branch": "main",
+    "language": "Python",
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Gold edition comes with extra optimizations for faster farming."
+  },
+  {
+    "repo": "halfof8/patterngen-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "elie222/rakazo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+  },
+  {
+    "repo": "PredictiveFlow-Labs/polymarket-btc-5min-15min-up-down-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "FFF686868/proxypin-wloc-spoofer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
+  },
+  {
+    "repo": "anthropics/uplifting-biomolecular-modeling",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "richiemcilroy/chippytea",
     "branch": "main",
     "language": "Rust",
-    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
+    "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust."
   },
   {
-    "repo": "Elias569/fintech-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "fintech app"
+    "repo": "4jcraft/4jcraft",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
   },
   {
-    "repo": "Shadow-Weave/HMS",
+    "repo": "fcompc4/ecommerce-kushi",
     "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Jadoox3/Mina-The-Hollower-Release",
-    "branch": "main",
-    "language": "C#",
-    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
+    "language": "JavaScript",
+    "description": "E-commerce roupa"
   }
 ]
