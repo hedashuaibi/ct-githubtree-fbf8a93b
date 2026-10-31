@@ -1,8 +1,8 @@
 {
-  "repo": "emanuele-em/kanzo",
+  "repo": "changhaoting1998-star/manufacturing-wechat-miniapp-starter",
   "branch": "main",
-  "language": "Rust",
-  "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
-  "stars": 204,
-  "forks": 11
+  "language": "JavaScript",
+  "description": "Privacy-first WeChat Mini Program starter for manufacturing employee self-service and auditable MES integration.",
+  "stars": 217,
+  "forks": 9
 }

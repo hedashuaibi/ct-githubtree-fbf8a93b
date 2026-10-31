@@ -1,146 +1,146 @@
 [
   {
-    "repo": "brackets-cont/brackets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
-  },
-  {
-    "repo": "pingmike2/freebuff2api-wokers",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "zhangbo2008/claude_code_annotated",
+    "repo": "op7418/CodePilot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "claudecode泄露部分的代码解析"
+    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
   },
   {
-    "repo": "UnluckyNinja/SBTI-test",
-    "branch": "main",
-    "language": "HTML",
-    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
-  },
-  {
-    "repo": "LarsenCundric/port-whisperer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A beautiful CLI tool to see what's running on your ports"
-  },
-  {
-    "repo": "puppeteer/puppeteer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JavaScript API for Chrome and Firefox"
-  },
-  {
-    "repo": "tailwindlabs/heroicons",
+    "repo": "webpack-contrib/style-loader",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+    "description": "Style Loader"
   },
   {
-    "repo": "pallets/jinja",
+    "repo": "NVlabs/cutile-rs",
     "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "rq/rq",
+    "branch": "master",
     "language": "Python",
-    "description": "A very fast and expressive template engine."
+    "description": "Simple job queues for Python"
   },
   {
-    "repo": "momenbasel/PureMac",
+    "repo": "fluent/fluentd",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
+  },
+  {
+    "repo": "tensorflow/hub",
+    "branch": "master",
+    "language": "Python",
+    "description": "A library for transfer learning by reusing parts of TensorFlow models."
+  },
+  {
+    "repo": "NVIDIA/cudnn-frontend",
+    "branch": "main",
+    "language": "C++",
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+  },
+  {
+    "repo": "Jeidoban/Ironsmith",
     "branch": "main",
     "language": "Swift",
-    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
+    "description": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs"
   },
   {
-    "repo": "openabdev/openab",
+    "repo": "zhu1090093659/dsh-web-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center."
+  },
+  {
+    "repo": "liuxiaopai-ai/ralph-desktop",
     "branch": "main",
     "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
   },
   {
-    "repo": "Panniantong/Agent-Reach",
+    "repo": "iltekin/remove-local-temu",
     "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+  },
+  {
+    "repo": "usamafaheemAhmed/Palworld_Buddy_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-capture, infinite pal spheres, and instant breeding for Palworld. Throw spheres automatically, unlimited spheres, breed pals instantly, and collect resources."
+  },
+  {
+    "repo": "lynote-ai/ai-detector-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "A free detector capable of identifying content generated by all advanced AI models."
+  },
+  {
+    "repo": "supermemoryai/openclaw-supermemory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "burpheart/cursor-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cursor gRPC 通信流量分析工具"
+  },
+  {
+    "repo": "psf/requests-html",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pythonic HTML Parsing for Humans™"
+  },
+  {
+    "repo": "LearnPrompt/ai-news-radar",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "junjiezhou1122/GptCrate",
+    "repo": "taisly/agent",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly."
+  },
+  {
+    "repo": "zachlatta/freeflow",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+  },
+  {
+    "repo": "wesm/msgvault",
+    "branch": "main",
+    "language": "Go",
+    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
+  },
+  {
+    "repo": "0xABCD01/CVE-2026-41089",
     "branch": "main",
     "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "godotengine/godot-docs",
-    "branch": "master",
-    "language": "reStructuredText",
-    "description": "Godot Engine official documentation"
-  },
-  {
-    "repo": "vyfor/rattles",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🪇 Minimal terminal spinners for Rust"
-  },
-  {
-    "repo": "Janlaywss/cloud-code",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "cloud-code"
-  },
-  {
-    "repo": "spinnaker/spinnaker",
-    "branch": "master",
-    "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
-  },
-  {
-    "repo": "Stability-AI/generative-models",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generative Models by Stability AI"
-  },
-  {
-    "repo": "blendi-remade/sprite-sheet-creator",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Nightmare-Eclipse/MiniPlasma",
-    "branch": "main",
-    "language": "C#",
-    "description": "CVE-2020-17103 supposedly still works"
-  },
-  {
-    "repo": "pacifio/cersei",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
-  },
-  {
-    "repo": "systemd/systemd",
-    "branch": "main",
-    "language": "C",
-    "description": "The systemd System and Service Manager"
-  },
-  {
-    "repo": "pengchengneo/Claude-Code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "可运行的Claude Code源码"
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "ByteDance-Seed/Cola-DLM",
-    "branch": "main",
-    "language": "Python",
-    "description": "The codebase of Cola DLM"
+    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
   }
 ]
