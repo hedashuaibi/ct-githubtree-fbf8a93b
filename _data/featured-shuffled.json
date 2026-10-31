@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chefkannofriend-source/mbbb-baker-agent",
+    "repo": "blender/blender",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official mirror of Blender"
+  },
+  {
+    "repo": "build-poe2/PathOfBuilding-PoE2",
+    "branch": "main",
+    "language": "Lua",
+    "description": "path of building poe2 build 0.5 pob community fork path of exile 2 build planner dps calculator github download  portable  pobb in league starter passive tree ascendancy gems"
+  },
+  {
+    "repo": "AnonymousDev1494/System_Information_Viewer",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+    "description": "Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs."
   },
   {
-    "repo": "alchaincyf/huashu-art-motion",
+    "repo": "shirai91/nx2android",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
+    "language": "C",
+    "description": "A compatibility layer for porting Switch games to Android, one game at a time"
   },
   {
-    "repo": "sharptoolbox/ontology-driven-dev",
+    "repo": "bozhouDev/14days-build-claude-code-cli",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "本体驱动业务系统开发技能：需求探索→本体建模→应用构建三步法，基于七模型本体 YAML 与 code-paas 技术底座。支持 WorkBuddy / Claude Code / Codex。"
+    "language": "MDX",
+    "description": "网页版教程，看起来会舒服一点"
   },
   {
-    "repo": "GradientRL/Gradient",
-    "branch": "main",
-    "language": "Python",
-    "description": "Gradient"
-  },
-  {
-    "repo": "Zyrexnn/Cybermes",
+    "repo": "Poulomijana/Genshin_Impact_Auto-Farm___Primogem_Collector",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration."
+    "description": "Auto-farm, auto-quest, and primogem collector for Genshin Impact. Farm mobs, chests, and complete daily commissions automatically."
   },
   {
-    "repo": "azrtydxb/procoder",
-    "branch": "main",
-    "language": "Go",
-    "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents."
-  },
-  {
-    "repo": "Sui-IB/InternalBeyond-Mobile",
+    "repo": "israriqbal/agent-ecologies",
     "branch": "main",
     "language": "HTML",
-    "description": "Internal Beyond 的移动端同源版本：一个离线运行的单文件个人网站式应用项目，旨于维系情感的连续性。"
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026"
   },
   {
-    "repo": "Awaker-OTE/readingspace-mn",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Reading Space MN — a reading workflow plugin for MarginNote 4."
-  },
-  {
-    "repo": "elie222/botdirectory.ai",
-    "branch": "main",
-    "language": "Astro",
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai"
-  },
-  {
-    "repo": "MarcoG-h/DSH-Launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "最全面的DeepSeek Harness🐋启动器  *首创多实例管理中枢* | 多开并行 | 整合包下载 | 一键部署 | 插件管理 |"
-  },
-  {
-    "repo": "bawadou/ai-data-extractor",
+    "repo": "twhsi/skills",
     "branch": "main",
     "language": "Python",
-    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more."
+    "description": "Yonghsi Agent Skill library for Codex workflows"
   },
   {
-    "repo": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+    "repo": "ladybug-me/caelestia-dots-kde",
+    "branch": "main",
+    "language": "QML",
+    "description": "caelestia-dots ported to KDE plasma 6"
+  },
+  {
+    "repo": "Novaquant-labs/hyperliquid-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,"
   },
   {
-    "repo": "NanmiCoder/dsh-agent-teams",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AgentTeams plugin for DeepSeek Harness"
-  },
-  {
-    "repo": "beryl09/Explainable-Multi-Modal-Breast-Cancer-Prediction",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SMNETSTUDIO/StarLive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "StarLive System - 星播系统"
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Gold",
-    "branch": "main",
-    "language": "Python",
-    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Gold edition comes with extra optimizations for faster farming."
-  },
-  {
-    "repo": "halfof8/patterngen-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "elie222/rakazo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
-  },
-  {
-    "repo": "PredictiveFlow-Labs/polymarket-btc-5min-15min-up-down-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "FFF686868/proxypin-wloc-spoofer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
-  },
-  {
-    "repo": "anthropics/uplifting-biomolecular-modeling",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "richiemcilroy/chippytea",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust."
-  },
-  {
-    "repo": "4jcraft/4jcraft",
+    "repo": "anomalyco/rift",
     "branch": "dev",
-    "language": "C++",
-    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "fcompc4/ecommerce-kushi",
+    "repo": "edmicho/mm-probe-kit",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "E-commerce roupa"
+    "language": "Python",
+    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
+  },
+  {
+    "repo": "wordghost1234/agnes-ai-storyboard-studio",
+    "branch": "main",
+    "language": "HTML",
+    "description": "2026 Guide to Self-Hosted Open Source AI Video Generation"
+  },
+  {
+    "repo": "Reyzowter/Hello-Agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications"
+  },
+  {
+    "repo": "craftzdog/tmux-claude-session-manager",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Run many Claude Code sessions across your projects, each in its own tmux session — then list them, see which are done vs. still working, and jump to one from a single popup."
+  },
+  {
+    "repo": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks"
+  },
+  {
+    "repo": "johnbean393/KeyType",
+    "branch": "main",
+    "language": "Swift",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
+  },
+  {
+    "repo": "opencoredev/domain-sdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API."
+  },
+  {
+    "repo": "devdriveLLM/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
+  },
+  {
+    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "maxucheng0/grok-auto-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
