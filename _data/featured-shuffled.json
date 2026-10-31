@@ -1,146 +1,146 @@
 [
   {
-    "repo": "blender/blender",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official mirror of Blender"
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
   },
   {
-    "repo": "build-poe2/PathOfBuilding-PoE2",
+    "repo": "pingmike2/freebuff2api-wokers",
     "branch": "main",
-    "language": "Lua",
-    "description": "path of building poe2 build 0.5 pob community fork path of exile 2 build planner dps calculator github download  portable  pobb in league starter passive tree ascendancy gems"
-  },
-  {
-    "repo": "AnonymousDev1494/System_Information_Viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs."
-  },
-  {
-    "repo": "shirai91/nx2android",
-    "branch": "main",
-    "language": "C",
-    "description": "A compatibility layer for porting Switch games to Android, one game at a time"
-  },
-  {
-    "repo": "bozhouDev/14days-build-claude-code-cli",
-    "branch": "main",
-    "language": "MDX",
-    "description": "网页版教程，看起来会舒服一点"
-  },
-  {
-    "repo": "Poulomijana/Genshin_Impact_Auto-Farm___Primogem_Collector",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm, auto-quest, and primogem collector for Genshin Impact. Farm mobs, chests, and complete daily commissions automatically."
-  },
-  {
-    "repo": "israriqbal/agent-ecologies",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026"
-  },
-  {
-    "repo": "twhsi/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yonghsi Agent Skill library for Codex workflows"
-  },
-  {
-    "repo": "ladybug-me/caelestia-dots-kde",
-    "branch": "main",
-    "language": "QML",
-    "description": "caelestia-dots ported to KDE plasma 6"
-  },
-  {
-    "repo": "Novaquant-labs/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,"
-  },
-  {
-    "repo": "anomalyco/rift",
-    "branch": "dev",
-    "language": "Rust",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "edmicho/mm-probe-kit",
+    "repo": "zhangbo2008/claude_code_annotated",
     "branch": "main",
-    "language": "Python",
-    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
+    "language": "TypeScript",
+    "description": "claudecode泄露部分的代码解析"
   },
   {
-    "repo": "wordghost1234/agnes-ai-storyboard-studio",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 Guide to Self-Hosted Open Source AI Video Generation"
-  },
-  {
-    "repo": "Reyzowter/Hello-Agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications"
-  },
-  {
-    "repo": "craftzdog/tmux-claude-session-manager",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Run many Claude Code sessions across your projects, each in its own tmux session — then list them, see which are done vs. still working, and jump to one from a single popup."
-  },
-  {
-    "repo": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "repo": "UnluckyNinja/SBTI-test",
     "branch": "main",
     "language": "HTML",
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks"
+    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
   },
   {
-    "repo": "johnbean393/KeyType",
+    "repo": "LarsenCundric/port-whisperer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A beautiful CLI tool to see what's running on your ports"
+  },
+  {
+    "repo": "puppeteer/puppeteer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JavaScript API for Chrome and Firefox"
+  },
+  {
+    "repo": "tailwindlabs/heroicons",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  },
+  {
+    "repo": "pallets/jinja",
+    "branch": "main",
+    "language": "Python",
+    "description": "A very fast and expressive template engine."
+  },
+  {
+    "repo": "momenbasel/PureMac",
     "branch": "main",
     "language": "Swift",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
+    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
   },
   {
-    "repo": "nektos/act",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
+    "repo": "openabdev/openab",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
   },
   {
-    "repo": "xeriussssss/Flee_the_Facility_-_Auto-Escape___Speed_Hack",
+    "repo": "Panniantong/Agent-Reach",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-escape and speed hack for Flee the Facility, the horror survival game with 5.6 billion visits[reference:29]. Escape the beast, hack computers, and survive every round."
+    "description": ""
   },
   {
-    "repo": "opencoredev/domain-sdk",
+    "repo": "junjiezhou1122/GptCrate",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API."
-  },
-  {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
-  },
-  {
-    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
-  },
-  {
-    "repo": "alaeelhariri/iut-db-final-project",
-    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "maxucheng0/grok-auto-register",
+    "repo": "godotengine/godot-docs",
+    "branch": "master",
+    "language": "reStructuredText",
+    "description": "Godot Engine official documentation"
+  },
+  {
+    "repo": "vyfor/rattles",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🪇 Minimal terminal spinners for Rust"
+  },
+  {
+    "repo": "Janlaywss/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "cloud-code"
+  },
+  {
+    "repo": "spinnaker/spinnaker",
+    "branch": "master",
+    "language": "Java",
+    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
+  },
+  {
+    "repo": "Stability-AI/generative-models",
     "branch": "main",
     "language": "Python",
+    "description": "Generative Models by Stability AI"
+  },
+  {
+    "repo": "blendi-remade/sprite-sheet-creator",
+    "branch": "master",
+    "language": "TypeScript",
     "description": ""
+  },
+  {
+    "repo": "Nightmare-Eclipse/MiniPlasma",
+    "branch": "main",
+    "language": "C#",
+    "description": "CVE-2020-17103 supposedly still works"
+  },
+  {
+    "repo": "pacifio/cersei",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+  },
+  {
+    "repo": "systemd/systemd",
+    "branch": "main",
+    "language": "C",
+    "description": "The systemd System and Service Manager"
+  },
+  {
+    "repo": "pengchengneo/Claude-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "可运行的Claude Code源码"
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "ByteDance-Seed/Cola-DLM",
+    "branch": "main",
+    "language": "Python",
+    "description": "The codebase of Cola DLM"
   }
 ]

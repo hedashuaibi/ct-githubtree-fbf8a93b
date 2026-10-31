@@ -1,8 +1,8 @@
 {
-  "repo": "Villagers654/Venture",
+  "repo": "emanuele-em/kanzo",
   "branch": "main",
-  "language": "C++",
-  "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
-  "stars": 207,
-  "forks": 12
+  "language": "Rust",
+  "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
+  "stars": 204,
+  "forks": 11
 }
