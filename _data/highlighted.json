@@ -1,8 +1,8 @@
 {
-  "repo": "techgenius1/tvOS-Launcher",
+  "repo": "wanghao-SunSky/cs329z-chinese",
   "branch": "main",
-  "language": "Java",
-  "description": "A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and one-tap local ADB setup.",
-  "stars": 218,
-  "forks": 12
+  "language": "HTML",
+  "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+  "stars": 314,
+  "forks": 33
 }

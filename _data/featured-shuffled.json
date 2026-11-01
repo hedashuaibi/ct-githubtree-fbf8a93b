@@ -1,146 +1,146 @@
 [
   {
-    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
+    "repo": "prettier/eslint-config-prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+  },
+  {
+    "repo": "tomascupr/sandstorm",
+    "branch": "main",
+    "language": "Python",
+    "description": "One API call. Full Claude agent. Completely sandboxed."
+  },
+  {
+    "repo": "TsingmaoAI/xw-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+  },
+  {
+    "repo": "xyiqq/skilldoctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Quality gate for Agent Skills: lint, security audit, and Claude/Cursor/Codex/OpenCode compatibility."
+  },
+  {
+    "repo": "6-robot/jie_3d_nav",
+    "branch": "main",
+    "language": "Python",
+    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
+  },
+  {
+    "repo": "bufbuild/buf",
+    "branch": "main",
+    "language": "Go",
+    "description": "The best way of working with Protocol Buffers."
+  },
+  {
+    "repo": "webpack-contrib/css-loader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "CSS Loader"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "apache/flink",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Flink"
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "branch": "main",
+    "language": "Java",
+    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "branch": "main",
+    "language": "Go",
+    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+  },
+  {
+    "repo": "jashkenas/backbone",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
+  },
+  {
+    "repo": "mastodon/mastodon",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Your self-hosted, globally interconnected microblogging community"
+  },
+  {
+    "repo": "MooseGoose0701/skill-compose",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+  },
+  {
+    "repo": "NVIDIA/cudnn-frontend",
     "branch": "main",
     "language": "C++",
-    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
   },
   {
-    "repo": "mekos2772/ios-location-spoofer",
+    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module."
+    "language": "Python",
+    "description": "sora2 watermark deleter windows macos"
   },
   {
-    "repo": "grpc/grpc-go",
+    "repo": "argoproj/argo-cd",
     "branch": "master",
     "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+    "description": "Declarative Continuous Deployment for Kubernetes"
   },
   {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "JStumpp/awesome-android",
+    "repo": "rustwasm/wasm-pack",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android packages and resources."
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
   },
   {
-    "repo": "libressl/portable",
+    "repo": "ahmetb/kubectx",
     "branch": "master",
-    "language": "C",
-    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
+    "language": "Go",
+    "description": "Faster way to switch between clusters and namespaces in kubectl"
   },
   {
-    "repo": "sindresorhus/awesome",
-    "branch": "main",
-    "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
-  },
-  {
-    "repo": "vsouza/awesome-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
-  },
-  {
-    "repo": "inputsh/awesome-linux",
-    "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "pallets/click",
+    "repo": "nepfaff/scenesmith",
     "branch": "main",
     "language": "Python",
-    "description": "Python composable command line interface toolkit"
+    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
   },
   {
-    "repo": "elastic/logstash",
-    "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
   },
   {
-    "repo": "torvalds/linux",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
-  },
-  {
-    "repo": "nuxt/ui",
-    "branch": "dev",
-    "language": "Vue",
-    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
-  },
-  {
-    "repo": "techwithtim/Flask-Web-App-Tutorial",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Code for the note storing flask web app made during a YouTube video."
-  },
-  {
-    "repo": "OpenBB-finance/OpenBBTerminal",
+    "repo": "ultralytics/ultralytics",
     "branch": "main",
     "language": "Python",
-    "description": "Financial data platform for analysts, quants and AI agents."
+    "description": "Ultralytics YOLO 🚀"
   },
   {
-    "repo": "vercel/next.js",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The React Framework"
-  },
-  {
-    "repo": "spring-guides/gs-spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
-  },
-  {
-    "repo": "actions/download-artifact",
+    "repo": "olucasandrade/youjustneedpostgres",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Download artifacts from your build"
+    "description": ""
   },
   {
-    "repo": "kelseyhightower/kubernetes-the-hard-way",
-    "branch": "master",
-    "language": "Other",
-    "description": "Bootstrap Kubernetes the hard way. No scripts."
-  },
-  {
-    "repo": "raspberrypi/documentation",
+    "repo": "locustio/locust",
     "branch": "master",
     "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
-  },
-  {
-    "repo": "GoogleContainerTools/kaniko",
-    "branch": "main",
-    "language": "Go",
-    "description": "Build Container Images In Kubernetes"
-  },
-  {
-    "repo": "go-sql-driver/mysql",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
-  },
-  {
-    "repo": "hapijs/hapi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The Simple, Secure Framework Developers Trust"
+    "description": "Write scalable load tests in plain Python 🚗💨"
   }
 ]
