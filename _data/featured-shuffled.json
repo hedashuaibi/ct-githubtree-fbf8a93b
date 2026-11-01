@@ -1,146 +1,146 @@
 [
   {
-    "repo": "prettier/eslint-config-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+    "repo": "godotengine/godot",
+    "branch": "master",
+    "language": "C++",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
   },
   {
-    "repo": "tomascupr/sandstorm",
-    "branch": "main",
-    "language": "Python",
-    "description": "One API call. Full Claude agent. Completely sandboxed."
-  },
-  {
-    "repo": "TsingmaoAI/xw-cli",
-    "branch": "main",
+    "repo": "rs/zerolog",
+    "branch": "master",
     "language": "Go",
-    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+    "description": "Zero Allocation JSON Logger"
   },
   {
-    "repo": "xyiqq/skilldoctor",
+    "repo": "poxk/Falco",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Tiny browser engine written from scratch in Rust."
+  },
+  {
+    "repo": "Wechat-ggGitHub/wechat-claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Quality gate for Agent Skills: lint, security audit, and Claude/Cursor/Codex/OpenCode compatibility."
+    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
   },
   {
-    "repo": "6-robot/jie_3d_nav",
+    "repo": "davidondrej/jailbreak-autoresearch",
     "branch": "main",
     "language": "Python",
-    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
+    "description": "We shall set the models free."
   },
   {
-    "repo": "bufbuild/buf",
+    "repo": "openai/triton",
     "branch": "main",
-    "language": "Go",
-    "description": "The best way of working with Protocol Buffers."
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
   },
   {
-    "repo": "webpack-contrib/css-loader",
+    "repo": "openfaas/faas",
+    "branch": "master",
+    "language": "Go",
+    "description": "OpenFaaS - Serverless Functions Made Simple"
+  },
+  {
+    "repo": "matem6/P2JB-Y2JB-Porting",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow"
+  },
+  {
+    "repo": "snarktank/compound-product",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "repo": "Doorman11991/smallcode",
     "branch": "master",
     "language": "JavaScript",
-    "description": "CSS Loader"
+    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
   },
   {
-    "repo": "influxdata/telegraf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
-  },
-  {
-    "repo": "apache/flink",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Flink"
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
     "branch": "main",
     "language": "Java",
-    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
   },
   {
-    "repo": "go-gitea/gitea",
+    "repo": "cdanielc293/Jenny-Mod-All-Versions",
     "branch": "main",
-    "language": "Go",
-    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+    "language": "C#",
+    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable."
   },
   {
-    "repo": "jashkenas/backbone",
+    "repo": "mage-ai/mage-ai",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "mastodon/mastodon",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Your self-hosted, globally interconnected microblogging community"
-  },
-  {
-    "repo": "MooseGoose0701/skill-compose",
-    "branch": "main",
     "language": "Python",
-    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+    "description": "🧙 Build, run, and manage data pipelines for integrating and transforming data."
   },
   {
-    "repo": "NVIDIA/cudnn-frontend",
+    "repo": "nickustinov/itsytv-macos",
     "branch": "main",
-    "language": "C++",
-    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+    "language": "Swift",
+    "description": "The missing Apple TV remote app for macOS"
   },
   {
-    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark deleter windows macos"
-  },
-  {
-    "repo": "argoproj/argo-cd",
-    "branch": "master",
-    "language": "Go",
-    "description": "Declarative Continuous Deployment for Kubernetes"
-  },
-  {
-    "repo": "rustwasm/wasm-pack",
-    "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
-  },
-  {
-    "repo": "ahmetb/kubectx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Faster way to switch between clusters and namespaces in kubectl"
-  },
-  {
-    "repo": "nepfaff/scenesmith",
-    "branch": "main",
-    "language": "Python",
-    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
-  },
-  {
-    "repo": "great-expectations/great_expectations",
+    "repo": "boto/boto3",
     "branch": "develop",
     "language": "Python",
-    "description": "Always know what to expect from your data."
+    "description": "Boto3, an AWS SDK for Python"
   },
   {
-    "repo": "ultralytics/ultralytics",
+    "repo": "ShinMegamiBoson/OpenPlanter",
     "branch": "main",
     "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
-  },
-  {
-    "repo": "olucasandrade/youjustneedpostgres",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "locustio/locust",
+    "repo": "evilsocket/audit",
+    "branch": "main",
+    "language": "Python",
+    "description": "An 8-stage vulnerability-discovery agent."
+  },
+  {
+    "repo": "anthropics/claudes-c-compiler",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+  },
+  {
+    "repo": "datavorous/challenges",
     "branch": "master",
     "language": "Python",
-    "description": "Write scalable load tests in plain Python 🚗💨"
+    "description": "Various coding challenges from all around the internet"
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "MoyangLi00/DROID-W",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026] DROID-SLAM in the Wild"
+  },
+  {
+    "repo": "square/picasso",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A powerful image downloading and caching library for Android"
+  },
+  {
+    "repo": "nguyenduchoai/bizclaw",
+    "branch": "master",
+    "language": "Rust",
+    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
+  },
+  {
+    "repo": "planetscale/database-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Skills for AI agents working with databases"
   }
 ]

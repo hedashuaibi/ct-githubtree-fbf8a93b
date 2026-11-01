@@ -1,8 +1,8 @@
 {
-  "repo": "wanghao-SunSky/cs329z-chinese",
+  "repo": "dbreunig/nesformer",
   "branch": "main",
-  "language": "HTML",
-  "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
-  "stars": 314,
-  "forks": 33
+  "language": "Python",
+  "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
+  "stars": 261,
+  "forks": 8
 }
