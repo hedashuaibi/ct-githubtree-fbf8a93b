@@ -1,8 +1,8 @@
 {
-  "repo": "changhaoting1998-star/manufacturing-wechat-miniapp-starter",
+  "repo": "techgenius1/tvOS-Launcher",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Privacy-first WeChat Mini Program starter for manufacturing employee self-service and auditable MES integration.",
-  "stars": 217,
-  "forks": 9
+  "language": "Java",
+  "description": "A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and one-tap local ADB setup.",
+  "stars": 218,
+  "forks": 12
 }
