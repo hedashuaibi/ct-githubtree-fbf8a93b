@@ -1,45 +1,21 @@
 [
   {
-    "repo": "chen2he/orange-cloud",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native iOS client for Cloudflare — sign in with OAuth"
-  },
-  {
-    "repo": "jackwener/wx-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "WeChat local data CLI with daemon architecture"
-  },
-  {
-    "repo": "solidjs-community/solid-primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
-  },
-  {
-    "repo": "ibelick/webclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fast web client for OpenClaw"
-  },
-  {
-    "repo": "asdfgh1445/ctf-super-hub",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式"
-  },
-  {
-    "repo": "GainSec/AutoProber",
+    "repo": "yuanshuacpu/robot_futuring_rl",
     "branch": "main",
     "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+    "description": ""
   },
   {
-    "repo": "iBUHub/CanvasToAPI",
+    "repo": "THU-MAIC/OpenMAIC",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）"
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
   },
   {
     "repo": "muxprotocol/solana-trading-bot",
@@ -48,99 +24,123 @@
     "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
   },
   {
-    "repo": "originalankur/GenerateAgents.md",
+    "repo": "newrelic/newrelic-python-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+    "description": "New Relic Python Agent"
   },
   {
-    "repo": "steven2358/awesome-generative-ai",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
-  },
-  {
-    "repo": "ReactiveX/RxAndroid",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava bindings for Android"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
+    "repo": "deepfakes/faceswap",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+    "language": "Python",
+    "description": "Deepfakes Software For All"
   },
   {
-    "repo": "angel10x/Crash-Frontend",
+    "repo": "alash3al/stash",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "About Crash game - frontend"
+    "language": "Go",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
   },
   {
-    "repo": "vuciv/artblock",
+    "repo": "alainnothere/llm-circuit-finder",
+    "branch": "main",
+    "language": "Python",
+    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "branch": "main",
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+  },
+  {
+    "repo": "golang-standards/project-layout",
+    "branch": "master",
+    "language": "Makefile",
+    "description": "Standard Go Project Layout"
+  },
+  {
+    "repo": "async-rs/async-std",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Async version of the Rust standard library"
+  },
+  {
+    "repo": "avacocloud/XHTTP-Installer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
+  },
+  {
+    "repo": "sveltejs/svelte",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections."
+    "description": "web development for the rest of us"
   },
   {
-    "repo": "qwikverse/qwik",
+    "repo": "silverstein/minutes",
     "branch": "main",
-    "language": "Other",
-    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
+    "language": "Rust",
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
   },
   {
-    "repo": "boto/boto3",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
+    "repo": "FuelLabs/fuel-core",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rust full node implementation of the Fuel v2 protocol."
   },
   {
-    "repo": "react-native-image-picker/react-native-image-picker",
-    "branch": "main",
-    "language": "Java",
-    "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera."
-  },
-  {
-    "repo": "sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-",
+    "repo": "huggingface/transformers",
     "branch": "main",
     "language": "Python",
-    "description": "Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser."
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
   },
   {
-    "repo": "jwangkun/hermes-agent-guide",
+    "repo": "torvalds/linux",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux kernel source tree"
+  },
+  {
+    "repo": "FireRedTeam/FireRedASR2S",
     "branch": "main",
     "language": "Python",
-    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
+    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
   },
   {
-    "repo": "avaco-cloud/Vercel-XHTTP",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
+    "repo": "istio/istio",
+    "branch": "master",
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
   },
   {
-    "repo": "basketikun/chatgpt2api",
-    "branch": "main",
+    "repo": "ReactiveX/RxJS",
+    "branch": "master",
     "language": "TypeScript",
-    "description": ""
+    "description": "A reactive programming library for JavaScript"
   },
   {
-    "repo": "OpenImagingLab/AnyRecon",
+    "repo": "hyperium/hyper",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An HTTP library for Rust"
+  },
+  {
+    "repo": "ula7i921011/React2Shell-Scanner",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "React2Shell Scanner"
   },
   {
-    "repo": "microsoft/AI",
-    "branch": "master",
+    "repo": "worldwonderer/oh-story-claudecode",
+    "branch": "main",
+    "language": "Shell",
+    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+  },
+  {
+    "repo": "PolyPulse-Analytics/hyperliquid-trading-bot",
+    "branch": "main",
     "language": "Python",
-    "description": "Microsoft AI"
-  },
-  {
-    "repo": "akullpp/awesome-java",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
   }
 ]

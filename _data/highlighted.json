@@ -1,8 +1,8 @@
 {
-  "repo": "Gezine/CivSwitch",
-  "branch": "main",
-  "language": "JavaScript",
-  "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-  "stars": 336,
-  "forks": 64
+  "repo": "zortos293/Eglantine",
+  "branch": "nx2",
+  "language": "C++",
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "stars": 363,
+  "forks": 34
 }
