@@ -1,87 +1,93 @@
 [
   {
-    "repo": "godotengine/godot",
-    "branch": "master",
-    "language": "C++",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
-  },
-  {
-    "repo": "rs/zerolog",
-    "branch": "master",
-    "language": "Go",
-    "description": "Zero Allocation JSON Logger"
-  },
-  {
-    "repo": "poxk/Falco",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Tiny browser engine written from scratch in Rust."
-  },
-  {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
-  },
-  {
-    "repo": "davidondrej/jailbreak-autoresearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "We shall set the models free."
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "openfaas/faas",
-    "branch": "master",
-    "language": "Go",
-    "description": "OpenFaaS - Serverless Functions Made Simple"
-  },
-  {
-    "repo": "matem6/P2JB-Y2JB-Porting",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow"
-  },
-  {
-    "repo": "snarktank/compound-product",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
-  },
-  {
-    "repo": "Doorman11991/smallcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
-  },
-  {
-    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
-    "branch": "main",
-    "language": "Java",
-    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
-  },
-  {
-    "repo": "cdanielc293/Jenny-Mod-All-Versions",
-    "branch": "main",
-    "language": "C#",
-    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable."
-  },
-  {
-    "repo": "mage-ai/mage-ai",
-    "branch": "master",
-    "language": "Python",
-    "description": "🧙 Build, run, and manage data pipelines for integrating and transforming data."
-  },
-  {
-    "repo": "nickustinov/itsytv-macos",
+    "repo": "chen2he/orange-cloud",
     "branch": "main",
     "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
+    "description": "A native iOS client for Cloudflare — sign in with OAuth"
+  },
+  {
+    "repo": "jackwener/wx-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "repo": "solidjs-community/solid-primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+  },
+  {
+    "repo": "ibelick/webclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fast web client for OpenClaw"
+  },
+  {
+    "repo": "asdfgh1445/ctf-super-hub",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式"
+  },
+  {
+    "repo": "GainSec/AutoProber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+  },
+  {
+    "repo": "iBUHub/CanvasToAPI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）"
+  },
+  {
+    "repo": "muxprotocol/solana-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
+  },
+  {
+    "repo": "originalankur/GenerateAgents.md",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+  },
+  {
+    "repo": "steven2358/awesome-generative-ai",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
+  },
+  {
+    "repo": "ReactiveX/RxAndroid",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava bindings for Android"
+  },
+  {
+    "repo": "godagoo/claude-telegram-relay",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
+  },
+  {
+    "repo": "vuciv/artblock",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections."
+  },
+  {
+    "repo": "qwikverse/qwik",
+    "branch": "main",
+    "language": "Other",
+    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
   },
   {
     "repo": "boto/boto3",
@@ -90,57 +96,51 @@
     "description": "Boto3, an AWS SDK for Python"
   },
   {
-    "repo": "ShinMegamiBoson/OpenPlanter",
+    "repo": "react-native-image-picker/react-native-image-picker",
+    "branch": "main",
+    "language": "Java",
+    "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera."
+  },
+  {
+    "repo": "sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-",
+    "branch": "main",
+    "language": "Python",
+    "description": "Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser."
+  },
+  {
+    "repo": "jwangkun/hermes-agent-guide",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
+  },
+  {
+    "repo": "avaco-cloud/Vercel-XHTTP",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
+  },
+  {
+    "repo": "basketikun/chatgpt2api",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "OpenImagingLab/AnyRecon",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "evilsocket/audit",
-    "branch": "main",
-    "language": "Python",
-    "description": "An 8-stage vulnerability-discovery agent."
-  },
-  {
-    "repo": "anthropics/claudes-c-compiler",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
-  },
-  {
-    "repo": "datavorous/challenges",
+    "repo": "microsoft/AI",
     "branch": "master",
     "language": "Python",
-    "description": "Various coding challenges from all around the internet"
+    "description": "Microsoft AI"
   },
   {
-    "repo": "vinta/awesome-python",
+    "repo": "akullpp/awesome-java",
     "branch": "master",
-    "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
-  },
-  {
-    "repo": "MoyangLi00/DROID-W",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026] DROID-SLAM in the Wild"
-  },
-  {
-    "repo": "square/picasso",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
-  },
-  {
-    "repo": "nguyenduchoai/bizclaw",
-    "branch": "master",
-    "language": "Rust",
-    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
-  },
-  {
-    "repo": "planetscale/database-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Skills for AI agents working with databases"
+    "language": "Other",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
   }
 ]

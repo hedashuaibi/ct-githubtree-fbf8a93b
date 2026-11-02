@@ -1,8 +1,8 @@
 {
-  "repo": "dbreunig/nesformer",
+  "repo": "Gezine/CivSwitch",
   "branch": "main",
-  "language": "Python",
-  "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
-  "stars": 261,
-  "forks": 8
+  "language": "JavaScript",
+  "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+  "stars": 336,
+  "forks": 64
 }
