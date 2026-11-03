@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pallets/click",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python composable command line interface toolkit"
-  },
-  {
-    "repo": "lopopolo/harness-engineering",
-    "branch": "trunk",
-    "language": "Python",
-    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
-  },
-  {
-    "repo": "gorhom/react-native-bottom-sheet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
-  },
-  {
-    "repo": "thanos-io/thanos",
-    "branch": "main",
-    "language": "Go",
-    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
-  },
-  {
-    "repo": "simular-ai/simulang",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "opidora2245/Skeetcc-CS2-Cheat-DMA-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification."
-  },
-  {
-    "repo": "delbaoliveira/learn-claude-code",
+    "repo": "nthnclrk/CleanFrame",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "A personal home screen for Samsung The Frame. A starting point to fork and adapt."
   },
   {
-    "repo": "xsawyerx/curl-doom",
+    "repo": "vercel/geist-font",
+    "branch": "main",
+    "language": "Python",
+    "description": "Geist is a typeface developed by Vercel."
+  },
+  {
+    "repo": "binggandata/bggg-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source Codex skills from BGGG"
+  },
+  {
+    "repo": "testing-library/react-testing-library",
     "branch": "main",
     "language": "JavaScript",
-    "description": "DOOM, played over cURL"
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
   },
   {
-    "repo": "encode/django-rest-framework",
-    "branch": "master",
-    "language": "Python",
-    "description": "Web APIs for Django. 🎸"
-  },
-  {
-    "repo": "ProjectPhysX/hw-smi",
+    "repo": "WerWolv/ImHex",
     "branch": "master",
     "language": "C++",
-    "description": "A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization."
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
   },
   {
-    "repo": "polkadot-js/apps",
+    "repo": "google/googletest",
+    "branch": "main",
+    "language": "C++",
+    "description": "GoogleTest - Google Testing and Mocking Framework"
+  },
+  {
+    "repo": "amplication/amplication",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
   },
   {
-    "repo": "LedgerHQ/ledger-live",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
+    "repo": "rest-assured/rest-assured",
+    "branch": "master",
+    "language": "Java",
+    "description": "Java DSL for easy testing of REST services"
   },
   {
-    "repo": "Simbastack-hq/framedex",
+    "repo": "open-webui/open-webui",
     "branch": "main",
     "language": "Python",
-    "description": "Framedex — a queryable knowledge base for your video archive"
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
   },
   {
-    "repo": "pandas-profiling/pandas-profiling",
-    "branch": "develop",
-    "language": "Python",
-    "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames."
-  },
-  {
-    "repo": "alchaincyf/huashu-design",
+    "repo": "shadowsocks/shadowsocks-windows",
     "branch": "master",
-    "language": "HTML",
-    "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic"
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
   },
   {
-    "repo": "microsoft/react-native-code-push",
+    "repo": "torvalds/linux",
     "branch": "master",
     "language": "C",
-    "description": "React Native module for CodePush"
+    "description": "Linux kernel source tree"
   },
   {
-    "repo": "clockworklabs/SpacetimeDB",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
-  },
-  {
-    "repo": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-    "branch": "main",
-    "language": "C#",
-    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy"
-  },
-  {
-    "repo": "skydoves/android-testing-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "⚡️ A set of skills for Android testing: Compose UI, AndroidX Test, JVM unit tests, and ADB."
-  },
-  {
-    "repo": "kaima2022/ABCard",
+    "repo": "scikit-learn/scikit-learn",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "scikit-learn: machine learning in Python"
   },
   {
-    "repo": "BruceLanLan/bruceblue-ghostty-config",
+    "repo": "godotengine/godot-proposals",
+    "branch": "master",
+    "language": "Other",
+    "description": "Godot Improvement Proposals (GIPs)"
+  },
+  {
+    "repo": "keepassxreboot/keepassxc",
+    "branch": "develop",
+    "language": "C++",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+  },
+  {
+    "repo": "tamagui/tamagui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+  },
+  {
+    "repo": "NomicFoundation/hardhat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
+  },
+  {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+  },
+  {
+    "repo": "Mufeedvh/Code2Prompt",
     "branch": "main",
-    "language": "Makefile",
-    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+    "language": "Rust",
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
   },
   {
-    "repo": "m1heng/clawdbot-feishu",
+    "repo": "Uniswap/v3-core",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
   },
   {
-    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
-  },
-  {
-    "repo": "scrapy/scrapy",
+    "repo": "pytest-dev/pytest-cov",
     "branch": "master",
     "language": "Python",
-    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
+    "description": "Coverage plugin for pytest."
+  },
+  {
+    "repo": "jorgebucaran/hyperapp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "1kB-ish JavaScript framework for building hypertext applications"
+  },
+  {
+    "repo": "sqlalchemy/sqlalchemy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Database Toolkit for Python"
+  },
+  {
+    "repo": "docker/docker-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
+  },
+  {
+    "repo": "facebookresearch/detectron2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
   }
 ]

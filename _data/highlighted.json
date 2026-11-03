@@ -1,8 +1,8 @@
 {
-  "repo": "maxwilsoneng2098t9/pdf-compressor-offline",
+  "repo": "XiaoyeCodes/code-animation-prompts",
   "branch": "main",
-  "language": "Python",
-  "description": "Offline PDF compressor for Windows 2026. Reduce PDF file size up to 90% with minimal quality loss. Supports batch mode, drag & drop and works without internet connection.",
-  "stars": 0,
-  "forks": 0
+  "language": "HTML",
+  "description": "341 种代码动画风格提示词、193 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。",
+  "stars": 392,
+  "forks": 100
 }
