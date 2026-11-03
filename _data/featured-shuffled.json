@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alexngdev99/rork-medieval-3d-chess",
+    "repo": "pallets/click",
     "branch": "main",
+    "language": "Python",
+    "description": "Python composable command line interface toolkit"
+  },
+  {
+    "repo": "lopopolo/harness-engineering",
+    "branch": "trunk",
+    "language": "Python",
+    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
+  },
+  {
+    "repo": "gorhom/react-native-bottom-sheet",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Created by Rork"
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
   },
   {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "MarvinSchwaibold/mri-grid-viewer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
-  },
-  {
-    "repo": "Sylvara-Lin/LianYu-app",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "bonhs1983/Peace-Equalizer-Apo",
-    "branch": "main",
-    "language": "C#",
-    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
-  },
-  {
-    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
-  },
-  {
-    "repo": "Fahim-SS/lsfg-git",
-    "branch": "main",
-    "language": "C++",
-    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
-  },
-  {
-    "repo": "PostmanReminisce/Wisp-VPN",
-    "branch": "main",
-    "language": "C#",
-    "description": "Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без логов, без ограничений по трафику, полностью open-source. В активной разработке. Обходим блокировки в РФ."
-  },
-  {
-    "repo": "MSNightmare/LegacyHive",
-    "branch": "main",
-    "language": "C++",
-    "description": "N/A"
-  },
-  {
-    "repo": "Poya88/MultipleRobloxInstances-",
-    "branch": "main",
-    "language": "C#",
-    "description": "multiple roblox instances multi account launcher github download bloxstrap roblox alt manager ram multi client singletons mutex tool alt account farming concurrent instances pc gaming gameplay background runner open source desktop utility multitaskingsingle client"
-  },
-  {
-    "repo": "QuantML-Research/wq-alpha-research",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "frankchiu-dev/claude-codex-usage-dashboard",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A local Windows dashboard for Claude Code and Codex usage limits."
-  },
-  {
-    "repo": "shadcn-labs/agentcn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "shadcn/ui, but for building agents. 🤖"
-  },
-  {
-    "repo": "iamhmjayed/MEGA_Cloud_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated upload, download, and link generation for MEGA. Upload files, download all, create share links, and client-side encryption. Secure your cloud storage."
-  },
-  {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks"
-  },
-  {
-    "repo": "ethanfel/ComfyUI-MiniMax-H3-Guide",
-    "branch": "main",
-    "language": "Python",
-    "description": "Guided MiniMax H3 prompt preparation node for ComfyUI"
-  },
-  {
-    "repo": "Mbovu222/League_of_Legends_Skillshot_Dodger",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes."
-  },
-  {
-    "repo": "cristicretu/diri",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts"
-  },
-  {
-    "repo": "0xnyn/airship",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Figma like visual editor built for Claude Code, Codex and OpenCode"
-  },
-  {
-    "repo": "ryanzhou/deepseek-v4-flash-mi300x",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "JimLiu/baocut",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents"
-  },
-  {
-    "repo": "nethical6/conversation-steganography",
+    "repo": "thanos-io/thanos",
     "branch": "main",
     "language": "Go",
-    "description": "Use LLMS to hide secret messages inside normal-looking chat text"
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
   },
   {
-    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
+    "repo": "simular-ai/simulang",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "opidora2245/Skeetcc-CS2-Cheat-DMA-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification."
+  },
+  {
+    "repo": "delbaoliveira/learn-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "xsawyerx/curl-doom",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DOOM, played over cURL"
+  },
+  {
+    "repo": "encode/django-rest-framework",
+    "branch": "master",
+    "language": "Python",
+    "description": "Web APIs for Django. 🎸"
+  },
+  {
+    "repo": "ProjectPhysX/hw-smi",
+    "branch": "master",
+    "language": "C++",
+    "description": "A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization."
+  },
+  {
+    "repo": "polkadot-js/apps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+  },
+  {
+    "repo": "LedgerHQ/ledger-live",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
+  },
+  {
+    "repo": "Simbastack-hq/framedex",
     "branch": "main",
     "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+    "description": "Framedex — a queryable knowledge base for your video archive"
+  },
+  {
+    "repo": "pandas-profiling/pandas-profiling",
+    "branch": "develop",
+    "language": "Python",
+    "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames."
+  },
+  {
+    "repo": "alchaincyf/huashu-design",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic"
+  },
+  {
+    "repo": "microsoft/react-native-code-push",
+    "branch": "master",
+    "language": "C",
+    "description": "React Native module for CodePush"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplayer at the speed of light"
+  },
+  {
+    "repo": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "branch": "main",
+    "language": "C#",
+    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy"
+  },
+  {
+    "repo": "skydoves/android-testing-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "⚡️ A set of skills for Android testing: Compose UI, AndroidX Test, JVM unit tests, and ADB."
+  },
+  {
+    "repo": "kaima2022/ABCard",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "BruceLanLan/bruceblue-ghostty-config",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+  },
+  {
+    "repo": "m1heng/clawdbot-feishu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "branch": "master",
+    "language": "Python",
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
   }
 ]

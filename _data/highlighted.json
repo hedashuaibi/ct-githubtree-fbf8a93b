@@ -1,8 +1,8 @@
 {
-  "repo": "Gezine/CivSwitch",
+  "repo": "maxwilsoneng2098t9/pdf-compressor-offline",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-  "stars": 471,
-  "forks": 102
+  "language": "Python",
+  "description": "Offline PDF compressor for Windows 2026. Reduce PDF file size up to 90% with minimal quality loss. Supports batch mode, drag & drop and works without internet connection.",
+  "stars": 0,
+  "forks": 0
 }
