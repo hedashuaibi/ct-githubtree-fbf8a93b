@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yuanshuacpu/robot_futuring_rl",
+    "repo": "alexngdev99/rork-medieval-3d-chess",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Created by Rork"
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "MarvinSchwaibold/mri-grid-viewer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
+  },
+  {
+    "repo": "Sylvara-Lin/LianYu-app",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "bonhs1983/Peace-Equalizer-Apo",
+    "branch": "main",
+    "language": "C#",
+    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
+  },
+  {
+    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
+  },
+  {
+    "repo": "Fahim-SS/lsfg-git",
+    "branch": "main",
+    "language": "C++",
+    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
+  },
+  {
+    "repo": "PostmanReminisce/Wisp-VPN",
+    "branch": "main",
+    "language": "C#",
+    "description": "Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без логов, без ограничений по трафику, полностью open-source. В активной разработке. Обходим блокировки в РФ."
+  },
+  {
+    "repo": "MSNightmare/LegacyHive",
+    "branch": "main",
+    "language": "C++",
+    "description": "N/A"
+  },
+  {
+    "repo": "Poya88/MultipleRobloxInstances-",
+    "branch": "main",
+    "language": "C#",
+    "description": "multiple roblox instances multi account launcher github download bloxstrap roblox alt manager ram multi client singletons mutex tool alt account farming concurrent instances pc gaming gameplay background runner open source desktop utility multitaskingsingle client"
+  },
+  {
+    "repo": "QuantML-Research/wq-alpha-research",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "THU-MAIC/OpenMAIC",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "muxprotocol/solana-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "alash3al/stash",
-    "branch": "main",
-    "language": "Go",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
-  },
-  {
-    "repo": "alainnothere/llm-circuit-finder",
-    "branch": "main",
-    "language": "Python",
-    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
-  },
-  {
-    "repo": "async-rs/async-std",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Async version of the Rust standard library"
-  },
-  {
-    "repo": "avacocloud/XHTTP-Installer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
-  },
-  {
-    "repo": "sveltejs/svelte",
+    "repo": "frankchiu-dev/claude-codex-usage-dashboard",
     "branch": "main",
     "language": "JavaScript",
-    "description": "web development for the rest of us"
+    "description": "A local Windows dashboard for Claude Code and Codex usage limits."
   },
   {
-    "repo": "silverstein/minutes",
+    "repo": "shadcn-labs/agentcn",
     "branch": "main",
-    "language": "Rust",
-    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
-  },
-  {
-    "repo": "FuelLabs/fuel-core",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rust full node implementation of the Fuel v2 protocol."
-  },
-  {
-    "repo": "huggingface/transformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-  },
-  {
-    "repo": "torvalds/linux",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
-  },
-  {
-    "repo": "FireRedTeam/FireRedASR2S",
-    "branch": "main",
-    "language": "Python",
-    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
-  },
-  {
-    "repo": "istio/istio",
-    "branch": "master",
-    "language": "Go",
-    "description": "Connect, secure, control, and observe services."
-  },
-  {
-    "repo": "ReactiveX/RxJS",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "A reactive programming library for JavaScript"
+    "description": "shadcn/ui, but for building agents. 🤖"
   },
   {
-    "repo": "hyperium/hyper",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An HTTP library for Rust"
-  },
-  {
-    "repo": "ula7i921011/React2Shell-Scanner",
+    "repo": "iamhmjayed/MEGA_Cloud_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "React2Shell Scanner"
+    "description": "Automated upload, download, and link generation for MEGA. Upload files, download all, create share links, and client-side encryption. Secure your cloud storage."
   },
   {
-    "repo": "worldwonderer/oh-story-claudecode",
+    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks"
+  },
+  {
+    "repo": "ethanfel/ComfyUI-MiniMax-H3-Guide",
+    "branch": "main",
+    "language": "Python",
+    "description": "Guided MiniMax H3 prompt preparation node for ComfyUI"
+  },
+  {
+    "repo": "Mbovu222/League_of_Legends_Skillshot_Dodger",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes."
+  },
+  {
+    "repo": "cristicretu/diri",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts"
+  },
+  {
+    "repo": "0xnyn/airship",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Figma like visual editor built for Claude Code, Codex and OpenCode"
+  },
+  {
+    "repo": "ryanzhou/deepseek-v4-flash-mi300x",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "JimLiu/baocut",
     "branch": "main",
     "language": "Shell",
-    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+    "description": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents"
   },
   {
-    "repo": "PolyPulse-Analytics/hyperliquid-trading-bot",
+    "repo": "nethical6/conversation-steganography",
+    "branch": "main",
+    "language": "Go",
+    "description": "Use LLMS to hide secret messages inside normal-looking chat text"
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
     "branch": "main",
     "language": "Python",
-    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
   }
 ]
