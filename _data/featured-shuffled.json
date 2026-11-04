@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nthnclrk/CleanFrame",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A personal home screen for Samsung The Frame. A starting point to fork and adapt."
-  },
-  {
-    "repo": "vercel/geist-font",
-    "branch": "main",
-    "language": "Python",
-    "description": "Geist is a typeface developed by Vercel."
-  },
-  {
-    "repo": "binggandata/bggg-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source Codex skills from BGGG"
-  },
-  {
-    "repo": "testing-library/react-testing-library",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
-  },
-  {
-    "repo": "WerWolv/ImHex",
-    "branch": "master",
-    "language": "C++",
-    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
-  },
-  {
-    "repo": "google/googletest",
-    "branch": "main",
-    "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
-  },
-  {
-    "repo": "amplication/amplication",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
-  },
-  {
-    "repo": "rest-assured/rest-assured",
-    "branch": "master",
-    "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
-  },
-  {
-    "repo": "open-webui/open-webui",
-    "branch": "main",
-    "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
-  },
-  {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
-  },
-  {
-    "repo": "torvalds/linux",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "branch": "main",
-    "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
-  },
-  {
-    "repo": "godotengine/godot-proposals",
-    "branch": "master",
-    "language": "Other",
-    "description": "Godot Improvement Proposals (GIPs)"
-  },
-  {
-    "repo": "keepassxreboot/keepassxc",
-    "branch": "develop",
-    "language": "C++",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
-  },
-  {
-    "repo": "tamagui/tamagui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
-  },
-  {
-    "repo": "NomicFoundation/hardhat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
-  },
-  {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
-  },
-  {
-    "repo": "Mufeedvh/Code2Prompt",
+    "repo": "tanaer/WindowsClear",
     "branch": "main",
     "language": "Rust",
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
   },
   {
-    "repo": "Uniswap/v3-core",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
-  },
-  {
-    "repo": "pytest-dev/pytest-cov",
-    "branch": "master",
-    "language": "Python",
-    "description": "Coverage plugin for pytest."
-  },
-  {
-    "repo": "jorgebucaran/hyperapp",
+    "repo": "AnInsomniacy/motrix-next",
     "branch": "main",
     "language": "JavaScript",
-    "description": "1kB-ish JavaScript framework for building hypertext applications"
+    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
   },
   {
-    "repo": "sqlalchemy/sqlalchemy",
+    "repo": "DatanoiseTV/tinyice",
     "branch": "main",
-    "language": "Python",
-    "description": "The Database Toolkit for Python"
+    "language": "Go",
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
   },
   {
-    "repo": "docker/docker-py",
+    "repo": "securo-finance/securo",
     "branch": "main",
     "language": "Python",
-    "description": "A Python library for the Docker Engine API"
+    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
   },
   {
-    "repo": "facebookresearch/detectron2",
+    "repo": "miuda-ai/lele",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Bare-Metal Rust Audio AI Framework"
+  },
+  {
+    "repo": "TauriccResearch/Solana-Trading-Bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Solana Sniper Bot Raydium Sniper Bot Pumpfun Sniper Bot Bonkfun Sniper Bot Meteora Sniper Bot"
+  },
+  {
+    "repo": "LemoLev/tg-ws-proxy-ANDROID",
     "branch": "main",
     "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
+    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
+  },
+  {
+    "repo": "PandoraReads/apex-dashboard",
+    "branch": "main",
+    "language": "CSS",
+    "description": "Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your projects — and make it look incredible doing it."
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "dropwizard/dropwizard",
+    "branch": "master",
+    "language": "Java",
+    "description": "A damn simple library for building production-ready RESTful web services."
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
+  },
+  {
+    "repo": "microsoft/ML-For-Beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+  },
+  {
+    "repo": "fluent/fluentd",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "Textualize/textual",
+    "branch": "main",
+    "language": "Python",
+    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
+  },
+  {
+    "repo": "ultraworkers/claw-code-parity",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "repo": "schibsted/videofy_minimal",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "nikzad-avasam/downloader",
+    "branch": "main",
+    "language": "HTML",
+    "description": "for 🇮🇷 🪄 download files + 🌐 browse websites"
+  },
+  {
+    "repo": "rohanarun/phoneclaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone."
+  },
+  {
+    "repo": "SKYFIRE5836/Slay-the-Spire-2-Drawing",
+    "branch": "main",
+    "language": "Python",
+    "description": "杀戮尖塔2 数字琥珀自动画板 | A Python automation drawing tool for Slay the Spire 2"
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "branch": "master",
+    "language": "Python",
+    "description": "An orchestration platform for the development, production, and observation of data assets."
+  },
+  {
+    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
+  },
+  {
+    "repo": "stablyai/agent-slack",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Slack automation CLI for AI agents"
+  },
+  {
+    "repo": "actions/runner-images",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
   }
 ]

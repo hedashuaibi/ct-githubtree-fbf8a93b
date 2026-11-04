@@ -1,8 +1,8 @@
 {
-  "repo": "XiaoyeCodes/code-animation-prompts",
+  "repo": "aa1143/NamiAgent",
   "branch": "main",
-  "language": "HTML",
-  "description": "341 种代码动画风格提示词、193 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。",
-  "stars": 392,
-  "forks": 100
+  "language": "Python",
+  "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+  "stars": 295,
+  "forks": 29
 }
