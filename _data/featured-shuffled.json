@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tanaer/WindowsClear",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
-  },
-  {
-    "repo": "AnInsomniacy/motrix-next",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
-  },
-  {
-    "repo": "DatanoiseTV/tinyice",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
-  },
-  {
-    "repo": "securo-finance/securo",
+    "repo": "diva-l/travel-agent-harness",
     "branch": "main",
     "language": "Python",
-    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
-  },
-  {
-    "repo": "miuda-ai/lele",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Bare-Metal Rust Audio AI Framework"
-  },
-  {
-    "repo": "TauriccResearch/Solana-Trading-Bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Solana Sniper Bot Raydium Sniper Bot Pumpfun Sniper Bot Bonkfun Sniper Bot Meteora Sniper Bot"
-  },
-  {
-    "repo": "LemoLev/tg-ws-proxy-ANDROID",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
-  },
-  {
-    "repo": "PandoraReads/apex-dashboard",
-    "branch": "main",
-    "language": "CSS",
-    "description": "Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your projects — and make it look incredible doing it."
-  },
-  {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
-  },
-  {
-    "repo": "dropwizard/dropwizard",
-    "branch": "master",
-    "language": "Java",
-    "description": "A damn simple library for building production-ready RESTful web services."
-  },
-  {
-    "repo": "huggingface/tokenizers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
-  },
-  {
-    "repo": "microsoft/ML-For-Beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
-  },
-  {
-    "repo": "fluent/fluentd",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
-  },
-  {
-    "repo": "flannel-io/flannel",
-    "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "Textualize/textual",
-    "branch": "main",
-    "language": "Python",
-    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
-  },
-  {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "schibsted/videofy_minimal",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "nikzad-avasam/downloader",
-    "branch": "main",
-    "language": "HTML",
-    "description": "for 🇮🇷 🪄 download files + 🌐 browse websites"
-  },
-  {
-    "repo": "rohanarun/phoneclaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone."
-  },
-  {
-    "repo": "SKYFIRE5836/Slay-the-Spire-2-Drawing",
-    "branch": "main",
-    "language": "Python",
-    "description": "杀戮尖塔2 数字琥珀自动画板 | A Python automation drawing tool for Slay the Spire 2"
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "branch": "master",
-    "language": "Python",
-    "description": "An orchestration platform for the development, production, and observation of data assets."
-  },
-  {
-    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "repo": "blender/blender",
     "branch": "main",
     "language": "C++",
-    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
+    "description": "Official mirror of Blender"
   },
   {
-    "repo": "stablyai/agent-slack",
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "branch": "main",
+    "language": "Python",
+    "description": "scikit-learn: machine learning in Python"
+  },
+  {
+    "repo": "babel/babel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+  },
+  {
+    "repo": "promptpirate-x/discord-id-bypass-tool",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A verified tool that works on any potato computer that will let you bypass discord verification"
+  },
+  {
+    "repo": "nashsu/opencli-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)"
+  },
+  {
+    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Demo of tools of capabilities of Tony Stark."
+  },
+  {
+    "repo": "badsectorlabs/copyfail-go",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "A Go implementation of copyfail (CVE-2026-31431)"
+  },
+  {
+    "repo": "test-time-training/discover",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "google-gemini/generative-ai-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
+  },
+  {
+    "repo": "hallucinogen/agent-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Kanban board for managing Claude Code agents in tmux"
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Slack automation CLI for AI agents"
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "actions/runner-images",
+    "repo": "codejunkie99/agentic-stack",
+    "branch": "master",
+    "language": "Python",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+  },
+  {
+    "repo": "theNetworkChuck/axios-attack-guide",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
+    "language": "Shell",
+    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
+  },
+  {
+    "repo": "mfornos/awesome-microservices",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of Microservice Architecture related principles and technologies."
+  },
+  {
+    "repo": "sb-ocr/cmdeck",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "colinhacks/zod",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "repo": "pengchengneo/Claude-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "可运行的Claude Code源码"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "mrh000mrh/MRH-G2Ray-2",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "lukehinds/nono",
+    "branch": "main",
+    "language": "Rust",
+    "description": "OS-Level Isolation for AI Agents."
   }
 ]
