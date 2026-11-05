@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wangyunjeff/sub2api-state-kit",
-    "branch": "main",
-    "language": "Go",
-    "description": "Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）"
-  },
-  {
-    "repo": "patterniha/SNI-Spoofing",
+    "repo": "Cattmonkey/ChaosIntelligence",
     "branch": "main",
     "language": "Python",
-    "description": "Bypass DPI with IP/TCP-Header manipulation"
+    "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training."
   },
   {
-    "repo": "OpenImagingLab/AnyRecon",
+    "repo": "Russell-cell/PPT-Design-Prompt",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Jakubantalik/border-beam",
+    "repo": "vansh-nagar/ascii-studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Animated border beam effect for React"
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
   },
   {
-    "repo": "millionco/claude-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Diagnose your Claude Code sessions"
-  },
-  {
-    "repo": "caomaolufei/AIInfraGuide",
-    "branch": "main",
-    "language": "Astro",
-    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
-  },
-  {
-    "repo": "tinygo-org/tinygo",
-    "branch": "release",
-    "language": "Go",
-    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
-  },
-  {
-    "repo": "AgentSeal/codeburn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
-  },
-  {
-    "repo": "pyca/cryptography",
-    "branch": "main",
-    "language": "Python",
-    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
-  },
-  {
-    "repo": "activetheory/activeframe",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
-  },
-  {
-    "repo": "coindesk-protocol/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "python-attrs/attrs",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Classes Without Boilerplate"
-  },
-  {
-    "repo": "sebastianvkl/pizero-openclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "earthtojake/text-to-cad",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "An open source harness for generating CAD models"
-  },
-  {
-    "repo": "TristanH/wikiwise",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Boob025/peace-equalizer-APO",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "peace best  audio equalizer apo app pc windows 11 spotify  download audio sound booster bass boost headphones gaming preset config profile realtek parametric eq gui"
-  },
-  {
-    "repo": "incursi0n/BlueSAM",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
-  },
-  {
-    "repo": "figure-markets/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
-  },
-  {
-    "repo": "safe-global/safe-contracts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Safe allows secure management of blockchain assets."
-  },
-  {
-    "repo": "Dataherald/dataherald",
-    "branch": "main",
-    "language": "Python",
-    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
-  },
-  {
-    "repo": "benqi-finance/legalmarkdown",
+    "repo": "ALKAERR/Kali_Hack_Agent",
     "branch": "master",
-    "language": "Go",
-    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
+    "language": "Python",
+    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
   },
   {
-    "repo": "joeseesun/qiaomu-blog-opensource",
+    "repo": "SamNet-dev/conduit-manager",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+  },
+  {
+    "repo": "Narcooo/inkos",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
+  },
+  {
+    "repo": "Railly/agentfiles",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
+    "description": "Discover, organize, and edit AI coding agent skills across Claude Code, Cursor, Codex, Windsurf, and more, from inside Obsidian."
   },
   {
-    "repo": "hallucinogen/agent-viewer",
+    "repo": "NeoVertex1/nuggets",
     "branch": "main",
-    "language": "HTML",
-    "description": "Kanban board for managing Claude Code agents in tmux"
+    "language": "TypeScript",
+    "description": "First AI assistant with holographic memory"
   },
   {
-    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "repo": "prompt-security/clawsec",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+  },
+  {
+    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
+  },
+  {
+    "repo": "microsoft/fluentui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
+  },
+  {
+    "repo": "huangserva/claude-code-cli",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+  },
+  {
+    "repo": "Adityaraj0421/design-studio",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
+  },
+  {
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "Aircoookie/WLED",
     "branch": "main",
     "language": "C++",
-    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+  },
+  {
+    "repo": "WUBING2023/ExamPass-Assistant",
+    "branch": "master",
+    "language": "Python",
+    "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
+  },
+  {
+    "repo": "entropykit/entropia",
+    "branch": "main",
+    "language": "C",
+    "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files."
+  },
+  {
+    "repo": "swaroop2004/Proven-Viral-Content-System",
+    "branch": "main",
+    "language": "Python",
+    "description": "Research, brainstorm, and generate viral video content for Instagram, YouTube, X, and TikTok"
+  },
+  {
+    "repo": "bahdotsh/mdterm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A terminal-based Markdown browser."
+  },
+  {
+    "repo": "ninjahawk/Subtext",
+    "branch": "main",
+    "language": "HTML",
+    "description": "To know what models don't say out loud."
+  },
+  {
+    "repo": "coder/boo",
+    "branch": "main",
+    "language": "Zig",
+    "description": "A GNU screen style terminal multiplexer built on libghostty."
+  },
+  {
+    "repo": "SeanJ1ang/design-judge-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness."
+  },
+  {
+    "repo": "ory/kratos",
+    "branch": "master",
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+  },
+  {
+    "repo": "tanweai/pua",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。"
   }
 ]
