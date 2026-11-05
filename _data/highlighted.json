@@ -1,8 +1,8 @@
 {
-  "repo": "apekshik/anyscene",
+  "repo": "1337isnot1337/DOPPLERGEIST",
   "branch": "main",
   "language": "Python",
-  "description": "Photoreal Blender scenes from a one-paragraph brief, built by AI agents: image→3D props on fal, scripted layout, lighting, camera and grade.",
-  "stars": 304,
-  "forks": 35
+  "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+  "stars": 284,
+  "forks": 42
 }
