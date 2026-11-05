@@ -1,146 +1,146 @@
 [
   {
-    "repo": "panyiwei-home/Freedeck",
-    "branch": "main",
-    "language": "Python",
-    "description": "学习版游戏一站式平台"
-  },
-  {
-    "repo": "explosion/spaCy",
-    "branch": "master",
-    "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
-  },
-  {
-    "repo": "modelstudioai/cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls."
-  },
-  {
-    "repo": "nathanliow/atlas-of-physics",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C"
-  },
-  {
-    "repo": "Dgeloe4-yb/market-pilot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Evidence-grounded market research prototype with traceable AI workflows."
-  },
-  {
-    "repo": "pingmike2/freebuff2api-wokers",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "liangdabiao/liurun-bookwriter-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "蒸馏skill : 基于刘润28 年商业写作经验的完整复刻。基于其《我这28年的写作心法》提炼的 8 大心法、3 种结构、SCQA 逻辑势能、5商派 SCA++ 模板、7 种 callout，专为商业长文创作设计。你让它随便写任何 东西的 商业评论，都没有问题，都有意思，有洞见。"
-  },
-  {
-    "repo": "Hatari130/map-creator",
-    "branch": "main",
-    "language": "Python",
-    "description": "结合gis+gpt，用自然语言生成可商用城市打卡地图"
-  },
-  {
-    "repo": "wumingqi60/lingxi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "灵犀跨境-开源共建版"
-  },
-  {
-    "repo": "lbx154/Argus",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "owenshuo/open-bounty-radar",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities"
-  },
-  {
-    "repo": "eternityspring/shuohao-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets."
-  },
-  {
-    "repo": "swping999/scene-card-studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI visual director for turning personal photos into structured, editable visual narratives."
-  },
-  {
-    "repo": "Blaizzy/nativ",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Mega auto farm trainer for Pet Simulator 99 – automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
-  },
-  {
-    "repo": "HKUDS/AgentSpace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AgentSpace: Human + Agents. One Team. One Workspace"
-  },
-  {
-    "repo": "JimLiu/baoyu-design",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
-  },
-  {
-    "repo": "aleishawei1983/Seed-Generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths."
-  },
-  {
-    "repo": "thunderstoremods/Thunderstore-Mod-Manager",
-    "branch": "main",
-    "language": "C#",
-    "description": "Thunderstore Mod Manager free for Windows, macOS and Linux. Best mod manager for Lethal Company, Risk of Rain 2, Valheim, Deep Rock Galactic and Cyberpunk 2077. Thunderstore mod manager download, standalone, not working fix, vs Overwolf, vs Nexus Mod Manager. BepInEx and MelonLoader support. Download Thunderstore Mod Manager free 2026."
-  },
-  {
-    "repo": "yeet-src/httpinspect",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal."
-  },
-  {
-    "repo": "humation-labs/humation",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls."
-  },
-  {
-    "repo": "Accio-Lab/Dressage",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scalable RL framework for Any Agent and Sandbox."
-  },
-  {
-    "repo": "tobi/omasnap",
-    "branch": "main",
-    "language": "C++",
-    "description": "Native Wayland screenshot and annotation editor for Omarchy and Hyprland"
-  },
-  {
-    "repo": "overflowy/make-look-scanned",
+    "repo": "wangyunjeff/sub2api-state-kit",
     "branch": "main",
     "language": "Go",
-    "description": "Makes PDFs look scanned (CLI or in the browser via WASM)"
+    "description": "Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）"
+  },
+  {
+    "repo": "patterniha/SNI-Spoofing",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bypass DPI with IP/TCP-Header manipulation"
+  },
+  {
+    "repo": "OpenImagingLab/AnyRecon",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Jakubantalik/border-beam",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Animated border beam effect for React"
+  },
+  {
+    "repo": "millionco/claude-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Diagnose your Claude Code sessions"
+  },
+  {
+    "repo": "caomaolufei/AIInfraGuide",
+    "branch": "main",
+    "language": "Astro",
+    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
+  },
+  {
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
+    "language": "Go",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
+  },
+  {
+    "repo": "AgentSeal/codeburn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+  },
+  {
+    "repo": "pyca/cryptography",
+    "branch": "main",
+    "language": "Python",
+    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
+  },
+  {
+    "repo": "activetheory/activeframe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
+  },
+  {
+    "repo": "coindesk-protocol/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "python-attrs/attrs",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Classes Without Boilerplate"
+  },
+  {
+    "repo": "sebastianvkl/pizero-openclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An open source harness for generating CAD models"
+  },
+  {
+    "repo": "TristanH/wikiwise",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "Boob025/peace-equalizer-APO",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "peace best  audio equalizer apo app pc windows 11 spotify  download audio sound booster bass boost headphones gaming preset config profile realtek parametric eq gui"
+  },
+  {
+    "repo": "incursi0n/BlueSAM",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
+  },
+  {
+    "repo": "figure-markets/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
+  },
+  {
+    "repo": "safe-global/safe-contracts",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Safe allows secure management of blockchain assets."
+  },
+  {
+    "repo": "Dataherald/dataherald",
+    "branch": "main",
+    "language": "Python",
+    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
+  },
+  {
+    "repo": "benqi-finance/legalmarkdown",
+    "branch": "master",
+    "language": "Go",
+    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
+  },
+  {
+    "repo": "joeseesun/qiaomu-blog-opensource",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
+  },
+  {
+    "repo": "hallucinogen/agent-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Kanban board for managing Claude Code agents in tmux"
+  },
+  {
+    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
   }
 ]

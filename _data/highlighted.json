@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Python",
   "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
-  "stars": 284,
-  "forks": 42
+  "stars": 307,
+  "forks": 45
 }
