@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Ledger-Wallet-LLC/ledgerwallet",
+    "repo": "bitwarden-app312/.gitp3d",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Official Ledger Wallet Repository"
+    "language": "HTML",
+    "description": "bitwarden-for-mac-and-windows-pc-desktop-app"
   },
   {
-    "repo": "zunmax/osnm-z",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea"
-  },
-  {
-    "repo": "itshen/source-reading-methodology",
-    "branch": "main",
-    "language": "Python",
-    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行"
-  },
-  {
-    "repo": "oil-oil/oil-subtitle",
-    "branch": "main",
-    "language": "Python",
-    "description": "本地视频中文字幕转录、校对、章节进度与烧录工作流"
-  },
-  {
-    "repo": "Ansub/tv-detox",
+    "repo": "jcx396905-gif/DuoFold-Android",
     "branch": "main",
     "language": "Java",
-    "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up"
+    "description": "iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root."
   },
   {
-    "repo": "SkylarKitchen/skills",
+    "repo": "UditAkhourii/adhd",
     "branch": "main",
-    "language": "HTML",
-    "description": "Agent skills for design work: 3D build guides and more."
+    "language": "TypeScript",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work."
   },
   {
-    "repo": "MystiaFin/amane",
+    "repo": "MartinDelophy/awesome-gpt-6-astra",
     "branch": "main",
-    "language": "Rust",
-    "description": "A library for building Wayland desktop shell purely in Rust"
+    "language": "JavaScript",
+    "description": "A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra 游戏精选"
   },
   {
-    "repo": "sanqianzilanyue/ai-voice-breath-kiss-water",
+    "repo": "AbdelStark/awesome-typesafe",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "CSS",
+    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev."
   },
   {
-    "repo": "zhouwei713/luobo-ppt",
+    "repo": "driceroland/Search",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A small, fast WebKit browser for macOS, by Office Commun."
+  },
+  {
+    "repo": "kerpopule/hermes-jev-skills",
     "branch": "main",
     "language": "Python",
-    "description": "生成和美化可编辑原生 PPT 的 Agent Skill"
+    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)"
   },
   {
-    "repo": "leolobato/playden-ps5",
+    "repo": "coolbbcamp/Pons-v2-Multi-Wallet-Volume-Bot",
     "branch": "main",
-    "language": "C++",
-    "description": "Play your Steam library's Windows games on a jailbroken PS5."
+    "language": "TypeScript",
+    "description": "A production-oriented CLI for generating on-chain trading volume on the **Pons v2** bonding curve on **Robinhood Chain**. The bot coordinates multiple funded wallets through automated buy-and-sell cycles, with configurable sizing, timing, budget controls, and graduation safeguards."
   },
   {
-    "repo": "storytold/cadcraft",
+    "repo": "MarvinSchwaibold/mri-grid-viewer",
     "branch": "main",
-    "language": "Rust",
-    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+    "language": "JavaScript",
+    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
   },
   {
-    "repo": "storytold/vectorcraft",
+    "repo": "DhananjayBhosale/MacDuo",
     "branch": "main",
-    "language": "Rust",
+    "language": "Swift",
+    "description": "A native Swift + Metal Mac app that makes your desktop follow your MacBook lid."
+  },
+  {
+    "repo": "BFanSYe/K12-Space-Automation",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "K12 Space Automation"
+  },
+  {
+    "repo": "donvito/codex-astra-luna-orchestrator",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Use Astra as orchestrator and Luna as implementor"
+  },
+  {
+    "repo": "mowisec/macos-to-ios",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "win4r/MuseAI-Skills",
+    "repo": "Rion-Wu-tech/wechat-intelligence-hub",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking."
+  },
+  {
+    "repo": "PZH1gdmu/CMP40HX-Unlock",
+    "branch": "main",
+    "language": "C",
+    "description": ""
+  },
+  {
+    "repo": "fromgof/TridentVision",
+    "branch": "main",
+    "language": "Verilog",
+    "description": "Implement yolov26m using a complete FPGA, without any C language code. Requires 160K LUTs and 386 DSP cores (based on Xilinx XC7K325T)."
+  },
+  {
+    "repo": "vshulcz/deja-vu",
+    "branch": "main",
+    "language": "Go",
+    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary."
+  },
+  {
+    "repo": "blakeshao/kool-brushez",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "cool p5js brushes"
+  },
+  {
+    "repo": "Asilcanasil/Hent-AI-Synthesis-Engine",
     "branch": "main",
     "language": "HTML",
-    "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive."
+    "description": "2026 Ultimate Creative AI Image Generation Toolkit for Artists"
   },
   {
-    "repo": "jacke-pp/open-yoki",
+    "repo": "yibie/awesome-jev",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X"
+    "language": "Python",
+    "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions."
   },
   {
-    "repo": "NuvexNetwork/nuvex-docs",
+    "repo": "qiskit-community/qgss-2026",
     "branch": "main",
-    "language": "MDX",
-    "description": "The Nuvex documentation site.  The protocol, the website, and the off-chain services are separate repositories."
+    "language": "Jupyter Notebook",
+    "description": ""
   },
   {
-    "repo": "renjiegod/dyt-ashare-cli",
+    "repo": "khr898/ntfsmac",
     "branch": "main",
-    "language": "Rust",
-    "description": "DYT CN: reproducible China-market research CLI and agent skills"
+    "language": "Swift",
+    "description": "NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification."
   },
   {
-    "repo": "EgorBo/BlazingFastDotnet",
+    "repo": "evangelosvlachos96-dotcom/booking-microservices",
     "branch": "main",
     "language": "C#",
-    "description": "Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks)."
+    "description": "Flight booking system built as .NET 10 microservices with Vertical Slice Architecture, DDD, CQRS, Event Sourcing, gRPC, RabbitMQ, Wolverine, PostgreSQL, MongoDB and .NET Aspire."
   },
   {
-    "repo": "grmchn/dopa-drill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル"
-  },
-  {
-    "repo": "pro-vi/cc-stretch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it"
-  },
-  {
-    "repo": "aicodeking/pandacode",
-    "branch": "main",
-    "language": "Rust",
-    "description": "PandaCode: a calm desktop workspace for coding agents"
-  },
-  {
-    "repo": "justrach/nanoui",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
-  },
-  {
-    "repo": "zgsfsec/Full-Chain-Sentinel-System",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。"
-  },
-  {
-    "repo": "disler/ten-levels-of-jev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own"
-  },
-  {
-    "repo": "antfu/furifont",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Japanese font that shows furigana by itself."
+    "repo": "adonis-singh/re4",
+    "branch": "master",
+    "language": "C++",
+    "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++"
   }
 ]

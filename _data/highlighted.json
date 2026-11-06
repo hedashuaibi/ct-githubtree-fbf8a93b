@@ -1,8 +1,8 @@
 {
-  "repo": "MythicHokageRepel/steam-inventory-value-desktop",
+  "repo": "dragonwolfshovel/youtube-uploader",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-  "stars": 422,
-  "forks": 31
+  "language": "Python",
+  "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+  "stars": 429,
+  "forks": 358
 }
