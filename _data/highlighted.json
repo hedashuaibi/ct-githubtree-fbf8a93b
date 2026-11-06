@@ -1,8 +1,8 @@
 {
-  "repo": "earendil-works/djs",
+  "repo": "MythicHokageRepel/steam-inventory-value-desktop",
   "branch": "main",
-  "language": "Rust",
-  "description": "A featured project on GitHubTree.",
-  "stars": 297,
-  "forks": 6
+  "language": "JavaScript",
+  "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+  "stars": 416,
+  "forks": 30
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Cattmonkey/ChaosIntelligence",
+    "repo": "HKUDS/nanobot",
     "branch": "main",
     "language": "Python",
-    "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training."
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
   },
   {
-    "repo": "Russell-cell/PPT-Design-Prompt",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "vansh-nagar/ascii-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
-  },
-  {
-    "repo": "ALKAERR/Kali_Hack_Agent",
-    "branch": "master",
-    "language": "Python",
-    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
-  },
-  {
-    "repo": "SamNet-dev/conduit-manager",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
-  },
-  {
-    "repo": "Narcooo/inkos",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
-  },
-  {
-    "repo": "Railly/agentfiles",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Discover, organize, and edit AI coding agent skills across Claude Code, Cursor, Codex, Windsurf, and more, from inside Obsidian."
-  },
-  {
-    "repo": "NeoVertex1/nuggets",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "First AI assistant with holographic memory"
-  },
-  {
-    "repo": "prompt-security/clawsec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
-  },
-  {
-    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
-  },
-  {
-    "repo": "microsoft/fluentui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
-  },
-  {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "Adityaraj0421/design-studio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
-  },
-  {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "Aircoookie/WLED",
+    "repo": "j3h4ck/PoisonKiller",
     "branch": "main",
     "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
   },
   {
-    "repo": "WUBING2023/ExamPass-Assistant",
+    "repo": "openai/spinningup",
     "branch": "master",
     "language": "Python",
-    "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
+    "description": "An educational resource to help anyone learn deep reinforcement learning."
   },
   {
-    "repo": "entropykit/entropia",
-    "branch": "main",
-    "language": "C",
-    "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files."
-  },
-  {
-    "repo": "swaroop2004/Proven-Viral-Content-System",
-    "branch": "main",
-    "language": "Python",
-    "description": "Research, brainstorm, and generate viral video content for Instagram, YouTube, X, and TikTok"
-  },
-  {
-    "repo": "bahdotsh/mdterm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A terminal-based Markdown browser."
-  },
-  {
-    "repo": "ninjahawk/Subtext",
-    "branch": "main",
-    "language": "HTML",
-    "description": "To know what models don't say out loud."
-  },
-  {
-    "repo": "coder/boo",
-    "branch": "main",
-    "language": "Zig",
-    "description": "A GNU screen style terminal multiplexer built on libghostty."
-  },
-  {
-    "repo": "SeanJ1ang/design-judge-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness."
-  },
-  {
-    "repo": "ory/kratos",
-    "branch": "master",
-    "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
-  },
-  {
-    "repo": "tanweai/pua",
+    "repo": "nateherkai/snagtime",
     "branch": "main",
     "language": "TypeScript",
-    "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。"
+    "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments."
+  },
+  {
+    "repo": "liu-ziting/ThinkFlowAI",
+    "branch": "main",
+    "language": "Vue",
+    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "branch": "develop",
+    "language": "Go",
+    "description": "Optimism is Ethereum, scaled."
+  },
+  {
+    "repo": "GoogleCloudPlatform/golang-samples",
+    "branch": "main",
+    "language": "Go",
+    "description": "Sample apps and code written for Google Cloud in the Go programming language."
+  },
+  {
+    "repo": "randallscott25-star/epstein-forensic-finance",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+  },
+  {
+    "repo": "AThevon/TokenEater",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
+  },
+  {
+    "repo": "nmap/nmap",
+    "branch": "master",
+    "language": "C",
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
+  },
+  {
+    "repo": "joeseesun/anything-to-notebooklm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+  },
+  {
+    "repo": "LedgerHQ/ledger-live",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
+  },
+  {
+    "repo": "SumeLabs/clawra",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawra - Openclaw as your girlfriend"
+  },
+  {
+    "repo": "Textualize/textual",
+    "branch": "main",
+    "language": "Python",
+    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
+  },
+  {
+    "repo": "jgarzik/apython",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Accelerated Asm Python"
+  },
+  {
+    "repo": "harlan-zw/vue-ecosystem-skills",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+  },
+  {
+    "repo": "alibaba/landmark-tokenized-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+  },
+  {
+    "repo": "AgriciDaniel/claude-seo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
+  },
+  {
+    "repo": "Soul-AILab/SoulX-Singer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+  },
+  {
+    "repo": "OWASP/Amass",
+    "branch": "master",
+    "language": "Go",
+    "description": "In-depth attack surface mapping and asset discovery"
+  },
+  {
+    "repo": "ibelick/webclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fast web client for OpenClaw"
+  },
+  {
+    "repo": "Asosa809/File_Recovery_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use."
+  },
+  {
+    "repo": "fyne-io/fyne",
+    "branch": "master",
+    "language": "Go",
+    "description": "Cross platform GUI toolkit in Go inspired by Material Design"
+  },
+  {
+    "repo": "InterviewReady/system-design-resources",
+    "branch": "main",
+    "language": "Other",
+    "description": "These are the best resources for System Design on the Internet"
   }
 ]
