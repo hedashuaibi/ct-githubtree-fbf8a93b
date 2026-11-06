@@ -1,146 +1,146 @@
 [
   {
-    "repo": "HKUDS/nanobot",
+    "repo": "Ledger-Wallet-LLC/ledgerwallet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Official Ledger Wallet Repository"
+  },
+  {
+    "repo": "zunmax/osnm-z",
+    "branch": "main",
+    "language": "Rust",
+    "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea"
+  },
+  {
+    "repo": "itshen/source-reading-methodology",
     "branch": "main",
     "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行"
   },
   {
-    "repo": "j3h4ck/PoisonKiller",
+    "repo": "oil-oil/oil-subtitle",
     "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
-  },
-  {
-    "repo": "openai/spinningup",
-    "branch": "master",
     "language": "Python",
-    "description": "An educational resource to help anyone learn deep reinforcement learning."
+    "description": "本地视频中文字幕转录、校对、章节进度与烧录工作流"
   },
   {
-    "repo": "nateherkai/snagtime",
+    "repo": "Ansub/tv-detox",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments."
+    "language": "Java",
+    "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up"
   },
   {
-    "repo": "liu-ziting/ThinkFlowAI",
-    "branch": "main",
-    "language": "Vue",
-    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
-  },
-  {
-    "repo": "ethereum-optimism/optimism",
-    "branch": "develop",
-    "language": "Go",
-    "description": "Optimism is Ethereum, scaled."
-  },
-  {
-    "repo": "GoogleCloudPlatform/golang-samples",
-    "branch": "main",
-    "language": "Go",
-    "description": "Sample apps and code written for Google Cloud in the Go programming language."
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
+    "repo": "SkylarKitchen/skills",
     "branch": "main",
     "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+    "description": "Agent skills for design work: 3D build guides and more."
   },
   {
-    "repo": "AThevon/TokenEater",
+    "repo": "MystiaFin/amane",
     "branch": "main",
-    "language": "Swift",
-    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
+    "language": "Rust",
+    "description": "A library for building Wayland desktop shell purely in Rust"
   },
   {
-    "repo": "nmap/nmap",
-    "branch": "master",
-    "language": "C",
-    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
+    "repo": "sanqianzilanyue/ai-voice-breath-kiss-water",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "joeseesun/anything-to-notebooklm",
+    "repo": "zhouwei713/luobo-ppt",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+    "description": "生成和美化可编辑原生 PPT 的 Agent Skill"
   },
   {
-    "repo": "LedgerHQ/ledger-live",
-    "branch": "develop",
+    "repo": "leolobato/playden-ps5",
+    "branch": "main",
+    "language": "C++",
+    "description": "Play your Steam library's Windows games on a jailbroken PS5."
+  },
+  {
+    "repo": "storytold/cadcraft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+  },
+  {
+    "repo": "storytold/vectorcraft",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "win4r/MuseAI-Skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive."
+  },
+  {
+    "repo": "jacke-pp/open-yoki",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
+    "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X"
   },
   {
-    "repo": "SumeLabs/clawra",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawra - Openclaw as your girlfriend"
-  },
-  {
-    "repo": "Textualize/textual",
-    "branch": "main",
-    "language": "Python",
-    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
-  },
-  {
-    "repo": "jgarzik/apython",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Accelerated Asm Python"
-  },
-  {
-    "repo": "harlan-zw/vue-ecosystem-skills",
+    "repo": "NuvexNetwork/nuvex-docs",
     "branch": "main",
     "language": "MDX",
-    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+    "description": "The Nuvex documentation site.  The protocol, the website, and the off-chain services are separate repositories."
   },
   {
-    "repo": "alibaba/landmark-tokenized-dit",
+    "repo": "renjiegod/dyt-ashare-cli",
     "branch": "main",
-    "language": "Python",
-    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+    "language": "Rust",
+    "description": "DYT CN: reproducible China-market research CLI and agent skills"
   },
   {
-    "repo": "AgriciDaniel/claude-seo",
+    "repo": "EgorBo/BlazingFastDotnet",
     "branch": "main",
-    "language": "Python",
-    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
+    "language": "C#",
+    "description": "Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks)."
   },
   {
-    "repo": "Soul-AILab/SoulX-Singer",
+    "repo": "grmchn/dopa-drill",
     "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+    "language": "JavaScript",
+    "description": "算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル"
   },
   {
-    "repo": "OWASP/Amass",
-    "branch": "master",
-    "language": "Go",
-    "description": "In-depth attack surface mapping and asset discovery"
-  },
-  {
-    "repo": "ibelick/webclaw",
+    "repo": "pro-vi/cc-stretch",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fast web client for OpenClaw"
+    "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it"
   },
   {
-    "repo": "Asosa809/File_Recovery_Tool",
+    "repo": "aicodeking/pandacode",
     "branch": "main",
-    "language": "Python",
-    "description": "Recover deleted files from HDD, SSD, and USB drives. Restore accidentally deleted photos, documents, and videos. Easy to use."
+    "language": "Rust",
+    "description": "PandaCode: a calm desktop workspace for coding agents"
   },
   {
-    "repo": "fyne-io/fyne",
-    "branch": "master",
-    "language": "Go",
-    "description": "Cross platform GUI toolkit in Go inspired by Material Design"
-  },
-  {
-    "repo": "InterviewReady/system-design-resources",
+    "repo": "justrach/nanoui",
     "branch": "main",
-    "language": "Other",
-    "description": "These are the best resources for System Design on the Internet"
+    "language": "Zig",
+    "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
+  },
+  {
+    "repo": "zgsfsec/Full-Chain-Sentinel-System",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。"
+  },
+  {
+    "repo": "disler/ten-levels-of-jev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own"
+  },
+  {
+    "repo": "antfu/furifont",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Japanese font that shows furigana by itself."
   }
 ]

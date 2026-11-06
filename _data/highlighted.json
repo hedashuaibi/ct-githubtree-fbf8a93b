@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "JavaScript",
   "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-  "stars": 416,
-  "forks": 30
+  "stars": 422,
+  "forks": 31
 }
