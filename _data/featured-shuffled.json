@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wesm/msgvault",
+    "repo": "andy78787878/lsfg-fpsgithub",
     "branch": "main",
-    "language": "Go",
-    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
+    "language": "HTML",
+    "description": "Lossless Scaling for Windows high-performance upscaling and frame generation software for PC gaming"
   },
   {
-    "repo": "kitlangton/rolling-number",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter."
-  },
-  {
-    "repo": "xicilion/boxsh",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode"
-  },
-  {
-    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
+    "repo": "creationix/rx",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+    "description": "RX encoder, decoder, and CLI data tool"
   },
   {
-    "repo": "Tonnyspiel/Easy_Backup_Scheduler",
+    "repo": "shipany-ai/open-agent-sdk",
     "branch": "main",
-    "language": "Python",
-    "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles."
+    "language": "TypeScript",
+    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
   },
   {
-    "repo": "Veirt/weathr",
+    "repo": "meilisearch/meilisearch",
     "branch": "main",
     "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
   },
   {
-    "repo": "judithsulfan/trading-bot",
+    "repo": "dbt-labs/dbt-core",
+    "branch": "main",
+    "language": "Python",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "CompVis/latent-diffusion",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+  },
+  {
+    "repo": "eval-exec/neomacs",
+    "branch": "main",
+    "language": "Emacs Lisp",
+    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
+  },
+  {
+    "repo": "swarmclawai/swarmvault",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
+    "description": "Inspired by Karpathy's LLM Wiki. Local-first LLM knowledge base compiler (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and search index that compound over time."
   },
   {
-    "repo": "python-attrs/attrs",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Classes Without Boilerplate"
-  },
-  {
-    "repo": "kouhxp/yapsnap",
-    "branch": "main",
-    "language": "Python",
-    "description": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
-  },
-  {
-    "repo": "zaydmulani09/mnemo",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend."
-  },
-  {
-    "repo": "fcompc4/ecommerce-kushi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "E-commerce roupa"
-  },
-  {
-    "repo": "simonlin1212/vibe-astock",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed."
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
-  },
-  {
-    "repo": "portainer/portainer",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Making Docker and Kubernetes management easy."
-  },
-  {
-    "repo": "gerardapennant96075336582/CapC-Pro-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
-  },
-  {
-    "repo": "wh0amitz/TailVNC",
+    "repo": "kubernetes-sigs/metrics-server",
     "branch": "master",
     "language": "Go",
-    "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary."
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
   },
   {
-    "repo": "xsawyerx/curl-doom",
-    "branch": "main",
+    "repo": "parcel-bundler/parcel",
+    "branch": "v2",
     "language": "JavaScript",
-    "description": "DOOM, played over cURL"
+    "description": "The zero configuration build tool for the web. 📦🚀"
   },
   {
-    "repo": "5ec1cff/FuseFixer",
-    "branch": "master",
-    "language": "C",
-    "description": ""
+    "repo": "0xKarl-dev/claw-codes",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
   },
   {
-    "repo": "PackAshReside79/TG-WS-Proxy-v1.7.1",
+    "repo": "TheTom/turboquant_plus",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "limesupporterdoor/LockDown-Browser-Bypass-Tool",
+    "repo": "romus204/tree-sitter-manager.nvim",
     "branch": "main",
-    "language": "C#",
-    "description": "Enables window switching and tab navigation in restricted browser environments"
+    "language": "Tree-sitter Query",
+    "description": "A lightweight Tree-sitter parser manager for Neovim."
   },
   {
-    "repo": "prettier/prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
-  },
-  {
-    "repo": "MatinSenPai/SenPaiScanner",
-    "branch": "main",
-    "language": "Go",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
-  },
-  {
-    "repo": "Noz2/RootHound",
+    "repo": "cisco-ai-defense/defenseclaw",
     "branch": "main",
     "language": "Python",
-    "description": "Map your path from a low-priv user to roo, like BloodHound, for local Linux privesc."
+    "description": "Security Governance for Agentic AI"
   },
   {
-    "repo": "arendst/Tasmota",
-    "branch": "development",
-    "language": "C",
-    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+    "repo": "jenkinsci/jenkins",
+    "branch": "master",
+    "language": "Java",
+    "description": "Jenkins automation server"
+  },
+  {
+    "repo": "LoseNine/ruyipage",
+    "branch": "main",
+    "language": "Python",
+    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
+  },
+  {
+    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Demo of tools of capabilities of Tony Stark."
+  },
+  {
+    "repo": "containerd/containerd",
+    "branch": "main",
+    "language": "Go",
+    "description": "An open and reliable container runtime"
+  },
+  {
+    "repo": "steipete/birdclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stores all your tweets nicely claw-able for agents."
+  },
+  {
+    "repo": "matthart1983/syswatch",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
+  },
+  {
+    "repo": "friendlymatthew/gabagool",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Snapshotable WebAssembly interpreter from scratch"
+  },
+  {
+    "repo": "SentiAvatar/SentiAvatar",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "sequilade/tokentab",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
   }
 ]
