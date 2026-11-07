@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AleaStrategies/aleastrategies",
+    "repo": "wesm/msgvault",
+    "branch": "main",
+    "language": "Go",
+    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
+  },
+  {
+    "repo": "kitlangton/rolling-number",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter."
+  },
+  {
+    "repo": "xicilion/boxsh",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode"
+  },
+  {
+    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+  },
+  {
+    "repo": "Tonnyspiel/Easy_Backup_Scheduler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles."
+  },
+  {
+    "repo": "Veirt/weathr",
     "branch": "main",
     "language": "Rust",
-    "description": "Don't pick which AI company wins. Find what they all need. Bottleneck thinking, automated."
+    "description": "a terminal weather app with ascii animation"
   },
   {
-    "repo": "rivet-dev/antiox",
+    "repo": "judithsulfan/trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Rust- and Tokio-like async primitives for TypeScript."
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
   },
   {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "KenKaneki18/CloakBrowser",
+    "repo": "python-attrs/attrs",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free."
+    "language": "Python",
+    "description": "Python Classes Without Boilerplate"
   },
   {
-    "repo": "Nightmare-Eclipse/GreenPlasma",
+    "repo": "kouhxp/yapsnap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
+  },
+  {
+    "repo": "zaydmulani09/mnemo",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend."
+  },
+  {
+    "repo": "fcompc4/ecommerce-kushi",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "E-commerce roupa"
+  },
+  {
+    "repo": "simonlin1212/vibe-astock",
+    "branch": "main",
+    "language": "Python",
+    "description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed."
+  },
+  {
+    "repo": "select2/select2",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+  },
+  {
+    "repo": "portainer/portainer",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Making Docker and Kubernetes management easy."
+  },
+  {
+    "repo": "gerardapennant96075336582/CapC-Pro-2",
     "branch": "main",
     "language": "C++",
-    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
   },
   {
-    "repo": "Kindness-Kismet/One-Player",
+    "repo": "wh0amitz/TailVNC",
+    "branch": "master",
+    "language": "Go",
+    "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary."
+  },
+  {
+    "repo": "xsawyerx/curl-doom",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "增强的 Android 视频播放器"
+    "language": "JavaScript",
+    "description": "DOOM, played over cURL"
   },
   {
-    "repo": "formulahendry/wechat-acp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
+    "repo": "5ec1cff/FuseFixer",
+    "branch": "master",
+    "language": "C",
+    "description": ""
   },
   {
-    "repo": "stargazerwh/RAG-Lighter",
+    "repo": "PackAshReside79/TG-WS-Proxy-v1.7.1",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "codetrybe/polymarket-copy-trading-bot",
+    "repo": "limesupporterdoor/LockDown-Browser-Bypass-Tool",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copytrading bot"
+    "language": "C#",
+    "description": "Enables window switching and tab navigation in restricted browser environments"
   },
   {
-    "repo": "babar-mpire/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
-  },
-  {
-    "repo": "MichaelCade/90DaysOfDevOps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
-  },
-  {
-    "repo": "nolimits4web/swiper",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Most modern mobile touch slider with hardware accelerated transitions"
-  },
-  {
-    "repo": "golbin/agent-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Reusable agent skills for Codex and compatible tools"
-  },
-  {
-    "repo": "remotion-dev/remotion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
-  },
-  {
-    "repo": "AdguardTeam/AdGuardHome",
-    "branch": "master",
-    "language": "Go",
-    "description": "Network-wide ads & trackers blocking DNS server"
-  },
-  {
-    "repo": "stevibe/ToolCall-15",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "serenity-bdd/serenity-core",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
-  },
-  {
-    "repo": "dengxianghua888-ops/ecoalign-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对"
-  },
-  {
-    "repo": "fjb040911/ai-rules",
+    "repo": "prettier/prettier",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+    "description": "Prettier is an opinionated code formatter."
   },
   {
-    "repo": "moby/moby",
-    "branch": "master",
+    "repo": "MatinSenPai/SenPaiScanner",
+    "branch": "main",
     "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
   },
   {
-    "repo": "airbnb/lottie-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
-  },
-  {
-    "repo": "LeoYeAI/openclaw-backup",
+    "repo": "Noz2/RootHound",
     "branch": "main",
-    "language": "Shell",
-    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "TheAlgorithms/Python",
-    "branch": "master",
     "language": "Python",
-    "description": "All Algorithms implemented in Python"
+    "description": "Map your path from a low-priv user to roo, like BloodHound, for local Linux privesc."
   },
   {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
   }
 ]
