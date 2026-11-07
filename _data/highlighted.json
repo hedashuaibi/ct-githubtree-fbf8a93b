@@ -1,8 +1,8 @@
 {
-  "repo": "dragonwolfshovel/youtube-uploader",
+  "repo": "ZSeven-W/dsh-game-studio",
   "branch": "main",
-  "language": "Python",
-  "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
-  "stars": 429,
-  "forks": 358
+  "language": "TypeScript",
+  "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+  "stars": 231,
+  "forks": 28
 }

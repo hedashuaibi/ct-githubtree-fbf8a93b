@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bitwarden-app312/.gitp3d",
+    "repo": "AleaStrategies/aleastrategies",
     "branch": "main",
-    "language": "HTML",
-    "description": "bitwarden-for-mac-and-windows-pc-desktop-app"
+    "language": "Rust",
+    "description": "Don't pick which AI company wins. Find what they all need. Bottleneck thinking, automated."
   },
   {
-    "repo": "jcx396905-gif/DuoFold-Android",
-    "branch": "main",
-    "language": "Java",
-    "description": "iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root."
-  },
-  {
-    "repo": "UditAkhourii/adhd",
+    "repo": "rivet-dev/antiox",
     "branch": "main",
     "language": "TypeScript",
-    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work."
+    "description": "Rust- and Tokio-like async primitives for TypeScript."
   },
   {
-    "repo": "MartinDelophy/awesome-gpt-6-astra",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra 游戏精选"
-  },
-  {
-    "repo": "AbdelStark/awesome-typesafe",
-    "branch": "main",
-    "language": "CSS",
-    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev."
-  },
-  {
-    "repo": "driceroland/Search",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A small, fast WebKit browser for macOS, by Office Commun."
-  },
-  {
-    "repo": "kerpopule/hermes-jev-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)"
-  },
-  {
-    "repo": "coolbbcamp/Pons-v2-Multi-Wallet-Volume-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A production-oriented CLI for generating on-chain trading volume on the **Pons v2** bonding curve on **Robinhood Chain**. The bot coordinates multiple funded wallets through automated buy-and-sell cycles, with configurable sizing, timing, budget controls, and graduation safeguards."
-  },
-  {
-    "repo": "MarvinSchwaibold/mri-grid-viewer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
-  },
-  {
-    "repo": "DhananjayBhosale/MacDuo",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native Swift + Metal Mac app that makes your desktop follow your MacBook lid."
-  },
-  {
-    "repo": "BFanSYe/K12-Space-Automation",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "K12 Space Automation"
-  },
-  {
-    "repo": "donvito/codex-astra-luna-orchestrator",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Use Astra as orchestrator and Luna as implementor"
-  },
-  {
-    "repo": "mowisec/macos-to-ios",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Rion-Wu-tech/wechat-intelligence-hub",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking."
-  },
-  {
-    "repo": "PZH1gdmu/CMP40HX-Unlock",
-    "branch": "main",
-    "language": "C",
-    "description": ""
-  },
-  {
-    "repo": "fromgof/TridentVision",
-    "branch": "main",
-    "language": "Verilog",
-    "description": "Implement yolov26m using a complete FPGA, without any C language code. Requires 160K LUTs and 386 DSP cores (based on Xilinx XC7K325T)."
-  },
-  {
-    "repo": "vshulcz/deja-vu",
-    "branch": "main",
-    "language": "Go",
-    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary."
-  },
-  {
-    "repo": "blakeshao/kool-brushez",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "cool p5js brushes"
-  },
-  {
-    "repo": "Asilcanasil/Hent-AI-Synthesis-Engine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 Ultimate Creative AI Image Generation Toolkit for Artists"
-  },
-  {
-    "repo": "yibie/awesome-jev",
-    "branch": "main",
-    "language": "Python",
-    "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions."
-  },
-  {
-    "repo": "qiskit-community/qgss-2026",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "khr898/ntfsmac",
-    "branch": "main",
-    "language": "Swift",
-    "description": "NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification."
-  },
-  {
-    "repo": "evangelosvlachos96-dotcom/booking-microservices",
-    "branch": "main",
-    "language": "C#",
-    "description": "Flight booking system built as .NET 10 microservices with Vertical Slice Architecture, DDD, CQRS, Event Sourcing, gRPC, RabbitMQ, Wolverine, PostgreSQL, MongoDB and .NET Aspire."
-  },
-  {
-    "repo": "adonis-singh/re4",
+    "repo": "huangserva/claude-code-cli",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+  },
+  {
+    "repo": "KenKaneki18/CloakBrowser",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free."
+  },
+  {
+    "repo": "Nightmare-Eclipse/GreenPlasma",
+    "branch": "main",
     "language": "C++",
-    "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++"
+    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+  },
+  {
+    "repo": "Kindness-Kismet/One-Player",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "增强的 Android 视频播放器"
+  },
+  {
+    "repo": "formulahendry/wechat-acp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
+  },
+  {
+    "repo": "stargazerwh/RAG-Lighter",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "codetrybe/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copytrading bot"
+  },
+  {
+    "repo": "babar-mpire/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+  },
+  {
+    "repo": "MichaelCade/90DaysOfDevOps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+  },
+  {
+    "repo": "nolimits4web/swiper",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions"
+  },
+  {
+    "repo": "golbin/agent-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Reusable agent skills for Codex and compatible tools"
+  },
+  {
+    "repo": "remotion-dev/remotion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎥      Make videos programmatically with React"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "branch": "master",
+    "language": "Go",
+    "description": "Network-wide ads & trackers blocking DNS server"
+  },
+  {
+    "repo": "stevibe/ToolCall-15",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "serenity-bdd/serenity-core",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+  },
+  {
+    "repo": "dengxianghua888-ops/ecoalign-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对"
+  },
+  {
+    "repo": "fjb040911/ai-rules",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+  },
+  {
+    "repo": "moby/moby",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+  },
+  {
+    "repo": "airbnb/lottie-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-backup",
+    "branch": "main",
+    "language": "Shell",
+    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "branch": "master",
+    "language": "Python",
+    "description": "All Algorithms implemented in Python"
+  },
+  {
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
   }
 ]
