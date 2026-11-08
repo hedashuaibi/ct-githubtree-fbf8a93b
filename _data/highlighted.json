@@ -1,8 +1,8 @@
 {
-  "repo": "Roland0511/dsh-marktext",
-  "branch": "main",
-  "language": "JavaScript",
-  "description": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
-  "stars": 297,
-  "forks": 48
+  "repo": "DEEIX-AI/Winc",
+  "branch": "dev",
+  "language": "Rust",
+  "description": "Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.",
+  "stars": 236,
+  "forks": 22
 }

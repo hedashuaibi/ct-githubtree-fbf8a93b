@@ -1,146 +1,146 @@
 [
   {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "jesseduffield/lazydocker",
-    "branch": "master",
-    "language": "Go",
-    "description": "The lazier way to manage everything docker"
-  },
-  {
-    "repo": "pypa/pipenv",
+    "repo": "anthropics/fermats-last-theorem",
     "branch": "main",
-    "language": "Python",
-    "description": "Python Development Workflow for Humans."
+    "language": "Lean",
+    "description": ""
   },
   {
-    "repo": "patchfighterway90/cs2-external-overlay",
-    "branch": "main",
-    "language": "Python",
-    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
-  },
-  {
-    "repo": "async-rs/async-std",
+    "repo": "SteveTheKiller/KillerPDF",
     "branch": "master",
+    "language": "C#",
+    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+  },
+  {
+    "repo": "lukehinds/nono",
+    "branch": "main",
     "language": "Rust",
-    "description": "Async version of the Rust standard library"
+    "description": "OS-Level Isolation for AI Agents."
   },
   {
-    "repo": "brainstormity/LightPost",
+    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
     "branch": "main",
     "language": "Python",
-    "description": "A lightweight system to automate posting to all of your socials from one dashboard"
+    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
   },
   {
-    "repo": "LeoYeAI/openclaw-guardian",
+    "repo": "arturoabreuhd/pinescript-ai",
     "branch": "main",
-    "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "hellowind777/hello2cc",
+    "repo": "tektoncd/cli",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles."
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
   },
   {
-    "repo": "jazzband/pip-tools",
+    "repo": "PyGithub/PyGithub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Typed interactions with the GitHub API v3"
+  },
+  {
+    "repo": "karatelabs/karate",
+    "branch": "master",
+    "language": "Java",
+    "description": "Test Automation Made Simple"
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+  },
+  {
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "microsoft/wslg",
+    "branch": "main",
+    "language": "C++",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+  },
+  {
+    "repo": "arduino/Arduino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
+  },
+  {
+    "repo": "teorth/optimizationproblems",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A collection of optimization problems in mathematics"
+  },
+  {
+    "repo": "d-samaun/Tomodachi-Share-Mii",
+    "branch": "main",
+    "language": "C#",
+    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
+  },
+  {
+    "repo": "bigcode-project/starcoder",
     "branch": "main",
     "language": "Python",
-    "description": "A set of tools to keep your pinned Python dependencies fresh."
+    "description": "Home of StarCoder: fine-tuning & inference!"
   },
   {
-    "repo": "beeware/toga",
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "deviseo/transit-hub",
     "branch": "main",
-    "language": "Python",
-    "description": "A Python native, OS native GUI toolkit."
+    "language": "Go",
+    "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api."
   },
   {
-    "repo": "pypa/pipx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Install and Run Python Applications in Isolated Environments"
-  },
-  {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "erenjugs/OpenGork",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
-  },
-  {
-    "repo": "apple/swift-nio",
+    "repo": "apple/foundation-models-utilities",
     "branch": "main",
     "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+    "description": "Emerging and experimental patterns for building with the Foundation Models framework"
   },
   {
-    "repo": "RhysSullivan/nextjs-mobile-app-template",
+    "repo": "kernelstub/Ferrum",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "kevinrgu/autoagent",
-    "branch": "main",
-    "language": "Python",
-    "description": "autonomous harness engineering"
-  },
-  {
-    "repo": "docker/awesome-compose",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Awesome Docker Compose samples"
-  },
-  {
-    "repo": "derailed/k9s",
-    "branch": "master",
     "language": "Go",
-    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+    "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration."
   },
   {
-    "repo": "chauncygu/collection-claude-code-source-code",
+    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A collection of the newest Claude Code open source"
+    "language": "C#",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
   },
   {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "Semantic-Org/Semantic-UI",
+    "repo": "microsoft/winget-pkgs",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Semantic is a UI component framework based around useful principles from natural language."
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
   },
   {
-    "repo": "blairxu13/persona3-website",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "repo": "rustwasm/wasm-pack",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
   },
   {
-    "repo": "apple/ml-ssd",
+    "repo": "jevispourmoi/Hearts_of_Iron_IV_Unlimited_Resources",
     "branch": "main",
     "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "reduxjs/redux",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
+    "description": "Unlimited resources, instant research, and god mode for Hearts of Iron IV. Never run out of oil, steel, or rubber. Win WWII instantly."
   }
 ]
