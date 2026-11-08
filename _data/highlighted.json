@@ -1,8 +1,8 @@
 {
-  "repo": "featureJosh/Recompia",
+  "repo": "Roland0511/dsh-marktext",
   "branch": "main",
-  "language": "C++",
-  "description": "Pokémon Pokopia (Switch 2) recompiled to run natively on Windows. With multiplayer support",
-  "stars": 244,
-  "forks": 2
+  "language": "JavaScript",
+  "description": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
+  "stars": 297,
+  "forks": 48
 }

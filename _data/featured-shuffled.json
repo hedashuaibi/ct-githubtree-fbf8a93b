@@ -1,146 +1,146 @@
 [
   {
-    "repo": "007FirstLight/007-First-Light-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
-  },
-  {
-    "repo": "Doorman11991/smallcode",
+    "repo": "TeamStuQ/skill-map",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
-  },
-  {
-    "repo": "davebcn87/pi-autoresearch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Autonomous experiment loop extension for pi"
-  },
-  {
-    "repo": "DepthFirstDisclosures/Nginx-Rift",
-    "branch": "main",
-    "language": "Python",
-    "description": "exploit for CVE-2026-42945"
-  },
-  {
-    "repo": "bytedance-deerflow/deer-flow-installer",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
-  },
-  {
-    "repo": "allenai/molmoweb",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "DenisSergeevitch/repo-task-proof-loop",
-    "branch": "main",
-    "language": "Python",
-    "description": "Spec driven skill with subagents spawning"
-  },
-  {
-    "repo": "Jiangzy520/DreamleStockRadar",
-    "branch": "main",
-    "language": "Python",
-    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
-  },
-  {
-    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
-  },
-  {
-    "repo": "cclank/lanshu-awesome-ai-video-kit",
-    "branch": "main",
     "language": "HTML",
-    "description": "做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论"
+    "description": "程序员技能图谱"
   },
   {
-    "repo": "livehl/aimirror",
+    "repo": "jesseduffield/lazydocker",
+    "branch": "master",
+    "language": "Go",
+    "description": "The lazier way to manage everything docker"
+  },
+  {
+    "repo": "pypa/pipenv",
     "branch": "main",
     "language": "Python",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+    "description": "Python Development Workflow for Humans."
   },
   {
-    "repo": "CylinderChairman/aida64",
+    "repo": "patchfighterway90/cs2-external-overlay",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "aida64 unlocker extreme edition"
+    "language": "Python",
+    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
   },
   {
-    "repo": "shobhit99/claude-watch",
+    "repo": "async-rs/async-std",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Async version of the Rust standard library"
+  },
+  {
+    "repo": "brainstormity/LightPost",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight system to automate posting to all of your socials from one dashboard"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "hellowind777/hello2cc",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles."
+  },
+  {
+    "repo": "jazzband/pip-tools",
+    "branch": "main",
+    "language": "Python",
+    "description": "A set of tools to keep your pinned Python dependencies fresh."
+  },
+  {
+    "repo": "beeware/toga",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python native, OS native GUI toolkit."
+  },
+  {
+    "repo": "pypa/pipx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Install and Run Python Applications in Isolated Environments"
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "erenjugs/OpenGork",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "apple/swift-nio",
     "branch": "main",
     "language": "Swift",
-    "description": "Control your claude code from your apple watch"
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
   },
   {
-    "repo": "ynsmroztas/AndroHunter",
+    "repo": "RhysSullivan/nextjs-mobile-app-template",
     "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "dannyhsueh2/Forza-Horizon-6-Premium",
+    "repo": "kevinrgu/autoagent",
     "branch": "main",
-    "language": "C++",
-    "description": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J50, Mazda Furai. Expansion 1, Expansion 2, I, , pre-load PC Steam, Game Pass Ultimate."
+    "language": "Python",
+    "description": "autonomous harness engineering"
   },
   {
-    "repo": "FoundZiGu/GuJumpgate",
+    "repo": "docker/awesome-compose",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Awesome Docker Compose samples"
+  },
+  {
+    "repo": "derailed/k9s",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+  },
+  {
+    "repo": "chauncygu/collection-claude-code-source-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A collection of the newest Claude Code open source"
+  },
+  {
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "Semantic-Org/Semantic-UI",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Semantic is a UI component framework based around useful principles from natural language."
+  },
+  {
+    "repo": "blairxu13/persona3-website",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "tophant-ai/ClawVault",
+    "repo": "apple/ml-ssd",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
+    "description": ""
   },
   {
-    "repo": "nextcloud/ios",
+    "repo": "reduxjs/redux",
     "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
-  },
-  {
-    "repo": "hao-ji-xing/openclaw-weixin",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "openclaw-weixin"
-  },
-  {
-    "repo": "stormzhang/token-tracker",
-    "branch": "master",
-    "language": "Python",
-    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
-  },
-  {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "rancher/k3d",
-    "branch": "main",
-    "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
-  },
-  {
-    "repo": "bytedance/Lance",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
-  },
-  {
-    "repo": "nodemailer/nodemailer",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
+    "description": "A JS library for predictable global state management"
   }
 ]
