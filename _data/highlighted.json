@@ -1,8 +1,8 @@
 {
-  "repo": "Minglink/dsh-workflows",
-  "branch": "master",
-  "language": "Python",
-  "description": "工作流仓库 - dsh 插件的 .wflite.zip 工作流合集 by MingLin",
-  "stars": 240,
-  "forks": 98
+  "repo": "featureJosh/Recompia",
+  "branch": "main",
+  "language": "C++",
+  "description": "Pokémon Pokopia (Switch 2) recompiled to run natively on Windows. With multiplayer support",
+  "stars": 244,
+  "forks": 2
 }

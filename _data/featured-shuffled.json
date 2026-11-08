@@ -1,146 +1,146 @@
 [
   {
-    "repo": "andy78787878/lsfg-fpsgithub",
+    "repo": "007FirstLight/007-First-Light-Release",
     "branch": "main",
-    "language": "HTML",
-    "description": "Lossless Scaling for Windows high-performance upscaling and frame generation software for PC gaming"
+    "language": "C++",
+    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
   },
   {
-    "repo": "creationix/rx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "RX encoder, decoder, and CLI data tool"
-  },
-  {
-    "repo": "shipany-ai/open-agent-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
-  },
-  {
-    "repo": "meilisearch/meilisearch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
-  },
-  {
-    "repo": "dbt-labs/dbt-core",
-    "branch": "main",
-    "language": "Python",
-    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
-  },
-  {
-    "repo": "vinta/awesome-python",
+    "repo": "Doorman11991/smallcode",
     "branch": "master",
-    "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+    "language": "JavaScript",
+    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
   },
   {
-    "repo": "CompVis/latent-diffusion",
+    "repo": "davebcn87/pi-autoresearch",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Autonomous experiment loop extension for pi"
+  },
+  {
+    "repo": "DepthFirstDisclosures/Nginx-Rift",
+    "branch": "main",
+    "language": "Python",
+    "description": "exploit for CVE-2026-42945"
+  },
+  {
+    "repo": "bytedance-deerflow/deer-flow-installer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+  },
+  {
+    "repo": "allenai/molmoweb",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
-  },
-  {
-    "repo": "eval-exec/neomacs",
-    "branch": "main",
-    "language": "Emacs Lisp",
-    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
-  },
-  {
-    "repo": "swarmclawai/swarmvault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Inspired by Karpathy's LLM Wiki. Local-first LLM knowledge base compiler (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and search index that compound over time."
-  },
-  {
-    "repo": "kubernetes-sigs/metrics-server",
-    "branch": "master",
-    "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
-  },
-  {
-    "repo": "parcel-bundler/parcel",
-    "branch": "v2",
-    "language": "JavaScript",
-    "description": "The zero configuration build tool for the web. 📦🚀"
-  },
-  {
-    "repo": "0xKarl-dev/claw-codes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "TheTom/turboquant_plus",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "romus204/tree-sitter-manager.nvim",
-    "branch": "main",
-    "language": "Tree-sitter Query",
-    "description": "A lightweight Tree-sitter parser manager for Neovim."
-  },
-  {
-    "repo": "cisco-ai-defense/defenseclaw",
+    "repo": "DenisSergeevitch/repo-task-proof-loop",
     "branch": "main",
     "language": "Python",
-    "description": "Security Governance for Agentic AI"
+    "description": "Spec driven skill with subagents spawning"
   },
   {
-    "repo": "jenkinsci/jenkins",
-    "branch": "master",
+    "repo": "Jiangzy520/DreamleStockRadar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
+  },
+  {
+    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+  },
+  {
+    "repo": "cclank/lanshu-awesome-ai-video-kit",
+    "branch": "main",
+    "language": "HTML",
+    "description": "做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论"
+  },
+  {
+    "repo": "livehl/aimirror",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+  },
+  {
+    "repo": "CylinderChairman/aida64",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "aida64 unlocker extreme edition"
+  },
+  {
+    "repo": "shobhit99/claude-watch",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Control your claude code from your apple watch"
+  },
+  {
+    "repo": "ynsmroztas/AndroHunter",
+    "branch": "main",
     "language": "Java",
-    "description": "Jenkins automation server"
+    "description": "AndroHunter"
   },
   {
-    "repo": "LoseNine/ruyipage",
+    "repo": "dannyhsueh2/Forza-Horizon-6-Premium",
     "branch": "main",
-    "language": "Python",
-    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
+    "language": "C++",
+    "description": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J50, Mazda Furai. Expansion 1, Expansion 2, I, , pre-load PC Steam, Game Pass Ultimate."
   },
   {
-    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
+    "repo": "FoundZiGu/GuJumpgate",
     "branch": "main",
-    "language": "Python",
-    "description": "Demo of tools of capabilities of Tony Stark."
-  },
-  {
-    "repo": "containerd/containerd",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open and reliable container runtime"
-  },
-  {
-    "repo": "steipete/birdclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
-  },
-  {
-    "repo": "matthart1983/syswatch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
-  },
-  {
-    "repo": "friendlymatthew/gabagool",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Snapshotable WebAssembly interpreter from scratch"
-  },
-  {
-    "repo": "SentiAvatar/SentiAvatar",
-    "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "sequilade/tokentab",
+    "repo": "tophant-ai/ClawVault",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
+  },
+  {
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "hao-ji-xing/openclaw-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "openclaw-weixin"
+  },
+  {
+    "repo": "stormzhang/token-tracker",
+    "branch": "master",
+    "language": "Python",
+    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
+  },
+  {
+    "repo": "cilium/hubble",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
+  },
+  {
+    "repo": "bytedance/Lance",
+    "branch": "main",
+    "language": "Python",
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+  },
+  {
+    "repo": "nodemailer/nodemailer",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
   }
 ]
