@@ -1,8 +1,8 @@
 {
-  "repo": "jhaizhou-ops/S2Arm",
+  "repo": "PlatoonKingfisher/canva-pro",
   "branch": "main",
-  "language": "C#",
-  "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-  "stars": 685,
-  "forks": 155
+  "language": "HTML",
+  "description": "Canva Pro 2023 pre-configured environment for streamlined desktop software utility installation.",
+  "stars": 400,
+  "forks": 0
 }

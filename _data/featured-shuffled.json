@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+    "repo": "artemnovitckii/claude-animation-skills",
     "branch": "main",
-    "language": "C++",
-    "description": "Zelda Wind Waker HD Recomp"
+    "language": "JavaScript",
+    "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph."
   },
   {
-    "repo": "apple/swift-argument-parser",
+    "repo": "epoko77-ai/im-not-ai",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+  },
+  {
+    "repo": "1354427059/orchids-api",
+    "branch": "main",
+    "language": "Go",
+    "description": "1111"
+  },
+  {
+    "repo": "puppetlabs/puppet",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Server automation framework and application"
+  },
+  {
+    "repo": "selfishblackberry177/sni-spoof",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
+  },
+  {
+    "repo": "wuyoscar/gpt_image_2_skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Curated T2I prompts and skill/CLI wrappers for GPT Image 2"
+  },
+  {
+    "repo": "MartinGalway/C64_music",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Music source files from 1980's Commodore 64 games"
+  },
+  {
+    "repo": "AppAndFlow/react-native-ease",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🍃 Lightweight declarative animations powered by platform APIs"
+  },
+  {
+    "repo": "idawnlight/ShichiZip",
     "branch": "main",
     "language": "Swift",
-    "description": "Straightforward, type-safe argument parsing for Swift"
+    "description": "The 7-Zip derivative intended for macOS"
   },
   {
-    "repo": "antirez/tgterm",
+    "repo": "gorkem-bwl/animated-icons",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "apple/python-apple-fm-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "detekt/detekt",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Static code analysis for Kotlin"
+  },
+  {
+    "repo": "calesthio/Crucix",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "shobhit99/SuperIsland",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Dynamic Island for MacOS — with Extensions"
+  },
+  {
+    "repo": "viplismism/rlm-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+  },
+  {
+    "repo": "typicode/json-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+  },
+  {
+    "repo": "v12-security/pocs",
     "branch": "main",
     "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+    "description": "poc it like it's hot"
   },
   {
-    "repo": "mukul975/cve-mcp-server",
+    "repo": "sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-",
     "branch": "main",
     "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+    "description": "Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser."
   },
   {
-    "repo": "m1heng/clawdbot-feishu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "antonmedv/fx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Terminal JSON viewer & processor"
-  },
-  {
-    "repo": "Shpigford/chops",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
-  },
-  {
-    "repo": "bluewave-labs/dodopulse",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs"
-  },
-  {
-    "repo": "kppox/video-frame-sampler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Content-aware frame sampling strategies for video-LLMs."
-  },
-  {
-    "repo": "iamfakeguru/claude-md",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Production-grade agent directives for Claude Code"
-  },
-  {
-    "repo": "Kirubel125/Kalshi-Claw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "less/less.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Less. The dynamic stylesheet language."
-  },
-  {
-    "repo": "Wendor/teapod-stream",
-    "branch": "master",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "DEEIX-AI/DEEIX-Chat",
-    "branch": "dev",
-    "language": "Go",
-    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
-  },
-  {
-    "repo": "whyzhow/PersonalStyleAI-Framework-",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
-  },
-  {
-    "repo": "iflytek/astronclaw-tutorial",
+    "repo": "avaco-cloud/Vercel-XHTTP",
     "branch": "main",
     "language": "JavaScript",
-    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
+    "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
   },
   {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+    "repo": "open-gsd/get-shit-done-redux",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Getting Shit Done, the Aftermath"
   },
   {
-    "repo": "bitwarden/server",
-    "branch": "master",
-    "language": "C#",
-    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
+    "repo": "nhost/nhost",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Open Source Firebase Alternative with GraphQL."
   },
   {
-    "repo": "loyalpartner/selfsync",
-    "branch": "master",
+    "repo": "second-state/kitten_tts_rs",
+    "branch": "main",
     "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
   },
   {
-    "repo": "videolan/vlc",
-    "branch": "master",
-    "language": "C",
-    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
-  },
-  {
-    "repo": "OctoPrint/OctoPrint",
-    "branch": "master",
-    "language": "Python",
-    "description": "OctoPrint is the snappy web interface for your 3D printer!"
-  },
-  {
-    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
+    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
+    "language": "Java",
+    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
   },
   {
-    "repo": "LCEMP/LCEMP",
-    "branch": "main",
-    "language": "C++",
-    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
-  },
-  {
-    "repo": "haigechanlun/chanlun_auto_trading",
+    "repo": "mediastormDev/dream-to-video-skill",
     "branch": "main",
     "language": "Python",
-    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
+    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
   }
 ]
