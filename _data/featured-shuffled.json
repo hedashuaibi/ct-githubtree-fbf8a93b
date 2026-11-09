@@ -1,146 +1,146 @@
 [
   {
-    "repo": "anthropics/fermats-last-theorem",
-    "branch": "main",
-    "language": "Lean",
-    "description": ""
-  },
-  {
-    "repo": "SteveTheKiller/KillerPDF",
-    "branch": "master",
-    "language": "C#",
-    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
-  },
-  {
-    "repo": "lukehinds/nono",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
-  },
-  {
-    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
-  },
-  {
-    "repo": "arturoabreuhd/pinescript-ai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "tektoncd/cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
-  },
-  {
-    "repo": "PyGithub/PyGithub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
-  },
-  {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "activepieces/activepieces",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
-  },
-  {
-    "repo": "buildpacks/pack",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
-  },
-  {
-    "repo": "microsoft/wslg",
+    "repo": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
     "branch": "main",
     "language": "C++",
-    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+    "description": "Zelda Wind Waker HD Recomp"
   },
   {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "teorth/optimizationproblems",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of optimization problems in mathematics"
-  },
-  {
-    "repo": "d-samaun/Tomodachi-Share-Mii",
-    "branch": "main",
-    "language": "C#",
-    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
-  },
-  {
-    "repo": "bigcode-project/starcoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
-  },
-  {
-    "repo": "firebase/firebase-ios-sdk",
-    "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
-  },
-  {
-    "repo": "deviseo/transit-hub",
-    "branch": "main",
-    "language": "Go",
-    "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api."
-  },
-  {
-    "repo": "apple/foundation-models-utilities",
+    "repo": "apple/swift-argument-parser",
     "branch": "main",
     "language": "Swift",
-    "description": "Emerging and experimental patterns for building with the Foundation Models framework"
+    "description": "Straightforward, type-safe argument parsing for Swift"
   },
   {
-    "repo": "kernelstub/Ferrum",
+    "repo": "antirez/tgterm",
     "branch": "main",
-    "language": "Go",
-    "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration."
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
   },
   {
-    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
-    "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
-  },
-  {
-    "repo": "rustwasm/wasm-pack",
-    "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
-  },
-  {
-    "repo": "jevispourmoi/Hearts_of_Iron_IV_Unlimited_Resources",
+    "repo": "mukul975/cve-mcp-server",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited resources, instant research, and god mode for Hearts of Iron IV. Never run out of oil, steel, or rubber. Win WWII instantly."
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "m1heng/clawdbot-feishu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "antonmedv/fx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Terminal JSON viewer & processor"
+  },
+  {
+    "repo": "Shpigford/chops",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+  },
+  {
+    "repo": "bluewave-labs/dodopulse",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs"
+  },
+  {
+    "repo": "kppox/video-frame-sampler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Content-aware frame sampling strategies for video-LLMs."
+  },
+  {
+    "repo": "iamfakeguru/claude-md",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Production-grade agent directives for Claude Code"
+  },
+  {
+    "repo": "Kirubel125/Kalshi-Claw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "less/less.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Less. The dynamic stylesheet language."
+  },
+  {
+    "repo": "Wendor/teapod-stream",
+    "branch": "master",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "DEEIX-AI/DEEIX-Chat",
+    "branch": "dev",
+    "language": "Go",
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
+  },
+  {
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
+    "branch": "main",
+    "language": "Python",
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+  },
+  {
+    "repo": "iflytek/astronclaw-tutorial",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "bitwarden/server",
+    "branch": "master",
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
+  },
+  {
+    "repo": "loyalpartner/selfsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+  },
+  {
+    "repo": "videolan/vlc",
+    "branch": "master",
+    "language": "C",
+    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
+  },
+  {
+    "repo": "OctoPrint/OctoPrint",
+    "branch": "master",
+    "language": "Python",
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
+  },
+  {
+    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
+  },
+  {
+    "repo": "LCEMP/LCEMP",
+    "branch": "main",
+    "language": "C++",
+    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+  },
+  {
+    "repo": "haigechanlun/chanlun_auto_trading",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
   }
 ]
