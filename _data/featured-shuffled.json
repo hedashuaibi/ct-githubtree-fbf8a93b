@@ -1,146 +1,146 @@
 [
   {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "iamzulx/crypto-rag",
-    "branch": "master",
-    "language": "Python",
-    "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis"
-  },
-  {
-    "repo": "bytedance/semi-design",
+    "repo": "eugeniosegala/MAKO",
     "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
-  },
-  {
-    "repo": "thongthaibm/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
-  },
-  {
-    "repo": "airbnb/lottie-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "An iOS library to natively render After Effects vector animations"
-  },
-  {
-    "repo": "danveloper/flash-moe",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Running a big model on a small laptop"
-  },
-  {
-    "repo": "go-pg/pg",
-    "branch": "master",
-    "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
-  },
-  {
-    "repo": "ZimoLiao/scholaraio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scholar All-In-One: AI agent-powered research terminal"
-  },
-  {
-    "repo": "PyCQA/pylint",
-    "branch": "main",
-    "language": "Python",
-    "description": "It's not just a linter that annoys you!"
-  },
-  {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "kapishdima/fonttrio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
-  },
-  {
-    "repo": "spf13/viper",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go configuration with fangs"
-  },
-  {
-    "repo": "dagger/dagger",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
-  },
-  {
-    "repo": "phuryn/pm-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
-  },
-  {
-    "repo": "Lum1104/Understand-Anything",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
-  },
-  {
-    "repo": "Johnixr/claude-code-wechat-channel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
-  },
-  {
-    "repo": "tox-dev/tox",
-    "branch": "main",
-    "language": "Python",
-    "description": "Command line driven CI frontend and development task automation tool."
-  },
-  {
-    "repo": "confluentinc/ksql",
-    "branch": "master",
-    "language": "Java",
-    "description": "The database purpose-built for stream processing applications."
-  },
-  {
-    "repo": "CN-Syndra/ClawLink",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
-  },
-  {
-    "repo": "MariaDB/server",
-    "branch": "11.4",
     "language": "C++",
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
+    "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux."
   },
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "qemu/qemu",
+    "branch": "master",
+    "language": "C",
+    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
+  },
+  {
+    "repo": "dateutil/dateutil",
+    "branch": "master",
+    "language": "Python",
+    "description": "Useful extensions to the standard Python datetime features"
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "zscole/model-hierarchy-skill",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
   },
   {
-    "repo": "pagel-s/termcraft",
+    "repo": "datawhalechina/Agent-Learning-Hub",
     "branch": "main",
-    "language": "Rust",
-    "description": "Terminal-only 2D sandbox survival in Rust."
+    "language": "HTML",
+    "description": "AI Agent 学习路线与资料库收集"
   },
   {
-    "repo": "networkx/networkx",
+    "repo": "ClawBio/ClawBio",
     "branch": "main",
     "language": "Python",
-    "description": "Network Analysis in Python"
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
   },
   {
-    "repo": "larksuite/openclaw-lark",
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "branch": "master",
+    "language": "C",
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
+  },
+  {
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "repo": "imj01y/trace-ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
+    "description": "高性能 ARM64 执行 trace 可视化分析工具"
+  },
+  {
+    "repo": "RyensX/OpenCodex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
+  },
+  {
+    "repo": "nox-project/nox-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
+  },
+  {
+    "repo": "nolenroyalty/yt-browse",
+    "branch": "main",
+    "language": "Go",
+    "description": "it's like search, but for youtube"
+  },
+  {
+    "repo": "kewonit/aeris",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aeris is a real-time 3D flight radar for the web"
+  },
+  {
+    "repo": "amirmushichge/tribeV2_ViralAnalyser",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+  },
+  {
+    "repo": "unslop-xyz/noodles",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+  },
+  {
+    "repo": "micropython/micropython",
+    "branch": "master",
+    "language": "C",
+    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
+  },
+  {
+    "repo": "val1813/kwcode",
+    "branch": "master",
+    "language": "Python",
+    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+  },
+  {
+    "repo": "avihaymenahem/velo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open source desktop email client for Gmail"
+  },
+  {
+    "repo": "ByteDance/monolith",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Lightweight Recommendation System"
   }
 ]
