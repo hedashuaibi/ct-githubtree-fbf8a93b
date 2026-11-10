@@ -1,146 +1,146 @@
 [
   {
-    "repo": "artemnovitckii/claude-animation-skills",
+    "repo": "gulpjs/gulp",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A toolkit to automate & enhance your workflow"
+  },
+  {
+    "repo": "MarvinSchwaibold/mri-grid-viewer",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph."
+    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
   },
   {
-    "repo": "epoko77-ai/im-not-ai",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
-  },
-  {
-    "repo": "1354427059/orchids-api",
-    "branch": "main",
-    "language": "Go",
-    "description": "1111"
-  },
-  {
-    "repo": "puppetlabs/puppet",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Server automation framework and application"
-  },
-  {
-    "repo": "selfishblackberry177/sni-spoof",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
-  },
-  {
-    "repo": "wuyoscar/gpt_image_2_skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Curated T2I prompts and skill/CLI wrappers for GPT Image 2"
-  },
-  {
-    "repo": "MartinGalway/C64_music",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Music source files from 1980's Commodore 64 games"
-  },
-  {
-    "repo": "AppAndFlow/react-native-ease",
+    "repo": "ayush-that/jiang-clips",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🍃 Lightweight declarative animations powered by platform APIs"
+    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
   },
   {
-    "repo": "idawnlight/ShichiZip",
+    "repo": "appledog-xyz/FormCmsPortal",
     "branch": "main",
-    "language": "Swift",
-    "description": "The 7-Zip derivative intended for macOS"
-  },
-  {
-    "repo": "gorkem-bwl/animated-icons",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
-  },
-  {
-    "repo": "detekt/detekt",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Static code analysis for Kotlin"
-  },
-  {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "shobhit99/SuperIsland",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Dynamic Island for MacOS — with Extensions"
-  },
-  {
-    "repo": "viplismism/rlm-cli",
+    "repo": "sean-brydon/devl.dev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+    "description": ""
   },
   {
-    "repo": "typicode/json-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
-  },
-  {
-    "repo": "v12-security/pocs",
-    "branch": "main",
-    "language": "C",
-    "description": "poc it like it's hot"
-  },
-  {
-    "repo": "sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-",
+    "repo": "KAOPU-XiaoPu/web-design",
     "branch": "main",
     "language": "Python",
-    "description": "Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser."
+    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second."
   },
   {
-    "repo": "avaco-cloud/Vercel-XHTTP",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
-  },
-  {
-    "repo": "open-gsd/get-shit-done-redux",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Getting Shit Done, the Aftermath"
-  },
-  {
-    "repo": "nhost/nhost",
+    "repo": "ibelick/mesurer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Open Source Firebase Alternative with GraphQL."
+    "description": ""
   },
   {
-    "repo": "second-state/kitten_tts_rs",
+    "repo": "shenhao-stu/openclaw-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
+  },
+  {
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+  },
+  {
+    "repo": "DenisSergeevitch/repo-task-proof-loop",
+    "branch": "main",
+    "language": "Python",
+    "description": "Spec driven skill with subagents spawning"
+  },
+  {
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+  },
+  {
+    "repo": "mumuyanjian-ui/caregiver",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI智能陪护"
+  },
+  {
+    "repo": "WeaveMindAI/weft",
     "branch": "main",
     "language": "Rust",
-    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
+    "description": "A programming language for AI systems"
   },
   {
-    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+    "repo": "AlpinDale/parsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Parallel rsync-like pull sync over SSH with resume"
+  },
+  {
+    "repo": "theNetworkChuck/axios-attack-guide",
     "branch": "main",
-    "language": "Java",
-    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
+    "language": "Shell",
+    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
   },
   {
-    "repo": "mediastormDev/dream-to-video-skill",
+    "repo": "stanford-iris-lab/meta-harness",
     "branch": "main",
     "language": "Python",
-    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
+    "description": "Reference code for the Meta-Harness paper."
+  },
+  {
+    "repo": "zats/permiso",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+  },
+  {
+    "repo": "JudoChinX/rangarr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+  },
+  {
+    "repo": "Lightricks/LTX-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source desktop app for generating videos with LTX models"
+  },
+  {
+    "repo": "immanuwell/dockerfile-roast",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a dockerfile linter that actually has opinions 🔥"
+  },
+  {
+    "repo": "v1r3n/dinesh-gilfoyle",
+    "branch": "main",
+    "language": "HTML",
+    "description": "What if Dinesh and Gilfoyle reviewed your code?"
+  },
+  {
+    "repo": "viperrcrypto/Siftly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+  },
+  {
+    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
+    "branch": "main",
+    "language": "Python",
+    "description": "RSC Detect CVE 2025 55182"
+  },
+  {
+    "repo": "ierror/synaps-cad",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
   }
 ]

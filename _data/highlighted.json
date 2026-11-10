@@ -1,8 +1,8 @@
 {
-  "repo": "PlatoonKingfisher/canva-pro",
-  "branch": "main",
-  "language": "HTML",
-  "description": "Canva Pro 2023 pre-configured environment for streamlined desktop software utility installation.",
-  "stars": 400,
-  "forks": 0
+  "repo": "lxe/phoneuse",
+  "branch": "master",
+  "language": "Python",
+  "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+  "stars": 536,
+  "forks": 53
 }
