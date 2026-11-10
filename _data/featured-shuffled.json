@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gulpjs/gulp",
+    "repo": "arduino/Arduino",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A toolkit to automate & enhance your workflow"
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
   },
   {
-    "repo": "MarvinSchwaibold/mri-grid-viewer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper"
-  },
-  {
-    "repo": "ayush-that/jiang-clips",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
-  },
-  {
-    "repo": "appledog-xyz/FormCmsPortal",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "sean-brydon/devl.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "KAOPU-XiaoPu/web-design",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second."
-  },
-  {
-    "repo": "ibelick/mesurer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "shenhao-stu/openclaw-agents",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
-  },
-  {
-    "repo": "duoan/TorchCode",
+    "repo": "iamzulx/crypto-rag",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
-  },
-  {
-    "repo": "DenisSergeevitch/repo-task-proof-loop",
-    "branch": "main",
     "language": "Python",
-    "description": "Spec driven skill with subagents spawning"
+    "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis"
   },
   {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "repo": "bytedance/semi-design",
     "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
   },
   {
-    "repo": "mumuyanjian-ui/caregiver",
+    "repo": "thongthaibm/Lossless-Scaling-LSFG",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "AI智能陪护"
+    "language": "C#",
+    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
   },
   {
-    "repo": "WeaveMindAI/weft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A programming language for AI systems"
-  },
-  {
-    "repo": "AlpinDale/parsync",
+    "repo": "airbnb/lottie-ios",
     "branch": "master",
-    "language": "Rust",
-    "description": "Parallel rsync-like pull sync over SSH with resume"
-  },
-  {
-    "repo": "theNetworkChuck/axios-attack-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
-  },
-  {
-    "repo": "stanford-iris-lab/meta-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reference code for the Meta-Harness paper."
-  },
-  {
-    "repo": "zats/permiso",
-    "branch": "main",
     "language": "Swift",
-    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+    "description": "An iOS library to natively render After Effects vector animations"
   },
   {
-    "repo": "JudoChinX/rangarr",
+    "repo": "danveloper/flash-moe",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Running a big model on a small laptop"
+  },
+  {
+    "repo": "go-pg/pg",
+    "branch": "master",
+    "language": "Go",
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
+  },
+  {
+    "repo": "ZimoLiao/scholaraio",
     "branch": "main",
     "language": "Python",
-    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+    "description": "Scholar All-In-One: AI agent-powered research terminal"
   },
   {
-    "repo": "Lightricks/LTX-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source desktop app for generating videos with LTX models"
-  },
-  {
-    "repo": "immanuwell/dockerfile-roast",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "v1r3n/dinesh-gilfoyle",
-    "branch": "main",
-    "language": "HTML",
-    "description": "What if Dinesh and Gilfoyle reviewed your code?"
-  },
-  {
-    "repo": "viperrcrypto/Siftly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
-  },
-  {
-    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
+    "repo": "PyCQA/pylint",
     "branch": "main",
     "language": "Python",
-    "description": "RSC Detect CVE 2025 55182"
+    "description": "It's not just a linter that annoys you!"
   },
   {
-    "repo": "ierror/synaps-cad",
+    "repo": "ethereumjs/ethereumjs-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
+  },
+  {
+    "repo": "kapishdima/fonttrio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
+  },
+  {
+    "repo": "spf13/viper",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go configuration with fangs"
+  },
+  {
+    "repo": "dagger/dagger",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+  },
+  {
+    "repo": "Lum1104/Understand-Anything",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+  },
+  {
+    "repo": "Johnixr/claude-code-wechat-channel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
+  },
+  {
+    "repo": "tox-dev/tox",
+    "branch": "main",
+    "language": "Python",
+    "description": "Command line driven CI frontend and development task automation tool."
+  },
+  {
+    "repo": "confluentinc/ksql",
+    "branch": "master",
+    "language": "Java",
+    "description": "The database purpose-built for stream processing applications."
+  },
+  {
+    "repo": "CN-Syndra/ClawLink",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
+  },
+  {
+    "repo": "MariaDB/server",
+    "branch": "11.4",
+    "language": "C++",
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
+  },
+  {
+    "repo": "jackwener/twitter-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+  },
+  {
+    "repo": "pagel-s/termcraft",
     "branch": "main",
     "language": "Rust",
-    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
+    "description": "Terminal-only 2D sandbox survival in Rust."
+  },
+  {
+    "repo": "networkx/networkx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Network Analysis in Python"
+  },
+  {
+    "repo": "larksuite/openclaw-lark",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
   }
 ]
