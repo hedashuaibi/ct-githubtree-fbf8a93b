@@ -1,146 +1,146 @@
 [
   {
-    "repo": "crunz-ai/nativePDF-structurer",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。"
-  },
-  {
-    "repo": "sanbuphy/claude-code-source-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code v2.1.88 Source Code"
-  },
-  {
-    "repo": "LeoYeAI/teammate-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Distill a teammate into an AI Skill. Auto-collect Slack/Teams/GitHub data, generate Work Skill + 5-layer Persona, with continuous evolution. Powered by MyClaw.ai. Works with Claude Code, OpenClaw, and any AgentSkills-compatible agent."
-  },
-  {
-    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
+    "repo": "gar212/VoidStrap-Roblox",
     "branch": "main",
     "language": "C++",
-    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
+    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
   },
   {
-    "repo": "vibeforge1111/keep-codex-fast",
-    "branch": "main",
-    "language": "Python",
-    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
+    "repo": "asdf-vm/asdf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
   },
   {
-    "repo": "SigmaTradeLabs/aster-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
-  },
-  {
-    "repo": "badlogic/jot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Minimal self-hosted markdown editor with inline comment threads"
-  },
-  {
-    "repo": "qiuzhi2046/Qclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "不用命令行，小白也能轻松玩转 OpenClaw"
-  },
-  {
-    "repo": "titanwings/colleague-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
-  },
-  {
-    "repo": "VexedWilosn/AetherSwap",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
-  },
-  {
-    "repo": "nikvpn-iran/nikvpn-codespace",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
-  },
-  {
-    "repo": "Kaimen-Inc/Co-Scientist",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Source Reimplementation of Google Deepmind's Co-Scientist"
-  },
-  {
-    "repo": "Garume/Manifold",
-    "branch": "main",
-    "language": "C#",
-    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
-  },
-  {
-    "repo": "fasheartheater1853/kmspico-lol-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
-  },
-  {
-    "repo": "wesbos/JSON-Alexander",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
-  },
-  {
-    "repo": "esaradev/icarus-daedalus",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
-  },
-  {
-    "repo": "areofyl/fetch",
-    "branch": "main",
-    "language": "C",
-    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
-  },
-  {
-    "repo": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
-    "branch": "work",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket copytradingbot polymarket copytrading bot"
-  },
-  {
-    "repo": "testerlingcodo/gemini-antigravity-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free"
-  },
-  {
-    "repo": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics."
-  },
-  {
-    "repo": "securo-finance/securo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
-  },
-  {
-    "repo": "MrMilenko/Theseus",
-    "branch": "main",
-    "language": "C++",
-    "description": "Reverse-engineered reconstruction of the original Xbox 5960 dashboard. Runs on Xbox hardware and on desktop (macOS, Linux, Windows) via SDL2/OpenGL."
-  },
-  {
-    "repo": "Glazenovatag/hyperliquid-whale-order-tracking",
-    "branch": "main",
-    "language": "Python",
-    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live."
-  },
-  {
-    "repo": "jnsahaj/gazectl",
+    "repo": "farzaa/clicky",
     "branch": "main",
     "language": "Swift",
-    "description": "Head tracking display focus switcher for macOS"
+    "description": ""
+  },
+  {
+    "repo": "rust-lang/book",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The Rust Programming Language"
+  },
+  {
+    "repo": "0xS4N4TG/kinetograph",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A blazingly fast programmatic video engine, made for agents."
+  },
+  {
+    "repo": "alchaincyf/huashu-excel",
+    "branch": "master",
+    "language": "Python",
+    "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。"
+  },
+  {
+    "repo": "nv-tlabs/ardy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation (SIGGRAPH 2026)."
+  },
+  {
+    "repo": "Archive228/loopkit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI)."
+  },
+  {
+    "repo": "mofouly/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Platinum",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Platinum version offers enhanced performance and reliability."
+  },
+  {
+    "repo": "tangxu1995/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "offchainthoughts/Amber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be."
+  },
+  {
+    "repo": "Anionex/codex-vision-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs."
+  },
+  {
+    "repo": "MatheuZSecurity/Furtex",
+    "branch": "main",
+    "language": "C",
+    "description": "Post-exploitation and evasion research toolkit for Linux."
+  },
+  {
+    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "guillermolg00/morphicons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip."
+  },
+  {
+    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
+  },
+  {
+    "repo": "imchine/FinTech-Wallet",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "fintech wallet platform same to cloud-native microservices system designed to power digital financial operations"
+  },
+  {
+    "repo": "GuyWithTwoCats/TheGallery",
+    "branch": "main",
+    "language": "CSS",
+    "description": "Fifty Fable-generated websites that you can use as style examples for your vibe-coded website designs."
+  },
+  {
+    "repo": "opentokenz/mcpx",
+    "branch": "main",
+    "language": "Go",
+    "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。"
+  },
+  {
+    "repo": "JasonSTong/codex-theme-studio",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS."
+  },
+  {
+    "repo": "hassancs91/claude-youtube-editor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "TianhangZhuzth/Fundamental-Ava",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "repo": "deviseo/transit-hub",
+    "branch": "main",
+    "language": "Go",
+    "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api."
   }
 ]
