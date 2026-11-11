@@ -1,146 +1,146 @@
 [
   {
-    "repo": "windcase-maker/Grand_Theft_Auto_VI_Ultimate_Trainer",
+    "repo": "crunz-ai/nativePDF-structurer",
     "branch": "main",
     "language": "Python",
-    "description": "The ultimate trainer for GTA VI (pre-release). Unlimited money, god mode, vehicle spawner, and teleport. Prepare for the next generation of GTA."
+    "description": "一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。"
   },
   {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
-    "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
-  },
-  {
-    "repo": "AERT-7Y/kiro-auto",
+    "repo": "sanbuphy/claude-code-source-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "kiro自动注册机"
+    "description": "Claude Code v2.1.88 Source Code"
   },
   {
-    "repo": "chartjs/Chart.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
-  },
-  {
-    "repo": "rayon-rs/rayon",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rayon: A data parallelism library for Rust"
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "adammiribyan/zeroboot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "michelleoincx/Bunkr-Downloader-Python",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
-  },
-  {
-    "repo": "manuelschipper/nah",
+    "repo": "LeoYeAI/teammate-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Context-aware safety guard for Claude Code. A permission system you control."
+    "description": "Distill a teammate into an AI Skill. Auto-collect Slack/Teams/GitHub data, generate Work Skill + 5-layer Persona, with continuous evolution. Powered by MyClaw.ai. Works with Claude Code, OpenClaw, and any AgentSkills-compatible agent."
   },
   {
-    "repo": "EurekaClaw/EurekaClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repo of EurekaClaw"
-  },
-  {
-    "repo": "Whit1985/Binance-Futures-Signal-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
-  },
-  {
-    "repo": "AtomicBot-ai/Atomic-Chat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Zfinix/another",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A desktop app for mirroring and controlling Android devices over USB. Built with Tauri, React, and Rust."
-  },
-  {
-    "repo": "ml-explore/mlx",
+    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
     "branch": "main",
     "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
+    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
   },
   {
-    "repo": "r1cA18/screen-commentator",
+    "repo": "vibeforge1111/keep-codex-fast",
     "branch": "main",
-    "language": "Swift",
-    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
+    "language": "Python",
+    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
   },
   {
-    "repo": "poshan0126/dotclaude",
+    "repo": "SigmaTradeLabs/aster-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
+  },
+  {
+    "repo": "badlogic/jot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Minimal self-hosted markdown editor with inline comment threads"
+  },
+  {
+    "repo": "qiuzhi2046/Qclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "不用命令行，小白也能轻松玩转 OpenClaw"
+  },
+  {
+    "repo": "titanwings/colleague-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
+  },
+  {
+    "repo": "VexedWilosn/AetherSwap",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
+  },
+  {
+    "repo": "nikvpn-iran/nikvpn-codespace",
     "branch": "main",
     "language": "Shell",
-    "description": "The standard .claude/  folder structure for everyday development."
+    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
   },
   {
-    "repo": "gpasquero/voog",
+    "repo": "Kaimen-Inc/Co-Scientist",
     "branch": "main",
     "language": "Python",
-    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+    "description": "Open Source Reimplementation of Google Deepmind's Co-Scientist"
   },
   {
-    "repo": "millionco/cli-to-js",
+    "repo": "Garume/Manifold",
+    "branch": "main",
+    "language": "C#",
+    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
+  },
+  {
+    "repo": "fasheartheater1853/kmspico-lol-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+  },
+  {
+    "repo": "wesbos/JSON-Alexander",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turn any CLI into a JavaScript API"
+    "description": "A really good JSON viewer browser Extension"
   },
   {
-    "repo": "dashersw/gea",
+    "repo": "esaradev/icarus-daedalus",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
+  },
+  {
+    "repo": "areofyl/fetch",
+    "branch": "main",
+    "language": "C",
+    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+  },
+  {
+    "repo": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
+    "branch": "work",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket copytradingbot polymarket copytrading bot"
+  },
+  {
+    "repo": "testerlingcodo/gemini-antigravity-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free"
   },
   {
-    "repo": "cnlimiter/codex-manager-v3",
-    "branch": "master",
+    "repo": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
+    "branch": "main",
+    "language": "C++",
+    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics."
+  },
+  {
+    "repo": "securo-finance/securo",
+    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
   },
   {
-    "repo": "cosmos/cosmos-sdk",
+    "repo": "MrMilenko/Theseus",
     "branch": "main",
-    "language": "Go",
-    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
+    "language": "C++",
+    "description": "Reverse-engineered reconstruction of the original Xbox 5960 dashboard. Runs on Xbox hardware and on desktop (macOS, Linux, Windows) via SDL2/OpenGL."
   },
   {
-    "repo": "dappuniversity/starter_kit",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Start building full stack dApps fast with this starter kit!"
+    "repo": "Glazenovatag/hyperliquid-whale-order-tracking",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live."
+  },
+  {
+    "repo": "jnsahaj/gazectl",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Head tracking display focus switcher for macOS"
   }
 ]
