@@ -1,146 +1,146 @@
 [
   {
-    "repo": "eugeniosegala/MAKO",
-    "branch": "main",
-    "language": "C++",
-    "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux."
-  },
-  {
-    "repo": "qemu/qemu",
-    "branch": "master",
-    "language": "C",
-    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
-  },
-  {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
-    "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
-  },
-  {
-    "repo": "flannel-io/flannel",
-    "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "zscole/model-hierarchy-skill",
+    "repo": "windcase-maker/Grand_Theft_Auto_VI_Ultimate_Trainer",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
+    "description": "The ultimate trainer for GTA VI (pre-release). Unlimited money, god mode, vehicle spawner, and teleport. Prepare for the next generation of GTA."
   },
   {
-    "repo": "datawhalechina/Agent-Learning-Hub",
+    "repo": "AI45Lab/TrinityGuard",
+    "branch": "master",
+    "language": "Python",
+    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
+  },
+  {
+    "repo": "AERT-7Y/kiro-auto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kiro自动注册机"
+  },
+  {
+    "repo": "chartjs/Chart.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple HTML5 Charts using the <canvas> tag"
+  },
+  {
+    "repo": "rayon-rs/rayon",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rayon: A data parallelism library for Rust"
+  },
+  {
+    "repo": "vigorX777/product-design-system",
     "branch": "main",
     "language": "HTML",
-    "description": "AI Agent 学习路线与资料库收集"
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
   },
   {
-    "repo": "ClawBio/ClawBio",
+    "repo": "adammiribyan/zeroboot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "michelleoincx/Bunkr-Downloader-Python",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "LightTable/LightTable",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
+  },
+  {
+    "repo": "manuelschipper/nah",
     "branch": "main",
     "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+    "description": "Context-aware safety guard for Claude Code. A permission system you control."
   },
   {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
-  },
-  {
-    "repo": "espressif/esp-idf",
-    "branch": "master",
-    "language": "C",
-    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "imj01y/trace-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "高性能 ARM64 执行 trace 可视化分析工具"
-  },
-  {
-    "repo": "RyensX/OpenCodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
-  },
-  {
-    "repo": "nox-project/nox-framework",
+    "repo": "EurekaClaw/EurekaClaw",
     "branch": "main",
     "language": "Python",
-    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
+    "description": "The official repo of EurekaClaw"
   },
   {
-    "repo": "nolenroyalty/yt-browse",
+    "repo": "Whit1985/Binance-Futures-Signal-Bot",
     "branch": "main",
-    "language": "Go",
-    "description": "it's like search, but for youtube"
+    "language": "Python",
+    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
   },
   {
-    "repo": "kewonit/aeris",
+    "repo": "AtomicBot-ai/Atomic-Chat",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Aeris is a real-time 3D flight radar for the web"
+    "description": ""
   },
   {
-    "repo": "amirmushichge/tribeV2_ViralAnalyser",
+    "repo": "Zfinix/another",
     "branch": "main",
+    "language": "Rust",
+    "description": "A desktop app for mirroring and controlling Android devices over USB. Built with Tauri, React, and Rust."
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
+  },
+  {
+    "repo": "r1cA18/screen-commentator",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
+  },
+  {
+    "repo": "poshan0126/dotclaude",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
+  },
+  {
+    "repo": "gpasquero/voog",
+    "branch": "main",
+    "language": "Python",
+    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+  },
+  {
+    "repo": "millionco/cli-to-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn any CLI into a JavaScript API"
+  },
+  {
+    "repo": "dashersw/gea",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "cnlimiter/codex-manager-v3",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
+    "repo": "cosmos/cosmos-sdk",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
+    "language": "Go",
+    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
   },
   {
-    "repo": "appium/appium",
+    "repo": "dappuniversity/starter_kit",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "unslop-xyz/noodles",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
-  },
-  {
-    "repo": "micropython/micropython",
-    "branch": "master",
-    "language": "C",
-    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
-  },
-  {
-    "repo": "val1813/kwcode",
-    "branch": "master",
-    "language": "Python",
-    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
-  },
-  {
-    "repo": "avihaymenahem/velo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
-  },
-  {
-    "repo": "ByteDance/monolith",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Lightweight Recommendation System"
+    "description": "Start building full stack dApps fast with this starter kit!"
   }
 ]
