@@ -1,63 +1,39 @@
 [
   {
-    "repo": "kigner/audio.cpp-webui",
-    "branch": "release-0.2",
-    "language": "C++",
-    "description": "audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency."
-  },
-  {
-    "repo": "dododook/FlowZ",
+    "repo": "aizhimou/javranking-extension",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Show all JAV cover and ranking in one click."
+  },
+  {
+    "repo": "jshachm/pi-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "基于pi-mono，rust轻量化版本"
+  },
+  {
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
+  },
+  {
+    "repo": "deepmind/dm-haiku",
+    "branch": "main",
+    "language": "Python",
+    "description": "JAX-based neural network library"
+  },
+  {
+    "repo": "ChownYourLife/paqet-tunnel",
+    "branch": "master",
+    "language": "Shell",
     "description": ""
-  },
-  {
-    "repo": "stong/gradscii-art",
-    "branch": "master",
-    "language": "Python",
-    "description": "An extremely good ASCII art generator, based on machine learning"
-  },
-  {
-    "repo": "butthtio/solidity-cot-auditor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output."
-  },
-  {
-    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "Kylsky/chatgpt-team-helper",
-    "branch": "main",
-    "language": "Vue",
-    "description": "一站式Team账号管理"
-  },
-  {
-    "repo": "jmuncor/sherlock",
-    "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "cisco-ai-defense/skill-scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Scanner for Agent Skills"
-  },
-  {
-    "repo": "seaweedfs/seaweedfs",
-    "branch": "master",
-    "language": "Go",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
   },
   {
     "repo": "OffchainLabs/arbitrum",
@@ -66,81 +42,105 @@
     "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
   },
   {
-    "repo": "solana-labs/solana-program-library",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A collection of Solana programs maintained by Solana Labs"
-  },
-  {
-    "repo": "hyperium/hyper",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An HTTP library for Rust"
-  },
-  {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
-  },
-  {
-    "repo": "brendanhogan/hermitclaw",
+    "repo": "badaramoni/wave-field-llm",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
   },
   {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "google/trax",
-    "branch": "master",
-    "language": "Python",
-    "description": "Trax — Deep Learning with Clear Code and Speed"
-  },
-  {
-    "repo": "yearn/yearn-finance",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
-  },
-  {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "wsargent/docker-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "Docker Cheat Sheet"
-  },
-  {
-    "repo": "TheCSir/TerminalStart",
+    "repo": "hmmhmmhm/daiso-mcp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
+    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
   },
   {
-    "repo": "DaveMoudy/SalesforceDocGen",
+    "repo": "earthly/earthly",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "cloudflare/moltworker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
-  },
-  {
-    "repo": "ethereum-optimism/optimism",
-    "branch": "develop",
     "language": "Go",
-    "description": "Optimism is Ethereum, scaled."
+    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "branch": "main",
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+  },
+  {
+    "repo": "blender/blender",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official mirror of Blender"
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "square/okhttp",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
+  },
+  {
+    "repo": "OWASP/CheatSheetSeries",
+    "branch": "master",
+    "language": "Python",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+  },
+  {
+    "repo": "simonw/showboat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Create executable documents that demonstrate an agent's work"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
+    "language": "Rust",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+  },
+  {
+    "repo": "slidevjs/slidev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Presentation Slides for Developers"
+  },
+  {
+    "repo": "needle-tools/md-browse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Markdown Browser – See the web like an AI does"
+  },
+  {
+    "repo": "leonardomso/33-js-concepts",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "embedding-shapes/one-agent-one-browser",
+    "branch": "master",
+    "language": "Rust",
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
+  },
+  {
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "NativeScript/NativeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
   }
 ]
