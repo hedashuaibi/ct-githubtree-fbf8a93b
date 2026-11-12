@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gar212/VoidStrap-Roblox",
-    "branch": "main",
+    "repo": "kigner/audio.cpp-webui",
+    "branch": "release-0.2",
     "language": "C++",
-    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
+    "description": "audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency."
   },
   {
-    "repo": "asdf-vm/asdf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
-  },
-  {
-    "repo": "farzaa/clicky",
+    "repo": "dododook/FlowZ",
     "branch": "main",
-    "language": "Swift",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "rust-lang/book",
+    "repo": "stong/gradscii-art",
+    "branch": "master",
+    "language": "Python",
+    "description": "An extremely good ASCII art generator, based on machine learning"
+  },
+  {
+    "repo": "butthtio/solidity-cot-auditor",
     "branch": "main",
+    "language": "Python",
+    "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output."
+  },
+  {
+    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "Kylsky/chatgpt-team-helper",
+    "branch": "main",
+    "language": "Vue",
+    "description": "一站式Team账号管理"
+  },
+  {
+    "repo": "jmuncor/sherlock",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "cisco-ai-defense/skill-scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Scanner for Agent Skills"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "branch": "master",
+    "language": "Go",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "OffchainLabs/arbitrum",
+    "branch": "master",
+    "language": "Other",
+    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
+  },
+  {
+    "repo": "solana-labs/solana-program-library",
+    "branch": "master",
     "language": "Rust",
-    "description": "The Rust Programming Language"
+    "description": "A collection of Solana programs maintained by Solana Labs"
   },
   {
-    "repo": "0xS4N4TG/kinetograph",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A blazingly fast programmatic video engine, made for agents."
-  },
-  {
-    "repo": "alchaincyf/huashu-excel",
+    "repo": "hyperium/hyper",
     "branch": "master",
-    "language": "Python",
-    "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。"
+    "language": "Rust",
+    "description": "An HTTP library for Rust"
   },
   {
-    "repo": "nv-tlabs/ardy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation (SIGGRAPH 2026)."
-  },
-  {
-    "repo": "Archive228/loopkit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI)."
-  },
-  {
-    "repo": "mofouly/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Platinum",
-    "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Platinum version offers enhanced performance and reliability."
-  },
-  {
-    "repo": "tangxu1995/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "offchainthoughts/Amber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be."
-  },
-  {
-    "repo": "Anionex/codex-vision-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs."
-  },
-  {
-    "repo": "MatheuZSecurity/Furtex",
-    "branch": "main",
-    "language": "C",
-    "description": "Post-exploitation and evasion research toolkit for Linux."
-  },
-  {
-    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "guillermolg00/morphicons",
+    "repo": "sindresorhus/type-fest",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip."
+    "description": "A collection of essential TypeScript types"
   },
   {
-    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
+    "repo": "brendanhogan/hermitclaw",
     "branch": "main",
     "language": "Python",
-    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
-  },
-  {
-    "repo": "imchine/FinTech-Wallet",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "fintech wallet platform same to cloud-native microservices system designed to power digital financial operations"
-  },
-  {
-    "repo": "GuyWithTwoCats/TheGallery",
-    "branch": "main",
-    "language": "CSS",
-    "description": "Fifty Fable-generated websites that you can use as style examples for your vibe-coded website designs."
-  },
-  {
-    "repo": "opentokenz/mcpx",
-    "branch": "main",
-    "language": "Go",
-    "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。"
-  },
-  {
-    "repo": "JasonSTong/codex-theme-studio",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS."
-  },
-  {
-    "repo": "hassancs91/claude-youtube-editor",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "TianhangZhuzth/Fundamental-Ava",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
   },
   {
-    "repo": "deviseo/transit-hub",
+    "repo": "google/trax",
+    "branch": "master",
+    "language": "Python",
+    "description": "Trax — Deep Learning with Clear Code and Speed"
+  },
+  {
+    "repo": "yearn/yearn-finance",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
+  },
+  {
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
+  },
+  {
+    "repo": "wsargent/docker-cheat-sheet",
+    "branch": "master",
+    "language": "Other",
+    "description": "Docker Cheat Sheet"
+  },
+  {
+    "repo": "TheCSir/TerminalStart",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Chromium Extension for Tech Bros"
+  },
+  {
+    "repo": "DaveMoudy/SalesforceDocGen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
+  },
+  {
+    "repo": "cloudflare/moltworker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "branch": "develop",
     "language": "Go",
-    "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api."
+    "description": "Optimism is Ethereum, scaled."
   }
 ]
