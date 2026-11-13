@@ -1,146 +1,146 @@
 [
   {
-    "repo": "theja0473/automotive-claude-code-agents",
+    "repo": "ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP",
     "branch": "main",
     "language": "Python",
-    "description": "Automotive software engineering is one of the most complex and regulated domains in the world. Engineers juggle **ISO 26262 functional safety**, **AUTOSAR architectures**, **MISRA compliance**, **cybersecurity standards**, and **real-time embedded constraints** -- all while shipping on aggressive timelines."
+    "description": "Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included."
   },
   {
-    "repo": "Leutenegger/vanity-eth",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55)."
-  },
-  {
-    "repo": "Synthetixio/synthetix",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Synthetix Solidity smart contracts"
-  },
-  {
-    "repo": "WecomTeam/wecom-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
-  },
-  {
-    "repo": "appium/appium",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "goldbergyoni/nodebestpractices",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
-  },
-  {
-    "repo": "rust-lang/rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Empowering everyone to build reliable and efficient software."
-  },
-  {
-    "repo": "pytorch/serve",
-    "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
-  },
-  {
-    "repo": "libtv-labs/libtv-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "infraform/polymarket-copytrading-bot-sports",
+    "repo": "lenxism/dither",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
+    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
   },
   {
-    "repo": "scikit-learn/scikit-learn",
+    "repo": "starccy/doubaoime-asr",
     "branch": "main",
     "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
+    "description": "豆包输入法语音识别的非官方 Python 客户端"
   },
   {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
+    "repo": "airbnb/lottie-ios",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "nuxt/nuxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
-  },
-  {
-    "repo": "lib/pq",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go PostgreSQL driver for database/sql"
-  },
-  {
-    "repo": "luolangaga/tubatool",
-    "branch": "master",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "0xSero/turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
-  },
-  {
-    "repo": "jnsahaj/gazectl",
-    "branch": "main",
     "language": "Swift",
-    "description": "Head tracking display focus switcher for macOS"
+    "description": "An iOS library to natively render After Effects vector animations"
   },
   {
-    "repo": "Aircoookie/WLED",
-    "branch": "main",
-    "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
-  },
-  {
-    "repo": "tensorflow/models",
+    "repo": "reduxjs/reselect",
     "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
+    "language": "TypeScript",
+    "description": "Selector library for Redux"
   },
   {
-    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
+    "repo": "appwrite/appwrite",
     "branch": "main",
-    "language": "C++",
-    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "istio/istio",
+    "repo": "bufbuild/buf",
+    "branch": "main",
+    "language": "Go",
+    "description": "The best way of working with Protocol Buffers."
+  },
+  {
+    "repo": "codecrafters-io/build-your-own-x",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "repo": "google/cadvisor",
     "branch": "master",
     "language": "Go",
-    "description": "Connect, secure, control, and observe services."
+    "description": "Analyzes resource usage and performance characteristics of running containers."
+  },
+  {
+    "repo": "cheeriojs/cheerio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
+    "language": "JavaScript",
+    "description": "The iconic SVG, font, and CSS toolkit"
+  },
+  {
+    "repo": "deepmind/alphafold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
+  },
+  {
+    "repo": "matrix-org/matrix-js-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix Client-Server SDK for JavaScript"
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "test-time-training/ttt-video-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+  },
+  {
+    "repo": "argentlabs/argent-contracts",
+    "branch": "develop",
+    "language": "Solidity",
+    "description": "Smart Contracts for Argent Wallet"
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "ForrestKnight/open-source-cs",
+    "branch": "master",
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
+  },
+  {
+    "repo": "distribution/distribution",
+    "branch": "main",
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "branch": "master",
+    "language": "Go",
+    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
+  },
+  {
+    "repo": "prettier/eslint-plugin-prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ESLint plugin for Prettier formatting"
+  },
+  {
+    "repo": "expo/expo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
   }
 ]

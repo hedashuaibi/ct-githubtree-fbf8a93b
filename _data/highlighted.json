@@ -1,8 +1,8 @@
 {
-  "repo": "teasergames/dbk-recomp",
+  "repo": "mumuisdog/ThreadsPulse",
   "branch": "main",
-  "language": "C",
-  "description": "A featured project on GitHubTree.",
-  "stars": 159,
-  "forks": 2
+  "language": "Objective-C",
+  "description": "An iOS tweak for Threads",
+  "stars": 158,
+  "forks": 48
 }
