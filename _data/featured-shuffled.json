@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP",
+    "repo": "jhaizhou-ops/d2r-mobile",
     "branch": "main",
-    "language": "Python",
-    "description": "Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included."
+    "language": "C",
+    "description": "Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone and iPad — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层"
   },
   {
-    "repo": "lenxism/dither",
+    "repo": "stormneonnightraven4640692/DeepFake-AI-RealTime",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
   },
   {
-    "repo": "starccy/doubaoime-asr",
+    "repo": "zeroclaw-labs/zeroclaw",
     "branch": "main",
-    "language": "Python",
-    "description": "豆包输入法语音识别的非官方 Python 客户端"
+    "language": "Rust",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
   },
   {
-    "repo": "airbnb/lottie-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "An iOS library to natively render After Effects vector animations"
-  },
-  {
-    "repo": "reduxjs/reselect",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Selector library for Redux"
-  },
-  {
-    "repo": "appwrite/appwrite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
-  },
-  {
-    "repo": "bufbuild/buf",
-    "branch": "main",
-    "language": "Go",
-    "description": "The best way of working with Protocol Buffers."
-  },
-  {
-    "repo": "codecrafters-io/build-your-own-x",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "Master programming by recreating your favorite technologies from scratch."
-  },
-  {
-    "repo": "google/cadvisor",
-    "branch": "master",
-    "language": "Go",
-    "description": "Analyzes resource usage and performance characteristics of running containers."
-  },
-  {
-    "repo": "cheeriojs/cheerio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-  },
-  {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "matrix-org/matrix-js-sdk",
+    "repo": "smartcontractkit/chainlink",
     "branch": "develop",
-    "language": "TypeScript",
-    "description": "Matrix Client-Server SDK for JavaScript"
+    "language": "Go",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
   },
   {
-    "repo": "lapce/lapce",
+    "repo": "v2fly/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "branch": "master",
+    "language": "Python",
+    "description": "An orchestration platform for the development, production, and observation of data assets."
+  },
+  {
+    "repo": "jmuncor/sherlock",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "PeGasUsCHAkra/mevbot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Ethereum Bot"
+  },
+  {
+    "repo": "KotlinBy/awesome-kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
+  },
+  {
+    "repo": "google/trax",
+    "branch": "master",
+    "language": "Python",
+    "description": "Trax — Deep Learning with Clear Code and Speed"
+  },
+  {
+    "repo": "d3/d3",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "clap-rs/clap",
     "branch": "master",
     "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "description": "A full featured, fast Command Line Argument Parser for Rust"
   },
   {
-    "repo": "test-time-training/ttt-video-dit",
+    "repo": "microsoft/onnxruntime",
     "branch": "main",
-    "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
   },
   {
-    "repo": "argentlabs/argent-contracts",
-    "branch": "develop",
-    "language": "Solidity",
-    "description": "Smart Contracts for Argent Wallet"
-  },
-  {
-    "repo": "nextcloud/server",
-    "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "distribution/distribution",
-    "branch": "main",
-    "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
-  },
-  {
-    "repo": "VictoriaMetrics/VictoriaMetrics",
-    "branch": "master",
-    "language": "Go",
-    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
-  },
-  {
-    "repo": "prettier/eslint-plugin-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
-  },
-  {
-    "repo": "expo/expo",
+    "repo": "trycua/launchpad",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+    "description": ""
+  },
+  {
+    "repo": "sass/libsass",
+    "branch": "master",
+    "language": "C++",
+    "description": "A C/C++ implementation of a Sass compiler"
+  },
+  {
+    "repo": "OffchainLabs/arbitrum",
+    "branch": "master",
+    "language": "Other",
+    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
+  },
+  {
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
+  },
+  {
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+  },
+  {
+    "repo": "Synthetixio/synthetix",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Synthetix Solidity smart contracts"
+  },
+  {
+    "repo": "binhnguyennus/awesome-scalability",
+    "branch": "master",
+    "language": "Other",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "repo": "vuejs/vue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  },
+  {
+    "repo": "strapi/strapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
   }
 ]
