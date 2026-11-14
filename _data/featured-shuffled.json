@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jhaizhou-ops/d2r-mobile",
+    "repo": "LSPosed/ZygiskNext",
     "branch": "main",
     "language": "C",
-    "description": "Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone and iPad — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层"
+    "description": "Standalone implementation of Zygisk"
   },
   {
-    "repo": "stormneonnightraven4640692/DeepFake-AI-RealTime",
-    "branch": "main",
-    "language": "C#",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
-  },
-  {
-    "repo": "zeroclaw-labs/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
-  },
-  {
-    "repo": "smartcontractkit/chainlink",
-    "branch": "develop",
-    "language": "Go",
-    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
-  },
-  {
-    "repo": "v2fly/v2ray-core",
-    "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "branch": "master",
-    "language": "Python",
-    "description": "An orchestration platform for the development, production, and observation of data assets."
-  },
-  {
-    "repo": "jmuncor/sherlock",
+    "repo": "jarodise/pdf2epub-paddle",
     "branch": "main",
     "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+    "description": ""
   },
   {
-    "repo": "PeGasUsCHAkra/mevbot",
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "MagicCube/helixent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Helixent is a small library for building ReAct-style agent loops based on the Bun stack."
+  },
+  {
+    "repo": "yarnpkg/berry",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📦🐈 Active development trunk for Yarn ⚒"
+  },
+  {
+    "repo": "ircfspace/teleMirror",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Ethereum Bot"
+    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
   },
   {
-    "repo": "KotlinBy/awesome-kotlin",
+    "repo": "cloudcommunity/Free-Certifications",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
+  },
+  {
+    "repo": "steeliron550-ui/search-bibtex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
   },
   {
-    "repo": "google/trax",
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
+  },
+  {
+    "repo": "HKUDS-AI/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "Kappaemme-git/codex-complexity-optimizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
+  },
+  {
+    "repo": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "branch": "main",
+    "language": "C#",
+    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy"
+  },
+  {
+    "repo": "microsoft/AI",
     "branch": "master",
     "language": "Python",
-    "description": "Trax — Deep Learning with Clear Code and Speed"
+    "description": "Microsoft AI"
   },
   {
-    "repo": "d3/d3",
+    "repo": "vxcozy/flappyboards",
     "branch": "main",
-    "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+    "language": "TypeScript",
+    "description": "Turn any TV into a retro split-flap display. Free & open source."
   },
   {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
-  },
-  {
-    "repo": "clap-rs/clap",
+    "repo": "nestjs/nest",
     "branch": "master",
-    "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
   },
   {
-    "repo": "microsoft/onnxruntime",
+    "repo": "huxiuhan/civ-finish-quotes",
     "branch": "main",
-    "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    "language": "Python",
+    "description": "A skilll for agent to add a Civilization-style ceremonial quote when a substantial multi-step task is truly complete."
   },
   {
-    "repo": "trycua/launchpad",
+    "repo": "mrdoob/three.wasm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "8x Faster JavaScript 3D Library."
+  },
+  {
+    "repo": "abi/screenshot-to-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+  },
+  {
+    "repo": "AICoderTudou/claude-code-tudou",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "sass/libsass",
-    "branch": "master",
-    "language": "C++",
-    "description": "A C/C++ implementation of a Sass compiler"
+    "repo": "iFurySt/open-codex-computer-use",
+    "branch": "main",
+    "language": "Swift",
+    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
   },
   {
-    "repo": "OffchainLabs/arbitrum",
-    "branch": "master",
-    "language": "Other",
-    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
-  },
-  {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
-  },
-  {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
-  },
-  {
-    "repo": "Synthetixio/synthetix",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Synthetix Solidity smart contracts"
-  },
-  {
-    "repo": "binhnguyennus/awesome-scalability",
-    "branch": "master",
-    "language": "Other",
-    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
-  },
-  {
-    "repo": "vuejs/vue",
+    "repo": "edinetdb/dexter-jp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "strapi/strapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
+    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
   }
 ]

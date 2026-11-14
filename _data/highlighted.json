@@ -1,8 +1,8 @@
 {
-  "repo": "cutetailbud/FastAIToken",
-  "branch": "master",
-  "language": "Python",
-  "description": "面向程序员coding群体和企业的AI中转站，最低0.6折",
-  "stars": 189,
-  "forks": 0
+  "repo": "simplexai-labs/linger",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+  "stars": 198,
+  "forks": 17
 }
