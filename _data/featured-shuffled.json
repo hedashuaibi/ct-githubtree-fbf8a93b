@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LSPosed/ZygiskNext",
+    "repo": "actions/checkout",
     "branch": "main",
-    "language": "C",
-    "description": "Standalone implementation of Zygisk"
+    "language": "TypeScript",
+    "description": "Action for checking out a repo"
   },
   {
-    "repo": "jarodise/pdf2epub-paddle",
+    "repo": "admin8800/s-ui",
+    "branch": "main",
+    "language": "Vue",
+    "description": "s-ui 最后一个完整版本。A complete backup of the last version of s-ui."
+  },
+  {
+    "repo": "deepmind/dm-haiku",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "JAX-based neural network library"
   },
   {
-    "repo": "buildpacks/pack",
+    "repo": "mvanhorn/last30days-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+  },
+  {
+    "repo": "StreisandEffect/streisand",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+  },
+  {
+    "repo": "jasperan/picooraclaw",
     "branch": "main",
     "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
+    "description": "PicoClaw that works with Oracle AI Database"
   },
   {
-    "repo": "MagicCube/helixent",
+    "repo": "binhnguyennus/awesome-scalability",
+    "branch": "master",
+    "language": "Other",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "repo": "traefik/traefik",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Application Proxy"
+  },
+  {
+    "repo": "airbnb/knowledge-repo",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+  },
+  {
+    "repo": "dandavison/delta",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
+  },
+  {
+    "repo": "formik/formik",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Helixent is a small library for building ReAct-style agent loops based on the Bun stack."
+    "description": "Build forms in React, without the tears 😭"
   },
   {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
+    "repo": "storytold/craft-fonts",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Fonts for the Crafting Apps"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-V3",
+    "branch": "main",
+    "language": "Python",
+    "description": "Vision-language models from DeepSeek research."
+  },
+  {
+    "repo": "sliverp/qqbot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
+    "description": "qqbot"
   },
   {
-    "repo": "ircfspace/teleMirror",
+    "repo": "spring-cloud/spring-cloud-gateway",
+    "branch": "main",
+    "language": "Java",
+    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "Chrissotino/swiss-ai-call-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
+  },
+  {
+    "repo": "mysqljs/mysql",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+  },
+  {
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+  },
+  {
+    "repo": "prettier/eslint-config-prettier",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
+    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
   },
   {
-    "repo": "cloudcommunity/Free-Certifications",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
-  },
-  {
-    "repo": "steeliron550-ui/search-bibtex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
+    "repo": "nedbat/coveragepy",
     "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
-  },
-  {
-    "repo": "opencontainers/runc",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
-  },
-  {
-    "repo": "HKUDS-AI/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot,"
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "Kappaemme-git/codex-complexity-optimizer",
-    "branch": "main",
     "language": "Python",
-    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
+    "description": "The code coverage tool for Python"
   },
   {
-    "repo": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "repo": "MrFadiAi/openclaw-manager",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+  },
+  {
+    "repo": "shanselman/MaximizeToVirtualDesktop",
+    "branch": "master",
     "language": "C#",
-    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy"
+    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
   },
   {
-    "repo": "microsoft/AI",
-    "branch": "master",
-    "language": "Python",
-    "description": "Microsoft AI"
-  },
-  {
-    "repo": "vxcozy/flappyboards",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn any TV into a retro split-flap display. Free & open source."
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "huxiuhan/civ-finish-quotes",
+    "repo": "xgen-universe/Capybara",
     "branch": "main",
     "language": "Python",
-    "description": "A skilll for agent to add a Civilization-style ceremonial quote when a substantial multi-step task is truly complete."
-  },
-  {
-    "repo": "mrdoob/three.wasm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "8x Faster JavaScript 3D Library."
-  },
-  {
-    "repo": "abi/screenshot-to-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
-  },
-  {
-    "repo": "AICoderTudou/claude-code-tudou",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
-  },
-  {
-    "repo": "iFurySt/open-codex-computer-use",
-    "branch": "main",
-    "language": "Swift",
-    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
-  },
-  {
-    "repo": "edinetdb/dexter-jp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
   }
 ]

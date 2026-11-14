@@ -1,8 +1,8 @@
 {
-  "repo": "simplexai-labs/linger",
+  "repo": "pmndrs/pine",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
-  "stars": 198,
-  "forks": 17
+  "description": "a reactive harness for agents",
+  "stars": 190,
+  "forks": 3
 }
