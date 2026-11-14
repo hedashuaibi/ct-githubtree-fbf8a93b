@@ -1,146 +1,146 @@
 [
   {
-    "repo": "actions/checkout",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
-  },
-  {
-    "repo": "admin8800/s-ui",
-    "branch": "main",
-    "language": "Vue",
-    "description": "s-ui 最后一个完整版本。A complete backup of the last version of s-ui."
-  },
-  {
-    "repo": "deepmind/dm-haiku",
+    "repo": "PyCQA/flake8",
     "branch": "main",
     "language": "Python",
-    "description": "JAX-based neural network library"
+    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
   },
   {
-    "repo": "mvanhorn/last30days-skill",
+    "repo": "AlpinDale/gpt2.cmake",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+    "language": "CMake",
+    "description": "Implementation of the GPT-2 model in pure CMake"
   },
   {
-    "repo": "StreisandEffect/streisand",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
-  },
-  {
-    "repo": "jasperan/picooraclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "PicoClaw that works with Oracle AI Database"
-  },
-  {
-    "repo": "binhnguyennus/awesome-scalability",
-    "branch": "master",
-    "language": "Other",
-    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
-  },
-  {
-    "repo": "traefik/traefik",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Application Proxy"
-  },
-  {
-    "repo": "airbnb/knowledge-repo",
-    "branch": "master",
-    "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
-  },
-  {
-    "repo": "dandavison/delta",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
-  },
-  {
-    "repo": "formik/formik",
+    "repo": "pulkitxm/claude-directory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
+    "description": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
   },
   {
-    "repo": "storytold/craft-fonts",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fonts for the Crafting Apps"
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-V3",
+    "repo": "hanyusok/Environment_Variables_Editor",
     "branch": "main",
     "language": "Python",
-    "description": "Vision-language models from DeepSeek research."
+    "description": "Easily edit system and user environment variables. Add, remove, and modify PATH, and other variables. Validate entries and avoid duplicates."
   },
   {
-    "repo": "sliverp/qqbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "qqbot"
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-gateway",
-    "branch": "main",
-    "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
-  },
-  {
-    "repo": "flannel-io/flannel",
-    "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "Chrissotino/swiss-ai-call-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
-  },
-  {
-    "repo": "mysqljs/mysql",
+    "repo": "rpanigrahi222/intruth-factcheck",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+    "description": ""
   },
   {
-    "repo": "standard/standard",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
-  },
-  {
-    "repo": "prettier/eslint-config-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
-  },
-  {
-    "repo": "nedbat/coveragepy",
+    "repo": "Moh4696/build-ai-agents-free",
     "branch": "master",
     "language": "Python",
-    "description": "The code coverage tool for Python"
+    "description": ""
   },
   {
-    "repo": "MrFadiAi/openclaw-manager",
+    "repo": "zhengzihaoPKU/KERV",
+    "branch": "master",
+    "language": "Python",
+    "description": "Code of paper KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models accepted by DAC 2026."
+  },
+  {
+    "repo": "ZinkLu/Orca-Orchestration",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+    "description": ""
   },
   {
-    "repo": "shanselman/MaximizeToVirtualDesktop",
-    "branch": "master",
-    "language": "C#",
-    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
-  },
-  {
-    "repo": "xgen-universe/Capybara",
+    "repo": "waruna834/API_Client___Tester",
     "branch": "main",
     "language": "Python",
+    "description": "Complete API testing tool for REST, GraphQL, and WebSocket. Send requests, inspect responses, and save collections. Similar to Postman but lightweight."
+  },
+  {
+    "repo": "krea-ai/krea-2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official inference code for Krea 2"
+  },
+  {
+    "repo": "Kritt-ai/open-kritt",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Orchestrate AI agents to find real vulnerabilities in code."
+  },
+  {
+    "repo": "0xsline/awesome-deepseek-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic."
+  },
+  {
+    "repo": "raheelshakeel953-a11y/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "tdeverx/contained-app",
+    "branch": "nightly",
+    "language": "Swift",
+    "description": "A native macOS app for Apple's Container CLI"
+  },
+  {
+    "repo": "RadishXN/run-abroad",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。"
+  },
+  {
+    "repo": "asad7coder/Boot_Time_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Analyze and reduce Windows boot time. See which drivers and services delay startup, and manage them easily. Speed up your computer."
+  },
+  {
+    "repo": "defender-remove/disable-windows-defender",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "windows defender disabler microsoft defender remover antivirus permanent disable turn off real time protection registry editor group policy toggle scripts defender control dcontrol defender remover tool utility open source windows 11 windows 10 desktop tool security configuration setup guide tutorial troubleshooting download link admin rights"
+  },
+  {
+    "repo": "LYiHub/pub-local-jarvis",
+    "branch": "main",
+    "language": "Python",
+    "description": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。"
+  },
+  {
+    "repo": "loveisbl1nd/linksift",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg."
+  },
+  {
+    "repo": "MkThingsHQ/mkdirs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source AI-powered directory website template built with Next.js"
+  },
+  {
+    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+  },
+  {
+    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
+  },
+  {
+    "repo": "Michaelliv/markit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "repo": "TianyiDataScience/openclaw-control-center",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   }
 ]

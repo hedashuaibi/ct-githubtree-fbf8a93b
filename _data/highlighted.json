@@ -1,8 +1,8 @@
 {
-  "repo": "pmndrs/pine",
+  "repo": "stevejiang0509/ex3301-t0-root-ssh-research",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "a reactive harness for agents",
-  "stars": 190,
-  "forks": 3
+  "language": "JavaScript",
+  "description": "Sanitized EX3301-T0 7.2C0 root SSH privilege-escalation case study and offline demo",
+  "stars": 250,
+  "forks": 0
 }
