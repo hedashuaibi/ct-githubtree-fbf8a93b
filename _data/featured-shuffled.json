@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rodrigojpgamer2022/JourneyMap-Minecraft-Modpack",
-    "branch": "main",
-    "language": "Java",
-    "description": "Journeymap Minecraft Modpack download minimap waypoints fullscreen map cartography Forge Fabric world map mobs tracking caves biomes teleport markers."
-  },
-  {
-    "repo": "Introspective-Diffusion/I-DLM",
+    "repo": "dreamers-laboratory/agent-fleet-manager",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers."
   },
   {
-    "repo": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
-  },
-  {
-    "repo": "microsoft/onnxruntime",
-    "branch": "main",
-    "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
-  },
-  {
-    "repo": "Vacutagin/GameEnhancementSuite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
-  },
-  {
-    "repo": "Happy-Chen-CH/text_classification",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is a text classification project based on the Category News feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs—let's work together to fix them."
-  },
-  {
-    "repo": "neovim/neovim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
-  },
-  {
-    "repo": "edgedb/edgedb",
-    "branch": "master",
-    "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
-  },
-  {
-    "repo": "mitsuhiko/pi-ds4",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run deepseek4 locally on metal right from within Pi"
-  },
-  {
-    "repo": "resonancegnatassess/Lossless-Scaling",
-    "branch": "main",
-    "language": "Python",
-    "description": "Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install."
-  },
-  {
-    "repo": "openai/shap-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
-  },
-  {
-    "repo": "OpenSquilla/opensquilla",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
-  },
-  {
-    "repo": "duonghieu7104/Star-Fox-64-Remake-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Star Fox 64 Remake PC download Fox McCloud Arwing Landmaster Falco Peppy Slippy Lylat System Corneria Andross Star Wolf Team 4K Widescreen Native Port Controller Support HD Textures Medals Expert Mode Barrel Roll All-Range Mode Venom Sector Z Solar Macbeth Aquas 60FPS."
-  },
-  {
-    "repo": "joyehuang/Learn-Open-Harness",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
-  },
-  {
-    "repo": "nikvpn-iran/nikvpn-codespace",
+    "repo": "steveclarke/real-world-rails",
     "branch": "main",
     "language": "Shell",
-    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
+    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
   },
   {
-    "repo": "amanning3390/deepswarm",
+    "repo": "SigmaTradeLabs/aster-bot",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
   },
   {
-    "repo": "ReactiveX/RxJS",
+    "repo": "mwaskom/seaborn",
     "branch": "master",
+    "language": "Python",
+    "description": "Statistical data visualization in Python"
+  },
+  {
+    "repo": "jkudish/librarium",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A reactive programming library for JavaScript"
+    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
   },
   {
-    "repo": "pallets/flask",
+    "repo": "IronsideXXVI/Hacker-News",
     "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "phioranex/openclaw-docker",
-    "branch": "main",
-    "language": "PowerShell",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "repo": "disler/pi-vs-claude-code",
     "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "meltano/meltano",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
-  },
-  {
-    "repo": "facebookresearch/fairseq",
-    "branch": "main",
-    "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
-  },
-  {
-    "repo": "quilljs/quill",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+    "description": "Comparison between open source PI agent and closed source Claude Code agent"
   },
   {
-    "repo": "huggingface/nanowhale",
+    "repo": "The-Vibe-Company/companion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
+  },
+  {
+    "repo": "karatelabs/karate",
+    "branch": "master",
+    "language": "Java",
+    "description": "Test Automation Made Simple"
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "branch": "master",
+    "language": "Python",
+    "description": "The interactive graphing library for Python :sparkles:"
+  },
+  {
+    "repo": "buckle42/claude-code-remote",
+    "branch": "master",
+    "language": "Python",
+    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
+  },
+  {
+    "repo": "TheCSir/TerminalStart",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chromium Extension for Tech Bros"
+  },
+  {
+    "repo": "Mathews-Tom/no-magic",
     "branch": "main",
     "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
+  },
+  {
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
+    "branch": "main",
+    "language": "Python",
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+  },
+  {
+    "repo": "Lyy-iiis/pMF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+  },
+  {
+    "repo": "RaidOwl/homelab-hub",
+    "branch": "main",
+    "language": "Svelte",
     "description": ""
+  },
+  {
+    "repo": "XposeMarket/SmallClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "© 2026 Xpose Market. SmallClaw is a product of Xpose Market. All rights reserved."
+  },
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenTelemetry JavaScript Client"
+  },
+  {
+    "repo": "cri-o/cri-o",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+  },
+  {
+    "repo": "parcadei/ouros",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A sandboxed Python runtime for AI agents, written in Rust."
+  },
+  {
+    "repo": "6551Team/opentwitter-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "Soul-AILab/SoulX-Singer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
   }
 ]

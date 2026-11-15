@@ -1,8 +1,8 @@
 {
-  "repo": "meshy-dev/ThreeRT",
+  "repo": "Eynnzerr/TelemetryCleaner",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.",
-  "stars": 349,
-  "forks": 24
+  "language": "Kotlin",
+  "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+  "stars": 844,
+  "forks": 74
 }
