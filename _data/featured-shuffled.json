@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dreamers-laboratory/agent-fleet-manager",
+    "repo": "caomaolufei/AIInfraGuide",
+    "branch": "main",
+    "language": "Astro",
+    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
+  },
+  {
+    "repo": "AMAP-ML/SkillClaw",
     "branch": "main",
     "language": "Python",
-    "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers."
+    "description": "Let Skills Evolve Collectively with Agentic Evolver"
   },
   {
-    "repo": "steveclarke/real-world-rails",
-    "branch": "main",
-    "language": "Shell",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
-  },
-  {
-    "repo": "SigmaTradeLabs/aster-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
-  },
-  {
-    "repo": "mwaskom/seaborn",
-    "branch": "master",
-    "language": "Python",
-    "description": "Statistical data visualization in Python"
-  },
-  {
-    "repo": "jkudish/librarium",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
-  },
-  {
-    "repo": "IronsideXXVI/Hacker-News",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "disler/pi-vs-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Comparison between open source PI agent and closed source Claude Code agent"
-  },
-  {
-    "repo": "The-Vibe-Company/companion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
-  },
-  {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "buckle42/claude-code-remote",
-    "branch": "master",
-    "language": "Python",
-    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
-  },
-  {
-    "repo": "TheCSir/TerminalStart",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
-  },
-  {
-    "repo": "Mathews-Tom/no-magic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
-  },
-  {
-    "repo": "whyzhow/PersonalStyleAI-Framework-",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "RaidOwl/homelab-hub",
-    "branch": "main",
-    "language": "Svelte",
-    "description": ""
-  },
-  {
-    "repo": "XposeMarket/SmallClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "© 2026 Xpose Market. SmallClaw is a product of Xpose Market. All rights reserved."
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
-  },
-  {
-    "repo": "cri-o/cri-o",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
-  },
-  {
-    "repo": "parcadei/ouros",
+    "repo": "mpiorowski/late-sh",
     "branch": "main",
     "language": "Rust",
-    "description": "A sandboxed Python runtime for AI agents, written in Rust."
+    "description": "A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH."
   },
   {
-    "repo": "6551Team/opentwitter-mcp",
+    "repo": "harkhowalia-1/MacSubsystemForAndroid",
     "branch": "main",
-    "language": "Python",
-    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+    "language": "Swift",
+    "description": "Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + scrcpy)."
   },
   {
-    "repo": "requests/requests",
+    "repo": "uluckyXH/OpenMOSS",
     "branch": "main",
     "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
   },
   {
-    "repo": "Soul-AILab/SoulX-Singer",
+    "repo": "ynsmroztas/cPanelSniper",
     "branch": "main",
     "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+    "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
+  },
+  {
+    "repo": "Uniswap/interface",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 Open source interfaces for the Uniswap protocol"
+  },
+  {
+    "repo": "mksglu/claude-context-mode",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Stop losing context to large outputs."
+  },
+  {
+    "repo": "Introspective-Diffusion/I-DLM",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "markets/awesome-ruby",
+    "branch": "master",
+    "language": "Other",
+    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "branch": "develop",
+    "language": "Go",
+    "description": "Optimism is Ethereum, scaled."
+  },
+  {
+    "repo": "hanxiao/claudecode-telegram",
+    "branch": "main",
+    "language": "Python",
+    "description": "Telegram bridge for Claude Code"
+  },
+  {
+    "repo": "OpenDriveLab/WorldEngine",
+    "branch": "main",
+    "language": "Python",
+    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  },
+  {
+    "repo": "ReactiveX/RxJS",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A reactive programming library for JavaScript"
+  },
+  {
+    "repo": "simoncirstoiu/alice",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+  },
+  {
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
+  },
+  {
+    "repo": "liorwn/claudetop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+  },
+  {
+    "repo": "cnlimiter/codex-manager-v3",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "antfu/tsnapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Library public API snapshot testing for runtime exports and type declarations."
+  },
+  {
+    "repo": "gradenGnostic/LegacyLauncher",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A custom launcher for Minecraft LCE."
+  },
+  {
+    "repo": "snarktank/compound-product",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "branch": "main",
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
   }
 ]

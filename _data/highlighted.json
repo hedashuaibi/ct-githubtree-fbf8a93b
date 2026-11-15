@@ -1,8 +1,8 @@
 {
-  "repo": "Eynnzerr/TelemetryCleaner",
+  "repo": "hikaku-io/hikaku-extension",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-  "stars": 844,
-  "forks": 74
+  "language": "JavaScript",
+  "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
+  "stars": 395,
+  "forks": 1
 }
