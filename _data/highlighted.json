@@ -1,8 +1,8 @@
 {
-  "repo": "stevejiang0509/ex3301-t0-root-ssh-research",
+  "repo": "meshy-dev/ThreeRT",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Sanitized EX3301-T0 7.2C0 root SSH privilege-escalation case study and offline demo",
-  "stars": 250,
-  "forks": 0
+  "language": "TypeScript",
+  "description": "Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.",
+  "stars": 349,
+  "forks": 24
 }

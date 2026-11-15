@@ -1,146 +1,146 @@
 [
   {
-    "repo": "PyCQA/flake8",
+    "repo": "rodrigojpgamer2022/JourneyMap-Minecraft-Modpack",
     "branch": "main",
-    "language": "Python",
-    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+    "language": "Java",
+    "description": "Journeymap Minecraft Modpack download minimap waypoints fullscreen map cartography Forge Fabric world map mobs tracking caves biomes teleport markers."
   },
   {
-    "repo": "AlpinDale/gpt2.cmake",
+    "repo": "Introspective-Diffusion/I-DLM",
     "branch": "main",
-    "language": "CMake",
-    "description": "Implementation of the GPT-2 model in pure CMake"
-  },
-  {
-    "repo": "pulkitxm/claude-directory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
-  },
-  {
-    "repo": "hanyusok/Environment_Variables_Editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Easily edit system and user environment variables. Add, remove, and modify PATH, and other variables. Validate entries and avoid duplicates."
-  },
-  {
-    "repo": "rpanigrahi222/intruth-factcheck",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "Moh4696/build-ai-agents-free",
-    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "zhengzihaoPKU/KERV",
-    "branch": "master",
-    "language": "Python",
-    "description": "Code of paper KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models accepted by DAC 2026."
-  },
-  {
-    "repo": "ZinkLu/Orca-Orchestration",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "waruna834/API_Client___Tester",
-    "branch": "main",
-    "language": "Python",
-    "description": "Complete API testing tool for REST, GraphQL, and WebSocket. Send requests, inspect responses, and save collections. Similar to Postman but lightweight."
-  },
-  {
-    "repo": "krea-ai/krea-2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for Krea 2"
-  },
-  {
-    "repo": "Kritt-ai/open-kritt",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Orchestrate AI agents to find real vulnerabilities in code."
-  },
-  {
-    "repo": "0xsline/awesome-deepseek-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic."
-  },
-  {
-    "repo": "raheelshakeel953-a11y/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "tdeverx/contained-app",
-    "branch": "nightly",
-    "language": "Swift",
-    "description": "A native macOS app for Apple's Container CLI"
-  },
-  {
-    "repo": "RadishXN/run-abroad",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。"
-  },
-  {
-    "repo": "asad7coder/Boot_Time_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Analyze and reduce Windows boot time. See which drivers and services delay startup, and manage them easily. Speed up your computer."
-  },
-  {
-    "repo": "defender-remove/disable-windows-defender",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "windows defender disabler microsoft defender remover antivirus permanent disable turn off real time protection registry editor group policy toggle scripts defender control dcontrol defender remover tool utility open source windows 11 windows 10 desktop tool security configuration setup guide tutorial troubleshooting download link admin rights"
-  },
-  {
-    "repo": "LYiHub/pub-local-jarvis",
-    "branch": "main",
-    "language": "Python",
-    "description": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。"
-  },
-  {
-    "repo": "loveisbl1nd/linksift",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg."
-  },
-  {
-    "repo": "MkThingsHQ/mkdirs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source AI-powered directory website template built with Next.js"
-  },
-  {
-    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
-  },
-  {
-    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
+    "repo": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
     "branch": "main",
     "language": "C++",
-    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
+    "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
   },
   {
-    "repo": "Michaelliv/markit",
+    "repo": "microsoft/onnxruntime",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🖍️ Convert anything to markdown. Mark it."
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
   },
   {
-    "repo": "TianyiDataScience/openclaw-control-center",
+    "repo": "Vacutagin/GameEnhancementSuite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+  },
+  {
+    "repo": "Happy-Chen-CH/text_classification",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is a text classification project based on the Category News feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs—let's work together to fix them."
+  },
+  {
+    "repo": "neovim/neovim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
+  },
+  {
+    "repo": "edgedb/edgedb",
+    "branch": "master",
+    "language": "Python",
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+  },
+  {
+    "repo": "mitsuhiko/pi-ds4",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Run deepseek4 locally on metal right from within Pi"
+  },
+  {
+    "repo": "resonancegnatassess/Lossless-Scaling",
+    "branch": "main",
+    "language": "Python",
+    "description": "Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install."
+  },
+  {
+    "repo": "openai/shap-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate 3D objects conditioned on text or images"
+  },
+  {
+    "repo": "OpenSquilla/opensquilla",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
+  },
+  {
+    "repo": "duonghieu7104/Star-Fox-64-Remake-PC-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Star Fox 64 Remake PC download Fox McCloud Arwing Landmaster Falco Peppy Slippy Lylat System Corneria Andross Star Wolf Team 4K Widescreen Native Port Controller Support HD Textures Medals Expert Mode Barrel Roll All-Range Mode Venom Sector Z Solar Macbeth Aquas 60FPS."
+  },
+  {
+    "repo": "joyehuang/Learn-Open-Harness",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
+  },
+  {
+    "repo": "nikvpn-iran/nikvpn-codespace",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
+  },
+  {
+    "repo": "amanning3390/deepswarm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ReactiveX/RxJS",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A reactive programming library for JavaScript"
+  },
+  {
+    "repo": "pallets/flask",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
+  },
+  {
+    "repo": "phioranex/openclaw-docker",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": ""
+  },
+  {
+    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "meltano/meltano",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "branch": "main",
+    "language": "Python",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+  },
+  {
+    "repo": "quilljs/quill",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+  },
+  {
+    "repo": "huggingface/nanowhale",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   }
 ]
