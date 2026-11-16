@@ -1,99 +1,93 @@
 [
   {
-    "repo": "caomaolufei/AIInfraGuide",
-    "branch": "main",
-    "language": "Astro",
-    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
-  },
-  {
-    "repo": "AMAP-ML/SkillClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let Skills Evolve Collectively with Agentic Evolver"
-  },
-  {
-    "repo": "mpiorowski/late-sh",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH."
-  },
-  {
-    "repo": "harkhowalia-1/MacSubsystemForAndroid",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + scrcpy)."
-  },
-  {
-    "repo": "uluckyXH/OpenMOSS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
-  },
-  {
-    "repo": "ynsmroztas/cPanelSniper",
-    "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
-  },
-  {
-    "repo": "Uniswap/interface",
+    "repo": "facebook/docusaurus",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🦄 Open source interfaces for the Uniswap protocol"
+    "description": "Easy to maintain open source documentation websites."
   },
   {
-    "repo": "mksglu/claude-context-mode",
+    "repo": "dashersw/gea",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "Introspective-Diffusion/I-DLM",
+    "repo": "tonbo-io/ursula",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Distributed event stream server over HTTP, backed by S3."
+  },
+  {
+    "repo": "tradecatlabs/shulihuazixuecongshu",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    "repo": "PyCQA/flake8",
+    "branch": "main",
+    "language": "Python",
+    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
   },
   {
-    "repo": "markets/awesome-ruby",
-    "branch": "master",
-    "language": "Other",
-    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
+    "repo": "Web3CZ/Web3Hermes",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "【Hermes WebUI】Hermes-Agent 中文版 WebUI，便于中国用户使用"
   },
   {
-    "repo": "ethereum-optimism/optimism",
-    "branch": "develop",
+    "repo": "cockroachdb/cockroach",
+    "branch": "master",
     "language": "Go",
-    "description": "Optimism is Ethereum, scaled."
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
   },
   {
-    "repo": "hanxiao/claudecode-telegram",
-    "branch": "main",
-    "language": "Python",
-    "description": "Telegram bridge for Claude Code"
-  },
-  {
-    "repo": "OpenDriveLab/WorldEngine",
-    "branch": "main",
-    "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
-  },
-  {
-    "repo": "FFmpeg/FFmpeg",
+    "repo": "PyGithub/PyGithub",
     "branch": "master",
-    "language": "C",
-    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+    "language": "Python",
+    "description": "Typed interactions with the GitHub API v3"
   },
   {
-    "repo": "ReactiveX/RxJS",
-    "branch": "master",
+    "repo": "guanxiaol/WindsurfPoolAPI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理"
+  },
+  {
+    "repo": "codeany-ai/open-agent-sdk-typescript",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A reactive programming library for JavaScript"
+    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  {
+    "repo": "airbnb/lottie-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Set up a modern web app by running one command."
+  },
+  {
+    "repo": "aio-libs/aiohttp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
+  },
+  {
+    "repo": "PrimeKeeper58/blooket-hacks",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "blooket menu || blooket || blooket hacks"
+  },
+  {
+    "repo": "czl9707/build-your-own-openclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "A step-by-step guide to build your own AI agent."
   },
   {
     "repo": "simoncirstoiu/alice",
@@ -102,45 +96,51 @@
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
   },
   {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "liorwn/claudetop",
+    "repo": "jupyter/notebook",
     "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+    "language": "Jupyter Notebook",
+    "description": "Jupyter Interactive Notebook"
   },
   {
-    "repo": "cnlimiter/codex-manager-v3",
+    "repo": "mongodb/mongo",
     "branch": "master",
-    "language": "Python",
-    "description": ""
+    "language": "C++",
+    "description": "The MongoDB Database"
   },
   {
-    "repo": "antfu/tsnapi",
+    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "branch": "main",
+    "language": "Python",
+    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+  },
+  {
+    "repo": "Jiangzy520/DreamleStockRadar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Scalable datastore for metrics, events, and real-time analytics"
+  },
+  {
+    "repo": "LemoLev/tg-ws-proxy-ANDROID",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+  },
+  {
+    "repo": "foru17/make-x-great-again",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Library public API snapshot testing for runtime exports and type declarations."
-  },
-  {
-    "repo": "gradenGnostic/LegacyLauncher",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A custom launcher for Minecraft LCE."
-  },
-  {
-    "repo": "snarktank/compound-product",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+    "description": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source."
   }
 ]

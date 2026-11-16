@@ -1,8 +1,8 @@
 {
-  "repo": "hikaku-io/hikaku-extension",
+  "repo": "brettcole-byte56/microsoft-excel-analyse-it-desktop",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
-  "stars": 395,
-  "forks": 1
+  "language": "C++",
+  "description": "Microsoft Excel Analyse-it 2026 desktop setup with workbook analysis, formula auditing, tabular reporting and portable mode for Windows 10 and 11",
+  "stars": 360,
+  "forks": 0
 }
