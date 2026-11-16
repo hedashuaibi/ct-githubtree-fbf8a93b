@@ -1,8 +1,8 @@
 {
-  "repo": "brettcole-byte56/microsoft-excel-analyse-it-desktop",
+  "repo": "bradburns2001/topaz-video-ai-desktop",
   "branch": "main",
   "language": "C++",
-  "description": "Microsoft Excel Analyse-it 2026 desktop setup with workbook analysis, formula auditing, tabular reporting and portable mode for Windows 10 and 11",
+  "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
   "stars": 360,
   "forks": 0
 }

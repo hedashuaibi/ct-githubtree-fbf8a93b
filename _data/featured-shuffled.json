@@ -1,146 +1,146 @@
 [
   {
-    "repo": "facebook/docusaurus",
+    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
+    "language": "Shell",
+    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
   },
   {
-    "repo": "dashersw/gea",
+    "repo": "gnhen/midscroll",
+    "branch": "main",
+    "language": "Python",
+    "description": "FOSS Middle Mouse Scroll replacement for Linux"
+  },
+  {
+    "repo": "warpdot-dev/craft-agents-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows"
+  },
+  {
+    "repo": "Ta0ing/claude-code_evil",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cc完整版，含手册，编译等"
+  },
+  {
+    "repo": "chartist/chartist",
+    "branch": "develop",
+    "language": "Ruby",
+    "description": "Final Project @ Makers Academy"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "thinkpixelIab/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto"
+  },
+  {
+    "repo": "shannhk/hermes-agent-control-room",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
+  },
+  {
+    "repo": "curvefi/curve-contract",
+    "branch": "master",
+    "language": "Python",
+    "description": "Vyper contracts used in Curve.fi exchange pools."
+  },
+  {
+    "repo": "lqs/retrotick",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
+  },
+  {
+    "repo": "ahmadawais/terminui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Super fast double buffered toolkit for building terminal UIs."
+  },
+  {
+    "repo": "kristelTech/make_me_a_meme",
+    "branch": "main",
+    "language": "Python",
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
+  },
+  {
+    "repo": "Lab-Overflow/prompt-optimizer-lite",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "tonbo-io/ursula",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Distributed event stream server over HTTP, backed by S3."
-  },
-  {
-    "repo": "tradecatlabs/shulihuazixuecongshu",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "PyCQA/flake8",
-    "branch": "main",
-    "language": "Python",
-    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
-  },
-  {
-    "repo": "Web3CZ/Web3Hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "【Hermes WebUI】Hermes-Agent 中文版 WebUI，便于中国用户使用"
-  },
-  {
-    "repo": "cockroachdb/cockroach",
+    "repo": "wader/fq",
     "branch": "master",
     "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
   },
   {
-    "repo": "PyGithub/PyGithub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
-  },
-  {
-    "repo": "guanxiaol/WindsurfPoolAPI",
+    "repo": "0din-ai/ai-scanner",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理"
+    "language": "Ruby",
+    "description": "AI model safety scanner built on NVIDIA garak"
   },
   {
-    "repo": "codeany-ai/open-agent-sdk-typescript",
+    "repo": "netblue30/firejail",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux namespaces and seccomp-bpf sandbox"
+  },
+  {
+    "repo": "863401402/she-love-me",
+    "branch": "main",
+    "language": "Python",
+    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
+  },
+  {
+    "repo": "vercel-labs/zero",
+    "branch": "main",
+    "language": "C",
+    "description": "The programming language for agents"
+  },
+  {
+    "repo": "Runtime-Trade-Systems/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+    "description": "Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket trading bot polymarket trading bot Polymarket trading bot trading bot"
   },
   {
-    "repo": "airbnb/lottie-web",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
-  },
-  {
-    "repo": "facebook/create-react-app",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Set up a modern web app by running one command."
-  },
-  {
-    "repo": "aio-libs/aiohttp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
-  },
-  {
-    "repo": "PrimeKeeper58/blooket-hacks",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "blooket menu || blooket || blooket hacks"
-  },
-  {
-    "repo": "czl9707/build-your-own-openclaw",
+    "repo": "brendanhogan/loophole",
     "branch": "main",
     "language": "Python",
-    "description": "A step-by-step guide to build your own AI agent."
+    "description": ""
   },
   {
-    "repo": "simoncirstoiu/alice",
+    "repo": "junevm/splathash",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+    "language": "Go",
+    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
   },
   {
-    "repo": "jupyter/notebook",
+    "repo": "shipfastlabs/parsel",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
+    "language": "PHP",
+    "description": "A fast, helpful, and open-source document parser for PHP"
   },
   {
-    "repo": "mongodb/mongo",
-    "branch": "master",
-    "language": "C++",
-    "description": "The MongoDB Database"
-  },
-  {
-    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "repo": "elastic/supply-chain-monitor",
     "branch": "main",
     "language": "Python",
-    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+    "description": ""
   },
   {
-    "repo": "Jiangzy520/DreamleStockRadar",
-    "branch": "main",
-    "language": "Python",
-    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
-  },
-  {
-    "repo": "influxdata/influxdb",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Scalable datastore for metrics, events, and real-time analytics"
-  },
-  {
-    "repo": "LemoLev/tg-ws-proxy-ANDROID",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
-  },
-  {
-    "repo": "qdrant/qdrant",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
-  },
-  {
-    "repo": "foru17/make-x-great-again",
+    "repo": "Outcome-Signal-Forge/trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source."
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   }
 ]
