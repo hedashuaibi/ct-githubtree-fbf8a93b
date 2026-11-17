@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+    "repo": "openTrinity/mycontext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MyContext is a local-first desktop app for everyday communication and knowledge work"
+  },
+  {
+    "repo": "n0de-sudo/Cloudflare-Tools",
+    "branch": "main",
+    "language": "Batchfile",
+    "description": "Cloudflare WARP代理节点的一些工具。"
+  },
+  {
+    "repo": "ryderclanky/BotW-Native",
+    "branch": "main",
+    "language": "C++",
+    "description": "Breath of the Wild (Wii U, v1.5.0) statically recompiled to a native Windows program with a Vulkan renderer."
+  },
+  {
+    "repo": "fruitflydev/flycoinrh",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real fruit fly connectome, 165,122 neurons, launching tokens on Robinhood Chain"
+  },
+  {
+    "repo": "Kaixxrua/excel-codex-bridge",
+    "branch": "main",
+    "language": "Python",
+    "description": "防降智插件"
+  },
+  {
+    "repo": "pingwin010/tiktok-views-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "tiktok views bot tool x-ladon x-gorgon x-argus full api tiktok, likes, search, follow, login, tiktok device register, tiktok api"
+  },
+  {
+    "repo": "openai/mcp-extensions",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build plugins that feel like native, first-class features of ChatGPT."
+  },
+  {
+    "repo": "VelaPayments/vela-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NestJS backend for Vela’s Stellar payment prototype, with payment-request validation, WebAuthn authorization, and transaction services."
+  },
+  {
+    "repo": "cosscom/shipyard",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run coding agents on your dev boxes: worktrees, terminals, orchestration, kits and automations, with a desktop app."
+  },
+  {
+    "repo": "acryldev/acryl",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent."
+  },
+  {
+    "repo": "fireinrain/JHS-enhance",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "JHS-enhance 脚本，优化你的老司机体验"
+  },
+  {
+    "repo": "nmatt0/moria",
+    "branch": "master",
+    "language": "C++",
+    "description": "IoT firmware identification and extraction"
+  },
+  {
+    "repo": "seamusc/papermono-shopping-list",
+    "branch": "main",
+    "language": "C++",
+    "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI"
+  },
+  {
+    "repo": "Argona7/stampede",
+    "branch": "main",
+    "language": "Python",
+    "description": "Read-only explorer of observed wallet rotations on Robinhood Chain (PONS v2): terminal + web, replay of a recorded sample without API keys"
+  },
+  {
+    "repo": "brayonpi/hexstellar",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar"
+  },
+  {
+    "repo": "storytold/deckcraft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps."
+  },
+  {
+    "repo": "0xBakeer/qwen38-flash-next-spark",
     "branch": "main",
     "language": "Shell",
-    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
+    "description": "Run Qwen3.8-Flash-Next (180B) on a single DGX Spark by keeping its 51B n-gram embedding table on NVMe"
   },
   {
-    "repo": "gnhen/midscroll",
+    "repo": "nader0913/ocpp-rag",
     "branch": "main",
     "language": "Python",
-    "description": "FOSS Middle Mouse Scroll replacement for Linux"
+    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
   },
   {
-    "repo": "warpdot-dev/craft-agents-oss",
+    "repo": "rit3zh/expo-dynamic-tray",
     "branch": "main",
     "language": "TypeScript",
-    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows"
+    "description": "📚 A morphing, keyboard-aware bottom-sheet tray."
   },
   {
-    "repo": "Ta0ing/claude-code_evil",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "cc完整版，含手册，编译等"
-  },
-  {
-    "repo": "chartist/chartist",
-    "branch": "develop",
-    "language": "Ruby",
-    "description": "Final Project @ Makers Academy"
-  },
-  {
-    "repo": "rohitg00/ai-engineering-from-scratch",
+    "repo": "NagaaSaketh/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Hyper",
     "branch": "main",
     "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Hyper version offers enhanced performance and reliability."
   },
   {
-    "repo": "thinkpixelIab/polymarket-ai-trading",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto"
-  },
-  {
-    "repo": "shannhk/hermes-agent-control-room",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
-  },
-  {
-    "repo": "curvefi/curve-contract",
-    "branch": "master",
-    "language": "Python",
-    "description": "Vyper contracts used in Curve.fi exchange pools."
-  },
-  {
-    "repo": "lqs/retrotick",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
-  },
-  {
-    "repo": "ahmadawais/terminui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Super fast double buffered toolkit for building terminal UIs."
-  },
-  {
-    "repo": "kristelTech/make_me_a_meme",
+    "repo": "RecordSlayerIdentify/shotcut-download",
     "branch": "main",
     "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
+    "description": "Shotcut v26.9.27 — Shotcut is a free, open source, cross-platform video editor. Info page and download link. Third-party software; all rights belong to the original authors."
   },
   {
-    "repo": "Lab-Overflow/prompt-optimizer-lite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "wader/fq",
-    "branch": "master",
-    "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
-  },
-  {
-    "repo": "0din-ai/ai-scanner",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "AI model safety scanner built on NVIDIA garak"
-  },
-  {
-    "repo": "netblue30/firejail",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux namespaces and seccomp-bpf sandbox"
-  },
-  {
-    "repo": "863401402/she-love-me",
+    "repo": "2akouwu/codex-cli-portable-setup-kit",
     "branch": "main",
     "language": "Python",
-    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
+    "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution."
   },
   {
-    "repo": "vercel-labs/zero",
-    "branch": "main",
-    "language": "C",
-    "description": "The programming language for agents"
-  },
-  {
-    "repo": "Runtime-Trade-Systems/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket arbitrage trading bot Polymarket trading bot polymarket trading bot Polymarket trading bot trading bot"
-  },
-  {
-    "repo": "brendanhogan/loophole",
+    "repo": "renee-jia/scholar-loop",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination."
   },
   {
-    "repo": "junevm/splathash",
-    "branch": "main",
-    "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
-  },
-  {
-    "repo": "shipfastlabs/parsel",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A fast, helpful, and open-source document parser for PHP"
-  },
-  {
-    "repo": "elastic/supply-chain-monitor",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Outcome-Signal-Forge/trading-bot",
+    "repo": "realchendahuang/sub-store-cloudflare",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "一个部署在 Cloudflare Workers 上的订阅聚合与规则配置工具。它把订阅源、节点处理、组合订阅和分流规则模板放在云端，客户端只需要订阅最终生成的链接。"
   }
 ]

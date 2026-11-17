@@ -1,8 +1,8 @@
 {
-  "repo": "bradburns2001/topaz-video-ai-desktop",
+  "repo": "brave-shell-07/izotope-rx-11-desktop",
   "branch": "main",
   "language": "C++",
-  "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
+  "description": "iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11",
   "stars": 360,
   "forks": 0
 }
