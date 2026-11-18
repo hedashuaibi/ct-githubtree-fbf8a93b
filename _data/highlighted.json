@@ -1,8 +1,8 @@
 {
-  "repo": "CzzzzzzJ/mdldm-maitian",
+  "repo": "zephyr4123/snug",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-  "stars": 1012,
-  "forks": 333
+  "language": "Swift",
+  "description": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
+  "stars": 832,
+  "forks": 54
 }
