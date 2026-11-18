@@ -1,8 +1,8 @@
 {
-  "repo": "zephyr4123/snug",
+  "repo": "boringmarketer/boring-marketing-skills",
   "branch": "main",
-  "language": "Swift",
-  "description": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
-  "stars": 832,
-  "forks": 54
+  "language": "Python",
+  "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+  "stars": 659,
+  "forks": 245
 }

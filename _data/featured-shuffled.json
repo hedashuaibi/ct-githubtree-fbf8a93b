@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mksglu/claude-context-mode",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
-  },
-  {
-    "repo": "nclamvn/Viet-ERP",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "VietERP Platform — Open-source ERP for Vietnamese enterprises"
-  },
-  {
-    "repo": "duncatzat/vigils",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3."
-  },
-  {
-    "repo": "benqi-finance/legalmarkdown",
-    "branch": "master",
-    "language": "Go",
-    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
-  },
-  {
-    "repo": "claude-code-best/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 可运行版; Typescript 类型全修复;企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
-  },
-  {
-    "repo": "alexandercodes4/AirTrain",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed ML training across Apple Silicon Macs"
-  },
-  {
-    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
-  },
-  {
-    "repo": "ED-MODESTO/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt trading bot, polymarekt trading bot, polymarekt trading bot polymarekt trading"
-  },
-  {
-    "repo": "Uniswap/interface",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 Open source interfaces for the Uniswap protocol"
-  },
-  {
-    "repo": "testerlingcodo/gemini-antigravity-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free"
-  },
-  {
-    "repo": "wesbos/JSON-Alexander",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
-  },
-  {
-    "repo": "golbin/agent-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Reusable agent skills for Codex and compatible tools"
-  },
-  {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
-  },
-  {
-    "repo": "jiaoyanming0-bot/OPAutoClicker",
-    "branch": "main",
-    "language": "C#",
-    "description": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable."
-  },
-  {
-    "repo": "gridex/gridex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS / windows database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface."
-  },
-  {
-    "repo": "zennomi/truyendrive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Biến Google Drive thành Web Truyện"
-  },
-  {
-    "repo": "apechurch/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "homielab/giapha-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
-  },
-  {
-    "repo": "leon-ai/leon",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🧠 Leon is your open-source personal assistant."
-  },
-  {
-    "repo": "NVIDIA/cuda-samples",
-    "branch": "master",
-    "language": "C",
-    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
-  },
-  {
-    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "repo": "dashdogy/RTX40MFG-Unlock",
     "branch": "main",
     "language": "C++",
-    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+    "description": "Experimental DLSS Multi Frame Generation controls for Cyberpunk 2077 on RTX 40 series GPUs"
   },
   {
-    "repo": "YeQing17-2026/OmniAgent",
+    "repo": "nativefier/nativefier",
+    "branch": "development",
+    "language": "TypeScript",
+    "description": "Make any web page a desktop application"
+  },
+  {
+    "repo": "Alkih/Nightlight-Game-Launcher",
+    "branch": "main",
+    "language": "C#",
+    "description": "Nightlight Game Launcher: NLGL download, Rockstar Social Club bypass, GTA V Epic Games launch error, RDR2 offline play, GTA IV Social Club fix. Steam account switcher, Epic Online Services bypass, EOS SDK. dll, -nobattleye, -scOfflineMode, launch options, account manager, local backup, source code GitHub, onajlikezz, open source tool."
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
     "branch": "main",
     "language": "Python",
-    "description": "An agent capable of self-evolving and dynamically hardening security"
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration"
   },
   {
-    "repo": "Trooped/QuickBars",
+    "repo": "Robbyant/lingbot-world",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
+    "language": "Python",
+    "description": "Advancing Open-source World Models"
+  },
+  {
+    "repo": "Jiawei-Yang/FD-Loss",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "bschoepke/ableton-live-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "General-purpose MCP bridge for Ableton Live"
+  },
+  {
+    "repo": "EKKOLearnAI/hermes-web-ui",
+    "branch": "main",
+    "language": "Vue",
+    "description": ""
+  },
+  {
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "repo": "react-native-image-picker/react-native-image-picker",
+    "branch": "main",
+    "language": "Java",
+    "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera."
+  },
+  {
+    "repo": "mimurchison/claude-chief-of-staff",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "ThisIsDara/mhr-cfw-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "A local proxy that runs on your machine and forwards traffic through Google."
+  },
+  {
+    "repo": "EvilFreelancer/openapi-to-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+  },
+  {
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+  },
+  {
+    "repo": "viperrcrypto/Siftly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+  },
+  {
+    "repo": "Alex-Gilbert/unredact",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "zubair-trabzada/ai-marketing-claude",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
+  },
+  {
+    "repo": "upper-up/meta-lobbying-and-other-findings",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "karpathy/agenthub",
+    "branch": "master",
+    "language": "Go",
+    "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project."
+  },
+  {
+    "repo": "Pathos0925/SatoshiGuesser",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Roll for lost bitcoin."
+  },
+  {
+    "repo": "AgriciDaniel/claude-seo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
+  },
+  {
+    "repo": "YuJunZhiXue/github-skill-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
+  },
+  {
+    "repo": "epiral/bb-sites",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
   }
 ]
