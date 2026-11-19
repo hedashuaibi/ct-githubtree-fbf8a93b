@@ -1,146 +1,146 @@
 [
   {
-    "repo": "HSJ-BanFan/grok-register-web",
-    "branch": "master",
-    "language": "Python",
-    "description": "Grok 自动注册 Web 平台：Outlook 别名批量注册、SSO 采集，注册成功后自动导入 grok2api（Web / Build）"
-  },
-  {
-    "repo": "trynullsec/nullsec-s1",
+    "repo": "verialabs/ctf-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Security-native LLM system for AI-generated application security."
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
   },
   {
-    "repo": "jarmuine/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fork of instructkr/claude-code"
-  },
-  {
-    "repo": "ByteDance-Seed/In-Place-TTT",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "k2-fsa/OmniVoice",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
-  },
-  {
-    "repo": "Ahmad-progr/claude-leaked-files",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
-  },
-  {
-    "repo": "kellyvv/PhoneClaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
-  },
-  {
-    "repo": "lllyasviel/VCC",
-    "branch": "main",
-    "language": "Python",
-    "description": "Compile agent conversations!"
-  },
-  {
-    "repo": "millionco/cli-to-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn any CLI into a JavaScript API"
-  },
-  {
-    "repo": "imbue-ai/bouncer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Heal your social media feeds"
-  },
-  {
-    "repo": "JasonLam08/cursor_agent_status_light",
-    "branch": "main",
-    "language": "C++",
-    "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. 基于 ESP32-C3 的 Cursor Agent BLE 状态灯，用红绿灯直观显示 AI 编程过程中的思考、忙碌、成功、错误以及等待用户操作 等状态。"
-  },
-  {
-    "repo": "Eronred/expo-agent-spinners",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
-  },
-  {
-    "repo": "uu201/character-arc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
-  },
-  {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
-  },
-  {
-    "repo": "Jadoox3/Mina-The-Hollower-Release",
-    "branch": "main",
-    "language": "C#",
-    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
-  },
-  {
-    "repo": "aurorascharff/ClickLight",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility."
-  },
-  {
-    "repo": "liyown/marknative",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM."
-  },
-  {
-    "repo": "ShadowSpread/polymarket-auto-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot,"
-  },
-  {
-    "repo": "NanmiCoder/cc-haha",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 泄露源码 - 本地可运行版本"
-  },
-  {
-    "repo": "GitFrog1111/badclaude",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "vivek772/Lossless-Scaling-FPS-Upcaler-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling is a professional Windows utility for universal frame generation and spatial upscaling. Featuring LSFG 3.1 (X2/X3/X4) and LS1 algorithms, it ensures high-fidelity motion and sharp visuals on any GPU. Designed for stability and low latency in modern 2026 gaming environments."
-  },
-  {
-    "repo": "MarchLiu/hypatia",
-    "branch": "main",
-    "language": "Rust",
-    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
-  },
-  {
-    "repo": "Bhojendra-dev/LSFG-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup"
-  },
-  {
-    "repo": "ytnrvdf/wha-spell-simulator",
+    "repo": "tonyqinatcmu/SlideBot-AI",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
+  },
+  {
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+  },
+  {
+    "repo": "GreatScott/enveil",
+    "branch": "main",
+    "language": "Rust",
+    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+  },
+  {
+    "repo": "standardnotes/app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help."
+  },
+  {
+    "repo": "deepinfra/deepinfra",
+    "branch": "main",
+    "language": "Other",
+    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
+  },
+  {
+    "repo": "zscole/model-hierarchy-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader"
+  },
+  {
+    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+  },
+  {
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "marshallrichards/ClawPhone",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tweaks for running OpenClaw on a Android smartphone"
+  },
+  {
+    "repo": "react-native-async-storage/async-storage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
+  },
+  {
+    "repo": "androidx/media",
+    "branch": "main",
+    "language": "Java",
+    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
+  },
+  {
+    "repo": "ensdomains/ens-contracts",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The core contracts of the ENS protocol"
+  },
+  {
+    "repo": "google-research/google-research",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Google Research"
+  },
+  {
+    "repo": "abhinavkale-dev/fynt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Self-hostable workflow automation platform"
+  },
+  {
+    "repo": "llmsresearch/paperbanana",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+  },
+  {
+    "repo": "zai-org/GLM-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
+  },
+  {
+    "repo": "Shopify/flash-list",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A better list for React Native"
+  },
+  {
+    "repo": "prisma/prisma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+  },
+  {
+    "repo": "ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Brookhaven RP, the most visited Roblox game with over 83 billion visits[reference:6][reference:7]. Automate money farming, unlock all houses and vehicles, and get unlimited in-game currency. Dominate the social roleplay experience."
+  },
+  {
+    "repo": "miantiao-me/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent"
+  },
+  {
+    "repo": "ethereumjs/ethereumjs-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
+  },
+  {
+    "repo": "QwenLM/Qwen3-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
   }
 ]
