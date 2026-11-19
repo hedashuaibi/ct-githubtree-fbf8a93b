@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dashdogy/RTX40MFG-Unlock",
+    "repo": "HSJ-BanFan/grok-register-web",
+    "branch": "master",
+    "language": "Python",
+    "description": "Grok 自动注册 Web 平台：Outlook 别名批量注册、SSO 采集，注册成功后自动导入 grok2api（Web / Build）"
+  },
+  {
+    "repo": "trynullsec/nullsec-s1",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security-native LLM system for AI-generated application security."
+  },
+  {
+    "repo": "jarmuine/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fork of instructkr/claude-code"
+  },
+  {
+    "repo": "ByteDance-Seed/In-Place-TTT",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "k2-fsa/OmniVoice",
+    "branch": "master",
+    "language": "Python",
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
+  },
+  {
+    "repo": "Ahmad-progr/claude-leaked-files",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
+  },
+  {
+    "repo": "kellyvv/PhoneClaw",
+    "branch": "main",
+    "language": "Swift",
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
+  },
+  {
+    "repo": "lllyasviel/VCC",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compile agent conversations!"
+  },
+  {
+    "repo": "millionco/cli-to-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn any CLI into a JavaScript API"
+  },
+  {
+    "repo": "imbue-ai/bouncer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Heal your social media feeds"
+  },
+  {
+    "repo": "JasonLam08/cursor_agent_status_light",
     "branch": "main",
     "language": "C++",
-    "description": "Experimental DLSS Multi Frame Generation controls for Cyberpunk 2077 on RTX 40 series GPUs"
+    "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. 基于 ESP32-C3 的 Cursor Agent BLE 状态灯，用红绿灯直观显示 AI 编程过程中的思考、忙碌、成功、错误以及等待用户操作 等状态。"
   },
   {
-    "repo": "nativefier/nativefier",
-    "branch": "development",
+    "repo": "Eronred/expo-agent-spinners",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Make any web page a desktop application"
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
   },
   {
-    "repo": "Alkih/Nightlight-Game-Launcher",
+    "repo": "uu201/character-arc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
+  },
+  {
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "branch": "main",
+    "language": "Python",
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+  },
+  {
+    "repo": "Jadoox3/Mina-The-Hollower-Release",
     "branch": "main",
     "language": "C#",
-    "description": "Nightlight Game Launcher: NLGL download, Rockstar Social Club bypass, GTA V Epic Games launch error, RDR2 offline play, GTA IV Social Club fix. Steam account switcher, Epic Online Services bypass, EOS SDK. dll, -nobattleye, -scOfflineMode, launch options, account manager, local backup, source code GitHub, onajlikezz, open source tool."
+    "description": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
   },
   {
-    "repo": "OpenBMB/ChatDev",
+    "repo": "aurorascharff/ClickLight",
     "branch": "main",
-    "language": "Python",
-    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration"
+    "language": "Swift",
+    "description": "A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility."
   },
   {
-    "repo": "Robbyant/lingbot-world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advancing Open-source World Models"
-  },
-  {
-    "repo": "Jiawei-Yang/FD-Loss",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "bschoepke/ableton-live-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "General-purpose MCP bridge for Ableton Live"
-  },
-  {
-    "repo": "EKKOLearnAI/hermes-web-ui",
-    "branch": "main",
-    "language": "Vue",
-    "description": ""
-  },
-  {
-    "repo": "Junyi42/LoGeR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
-  },
-  {
-    "repo": "react-native-image-picker/react-native-image-picker",
-    "branch": "main",
-    "language": "Java",
-    "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera."
-  },
-  {
-    "repo": "mimurchison/claude-chief-of-staff",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "ThisIsDara/mhr-cfw-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "A local proxy that runs on your machine and forwards traffic through Google."
-  },
-  {
-    "repo": "EvilFreelancer/openapi-to-cli",
+    "repo": "liyown/marknative",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+    "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM."
   },
   {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "viperrcrypto/Siftly",
+    "repo": "ShadowSpread/polymarket-auto-trading",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+    "description": "polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot,"
   },
   {
-    "repo": "Alex-Gilbert/unredact",
+    "repo": "NanmiCoder/cc-haha",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Claude Code 泄露源码 - 本地可运行版本"
   },
   {
-    "repo": "zubair-trabzada/ai-marketing-claude",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
-  },
-  {
-    "repo": "upper-up/meta-lobbying-and-other-findings",
+    "repo": "GitFrog1111/badclaude",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "karpathy/agenthub",
-    "branch": "master",
-    "language": "Go",
-    "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project."
+    "repo": "vivek772/Lossless-Scaling-FPS-Upcaler-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling is a professional Windows utility for universal frame generation and spatial upscaling. Featuring LSFG 3.1 (X2/X3/X4) and LS1 algorithms, it ensures high-fidelity motion and sharp visuals on any GPU. Designed for stability and low latency in modern 2026 gaming environments."
   },
   {
-    "repo": "Pathos0925/SatoshiGuesser",
+    "repo": "MarchLiu/hypatia",
+    "branch": "main",
+    "language": "Rust",
+    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
+  },
+  {
+    "repo": "Bhojendra-dev/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup"
+  },
+  {
+    "repo": "ytnrvdf/wha-spell-simulator",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Roll for lost bitcoin."
-  },
-  {
-    "repo": "AgriciDaniel/claude-seo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
-  },
-  {
-    "repo": "YuJunZhiXue/github-skill-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
-  },
-  {
-    "repo": "epiral/bb-sites",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
+    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
   }
 ]
