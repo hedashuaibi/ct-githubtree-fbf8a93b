@@ -1,146 +1,146 @@
 [
   {
-    "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+    "repo": "yu2855187259-hash/photo-commander-setup",
     "branch": "main",
-    "language": "Python",
-    "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment."
+    "language": "HTML",
+    "description": "photo-commander: opinionated dotfiles and config, complete and ready to install"
   },
   {
-    "repo": "TsingmaoAI/xw-cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
-  },
-  {
-    "repo": "OpenMOSS/MOVA",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
-  },
-  {
-    "repo": "backstage/backstage",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
-  },
-  {
-    "repo": "miantiao-me/cloud-code",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent"
-  },
-  {
-    "repo": "Chanchaldhiman/CANviz",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source browser-based CAN bus analyzer. Works with low cost USB hardware."
-  },
-  {
-    "repo": "apache/arrow",
+    "repo": "emscripten-core/emscripten",
     "branch": "main",
     "language": "C++",
-    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
   },
   {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
-  },
-  {
-    "repo": "zsh-users/zsh-autosuggestions",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
-  },
-  {
-    "repo": "scalessec/Toast-Swift",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A Swift extension that adds toast notifications to the UIView object class."
-  },
-  {
-    "repo": "huggingface/diffusers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
-  },
-  {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "YunjueTech/Yunjue-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
-  },
-  {
-    "repo": "KKKKhazix/Khazix-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "clockworklabs/SpacetimeDB",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
-  },
-  {
-    "repo": "googleapis/google-cloud-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "Google Cloud Client Library for Python"
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
+    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "JupyterLab computational environment."
+    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
   },
   {
-    "repo": "keras-team/keras-nlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
-  },
-  {
-    "repo": "elastic/logstash",
+    "repo": "assafelovic/skyll",
     "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
+    "language": "Python",
+    "description": "A tool for AI agents to discover and learn skills autonomously"
   },
   {
-    "repo": "cilium/cilium",
+    "repo": "mchughalex/skate3recomp",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "yliust/Tactile",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tactile: an accessibility-first operating layer for agents."
+  },
+  {
+    "repo": "zzzhhh1/Sing-Flare-Auto",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
+  },
+  {
+    "repo": "stepfun-ai/Step-3.5-Flash",
+    "branch": "main",
+    "language": "C++",
+    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+  },
+  {
+    "repo": "SageClub/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
+  },
+  {
+    "repo": "nanostores/nanostores",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
+  },
+  {
+    "repo": "gofsnotify/fsnotify",
     "branch": "main",
     "language": "Go",
-    "description": "eBPF-based Networking, Security, and Observability"
+    "description": "Cross-platform file system notifications for Go."
   },
   {
-    "repo": "jina-ai/jina",
+    "repo": "liangdabiao/Fashion-AI",
     "branch": "main",
     "language": "Python",
-    "description": "☁️ Build multimodal AI applications with cloud-native stack"
+    "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
   },
   {
-    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "lukiIabs/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
+  },
+  {
+    "repo": "strukto-ai/mirage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Unified Virtual Filesystem For AI Agents"
+  },
+  {
+    "repo": "TitanFlow-Systems/polymarket-trading-bot-v2",
     "branch": "main",
     "language": "JavaScript",
-    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
+    "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w"
+  },
+  {
+    "repo": "keras-team/keras-cv",
+    "branch": "master",
+    "language": "Python",
+    "description": "Industry-strength Computer Vision workflows with Keras"
+  },
+  {
+    "repo": "TQZHR/grok2api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+  },
+  {
+    "repo": "openclarity/kubeclarity",
+    "branch": "main",
+    "language": "Go",
+    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
+  },
+  {
+    "repo": "baoweise-bot/aimili-vpngate",
+    "branch": "main",
+    "language": "Python",
+    "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。"
+  },
+  {
+    "repo": "pixel-point/media-downloader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Beautiful native macOS video downloader. Download and trim in one app."
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
+  },
+  {
+    "repo": "B3hnamR/XHTTPRelayECO",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Low-overhead hardened XHTTP relay on Vercel Node runtime"
+  },
+  {
+    "repo": "K-Dense-AI/science-superpowers",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
   }
 ]

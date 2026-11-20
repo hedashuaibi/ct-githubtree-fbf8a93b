@@ -1,8 +1,8 @@
 {
-  "repo": "RouteInferno/shamus-osint-ai-agent",
+  "repo": "niyouqianma/workbuddy2api-hub",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
-  "stars": 143,
-  "forks": 3
+  "language": "Python",
+  "description": "WorkBuddy2API-Hub - OpenAI-compatible local gateway",
+  "stars": 280,
+  "forks": 107
 }
