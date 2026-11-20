@@ -1,8 +1,8 @@
 {
-  "repo": "free-dam-man/cloud-exit-node-deploy",
+  "repo": "RouteInferno/shamus-osint-ai-agent",
   "branch": "main",
-  "language": "Python",
-  "description": "加载技能",
-  "stars": 309,
-  "forks": 120
+  "language": "JavaScript",
+  "description": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
+  "stars": 143,
+  "forks": 3
 }
