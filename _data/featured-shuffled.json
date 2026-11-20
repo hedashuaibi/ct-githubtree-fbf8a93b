@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yu2855187259-hash/photo-commander-setup",
+    "repo": "yuhuangerdi/InduSecAgent",
     "branch": "main",
-    "language": "HTML",
-    "description": "photo-commander: opinionated dotfiles and config, complete and ready to install"
-  },
-  {
-    "repo": "emscripten-core/emscripten",
-    "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
-  },
-  {
-    "repo": "assafelovic/skyll",
-    "branch": "main",
-    "language": "Python",
-    "description": "A tool for AI agents to discover and learn skills autonomously"
-  },
-  {
-    "repo": "mchughalex/skate3recomp",
-    "branch": "main",
-    "language": "C++",
+    "language": "Vue",
     "description": ""
   },
   {
-    "repo": "yliust/Tactile",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tactile: an accessibility-first operating layer for agents."
-  },
-  {
-    "repo": "zzzhhh1/Sing-Flare-Auto",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
-  },
-  {
-    "repo": "stepfun-ai/Step-3.5-Flash",
-    "branch": "main",
-    "language": "C++",
-    "description": "Fast, Sharp & Reliable Agentic Intelligence"
-  },
-  {
-    "repo": "SageClub/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
-  },
-  {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "gofsnotify/fsnotify",
+    "repo": "grafana/loki",
     "branch": "main",
     "language": "Go",
-    "description": "Cross-platform file system notifications for Go."
+    "description": "Like Prometheus, but for logs."
   },
   {
-    "repo": "liangdabiao/Fashion-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "lukiIabs/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
-  },
-  {
-    "repo": "strukto-ai/mirage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Unified Virtual Filesystem For AI Agents"
-  },
-  {
-    "repo": "TitanFlow-Systems/polymarket-trading-bot-v2",
+    "repo": "FinPyromancerLog/xcode-claw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w"
+    "description": ""
   },
   {
-    "repo": "keras-team/keras-cv",
-    "branch": "master",
-    "language": "Python",
-    "description": "Industry-strength Computer Vision workflows with Keras"
-  },
-  {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
-  },
-  {
-    "repo": "openclarity/kubeclarity",
-    "branch": "main",
-    "language": "Go",
-    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
-  },
-  {
-    "repo": "baoweise-bot/aimili-vpngate",
-    "branch": "main",
-    "language": "Python",
-    "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。"
-  },
-  {
-    "repo": "pixel-point/media-downloader",
+    "repo": "saif0200/notchprompt",
     "branch": "main",
     "language": "Swift",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app."
+    "description": ""
   },
   {
-    "repo": "apple/swift-protobuf",
+    "repo": "LocoreMind/LocoTrainer",
     "branch": "main",
-    "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
+    "language": "Python",
+    "description": "MS-SWIFT domain expert agent for codebase analysis and report generation"
   },
   {
-    "repo": "B3hnamR/XHTTPRelayECO",
+    "repo": "Fenng/Tech-Doc-Style-Chinese",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
+  },
+  {
+    "repo": "plausible/analytics",
     "branch": "master",
-    "language": "HTML",
-    "description": "Low-overhead hardened XHTTP relay on Vercel Node runtime"
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
   },
   {
-    "repo": "K-Dense-AI/science-superpowers",
+    "repo": "jd-opensource/JoyAI-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
+  },
+  {
+    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
+    "branch": "main",
+    "language": "Python",
+    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
+  },
+  {
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+  },
+  {
+    "repo": "XBuilderLAB/cheat-on-content",
+    "branch": "main",
+    "language": "Python",
+    "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month."
+  },
+  {
+    "repo": "Juwluuu/Subnautica-2-Release",
+    "branch": "main",
+    "language": "C++",
+    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
+  },
+  {
+    "repo": "whwh1233/StepFlow-Duck",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "cpa+duck结合体"
+  },
+  {
+    "repo": "makermate/clarvis-ai",
     "branch": "main",
     "language": "Shell",
-    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
+    "description": "Clarvis - 3D Printing Made Easy"
+  },
+  {
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "branch": "main",
+    "language": "Go",
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+  },
+  {
+    "repo": "lightseekorg/tokenspeed",
+    "branch": "main",
+    "language": "Python",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine."
+  },
+  {
+    "repo": "aiming-lab/AutoHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+  },
+  {
+    "repo": "kerlos/pordee",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
+  },
+  {
+    "repo": "Ajai53200/DeepSeek-V4-Pro-App",
+    "branch": "main",
+    "language": "C++",
+    "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license."
+  },
+  {
+    "repo": "nickvasilescu/hermes-desktop-os1",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts"
+  },
+  {
+    "repo": "hjanuschka/pi-multi-pass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
+  },
+  {
+    "repo": "dagger/dagger",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+  },
+  {
+    "repo": "youssofal/MTPLX",
+    "branch": "main",
+    "language": "Python",
+    "description": "Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-native, OpenAI API/Anthropic-compatible serving, no external drafter."
   }
 ]
