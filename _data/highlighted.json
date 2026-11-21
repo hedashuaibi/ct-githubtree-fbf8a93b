@@ -1,8 +1,8 @@
 {
-  "repo": "niyouqianma/workbuddy2api-hub",
+  "repo": "joeseesun/subcast",
   "branch": "main",
-  "language": "Python",
-  "description": "WorkBuddy2API-Hub - OpenAI-compatible local gateway",
-  "stars": 283,
-  "forks": 110
+  "language": "TypeScript",
+  "description": "海外播客与 YouTube 的双语字幕、精读和 AI 问答桌面 App | Bilingual subtitles, deep reads and AI Q&A for overseas podcasts and YouTube",
+  "stars": 192,
+  "forks": 33
 }

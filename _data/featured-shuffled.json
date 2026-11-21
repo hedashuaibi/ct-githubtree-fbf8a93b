@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yuhuangerdi/InduSecAgent",
+    "repo": "loyal-studio/Honami-Animation-System",
     "branch": "main",
-    "language": "Vue",
-    "description": ""
+    "language": "C#",
+    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
   },
   {
-    "repo": "grafana/loki",
-    "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
-  },
-  {
-    "repo": "FinPyromancerLog/xcode-claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "saif0200/notchprompt",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "LocoreMind/LocoTrainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "MS-SWIFT domain expert agent for codebase analysis and report generation"
-  },
-  {
-    "repo": "Fenng/Tech-Doc-Style-Chinese",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
-  },
-  {
-    "repo": "plausible/analytics",
+    "repo": "minix3/minix",
     "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+    "language": "Other",
+    "description": "Redirection to the real github page only."
   },
   {
-    "repo": "jd-opensource/JoyAI-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
-  },
-  {
-    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
-  },
-  {
-    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
-  },
-  {
-    "repo": "XBuilderLAB/cheat-on-content",
-    "branch": "main",
-    "language": "Python",
-    "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month."
-  },
-  {
-    "repo": "Juwluuu/Subnautica-2-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
-  },
-  {
-    "repo": "whwh1233/StepFlow-Duck",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "cpa+duck结合体"
-  },
-  {
-    "repo": "makermate/clarvis-ai",
+    "repo": "behzadea12/Paqet-Tunnel-Manager",
     "branch": "main",
     "language": "Shell",
-    "description": "Clarvis - 3D Printing Made Easy"
+    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
   },
   {
-    "repo": "bazelbuild/bazel",
+    "repo": "go-micro/go-micro",
     "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "etcd-io/etcd",
-    "branch": "main",
     "language": "Go",
-    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+    "description": "A Go microservices framework"
   },
   {
-    "repo": "lightseekorg/tokenspeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "TokenSpeed is a speed-of-light LLM inference engine."
+    "repo": "TauriccResearch/Solana-Trading-Bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Solana Sniper Bot Raydium Sniper Bot Pumpfun Sniper Bot Bonkfun Sniper Bot Meteora Sniper Bot"
   },
   {
-    "repo": "aiming-lab/AutoHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+    "repo": "tmux/tmux",
+    "branch": "master",
+    "language": "C",
+    "description": "tmux source code"
   },
   {
-    "repo": "kerlos/pordee",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ"
-  },
-  {
-    "repo": "Ajai53200/DeepSeek-V4-Pro-App",
+    "repo": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
     "branch": "main",
     "language": "C++",
-    "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license."
+    "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing"
   },
   {
-    "repo": "nickvasilescu/hermes-desktop-os1",
+    "repo": "loop-uh/yourvpndead",
     "branch": "main",
-    "language": "Swift",
-    "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts"
+    "language": "Kotlin",
+    "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость"
   },
   {
-    "repo": "hjanuschka/pi-multi-pass",
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "lillian039/ELF",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "lauris/awesome-scala",
+    "branch": "master",
+    "language": "Python",
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
+  },
+  {
+    "repo": "LucidAkshay/kavach",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
+    "description": "Tactical AI Workspace Monitor & EDR"
   },
   {
-    "repo": "dagger/dagger",
+    "repo": "GAwesome-Bot/polymarket-trading-bot-v2",
     "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    "language": "JavaScript",
+    "description": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot"
+  },
+  {
+    "repo": "jasonkneen/tiny-world-builder",
+    "branch": "main",
+    "language": "HTML",
+    "description": "tiny-world-builder"
   },
   {
     "repo": "youssofal/MTPLX",
     "branch": "main",
     "language": "Python",
     "description": "Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-native, OpenAI API/Anthropic-compatible serving, no external drafter."
+  },
+  {
+    "repo": "gainubi/note-slides",
+    "branch": "main",
+    "language": "HTML",
+    "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。"
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-trade-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "distribution/distribution",
+    "branch": "main",
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content"
+  },
+  {
+    "repo": "OWASP/CheatSheetSeries",
+    "branch": "master",
+    "language": "Python",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+  },
+  {
+    "repo": "tqdm/tqdm",
+    "branch": "master",
+    "language": "Python",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
+  },
+  {
+    "repo": "mockk/mockk",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "Kappaemme-git/codex-startup-pressure-test-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "fspecii/HeartMuLa-Studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "repo": "Robbyant/lingbot-map",
+    "branch": "main",
+    "language": "Python",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
   }
 ]
