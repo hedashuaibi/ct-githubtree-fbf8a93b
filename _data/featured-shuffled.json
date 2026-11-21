@@ -1,146 +1,146 @@
 [
   {
-    "repo": "loyal-studio/Honami-Animation-System",
+    "repo": "CylinderFoal/MecchaUltraCheat",
     "branch": "main",
-    "language": "C#",
-    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
+    "language": "Python",
+    "description": "🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
   },
   {
-    "repo": "minix3/minix",
+    "repo": "numpy/numpy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The fundamental package for scientific computing with Python."
+  },
+  {
+    "repo": "fjh1997/Linux.do-Accelerator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
+  },
+  {
+    "repo": "pugjs/pug",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Pug – robust, elegant, feature rich template engine for Node.js"
+  },
+  {
+    "repo": "Stability-AI/generative-models",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generative Models by Stability AI"
+  },
+  {
+    "repo": "SKL2910/limitless-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
+  },
+  {
+    "repo": "Simbastack-hq/framedex",
+    "branch": "main",
+    "language": "Python",
+    "description": "Framedex — a queryable knowledge base for your video archive"
+  },
+  {
+    "repo": "marshmallow-code/apispec",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification).."
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "branch": "master",
+    "language": "Python",
+    "description": "An orchestration platform for the development, production, and observation of data assets."
+  },
+  {
+    "repo": "LeoYeAI/teammate-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Distill a teammate into an AI Skill. Auto-collect Slack/Teams/GitHub data, generate Work Skill + 5-layer Persona, with continuous evolution. Powered by MyClaw.ai. Works with Claude Code, OpenClaw, and any AgentSkills-compatible agent."
+  },
+  {
+    "repo": "Sayhi-bzb/AIEden",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "an LLM-native world and civilization"
+  },
+  {
+    "repo": "Unclecheng-li/poc-lab",
+    "branch": "main",
+    "language": "C",
+    "description": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more."
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "branch": "main",
+    "language": "Go",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+  },
+  {
+    "repo": "avaco-cloud/Vercel-XHTTP",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
+  },
+  {
+    "repo": "0Voice/Expert_Readed_Books",
     "branch": "master",
     "language": "Other",
-    "description": "Redirection to the real github page only."
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
   },
   {
-    "repo": "behzadea12/Paqet-Tunnel-Manager",
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "shorwood/slopc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A proc macro that uses an hallucination machine to write your function bodies at compile time."
+  },
+  {
+    "repo": "Supervisor/supervisor",
+    "branch": "master",
+    "language": "Python",
+    "description": "Supervisor process control system for Unix (supervisord)"
+  },
+  {
+    "repo": "Satomoit/LCE-Emerald-Launcher",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "lce emerald launcher minecraft legacy console edition pc download custom skins mods tauri neolegacy revelations 360 revived multiplayer windows 11"
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+  },
+  {
+    "repo": "maybe-finance/maybe",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
+  },
+  {
+    "repo": "Qwilxy/paralives-release",
+    "branch": "main",
+    "language": "C#",
+    "description": "paralives release date early access steam download pc windows 11 gameplay trailer paramaker life simulation sims alternative free updates system requirements character creator build mode"
+  },
+  {
+    "repo": "elkimek/honcho-self-hosted",
     "branch": "main",
     "language": "Shell",
-    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
+    "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes"
   },
   {
-    "repo": "go-micro/go-micro",
-    "branch": "master",
-    "language": "Go",
-    "description": "A Go microservices framework"
-  },
-  {
-    "repo": "TauriccResearch/Solana-Trading-Bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Solana Sniper Bot Raydium Sniper Bot Pumpfun Sniper Bot Bonkfun Sniper Bot Meteora Sniper Bot"
-  },
-  {
-    "repo": "tmux/tmux",
-    "branch": "master",
-    "language": "C",
-    "description": "tmux source code"
-  },
-  {
-    "repo": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing"
-  },
-  {
-    "repo": "loop-uh/yourvpndead",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость"
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-python",
+    "repo": "HarnessLab/claw-code-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Polymarket python copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "lillian039/ELF",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lauris/awesome-scala",
-    "branch": "master",
-    "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
-  },
-  {
-    "repo": "LucidAkshay/kavach",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tactical AI Workspace Monitor & EDR"
-  },
-  {
-    "repo": "GAwesome-Bot/polymarket-trading-bot-v2",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot"
-  },
-  {
-    "repo": "jasonkneen/tiny-world-builder",
-    "branch": "main",
-    "language": "HTML",
-    "description": "tiny-world-builder"
-  },
-  {
-    "repo": "youssofal/MTPLX",
-    "branch": "main",
-    "language": "Python",
-    "description": "Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-native, OpenAI API/Anthropic-compatible serving, no external drafter."
-  },
-  {
-    "repo": "gainubi/note-slides",
-    "branch": "main",
-    "language": "HTML",
-    "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。"
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-trade-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "distribution/distribution",
-    "branch": "main",
-    "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
-  },
-  {
-    "repo": "OWASP/CheatSheetSeries",
-    "branch": "master",
-    "language": "Python",
-    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
-  },
-  {
-    "repo": "tqdm/tqdm",
-    "branch": "master",
-    "language": "Python",
-    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
-  },
-  {
-    "repo": "mockk/mockk",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
-  },
-  {
-    "repo": "Kappaemme-git/codex-startup-pressure-test-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "fspecii/HeartMuLa-Studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
-  },
-  {
-    "repo": "Robbyant/lingbot-map",
-    "branch": "main",
-    "language": "Python",
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
   }
 ]

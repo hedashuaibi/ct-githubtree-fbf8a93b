@@ -1,8 +1,8 @@
 {
-  "repo": "joeseesun/subcast",
+  "repo": "xyc999-ai/go-bot",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "海外播客与 YouTube 的双语字幕、精读和 AI 问答桌面 App | Bilingual subtitles, deep reads and AI Q&A for overseas podcasts and YouTube",
-  "stars": 192,
-  "forks": 33
+  "language": "Go",
+  "description": "Go implementation of DeepSeek Harness and self-hosted personal agent.",
+  "stars": 203,
+  "forks": 1
 }
