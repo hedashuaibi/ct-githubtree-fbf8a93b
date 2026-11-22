@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tcchen2026/VibeOffice",
+    "repo": "baairon/torlink",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
+  },
+  {
+    "repo": "lbq110/weread-exporter",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
+  },
+  {
+    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
+  },
+  {
+    "repo": "hzm0321/real-time-fund",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer."
+    "description": "基金实时估值查看"
   },
   {
-    "repo": "tensorflow/probability",
+    "repo": "EvilFreelancer/openapi-to-cli",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+    "language": "TypeScript",
+    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
   },
   {
-    "repo": "GreatScott/enveil",
+    "repo": "shanselman/PeekDesktop",
     "branch": "main",
-    "language": "Rust",
-    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+    "language": "C#",
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
   },
   {
-    "repo": "deepseek-ai/deepseek-coder",
+    "repo": "garnix-io/garnix-ci",
     "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
+    "language": "Haskell",
+    "description": "CI and hosting for nix-based, flakified github repos"
   },
   {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "lance0/xfr",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
-  },
-  {
-    "repo": "nushell/nushell",
+    "repo": "burpheart/cursor-tap",
     "branch": "main",
-    "language": "Rust",
-    "description": "A new type of shell"
+    "language": "Go",
+    "description": "Cursor gRPC 通信流量分析工具"
   },
   {
-    "repo": "v2fly/v2ray-core",
+    "repo": "tilt-dev/tilt",
     "branch": "master",
     "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
   },
   {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "miaoxworld/ClawdBotInstaller",
+    "repo": "foyzulkarim/claude-lens",
     "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "zsh-users/zsh-syntax-highlighting",
+    "branch": "master",
     "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "description": "Fish shell like syntax highlighting for Zsh."
   },
   {
-    "repo": "cloudcommunity/Free-Certifications",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
-  },
-  {
-    "repo": "test-time-training/ttt-video-dit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
-  },
-  {
-    "repo": "firebase/firebase-ios-sdk",
-    "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
-  },
-  {
-    "repo": "dazzyddos/ClickOnceBlobber",
+    "repo": "Lakr233/vphone-cli",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "signalapp/Signal-iOS",
-    "branch": "main",
+    "repo": "mikewang817/MacBar",
+    "branch": "master",
     "language": "Swift",
-    "description": "A private messenger for iOS."
+    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
   },
   {
-    "repo": "SawyerHood/gitclaw",
+    "repo": "NOBB2333/ClipCascade_go",
+    "branch": "main",
+    "language": "Go",
+    "description": "ClipCascade go语言重制版"
+  },
+  {
+    "repo": "gatelynch/llm-knowledge-base",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
+    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
   },
   {
-    "repo": "pulumi/pulumi",
+    "repo": "noonghunna/club-3090",
     "branch": "master",
-    "language": "Go",
-    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
+    "language": "Shell",
+    "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
   },
   {
-    "repo": "tree-sitter/tree-sitter",
-    "branch": "master",
+    "repo": "Heartflabrace/Doubao-Claw",
+    "branch": "main",
     "language": "Rust",
-    "description": "An incremental parsing system for programming tools"
+    "description": ""
   },
   {
-    "repo": "RevylAI/greenlight",
+    "repo": "browser-use/video-use",
     "branch": "main",
-    "language": "Go",
-    "description": "Pre-submission compliance scanner for the Apple App Store"
-  },
-  {
-    "repo": "hashicorp/packer",
-    "branch": "main",
-    "language": "Go",
-    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
-  },
-  {
-    "repo": "Textualize/rich",
-    "branch": "master",
     "language": "Python",
-    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+    "description": ""
   },
   {
-    "repo": "quic-go/quic-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "A production-ready QUIC implementation in pure Go"
-  },
-  {
-    "repo": "louisho5/picobot",
+    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
-    "language": "Go",
-    "description": "A lightweight self-hosted bot in a single binary, written in Go."
+    "language": "TypeScript",
+    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
   },
   {
-    "repo": "libgdx/libgdx",
-    "branch": "master",
-    "language": "Java",
-    "description": "Desktop/Android/HTML5/iOS Java game development framework"
+    "repo": "MasterAlanLab/Register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "joeseesun/qiaomu-blog-opensource",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "therealaleph/MasterHttpRelayVPN-RUST",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
   }
 ]
