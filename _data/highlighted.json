@@ -1,8 +1,8 @@
 {
-  "repo": "INK-Q/agy-fast",
+  "repo": "nikita-p-ops96d4/samsung-android-mtp-samfw-tool-v5-mtp-portable-x64",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-  "stars": 250,
-  "forks": 21
+  "language": "Jupyter Notebook",
+  "description": "Samsung & Android mtp-csc Toolkit SamFw Tool v5.2 MTP mtp-csc, Knox & CSC Changer (OneUI 6/7): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+  "stars": 320,
+  "forks": 52
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "B3hnamR/XHTTPRelayECO",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Low-overhead hardened XHTTP relay on Vercel Node runtime"
-  },
-  {
-    "repo": "freestylefly/WeChatBridge",
-    "branch": "main",
-    "language": "Swift",
-    "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具"
-  },
-  {
-    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
-  },
-  {
-    "repo": "skycryptsite/SkyCrypt",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
-  },
-  {
-    "repo": "honojs/hono",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web framework built on Web Standards"
-  },
-  {
-    "repo": "dropwizard/dropwizard",
-    "branch": "master",
-    "language": "Java",
-    "description": "A damn simple library for building production-ready RESTful web services."
-  },
-  {
-    "repo": "thcp/stemdeck",
+    "repo": "tcchen2026/VibeOffice",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface"
+    "description": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer."
   },
   {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "amirmushichge/tribeV2_ViralAnalyser",
+    "repo": "tensorflow/probability",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
   },
   {
-    "repo": "golang/mock",
-    "branch": "master",
-    "language": "Go",
-    "description": "GoMock is a mocking framework for the Go programming language."
-  },
-  {
-    "repo": "lukehinds/nono",
+    "repo": "GreatScott/enveil",
     "branch": "main",
     "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
+    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
   },
   {
-    "repo": "virgiliojr94/book-to-skill",
-    "branch": "master",
+    "repo": "deepseek-ai/deepseek-coder",
+    "branch": "main",
     "language": "Python",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    "description": "DeepSeek Coder: Let the Code Write Itself"
   },
   {
-    "repo": "tidwall/btype",
-    "branch": "main",
-    "language": "Go",
-    "description": "B-tree based collection types for Go"
-  },
-  {
-    "repo": "iad1tya/EchoTube",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
-  },
-  {
-    "repo": "evanklem/evanflow",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
-  },
-  {
-    "repo": "tantara/openbrief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Kianmhz/GooseRelayVPN",
-    "branch": "main",
-    "language": "Go",
-    "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted)."
-  },
-  {
-    "repo": "solidjs-community/solid-primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
-  },
-  {
-    "repo": "CamTheBun/KMS-Auto-Tool",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
-  },
-  {
-    "repo": "stackpathLab/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot polymarket whale copy trading bot"
-  },
-  {
-    "repo": "OffchainLabs/arbitrum",
+    "repo": "ziadoz/awesome-php",
     "branch": "master",
     "language": "Other",
-    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   },
   {
-    "repo": "wireshark/wireshark",
+    "repo": "lance0/xfr",
     "branch": "master",
-    "language": "C",
-    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead."
+    "language": "Rust",
+    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
   },
   {
-    "repo": "nevertoday/zhongguo-traditional-colors",
+    "repo": "nushell/nushell",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
+    "language": "Rust",
+    "description": "A new type of shell"
   },
   {
-    "repo": "SharifiZarchi/janfadaa",
+    "repo": "v2fly/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "golang/protobuf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
+  },
+  {
+    "repo": "miaoxworld/ClawdBotInstaller",
     "branch": "main",
-    "language": "HTML",
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
+  },
+  {
+    "repo": "cloudcommunity/Free-Certifications",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
+  },
+  {
+    "repo": "test-time-training/ttt-video-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "dazzyddos/ClickOnceBlobber",
+    "branch": "main",
+    "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "signalapp/Signal-iOS",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A private messenger for iOS."
+  },
+  {
+    "repo": "SawyerHood/gitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw but it runs entirely on github actions"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "branch": "master",
+    "language": "Go",
+    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An incremental parsing system for programming tools"
+  },
+  {
+    "repo": "RevylAI/greenlight",
+    "branch": "main",
+    "language": "Go",
+    "description": "Pre-submission compliance scanner for the Apple App Store"
+  },
+  {
+    "repo": "hashicorp/packer",
+    "branch": "main",
+    "language": "Go",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+  },
+  {
+    "repo": "Textualize/rich",
+    "branch": "master",
+    "language": "Python",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "A production-ready QUIC implementation in pure Go"
+  },
+  {
+    "repo": "louisho5/picobot",
+    "branch": "main",
+    "language": "Go",
+    "description": "A lightweight self-hosted bot in a single binary, written in Go."
+  },
+  {
+    "repo": "libgdx/libgdx",
+    "branch": "master",
+    "language": "Java",
+    "description": "Desktop/Android/HTML5/iOS Java game development framework"
   }
 ]
