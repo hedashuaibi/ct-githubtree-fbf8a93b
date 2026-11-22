@@ -1,146 +1,146 @@
 [
   {
-    "repo": "baairon/torlink",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
-  },
-  {
-    "repo": "lbq110/weread-exporter",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
-  },
-  {
-    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
-  },
-  {
-    "repo": "RightNow-AI/openfang",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Agent Operating System"
-  },
-  {
-    "repo": "hzm0321/real-time-fund",
+    "repo": "Kappaemme-git/codex-startup-pressure-test-skill",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基金实时估值查看"
+    "description": ""
   },
   {
-    "repo": "EvilFreelancer/openapi-to-cli",
+    "repo": "vercel-labs/deepsec",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+    "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents"
   },
   {
-    "repo": "shanselman/PeekDesktop",
+    "repo": "verityminecraft/Verity-JE-BE-Mod-Minecraft",
+    "branch": "main",
+    "language": "Java",
+    "description": "Verity Minecraft Mod - Java & Bedrock Edition. ThatMob's horror entity. AI dialogue, adaptive behavior, psychological horror. 8.6M+ downloads. Minecraft 1.21.x, Bedrock 26.40 free 2026."
+  },
+  {
+    "repo": "Spade-sec/First",
+    "branch": "main",
+    "language": "Python",
+    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
+  },
+  {
+    "repo": "bumptech/glide",
+    "branch": "master",
+    "language": "Java",
+    "description": "An image loading and caching library for Android focused on smooth scrolling"
+  },
+  {
+    "repo": "Lab-Overflow/prompt-optimizer-lite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "setube/stackprism",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。"
+  },
+  {
+    "repo": "LanRhyme/MicYou",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
+  },
+  {
+    "repo": "apechurch/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+  },
+  {
+    "repo": "dotnet/runtime",
     "branch": "main",
     "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
   },
   {
-    "repo": "garnix-io/garnix-ci",
+    "repo": "badlogic/jot",
     "branch": "main",
-    "language": "Haskell",
-    "description": "CI and hosting for nix-based, flakified github repos"
+    "language": "JavaScript",
+    "description": "Minimal self-hosted markdown editor with inline comment threads"
   },
   {
-    "repo": "burpheart/cursor-tap",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cursor gRPC 通信流量分析工具"
-  },
-  {
-    "repo": "tilt-dev/tilt",
+    "repo": "SUZ-tsinghua/smp",
     "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
-  },
-  {
-    "repo": "foyzulkarim/claude-lens",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "zsh-users/zsh-syntax-highlighting",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish shell like syntax highlighting for Zsh."
-  },
-  {
-    "repo": "Lakr233/vphone-cli",
-    "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "mikewang817/MacBar",
+    "repo": "infraform/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "teamchong/turboquant-wasm",
+    "branch": "main",
+    "language": "Zig",
+    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
+  },
+  {
+    "repo": "ProjectPhysX/hw-smi",
     "branch": "master",
+    "language": "C++",
+    "description": "A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization."
+  },
+  {
+    "repo": "zkSync-Community-Hub/zksync-developers",
+    "branch": "main",
+    "language": "Other",
+    "description": "Discussions and Support for the ZKsync Developer Community."
+  },
+  {
+    "repo": "rancher/rancher",
+    "branch": "master",
+    "language": "Go",
+    "description": "Complete container management platform"
+  },
+  {
+    "repo": "kunchenguid/autopreso",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself."
+  },
+  {
+    "repo": "xataio/xata",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+  },
+  {
+    "repo": "jackc/pgx",
+    "branch": "master",
+    "language": "Go",
+    "description": "PostgreSQL driver and toolkit for Go"
+  },
+  {
+    "repo": "Junyi42/LoGeR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "repo": "element-hq/element-web",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A glossy Matrix collaboration client for the web."
+  },
+  {
+    "repo": "aurorascharff/ClickLight",
+    "branch": "main",
     "language": "Swift",
-    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+    "description": "A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility."
   },
   {
-    "repo": "NOBB2333/ClipCascade_go",
+    "repo": "mgks/GitHubTree",
     "branch": "main",
-    "language": "Go",
-    "description": "ClipCascade go语言重制版"
-  },
-  {
-    "repo": "gatelynch/llm-knowledge-base",
-    "branch": "main",
-    "language": "Python",
-    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
-  },
-  {
-    "repo": "noonghunna/club-3090",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
-  },
-  {
-    "repo": "Heartflabrace/Doubao-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "browser-use/video-use",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
-  },
-  {
-    "repo": "MasterAlanLab/Register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "joeseesun/qiaomu-blog-opensource",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "therealaleph/MasterHttpRelayVPN-RUST",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   }
 ]
