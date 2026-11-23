@@ -1,8 +1,8 @@
 {
-  "repo": "EL4CTEO/fast-anything",
+  "repo": "nkjDSLcvanv/antigravity-codex-theme",
   "branch": "main",
-  "language": "Rust",
-  "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-  "stars": 2152,
-  "forks": 136
+  "language": "JavaScript",
+  "description": "Google Antigravity 桌面端增强插件：Codex 昼夜双主题、原生设置页与一键热更新、1,900+ 中文汉化、四态状态灯与实时用量监控（含旁路提问 / SSH 远端）、可选 Tab 下一句预测。不改安装包，模块化按需安装。",
+  "stars": 467,
+  "forks": 23
 }
