@@ -1,8 +1,8 @@
 {
-  "repo": "kyle-parkeng05b3/subnautica-2-ue5-console-bridge-biome-portable-x64",
+  "repo": "EL4CTEO/fast-anything",
   "branch": "main",
-  "language": "Jupyter Notebook",
-  "description": "Subnautica 2 UE5 Console bridge, Biome Map & Resource Scanner: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-  "stars": 310,
-  "forks": 40
+  "language": "Rust",
+  "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+  "stars": 2152,
+  "forks": 136
 }
