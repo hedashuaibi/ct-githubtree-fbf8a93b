@@ -1,8 +1,8 @@
 {
-  "repo": "os6/nospeaker",
+  "repo": "varunbumra09-bot/ph-downer",
   "branch": "main",
-  "language": "Swift",
-  "description": "make your macbook's trackpad talk using its haptic motor",
-  "stars": 1493,
-  "forks": 73
+  "language": "HTML",
+  "description": "Ph Downer: Desktop Software for Streamlined Ph Reduction and Precision Adjustment",
+  "stars": 336,
+  "forks": 0
 }
