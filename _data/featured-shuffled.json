@@ -1,146 +1,146 @@
 [
   {
+    "repo": "JaxsonWang/cpa-plugin-oai-basispoints",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "DanOps-1/gpt-pp-team",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "repo": "needle-tools/md-browse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Markdown Browser – See the web like an AI does"
+  },
+  {
+    "repo": "herrbischoff/awesome-macos-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "OWASP/CheatSheetSeries",
+    "branch": "master",
+    "language": "Python",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+  },
+  {
+    "repo": "Fox-Fig/phoenix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
+  },
+  {
+    "repo": "rome/tools",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
+  },
+  {
     "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
     "branch": "master",
     "language": "Python",
     "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
   },
   {
-    "repo": "jayleaton/glm53-tensorfold-spark",
+    "repo": "nepfaff/scenesmith",
     "branch": "main",
     "language": "Python",
-    "description": "GLM-5.3-Flash (abliterated EXL3) on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8x faster decode than vLLM, 4x256k concurrent threads, byte-exact speculative decoding. Work in progress."
+    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
   },
   {
-    "repo": "PayalJakharRft/GitHub_Stars_Booster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boost GitHub repository stars, watches, and forks. Improve project visibility and attract contributors."
-  },
-  {
-    "repo": "shuaiplus/inkstone",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A self-hosted Markdown notebook that runs entirely on Cloudflare Workers."
-  },
-  {
-    "repo": "oliverb-io1902e8/agent-skills-collection",
-    "branch": "main",
-    "language": "Python",
-    "description": "Curated collection of modular agent skills for LLM-based agents"
-  },
-  {
-    "repo": "ComPDFKit/compdf-generation",
+    "repo": "Anduin2017/HowToCook",
     "branch": "master",
-    "language": "Vue",
-    "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease."
+    "language": "Dockerfile",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
   },
   {
-    "repo": "hassenbrahim/ZkMempool",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A simple ZkMempool system for consensus mechanism."
-  },
-  {
-    "repo": "KimGLee/Cambium",
-    "branch": "main",
-    "language": "Python",
-    "description": "Governance standard and reference toolset for LLM-maintained knowledge corpora"
-  },
-  {
-    "repo": "N4darae/anti-mage",
-    "branch": "main",
-    "language": "Go",
-    "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters."
-  },
-  {
-    "repo": "aws/context-ontology-accelerator",
-    "branch": "main",
-    "language": "Python",
-    "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
-  },
-  {
-    "repo": "kunchenguid/backpass",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "You don't write AGENTS.md. You train it with gradient descent."
-  },
-  {
-    "repo": "zhangzf1119/financial-intelligence-system",
-    "branch": "main",
+    "repo": "karatelabs/karate",
+    "branch": "master",
     "language": "Java",
-    "description": "financial-intelligence-system"
+    "description": "Test Automation Made Simple"
   },
   {
-    "repo": "kvvipa0028/NBShell_For_Ipad",
+    "repo": "nodemailer/nodemailer",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "vikasprogrammer/walkie",
     "branch": "main",
-    "language": "Swift",
-    "description": "Shell for ipad"
+    "language": "JavaScript",
+    "description": "P2P communication for AI agents. No server. No setup. Just talk."
   },
   {
-    "repo": "tobi/walgit",
+    "repo": "fermyon/spin",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly."
   },
   {
-    "repo": "TaiT-tt/tait-crt-interface-skill",
+    "repo": "30-seconds/30-seconds-of-code",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Coding articles to level up your development skills"
+  },
+  {
+    "repo": "distribution/distribution",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content"
   },
   {
-    "repo": "fzakaria/nixpkgs-multiverse",
+    "repo": "BuilderIO/qwik",
     "branch": "main",
-    "language": "Shell",
-    "description": "Any version of any nixpkgs package, from one flake input"
+    "language": "TypeScript",
+    "description": "Instant-loading web apps, without effort"
   },
   {
-    "repo": "xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+    "repo": "tnm/zclaw",
     "branch": "main",
     "language": "C",
-    "description": "A very very very very very very very long interrupt"
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "Merit-Systems/OpenInstinct",
+    "repo": "craigsc/cmux",
+    "branch": "main",
+    "language": "Shell",
+    "description": "cmux: tmux for Claude Code"
+  },
+  {
+    "repo": "Intrect-io/OpenSwarm",
     "branch": "main",
     "language": "TypeScript",
-    "description": "iMessage personal assistant + password vault"
+    "description": "OpenSwarm, CLI Code Agent Orchstrator"
   },
   {
-    "repo": "Leutenegger/book-to-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
-  },
-  {
-    "repo": "techcomet122583/Polymarket-Telegram-Bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "localai-org/kimodo.cpp",
-    "branch": "main",
-    "language": "C++",
-    "description": "NVIDIA Kimodo ported to C++/GGML"
-  },
-  {
-    "repo": "1lck/Lithe-IDEA",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, native macOS IDE inspired by IntelliJ IDEA."
-  },
-  {
-    "repo": "PauliusOS/pallet-town-3d",
+    "repo": "reduxjs/redux-toolkit",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Pallet Town — a first-person, modern 3D cartoon reimagining of the opening of Pokemon LeafGreen, built in Three.js with zero binary art assets"
-  },
-  {
-    "repo": "coding-parrot/pothole-reporter",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI pothole reporter for Bengaluru: on-device Android app that detects potholes, finds the responsible corporation officer and road contractor from public records, and drafts complaint emails you review and send."
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
   }
 ]
