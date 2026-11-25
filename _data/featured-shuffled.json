@@ -1,69 +1,93 @@
 [
   {
-    "repo": "LadybirdBrowser/ladybird",
-    "branch": "master",
-    "language": "C++",
-    "description": "Truly independent web browser"
-  },
-  {
-    "repo": "ahmadawais/chartli",
+    "repo": "marclou/mailcheap",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
+    "language": "JavaScript",
+    "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails."
   },
   {
-    "repo": "Eronred/aso-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
-  },
-  {
-    "repo": "konbakuyomu/smartsearch",
+    "repo": "sebastianvkl/pizero-openclaw",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "dongsheng123132/u-claw",
+    "repo": "pytorch/vision",
+    "branch": "main",
+    "language": "Python",
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
+  },
+  {
+    "repo": "mage-ai/mage-ai",
+    "branch": "master",
+    "language": "Python",
+    "description": "🧙 Build, run, and manage data pipelines for integrating and transforming data."
+  },
+  {
+    "repo": "Qwilxy/paralives-release",
+    "branch": "main",
+    "language": "C#",
+    "description": "paralives release date early access steam download pc windows 11 gameplay trailer paramaker life simulation sims alternative free updates system requirements character creator build mode"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "branch": "main",
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
+  },
+  {
+    "repo": "anomalyco/rift",
+    "branch": "dev",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "Lakr233/vphone-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "hasura/graphql-engine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
+  },
+  {
+    "repo": "JFGAtlas/aethergate-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "veryyoldman/undress-ai-image-video-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI tool for generating uncensored images and videos"
+  },
+  {
+    "repo": "mikewang817/MacBar",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+  },
+  {
+    "repo": "v2ray/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update"
+  },
+  {
+    "repo": "alchaincyf/codex-orange-book",
     "branch": "main",
     "language": "HTML",
-    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
-  },
-  {
-    "repo": "blendi-remade/dioramas",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites."
-  },
-  {
-    "repo": "Enriquefft/openclaw-kapso-whatsapp",
-    "branch": "main",
-    "language": "Go",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
-  },
-  {
-    "repo": "google/jax",
-    "branch": "main",
-    "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
-  },
-  {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
-  },
-  {
-    "repo": "yanhua1010/zero-to-ai-fullstack",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
-  },
-  {
-    "repo": "robertorobotics/Nextis-AIRA-3D",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration."
+    "description": "OpenAI Codex: The Complete Guide · 橙皮书系列 · GPT-5.5 时代的 AI 编程实战手册"
   },
   {
     "repo": "oneclaw/oneclaw",
@@ -72,75 +96,51 @@
     "description": "OneClaw"
   },
   {
-    "repo": "skydoves/android-skills-mcp",
+    "repo": "BarneyD66/open-warehouse-system",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An MCP server and CLI packager for official Android skills."
+    "description": "Chinese-first open-source WMS starter for cross-border warehouse, fulfillment, inventory, billing, returns, and 3PL operations."
   },
   {
-    "repo": "RuizeLyu/paper-dl",
+    "repo": "gerardapennant96075336582/CapC-Pro-2",
+    "branch": "main",
+    "language": "C++",
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
+  },
+  {
+    "repo": "ip-arch/NESLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "Educational materials for Embedded systems with NES"
+  },
+  {
+    "repo": "zimingttkx/QuantumFlow",
     "branch": "main",
     "language": "Python",
-    "description": "Download arxiv PDFs from PaSa search results for local AI-powered literature analysis."
+    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
   },
   {
-    "repo": "clap-rs/clap",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
-  },
-  {
-    "repo": "ochyai/open-japan-politech-platform",
+    "repo": "bunnyos/base-agent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
+    "description": "The first open-source @base agent."
   },
   {
-    "repo": "inclusionAI/cuLA",
+    "repo": "0xMH/fichero-printer",
     "branch": "main",
-    "language": "Python",
-    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
+    "language": "HTML",
+    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
   },
   {
-    "repo": "cnlimiter/codex-manager-v3",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "marswaveai/ColaMD",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Agent Native Markdown Editor."
-  },
-  {
-    "repo": "jaegertracing/jaeger",
+    "repo": "mosaxiv/picoclaw",
     "branch": "main",
     "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
   },
   {
-    "repo": "WeaveMindAI/weft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A programming language for AI systems"
-  },
-  {
-    "repo": "ericboy0224/learn-docker-and-k8s",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
-  },
-  {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "GainSec/AutoProber",
+    "repo": "symbolica-ai/arcgentica",
     "branch": "main",
     "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
   }
 ]
