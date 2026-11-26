@@ -1,8 +1,8 @@
 {
-  "repo": "cyb3rl00m/prune-debloater",
+  "repo": "avatarmanz/VIctory-7900XTX",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "An opensource tool for Android devices to debloat and optimize them. Enhancing speed and privacy.",
-  "stars": 405,
-  "forks": 13
+  "language": "Rust",
+  "description": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emulating: renderer patches + ahead-of-time shaders, RX 7900 XTX first. No game files.",
+  "stars": 1700,
+  "forks": 528
 }
