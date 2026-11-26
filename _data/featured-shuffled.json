@@ -1,146 +1,146 @@
 [
   {
-    "repo": "animetanver-commits/fabric-unified-data-blueprint",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Microsoft Fabric Unified Data Foundation with Databricks & Purview 2026"
+    "repo": "PaddlePaddle/PaddleSpeech",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
   },
   {
-    "repo": "vignesh07/babyshark",
+    "repo": "patterniha/MITM-DomainFronting",
     "branch": "main",
-    "language": "Rust",
-    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+    "language": "Batchfile",
+    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
   },
   {
-    "repo": "Tencent/cherry-markdown",
+    "repo": "stevejiang0509/ex3301-t0-root-ssh-research",
     "branch": "main",
     "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
+    "description": "Sanitized EX3301-T0 7.2C0 root SSH privilege-escalation case study and offline demo"
   },
   {
-    "repo": "redis/redis",
-    "branch": "unstable",
+    "repo": "ObesidianQuant/polymarket-trade-engine",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
+  },
+  {
+    "repo": "ltyzen/KMSAutoTool",
+    "branch": "main",
+    "language": "C++",
+    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool."
+  },
+  {
+    "repo": "nextui-org/nextui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+  },
+  {
+    "repo": "stretchr/testify",
+    "branch": "master",
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+  },
+  {
+    "repo": "L42ARO/Mercury-Transforming-Drone",
+    "branch": "main",
+    "language": "Python",
+    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+  },
+  {
+    "repo": "bleuropa/loomkin",
+    "branch": "main",
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
+  },
+  {
+    "repo": "maile456/qq-farm-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+  },
+  {
+    "repo": "uktrash/LSFG-Desktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
+  },
+  {
+    "repo": "sinanata/unity-ui-document-design-system",
+    "branch": "main",
+    "language": "C#",
+    "description": "A drop-in design system for Unity 6 UI Toolkit (UIDocument + UXML + USS). Tokens, components, icons, mobile responsiveness, and a runtime helper — all themed dark, all keyboard-and-touch-ready, all editable from one stylesheet."
+  },
+  {
+    "repo": "Unclecheng-li/poc-lab",
+    "branch": "main",
     "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+    "description": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more."
   },
   {
-    "repo": "pallets/flask",
+    "repo": "tiangolo/library-skills",
     "branch": "main",
     "language": "Python",
-    "description": "The Python micro framework for building web applications."
+    "description": "Library Agent Skills"
   },
   {
-    "repo": "typst/typst",
+    "repo": "LeoYeAI/openclaw-master-skills",
     "branch": "main",
+    "language": "Python",
+    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "jkudish/librarium",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
+  },
+  {
+    "repo": "xinyitang3/cfnb",
+    "branch": "main",
+    "language": "Python",
+    "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 + IP 纯净度过滤 四重机制，从海量公开节点中筛选出当前网络环境下速度最快、可用性最高、滥用评分最低的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。"
+  },
+  {
+    "repo": "jlabon2/PsUi",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "For building UIs in PowerShell without the misery."
+  },
+  {
+    "repo": "mattpocock/dictionary-of-ai-coding",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI coding jargon, explained in plain English."
+  },
+  {
+    "repo": "kadevin/ilab-gpt-conjure",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management."
+  },
+  {
+    "repo": "hardrave/NIGHTRUN",
+    "branch": "master",
     "language": "Rust",
-    "description": "A markup-based typesetting system that is powerful and easy to learn."
+    "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath."
   },
   {
-    "repo": "minio/minio",
-    "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
-  },
-  {
-    "repo": "web3/web3.js",
-    "branch": "1.x",
-    "language": "TypeScript",
-    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "mantinedev/mantine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A fully featured React components library"
-  },
-  {
-    "repo": "react-native-video/react-native-video",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A <Video /> component for react-native"
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "graphql/graphql-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
-  },
-  {
-    "repo": "google/jax",
+    "repo": "anthropics/financial-services-plugins",
     "branch": "main",
     "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+    "description": ""
   },
   {
-    "repo": "Lightning-AI/lightning",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
-  },
-  {
-    "repo": "surrealdb/surrealdb",
+    "repo": "Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP",
     "branch": "main",
-    "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "tensorflow/models",
-    "branch": "master",
     "language": "Python",
-    "description": "Models and examples built with TensorFlow"
+    "description": "Auto-survive and ESP trainer for 99 Nights in the Forest, the biggest horror breakout of 2026 with 400K+ concurrent players[reference:12]. Survive the forest with auto-heal, monster ESP, and unlimited resources."
   },
   {
-    "repo": "primefaces/primeng",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Most Complete Angular UI Component Library"
-  },
-  {
-    "repo": "hashicorp/terraform",
+    "repo": "QwenLM/Qwen-AgentWorld",
     "branch": "main",
-    "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "sindresorhus/awesome-nodejs",
-    "branch": "main",
-    "language": "Other",
-    "description": ":zap: Delightful Node.js packages and resources"
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "getsentry/sentry",
-    "branch": "master",
     "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
+    "description": "Qwen-AgentWorld: Language World Models for General Agents"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "abj-a11y/landr-plugin-bundle",
+  "repo": "cyb3rl00m/prune-debloater",
   "branch": "main",
-  "language": "HTML",
-  "description": "Landr Plugin Bundle: Complete Config, Opinionated and",
-  "stars": 336,
-  "forks": 0
+  "language": "Kotlin",
+  "description": "An opensource tool for Android devices to debloat and optimize them. Enhancing speed and privacy.",
+  "stars": 405,
+  "forks": 13
 }
