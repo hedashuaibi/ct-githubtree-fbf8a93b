@@ -1,8 +1,8 @@
 {
-  "repo": "boykopovar/AnyBox",
+  "repo": "stellarr-studio/kelvaroq",
   "branch": "main",
-  "language": "C++",
-  "description": "Compatibility layer for Xbox Series apps on Windows",
-  "stars": 381,
-  "forks": 16
+  "language": "Python",
+  "description": "Experimental Xbox Series compatibility runtime for Windows x64, built in Rust.",
+  "stars": 471,
+  "forks": 124
 }

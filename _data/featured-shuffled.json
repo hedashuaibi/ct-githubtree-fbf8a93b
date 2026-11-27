@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SakanaAI/AI-Scientist-v3",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery"
-  },
-  {
-    "repo": "honorharger/DNS_Flusher",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flush DNS cache, renew IP, and reset network settings. Fix DNS errors and improve internet connectivity."
-  },
-  {
-    "repo": "joeynyc/Grok-UI",
+    "repo": "Weebapp003/shadcn-fintech-template",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Local-first live command center for Grok Build — runtime, ACP control, session history, and Git changes."
+    "description": "shadcn fintech template which interactive cards, live ticker, spending heatmap, and more"
   },
   {
-    "repo": "ShenSeanChen/waku-agent",
+    "repo": "farzaa/clicky",
     "branch": "main",
-    "language": "Python",
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval"
-  },
-  {
-    "repo": "Zev55555/fragment-garden",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
+    "repo": "eonsystemspbc/fly-brain",
     "branch": "main",
     "language": "Python",
-    "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly."
+    "description": "Emulation of the Drosophila Fly brain: Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips"
   },
   {
-    "repo": "chokcoco/teach-yourself-skill",
+    "repo": "Wechat-ggGitHub/wechat-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
+  },
+  {
+    "repo": "KyrieCheungYep/ky-design-to-html-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Codex / Claude skill for recreating UI screenshots as HTML/CSS."
+  },
+  {
+    "repo": "mujocolab/mjviser",
+    "branch": "main",
+    "language": "Python",
+    "description": "Web-based MuJoCo viewer powered by Viser"
+  },
+  {
+    "repo": "Eronred/aso-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
+  },
+  {
+    "repo": "karanb192/claude-code-hooks",
     "branch": "main",
     "language": "JavaScript",
-    "description": "快速创建一门自学课程"
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
   },
   {
-    "repo": "V4bel/Januscape",
-    "branch": "main",
-    "language": "C",
+    "repo": "amirshaker000/netlify-relay",
+    "branch": "master",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "ostris/ComfyUI-Krea2-Ostris-Edit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit"
-  },
-  {
-    "repo": "colebemis/notion-workers",
+    "repo": "Tencent/tdesign-react",
     "branch": "main",
     "language": "TypeScript",
-    "description": "My Notion Workers"
+    "description": "A React UI components lib for TDesign."
   },
   {
-    "repo": "chrisberg-code1992s6/Meccha-Auto-Painter",
+    "repo": "influxdata/telegraf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "ultrmgns/claude-private",
+    "branch": "master",
+    "language": "Python",
+    "description": "Claude Code without any telemetry - the perfect cli to combo with CCR"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
+    "branch": "main",
+    "language": "Go",
+    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
+  },
+  {
+    "repo": "deepmind/dm-haiku",
+    "branch": "main",
+    "language": "Python",
+    "description": "JAX-based neural network library"
+  },
+  {
+    "repo": "lukiIabs/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
+  },
+  {
+    "repo": "reduxjs/redux-toolkit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
+  },
+  {
+    "repo": "yaassin12/DeepSeek-V4-Pro-App",
     "branch": "main",
     "language": "C++",
-    "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting."
+    "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface."
   },
   {
-    "repo": "tradecatlabs/shulihuazixuecongshu",
+    "repo": "Aliothmoon/MAA-Meow",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+  },
+  {
+    "repo": "AssemblyScript/assemblyscript",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "A TypeScript-like language for WebAssembly."
+  },
+  {
+    "repo": "anchore/syft",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems"
+  },
+  {
+    "repo": "titanwings/colleague-skill",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
   },
   {
-    "repo": "timethrough/xiaohei-Chrome",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "谷歌多开"
-  },
-  {
-    "repo": "xikhar/persona",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Bringing real-time voice to life."
-  },
-  {
-    "repo": "niawjunior/aipass-bridge",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "make aipass great again"
-  },
-  {
-    "repo": "gakiyukr/Codex_team_auto",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "rjsdl56/All_Star_Tower_Defense_-_Auto-Place___Auto-Farm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-place and auto-farm for All Star Tower Defense, the anime tower defense game with 7.8 billion visits[reference:26]. Automatically place and upgrade towers, farm gems, and beat every wave."
-  },
-  {
-    "repo": "lvy010/AI-wiki",
-    "branch": "main",
-    "language": "Rust",
-    "description": "AI Full Stack: Data, Algorithms, Models, Hardware, Architecture"
-  },
-  {
-    "repo": "fuad403273/ValidatorVault",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ValidatorVault is a cloud-based data validation engine that leverages capabilities for real-time data verification on a robust platform."
-  },
-  {
-    "repo": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultra edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
-  },
-  {
-    "repo": "lzh-phd/topic-feasibility-screener",
+    "repo": "ethereumjs/ethereumjs-monorepo",
     "branch": "master",
-    "language": "Python",
-    "description": "有大致的想法不知道怎么选题？只要给这个skills扔点数据，他能自动帮你延伸出多个idea，检索文献，并帮你跑初步回归验证实证可行性和理论可行性，最后打分排名，让你的科研第一步不再难堪！"
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
   },
   {
-    "repo": "kunchenguid/dotfiles",
+    "repo": "ericboy0224/learn-docker-and-k8s",
     "branch": "main",
-    "language": "Nix",
-    "description": "Kun's dotfiles for agentic engineering"
+    "language": "Shell",
+    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
   },
   {
-    "repo": "mrpulor-gh/nuphus-mcp",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)"
-  },
-  {
-    "repo": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
+    "repo": "thongthaibm/Lossless-Scaling-LSFG",
     "branch": "main",
-    "language": "Python",
-    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization."
+    "language": "C#",
+    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
   }
 ]
