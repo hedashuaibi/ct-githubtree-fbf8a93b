@@ -1,8 +1,8 @@
 {
-  "repo": "avatarmanz/VIctory-7900XTX",
+  "repo": "boykopovar/AnyBox",
   "branch": "main",
-  "language": "Rust",
-  "description": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emulating: renderer patches + ahead-of-time shaders, RX 7900 XTX first. No game files.",
-  "stars": 1700,
-  "forks": 528
+  "language": "C++",
+  "description": "Compatibility layer for Xbox Series apps on Windows",
+  "stars": 381,
+  "forks": 16
 }
