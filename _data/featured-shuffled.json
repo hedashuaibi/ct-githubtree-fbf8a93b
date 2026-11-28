@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Weebapp003/shadcn-fintech-template",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "shadcn fintech template which interactive cards, live ticker, spending heatmap, and more"
-  },
-  {
-    "repo": "farzaa/clicky",
-    "branch": "main",
+    "repo": "f/textream",
+    "branch": "master",
     "language": "Swift",
+    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+  },
+  {
+    "repo": "iliya-Developer/VortexL2",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "eonsystemspbc/fly-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "Emulation of the Drosophila Fly brain: Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips"
-  },
-  {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
-  },
-  {
-    "repo": "KyrieCheungYep/ky-design-to-html-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Codex / Claude skill for recreating UI screenshots as HTML/CSS."
-  },
-  {
-    "repo": "mujocolab/mjviser",
-    "branch": "main",
-    "language": "Python",
-    "description": "Web-based MuJoCo viewer powered by Viser"
-  },
-  {
-    "repo": "Eronred/aso-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
-  },
-  {
-    "repo": "karanb192/claude-code-hooks",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
-  },
-  {
-    "repo": "amirshaker000/netlify-relay",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "Tencent/tdesign-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "influxdata/telegraf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
-  },
-  {
-    "repo": "ultrmgns/claude-private",
-    "branch": "master",
-    "language": "Python",
-    "description": "Claude Code without any telemetry - the perfect cli to combo with CCR"
-  },
-  {
-    "repo": "kubevirt/kubevirt",
+    "repo": "vllm-project/aibrix",
     "branch": "main",
     "language": "Go",
-    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
+    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
   },
   {
-    "repo": "deepmind/dm-haiku",
-    "branch": "main",
-    "language": "Python",
-    "description": "JAX-based neural network library"
-  },
-  {
-    "repo": "lukiIabs/skills",
+    "repo": "ngrx/platform",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
+    "description": "Reactive State for Angular"
   },
   {
-    "repo": "reduxjs/redux-toolkit",
-    "branch": "master",
+    "repo": "vitejs/vite",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
+    "description": "Next generation frontend tooling. It's fast!"
   },
   {
-    "repo": "yaassin12/DeepSeek-V4-Pro-App",
+    "repo": "Eul45/omni-search",
     "branch": "main",
     "language": "C++",
-    "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface."
+    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
   },
   {
-    "repo": "Aliothmoon/MAA-Meow",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
-  },
-  {
-    "repo": "AssemblyScript/assemblyscript",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "A TypeScript-like language for WebAssembly."
-  },
-  {
-    "repo": "anchore/syft",
+    "repo": "NV404/gova",
     "branch": "main",
     "language": "Go",
-    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems"
+    "description": "declarative GUI framework for Go"
   },
   {
-    "repo": "titanwings/colleague-skill",
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "Rohit24567/HyperLiquid-Claw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
+  },
+  {
+    "repo": "dengxianghua888-ops/ecoalign-forge",
     "branch": "main",
     "language": "Python",
-    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
+    "description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对"
   },
   {
-    "repo": "ethereumjs/ethereumjs-monorepo",
+    "repo": "op7418/Claude-to-IM",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
+  },
+  {
+    "repo": "johnlindquist/pi-emphasis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant replies are easy to scan"
+  },
+  {
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
+  },
+  {
+    "repo": "PsiACE/skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A small, shared skill library by builders, for builders."
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Agent Operating System"
+  },
+  {
+    "repo": "afumu/openteam",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Chrome extension for orchestrating local AI-agent team workflows across web AI services."
+  },
+  {
+    "repo": "golang/go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go programming language"
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "branch": "master",
+    "language": "Java",
+    "description": "Jenkins automation server"
+  },
+  {
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "repo": "suyancc/openai-plus-vxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "bedriyan/medkit-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+  },
+  {
+    "repo": "react-native-device-info/react-native-device-info",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
+    "description": "Device Information for React Native iOS and Android"
   },
   {
-    "repo": "ericboy0224/learn-docker-and-k8s",
+    "repo": "FrankDavis236869/spyder-osint",
     "branch": "main",
-    "language": "Shell",
-    "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'."
-  },
-  {
-    "repo": "thongthaibm/Lossless-Scaling-LSFG",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam android: LSFG 3 frame generation steam, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. Crack free bypass, anime4k setup, steam version latest release, latency reduction"
+    "language": "Python",
+    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
   }
 ]

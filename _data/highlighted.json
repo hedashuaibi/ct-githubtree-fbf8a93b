@@ -1,8 +1,8 @@
 {
-  "repo": "stellarr-studio/kelvaroq",
+  "repo": "Moh4696/inkworks-skill",
   "branch": "main",
-  "language": "Python",
-  "description": "Experimental Xbox Series compatibility runtime for Windows x64, built in Rust.",
-  "stars": 471,
-  "forks": 124
+  "language": "JavaScript",
+  "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+  "stars": 537,
+  "forks": 55
 }
