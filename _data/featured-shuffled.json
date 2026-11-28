@@ -1,146 +1,146 @@
 [
   {
-    "repo": "f/textream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
-  },
-  {
-    "repo": "iliya-Developer/VortexL2",
+    "repo": "jmedina21/deck-as-controller",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "vllm-project/aibrix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
-  },
-  {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "vitejs/vite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
-  },
-  {
-    "repo": "Eul45/omni-search",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
-  },
-  {
-    "repo": "NV404/gova",
-    "branch": "main",
-    "language": "Go",
-    "description": "declarative GUI framework for Go"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "repo": "ultralytics/yolov5",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
   },
   {
-    "repo": "Rohit24567/HyperLiquid-Claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
-  },
-  {
-    "repo": "dengxianghua888-ops/ecoalign-forge",
+    "repo": "timuronlinq/messari-crack",
     "branch": "main",
     "language": "Python",
-    "description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对"
+    "description": "Messari crack"
   },
   {
-    "repo": "op7418/Claude-to-IM",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
-  },
-  {
-    "repo": "johnlindquist/pi-emphasis",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant replies are easy to scan"
-  },
-  {
-    "repo": "bytedance/semi-design",
+    "repo": "dair-ai/ML-YouTube-Courses",
     "branch": "main",
     "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
+    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
   },
   {
-    "repo": "PsiACE/skills",
+    "repo": "ytdl-org/youtube-dl",
+    "branch": "master",
+    "language": "Python",
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
+  },
+  {
+    "repo": "emberjs/ember.js",
     "branch": "main",
-    "language": "HTML",
-    "description": "A small, shared skill library by builders, for builders."
+    "language": "TypeScript",
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
   },
   {
-    "repo": "RightNow-AI/openfang",
+    "repo": "Mufeedvh/Code2Prompt",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source Agent Operating System"
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
   },
   {
-    "repo": "afumu/openteam",
+    "repo": "hxu296/tariff",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repository for tariff"
+  },
+  {
+    "repo": "sindresorhus/awesome-nodejs",
+    "branch": "main",
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
+  },
+  {
+    "repo": "angular/angular-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A Chrome extension for orchestrating local AI-agent team workflows across web AI services."
+    "description": "CLI tool for Angular"
   },
   {
-    "repo": "golang/go",
+    "repo": "plausible/analytics",
     "branch": "master",
-    "language": "Go",
-    "description": "The Go programming language"
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
   },
   {
-    "repo": "jenkinsci/jenkins",
+    "repo": "pytorch/vision",
+    "branch": "main",
+    "language": "Python",
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
+  },
+  {
+    "repo": "apache/flink",
     "branch": "master",
     "language": "Java",
-    "description": "Jenkins automation server"
+    "description": "Apache Flink"
   },
   {
-    "repo": "Michaelliv/pi-generative-ui",
+    "repo": "styled-components/styled-components",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
   },
   {
-    "repo": "suyancc/openai-plus-vxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
-  },
-  {
-    "repo": "openai/openai-python",
+    "repo": "google-deepmind/graphcast",
     "branch": "main",
     "language": "Python",
-    "description": "The official Python library for the OpenAI API"
+    "description": "Deep learning weather model from Google DeepMind."
   },
   {
-    "repo": "bedriyan/medkit-app",
+    "repo": "vibeforge1111/keep-codex-fast",
+    "branch": "main",
+    "language": "Python",
+    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
+  },
+  {
+    "repo": "Kindness-Kismet/One-Player",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "增强的 Android 视频播放器"
+  },
+  {
+    "repo": "vxcozy/flappyboards",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+    "description": "Turn any TV into a retro split-flap display. Free & open source."
   },
   {
-    "repo": "react-native-device-info/react-native-device-info",
+    "repo": "espressif/esp-idf",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
+    "language": "C",
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
   },
   {
-    "repo": "FrankDavis236869/spyder-osint",
+    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplayer at the speed of light"
+  },
+  {
+    "repo": "pluk-inc/md-preview.app",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A simple Markdown viewer for reading .md files"
+  },
+  {
+    "repo": "ProjectKumo/KumoApp",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
+  },
+  {
+    "repo": "ChristianJR19/byteview",
     "branch": "main",
     "language": "Python",
-    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
+    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
   }
 ]
